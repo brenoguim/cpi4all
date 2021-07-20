@@ -14,7 +14,7 @@ A tabela no site possui a seguinte estrutura:
 
 Esses links levam ao download de arquivos PDF com os documentos em questão.
 
-Nesse repositorio você podera encontrar a versão txt desses arquivos. O nome do arquivo nesse repositorio é formado por <No>_<numero do link>.
+Nesse repositorio você podera encontrar a versão txt desses arquivos. O nome do arquivo nesse repositorio é formado por `<No do documento>_<numero do link>`.
 Por exemplo:
 
   link1 = 1_1 porque ele é relativo ao arquivo No 1, e é o primeiro link.
@@ -22,8 +22,17 @@ Por exemplo:
   link2 = 2_1 porque ele é relativo ao arquivo No 2, e é o primeiro link dessa linha.
 
   link3 = 2_2 porque ele é relativo ao arquivo No 2, e é o segundo link da linha.
-
+  
 A versão texto de todos os documentos está na pasta database/txts/.
+
+Exemplos:
+
+[Arquivo No 1, primeiro link: 1_1](database/txts/1_1.txt)
+
+[Arquivo No 4, quarto link: 3_4](database/txts/3_4.txt)
+
+
+
 
 Nota 1: Nem todos os arquivos foram convertidos ainda
 
