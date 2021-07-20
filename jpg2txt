@@ -1,0 +1,21 @@
+#/bin/bash
+set -e
+
+from=$(readlink -f $1)
+to="${PWD}/$2"
+echo "@@@@@@@@@@@@@@@@@@@@@@@@@"
+echo "Converting $from to $to"
+if [ -f $to ]
+then
+    echo "By the way, $to already exists"
+fi
+echo "@@@@@@@@@@@@@@@@@@@@@@@@@"
+
+tmp=$(mktemp -d -t ci-XXXXXXXX)
+cd $tmp
+
+tesseract -l por --dpi 100 $from to
+
+echo "Writing to $(find -name '*.txt') to $to"
+cat *.txt > $to
+rm -rf $tmp

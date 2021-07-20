@@ -1,0 +1,20 @@
+#/bin/bash
+set -e
+
+from=$(readlink -f $1)
+to="${PWD}/$2"
+echo "@@@@@@@@@@@@@@@@@@@@@@@@@"
+echo "Converting $from to $to"
+if [ -f $to ]
+then
+    echo "By the way, $to already exists"
+fi
+echo "@@@@@@@@@@@@@@@@@@@@@@@@@"
+
+tmp=$(mktemp -d -t ci-XXXXXXXX)
+cd $tmp
+
+EXT=jpg
+convert -flatten -density 100 -trim -quality 100 -sharpen 0x1 $from as_image.$EXT
+mv as_image.$EXT $to
+rm -rf $tmp
