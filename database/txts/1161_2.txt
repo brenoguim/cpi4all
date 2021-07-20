@@ -1,22 +1,24 @@
-TCU TRIBUNAL DE CONTAS DA UNIÃO TC 015.749/2021-5
-ACÓRDÃO Nº 1413/2021 — TCU - Plenário
+To TRIBUNAL DE CONTAS DA UNIÃO TC 015.:749/2021-5
+ACÓRDÃO Nº 1413/2021 — TCU — Plenário
 
-- Processo TC 015.749/2021-5.
+. Processo TC 015.749/2021-5.
 
-- Grupo I— Classe de Assunto: II — Solicitação do Congresso Nacional.
+. Grupo 1 Classe de Assunto: II - Solicitação do Congresso Nacional.
 
 . Interessados/Responsáveis: não há.
 
-Órgão: Ministério da Saúde.
+. Órgão: Ministério da Saúde.
 
-Relator: Ministro Vital do Rêgo.
+. Relator. Ministro Vital do Rêgo.
 
 . Representante do Ministério Público: não atuou.
 
-Unidade Técnica: Secretaria de Fiscalização em Tecnologia da Informação (Sefti).
+. Unidade Técnica: Secretaria de Fiscalização em Tecnologia da Informação (Sefti).
 . Representação legal: não há.
 
-ANUAL
+ 
+
+cnanpwnm
 
 9. Acórdão:
 
@@ -26,12 +28,12 @@ apresentada sob a forma de requerimento formulado no âmbito da Comissão Parlam
 encaminhado a esta Corte pelo Senador Omar Aziz, Presidente da mencionada CPI;
 
 ACORDAM os Ministros do Tribunal de Contas da União, reunidos em Sessão do
-Plenário, ante as razões expostas pelo Relator, em:
+Plenário, ante as razões expostas pelo Relator, e
 
 9.1. conhecer da presente solicitação, com fundamento no art. 71, incisos IV e VII, da
-CF/1988, c/c o art. 38, incisos I e II, da Lei 8.443/1992;
+CF/1988, cfc o art. 38, incisos Le II, da Lei 8.443/1992;
 
-9.2. autorizar a realização de fiscalização na modalidade relatório de inspeção, consoante o
+9.2, autorizar a realização de fiscalização na modalidade relatório de inspeção, consoante o
 disposto no art. 240 do RITCU, no aplicativo TrateCov do Ministério da Saúde, nos termos do que foi
 solicitado pela CPI da Pandemia, em curso no Senado Federal;
 
@@ -45,12 +47,13 @@ Despacho e por intermédio da Presidência do TCU, as informações preliminares
 pela equipe de fiscalização, dada a natureza temporária da mencionada CPI bem como o caráter de
 urgência no processamento desse tipo de solicitação, assegurado pelo art. 231 do RITCU; e
 
-9.5. restituir o processo à Sefti para a adoção das providências a seu cargo.
+9.5, restituir o processo à Sefti para a adoção das providências a seu cargo.
+
+ 
 
 10. Ata nº 21/2021 — Plenário.
 
-11. Data da Sessão: 16/6/2021 — Telepresencial.
-
+11. Data da Sessão: 16/6/2021 — Telepresencial
 12. Código eletrônico para localização na página do TCU na Internet: AC-1413-21/21-P.
 
 13. Especificação do quórum:
@@ -58,18 +61,21 @@ urgência no processamento desse tipo de solicitação, assegurado pelo art. 231
 13.1. Ministros presentes: Ana Arraes (Presidente), Walton Alencar Rodrigues, Benjamin Zymler,
 Aroldo Cedraz, Raimundo Carreiro, Bruno Dantas, Vital do Rêgo (Relator) e Jorge Oliveira.
 
-13.2. Ministro-Substituto convocado: Augusto Sherman Cavalcanti.
+13.2. Ministro-Substiuto convocado: Augusto Sherman Cavalcanti.
 
 13.3. Ministro-Substituto presente: Marcos Bemquerer Costa.
 
-(Assinado Eletronicamente) (Assinado Eletronicamente)
-ANA ARRAES VITAL DO REGO
-Presidente Relator
-Fui presente:
+   
 
-(Assinado Eletronicamente)
+(Assinado Eletronicamente) (Assinado Eketronicamente)
+ANA ARRAES VITAL DO RÊGO
+Presidente Relator
+
+Fui presente:
+(Assinado Eketronicamente)
+
 LUCAS ROCHA FURTADO
 Procurador-Geral, em exercício
 
-Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 68205374.
+Para verificar as assinaturas, acesse wwnw.tcu.gov br/autenticidade, informando o código 68205374.
 

@@ -1,6 +1,16 @@
-GOVERNO DO ESTADO DA BAHIA
-Secretaria da Saúde do Estado da Bahia - SESAB
+AMEÉ| GOVERNO DO ESTADO DA BAHIA
+Secretaria da Saúde do Estado da Bahia - SESAB.
 Superintendência de Assistência Farmacêutica, Ciência e Tecnologias em Saúde - SAFTEC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -10,18 +20,16 @@ Termo de Fornecimento - Tocilizumabe
 
 Secretaria da Saúde do Estado da Bahia
 
-IRazão Social: Secretaria de Saúde do Estado da Bahia CNPJ: 05816630000152
+[Razão Social: Secretaria de Saúde do Estado da Bahia CNP: 05816630000152
 Endereço: Rua Antônio Andrade, 241. Porto Seco Pirajá
 
-CEP: 41.233-015 Cidade: Salvador UF: BA
+CEP: 41.233.015 Cidade: Salvador UF: BA
 
 Nome do contato:
 
-[Tel.: 3115-4383 Fax:
+el: 3115-4389 Fax:
 
-e-mail: dasf.diretoriaQsaude.ba.gov.br e-mail 2: luiz.dutraQsaude.ba.gov.br
-
- 
+f-maili: dast.diretoriaQOsaude.ba.gov.br e-mail 2: luiz dutraQsaude.ba.gov.br
 
  
 
@@ -35,14 +43,12 @@ Unidade Solicitante
 
  
 
- 
-
-IRazão Social: CNPJ:
+[Razão Social: CNPJ:
 Endereço:
-CEP: Cidade: UF:
-Nome do contato:
-ITel.: Fax:
-e-mail 1 : E-mail 2:
+cep: Cidade: ur:
+INome do contato:
+fet: Fax:
+femaita : E-mail:
 Medicamentos Solicitado Quantidade (ampolas)
 Tocilizumabe 20 mg/ml, 10 ml, 200mg XX
 
@@ -52,14 +58,14 @@ Tocilizumabe 20 mg/ml, 10 ml, 200mg XX
 
  
 
-Responsável - SESAB
+Fesponsável- SESAB
 
  
 
-Setor: Superintendência de Assistência Farmacêutica, Ciência e Tecnologia em Saúde - SAFTEC
+fBstor: Superintendência de Assistência Farmacêutica, Ciência e Tecnologia em Saúde - SAFTEC
 
 Responsável: Luiz Henrique Gonzales d'Utra
-Tel: 71 3115 4179 Email: luiz.dutraQsaude.ba.gov.br
+el:71 3115 4179 Email: luiz. dutraQsaude.ba. gov.br
 
 Assinatura e carimbo/Data
 
@@ -67,7 +73,7 @@ Assinatura e carimbo/Data
 
  
 
-Responsável-Instituição Solicitante
+Responsável-nstiuição Solicitante
 
  
 
@@ -79,7 +85,8 @@ Assinatura e carimbo/Data
  
 
 Declaro ter ciência do Protocolo desse medicamento, estabelecido pelo Intituto Couto Maia e que
-o paciente: se enquadra nos critérios do referido
+opaciente: se enquadra nos critérios do referido
+
 protocolo.
 
 Médico Assistente ou Diretor Médico
@@ -92,5 +99,5 @@ Assinatura e carimbo/Data
  
 
 Superintendência de Assistência farmacêutica, Ciência e Tecnologias em Saúde / DASF
-4? Avenida Plataforma Vl lado B Centro Administrativo, Salvador-Bahia CEP: 41.750-300
+4º Avenida Plataforma VI lado B Centro Administrativo, Salvador-Bahia CEP: 41.750-300
 
