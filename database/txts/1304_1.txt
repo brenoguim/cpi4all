@@ -1,21 +1,27 @@
-CPI da Pandemia
+CPI da Pandemi:
 
  
 
-De: PMPA/Gabinete do Secretário - SMS <gabineteseiOsms.prefpoa.com.br>
+ 
+
+ 
+
+D PMPA/Gabinete do Secretário - SMS <gabineteseidsms.prefpoa.com.br>
 Enviado em: terça-feira, 29 de junho de 2021 10:58
 
 Para: CPI da Pandemia
 
-Assunto: Acesso Externo ao Processo SEI 21.0.000042732-0
+Assunto: Acesso Extemo ao Processo SEI 21.0.000042732-0
+
+ 
 
 Essa mensagem fornece acesso ao Processo Administrativo Nº 21.0.000042732-0 do Sistema Eletrônico de
 Informações da Prefeitura Municipal de Porto Alegre e é destinada para CPI Pandemia.
 
 O acesso será válido até 29/07/2021 e poderá ser realizado através do link abaixo:
 
-https://sei.procempa.com.br/sei/processo, acesso externo, consulta.php?id acesso externo=603589&infra hash=
-c9afo5dd84dffa39e6fc5e14462c5af6
+https://sei.procempa.com.br/sei/processo, acesso, externo, consulta. php?id acesso, externo=6035898infra. hash=
+cSafóSddBadffa39e6fc5e14462c5af6
 
 ATENÇÃO: A informação contida nesta mensagem de e-mail, incluindo quaisquer anexos, pode ser confidencial e
 estar reservada apenas à pessoa ou entidade para a qual foi endereçada. Se você não é o destinatário ou a pessoa
@@ -25,5 +31,5 @@ tenha recebido esta mensagem por engano, por favor, contate o remetente imediata
 mensagem de seu computador ou de qualquer outro banco de dados.
 
 Prefeitura Municipal de Porto Alegre
-www .portoalegre.rs.gov.br
+www.portoalegre.rs.gov.br
 
