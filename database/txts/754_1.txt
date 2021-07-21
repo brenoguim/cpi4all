@@ -1,6 +1,6 @@
-08/06/2021 SEI/GOV-PI - 1680651 - Ofício
+08/06/2021 SEIGOV.PI - 1680851 - Oficio
 
-c) valor unitário pago: R$ 130,00 (cento e trinta reais), totalizando o quantitativo de recursos voluntários
+€) valor unitário pago: R$ 130,00 (cento e trinta reais), totalizando o quantitativo de recursos voluntários
 transferidos pela União em R$ 6.712.556,37 (seis milhões, setecentos e doze mil, quinhentos e cinquenta e
 seis reais e trinta e sete centavos).
 
@@ -13,6 +13,8 @@ Inquérito Epidemiológico por Amostragem no Estado do Piauí.
 
 Além disso, os testes também são distribuídos aos municípios e Unidades Hospitalares.
 
+ 
+
 Desta forma, esta SESAPI não mede esforços para controlar a Covid-19 no Estado do Piauí e
 através da aquisição dos testes, foi permitido que ações, como o Programa Busca Ativa, ajudassem a
 controlar a disseminação da doença no Estado.
@@ -21,36 +23,33 @@ Ao tempo em que nos colocamos à disposição para eventuais esclarecimentos que
 façam necessários, renovamos expressões de estima e consideração.
 
 Atenciosamente,
+
 (assinado eletronicamente)
 
 Florentino Alves Veras Neto
-
 Secretário de Estado da Saúde do Piauí
 
  
-    
+
+Documento assinado eletronicamente por FLORENTINO ALVES VERAS NETO - Matr.0338871-9,
+Secretário de Estado da Saúde, em 02/06/2021, às 19:05, conforme horário oficial de Brasília, com
+fundamento no Cap. Ill, Art. 14 do Decreto Estadual nº 18.142, de 28 de fevereiro de 2019.
+
+sei
+
+     
+  
+
  
-  
-
-seil Documento assinado eletronicamente por FLORENTINO ALVES VERAS NETO - Matr.0338871-9,
-Dado É Secretário de Estado da Saúde, em 02/06/2021, às 19:05, conforme horário oficial de Brasília, com
-
-assinatura
-
-eletrônica fundamento no Cap. III, Art. 14 do Decreto Estadual nº 18.142, de 28 de fevereiro de 2019.
-
-= [e]
-
-  
 
  
 
 A autenticidade deste documento pode ser conferida no site
+https://sei ni gov.br/sei/controlador externo.php?
+acao=documento confeririid orgao acesso externo=0, informando o código verificador 1680651 e
+o código CRC 4001CEDA.
 
-https://sei.pi.gov.br/sei/controlador externo.php?
-
-acao=documento conferir&id orgao acesso externo=0, informando o código verificador 1680651 e
-FekLF O código CRC 4001CED1.
+ 
 
  
 
@@ -60,5 +59,5 @@ FekLF O código CRC 4001CED1.
 
 Referência: Caso responda este Ofício, indicar expressamente o Processo nº 00012.004136/2021-92 SEI nº 1680651
 
-file:///U:/COCETI/CPWCPIPANDEMIA/documentos recebidos/docs baixados/doc 753 a 761 SES PI ostensivo/754/0ficio 1680651.html 212
+fle:MU/COCETUCPCPIPANDEMIAdocumentos recebidosídocs beixados/doc 753 a 761 SES PI ostensivol?S4/Oficio. 1680651.html 2
 

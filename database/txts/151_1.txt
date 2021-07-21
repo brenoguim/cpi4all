@@ -1,10 +1,6 @@
-12/05/2021
+1205/2021
 
-SER 6
-
-eletrônica
-
-SEI/SEARH - 9560011 - Ofício - GAC
+SENSEARH - 955004 - Ofício - GAC.
 
     
 
@@ -12,9 +8,15 @@ SEI/SEARH - 9560011 - Ofício - GAC
 
 janeiro de 2018.
 
-      
-     
  
+     
+
+https://seirn.goubr /sei/controlador externo.php?
+
+acao=documento, conferir&iid orgao. acesso, externo=0, informando o código verificador 9560011 e o
+código CRC 04695E75.
+
+  
 
  
 
@@ -22,5 +24,5 @@ janeiro de 2018.
 
 Referência: Processo nº 00810028.002196/2021-11 SEI nº 9560011
 
-https://seim.gov.briseilcontrolador.php?acao=documento. imprimir web&acao, origem=arvore. visualizar&id documento=107350288infra siste... 2/2
+hps:seirm gov brseilcontrolador php? acao =documonto. imprimir wob&acao origem=anvore, visualizarBid, documentos 1073502BBinfra sisto... 22
 

@@ -1,7 +1,5 @@
-acao=documento conferir&id orgao acesso externo=0, informando o código verificador
-FE 0021358330 e o código CRC 34635052.
-
- 
+ji acao=documento conferir&id orgao acesso externo=0, informando o código verificador
+0021358330 e o código CRC 34635052.
 
  
 
@@ -11,8 +9,8 @@ FE 0021358330 e o código CRC 34635052.
 
 Referência: Processo nº 33408.096422/2021-81 SEI nº 0021358330
 
-Hospital Federal da Lagoa - HFL
-Rua Jardim Botânico, nº 501 - 10º andar - Bairro Jardim Botânico, Rio de Janeiro/RJ, CEP 22470-050
+Hospital Federal da Lagoa HFL
+Rua Jardim Botânico, nº 501 - 10% andar -Bairro Jardim Botânico, Rio de Janeiro/RJ, CEP 22470-050
 site
 
 especifica para atuação nos leitos destinados aos pacientes com COVID-19, ocorrida em abril de 2021,
@@ -30,7 +28,7 @@ manutenção predial e de equipamento, limpeza, lavanderia e alimentação, vigi
 inclusive contratos de terceirização, entre outros, no período compreendido entre 01/01/2017 até a
 presente data, informamos que os mesmos estão sendo apresentados por meio de disponibilização de
 link em razão do tamanho dos arquivos, que inviabiliza seu encaminhamento por mensagem
-eletrônico, estando dispostos na pasta de documentos denominada “Contratos HFL 2017/2021”.
+eletrônico, estando dispostos na pasta de documentos denominada “Contratos HFL 2017/2021".
 
 Já em relação aos “contratos de insumos” também solicitados, considerando a inexistência
 de instrumentos contratuais na aquisição de materiais de tal natureza, em conformidade com o que
@@ -42,25 +40,31 @@ data, dispostas na pasta de documentos denominada “Notas de Empenho HFL 2017/2
 Sem mais no momento, permanecemos à disposição dessa r. Comissão Parlamentar de
 Inquérito para os demais esclarecimentos que eventualmente sejam necessários.
 
+ 
+
 Atenciosamente,
 
 MARCELO GORGULHO COSENTINO
 Diretor Substituto
+
 Hospital Federal da Lagoa
 Portaria DISTEC/SAA nº 769, de 18 de julho de 2019
 
-il
-sei!
-eletrônica
+ 
 
-      
+     
 
-Documento assinado eletronicamente por Marcelo Gorgulho Cosentino, Diretor(a) do Hospital
-Federal da Lagoa substituto(a), em 29/06/2021, às 12:05, conforme horário oficial de Brasília, com
-fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
-900 de 31 de Março de 2017.
+sell sa
 
  
+
+Documento assinado eletronicamente por Marcelo Gorgulho Cosentino, Diretor(a) do Hospital
+Federal ca Lagoa substituto(a), em 29/06/2021, às 12:05, conforme horário oficial de Brasília, com
+
+fundamento no art. 6º, 5 18, do Decreto nº 8,539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
+900 de 31 de Março de 2017,
+
+      
 
 A autenticidade deste documento pode ser conferida no site
 

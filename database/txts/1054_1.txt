@@ -1,0 +1,10 @@
+4 páginas - Datas e horários baseados em Brasília, Brasil
+45 DASign Sincronizado com o NTP.br e Observatório Nacional (ON) nt I
+Certificado de assinaturas gerado em 21 de junho de 2021, 16:04:13
+
+Esse log pertence única e exclusivamente aos documentos de HASH acima
+
+Esse documento está assinado e certificado pela DáSign
+
+ 
+
