@@ -1,21 +1,24 @@
-15/06/2021 SEI/GOVERNADORIA - 000021278484 - Ofício
+SEMGOVERNADORIA - 000021278484 - Oficio
 
-tenle] acao=documento conferir&id orgao acesso externo=1 informando o código verificador
-000021278464 e o código CRC B7560ABE.
-
+ 
   
 
-AV. SC 1 299 - Bairro PARQUE SANTA CRUZ - CEP 74860-270 - GOIANIA/GO
+ 
 
-A AA
+Jocumento, conferir&id orgao, acessa, externo=[ informando o código verificador
+É UOU021278464 e 0 código CRC B7SG0ABE.
 
-Referência: Processo nº 202118037002337 SEI 000021278464
+ 
+
+AV. SC 1 299- Balrra PARQUE SANTA CRUZ - CEP 7860-270 -GOANIA/GO
+
+AA DA
+
+Referência: Processo nº 202118037002337 SEI DO0021278464
 
  
 
  
 
- 
-
-https:/fsei.go.gow.briseilcontrolador php ?acao=documento. imprimir. web&acao, origem=arvore. visualizar&id documento=2607666G&infra siste... 2/2
+iupssiseigo gom Uriseiicontroladorpinafaao= documento imprimir swebBacao origer=arvore, visualzar&iel documento=260/6666&irita. siste.
 

@@ -1,5 +1,3 @@
- 
-
 SERVIÇO PÚBLICO FEDERAL
 MISP - POLÍCIA FEDERAL
 DELEGACIA REGIONAL DE INVESTIGAÇÃO E COMBATE AO CRIME ORGANIZADO - DRCOR/SR/PF/RR
@@ -10,8 +8,8 @@ Processo: 08485.003071/2021-11
 
 Interessado: CPI - Pandemia
 
-1. Ao cartório DRCOR para encaminhamento do inteiro teor deste SEI ao requerente, em
-formato digital, por meio do e-mail sec.cpipandemiaQ senado.leg.br.
+1 Ao cartório DRCOR para encaminhamento do inteiro teor deste SEI ao requerente, em
+formato digital, por meio do e-mail sec.cpipandemiadsenado.leg.br.
 
 Adolpho Hugo de Albuquerque Pereira
 Delegado de Polícia Federal
@@ -19,74 +17,62 @@ DRCOR/SR/PF/RR em Exercício
 
  
 
-= 7]
-sei! à
-
-assinatura
-eletrônica
-
+ 
+     
     
+  
 
 Documento assinado eletronicamente por ADOLPHO HUGO DE ALBUQUERQUE PEREIRA,
 Delegado(a) Regional de Investigação e Combate ao Crime Organizado, em 07/06/2021, às
-19:13, conforme horário oficial de Brasília, com fundamento no art. 6º, & 1º, do Decreto nº
+19:13, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº
 8.539, de 8 de outubro de 2015.
 
-   
-
- 
-
- 
-
-[a] A autenticidade deste documento pode ser conferida no site
-E http://sei.dpf.gov.br/sei/controlador externo.php?
-
-Ir4 acao=documento conferir&id orgao acesso externo=0, informando o código verificador
-fé 19026794 e o código CRC F9CDBCBE.
-
   
-   
+
+ 
+
+autenticidade deste documento pode ser conferida nosite
+É http://sei.dpf.gov.br/sei/controlador externo.php?
+
+acao=documento conferirêid orgao acesso, externo=0, informando o código verificador
+
+Ee 19026794 e o código CRC FSCDBCBE.
+o
+
  
 
  
 
- 
+Referência: Processo nº 08485,005071/2021-11 SEInº 19026794
 
- 
-
-Referência: Processo nº 08485.003071/2021-11 SEI nº 19026794
-
- 
-
-Documento assinado eletronicamente por BRUNO CAMPOS DONA, Delegado(a) de Polícia
-Federal, em 07/06/2021, às 11:33, conforme horário oficial de Brasília, com fundamento no art.
-6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
-
-cail
-Sell a
-assinatura
-eletrônica
-
+      
    
 
- 
+( seil ” | Documento assinado eletronicamente por BRUNO CAMPOS DONA, Delegado(a) de Polícia
+El.
 
- 
+Dane, É | Federal, em 07/06/2021, às 11:33, conforme horário oficial de Brasília, com fundamento no art.
+dleônia — )6º, 61º, do Decretone
 
    
+
+539, de 8 de outubro de 2015.
+
  
+
+E autenticidade deste documento pode ser conferida nosite
+hitp://sei dpf.gov.br/sei/controlador externo.php?
+
+acao=documento conferirid orgao acesso, externo=0, informando o código verificador
+
+é 19013264 e o código CRC ES7ADDSS.
+o
 
  
 
  
 
- 
-
- 
-
- 
-
-Referência: Processo nº 08485.003071/2021-11 SEI nº 19013264
+Referência: Processo nº 08485.005071/2021-11 SEInº 19013264
 
 deflagração da operação DESVID-19 no ano de 2020. Contudo, atualmente, o inquérito se encontra sob
 

@@ -1,22 +1,22 @@
-12/05/2021
+1205/2021
 
-SER 6
+SEISEARH - 9580022. Oficio - GAC|
 
-eletrônica
-
-SEI/SEARH - 9560022 - Ofício - GAC
-
-      
-     
- 
+    
 
  
 
 janeiro de 2018.
 
-    
-
  
+     
+
+https://seirn.goubr /sei/controlador externo.php?
+
+acao=documento, conferir&iid orgao. acesso, externo=0, informando o código verificador 9560022 e o
+código CRC F2OBI3AE.
+
+  
 
  
 
@@ -24,5 +24,5 @@ janeiro de 2018.
 
 Referência: Processo nº 00810028.002205/2021-74 SEI nº 9560022
 
-https://seim.gov.briseilcontrolador.php?acao=documento. imprimir web&acao, origem=arvore. visualizar&id documento=107350408infra siste... 2/2
+hlps:seirm gov brseilcontrolador php? acao =documonto. imprimir wob&acao origem=anvore, visualizarBid, documentos 107350408infra sisto... 22
 

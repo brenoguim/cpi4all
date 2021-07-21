@@ -1,20 +1,19 @@
-02/07/2021 SEI/MS - 0021437817 - Ofício
+oziori20m SEUMS - 0021437817 - Oficio
+
+[E] acao=documento. conferir&id orgao acesso. externo=0, informando o código verificador
+3 0021437817 e o código CRC 50944454.
+
+  
 
  
 
  
 
- 
-
- 
-
- 
-
-Referência: Processo nº 25000.083666/2021-59 SEI nº 0021437817
-
+Referência: Processo nº 25000,083666/2021-59] SEI nº 0021437817
 Assessoria Parlamentar - ASPAR
-Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
-Site - saude.gov.br
 
-https://sei.saude.gov.br/sei/controlador. php ?acao=documento, imprimir. web&acao. origem=arvore visualizar&id documento=233576448infra si... 2/2
+Esplanada dos Ministérios, Bloco G -Baitro Zona Cívico- Administrativa, Brasília/DF, CEP 70058-900
+Site - saude goubr
+
+hips:fiseisaudo goubriseilcontrolador php?acao= documento imprimir. web&acao, ofigemsanvoro visualizar&ia, documentos23357644ginfra si. 212
 
