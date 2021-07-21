@@ -1,87 +1,93 @@
-64,
-
 65.
 
-66.
+o.
 
-67.
+A
 
-68.
+es.
 
-9.
+es,
 
-To.
+70.
 
-71.
+n
 
-72,
+72
 
 73.
 
-7a.
+7a
 
 75.
 
-Raoult D. Full-length title: Early treatment of COVID-19 patients with hydroxychloroquine and azithromycin: A
-retrospective analysis of 1061 cases in Marseille, France. Travel Med Infect Dis. May 2020:101738.
-doi:10.1016/.tmaid.2020.101738.
+Raoult D. Full-length tile: Eariy treatment of COVID-19 patients with hydroxychloroquine and azithromyein: À
+reirospective analysis of 1061 cases in Marseille, France, Travel Mod Infect Dis. May 2020:101738.
+doi:10.1016/) Imaid.2020.101738.
 
-Gendelman O, Amital H, Bragazzi NL, Watad A, Chodick G. Continuous hydroxychloroquine or colchicine
-therapy does not prevent infection with SARS-CoV-2: Insights from a large healthcare database analysis.
-Autoimmun Rev. May 2020:102566. doi:10.1016/) autrev.2020.102566.
+Gendelman O, Amital H, Bragazzi NL, Watad A, Chodick G. Continuous hydroxychloroquine or colohicine
+therapy does not prevent infection wilh SARS-CoV-Z: Insights from a large heallheare database analysis.
+Autoimmum Rev. May 2020:102586. d0i:10.1016j autrev.2020.102586,
 
-Mathian A, Mahevas M, Rohmer J, Roumier M, Cohen-Aubart F, Amador-Borrero B, Barrelet A, Chauvet C,
-Chazal T, Delahousse M, Devaux M, Euvrard R, Fadlallah J, Florens N, Haroche J, Hié M, Juillard L, Lhote R,
-Maillet T, Richard-Colmant G, Palluy JB, Pha M, Perard L, Remy P, Rivigre E, Sêne D, Sêve P, Morélot-
-Panzini C, Viallard J-F, Virot J-S, Benameur N, Zahr N, Yssel H, Godeau B, Amoura Z. Clinical course of
-coronavirus disease 2019 (COVID-19) in a series of 17 patients with systemic lupus erythematosus under
-long-term treatment with hydroxychloroquine. Ann Rheum Dis. April 2020. doi:10.1136/annrheumdis-2020-
-217566.
+ 
 
-Vastarella M, Patri A, Annunziata MC, Cantelli M, Nappa P, Tasso M, Costa L, Caso F, Fabbrocini G. Journal
-Pre-proof Can hydroxychloroquine be useful in the prevention of COVID-19? An Italian survey in
-dermatological and rheumatological patients already under treatment. J Am Acad Dermato!. 2020.
-doi:10.1016/ jaad.2020.04.136.
+Mathian A, Mahevas M, Rohmer d, Roumier M, Cohen-Aubart F, Amador-Borrero B, Barrelet A, Chauvet C,
+Chazal T, Delahousse M, Devaux M, Euvrard R, Fadlallah J, Florens N, Haroche d, Hié M, Juara L, Lhote R,
+Maillet T, Richard-Colmant G, Palluy JB, Pha M, Perard L, Remy P, Riviêre E, Sêne D, Sêve P, Morélot-
+Panzini €, Viallard J-F, Virot J-S, Benameur N, Zahr N, Yssel H, Godeau B, Amoura Z. Clinical course of
+coronavirus disease 2019 (COVID-19) in a series of 17 patients with systemic lupus erylhematosus under
+Jong-term treatment with hydroxychloroquine, Ann Reu Dis. April 2020. doi:10.1138/annrheumdis-2020-
+217566,
 
-Monti S, Balduzzi S, Delvino P, Bellis E, Quadrelli VS, Montecucco C. Clinical course of COVID-19 in a series
-of patients with chronic arthritis treated with immunosuppressive targeted therapies. Ann Rheum Dis.
-2020;79(5):667-668. doi:10.1136/annrheumdis-2020-217424.
+Vastarella M, Patri A, Annunziata MC, Cantelli M, Nappa P, Tasso M, Costa L, Caso F, Fabbrocini G. Joumal
+Pre-proof Can hydroxyohioroquine be useful in the prevention of COVID-19? An Italian survoy in
+dermatological and rheumatological patients already under treatment, 4 Am Acad Dermaio!. 2020.
+doi;10.1016) jaad.2020.04.136.
 
-Konig MF, Kim AH, Scheetz MH, Graef ER, Liew JW, Simard J, Machado PM, Gianfrancesco M, Yazdany J,
-Langguth D, Robinson PC. Baseline use of hydroxychloroquine in systemic lupus erythematosus does not
-preclude SARS-CoV-2 infection and severe COVID-19. Ann Rheum Dis. May 2020.
-doi:10.1136/ANNRHEUMDIS-2020-217690.
+Monti S, Batduzzi 8, Delvino P, Belis E, Quadreli VS, Montecucco C. Clinical course of COVID-1S in a series
+of patients with chronic arthritis treated with immunosuppressive targeted therapies. Ann Rhheum Dis.
+2020;79(5):667-868. doi:10.1136/annrheumáis-2020-217424.
 
-Chen Z, Hu J, Zhang Z, Jiang S, Han S, Yan D, Zhuang R, Hu B, Zhang Z. Efficacy of hydroxychloroquine in
-patients with COVID-19: results of a randomized clinical trial. medRxiv. April 2020:2020.03.22.20040758.
-doi:10.1101/2020.03.22.20040758.
+ 
 
-Carlucci PM, Ahuja T, Petrilli C, Rajagopalan H, Jones S, Rahimian J, Org JR. Hydroxychloroquine and
-azithromycin plus zinc vs hydroxychloroquine and azithromycin alone: outcomes in hospitalized COVID-19
-patients, doi:10.1101/2020.05.02.20080036.
+ 
 
-Huang M, LiM, Xiao F, Liang J, Pang P, Tang T, Liu S, Chen B, Shu J, You Y, Li Y, Tang M, Zhou J, Jiang G,
-Xiang J, Hong W, He S, Wang Z, Feng J, Lin C, Ye Y, Wu Z, Li Y, Zhong B, Sun R, Hong Z, Liu J, Chen H,
-Wang X, Li Z, Pei D, Tian L, Xia J, Jiang S, Zhong N, Shan H. Preliminary evidence from a multicenter
-prospective observational study of the safety and efficacy of chloroquine for the treatment of COVID-19.
-medRxiv. May 2020:2020.04.26.20081059. doi:10.1101/2020.04.26.20081059.
+Konig MF, Kim AH, Scheetz MH, Grasf ER, Licw JW, Simard J, Machado PM, Glanfrancesco M, Yazdany d,
+Langguth D, Robinson PC. Baselino use of hydroxychloroquine in systemic lupus erythematosus does not
+preclude SARS-CoV-2 infection and severe COVID-19, Ann Rheum Dis. May 2020.
+doi-10.1136/ANNRHEUMDIS-2020-217690.
 
-Yu B, Wang DW, Li C. Hydroxychloroquine application is associated with a decreased mortality in critically ill
-patients with COVID-19. medRxiv. May 2020:2020.04.27.20073379. doi:10.1101/2020.04.27.20073379.
+Chen Z, Hu J, Zhang Z, Jiang S, Han 5, Yan D, Zhuang R, HUB, Zhang Z. Efficacy of hydroxychloroquine in
+patients wilh COVID-19: results of a randomized clinical trial. medRxiv. April 2020:2020.03.22.20040758.
+d0i10.1101/2020.03.22.20040758.
 
-Davido B, Lansaman T, Bessis S, Lawrence C, Alvarez J-C, Mascitti H, Bouchand F, Moine P, Perronne V,
-Gal A Le, Annane D, Perronne C, Truchis P De, Team C-19 R. Hydroxychloroquine plus azithromycin: a
-potential interest in reducing in-hospital morbidity due to COVID-19 pneumonia (HI-ZY-COVID)? medRxiv.
-May 2020:2020.05.05.20088757. doi:10.1101/2020.05.05.20088757.
+Garlucei PM, Ahuja T, Petri C, Rajagopalan H, Jones S, Rahimian J, Org JR. Hydroxychloroquine and
+azilhromyoin plus zinc vs hydraxychloroquine and azithromycin alone: outcomes in hospitalized COVID-19
+patients. doi:10.1101/2020.05,02.20080036.
+
+ 
+
+Huang M, Li, Xiao F, Liang 4, Pang P, Tang T, Liu S, Chen B, Shu J, You Y, Li Y, Tang M, Zhou d, Jiang G,
+Xiang J, Hong W, He S, Wang Z, Feng d, Lin G, Ye Y, Wu Z, LiY, Zhong B, Sun R, Hong Z, Liu d, Chen H,
+Wang X, LIZ, Pei D, Tian L, Xia 4, Jiang S, Zhong N, Shan H. Preliminary evidence from a multicenter
+prospectivo observational study of the safety and efficacy of chloroquine Tor the treatment of GOVID-19.
+imedRxiv. May 2020:2020.04.26.20081059. doi:10.1101/2020.04.26.20081059.
+
+Yu B, Wang DW, LiC. Hydroxychloroquine application is associated with a decreased mortality in critical il
+patients with COVID-1S. medfxiv. May 2020:2020.04.27.20073379. doi:10.1101/2020.04.27 20073379.
+
+Davido B, Lansaman T, Bessis S, Lawrence C, Alvarez J-C, MascittiH, Bouchand F, Moine P, Perronne V,
+Gal A Le, Annane D, Perronne C, Truchis P De, Toam C-18 R. Hydroxychloroquine plus azithromyoin: a
+potential interest in reducing in-hospital morbidity due to COVID-19 pneumonia (HI-ZY-COVID)? medfxiv.
+May 2020:2020.05.05.20088757. doi-10.1101/2020.05.05.20088757.
 
 Barbosa Esper R, Souza da Silva R, Teiichi Costa Oikawa F, Machado Castro M, Razuk-Filho A, Benedito
-Batista Junior P, Wilhelm Lotze S, Nunes da Rocha C, de Sá Cunha Filho R, Emanuel Barbosa de Oliveira S,
+Batista Junior P, Wilhelm Lotze S, Nunes da Rocha G, de Sá Cunha Filho R, Emanuel Barbosa de Oliveira S,
 Leitão Ribeiro P, Cristina Vigar Martins V, Silva Braga Bueno F, Ligeiro Gonçalves Esper P, Fagundes
-Parrillo E. Empirica! Treatment with Hydroxychloroquine and Azithromycin for Suspected Cases of COVID-19
+Parto E. Empiical Treatment with Hiyciroxychioroquine and Azilhromyein for Suspected Cases of COVID-19
 Followed-up by Telemedicine.
 
-Novales FJM de, Ramírez-Olivencia G, Estébanez M, Dios B de, Herrero MD, Mata T, Borobia AM, Gutiérrez
-C, Simón M, Ochoa A, Martínez Y, Aguirre A, Alcântara F de A, Fernández-González P, López E, Campos S,
-Navarro M, Ballester LE. Early Hydroxychloroquine Is Associated with an Increase of Survival in COVID-19
+Novales FJM de, Ramírez-Olivoncia G, Estébanez M, Dios B de, Herrero MD, Mata T, Borabia AM, Gutiérrez
+G, Simón M, Ochoa A, Martinez Y, Aguirre A, Alcântara F de A, Fernández-González P, López E, Campos S,
+Navarro M, Ballestor LE. Early Hydroxychloroquine Is Associated with an Increase of Survival in COVID-19
 Patients: An Observational Study. May 2020. doi:10.20944/PREPRINTS202005.0057.V1.
 
