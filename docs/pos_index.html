@@ -1,0 +1,33 @@
+</ul>
+
+<script>
+function myFunction(input) {
+    const filter = input.value.toUpperCase();
+
+    const ul = document.getElementById("myUL");
+    for (const li of ul.getElementsByClassName("document_line")) {
+        const txtValue = li.textContent || li.innerText;
+        if (txtValue.indexOf(filter) > -1) {
+            li.style.visibility = "visible";
+            li.style.height = "auto";
+        } else {
+            li.style.visibility = "hidden";
+            li.style.height = 0;
+        }
+    }
+}
+
+function load() {
+    var input = document.getElementById("myInput")
+    input.addEventListener('keyup', (event) => {
+        if (event.which == 13 || event.key == 13) {
+            event.preventDefault()
+            myFunction(input)
+        }
+    });
+}
+document.addEventListener("DOMContentLoaded", load, false)
+</script>
+
+</body>
+</html>
