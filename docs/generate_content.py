@@ -11,14 +11,15 @@ with open("index.html", 'w') as outf:
     with open("pre_index.html", 'r') as inf:
         outf.write(inf.read())
 
+    outf.write("const data = [");
     for c in content:
-        outf.write('<li><a href="#">\n')
-        outf.write('<ol>\n')
+        outf.write("[");
         for cl in c:
-            outf.write('    <li class="document_line">{}</li>\n'.format(html.escape(cl).rstrip('\n')))
-            #outf.write('    {}\n'.format(html.escape(cl).rstrip('\n')))
-        outf.write("</ol>")
-        outf.write("</a></li>\n")
+            outf.write("'")
+            outf.write(html.escape(cl.rstrip('\n'), True))
+            outf.write("',\n")
+        outf.write("],\n");
+    outf.write("];")
 
     with open("pos_index.html", 'r') as inf:
         outf.write(inf.read())
