@@ -59,58 +59,66 @@ pre_index =  """
 </ul>
 
 <script>
-function myFunction(input) {
+function generateDocumentLines(lines, filter, cid, visible_id) {
+    var linetxt = ""
+    var lineid = 1
+    var skipped = false
+    for (const line of lines) {
+        if (line.indexOf(filter) > -1) {
+            if (skipped) {
+                linetxt += '<tr><td><a href="javascript:expand('+cid+','+visible_id+');">...</a></td><td></td></tr>\\n'
+            }
+            linetxt += "<tr><td>" + lineid.toString() +
+                       "</td><td>" + line + "</td></tr>\\n"
+            skipped = false 
+        } else {
+            skipped = true
+        }
+        lineid += 1
+    }
+    if (skipped && linetxt.length > 0) {
+        linetxt += '<tr><td><a href="javascript:expand('+cid+','+visible_id+');">...</a></td><td></td></tr>\\n'
+    }
+    return linetxt
+}
+
 
 """
 
 pos_index = """
+function myFunction(input) {
     const filter = input.value.toUpperCase();
 
     const ul = document.getElementById("myUL");
 
-    function generateDocumentLines(lines, filter) {
-        var linetxt = ""
-        var lineid = 1
-        var skipped = false
-        for (const line of lines) {
-            if (line.indexOf(filter) > -1) {
-                if (skipped) {
-                    linetxt += "<tr><td>...</td><td></td></tr>\\n"
-                }
-                linetxt += "<tr><td>" + lineid.toString() +
-                           "</td><td>" + line + "</td></tr>\\n"
-                skipped = false 
-            } else {
-                skipped = true
-            }
-            lineid += 1
-        }
-        if (skipped && linetxt.length > 0) {
-            linetxt += "<tr><td>...</td><td></td></tr>\\n"
-        }
-        return linetxt
-    }
-
-
     txt = ""
+    cid = 0
+    visible_id = 0
     for (const doc of data) {
-        var linetxt = generateDocumentLines(doc["txt"], filter)
+        var linetxt = generateDocumentLines(doc["txt"], filter, cid, visible_id)
 
         if (linetxt.length > 0) {
             txt += '<li>'
 
             txt += '<h5>'
+
+            txt += '| <a href="javascript:collapse('+cid+','+visible_id+');">Colapsar</a> '
+            txt += '| <a href="javascript:expand('+cid+','+visible_id+');">Expandir</a> '
             txt += '| <a href="https://legis.senado.leg.br/comissoes/docsRecCPI?codcol=2441">Linha ' + doc["id"] + ', '
                  + 'Documento ' + doc["sub_id"] + '</a> |'
                  + ' <a href="' + doc["link"] + '">PDF</a> |'
             txt += '</h5>'
 
-            txt += '<table>\\n'
+            txt += '<table style="width: 100%">\\n'
+            txt += '<tbody>\\n'
             txt += linetxt
+            txt += '</tbody>\\n'
             txt += '</table>'
 
             txt += '</li>\\n'
+            visible_id += 1
         }
+        cid += 1
     }
     ul.innerHTML = txt;
 }
@@ -125,6 +133,26 @@ function load() {
     });
 }
 document.addEventListener("DOMContentLoaded", load, false)
+
+function expand(id, visible_id) {
+    var ul = document.getElementById("myUL");
+    var li = ul.getElementsByTagName("li")[visible_id];
+    var table = li.getElementsByTagName("table")[0]
+    var tbody = table.getElementsByTagName("tbody")[0]
+    tbody.innerHTML = generateDocumentLines(data[id]["txt"], "", id, visible_id)
+}
+
+function collapse(id, visible_id) {
+    var ul = document.getElementById("myUL");
+    var li = ul.getElementsByTagName("li")[visible_id];
+    var table = li.getElementsByTagName("table")[0]
+    var tbody = table.getElementsByTagName("tbody")[0]
+
+    var input = document.getElementById("myInput")
+    const filter = input.value.toUpperCase();
+    tbody.innerHTML = generateDocumentLines(data[id]["txt"], filter, id, visible_id)
+}
+
 </script>
 
 </body>
