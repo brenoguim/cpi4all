@@ -80,6 +80,9 @@ const data = [{"sub_id": "1", "txt": ["18/06/2021 SEIMS - 0021137818 Oficio\n", 
             }
             lineid += 1
         }
+        if (skipped && linetxt.length > 0) {
+            linetxt += "<tr><td>...</td><td></td></tr>\n"
+        }
         return linetxt
     }
 

@@ -85,6 +85,9 @@ pos_index = """
             }
             lineid += 1
         }
+        if (skipped && linetxt.length > 0) {
+            linetxt += "<tr><td>...</td><td></td></tr>\\n"
+        }
         return linetxt
     }
 
