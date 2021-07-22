@@ -63,8 +63,9 @@ function generateDocumentLines(lines, filter, cid, visible_id) {
     var linetxt = ""
     var lineid = 1
     var skipped = false
+    filter = filter.toUpperCase()
     for (const line of lines) {
-        if (line.indexOf(filter) > -1) {
+        if (line.toUpperCase().indexOf(filter) > -1) {
             if (skipped) {
                 linetxt += '<tr><td><a href="javascript:expand('+cid+','+visible_id+');">...</a></td><td></td></tr>\\n'
             }
@@ -87,7 +88,7 @@ function generateDocumentLines(lines, filter, cid, visible_id) {
 
 pos_index = """
 function myFunction(input) {
-    const filter = input.value.toUpperCase();
+    const filter = input.value;
 
     const ul = document.getElementById("myUL");
 
