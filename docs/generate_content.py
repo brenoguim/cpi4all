@@ -97,9 +97,9 @@ pos_index = """
             txt += '<li>'
 
             txt += '<h5>'
-            txt += '|<a href="https://legis.senado.leg.br/comissoes/docsRecCPI?codcol=2441">Linha ' + doc["id"] + ', '
-                 + 'Documento ' + doc["sub_id"] + '</a>|'
-                 + '<a href="' + doc["link"] + '">PDF</a>|'
+            txt += '| <a href="https://legis.senado.leg.br/comissoes/docsRecCPI?codcol=2441">Linha ' + doc["id"] + ', '
+                 + 'Documento ' + doc["sub_id"] + '</a> |'
+                 + ' <a href="' + doc["link"] + '">PDF</a> |'
             txt += '</h5>'
 
             txt += '<table>\\n'
