@@ -1,5 +1,6 @@
 import html
 import os
+import json
 
 pre_index =  """
 <!DOCTYPE html>
@@ -28,7 +29,7 @@ pre_index =  """
   margin: 0;
 }
 
-#myUL li a{
+#myUL li {
   border: 1px solid #ddd;
   margin-top: -1px; /* Prevent double borders */
   background-color: #f6f6f6;
@@ -39,7 +40,11 @@ pre_index =  """
   display: block
 }
 
-#myUL li a:hover:not(.header) {
+#myUL li h5 {
+  text-align: right
+}
+
+#myUL li :hover:not(.header) {
   background-color: #eee;
 }
 </style>
@@ -62,22 +67,46 @@ pos_index = """
     const filter = input.value.toUpperCase();
 
     const ul = document.getElementById("myUL");
-    txt = ""
-    for (const doc of data) {
+
+    function generateDocumentLines(lines, filter) {
         var linetxt = ""
         var lineid = 1
-        for (const line of doc) {
+        var skipped = false
+        for (const line of lines) {
             if (line.indexOf(filter) > -1) {
+                if (skipped) {
+                    linetxt += "<tr><td>...</td><td></td></tr>\\n"
+                }
                 linetxt += "<tr><td>" + lineid.toString() +
-                           "</td><td>        " + line + "</td></tr>\\n"
+                           "</td><td>" + line + "</td></tr>\\n"
+                skipped = false 
+            } else {
+                skipped = true
             }
             lineid += 1
         }
+        return linetxt
+    }
+
+
+    txt = ""
+    for (const doc of data) {
+        var linetxt = generateDocumentLines(doc["txt"], filter)
 
         if (linetxt.length > 0) {
-            txt += '<li><a href="#"><table>\\n'
+            txt += '<li>'
+
+            txt += '<h5>'
+            txt += '|<a href="https://legis.senado.leg.br/comissoes/docsRecCPI?codcol=2441">Linha ' + doc["id"] + ', '
+                 + 'Documento ' + doc["sub_id"] + '</a>|'
+                 + '<a href="' + doc["link"] + '">PDF</a>|'
+            txt += '</h5>'
+
+            txt += '<table>\\n'
             txt += linetxt
-            txt += '</table></a></li>\\n'
+            txt += '</table>'
+
+            txt += '</li>\\n'
         }
     }
     ul.innerHTML = txt;
@@ -106,20 +135,24 @@ txts = [os.path.join(txts_dir, t) for t in os.listdir(txts_dir)]
 txts = sorted(txts)
 
 for t in txts:
+    c = dict() 
+
     with open(t, 'r') as txtf:
-        content.append(txtf.readlines())
+        c["txt"] = txtf.readlines()
+
+    base_id = os.path.basename(os.path.splitext(t)[0]).split("_")[0]
+    sub_id = os.path.basename(os.path.splitext(t)[0]).split("_")[1]
+
+    c["id"] = base_id
+    c["sub_id"] = sub_id
+
+    with open('../database/rows/{}.json'.format(base_id)) as jfile:
+        j = json.load(jfile)
+        c["link"] = j["links"][int(sub_id)-1]
+
+    content.append(c)
 
 with open("index.html", 'w') as outf:
     outf.write(pre_index)
-
-    outf.write("const data = [");
-    for c in content:
-        outf.write("[");
-        for cl in c:
-            outf.write("'")
-            outf.write(html.escape(cl.rstrip('\n'), True))
-            outf.write("',\n")
-        outf.write("],\n");
-    outf.write("];")
-
+    outf.write("const data = {}\n".format(json.dumps(content)))
     outf.write(pos_index)
