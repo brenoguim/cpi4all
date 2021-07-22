@@ -69,15 +69,15 @@ pos_index = """
         for (const line of doc) {
             if (line.indexOf(filter) > -1) {
                 linetxt += "<tr><td>" + lineid.toString() +
-                           "</td><td>        " + line + "</td></tr>\n"
+                           "</td><td>        " + line + "</td></tr>\\n"
             }
             lineid += 1
         }
 
         if (linetxt.length > 0) {
-            txt += '<li><a href="#"><table>\n'
+            txt += '<li><a href="#"><table>\\n'
             txt += linetxt
-            txt += '</table></a></li>\n'
+            txt += '</table></a></li>\\n'
         }
     }
     ul.innerHTML = txt;
@@ -101,8 +101,12 @@ document.addEventListener("DOMContentLoaded", load, false)
 
 txts_dir = "../database/txts"
 content = []
-for t in os.listdir(txts_dir):
-    with open(os.path.join(txts_dir, t), 'r') as txtf:
+
+txts = [os.path.join(txts_dir, t) for t in os.listdir(txts_dir)]
+txts = sorted(txts)
+
+for t in txts:
+    with open(t, 'r') as txtf:
         content.append(txtf.readlines())
 
 with open("index.html", 'w') as outf:
