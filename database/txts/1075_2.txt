@@ -1,6 +1,380 @@
+Google
+
+Esclarecimentos sobre dados e informações produzidos pela
+Google LLC
+
+I. Esclarecimentos operacionais
+Law Enforcement Request System (LERS)
+Arquivos ausentes, vazios e/ou sem dados
+Limitação de produção de dados pela Google
+Limitação da preservação de dados pela Google
+Conteúdo de Gmail: como abrir arquivos MBOX
+Instruções para abrir arquivos de produção de dados de Gmail pelo Thunderbird
+
+Il. Esclarecimentos sobre produtos e serviços
+Identificadores Válidos
+Produção de dados de WhatsApp e Telegram
+Outros produtos Google no Google Drive
+Como a Google extrai e quais dados compõem o Histórico de Localização
+Produção de dados de emails alternativos
+Caracteres especiais e uso de pontos no Gmail
+Ativação/Habilitação remota de serviços da Google
+Produção de número de CPF, endereços e dados pessoais baseados em contas Google 6
+Produção de dados baseada em número de telefone, número de CPF ou nome de pessoa
+física ou jurídica 6
+Endereço MAC ou número de porta lógica
+Pedidos por Dashboard
+(QDgmail.com.br
+Contas Deletadas
+Informações de Pagamento
+
+SAGA ENN ANNA Sa Sa
+
+Il. Esclarecimentos jurídicos
+Entendimento institucional sobre fornecimento de dados
+Pedidos associados à senha da conta e senhas salvas na conta Google
+Pedidos de Interceptação de Dados Não-Comunicacionais
+Prorrogação automática do período de interceptação
+Alvos e produtos não listados na ordem judicial
+
+voc VINDO
+|. Esclarecimentos operacionais
+
+Law Enforcement Request System (LERS)
+
+A Google disponibiliza às autoridades brasileiras um sistema de envio de pedidos chamado
+Law Enforcement Request System (LERS). O LERS é um sistema online que permite criar uma
+conta de usuário, submeter pedidos oficiais, monitorar o progresso das solicitações e, quando
+existentes, receber os dados requeridos. Ademais, informamos que pedidos enviados através
+do LERS podem ser processados mais rapidamente.
+
+Assim sendo, e com o intuito de facilitar o atendimento, pedimos gentilmente que quaisquer
+solicitações oficiais sejam enviadas através do sistema LERS. Informações adicionais sobre
+como criar uma conta LERS podem ser encontradas no lers.google.com. (Note que pedidos de
+cadastro duplicados causam atrasos no processamento do mesmo).
+
+Arquivos ausentes, vazios e/ou sem dados
+
+Esclarecemos que a nossa ferramenta extrai automaticamente todo o conteúdo, inclusive
+conteúdo excluído, que ainda se encontra disponível em nossos servidores. A ausência de
+arquivos enviados indica que não há dados a serem produzidos para os produtos em questão.
+Um arquivo sem dados (0.0 kb) indica que não há dados a serem produzidos. Além disso,
+informamos que não existem dados a serem produzidos nos arquivos que contêm a seguinte
+mensagem: “There are no responsive records.”
+
+Limitação de produção de dados pela Google
+
+Podemos limitar nossa pesquisa com base em critérios objetivos, tais como um limite de datas
+ou endereços de email específicos na seção de para/de/cc/bcc no cabeçalho do email. No
+entanto, não podemos analisar os dados produzidos ou o conteúdo de mensagens de email
+para proceder a limitações ou pesquisas adicionais.
+
+Limitação da preservação de dados pela Google
+
+A Google LLC analisa cuidadosamente todos os pedidos de preservação de dados que recebe
+e limita a preservação das informações para produtos e serviços claramente identificados na
+solicitação.
+
+É importante destacar que não podemos preservar o "conteúdo completo" de uma conta
+Google, uma vez que ela pode estar associada a diversos produtos e serviços. Dessa forma,
+sempre que possível, especifique quais os produtos/serviços que interessam à investigação,
+bem como o período de tempo de interesse.
+
+Ademais, solicitamos que os pedidos de preservação, por exemplo, dos registros de conexão
+(IPs) dos últimos 10 dias, seja formulado de modo que saibamos se estes registros, por
+exemplo, correspondem ao intervalo de dias 1 de janeiro a 10 de janeiro de 2020.
+| Google
+
+Conteúdo de Gmail: como abrir arquivos MBOX
+
+O conteúdo de Gmail encontra-se no formato denominado .mbox, que é o padrão para o Gmail
+e o formato em que as mensagens são extraídas de nossos sistemas. Nossa ferramenta extrai
+automaticamente todo o conteúdo, inclusive conteúdo excluído que ainda se encontra
+disponível em nossos servidores. Caso mensagens tenham sido permanentemente excluídas
+de nossos servidores, as mesmas não estarão disponíveis para serem extraídas. O fuso
+horário usado para selecionar o intervalo de datas é o UTC. Para instruções em como acessar
+o conteúdo de mbox favor referir-se ao próximo tópico.
+
+Instruções para abrir arquivos de produção de dados de Gmail pelo Thunderbird
+
+A Google produz cabeçalhos e conteúdo de e-mails em um formato mbox padrão. A aplicação
+usada para abrir tais arquivos varia de acordo com os dados neles contidos.
+
+Arquivos com cabeçalhos de e-mail podem ser abertos com um editor de texto genérico, tais
+como Notepad em computadores com sistema operacional Windows, ou TextEdit em
+computadores Apple.
+
+Arquivos de conteúdo de e-mails podem ser abertos por uma aplicação de e-mail que leia
+arquivos mbox. Entendemos que muitas autoridades e agências utilizam o Mozilla Thunderbird
+para abrir arquivos mbox. É possível baixar este programa gratuitamente online.
+
+Por favor, note que a Google não pode fornecer suporte técnico porque o Mozilla Thunderbird
+
+não é um produto do Google. Favor consultar seu serviço interno de suporte técnico para obter
+assistência em relação a tais aplicações.
+
+Il. Esclarecimentos sobre produtos e serviços
+
+Identificadores Válidos
+
+Veja abaixo uma lista com os identificadores válidos para diversos produtos e serviços da
+Google.
+
+Conta Google
+Email no formato xxx(Dxxx.com ou xxx(Dxxx.com.br
+Android
+
+Os identificadores válidos para dispositivos Android são o número de IMEI ou MEID.
+“ Google
+
+YouTube
+
+Caso tenha interesse em obter informações sobre um vídeo do YouTube ou um usuário do
+YouTube, favor encaminhar o ofício indicando a URL do vídeo em questão ou a URL do canal
+do YouTube. Observe que as URLs de YouTube diferenciam letras maiúsculas e minúsculas.
+
+As URLs de canais do YouTube geralmente possuem um dos seguintes formatos:
+
+http:/Avww.youtube.com/user/xXxx
+http:/Awww.youtube.com/channel/UCXxXxXXxXxXX
+
  
 
-: Google |
+Vídeos do YouTube geralmente possuem o seguinte formato:
+www.youtube. comAwatch? v=xXxx
+
+IP de Mensagem enviada pelo Gmail
+
+Caso tenha interesse em obter o IP de origem de uma mensagem específica enviada a partir
+de uma conta Google, favor indicar o ID da mensagem em questão, bem como a conta Google
+que originou a mensagem e a avaliaremos prontamente.
+
+Os IDs de mensagem podem ser encontrados no cabeçalho detalhado da mensagem e
+geralmente possuem o seguinte formato:
+[261c4e000818364826j5b4d8be2g74fd7e9a60853d4e(Dmail.gmail.com]
+
+Blogger
+
+Caso tenha interesse em obter informações sobre postagens ou comentários no Blogger, favor
+encaminhar um novo ofício, indicando a URL da postagem ou comentário no Blogger em
+questão e a avaliaremos prontamente.
+
+A URL da postagem aparecerá no seguinte formato e pode ser encontrada clicando no título
+com hiperlink da postagem em questão:
+http: /'titulodoblog. blogspot.com/ano/mes/titulodapostagem. html
+
+A URL de comentário aparecerá no seguinte formato e pode ser encontrada clicando no
+hiperlink que contém a data e a hora do comentário em questão:
+http:/'titudodoblog.blogspot.com/ano/mesftitulodapostagem.html?showComment=12849108XX
+XXXtc23 1984 11951056XXXXX
+
+Google Meu Negócio
+
+Segue abaixo um exemplo de URL para fichas do Google Meu Negócio:
+https://www.google.com/maps/place/fHH Hit
+
+As URLs dos comentários no Google Meu Negócio geralmente tem o formato abaixo. Para
+| Google
+
+acessá-la, é preciso clicar no comentário de interesse
+https://www. google. com/maps/contrib/xxxxxxxxxxxxxxx/reviews
+
+ 
+
+Compras no Google Play
+
+Caso tenha interesse em dados do usuário associado a uma transação, pedimos que nos envie
+informações tais como o número completo do cartão de crédito, a conta de email, cópia da
+fatura e/ou o ID da transação, que possui o seguinte formato:
+
+[ XXXKXXXXKXKXXXXXAKXX. XXX XXX XXX XXX]
+
+Google Ads
+
+Caso tenha interesse em obter informações associadas ao Google Ads, favor indicar a URL de
+referência do anúncio em questão.
+
+Para localizar a URL de referência de um anúncio, clique com o botão direito do mouse no
+título do anúncio e selecione "copiar link" ou "copy link address" dependendo do seu
+navegador.
+
+Produção de dados de WhatsApp e Telegram
+
+A Google LLC tem uma parceria com a WhatsApp Inc. que permite que usuários de Android
+façam o backup do conteúdo de mídia e conteúdo de mensagens encriptadas do aplicativo
+WhatsApp em sua conta no Google Drive. Mais informações sobre tal parceria aqui:
+https://support. google. com/drive/answer/6303968? hl=pt-BR.
+
+ 
+
+O WhatsApp e o Telegram não são operados pela Google LLC ou por qualquer empresa da
+Google. A Google LLC não dispõe de meios técnicos para habilitar, remotamente, a
+funcionalidade de realização de backup de dados do WhatsApp e de Telegram no Google Drive
+para os seus usuários que utilizam esses aplicativos.
+
+Caso o usuário tenha habilitado a funcionalidade de backup de seu conteúdo de mídia e de
+mensagens do WhatsApp e selecionado o Google Drive como localização para
+armazenamento, tais dados estarão disponíveis na produção relativa a Google Drive Backups.
+
+Outros produtos Google no Google Drive
+
+Caso o usuário tenha conteúdo de Documentos Google, Planilhas Google, Apresentações
+Google, tais dados estarão disponíveis na produção relativa de conteúdo de Google Drive.
+
+Como a Google extrai e quais dados compõem o Histórico de Localização
+
+Nossa ferramenta extrai automaticamente todos os dados de Histórico de Localização para o
+período selecionado. Os dados são extraídos para o período de tempo solicitado, sendo que
+podem ser limitados por data e por horário.
+| Google
+
+O Histórico de Localização (Location History) é um serviço associado a uma conta Google
+específica e não a um aparelho específico. O usuário de uma conta Google pode habilitar o
+Histórico de Localização em diferentes dispositivos, porém os dados coletados com relação a
+tal histórico são armazenados na sua conta Google e não podem ser produzidos ou levantados
+com base em um identificador associado a um dispositivo, tal como o número de IMEI por
+exemplo. Mais informações sobre o Histórico de Localização estão disponíveis no link
+https://support.google.com/gmm/answer/3 118687? hl=br.
+
+Esclarecemos que, se não há dados no arquivo produzido, isso significa que não dispomos de
+dados de Histórico de Localização para a conta em questão nas datas referidas. Tal fato pode
+ocorrer por diversos motivos, incluindo exclusão manual pelo próprio usuário.
+
+Produção de dados de emails alternativos
+
+Ao criar uma Conta do Google, o usuário recebe automaticamente um endereço de Gmail.
+Contudo, se preferir usar outro endereço de e-mail para fazer login, o usuário pode vincular um
+endereço de email que não seja de Gmail a sua conta e usá-lo para fazer login, recuperar sua
+senha, receber notificações, dentre outras atividades. Por isso, o Google pode produzir dados
+referentes ao email listado como alternativo de uma conta Google. Informações adicionais
+sobre como funcionam emails alternativos podem ser encontradas nesse link
+https://support. google. com/accounts/answer/176347? hl=pt-BR.
+
+ 
+
+Caracteres especiais e uso de pontos no Gmail
+
+O Gmail não reconhece caracteres especiais como "ç" em nomes de usuários. Dessa forma,
+quaisquer endereços de email com caracteres especiais não são válidos e não poderão ser
+processados.
+
+Além disso, como o Gmail não reconhece pontos e letras maiúsculas em nomes de usuários,
+ambos Abcf236gmail.com e abc.1236Dgmail.com correspondem à mesma conta
+(abc 1236Dgmail.com). Para mais informações, por favor acesse a página de Ajuda do Gmail:
+https://support.google.com/mail/answer/10313?hl=pt-br.
+
+ 
+
+Ativação/Habilitação remota de serviços da Google
+
+Não é possível promover a ativação/habilitação de serviços da Google, pois cada serviço e
+suas devidas configurações só podem ser ativados por ação do próprio usuário. A Google não
+tem a capacidade de modificar essas configurações remotamente.
+
+Produção de número de CPF, endereços e dados pessoais baseados em contas Google
+
+A Google LLC não possui determinados dados dos seus usuários, tais como endereço, número
+de documentos, filiação, dentre outros, associados aos seus usuários. Assim sendo, qualquer
+pedido para esse tipo de dado deve ser endereçado ao respectivo provedor de conexão à
+Internet.
+| Google
+
+Produção de dados baseada em número de telefone, número de CPF ou nome de pessoa
+física ou jurídica
+
+A Google não realiza buscas baseadas em nomes, números de telefones ou números de
+CPF/RG porque tais informações não são requisitos obrigatórios para os cadastros de usuários
+em nossa base de dados.
+
+Caso tenha interesse em obter informações sobre um dispositivo operando o sistema Android,
+pedimos que nos encaminhe uma ordem judicial, indicando o número de série (CSSN, bem
+como o fabricante e o modelo do dispositivo em questão), o número IMEI ou MEID do
+dispositivo ou o endereço da Conta do Google registrado no dispositivo em questão.
+
+Endereço MAC ou número de porta lógica
+
+A Google não retém endereço MAC ou número de porta de origemfógica associados a
+endereços IP.
+
+Pedidos por Dashboard
+
+Dashboard não é em si um serviço e não armazena dados. Todos os dados expostos quando
+um usuário visualiza o Dashboard são, de fato, armazenados nos respectivos serviços.
+Portanto, para obter acesso aos dados dos respectivos serviços, favor enviar uma ordem
+judicial listando os serviços de interesse. Além disso, esclarecemos que a única forma de
+acessar o Dashboard é através da interface do usuário e a Google não dispõe de uma interface
+de programação para acessá-lo sem o envolvimento do próprio usuário.
+
+(Dgmail.com.br
+
+O formato de endereço de email (GDgmail.com.br não é um formato válido. O formato padrão é
+(gmail.com. Portanto, quaisquer pedidos de dados por emails (GOgmail.com.br não são válidos
+e não poderão ser processados.
+
+Contas Deletadas
+
+É possível verificar se e quando uma conta foi deletada no arquivo relacionado aos seus dados
+cadastrais, no campo indicado como "Deletion Date".
+
+Informações de Pagamento
+
+Uma conta Google pode estar vinculada a mais de um perfil de pagamento. Quando
+produzimos informações de pagamento em associação a uma determinada conta Google, o
+arquivo inclui todos os perfis de pagamento associados à referida conta identificada no pedido.
+Para mais informações sobre como os usuários criam perfis de pagamento visite:
+https://support.google.com/pay/answer/7644003? hl=pt-BR&ref topic=7644059.
+
+ 
+| Google
+
+Ill. Esclarecimentos jurídicos
+
+Entendimento institucional sobre fornecimento de dados
+
+Para alguns produtos, mediante o recebimento de uma ordem judicial emitida em sua
+jurisdição, a Google LLC poderá fornecer dados básicos de cadastro, registros de conexão
+(IPs) relacionados a sua jurisdição e outros tipos de informações, de acordo com o artigo 15 8
+30. da Lei Federal n. 12.965/2014 (Marco Civil). Mediante um pedido feito por autoridade
+policial ou de membro do Ministério Público e emitido com fundamento no artigo 13-A do
+Código de Processo Penal e/ou na Lei Federal n. 9.613/98 (Lei de "Lavagem de Dinheiro"
+atualizada pela Lei Federal n. 12.683/12) e/ou na Lei Federal n. 12.850/2013 (Lei sobre
+"Organizações Criminosas"), a Google LLC poderá fornecer informações básicas de registro,
+conforme artigo 10 & 30. da Lei Federal n. 12.965/2014 e artigo 11 do Decreto Federal n.
+8.711/2016.
+
+Com relação ao fornecimento do conteúdo privado associado a uma conta Google,
+esclarecemos que a quebra do sigilo de comunicações privadas depende de prévia autorização
+judicial emitida para fins de investigação criminal ou instrução processual penal, conforme
+artigo 5º, XII, Constituição Federal do Brasil e nos termos da Lei Federal nº 9.296/96 (artigo 1º,
+
+$1º).
+Pedidos associados à senha da conta e senhas salvas na conta Google
+
+Com relação ao pedido de dados armazenados no passwords.google.com, esclarecemos que
+os dados eventualmente disponíveis são criptografados, de forma que não possam ser
+recuperados, razão pela qual a Google não pode dar cumprimento a tal comando judicial.
+
+Pedidos de Interceptação de Dados Não-Comunicacionais
+
+Entendemos que as disposições da Lei Federal nº 9.296/96 aplicam-se ao fluxo de
+comunicações em sistemas de informática e telemática (art. 1º, par. ún.). Por esta razão, a
+Google LLC está impossibilitada de realizar a interceptação de outros tipos de dados não-
+comunicacionais, ou seja, para serviços e produtos além do Gmail e Hangouts (chat).
+Prorrogação automática do período de interceptação
+
+Entendemos que as disposições da Lei Federal nº 9.296/96 aplicam-se ao fluxo de
+comunicações em sistemas de informática e telemática por 15 (quinze) dias, podendo ser
+prorrogável por mais apenas 15 (quinze) dias, mediante nova emissão de ordem judicial (art.
+5º).
+
+Alvos e produtos não listados na ordem judicial
+
+Para fornecer dados associados a uma conta Google, o ofício e/ou ordem judicial endereçado à
+Google LLC deve especificar o identificador, o serviço Google solicitado e o período de tempo
+relevante à investigação.
+ 
+
+Google
 
 Portanto, a Google LLC somente pode produzir qualquer informação relacionada a
 identificadores (tais como números de IMEI ou Contas Google), produtos ou relativa a período

@@ -1,27 +1,461 @@
+   
+
+SD O ESPÍRITO SANTO
+. SECRETARIA DÉ ESTADO DA SAÚDE |
+GERÊNCIA ESTADUAL DE VIGILÂNCIA EM SAÚDE
+NÚCLEO ESPECIAL DE VIGILÂNCIA EPIDEMIOLÓGICA
+
+ 
+
+CI Nº 90/2021 SESA/SSVS/GEVS/NEVE
+Vitória 14/05/2021.
+
+À Subsecretaria de Vigilância em Saúde,
+
+Venho por meio deste, em atendimento ao Ofício 882- Requerimento 450/2021
+CPIPANDEMIA, informar quadro de mortalidade referente ao Estado do Espírito
+Santo para os anos de 2019, 2020 e 2021.
+
+Salienta-se que os bancos referentes ao exercício de 2020 e 2021 ainda são
+compostos por dados preliminares visto que o primeiro encontra-se em período
+de análise de qualificação de causa básica para publicação oficial e o segundo
+compete exercício em andamento.
+
+Para disponibilização da informação foi utilizada a ferramenta TabWin com
+database em formato DBF do Sistema de Informação de Mortalidade Estadual
+atualizado em 12 de maio de 2021 às 10:25:42h.
+
+A coordenação do Sistema de Informação de Mortalidade apresenta a baixo o
+detalhamento de óbitos totais (contemplando todas as causas capítulos da CID-
+10) discriminando o cenário etário e sexo:
+
  
 
  
 
  
 
-INFORMAÇÕES DO DOCUMENTO
-
-Documento capturado em 14/05/2021 1533:32 (HORÁRIO DE BRASÍLIA - UTC-3)
-por LARISSA DELL'ANTONIO PEREIRA (CHEFE NUCLEO ESPECIAL QCE-04 - SESA - NEVE)
-Valor Legal: CÓPIA SIMPLES | Notureza: DOCUMENTO NATO-DIGITAL
-
-A disponibilidade do documento pode ser conferida pelo link: Mips:lo-docs.es.gou-brldi2021-X3D3GR.
+ 
 
  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Óbitos Totais, Espírito Santo por faixa etária período 2019-2021
+Faixa Etária 2019 2020 2021 Total
+EI 578 532 137 1247
+01-04a 108 91 19 218
+05-09a 39 51 EE 101
+10-14a 89 77 21 187
+15-19a 390] 385 99 868
+20-29a 930] 1046 228 2204
+30-39a 1083] 1285 397 2765
+[40-49a 1662] 2115] 665] 4442]
+50-59a 2919) 3553 1089] 7561
+60-69a 4362] 5619) 1830] 11811
+70-79a 4762] 5954| 2000) 12716
+80 e+ 7440) 8430) 2498 18368
+gn 510 577] 120] 1207
+Total 24872) 29715] 9108 63695
+Fonte: Sistema de Informação de Mortalidade Estadual
+
+SESA/SIM
+
+Responsável Técnico: Gustavo Teixeira Oliveira
 
  
 
 Avenida Mascarenhas de Moraes, 2025, Bento Ferreira, Vitória ES — 1º andar
 CEP 29052-121
-
 Tel: (27) 3636-8210
 
-14/05/2021 1533 PÁGINA 5/5
+2021-X3D3GR - E-DOCS - CÓPIA SIMPLES 14/05/2021 15:33 PÁGINA 1/5
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+. SECRETARIA DE ESTADO DA SAUDE |
+GERÊNCIA ESTADUAL DE VIGILÂNCIA EM SAUDE
+NÚCLEO ESPECIAL DE VIGILÂNCIA EPIDEMIOLÓGICA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Óbitos Totais, Espírito Santo por faixa etária período 2019-2021
+Sexo 2019 2020 2021 Total
+Mas 14079 16957 5024] 36060)
+Fem 10772] 12713 4067 27552]
+lgn 21 45] 17 83
+Total 24872] 29715) 9108, 63695
+Fonte: Sistema de Informação de Mortalidade Estadual
+
+SESA/SIM
+
+Responsável Técnico: Gustavo Teixeira Oliveira
+
+Informo ainda o quadro de mortalidade referente ao Estado do Espírito Santo
+para os anos de 2019, 2020 e 2021.
+
+Foi realizada discriminação de óbitos totais por grupo de causas em cenário
+etário e conforme apresentado em anexo.
+
+Coloco-me a disposição para quaisquer esclarecimentos.
+
+Cordiais saudações.
+
+Larissa Dell'Antonio Pereira
+Chefe do Núcleo Especial de Vigilância Epidemiológica
+
+14/05/2021 15:33 PÁGINA2/5
+
+2021-X3D3GR - E-DOCS - CÓPIA SIMPLES
+
+ 
+
+Avenida Mascarenhas de Moraes, 2025, Bento Ferreira, Vitória ES — 1º andar
+CEP 29052-121
+Tel: (27) 3636-8210
+S/C VNOVA ces tcOCIs0Ph SA diNIS VidO) - SJ0OC-I - dIeCdeX-IcOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a Er E EE q Fr Effa FE EE E E E fa RE E
+jo E rj Jo b p; o —o p o po pp + E E
+jo E bp fo fe fr role la fe f E 5 CS E 7 =
+jo E tr DR Er E Es fe fo dr E É E CA E E
+jo BZ jo Jr jo [97 B [5 E [OT |rEE, jo frz [et [STE B EM [oct =69-09]
+jo [ET Ir E [ST H jo es EH [767 o js [st [ES Ir [sit [tor E6S-0S]
+jo Er pfo or E E e oz foor —To rofz fe fts oz =6r-r]
+jo a pf E E E Ef EO E E E E TEEe]
+jo E E b E E o E E CR TELE
+jo CR E b E EE o E o Ef E Estr]
+fo Et O o o E o E a op fo Error]
+jo E O b po Et E bo PR jo E
+
+«4 jo E oo bo o: po o E o E bo & o E
+uS jo Ef EE o E E E o E o O E ErO*|
+
+o 25 apremntonas Pombo] eee era“ Sopr “ro)) amomeseno) CTT | count) comia) sore pao Era] | ea E SP 0 cade aee yr
+
+E 29 mero) mm) sete] pa gama ms) Pe) copie] om cia] 2 e Fester] Pi a ea
+
+uw
+
+aa E 8 EO OSS VAIS OS SEEN OSS OSSO 1
+
+O «ww E [EE qr EZ E fa [ET Er q Gm pes F px p= po [Esse TE]
+
+E <a E Ee bh 5 E + E db E 3
+
+LaaDA E E É Ir jo [osE [EE [ET re for us f ME = [sz Tee]
+
+noz E E fe Ir jo [Est Ez joe rr oes per fz E = Jor fere Tera
+
+q o<< jo Es E jo jo [sor [Er fz [oe Jose rss | EL E Ea [cer 69-09]
+
+o a 5 O jo Jos B jo E [er [st |StZ E [rs O [or E [or L &
+jo [97 e a [PE a a [LTr [SL jose jo CE [ss 7
+
+dcsa b IEEE E E E
+
+ofma FE EE EEE E A E E — E
+
+SuDo E E EE E Eb E — E
+
+Eãas jo EF E bo E E E E o E jo E
+
+bau bo E O CR CR E E R
+
+uz>5a jo Er po E B ERR E o b E 6
+
+qERa E Eb +++ E—+& E
+
+GEE Eneas E Ee eco] essi
+
+4 o a O [| E ct soros] av É
+e E q 2 ss] rn] metemscg] ONA] UAI] gama meets) Toei) cqeiy)  oquiniy] pit a a neo
+GaqR
+Cy
+uã o E;
+w [ERA
+vou
+õ ão o Er FE E E Es E Es
+S mm jo r E les Jo E
+Ga fo 5 —r jo — er Es Er
+82 E a EE E
+2 jo EE pp fr E E
+jo E + pos Er Es
+fo ME of E Ez
+a S Ie [Er [PT c Er
+jo E É Er E E E Ez
+jo E EE E Er
+jo jo IS jo Z [E st
+Jo [E jo jo jo o a
+jo bz pf b E
+jo E ts oe jo E
+essa) Mir ser reg] eemugõeco) erro epeuuroquan] smnxnwosad| Seen In) cpqnedesy | cugimmas omate [preta
+re) “o septo Pro mal mm) scan ee e To Pe cairem) Peso)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I CEEE TON GI VN VIE SVEN SO GUNS OSSOS ]
+
+CEP 29052-121
+Tel: (27) 3636-8210
+
+Avenida Mascarenhas de Moraes, 2025, Bento Ferreira, Vitória ES — 1º andar
+
+ 
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+. SECRETARIA DE ESTADO DA SAÚDE |
+GERÊNCIA ESTADUAL DE VIGILÂNCIA EM SAÚDE
+NÚCLEO ESPECIAL DE VIGILÂNCIA EPIDEMIOLÓGICA
+
+ 
+
+ 
+
+14/05/2021 15:33 PÁGINA4/5
+
+2021-X3D3GR - E-DOCS - CÓPIA SIMPLES
+
+ 
+
+Avenida Mascarenhas de Moraes, 2025, Bento Ferreira, Vitória ES — 1º andar
+CEP 29052-121
+Tel: (27) 3636-8210
+ 
+
+INFORMAÇÕES DO DOCUMENTO
+
+Documento capturado em 14/05/2021 15:33:32 (HORÁRIO DE BRASÍLIA - UTC-3)
+
+por LARISSA DELL'ANTONIO PEREIRA (CHEFE NUCLEO ESPECIAL QCE-04 - SESA - NEVE)
+Valor Legal: CÓPIA SIMPLES | Natureza: DOCUMENTO NATO-DIGITAL
+
+A disponibilidade do documento pode ser conferida pelo link: https://e-docs.es.gov.br/d/2021-X3D3GR
+
+14/05/2021 15:33 PÁGINAS/5
 
 2021-X3D3GR - E-DOCS - CÓPIA SIMPLES
 

@@ -1,80 +1,500 @@
-PIER BRO NG NETO
+PINHEIRO NETO
 
-ADVAAPPSD Os
+ADVOGADOS
 
-storauo RODEJANEIRO RAIA emoauio tóquio
+SÃO PAULO RIO DE JANEIRO BRASÍLIA PALOALTO TóQUIO
+R. Hungria, 1100 R. Humaitá, 275 SAFS. Quadra 2 BlocoB | 228 Hamilton Avenue, — 1:6-2 Marunouchi,
+01455-906 16º andar Ed. Via Office - 3º andar 3rd floor Chiyoda-ku, 21st floor
+São Paulo - SP 22261-005 70070-600 CA 94301 USA 100-0005
+t.+55 (1) 3247 8400 Rio de Janeiro-RJ Brasilia - DF t.+1650 798 5068 Tokyo - Japan
 
-   
+t.+55 (21) 25061600  1.+55(61) 3312 9400 t.+81(3) 32167191
+
+Excelentíssimo Senhor Senador Doutor OMAR Aziz, Ilustre Presidente da Comissão
+Parlamentar de Inquérito da Pandemia
+
+Ofício nº 1610/2021- CPIPANDEMIA
+Requerimento nº 893/2021 — CPIPANDEMIA
+
+TWITTER BRASIL REDE DE INFORMAÇÃO LTDA., sociedade limitada, inscrita no
+CNPJ sob nº 16.954.565/0001-48, com sede na Cidade de São Paulo, na Avenida
+Brigadeiro Faria Lima, 4.221, 9º andar (“TWITTER BRASIL”), por seus advogados
+(Docs. nºs. 1 a 3), vem, respeitosamente, em atenção ao r. ofício em referência,
+expor o quanto segue.
+
+1. Por meio dor. ofício nº 1610/2021, foi encaminhado o requerimento 893/2021,
+de autoria do Senador RANDOLFE RODRIGUES, no qual se afirmou que o TWITTER
+BRASIL teria recentemente promovido “a exclusão de milhares de contas por
+comportamento inautêntico” e que, “apesar dos esforços promovidos pela empresa,
+(...) muito ainda precisa ser feito para combater essa avalanche de desinformações
+sobre a pandemia e garantir que as informações corretas cheguem à população”.
+PINHEIRO NETO
+
+ADVOGADOS
+
+preenchimento dos requisitos do artigo 22 do Marco Civil da Intemet in casu, o
+TWITTER BRASIL adotará as providências cabíveis para que sejam fornecidos
+nestes autos os dados disponíveis e exigíveis na forma da legislação em vigor.
+
+Iv. | CONCLUSÃO
+31. São estes os esclarecimentos que o TWITTER BRASIL considera pertinentes
+em resposta ao r. requerimento nº 893/2021, sendo certo que permanece à inteira
+
+disposição para eventuais esclarecimentos que se façam necessários.
+
+Termos em que,
+pede deferimento.
+
+São Paulo, 28 de junho de 2021.
+
+André Zonaro Giacchetta
+
+OAB/SP nº 147.702
+
+Luli,
+ara Amanda Vilela
+
+OAB/SP nº 390.489
+
+1.
+PINHEIRO NETO
+
+ADVOGADOS
+
+2. Diante disso, foi requerido ao TWITTER BRASIL o fornecimento de
+“informações sobre as contas excluídas a partir do dia 14 de junho de 2021,
+conforme reportagem da rede CNN”, notadamente: (i) a relação “de todas as
+contas excluídas, dos respectivos dados utilizados para o cadastro da conta e o
+motivo para a exclusão”; (ii) a “Preservação de todo o conteúdo disponível em cada
+conta, ou eventualmente apagado, num container forense (com cálculo de hash) e
+disponibilização para coleta/download, dentro dos parâmetros do Marco Civil da
+Internet, e, por fim, (iii) “Todo histórico de login efetuado, contendo o horário
+(timestamp) completo com fuso horário e os endereços IPs utilizados para esses
+logins com a porta lógica de origem (source port)".
+
+83. Em vista disso, o TWITTER BRASIL respeitosamente passa a fazer os
+esclarecimentos que entende pertinentes em resposta ao r. ofício em questão.
+
+Ê ESCLARECIMENTOS INICIAIS SOBRE A PLATAFORMA TWITTER
+
+4. O Twitter é uma plataforma virtual de informação de uso gratuito, alimentada
+exclusivamente pelos usuários, que permite o compartilhamento em tempo real de
+Tweets sobre assuntos variados, isto é, mensagens contendo imagens, vídeos, links
+e textos de até 280 (duzentos e oitenta) caracteres.
+
+5. A plataforma Twitter é operada e provida pelas empresas Twitter Inc. e Twitter
+International Company (“Operadoras do Twitter”). Os usuários localizados na União
+Europeia e no Reino Unido contratam com a empresa irlandesa Twitter International
+Company, ao passo que os usuários localizados em outros países (como Estados
+Unidos e Brasil) contratam com a empresa americana Twitter, Inc.
+
+6. Como condição para utilizar essa plataforma virtual de informação, o usuário
+deve criar uma conta por meio do site “www.twitter.com”, mediante aceitação dos
+Termos de Serviço?, a Política de Privacidade? e as Regras do Twitter
+(conjuntamente denominados “ACORDO DO USUÁRIO DO TWITTER"), que constituem
+os contratos que regem o uso da ferramenta, estabelecendo direitos e obrigações
+
+* hitps:/Amww.cnnbrasil.com br'tecnologia/2021/06/1 6/redes-sociais-estao-excluindo-contas-inautenticas-
+entenda-porque-isso-acontece
+
+hitps:/Awitter.comftos
+
+3 hitps://twitter.com/privacy
+
+* —hitps:/help.twitter.com/enírules-and-policiesAwitter-rules
+PINHEIRO NETO
+
+ADVOGADOS
+
+para ambas as partes.
+
+7. O TWITTER BRASIL, por sua vez, é empresa dotada de personalidade
+jurídica própria, autônoma e independente das Operadoras do Twitter, não possuindo
+qualquer relação com a gestão, operacionalização e administração do site
+“www twitter.com”, de forma que não dispõe de meios técnicos ou jurídicos para
+intervir no gerenciamento dos dados dos usuários. Não obstante tal fato, o
+TWITTER BRASIL e as Operadoras do Twitter atuam em regime de cooperação
+em relação ao cumprimento de ordens judiciais e requerimentos
+administrativos.
+
+8. Nesse sentido, o TWITTER BRASIL tem, com frequência, fornecido
+informações e dados sigilosos de usuários do Twitter e realizado a remoção de
+conteúdos reputados ilícitos no âmbito de processos judiciais, investigações policiais
+e procedimentos administrativos, em fiel observância à legislação brasileira. Essa
+postura do TWITTER BRASIL, como mencionado, decorre do compromisso com a
+legislação brasileira e o respeito às ordens legais e requisições administrativas que
+lhe são destinadas.
+
+IR ESCLARECIMENTOS SOBRE A AÇÃO DE REMOÇÃO DE CONTAS
+MENCIONADA PELO R. OFÍCIO
+
+9. De acordo com o requerimento anexado ao r. ofício, afirmou-se que o Twitter
+teria, recentemente, promovido “a exclusão de milhares de contas por
+comportamento inautêntico” e que, “segundo especialistas ouvidos pela CNN, esses
+movimentos” seriam “fruto de uma pressão social para que as redes se dediquem a
+tornar suas plataformas ambientes mais legítimos, em que a troca de informações
+entre usuários reais prevaleça sobre a ação automatizada de robôs”. Confira-se
+trechos da notícia em questão:
+
+“Nos últimos dias, Twitter e YouTube confirmaram que estão trabalhando para limpar suas
+plataformas de contas tidas como inautênticas, o que gerou um burburinho nas redes sociais.
+Muitos usuários foram conferir suas contas e notaram que seus perfis perderam seguidores,
+seja no microblog ou na plataforma de vídeos do Google.
+
+Segundo especialistas ouvidos pela CNN, esses movimentos são fruto de uma pressão social
+para que as redes se dediquem a tomar suas plataformas ambientes mais legítimos, em que
+atroca de informações entre usuários reais prevaleça sobre a ação automatizada de robôs.
+
+Essa pressão, avalia o pesquisador e analista de redes sociais Fabio Malini, vai na contramão
+dos interesses financeiros das plataformas, que 'vivem de engajamento para ter publicidade, e
+PINHEIRO NETO
+
+ADVOGADOS
+
+acabam sendo tímidas” na fiscalização de atividade inautêntica. Isso porque mesmo contas que
+não representam pessoas do mundo real e são ativadas de maneira automática, os chamados
+robôs, acabam servindo como gatilhos para que determinados conteúdos ganhem relevância
+nas redes.
+
+Assim, os robôs ajudam a fazer 'bombar certo tema, mas boa parte do engajamento que
+prolonga o debate é alimentado por usuários reais, isto é, seres humanos que acabam reagindo
+a esses conteúdos, seja de forma crítica ou na defesa desses temas.
+
+Até por isso, explica Malini, seria um engano considerar que a exclusão de contas feita pelo
+Twitter tenha focado somente em robôs. 'O Twitter está fazendo uma limpa de contas que não
+têm atividade na plataforma há algum tempo, não são necessariamente robôs. 'Podem ser
+contas que usuários criaram e depois abandonaram, podem ser contas que tinham
+como objetivo inflar a popularidade de alguém e depois ficaram inativas”, por exemplo.
+(.)
+
+Para minimizar o impacto sobre contas de usuários praticamente inativos, mas que
+têm interesse de permanecer na plataforma, o Twitter permitiu que esses perfis,
+inicialmente suspensos, pudessem ser recuperados pelos usuários através de
+ferramentas de confirmação, uma espécie de “prova de vida' geralmente feita por e-
+mail ou número de telefone celular.
+
+À CNN, o Twitter informou que desenvolve um trabalho “frequente e global que tem
+como objetivo manter as contas seguras e prevenir tentativas de manipulação
+das conversas via spam”. “Este trabalho consiste em solicitar que contas que
+apresentem comportamentos suspeitos ou incomuns mudem sua senha ou
+verifiquem informações como número de celular, por exemplo. Enquanto as contas
+não passam por esse processo, elas ficam desabilitadas, com funcionalidades
+limitadas, e deixam de entrar no cálculo para contagem de seguidores” (sem ênfase
+no original).
+
+10. Embora o r. ofício tenha relacionado a ação de remoção de contas no Twitter
+ao combate à desinformação no contexto da pandemia, a verdade é que as
+recentes medidas adotadas pelas Operadoras do Twitter para prevenir
+tentativas de spam e manter as contas seguras em sua plataforma não guardam
+relação com a POLÍTICA DE INFORMAÇÕES ENGANOSAS SOBRE A COVID-19.º
+
+11. Em verdade, a recente ação das Operadoras do Twitter está relacionada a
+um conjunto de medidas adotadas em diversos países, com o objetivo de proteger a
+integridade e a legitimidade de conversas na plataforma.
+
+S Disponível em:  https:/Awww.cnnbrasil.com.britecnologia/2021 /06/1 6/redes-sociais-estao-excluindo-contas-
+
+inautenticas-entenda-porque-isso-acontece. Acesso em: 25.6.2021.
+$ hitps:/elp.twitter com/ptfrules-and-policies/medical-misinformation-polic:
+PINHEIRO NETO
+
+ADVOGADOS
+
+12. Nesse contexto, as Operadoras do Twitter regularmente solicitam que contas
+com comportamentos suspeitos em todo mundo validem suas informações -— tais
+como senha e número de celular, exatamente a fim de comprovar a existência de
+pessoas por trás dessas contas e proteger e a integridade e legitimidade das
+conversas no Twitter.
+
+13. Esses comportamentos suspeitos podem consistir em atividades em massa,
+agressivas ou enganosas que induzem outros usuários a ao erro e/ou prejudicam
+suas experiências, tais como o envio de spam, engajamento não autêntico ou
+atividade coordenada.
+
+14. Importante destacar que tais medidas levam em consideração
+comportamentos possivelmente inautênticos de determinadas contas, e não a
+natureza do conteúdo postado, conforme informado publicamente pelo perfil oficial
+do Twitter sobre assuntos envolvendo conselhos de segurança e atualizações.
+Confira-se:
+
+ 
+
+Twitter Seguro O ETwitierSeguro - 14 de jun
+
+Você pedo ter percebido uma mudança recente em seu número de
+seguidores. Com frequência, solicitamos que contas tomem medidas como
+trocer a senhe ou velidar seu número de celular.
+
+O Tuiitter support O OTwittersupport - 14 de jun
+You may notice some follower count fluctuations from time to time.
+
+Accounts that we've asked to confirm their password or phone number
+
+aren't included in follower counts until they've confirmed that info. We
+do this regularty to help prevent spam and keep all accounts secure.
+
+O 139 t 7 O 19 Run
+
+Twitter seguro O
+GrTwitterseguro
+
+tm resposta a (2 lwitterseguro
+
+Isso ocorre em todo o mundo e é parte do nosso
+trabalho para prevenir tentativas de spam e manter as
+contas seguras, baseado totalmente nas atividades
+desses perfis, e não nos conteúdos que postam.
+
+9:50 PM - 14 de jun de 2021 - Twitter tor iPhone
 
  
 
  
 
  
+PINHEIRO NETO
+
+ADVOGADOS
+
+14. Até que essa etapa de confirmação seja cumprida, as contas suspeitas ficam
+temporariamente desabilitadas, "com funcionalidades limitadas, e deixam de entrar
+no cálculo para contagem de seguidores". Se as contas forem, de fato, de pessoas
+que cumpriram a etapa de confirmação, elas voltam à funcionalidade e à contagem
+de seguidores nos perfis que acompanha. Caso contrário, as contas são
+permanentemente suspensas.
+
+15. Importante ressaltar novamente que tais ações são feitas com base em
+comportamentos suspeitos relacionados às atividades de uma conta, e não ao seu
+conteúdo. Isso significa que as contas afetadas por essa medida não
+necessariamente veicularam qualquer conteúdo ilícito.
+
+16. Assim, ao contrário do quanto sugerido no requerimento, as medidas
+adotadas pelas Operadoras do Twitter não guardam relação com o combate a “essa
+avalanche de desinformações sobre a pandemia e garantir que as informações
+corretas cheguem à população”, tratando-se apenas de medida constantemente
+adotada pelas Operadoras do Twitter, em escala global, para proteger a integridade
+e a legitimidade de conversas na plataforma.
+
+17. — Cumpre esclarecer, ainda, que, em relação à POLÍTICA DE DESINFORMAÇÃO
+RELACIONADA À COVID-19, as Operadoras do Twitter disponibilizam aos usuários a
+seção específica denominada “POLÍTICA DE INFORMAÇÕES ENGANOSAS SOBRE A
+CoviD-19, disponível através do link https://help twitter.com/pt'rules-and-
+policies/medical-misinformation-policy, a qual contempla todos os detalhes sobre as
+opções de medidas corretivas e abordagens relacionadas à desinformação sobre
+COVID-19.
+
+18. É evidente, portanto, que a ação das Operadoras do Twitter mencionada no
+r. ofício não guarda relação com a POLÍTICA DE INFORMAÇÕES ENGANOSAS SOBRE A
+CoviD-19. Trata-se, como demonstrado, de mais um dos constantes esforços do
+Twitter, Inc. para manter as contas seguras e garantir a integridade e a legitimidade
+da plataforma.
+
+ma. DO CARÁTER GENÉRICO DO REQUERIMENTO FORMULADO AO
+TWITTER BRASIL
+
+19. Como informado no requerimento, o objeto dessa Comissão Parlamentar de
+PINHEIRO NETO
+
+ADVOGADOS
+
+Inquérito (“CPI”) é “apurar as ações e omissões do Governo Federal no
+enfrentamento da Pandemia da Covid-19 no Brasil; as possíveis irregularidades,
+bem como outras ações ou omissões cometidas por administradores públicos
+federais, estaduais e municipais, no trato com a coisa pública, limitado apenas
+quanto à fiscalização dos recursos da União repassados aos demais entes federados
+para as ações de prevenção e combate à Pandemia da Covid-19".
+
+20. Embora o escopo desta CPI esteja restrito a irregularidades, ações ou
+omissões praticadas por entes públicos no enfrentamento da pandemia da COVID-
+19 no Brasil, o TWITTER BRASIL foi instado a apresentar, por meio do r. ofício em
+questão, a “relação de todas as contas excluídas” a partir do dia 14 de junho de
+2021, “os respectivos dados utilizados para o cadastro da conta e o motivo para a
+exclusão”, além de preservar “todo o conteúdo disponível em cada conta, ou
+eventualmente apagado”, e “todo histórico de login efetuado”.
+
+21. No respeitoso entendimento do TWITTER BRASIL, todavia, as abrangentes
+requisições formuladas por meio do r. ofício aparentam extrapolar o escopo da
+investigação dessa CPI, notadamente porque as medidas adotadas pelas
+Operadoras do Twitter em relação a todas as “contas de usuários excluídas a partir
+do dia 14 de junho de 2027” não necessariamente guardam relação com a pandemia
+ou mesmo com a POLÍTICA DE INFORMAÇÕES ENGANOSAS SOBRE A COVID-19 e, por
+conseguinte, com o próprio escopo dessa CPI.
+
+22. Ainda que assim não fosse e mesmo que todas as contas mundialmente
+removidas pelas Operadoras do Twitter desde 14 de junho estivessem relacionadas
+à veiculação de desinformação sobre COVID-19 — o que se menciona apenas para
+argumentar —, tem-se que as informações pretendidas por meio do r. ofício são
+constitucionalmente protegidas pela inviolabilidade da intimidade e da vida privada,
+pelo sigilo da correspondência e das comunicações, além da proteção de dados
+pessoais (artigo 5º, incisos X e XII, da Constituição Federal).”
+
+28. Neste contexto, a Lei nº. 12.965/2014 (“Marco Civil da Internet”), conferiu
+disciplina específica à requisição judicial de dados de usuários de aplicações de
+Internet, como a plataforma Twitter, nos seguintes termos:
+
+"OE. STF já reconheceu, inclusive, o direito fundamental autônomo à proteção de dados pessoais e o direito à
+autodeterminação informativa (Referendo na Medida Cautelar na ADI nº 6.387 / DF, Rel. Min. Rosa Weber,
+julgado em 7.5.2020).
+PINHEIRO NETO
+
+ADVOGADOS
+
+“Art. 22. A parte interessada poderá, com o propósito de formar conjunto probatório
+em processo judicial cível ou penal, em caráter incidental ou autônomo, requerer ao
+juiz que ordene ao responsável pela guarda o fornecimento de registros de conexão
+ou de registros de acesso a aplicações de internet.
+
+Parágrafo único. Sem prejuízo dos demais requisitos legais, o requerimento
+deverá conter, sob pena de inadmissi jade:
+
+1- fundados indícios da ocorrência do ilícito;
+
+H - justificativa motivada da utilidade dos registros solicitados para fins de
+investigação ou instrução probatória; e
+
+HI - período ao qual se referem os registros.” (sem ênfase no original)
+
+ 
+ 
+
+24, Em decorrência da proteção conferida pela Constituição Federal e pelo Marco
+Civil da Internet, a requisição de dados de usuários é submetida ao preenchimento
+de requisitos legais, havendo necessidade da demonstração, pelo interessado, e
+apreciação judicial motivada, em relação a cada usuário específico, da existência
+de fundados indícios da ocorrência do ilícito, de justificativa sobre a utilidade dos
+dados para instrução probatória e esclarecimento quanto ao período ao qual se
+referem os registros.
 
  
 
- 
+25. Vale notar que, deixando tal exigência ainda mais clara, o artigo 11 do Decreto
+nº 8.771/2016, que regulamentou o Marco Civil da Internet, estabeleceu
+expressamente em seu $ 3º que “Os pedidos de que trata o caput devem
+especificar os indivíduos cujos dados estão sendo requeridos e as
+informações desejadas, sendo vedados pedidos coletivos que sejam genéricos
+ou inespecíficos”.
+
+26. Dessa forma, no respeitoso entendimento do TWITTER BRASIL, eventuais
+usuários cujo fornecimento de informações é pretendido devem ser devidamente
+individualizados e, após a efetiva apreciação de eventual conduta praticada por estes
+e caso constatado o preenchimento dos requisitos legais para a quebra de sigilo de
+dados, nos exatos termos do artigo 22 do Marco Civil, poderá ser determinada a
+quebra de sigilo.
+
+27. Note-se que, em procedimento análogo ao presente — CMPI das Fake News
+—, 0 |. Min. Rel. Luís ROBERTO BARROSO reconheceu que “os pedidos veiculados
+são excessivamente amplos”, tendo a parte requerente se eximido “de
+individualizar as condutas supostamente praticadas por cada um dos
+servidores”, bem como de indicar “a utilidade das informações e dados
+solicitados para fins de investigação ou instrução probatória”. Confira-se:
+PINHEIRO NETO
+
+ADVOGADOS
+
+“(...) 13. Sem adentrar no mérito da possibilidade de deferimento de tais providências
+investigativas no caso concreto, entendo que o requerimento protocolado perante a
+CPMI não está adequadamente fundamentado. Em primeiro lugar, o requerente
+deixa de individualizar as condutas supostamente praticadas por cada um dos
+servidores, de declinar as razões pelas quais seriam ilícitas e de instruir a
+petição com os indícios de que os agentes públicos seriam os efetivos autores
+dos supostos fatos. O arrazoado se limita a afirmar genericamente que os servidores
+teriam publicado postagens “ofensivas, difamatórias, injuriosas e caluniosas” e que
+isso poderia ser demonstrado por elementos de prova que não acompanham a
+petição. Além disso, anoto que, apesar de mencionar que as postagens teriam sido
+feitas por 11 (onze) agentes públicos, a peça postula acesso a informações e dados
+de 12 (doze) indivíduos.
+
+14. Em segundo lugar, o peticionante não esclarece a utilidade das informações
+e dados solicitados para fins de investigação ou instrução probatória. O
+documento afirma a sua intenção de investigar se as “atividades divulgadas nas redes
+violam os princípios da administração pública, constituem crimes contra a honra e
+incorrem em ato de improbidade administrativa”, mas não pontua quais aspectos das
+condutas dos servidores ou do contexto em que praticadas ainda precisariam ser
+apurados para a caracterização das infrações. A dúvida se dá também por ter sido
+consignado que a realização das postagens pelos servidores em dias úteis e horário
+comercial já estaria provada, inclusive por laudo pericial entregue à Comissão. Cabia
+ao requerente, no caso, esclarecer por que o acesso às informações e dados
+seria necessário para os fi icados.
+
+15. Em terceiro lugar, o solicitante não delimita as informações e dados
+
+efetivamente visados. Os pedidos veiculados são excessivamente amplos,
+abrangendo o fornecimento da íntegra de conversas mantidas pelos indiví
+
+da relação de contatos e seguidores de páginas, do histórico de pesq
+páginas acessadas, e do registro de acesso a aplicações. As razões não
+especificam quais informações e dados dentro desse universo seriam do interesse do
+requerente e tampouco apontam um intervalo de tempo dentro do qual esses
+elementos deveriam ser pesquisados. A corroborar essa percepção, cabe sublinhar
+um dos pedidos formulados, em que requerida a preservação de absolutamente todo
+o conteúdo disponível na conta ou eventualmente apagado e sua consolidação para
+coleta ou download. Está, portanto, evidenciada a plausibilidade das alegações dos
+impetrantes.
+
+(.)
+
+17. Diante do exposto, defiro o pedido liminar, para suspender os efeitos do ato de
+aprovação do Requerimento nº 296 pelos membros da CPMI Fake News, até o exame
+de mérito do presente writ. (...)” (STF, Mandado de Segurança nº 36.932/DF — sem
+ênfase no original)
 
  
 
- 
+28. Nesse mesmo sentido entendeu a |. Ministra ROSA WEBER, na ocasião do
+julgamento do Mandado de Segurança nº 37.017/DF — impetrado contra outro
+requerimento expedido nos autos daquela CPMI —, tendo restado consignado que o
+ponto sensível estaria “na extensão das medidas” requisitadas no âmbito daquela
+PINHEIRO NETO
 
- 
+ADVOGADOS
 
- 
+investigação. Confira-se trecho do v. acórdão:
 
- 
+“(...) O ponto sensível está, principalmente, na extensão das medidas, a abordar
+“todo o histórico”, “todos os seguidores”, “todo o conteúdo”. Essa extensão é
+conflitante, na verdade, com a indicação de prova preexistente, mas não aproveitada
+para delimitação do Requerimento, na medida em que, ao final do primeiro parágrafo
+da justificativa, há referência a um “laudo pericial apresentado, com prints das
+páginas”. Apesar desse registro, não há, no corpo do Requerimento, explicitação a
+respeito do conteúdo e das conclusões desse laudo. No contexto da controvérsia,
+essa ausência prejudica a higidez do instrumento onde tal explicitação deveria ter sido
+vertida. Há a indicação da prova, mas não sua utilização para delimitar o alcance do
+pedido. Com isso, possível aceitar, neste juízo perfunctório, que tal ausência esteja a
+permitir indevida extensão das providências a serem tomadas.
 
-j ai E DONE
-fgmed Hi nto
-a ad ado fo Marco
-ei elrdadBe Led ar Sida dIRjá O So SAR a ara me ds
-Et asas é 8
-báclus: é )
-apredia É : : Eua
-astuii | São Paulo, 28 de junho do SD. sgea
-raso ) 40es
-Bórroial pp. Gia antto
-tp am Arfáré Zonaro Giacchetta dada
-ines pasa OAB/SP nº 147702 - pelas
-pega q TgreeFA rê Bon ci
-figa, E j Guia sen
-ane fbara Amanda Vileta copar
-br Ê F séricos
-Covil: Hitynasi spent, atavesolstco dl E As. tes and.
-ci: rente
+Na mesma linha, o segundo parágrafo referido defende medidas para delimitar
+autoria de supostas “mensagens altamente ofensivas”. Nestes termos, ao
+mesmo tempo em que se dão por previamente conhecidas tais postagens
+(porque os termos da exposição pressupõem, justamente, ciência de tal
+conteúdo ilegítimo), há a extensão de tais providências a todo o conteúdo da
+página, não apenas à delimitação da autoria daquele material já reconhecido
+como indiciariamente ilícito. Assim, é de se chegar à conclusão perfunctória (dado
+o exame inaudita altera parte do pedido liminar) de que a quebra, da forma como
+delimitada, não está embasada pelos elementos anteriores numa concatenação apta
+a demonstrar que tal medida configura passo subsequente e necessário às
+investigações, a partir do quanto antes levantado. Ao contrário (ressalvado, reitero, o
+juízo provisório típico do exame de pedido liminar sem oitiva da parte contrária), as
+providências autorizadas aparentam destinarem-se a fornecer os próprios supostos
+ilícitos.
 
- 
+(.)
 
- 
+6. Ressalvada, à exaustão, a natureza perfunctória do juízo nesta oportunidade
+exarado, e sem prejuízo de mais aprofundado exame quando do julgamento do
+mérito, encontro na impetração densidade jurídica suficiente ao deferimento de
+medida liminar no tocante à suspensão da eficácia do Requerimento nº
+292/2019, pelos motivos expostos. (...)”. (sem ênfase no original)
 
-Pgpõe ap eine
+29. Diante disso, o TWITTER BRASIL respeitosamente entende que a solicitação
+de “Todo histórico de login efetuado, contendo o horário (timestamp) completo com
+fuso horário e os endereços IPs utilizados para esses logins com a porta lógica de
+origem (source port)” implicaria no fornecimento de dados de usuários que não
+necessariamente guardam relação com a investigação e o fornecimento dessas
+informações representaria evidente violação à sua intimidade e vida privada, além
+da violação à proteção de dados pessoais, sujeitando-os a investigação dessa CPI
+sem que se identifique indícios de ilicitude em suas condutas.
 
-EQuinl s para
-Usar y aço:
+30. Havendo a análise individualizada e respectiva constatação do
 
-jo, SãO
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+-Oo-
 

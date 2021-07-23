@@ -18,20 +18,27 @@ Anexo 3: HOSPITAIS DA MARINHA DO BRASIL
 
  
 
-Taxa de | Taxade | Taxade | Taxade | Taxade | Taxade | Taxado | Taxa de | Taxa de | Taxade | Taxade | Taxade | Taxade | Taxade | Taxade | Taxade
-Hosprrais mitrrares | FA | Up| Sstpação |ocupação| ocupação Jocupação ocupação ocupação) ocupação jocupação joapação| ocupação) ocupação |ocupação ocupação ocupação) omipação jocupação|
+ 
 
-JAN 202 | FEV 2021 | MAR 201 | ABR 2024) JAN 2021 | FEV 2021 MAR 2021] ABR 2021] JAN 2021 | FEV 2021 | MAR 21] ABR 2024] JAN 2021 | FEV 2021 |MAR2021] ABR 2001
+ 
 
-leitos UM /COVID' Leitos Enfermaria /COVID leitos UM / Não cOvID Leitos Enfermaria / Não COVID
+ 
 
-[Esso Naval Merdiio Diafue ii | 550% | sont | s7 20% [ 10h06 [ 8,20% | s000% | 85,505 T esco | osio% | 6760 [ 85704 [65505 | Eoonis | at205 | Esso To ao
-Hospital Naval de Salvador |VB[BA| - = = = frao 30% [82304 [85305 [soco | - = - = [B110% [8170% | 930% [ 78,20%
-HospitaiNavaldo Natal |uBjaN/ = - - = [soa | 81404 | esco [sa | = - - = | s260% | 81704 | 86,30% [ 88,00%
-HospitmiNavalde Recite uB/pE [| = = = [83,20% [ 82508 | 630% [e010%| = = = = [ema | 8a60% | es, s0% [ noso
-HospitaiNavalde Belém [uelpa| - - - = | miso | nara | erso% [r6soa | - - - - | mos | 82204 | esmo F 09,00%
-Fospitalnavalde Ladário |MB/Ms| - E E E S E z E E E E = | 623% [84304 | 85,60% | aooocré
-[Hospital Naval de Brastia [mpjDF | - = = - - - - = - = = = | en,20% [ 82,60% | ma, 005 [70,00%
+Taxade | Taxade | Taxade | Taxade | Taxade | Taxade | Taxade | Taxado | Taxade | Taxade | Taxade | Taxade | Taxade | Taxade | Taxade | Taxade
+Hospitais MILITARES: |FA [UF Daupação |ocupação| ocupação | ocupação| ocupação |ocupação| oaipação | ocupação | poupação | ocupação | ocupação | ocupação |jDapação | ocupação| oaupação | ocupação
+JAN'2024 | FEV 2021 |MAR 2021] ABR 2021] JAN 2021 | FEV 2021 | MAR 2021 | ABR 2021] JAN 2021 | FEV 2071 | MAR 2021 | ABR 2021 | JAN 2021 | FEV 2021 | MAR 2021] ABR 2021
+Leitos UT / COVID Leitos Enfermaria / COVID Leitos UT / Não COVID Leitos Enfermaria / Não COVID
+Hospital Naval IMardlio DiajMB |RI | 83,80% | 80,10% | 87,20% | 1D0/00% [ 81,20% L BO,00% E 83,50% ; B8,00% | 94,10% | 87,60% | 85,20% T 8,50% | 80,60% | 81,30% | 83,10% | 90,40%
+Hospital Naval de Salvador [MB [Ba E 2 E E 80,20% | 22086 [as am | 80,00% E E E E 11% | 81,70% | 83,20% | 28208
+Hospital Naval de Natal IME RN E E E E 82,30% | Bi 40% | 85,60% | 83,30% E E = E as, 60% | B170% | B630% | 88,00%
+Hospital Naval de Recife |MB|PE E > = = 83, 20% | B250% | 86,30% r 80, 1056 É E = E 80,30% | 83,60% | 84,80% | 86,90%
+Hospital Naval de Belém |MB|PA E E E E 81,50% | B410 | 87,90% | 76,50% õ E E - 80,90% | 82,30% | B680% | 99,00%
+Hospital navalde Ladário |MEjms|  - E = E 5 E E = E E = E ao. 40% | 8420% | B5, 60% | iDnona
+Hospitzl Naval de Braslia [ME |DF = E E = = = = E = E E = 81,20% | 8260 | 84,50% [ 75,00%
+
+ 
+
+ 
 
  
 
@@ -119,26 +126,22 @@ Taxa de ocupação entre os meses de janeiro a abril de 2021
 
  
 
- 
-
- 
-
- 
-
-HOSPITAIS MILITARES FA | UF | leitos UTICOVID | Leitos Enfermaria COVID | Leitos UTI não COVID | Leitos Enfermaria não COVID
-Hospital Naval Marcílio Dias MB | Ry 30 Bs 30 160
+HOSPITAIS MILITARES FA | UF | Leitos UTI COVID Leitos Enfermaria COVID | Leitos UTI não COVID Leitos Enfermaria não COVID
+Hospital Naval Marcilio Dias MB | RI 30 85 30 160
 Hospital Naval de Salvador MB | BA o 10 o 14
 Hospital Naval de Natal MB | RN o 15 o 8
 Hospital Naval de Recife MB | PE o 10 0 8
-Hospital Naval de Belém MB | PA o 20 o s
-Hospital naval de Ladário MB | Ms 0 o 0 E
+Hospital Naval de Belém MB | PA o 20 0 5
+Hospital naval de Ladário MB | MS 0 o 0 1
 Hospital Naval de Brasilia MB | DF 0 0 0 5
 Observações:
-1.- Referente aos questionamentos 3.) e b) do RQS nº 377 CPI PANDEMIA.
-|2- A quantidade de leitos clínicos e de UTI disponíveis para pacientes COVID-19 e para outras
+1- Referente aos questionamentos 3. a) e b) do ROS nº 377 CPI PANDEMIA
+2-A quantidade de leitos clínicos e de UTI disponiveis para pacientes COVID-19e para outras
 enfermidades, do Sistema da Saúde da Marinha (SSM), constam do endereço eletrônico:
 
-rinha mil. br/dsm/lei
+iarinha.mil.br/dsm, E
+
+       
 
  
 
@@ -153,6 +156,4 @@ hospitais civis, nas respectivas regiões. Nos momentos de maior incidência de 
 pacientes para outras Organizações Militares de Saúde, na mesma cidade ou em outros centros; deslocamentos de equipes de saúde entre essas organizações;
 interrupção de procedimentos médicos eletivos quando necessário; encaminhamento dos pacientes para serviços credenciados da rede privada. Diante do
 exposto, depreende-se a não existência, nesse período, de leitos ociosos, por conta das peculiaridades do Sistema de Saúde Militar.
-
- 
 

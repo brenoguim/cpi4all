@@ -1,9 +1,7 @@
- 
-
-SEL/PMC - 3799470 - Despacho https://sei.campinas.sp. gov.br/sei/controlador php ?acao=documento im.
+SEL/PMC - 3799470 - Despacho https://sei.campinas.sp.gov.br/sei/controlador.php?acao=documento im...
 
 PREFEITURA MUNICIPAL DE CAMPINAS
-“Av Anchieta, 200 - Bairro Centro - CEP 13015-904 - Campinas - SP - www. campinas.sp govbr
+Av Anchieta, 200 - Bairro Centro - CEP 13015-904 - Campinas - SP - www.campinas.sp.govbr
 Paço Municipal
 
 PMC/PMC-SMS-GAB/PMC-SMS-DGRF-FMS
@@ -13,28 +11,26 @@ Campinas, 06 de maio de 2021.
 a
 SMS - Gabinete
 SMGC - DMG
-SMI-GAB
+SMJ - GAB
 
 Em razão da adequação e preparação dos documentos solicito avaliarem a viabilidade da dilação do
 prazo.
 
  
 
-il “| Documento assinado eletronicamente por REINALDO ANTONIO DE OLIVEIRA, Diretor(a)
-ser (2) | de Departamento, em 06/05/2021, às 15:51, conforme art. 10 do Decreto 18.702 de 13 de abril de
+Cc eil Documento assinado eletronicamente por REINALDO ANTONIO DE OLIVEIRA, Diretor(a)
+Dedo B de Departamento, em 06/05/2021, às 15:51, conforme art. 10 do Decreto 18.702 de 13 de abril de
+eletrônica 2015.
 
-Sssinmtura
-
-Blctrôniea 2015.
+ 
+   
+  
 
  
 
  
 
-     
- 
-
-É A autenticidade do documento pode ser conferida no site https:/se.campinas.sp.govbr/verifica
+- A autenticidade do documento pode ser conferida no site https://sei.campinas.sp.gov.br/verifica
 informando o código verificador 3799470 e o código CRC D1530168.
 
  
@@ -43,7 +39,7 @@ informando o código verificador 3799470 e o código CRC D1530168.
 
  
 
-PMC2021.00024507-82. 37984702
+PMC.2021.00024507-82 3799470v2
 
-Lofl 10/05/2021 14:27
+Lof1 10/05/2021 14:27
 

@@ -1,28 +1,356 @@
-somaroas SEUANVISA - 1505420 - Nota Técnica
+30/06/2021 SEI/ANVISA - 1505120 - Nota Técnica
+
+= ANVISA
+
+7 Agência Nacional de Vigilância Sanitária
+
+NOTA TÉCNICA Nº 32/2021/SEI/DIRES/ANVISA
+
+Processo nº 25351.918347/2021-94
+Requerimento nº 928/2021 - CPIPANDEMIA.
+
+1. Relatório
+
+Trata-se de manifestação da Quinta Diretoria (DIRE5) em resposta ao Ofício nº 1621/2021
+— CPIPANDEMIA e Requerimento nº 928/2021 - CPIPANDEMIA (1503071), do qual consta solicitação de
+informações sobre a produção, exportação e importação da vacina Sputnik V, especialmente no que se
+refere às razões que impedem a utilização interna de uma vacina produzida e exportada pelo Brasil.
+
+Inicialmente, cumpre esclarecer que os pedidos de importação da vacina Sputnik V
+protocolados pelos entes subnacionais foram ancorados em legislação recente, a Lei nº 14.124/21, que
+veio a disciplinar modalidade regulatória nova, denominada: Autorização Excepcional e Temporária para
+a Importação.
+
+Essa modalidade instituída pela Lei em nada se confunde com os processos que resultam
+em concessão de registro da vacina ou que permitem o seu uso emergencial. Nas modalidades
+regulatórias de registro de uma vacina ou de autorização do uso emergencial, o trabalho exercido pela
+Anvisa é constituído de exame robusto, detalhado, de reconhecido rigor analítico, ensejando, ou não, o
+aval e o selo da Anvisa em função dos aspectos de segurança, qualidade e eficácia.
+
+A importação excepcional, por sua vez, se constitui de modalidade regulatória com rito, em
+princípio, mais abreviado e acelerado, na medida em que a Anvisa pode se limitar a inferir, a partir de um
+relatório técnico emitido por uma das autoridades sanitárias definidas pela Lei nº 14.124/21, se aspectos
+de segurança, qualidade e eficácia foram observados por tal autoridade.
+
+De acordo com o art. 16 da referida Lei, a União, os Estados, os Municípios e o Distrito
+Federal podem promover a importação excepcional de vacinas para combater a Covid-19, que não
+possuam o registro sanitário ou autorização de uso emergencial na Anvisa, desde que registradas ou
+autorizadas para uso emergencial pelas autoridades sanitárias estrangeiras que define, entre as quais, a
+autoridade da Rússia.
+
+Merece registro que o legislador, por meio da Lei nº 14.124/21, estabeleceu a
+possibilidade de importação excepcional de vacina, sem registro na Anvisa, quando o pedido é lastreado
+em registro ou em uso emergencial de vacina ou medicamento obtido ou aprovado em autoridade
+regulatória estrangeira definida pela lei. Para tanto, a norma dispõe que o pedido deve ser guarnecido
+com o próprio documento de registro ou com o certificado de uso emergencial alcançado na autoridade
+estrangeira, e ainda com o relatório técnico da avaliação da vacina, emitido ou publicado por aquela
+autoridade sanitária internacional, tendo que ser capaz de comprovar que a vacina atende aos padrões
+de qualidade, de eficácia e de segurança estabelecidos pela OMS ou pelo ICH e pelo PIC/S.
+
+Assim, diante da apresentação do relatório técnico da vacina previsto na lei, cabe à Anvisa
+avaliar e decidir — já que lhe compete, nos termos da mesma lei, oferecer parecer sobre a importação —
+se o relatório apresentado atende aos requisitos de qualidade, de eficácia e de segurança estabelecidos
+na norma.
+
+Estabeleceu a Lei, também, que a Anvisa, conforme estabelecido em ato regulamentar
+próprio - RDC nº 476/21 -, deve oferecer parecer e decidir em sete dias úteis sobre o pedido de
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1505120.html 1/5
+30/06/2021 SEI/ANVISA - 1505120 - Nota Técnica
+
+importação. Contudo, prevê a norma que, na ausência do relatório técnico de avaliação da autoridade
+sanitária internacional, o prazo dessa decisão será de até 30 (trinta) dias.
+
+2. Análise
+
+Os pedidos de importação da vacina Sputnik V foram protocolados pelos estados conforme
+requerimentos estabelecidos pela Lei nº 14.124/21 e RDC nº 476/21. Os referidos pleitos foram
+instruídos com os seguintes documentos:
+
+- Ofícios contendo o cronograma de importação;
+
+- Declaração atestando o descumprimento do Plano Nacional de Operacionalização da
+Vacinação contra a Covid-19;
+
+- Declaração atestando a adoção das estratégias de monitoramento e cumprimento das
+diretrizes de farmacovigilância;
+
+- Certificado do registro do produto na Rússia, país onde o produto é fabricado;
+- Relatório técnico de avaliação da vacina emitido pelo Ministério da Saúde da Rússia.
+
+Assim, toda a documentação requerida pela Lei nº 14.124/21 e pela RDC nº 476/21 foi
+apresentada pelos requerentes nos referidos processos de importação. Cumpre destacar a apresentação
+de documento de enorme relevância para o processo de deliberação e que funciona como requisito legal
+e balizador de referência para as avaliações técnicas da agência nos processos de importação em caráter
+excepcional. Trata-se do relatório técnico de avaliação da vacina emitido pela autoridade sanitária
+estrangeira, no caso, da Rússia, em atendimento ao 8 38, do art. 16, da Lei nº 14.124.
+
+Além do referido relatório, merece destaque o envio de um ofício, subscrito pelo Consórcio
+Nordeste, contendo ponderações e proposições para contribuir com a tomada de decisão acerca dos
+pedidos de autorização excepcional da vacina Sputnik V protocolados pelos estados do Nordeste, dentre
+as quais a adoção, em caráter de excepcionalidade, de medidas de contingência que estariam sob sua
+responsabilidade especialmente a assinatura de Termo de Compromisso perante esta Agência, realização
+de estudos de efetividade, a partir da importação e aplicação dos primeiros lotes da vacina,
+implementação de programa de monitoramento de eventos adversos (farmacovigilância) e submissão de
+todos os lotes da vacina aos devidos testes de controle de qualidade em laboratórios públicos.
+
+O Relatório Técnico emitido pelo Ministério da Saúde da Rússia descreve a análise
+realizada para o registro da vacina Gam-COVID-Vac (marca registrada - Sputnik V), desenvolvido por N.F.
+Gamaleya National Research Center of Epidemiology and Microbiology. O documento informa que o
+registro da vacina Gam-COVID-Vac foi realizado de acordo com os requisitos regulatórios adotados na
+Federação Russa, bem como de acordo com práticas internacionais. A prática regulatória da Federação
+Russa para o registro de vacinas cumpre integralmente os requisitos recomendados pela OMS e ICH, em
+particular as “Diretrizes sobre avaliação clínica de vacinas: expectativas regulatórias”.
+
+Ademais, foi apresentado o comprovante de registro da vacina na Rússia. Esse documento
+apresenta os seguintes dados sobre os estágios de fabricação e respectivos fabricantes:
+
+ 
+
+Nº Etapa de
+
+. as Nome do fabricante Endereço País
+item | Fabricação
+
+ 
+
+FGBU “NITSEM «M.FGamaley»” do Ministério
+Controle de da Saúde de Rússia (Filial “Megamal” do FGBU 123098, cid. Moscou, r Ulitsa
+
+ 
+
+ 
+
+1 | qualidade “NITSEM «M.FGamaley»” do Ministério da Gamalei, No 18 Rússia
+Saúde de Rússia)
+“medicamento 124460, cid. Moscou, cid. .
+2 pronto" AO Binnofarm Zelenograd, r. Ulitsa Konstruktora | Rússia
+Guskova, No 3. Estrutura 1.
+3 | "medicamento AO GENERIUM 601125, território Vladimirsakya | Rússia
+pronto" obl. Região Petushinskiy r-n,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1505120.html 2/5
+30/06/2021
+
+SEI/ANVISA - 1505120 - Nota Técnica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+povoado Volginskiy, r. UI.
+Zavodskaya, Estrut. 263
+“medicamento Território Yaroslavskaya obl. g.o.
+4 n AO R-Farm cid. Yaroslavl, rua UI. Gromova, Nº | Rússia
+pronto
+15
+“medicamento Cid. São Petersburgo, povoado
+5 n ZAO BIOKAD Strelna, rua UI. Svyazi, Nº 38, Rússia
+pronto
+Estrut. 1
+601125, território Vladimirsakya
+6 “medicamento ZAO LEKKO obl. Região Petushinskiy rn, Rússia
+pronto povoado Volginskiy, r. UI.
+Zavodskaya, Estrut. 277
+601125, território Vladimirsakya
+7 “medicamento ZAO LEKKO obl. Região Petushinskiy rn, Rússia
+pronto povoado Volginskiy, r. UI.
+Zavodskaya, Estrut. 279
+“medicamento 450077, República do
+8 pronto" OAO Farmstandart — UfaVITA Bascortostão, cid Ufa, rua UI. Rússia
+Khudayberdina, Ne 28
+FGBU “NITSEM «M.F.Gamaley»” do Ministério
+9 "medicamento | da Saúde de Rússia (Filial “Megamal” do FGBU 123098, cid. Moscou, r Ulitsa Rússia
+pronto” “NITSEM «M.FGamaley»” do Ministério da Gamalei, No 18
+Saúde de Rússia)
+124460, cid. Moscou, cid.
+10 Envase AO Binnofarm Zelenograd, r. Ulitsa Konstruktora | Rússia
+Guskova, Nº 3. Estrutura 1.
+601125, território Vladimirsakya
+4 Envase AO GENERIUM obl. Região Petushinskiy rn, | pç
+povoado Volginskiy, r. UI.
+Zavodskaya, Estrut. 263
+Território Yaroslavskaya obl. g.o.
+12 Envase AO R-Farm cid. Yaroslavl, rua UI. Gromova, Nº | Rússia
+15
+Cid. São Petersburgo, povoado
+13 Envase ZAO BIOKAD Strelna, rua UI. Svyazi, No 38, Rússia
+Estrut. 1
+601125, território Vladimirsakya
+14 Envase ZAO LEKKO obl. Região Petushinskiy rn, — | arca
+povoado Volginskiy, r. UI.
+Zavodskaya, Estrut. 277
+601125, território Vladimirsakya
+15 Envase ZAO LEKKO obl. Região Petushinskiy -n, | prcoia
+povoado Volginskiy, r. UI.
+Zavodskaya, Estrut. 279
+450077, República do
+16 Envase OAO Farmstandart — UfaVITA Bascortostão, cid Ufa, rua UI. Rússia
+Khudayberdina, Ne 28
+FGBU “NITSEM «M.EGamaley»” do Ministério
+1 Envase da Saúde de Rússia (Filial “Megamal” do FGBU 123098, cid. Moscou, r Ulitsa Rússia
+“NITSEM «M.FGamaley»” do Ministério da Gamalei, No 18
+Saúde de Rússia)
+Embalagem 124460, cid. Moscou, cid.
+18 secundária/ AO Binnofarm Zelenograd, r. Ulitsa Konstruktora | Rússia
+terciária Guskova, Ne 3. Estrutura 1.
+19 Embalagem AO GENERIUM 601125, território Vladimirsakya | Rússia
+secundária/ obl. Região Petushinskiy r-n,
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1505120.html 3/5
+30/06/2021 SEI/ANVISA - 1505120 - Nota Técnica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+terciária povoado Volginskiy, r. UI.
+Zavodskaya, Estrut. 263
+Embalagem Território Yaroslavskaya obl. g.o.
+20 secundária/ AO R-Farm cid. Yaroslavl, rua UI. Gromova, Nº | Rússia
+terciária 15
+
+ 
+
+ 
+
+Portanto, conforme pode ser observado na tabela acima, nenhuma planta fabril localizada
+no Brasil encontra-se aprovada pela autoridade sanitária da Rússia para fabricação da vacina Sputnik V.
+Nesse sentido, reforça-se que qualquer lote da vacina fabricado em locais diversos do estabelecido no
+registro concedido pela autoridade sanitária Russa não atenderia ao disposto na Lei nº 14.124/21, visto
+que tal legislação objetiva permitir que os dados de qualidade, segurança e eficácia da vacina sejam
+inferidos a partir da análise realizada por outra autoridade sanitária e, portanto, a vacina a ser importada
+deve estar de acordo com o registro concedido pela referida autoridade.
+
+Ademais, a RDC nº 476/21, que regulamentou a Lei acima mencionada, estabelece que os
+produtos importados devem ter qualidade, segurança e eficácia atestadas por meio da comprovação do
+registro pelas autoridades sanitárias internacionais definidas na Lei. Ainda, a referida Resolução dispõe
+que todos os lotes do produto a ser fornecido a partir da autorização excepcional e temporária para a
+importação devem atender às condições aprovadas pela autoridade sanitária internacional.
+
+Assim, tem-se que os lotes a serem importados devem ser provenientes dos locais de
+fabricação aprovados pela autoridade sanitária da Rússia, a qual foi a autoridade de referência utilizada
+para a deliberação referente à importação da vacina Sputnik V pelos estados da federação. Mais
+especificamente, a deliberação da Diretoria Colegiada (DICOL) da Anvisa determinou como um dos
+condicionantes à importação que todos os lotes a serem destinados ao Brasil devem ser provenientes das
+plantas produtivas inspecionadas pela Anvisa: Generium e  Pharmstandard  UfaVita
+(https://www.gov.br/anvisa/pt-br/composicao/diretoria-colegiada/reunioes-da-
+diretoria/votos/2021/copy2 of rextra-9-de-2021/voto-163-2021-dire5.pdf).
+
+Aqui, importa destacar que, considerando-se as lacunas de informação ainda existentes no
+âmbito do processo de autorização de uso emergencial da vacina Sputnik V em análise na Anvisa, as
+quais foram extensamente debatidas durante a 92 Reunião Extraordinária da DICOL, de 04 de junho de
+2021, (https://www.gov.br/anvisa/pt-br/composicao/diretoria-colegiada/reunioes-da-
+diretoria/processos/2021/copy. of processos-deliberados-na-9a-reuniao-extraordinaria-de-04-de-junho-
+de-2021), fez-se necessário estabelecer a adoção de responsabilidades e condicionantes para autorização
+da importação excepcional, para fins de distribuição e uso da vacina em condições controladas, a fim
+de promover a proteção da saúde da população, por intermédio do controle sanitário.
+
+Dessa forma, cumprindo as disposições da Lei nº 14.124/21 e da RDC nº 476/21,
+foram aprovados, até este momento, os pedidos de autorização para importação excepcional, para fins
+de distribuição e uso da vacina Sputnik V em condições controladas pelos estados da Bahia, Maranhão,
+Sergipe, Ceará, Pernambuco, Piauí, Rio Grande do Norte, Mato Grosso, Rondônia, Pará, Alagoas, Amapá,
+Paraíba, Goiás e Amazonas. Para tanto, foram estabelecidos 22 condicionantes que deverão constar em
+Termo de Compromisso a ser celebrado entre a Anvisa e respectivos Governadores e Secretários de
+Saúde, como requisito para o deferimento do Licenciamento de Importação (LI) da vacina.
+
+3. Conclusão
+
+A importação da vacina Sputnik V foi autorizada por força da Lei nº 14.124/21 e, portanto,
+os aspectos de qualidade, segurança e eficácia da vacina foram atestados por meio do registro concedido
+pela Autoridade Sanitária da Rússia. Portanto, não foram considerados os aspectos regulatórios
+ordinários aplicáveis pelas áreas técnicas desta Agência que asseguram a comprovação de qualidade,
+segurança e eficácia de vacinas para autorização de registro ou uso emergencial no Brasil.
+
+Os lotes da vacina a serem importados ao Brasil devem estar de acordo com o regsitro
+concedido pela autoridade Russa, não podendo ser provenientes de locais de fabricação diferentes dos
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1505120.html 415
+30/06/2021 SEI/ANVISA - 1505120 - Nota Técnica
 aprovados pela referida autoridade, conforme estabelecido pela RDC nº 476/21.
 
-Documento assinado eletronicamente por Daniela Marreco Cerqueira, Assessor(a), em 28/06/2021,
-às 18:38, conforme horário oficial de Brasília, com fundamento no art. 5 3º do art. 4º do Decreto nº
+ 
 
-10.543, de 13 de novembro de 2020 http://www planalto.gow.br/ccivil 03/ ato2019-
+il
+ade É
+eletrônica
+
+Documento assinado eletronicamente por Daniela Marreco Cerqueira, Assessor(a), em 28/06/2021,
+às 18:38, conforme horário oficial de Brasília, com fundamento no art. & 3º do art. 4º do Decreto nº
+
+10.543, de 13 de novembro de 2020 http://www. planalto.gov.br/ccivil 03/ ato2019-
 2022/2020/decreto/D10543.htm.
 
-sei
-
      
+   
 
-X: A autenticidade deste documento pode ser conferida no site https://sei anvisa.gov.br/autenticidade,
-3 Informando o código verificador 1505120 e o código CRC 853B18F8.
-
- 
-
- 
+, a A autenticidade deste documento pode ser conferida no site https://sei.anvisa.gov.br/autenticidade
+= informando o código verificador 1505120 e o código CRC 853B18F8.
 
  
 
  
 
-Referência: Processo nº 25351.918347/2021:94] SEInê 1505120.
+Referência: Processo nº 25351.918347/2021-94 SEI nº 1505120
 
-files/CPIPandemia DadosTemporariosídos 1293 anvisa ostensivolNota Tecnica 1505120.html ss
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1505120.html 5/5
 

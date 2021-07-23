@@ -1,6 +1,94 @@
-Prefeitura Municipal de Manaus “monges OR RE PR
+Prefeitura Municipal de Manaus CELIO SM *Administração Findhiceira integrada
 
-  
+Nota de Empenho
+
+ 
+
+ 
+
+Unidade Gestora
+
+ 
+
+ 
+
+ 
+
+ 
+
+230701 - Fundo Municipal de Saúde Número Documento Data Emissão
+2020NE01463 29/04/2020
+
+Gestão Processo
+
+00007 - Fundos 2020/01637/01412/0/001700
+
+Credor Licitação Referência
+
+09158222000101 - TELESCA REPRESENTAÇÕES MATERIAS HOSPITALARES EIRELI 05 - Dispensa de Art.24; IV; Lei 8.666/93
+
+Licitação
+Evento modalidade Valor
+400091 - NCASP - Empenho de despesa 1 - Ordinário 2.200.000,00
+
+ 
+
+ 
+
+ 
+
+Unidade Orçamentária 23701 - Fundo Municipal de Saúde
+Programa Trabalho 10.305.0151.1096.0000 - Fortalecimento das Ações Emergenciais de Enfrentamento à Pandemia da Covid-19
+
+ 
+
+Fonte Recurso 02140100 - Transferência do SUS para o Enfrentamento da Covid-19
+
+Natureza Despesa 33903035 - Material Laboratorial
+
+Município: 0260 - Manaus Origem do Material: Tipo de Empenho: 09 - Despesa Normal
+Convêni
+
+ 
+
+Número de Processo do Compras Manaus: 230701.20201637141201700/2020
+Cronograma de Desembolso
+Janeiro 0,00 Fevereiro 0,00 Março 0,00 Abril 2.200.000,00 Maio 0,00 Junho 0,00
+
+ 
+
+Julho 0,00 Agosto 0,00 Setembro 0,00 Outubro 0,00 Novembro 0,00 Dezembro 0,00
+
+ 
+
+Descrição dos Itens.
+
+ 
+
+Unid. Med. ID Descrição Qtde Preço Unitário Preço Total
+teste 512037 TESTE RÁPIDO COVID-19, Finalidade: Teste rápido utilizado para triagem da 25000 88,0000 2.200.000,00
+infecção pelo virus da Síndrome Respiratória Aguda Grave do Coronavírus 2
+(Sars-Cov-2), somente uso diagnóstico in vitro, Amostra: Soro, plasma e sangue
+total, Descrição: Teste rápido qualitativo para a detecção de anticorpos
+específicos IgM e IgG anti-SarsCov-2 por imunocromatografia de fluxo lateral,
+com temperatura de armazenamento entre 2a 30, aplicação manual,
+embalagem contendo dados de identificação do produto, data de fabricação e
+prazo de validade, Unidade de Fornecimento: Teste. Marca: ACRO BIOTECH
+Complemento: FONTE: COVID-A9ISUS
+OS MATERIAIS DESTINAMSE AOS EAS/SEMSA, AS AÇÕES DE PREVENÇÃO E
+CONTROLE DE COMBATE AO COVID-19.
+PRAZO DE ENTREGA: 15 DIAS
+DECRETO Nº 4.787 DE 23/03/2020
+LEI Nº 2.603 DE 17/04/2020.
+Modalidade: Registro de Dispensa de Licitação
+Edital nº: RDL 018/2020
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged manaus .am.gov.br/cadastrousuarioexterno/verificacao aspx INFORMANDO O CÓDIGO: 38449D25
+
+ 
+Prefeitura Municipal de Manaus CEE SS Administração Pinancéira integrâda
+
+Nota de Empenho
 
  
 
@@ -18,84 +106,311 @@ Prefeitura Municipal de Manaus “monges OR RE PR
 
  
 
-á Nota de Empenho
-ET NómeraDecumento | Exa Enisão
-ipal
+Unidade Gestora o o
 
-SpoONE dação a9n62028
-Gestão Processo NE Eriginal
-68067: Fundos Bee Gg: 6570 14 2/njon aaa
-Eredor bigitagão Referência
-ARAAGRRANAAA DA - ERRAR RPSENTASÃE MRE Anes REU | onppriigpmadficO | MrZgNM ba hei
-Evento Modalidade Valor
-400091 - NCASP - Empenho de despesa 1: Ordinário, 600.000,00
+230701 - Fundo Municipal de Saúde Número Documento Data Emissão
+2020NE03922 05/10/2020
 
- 
+Gestão Processo
 
- 
+00007 - Fundos 2020/01637/01412/0/004836
 
- 
+Credor Licitação Referência
 
-Unidade Orçamentária 23701 - Fundo Munidpal de Saúdo
-Programa Trabalho  10.305.0151.1095.0000 - Fortalecimento das Ações Emergenciais de Enfrentamento à Pandemia da Covid-19
-Fonte Recurso 02140100 Transforência do SUS para o Enfrentamento da Covid-19
+14633154000206 - ECO DIAGNOSTICA LTDA 05 - Dispensa de Art.24; IV; Lei 8.666/93
 
-Natureza Despesa — 33903085 - Material Laboratorial
-
-0260-Manaus Origem do Mater
+Licitação
+Evento modalidade Valor
+400091 - NCASP - Empenho de despesa 1 - Ordinário 450.000,00
 
  
 
+Unidade Orçamentária 23701 - Fundo Municipal de Saúde
+Programa Trabalho 10.305.0151.1096.0000 - Fortalecimento das Ações Emergenciais de Enfrentamento à Pandemia da Covid-19
+
  
 
-Tipo de Empenho: 09- Dosposa Normal
+Fonte Recurso 02140100 - Transferência do SUS para o Enfrentamento da Covid-19
+Natureza Despesa 33903035 - Material Laboratorial
+Município: 0260 - Manaus Origem do Material: Tipo de Empenho: 09 - Despesa Normal
 
  
+
+Convênio:
+Número de Processo do Compras Manaus: 230701.20201637141204836/2020
 
 Cronograma de Desembolso
 
+Janeiro 0,00 Fevereiro 0,00 Março 0,00 Abril 0,00 Maio 0,00 Junho 0,00
+
+Julho 0,00 Agosto 0,00 Setembro 0,00 Outubro 450.000,00 Novembro 0,00 Dezembro 0,00
+
  
 
-Janeiro 0,00 Fevereiro 0,00 Março 0,00 Abri 0,00 tso, 0,00 Junho 0,00
-duto 0,00 Agosto 0,00 Setembro 0,00 Outubro 0,00 Novembro 800.000,00 Dezembro 0,00
+ 
+
 Descrição dos Itens.
 
  
 
  
 
+Uni
+
+   
+
+. Med. ID Descrição Qtde Preço Unitário Preço Total
+teste 512037 TESTE RÁPIDO COVID-19, Finalidade: Teste rápido utilizado para triagem da 10000 45,0000 450.000,00
+infecção pelo vírus da Síndrome Respiratória Aguda Grave do Coronavírus 2
+(Sars-Cov-2), somente uso diagnóstico in vitro, Amostra: Soro, plasma e sangue
+total, Descrição: Teste rápido qualitativo para a detecção de anticorpos
+específicos IgM e IgG anti-SarsCov-2 por imunocromatografia de fluxo lateral,
+com temperatura de armazenamento entre 2a 30, aplicação manual,
+embalagem contendo dados de identificação do produto, data de fabricação e
+prazo de validade, Unidade de Fornecimento: Teste. Marca: ECO DIAGNÓSTICA
+Complemento:
+FONTE: COVIDA9/SUS
+DESTINO: EAS'S/SEMSA, PARA O COMBATE A COVID-19
+PRAZO DE ENTREGA: 30 (TRINTA) DIAS,
+ADESAO A ATA DE REGISTRO DE PREÇOS Nº 0148/2020 - 2-+-COMPRAS.AM
+RESULTANTE DA DISPENSA DE LICITAÇÃO Nº RDL 004/2020, REALIZADO POR
+MEIO DO CENTRO DE SERVIÇOS COMPARTILHADOS - CSC/SEFAZ
+OBS: R$ 400.000,00 (SERA EPF Nº 71040005-BANCADA DO AMAZONAS)
+
+R$ 50.000,00 (SERA COVID-19, REPASSADO PELO FUNDO NACIONAL DE
+SAUDE)
+Modalidade: Compra de Ata Externa
+Edital nº: CAE 152/2020
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM hitp://siged.manaus.am.gov br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 3845A30A
+
+ 
+Prefeitura Municipal de Manaus CEE SS Administração Pinancéira integrada
+
+Nota de Empenho
+
  
 
-Unid Med ID Grde — Preço Unitário Preço Total
-testa 512987 TESTE RÁPIDO COMIDAS, Finalidade: Tosta rápido utlizado para triagem da” 20900 20000 60000000
-infecção polo vinis da Sindtoma Respiratória Aguda Grava. do Coronavins 2
-(SarsCov.2), — semarta uso diagnóstico in vito, Amosta- Soro, plasma o sangua
-total Descrição: Teste rápido qualiaivo para a deigeção do  amicorpos
-aspacífoos IgM a 196 artiSars-Cov2 por imnocomatogiata do fiuxo Istra,
-com temparmtura da amazanamento artio 25 30C, aplicação mania,
-embalagem cortando dados do idartíicação do produto, data do fabricação a
-prazo da validada, Unidade da Fernacimarto: Toste. Marca: wama
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Unidade Gestora o o
+
+230701 - Fundo Municipal de Saúde Número Documento Data Emissão
+2020NE04599 17/11/2020
+
+Gestão Processo
+
+00007 - Fundos 2020/01637/01412/0/005544
+
+Credor Licitação Referência
+
+06997366000163 - FIGUEIREDO COMERCIO DE ARTIGOS MEDICOS - EIRELI 08 - Pregão Eletrônico Art 2º,8 1º, Lei 10.520/02
+
+Evento Modalidade Valor
+
+400091 - NCASP - Empenho de despesa 1 - Ordinário 68.900,00
+
+ 
+
+Unidade Orçamentária 23701 - Fundo Municipal de Saúde
+Programa Trabalho 10.305.0151.1096.0000 - Fortalecimento das Ações Emergenciais de Enfrentamento à Pandemia da Covid-19
+
+ 
+
+Fonte Recurso 02140100 - Transferência do SUS para o Enfrentamento da Covid-19
+Natureza Despesa 33903035 - Material Laboratorial
+Município: 0260 - Manaus Origem do Material: Tipo de Empenho: 09 - Despesa Normal
+
+ 
+
+Convênio:
+Número de Processo do Compras Manaus: 010011.01637014120005544/2020
+
+Cronograma de Desembolso
+
+Janeiro 0,00 Fevereiro 0,00 Março 0,00 Abril 0,00 Maio 0,00 Junho 0,00
+
+Julho 0,00 Agosto 0,00 Setembro 0,00 Outubro 0,00 Novembro 68.900,00 Dezembro 0,00
+
+ 
+
+ 
+
+Descrição dos Itens.
+
+ 
+
+ 
+
+Uni
+
+   
+
+. Med. ID Descrição Qtde Preço Unitário Preço Total
+teste 512937 TESTE RÁPIDO COVID-19, Finalidade: Teste rápido utilizado para triagem da 3445 20,0000 68.900,00
+infecção pelo vírus da Síndrome Respiratória Aguda Grave do Coronavírus 2
+
+(Sars-Cov-2), somente uso diagnóstico in vitro, Amostra: Soro, plasma e sangue
+
+total, Descrição: Teste rápido qualitativo para a detecção de anticorpos
+
+específicos IgM e IgG anti-SarsCov-2 por imunocromatografia de fluxo lateral,
+
+com temperatura de armazenamento entre 2a 30, aplicação manual,
+
+embalagem contendo dados de identificação do produto, data de fabricação e
+
+prazo de validade, Unidade de Fornecimento: Teste. Marca: wama
+
 Complemento:
 
+FONTE:COVID-19-SAPS
+
+Ata de Registro de Preços Nº. 0164/2020 - DIREP/DAISEMSA - Pregão Eletrônico
+Nº. 112/2020 - CMUPM
+
+DESTINO:EAS"S / UBS"S/SEMSA
+
+AÇÕES DE PREVENÇÃO E CONTROLE DE COMBATE AO COVID-19
+
+PRAZO DE ENTREGA:30 (TRINTA) DIAS
+
+LEINº 2.603 DE 17.04.2020
+
+Edital nº: PE 112/2020
+
+Ata de Registro de Preço nº: 0164/2020
+Autorização de Compra nº: 00773/2020
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged manaus .am.gov.br/cadastrousuarioexterno/verificacao aspx INFORMANDO O CÓDIGO: 3846A2FD
+
+ 
+Prefeitura Municipal de Manaus CEE SS Administração Pinancéira integrada
+
+Nota de Empenho
+
  
 
  
 
-FONTE: Comp 1aisAPS
-Ata do Registo do, Piaços NºD1642020.DIREPIDAISEMSA Pragão Eletrico
-Nº-Mt22020.CMUPM
+ 
 
-DESTINOEAS-SUBS SiSEMsA
+ 
 
-PRAZO DE ENTREGA (TRINTA) DIAS
+ 
 
-LEIN' 2.603 DE 17042020
-Edital: PE 122020
+ 
 
-Ata da Registrada Praço ”: 164220
-Autorização da Compra nº O97BSP02O
+ 
 
-VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM hrps/siged manaus am gov bricadastrousuarioextema veriicaçao asp INFORMANDO O CÓDIGO:3847109E
+ 
+
+Unidade Gestora o o
+
+230701 - Fundo Municipal de Saúde Número Documento Data Emissão
+2020NE04710 24/11/2020
+
+Gestão Processo
+
+00007 - Fundos 2020/01637/01412/0/005432
+
+Credor Licitação Referência
+
+06997366000163 - FIGUEIREDO COMERCIO DE ARTIGOS MEDICOS - EIRELI 08 - Pregão Eletrônico Art. 2º,8 1º, Lei 10.520/02
+
+Evento Modalidade Valor
+
+400091 - NCASP - Empenho de despesa 1 - Ordinário 600.000,00
+
+ 
+
+Unidade Orçamentária 23701 - Fundo Municipal de Saúde
+Programa Trabalho 10.305.0151.1096.0000 - Fortalecimento das Ações Emergenciais de Enfrentamento à Pandemia da Covid-19
+
+ 
+
+Fonte Recurso 02140100 - Transferência do SUS para o Enfrentamento da Covid-19
+Natureza Despesa 33903035 - Material Laboratorial
+Município: 0260 - Manaus Origem do Material: Tipo de Empenho: 09 - Despesa Normal
+
+ 
+
+Convênio:
+Número de Processo do Compras Manaus: 010011.01637014120005432/2020
+
+Cronograma de Desembolso
+
+Janeiro 0,00 Fevereiro 0,00 Março 0,00 Abril 0,00 Maio 0,00 Junho 0,00
+
+Julho 0,00 Agosto 0,00 Setembro 0,00 Outubro 0,00 Novembro 600.000,00 Dezembro 0,00
+
+ 
+
+ 
+
+Descrição dos Itens.
+
+ 
+
+ 
+
+Uni
+
+   
+
+. Med. ID Descrição Qtde Preço Unitário Preço Total
+teste 512937 TESTE RÁPIDO COVID-19, Finalidade: Teste rápido utilizado para triagem da 30000 20,0000 800.000,00
+infecção pelo vírus da Síndrome Respiratória Aguda Grave do Coronavírus 2
+
+(Sars-Cov-2), somente uso diagnóstico in vitro, Amostra: Soro, plasma e sangue
+
+total, Descrição: Teste rápido qualitativo para a detecção de anticorpos
+
+específicos IgM e IgG anti-SarsCov-2 por imunocromatografia de fluxo lateral,
+
+com temperatura de armazenamento entre 2a 30, aplicação manual,
+
+embalagem contendo dados de identificação do produto, data de fabricação e
+
+prazo de validade, Unidade de Fornecimento: Teste. Marca: wama
+
+Complemento:
+
+FONTE: COVID-9/SAPS
+
+Ata de Registro de Preços Nº.0164/2020-DIREP/DAISEMSA-Pregão Eletrônico
+Nº.112/2020-CML/PM
+
+DESTINO:EAS"S/UBS'S/SEMSA
+
+PRAZO DE ENTREGA:30 (TRINTA) DIAS
+
+LEI Nº 2.603 DE 17.04.2020
+
+Edital nº: PE 112/2020
+
+Ata de Registro de Preço nº: 0164/2020
+Autorização de Compra nº: 00783/2020
+
+ 
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM hitp:
+
+ 
+
+iged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 3847109E
 
  
 

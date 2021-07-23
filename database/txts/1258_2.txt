@@ -1,17 +1,28 @@
 Certificado de Conclusão
 
-Identificação do envolopo: ECIDDB744BGAME ECBCSS1A4F4GTDGEDE
-Assunto: DocuSign: Petição - CPI- Ofício no 1.253, 2021-GPIPANDEMIA - Extensão de prazo(41078597.1).doox
+ 
 
-Envelopo fonte:
-Documentarpáginas: 1
+Identificação de envelope:
 
-Cerificar páginas: 1
+ 
 
-Assinatura quiada: Ativado
+C3DD8744B6A4EEC8C551A4F467D6EDB
 
-Solo com Envelopola (ID do envolopo): Ativado
-Fuso horário: (UTC-03:00) Brasa
+DocuSign
+
+Status: Concluído
+
+Assunto: DocuSign: Petição - CPI - Ofício no 1.253 2021-CPIPANDEMIA - Extensão de prazo(41078597.1).docx
+
+Envelope fonte:
+Documentar páginas: 1
+
+Certificar páginas: 1
+
+Assinatura guiada: Ativado
+
+Selo com Envelopeld (ID do envelope): Ativado
+Fuso horário: (UTC-03:00) Brasília
 
 Rastreamento de registros
 
@@ -19,14 +30,16 @@ Status: Original
 28/06/2021 17:25:35
 
 Eventos do signatário
-Roberto Lambauor
-fambauerpncom br
 
-Nivol do segurança: E-mail, Autenticação da conta
-(Nonhuma)
+Roberto Lambauer
+rlambauerOpn.com.br
+
+Nível de segurança: E-mail, Autenticação da conta
+
+(Nenhuma)
 
 Termos de Assinatura e Registro Eletrônico:
-Não disponível alravós da DocuSign
+Não disponível através da DocuSign
 
 Eventos do signatário presencial
 Eventos de entrega do editor
@@ -41,7 +54,7 @@ Eventos do tabelião
 Eventos de resumo do envelope
 
 Envelope enviado
-Entrega coriicada
+Entrega certificada
 Assinatura concluída
 Concluído
 
@@ -50,14 +63,16 @@ Eventos de pagamento
 Assinaturas: 1
 Rubrica: 1
 
-Portador: Roberto Lambauor
-ambauerpn.com br
+Portador: Roberto Lambauer
+rlambauerOpn.com.br
 
 Assinatura
 
-Foto Lomba
+DocuSigned by
 
-Adoção de assinatura: Estlo prá-selecionado
+Polrurto Lambaur
+
+Adoção de assinatura: Estilo pré-selecionado
 Usando endereço IP: 189.112.204.129
 
 Assinatura
@@ -71,31 +86,29 @@ Assinatura
 
 Status
 
-Com hashieriptogratado
+Com hashicriptografado
 Segurança verificada
 Segurança verificada
 Segurança verificada
 
 Status
 
-DocuSign
-
-Remetente do envolopo:
+Remetente do envelope:
 Roberto Lambauer
 
 Rua Hungria 1.100
 
 São Paulo, SP 01455-906
-ambauerpn.combr
+rlambauerOpn.com.br
 Endereço IP: 189.112.204.129
 
-Local: Docusign
+Local: DocuSign
 
 Registro de hora e data
 
 Enviado: 28/06/2021 17:26:14
 Visualizado: 28/06/2021 17:26:25
-Assinado: 28/06/2021 17:2531
+Assinado: 28/06/2021 17:26:31
 
 Registro de hora e data
 Registro de hora e data
@@ -107,8 +120,8 @@ Registro de hora e data
 Registro de hora e data
 
 Carimbo de data/hora
-281062021 17:26:14
-281062021 17:26:25
+28/06/2021 17:26:14
+28/06/2021 17:26:25
 28/06/2021 17:26:31
 28/06/2021 17:26:31
 

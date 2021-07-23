@@ -1,24 +1,23 @@
-2810512021 SEISEARH - 9787854 - Oficio - GAC|
+28/05/2021 SEI/SEARH - 9767854 - Ofício - GAC
 
  
 
-RIO GRANDE DO NORTE
+Riô GRANDE DO NORTE
+
 GOVERNO DO ESTADO
-GreNErE cru DOGovERNO DO RN
-
- 
+GABINETE CIVIL DO GOVERNO DO Rh
 
 Ofício nº 388/2021-GAC
 Natal/RN, 28 de maio de 2021.
 
 A Sua Excelência o Senhor
 
-SENADOR OMAR AZZ
+SENADOR OMAR AZIZ
 
 Presidente da Comissão Parlamentar de Inquérito — CPI Pandemia
 Brasília/DF.
 
-sec.cpipandemiagosenado.leg.br
+sec.cpipandemia (senado .leg.br
 
 Assunto: Requerimento nº 446-2021/CPIPANDEMIA
 
@@ -33,7 +32,7 @@ Finanças (SEPLAN), bem como pela Controladoria Geral do Estado (CONTROL).
 Aproveito a oportunidade para esclarecer que, em virtude do tamanho dos documentos
 digitais gerados, o encaminhamento das informações requeridas dar-se-á através da plataforma Google
 Drive, serviço de armazenamento e sincronização de arquivos na internet, disponível através do
-link: https://drive.google. com /drive/u/1/folders/1jdgr 2WfszQD 9Kux-GFwkysUmhwShr33].
+link: https://drive.google.com/drive/u/1/folders/1j4gr2 WfszQD9Kux-GFwKvsUmhwShr33).
 
 Sem mais para o momento, nos colocamos à disposição para eventuais novas informações e
 renovamos os mais elevados votos de estima e consideração.
@@ -45,27 +44,33 @@ Secretário-Chefe
 
  
 
+    
+ 
+    
+
+seil
+eletrônica
+
 Documento assinado eletronicamente por RAIMUNDO ALVES JUNIOR, Secretário, em 28/05/2021, às
 16:58, conforme horário oficial de Brasília, com fundamento no art. 4º do Decreto nº 27.685, de 30 de
 janeiro de 2018.
 
-sei
-
-       
-
-https://seirn.goubr /sei/controlador externo.php?
-cao=documento conferir&id orgao acesso externo=0, informando o código verificador 9767854 e o
-ódigo CRC GCDBD74B.
-
   
 
-  
+ 
+
+i acao=documento conferir&id orgao acesso externo=0, informando o código verificador 9767854 e o
+n código CRC 6CD8D74B.
 
  
 
  
 
-Referência: Processo nº 00810028.002284/2021-13 SEI nº 9767854
+ 
 
-Mips:fiseirn.gou brseilcontrolador.php? acao =documento, imprimir. web&acao origem=anvore, visualizar&ia, documentos 1096380B&infra siste... 171
+Referência: Processo nº 00810028.002284/2021-13 SEInº 9767854
+
+ 
+
+eirn.gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=10963808&infra siste... 1/1
 

@@ -1,8 +1,153 @@
-30/06/2021 SEVANVISA - 1507573 - Nota Técnica
+30/06/2021 SEI/ANVISA - 1507573 - Nota Técnica
+
+= ANVISA
+
+7 Agência Nacional de Vigilância Sanitária
+
+NOTA TÉCNICA Nº 123/2021/SEI/COINS/GIMED/GGFIS/DIRE4/ANVISA
+
+Processo nº 25351.918347/2021-94
+Interessado: Comissão Parlamentar de Inquérito - CPI da Pandemia
+
+Assunto: Requerimento nº 928/2021 - CPIPANDEMIA.
+
+ 
+
+ 
+
+Esclarecimentos sobre a aprovação do pedido de
+Exportação de unidades da Vacina Sputnik V fabricadas
+pela União Química
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Da Autorização Excepcional e Temporária para Importação
+
+Primeiramente devemos esclarecer que os procedimentos indicados para a importação excepcional
+possui base na LEI Nº 14.124, DE 10 DE MARÇO DE 2021, que dispõe sobre as medidas excepcionais
+relativas à aquisição de vacinas e de insumos e à contratação de bens e serviços de logística, de
+tecnologia da informação e comunicação, de comunicação social e publicitária e de treinamentos
+destinados à vacinação contra a covid-19 e sobre o Plano Nacional de Operacionalização da Vacinação
+contra a Covid-19.
+
+ 
+
+A importação ora aprovada se baseia no dispositivo estabelecido pelo 8 3º do Artigo 13, transcrito a
+seguir:
+
+“Art. 13. A aplicação das vacinas contra a covid-19 deverá observar o previsto no Plano Nacional de
+Operacionalização da Vacinação contra a Covid-19, ou naquele que vier a substituí-lo.
+
+(...)
+
+8 3º Os Estados, os Municípios e o Distrito Federal ficam autorizados a adquirir, a distribuir e a aplicar as
+vacinas contra a covid-19 registradas, autorizadas para uso emergencial ou autorizadas excepcionalmente
+para importação, nos termos do art. 16 desta Lei, caso a União não realize as aquisições e a distribuição
+tempestiva de doses suficientes para a vacinação dos grupos previstos no Plano Nacional de
+Operacionalização da Vacinação contra a Covid-19”
+
+O artigo 16 indica as autoridades cuja aprovação, seja por registro ou por uso emergencial, poderão
+subsidiar parecer da Anvisa sobre a autorização excepcional e temporária para a importação e a
+distribuição.
+
+A Anvisa regulamentou o tema por meio da RESOLUÇÃO DE DIRETORIA COLEGIADA - RDC Nº 476, DE 10
+DE MARÇO DE 2021, e para a emissão de decisão considera os relatórios técnicos de avaliação emitidos
+ou publicados por outras autoridades reguladoras, àquelas listadas no Art. 16 da Lei 14.124/2021, ou
+
+seja, a Anvisa neste caso não avalia e chancela a documentação e evidências produzidas pelas fabricantes
+e/ou desenvolvedoras, mas avalia os relatórios técnicos emitidos pelas autoridades indicadas na lei.
+
+ 
+
+Assim, a avaliação consiste em verificar se o relatório técnico, possui detalhamento que indique que
+ocorreu a análise completa dos requisitos técnicos de qualidade, de eficácia e de segurança estabelecidos
+pela OMS ou pelo ICH e pelo PIC/s e, nos casos em que a Anvisa já tenha detectado lacunas, se a
+informação emitida por estas agências possuem a capacidade de preencher e esclarecer eventuais
+deficiências já detectadas. Neste instrumento, não ocorre uma análise e chancela completa
+da própria Anvisa sobre o produto, mas uma verificação da análise de outra Autoridade.
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1507573.html 183
+30/06/2021 SEI/ANVISA - 1507573 - Nota Técnica
+Da Autorização para Uso Emergencial
+
+A autorização para uso emergencial, regida pela RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC Nº 475, DE
+10 DE MARÇO DE 2021 requer uma avaliação da Anvisa mediante a apresentação direta de evidências
+completas fornecidas pelos fabricantes e/ou desenvolvedores, inclusive dados de inspeção (neste caso,
+realizada pela Anvisa ou realizadas por autoridades de referência - membros do PIC/S), sendo uma
+decisão baseada em avaliação técnica completa, dos requisitos de qualidade, segurança e eficácia
+chancelada pela Anvisa, em atendimento aos critérios mínimos estabelecidos no Guia 42/2020.
+
+Nesse tipo de requerimento não há vinculo com os dados de aprovação de outra autoridade reguladora.
+Sendo que a condição aprovada é aquela avaliada e determinada pela própria Anvisa.
+
+Da Análise
+
+Estabelecidas diferenças entre os tipos de autorização regulamentadas pela Anvisa, encaminhamos os
+esclarecimentos referentes ao requerimento do Senhor Senador Ciro Nogueira.
+
+A autorização para a exportação concedida pela Diretoria Colegiada se refere a 8500 unidades do
+Componente | e 7400 unidades do componente II, envasadas na planta da Inovat, em Guarulhos.
+
+A empresa INOVAT INDUSTRIA FARMACEUTICA LTDA, CNPJ 27.864.378/0001-90, possui Autorização de
+Funcionamento de Empresa (AFE) nº 1173254, a qual está autorizada para a fabricação e exportação de
+medicamentos, não há AFE específica para a atividade de fabricar com finalidade exclusiva de exportação,
+nem norma que isente a necessidade de AFE em tais casos
+
+A empresa Inovat se encontra em condições técnico-operacionais para funcionamento, estando
+autorizada a realizar formulação e envase de vacinas e regularizada para produção de medicamentos em
+escala industrial, conforme inspeção realizada pela Anvisa.
+
+As vacinas exportadas e fabricadas na Inovat utilizaram Insumo Farmacêutico Ativo Biológico
+(IFAB) importado da Rússia, fabricado pela empresa Generium uma vez que não há planta em território
+nacional autorizada para fabricar o Insumo Farmacêutico Ativo Biológico (IFAB).
+
+No pedido de Autorização de Uso Emergencial, a empresa União Química indicou que planta responsável
+pela fabricação do IFAB é a Bthek, localizada em Brasília, ainda não autorizada e a empresa Generium na
+Rússia. A inspeção na empresa em território nacional está agendada para iniciar no dia 19 de julho, data
+esta requisitada pela própria União Química e imediatamente acatada pela Anvisa.
+
+Ressaltamos que a autorização de uso emergencial, pleiteada pela União Química, ainda não teve sua
+análise concluída pela ANVISA, uma vez que há ainda pontos pendentes. No que tange as boas práticas
+de fabricação, a empresa responsável pela produção do Insumo Farmacêutico Ativo Biológico (IFAB) da
+vacina Sputnik V na Rússia, a Generium S.A., está com o pedido de certificação em Boas Práticas de
+Fabricação não concluído, sendo necessária medidas de mitigação de risco, tendo em vista as não
+conformidades verificadas, por ocasião da inspeção presencial realizada na Rússia de 19 a 23 de abril de
+2021 e a empresa Bthek ainda não foi inspecionada sendo indicada a data de 19 julho de 2021 pela
+empresa.
+
+Ainda, faz-se então necessário esclarecer que não está previsto que os lotes de teste fabricados no Brasil,
+os quais tiveram a exportação autorizada, sejam enviados para atendimento dos pedidos de importação
+aprovados pela Diretoria, cuja finalidade declarada foi o envio de amostras para fins de testes de controle
+de qualidade e processo, com o envio desse volume de amostras sendo necessário para que o Instituto
+Gamaleya faça as análises necessárias no produto acabado e, após aprovação por parte deles, o Fundo
+Russo de Investimento Direto (da sigla em inglês RDIF) distribua o produto para os países que já possuem
+autorização de uso da vacina Sputinik V, o que ainda não é o caso do Brasil.
+
+Quanto aos lotes objeto dos pedidos de Autorização Excepcional e Temporária para Importação de
+algumas unidades federativas, aprovados mediante condicionantes, esses são os lotes integralmente
+fabricados em território russo (tanto o IFA quanto a Vacina), e em quantidade superior às unidades
+autorizadas pela Diretoria Colegiada para a exportação.
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1507573.html 2/3
+30/06/2021 SEI/ANVISA - 1507573 - Nota Técnica
 
 As vacinas objetos da importação com condicionantes, conforme decisão da Anvisa, devem possuir os
-Insumos Farmacêuticos Ativos Biológicos fabricados na empresa Generium S.A, e vacinas terminadas
-fabricadas nesta empresa, bem com envasadas na empresa Phamstandard Ufavita, conforme relatório
+Insumos Farmacêuticos Ativos Biológicos fabricados na empresa Generium S.A. e vacinas terminadas
+fabricadas nesta empresa, bem com envasadas na empresa Phamstandard UfaVita, conforme relatório
 técnico de avaliação emitido pela Autoridade Russa.
 
 A planta da Inovat, não está contemplada entre as fabricantes aprovadas pela Autoridade Russa e,
@@ -11,6 +156,7 @@ portanto, não está autorizada para ser importada com condicionantes.
 As condicionantes impostas ao pedido de Autorização Excepcional e Temporária para Importação deverão
 ser cumpridas pelos estados quando da efetivação das licenças de importação e se aplicam as vacinas
 fabricadas pela empresa Generium S.A. e Phamstandard UfaVita, sendo inclusive aceitável que alguns
+
 pontos (não conformidades verificadas, por ocasião da inspeção) sejam superados por declaração de
 superação emitida pela autoridade Russa. .
 
@@ -22,50 +168,70 @@ esclarecidos para uma eventual aprovação do uso emergencial.
 No caso da importação excepcional, parte dos itens pendentes podem ser evidenciados por meio de
 relatórios que atestem objetivamente a nova situação emitidos pela autoridade russa.
 
-Conclusão
-
- 
+Conclusão:
 
 Encaminhamos a manifestação sobre as condições operacionais das plantas envolvidas ao processo para
 a consideração da Diretoria.
 
  
 
- 
-
-,——— Documento assinado eletronicamente por Fabricio Carneiro de Oliveira, Coordenador(a) de
-seail a, | inspeção e Fiscalização Sanhtária de Produtos Biológicos e Insumos Farmacêuticos, em 29/06/2021,
-2) be [5) | às 13:28, conforme horário oficial de Brasília, com fundamento no art. & 3º do art. 4º do Decreto nº
-
-dletônica 10.543, de 13 de novembro de 2020 htip://www:planalto.gov.br/ccivil 03/ ato2019-
-
+Documento assinado eletronicamente por Fabricio Carneiro de Oliveira, Coordenador(a) de
+Inspeção e Fiscalização Sanitária de Produtos Biológicos e Insumos Farmacêuticos, em 29/06/2021,
+às 13:28, conforme horário oficial de Brasília, com fundamento no art. 8 3º do art. 4º do Decreto nº
+10.543, de 13 de novembro de 2020 http://www.planalto.gov.br/ccivil 03/ ato2019-
 2022/2020/decreto/D10543.htm.
 
-“= Documento assinado eletronicamente por Ana Carolina Moreira Marino Araujo, Gerente-Geral de
-Inspeção e Fiscalização Sanitária, em 29/06/2021, às 14:14, conforme horário oficial de Brasília, com
-fundamento no art. 5 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de 2020
+il
 
- 
+ser à
+assinatura
+
+eletrônica
+
+    
+  
 
    
 
-  
-
  
 
  
 
+(cal
+ser q
+assinatura LÊ
+eletrônica
+
+      
+    
+   
  
 
-——— .— Documento assinado eletronicamente por Liana Tieko Evangelista Kusano, Gerente de Inspeção e
-seil Fiscalização Sanitária de Medicamentos e Insumos Farmacêuticos, em 29/06/2021, às 14:20,
-2)= be [2) | conforme horário oficial de Brasília, com fundamento no art. 6 3º do art. 4º do Decreto nº 10.543, de
+Documento assinado eletronicamente por Ana Carolina Moreira Marino Araujo, Gerente-Geral de
+Inspeção e Fiscalização Sanitária, em 29/06/2021, às 14:14, conforme horário oficial de Brasília, com
+fundamento no art. 8 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de 2020
 
-elerrônica 13 de novembro de 2020 http://www.planalto,gov.br/ccivil 03/ ato2019-
+http://www. planalto.gov.br/ccivil 03/ ato2019-2022/2020/decreto/D10543.htm.
 
+Documento assinado eletronicamente por Liana Tieko Evangelista Kusano, Gerente de Inspeção e
+Fiscalização Sanitária de Medicamentos e Insumos Farmacêuticos, em 29/06/2021, às 14:20,
+conforme horário oficial de Brasília, com fundamento no art. 8 3º do art. 4º do Decreto nº 10.543, de
+13 de novembro de 2020 http://www. planalto.gov.br/ccivil 03/ ato2019-
 2022/2020/decreto/D10543.htm.
 
-  
+il
+
+ser à
+assinatura
+
+eletrônica
+
+   
+
+ 
+
+A autenticidade deste documento pode ser conferida no site https://sei.anvisa.gov.br/autenticidade,
+5; informando o código verificador 1507573 e o código CRC 7F7FD2DF.
 
  
 
@@ -73,15 +239,7 @@ elerrônica 13 de novembro de 2020 http://www.planalto,gov.br/ccivil 03/ ato2019
 
  
 
- 
+Referência: Processo nº 25351.918347/2021-94 SEI nº 1507573
 
- 
-
- 
-
-Referência: Processo nº 25351.918347/2021-94] SEI nº 1507573.
-
-files/CPIPandemia DadosTemporariosídos 1293 anvisa ostensivolNota Tecnica 1507573.html
-
-as
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1507573.html 3/3
 

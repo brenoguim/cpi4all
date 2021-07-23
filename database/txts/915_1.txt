@@ -1,3 +1,5 @@
+TCU
+
 TRIBUNAL DE CONTAS DA UNIÃO
 
 Aviso nº 861 - GP/TCU
@@ -10,29 +12,19 @@ Ao cumprimentá-lo cordialmente, registro o recebimento do Oficio nº
 1159/2021 - CPIPANDEMIA, de 27/5/2021, por intermédio do qual Vossa Excelência
 encaminhou ao TCU o Requerimento nº 680/2021 — CPIPANDEMIA, de autoria do Senador
 Renan Calheiros, solicitando que seja realizada “fiscalização para avaliar a arquitetura do
-
- 
-
-io de
-
- 
-
-nária desse aplicativo havia prev
-
- 
-
-aplicativo TrateCov, verificar se na versão ori
-tratamento precoce e quais seriam os medicamentos recomendados (eg. cloroquina,
-ivermectina, etc.) obter informações sobre o funcionamento do aplicativo e apurar a
+aplicativo TrateCov, verificar se na versão originária desse aplicativo havia previsão de
+tratamento precoce e quais seriam os medicamentos recomendados (e.g. cloroquina,
+ivermectina, etc.), obter informações sobre o funcionamento do aplicativo e apurar a
 responsabilidade pela violação do código fonte do aplicativo, indicando, se possível, o que foi
 efetivamente alterado na versão original do código fonte da programação e por quanto tempo
 perdurou a prescrição indevida”.
 
 A propósito, informo a Vossa Excelência que o referido expediente, autuado
+
 neste Tribunal como processo nº TC-015.749/2021-5, está sendo tratado com absoluta
 prioridade, aplicando-se, por analogia, o disposto no art. 3º da Lei nº 10.001, de 4/9/2000.
 
-Dessa forma, os autos foram remetidos à Secretaria-Geral de Controle Extemo
+Dessa forma, os autos foram remetidos à Secretaria-Geral de Controle Externo
 (Segecex) do TCU, para adoção das providências pertinentes.
 
 Atenciosamente,
@@ -49,5 +41,5 @@ Senado Federal
 
 Brasília - DF
 
-Para verificar as assinaturas, acesse wwnw.tou.gov br/autenticidade, informando o código 68158069.
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 68158069.
 

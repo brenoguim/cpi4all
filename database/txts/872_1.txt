@@ -1,19 +1,8 @@
-acao=documento conferir&id orgao acesso externo =0, informando o
-código verificador 0020661870 e o código CRC 95CF1C54.
-
  
 
- 
-
- 
-
- 
-
-Referência: Processo nº 25000.069670/2021-12 SEI nº 0020661870
-
-Assessoria Parlamentar - ASPAR
-Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Adrministrativa, Brasília/DF, CEP 70058-900
-Site - saude .gov.br
+Ministério da Saúde
+Gabinete do Ministro
+Assessoria Parlamentar
 
 OFÍCIO Nº 2870/2021/ASPAR/GM/MS
 Brasília, 20 de maio de 2021.
@@ -46,33 +35,44 @@ Atenciosamente,
 MARCELO QUEIROGA
 Ministro de Estado da Saúde
 
-Documento assinad.
+ 
+
+-— Documento assinado eletronicamente por Marcelo Antônio Cartaxo
+eil , Queiroga Lopes, Ministro de Estado da Saúde, em 24/05/2021, às
+do
 
  
 
-letronicamente por Marcelo Antônio Cartaxo
-istro de Estado da Saúde, em 24/05/2021, às
-
- 
-
- 
-
- 
-
- 
-
-gil a | Queiroga Lopes, Mi
-26d &)[18:11, conforme horário oficial de Brasília, com fundamento no art. 69, 5 19,
-
- 
-
+18:11, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º,
 do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+
 de 31 de Março de 2017.
+
+assinatura
+eletrônica
+
+ 
+
+ 
 
   
 
 A autenticidade deste documento pode ser conferida no site
-'sei.saude.gov.br/sei/controlador externo .php?
++ http://seisaude.gov.br/sei/controlador externo.php?
+acao=documento conferir&id orgao acesso externo=0, informando o
+código verificador 0020661870 e o código CRC 95CF1C54.
 
  
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.069670/2021-12 SEI nº 0020661870
+
+Assessoria Parlamentar - ASPAR
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site - saude.gov.br
 

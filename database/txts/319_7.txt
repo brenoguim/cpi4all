@@ -1,70 +1,127 @@
-GOVERNO | ccnerma
-DOESTADO | exe
+SECRETARIA
+DASAÚDE
 
-Q ento, E
+=
+3 HE GOVERNO
+nstruro HE DO ESTADO
+COUTO MAIA
 
-COUTO MAIA.
+PROTOCOLO — PACIENTES COVID
 
  
 
-Os pacientes quPREIRODO LO PAC HENFES (TOY IMelhor sobrevida
+4.3. TOCILIZUMABE:
 
-Posdêngias (destecho primário) além de redução da necessidade de ventilação
-lose: 8 mg/kg (infundir em 1h) - dose máxima 800 mg:
-43 o Li AB
-S Bens! UA foram claramente observados entre aqueles que receberam
-um BorEatidesSiAGNgn6o Borgo a Dexametasona, como parte do tratamento; assim
+O Tocilizumabe é um anticorpo monoclonal anti-interleucina 6 (IL-6) recombinante
+que é aprovado pelo FDA (Food and Drug administration) para o tratamento de
+certas doenças reumatológicas, como por exemplo a Artrite Reumatóide. Há uma
+hipótese de que a modulação dos níveis de IL-6 pró-inflamatória e/ou seus efeitos
+podem melhorar o curso da COVID-19.
 
-Sons igumeBa cabra autleaaa menadenataai Iladeasio as «ls Sihgamilnarie
+O estudo REMAP-CAP é um ensaio clínico multinacional, controlado, randomizado;
+que recrutou aleatoriamente 803 pacientes com suspeita ou confirmação de COVID
+19; onde destes, 353 receberam Tocilzumabe e 48 Sarilumabe; e outros 402
+pacientes receberam tratamento padrão.
 
-que, aryayadgapala E DA (Food and Drug administration) para o tratamento de
+Mais de 80% dos pacientes receberam corticosteróides concomitantemente. Mais
+de 75% dos participantes receberam os inibidores da IL-6 dentro de 3 dias da
+admissão hospitalar, sugerindo que o benefício de Tocilizumabe ou Sarilumabe
+pode ocorrer principalmente entre pacientes cuja condição está se deteriorando
+rapidamente.
 
-pras enc RMS Siga Semp a a tema Há
-hipfipaa oque masilação sl Aves sc amarei uesunaigies
-ESMP gARO aliaaniaitados vez que é uma droga de
+O Estudo Recovery é um ensaio clínico randomizado controlado e aberto; no qual
+para serem elegíveis para o estudo, os pacientes deveriam ter idade maior que 18
+anos, satO2 < 92% em ar ambiente ou com algum suporte de oxigênio e que
+tivessem evidência de inflamação sistêmica que foi determinada através de uma
+medida de proteína C reativa (PCR) > 75 mg/L. Não foram elegíveis pacientes que
+tinham alguma hipersensibilidade a droga ou infecção ativa por bactérias ou fungos
+além de tuberculose.
 
-SEM GO TS SA Ena o CRBURÃOS Ce AE o
+Eles foram randomizados para o grupo tratamento padrão ou tratamento padrão
+mais uma dose de Tocilzumabe de 400 a 800 mg (a depender do peso),
+endovenosa. Uma segunda dose poderia ser administrada 12 a 24 horas se o
 
-us ienorau tealesams ais SO 8 pasiantesscam anal paneo nada
+paciente não apresentasse melhora clínica.
 
-1890868918 AS S99RBSTam Tocilzumabe e 48 Sariumabe; e outros 402
-Bacpntea pese hnram ata menhr>AP A APocilizumabe no ICOM deverão preencher
+ 
 
-Mais de 80% dos Paste RCA conticosterái les cone mitantemente.d Mais
-todos Os critérios! ábaixo. aciente Ou O tamiliar de retereficia devera Ser
+Rua Coronel Azevedo, nº 482 Cajazeiras II
+41332-010 - Salvador/BA
+Telefone: 3103-7150 icom.diretoriasaude.ba.gov.br
+»
+É EEE GOVERNO | orcs
+Dmermuro EM DO ESTADO | Prixis
+COUTO MAIA
 
-de 75%, dos participantes, rpeeb: am qs inibi igres. gia, IL-6 dentro de 3 dias da
-Molmaas 28 MB Be RAS e Beneficios 98 USO! iCamento -
+Os pacientes que receberam o Tocilizumabe apresentaram uma melhor sobrevida
+em 28 dias (desfecho primário) além de redução da necessidade de ventilação
+mecânica (VM).
 
-asqasipoirentad suas Dço clans iara Seas
-Bed ARCURNANAS'agIMAg]o entre pacientes cuja condição está se deteriorando
+Os benefícios da droga foram claramente observados entre aqueles que receberam
+um corticoide sistêmico, como a Dexametasona, como parte do tratamento; assim
 
-rapifamen cia de sinais de infecção em atividade bacteriana, túngica ou
-O Estugo Regpveiy é um ensaio clínico randomizado controlado e aberto; no qual
+como uma redução significativa na necessidade de terapia de substituição renal.
 
-para seem sis vela PAS ASS MAS BRRÍSIURA AGU AP ASA SAS VA ara E
-anos, FaO2 si RA ET opniao Algum suporte de oxigênio e que
+Diante deste estudo e de outros existentes na literatura com dados semelhante,
+incluímos a possibilidade do uso desta medicação em nosso protocolo,
+dependendo da disponibilidade da droga na unidade, uma vez que é uma droga de
+difícil aquisição. Constituímos também uma comissão de médicos da unidade que
+vão autorizar a dispensação pela farmácia da unidade, tanto a primeira quanto a
+possibilidade de uma segunda dose.
 
-tivessem, axidência de inlama ão si jntmica. que foi deter: Rates, de uma
-acientês com rapi tá dlinica e/ou com aumento rapido é progressivo
+Os pacientes que poderão utilizar o Tocilizumabe no ICOM deverão preencher
+todos os critérios abaixo. O paciente ou o familiar de referência deverá ser
+informado sobre os riscos e benefícios do uso do medicamento.
 
-medida de proteína era (SOR) >75mgiL. Não foram elegíveis pacientes que
+CRITÉRIOS PARA USO DO TOCILIZUMABE (apresentação disponível - ampolas
+de 10 ml contendo 200 mg)
 
-RR pisa pongactórias ou fungos
-aléra dB AUbRIGHIGASa com exame tomográfico de pulmão evidenciando vidro fosco
+1. Ausência de sinais de infecção em atividade bacteriana, fúngica ou
+tuberculose;
 
-Eles fogem randomizados pata o grupo tratamento padrão ou tratamento padrão
+2. Pacientes com 18 anos ou mais apresentando RT-PCR positivo para Sars-
+Cov-2 ou com suspeita clínica de Covid-19;
 
-mais umagosg 62, Tio umabe h489 3 800 mg (a depender do peso),
+3. Pacientes com rápida piora clínica e/ou com aumento rápido e progressivo
+da demanda de oxigênio;
 
-encprsoasa BA rRERUPSRSp5E BB GBA elo diga ad 2 ERP SB
-paciente NÃ ER BRA SE: PURA SUOR Pum maior tempo de evolução de acordo
+4. Se ventilação mecânica, considerar apenas se FiO2 > 40;
+
+5. De preferência com exame tomográfico de pulmão evidenciando vidro fosco
+50% ou mais do pulmão;
+
+6. SatO2 < 94% por pelo menos 1 hora;
+
+7. Preferencialmente até 10º dia do início dos sintomas, entretanto alguns
+pacientes podem ser incluídos com um maior tempo de evolução de acordo
 com o quadro clínico apresentado;
+
 8. Critério de internação para a UTI;
 
  
 
-Rua Coronel Azevedo, nº 482 Cajazeiras Il
-41382-010 - Salvador/BA
-Telefone: 3103-7150 Icom diretoriaQsaude ba.gov.br
+Rua Coronel Azevedo, nº 482 Cajazeiras II
+41332-010 - Salvador/BA
+Telefone: 3103-7150 icom.diretoriasaude.ba.gov.br
+»
+º HE GOVERNO | secneram
+nstruro HE DO ESTADO | ºrs'io:
+COUTO MAIA
+
+Posologia:
+Tocilizumabe: dose: 8 mg/kg (infundir em 1 h) - dose máxima 800 mg:
+> > 90kg: 800 mg
+> Entre 65-90kg: 600mg
+> Entre 65 -40kg: 400mg
+> «< 40kg: 08mg/kg
+Obs: quando o paciente não responde à primeira dose, no geral não se
+recomenda uma segunda dose; em casos excepcionais será feita a 2º dose
+
+após avaliação da comissão existente na unidade.
+
+ 
+
+Rua Coronel Azevedo, nº 482 Cajazeiras II
+41332-010 - Salvador/BA
+Telefone: 3103-7150 icom.diretoriasaude.ba.gov.br
 

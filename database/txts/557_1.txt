@@ -1,11 +1,54 @@
-Quanto aos aspectos da aquisição dos testes diretamente pelo Estado da Bahia, por
+ 
+
+Ofício GASEC nº 787/2021
+
+Salvador, 24 de maio de 2021
+
+Exmo. Sr.
+
+OMAR AZIZ
+
+Senador da República
+Presidente da CPI da Pandemia
+
+Senhor Senador,
+
+Cumprimentando-o cordialmente, reportamo-nos ao Ofício nº 762/2021 - CPIPANDEMIA,
+oriundo dessa Comissão Parlamentar de Inquérito, por meio do qual V. Exa. encaminha
+o Requerimento nº 448/2021 —- CPIPANDEMIA, instando esta Secretaria de Saúde do
+Estado da Bahia — SESAB a prestar “informações relativas à aquisição direta e aplicação, por
+estes entes federados, de testes rápidos para a detecção de covid-19, especificando o tipo de teste
+adquirido, a quantidade, o valor unitário pago, as datas de entrega e aplicação”.
+
+Entendemos da motivação do Requerimento nº 448/2021 a necessidade de dados capazes
+de comprovar a extensão da pandemia COVID-19 no país, considerados os contaminados,
+com ou não resultado de morte, podendo, portanto, valer-se do número de testagens para
+os auferir.
+
+De 2020 a 2021, o Estado da Bahia recebeu testes rápidos do Ministério da Saúde (vide Nota
+Informativa nº 2/2020-SAPS/MS- doc. nº01), no quantitativo de 26.565 (vinte e seis mil e
+quinhentos e sessenta e cinco), que foram redistribuídos aos Municípios, consoante
+orientação ministerial.
+
+Deve-se esclarecer que, em 2020, o Estado da Bahia, como estratégia de enfrentamento da
+pandemia, optou pela aquisição e aplicação do RT-PCR, considerado padrão ouro na
+detecção de vírus respiratórios, especialmente o SarsCov-2, por sua alta sensibilidade e
+consequente eficácia. E, em 2021, esta Secretaria da Saúde procedeu à aquisição de 37.500
+(trinta e sete mil e quinhentos) testes rápidos, do tipo imunocromatográficos, para
+detecção de antígenos para coronavírus SARS-CoV-2, que consistiu em uma evolução do
+RT-PCR, não se confundindo com os “testes rápidos” fornecidos pelo Ministério da Saúde.
+
+O Estado da Bahia realizou até a presente data 1.192.465 (um milhão, cento e noventa e dois
+mile quatrocentos e sessenta e cinco) exames com RT-PCR e o teste rápido evolutivo.
+Quanto aos aspectos da aquisição dos testes diretamente pelo Estado da Bahia, por
 primeiro, consoante a Nota Informativa nº 2800, de 2001, do Senado Federal, apenas os
+
 recursos federais voluntários cedidos a qualquer título pela União Federal aos demais entes
 federados para a saúde e, especificadamente, ao enfrentamento da COVID-19, sob pena de
 
- 
+malferir o sistema federativo pátrio, podem constituir o objeto de investigação por esta
 
-Comissão Parlamentar de Inquérito (doc. (2) . À respeito, os Governadores encaminharam o
+Comissão Parlamentar de Inquérito (doc. 02) . A respeito, os Governadores encaminharam o
 Ofício nº 48/2021, com juntada de Nota Técnica lavrada pelo Colégio Nacional de
 
 Procuradores Gerais dos Estados, em igual entendimento, com solicitação de que esta
@@ -24,33 +67,35 @@ adicionais porventura necessários.
 Atenciosamente,
 
 FÁBIO VILAS-BOAS PINTO
+
 Secretário da Saúde
 
  
 
- 
-
-      
-  
-   
+il
+assinatura
+elesrônica
 
 Documento assinado eletronicamente por Fabio Vilas Boas Pinto, Secretário de
 Estado, em 24/05/2021, às 20:48, conforme horário oficial de Brasília, com
 fundamento no art. 13º, Incisos Ie II, do Decreto nº 15.805, de 30 de dezembro de
 2014.
 
-[seit sy
+ 
 
+   
+
+ 
+
+ 
   
 
- 
+A autenticidade deste documento pode ser conferida no site
 
-E) A autenticidade deste documento pode ser conferida no site
+| https://seibahia.ba.gov br/sei/controlador externo.php?
+à acao=documento conferir&id orgao acesso externo=0, informando o código
 
-ittps: //seibahia. ba.gov.br/sei/controlador externo.php?
-
-acao=documento conferir&id orgao acesso externo=0, informando o código
-; verificador 00030919245 e o código CRC 108F9CA4A.
+Ji; verificador 00030919245 e o código CRC 108F9C4A.
 
  
 
@@ -58,16 +103,5 @@ acao=documento conferir&id orgao acesso externo=0, informando o código
 
  
 
-Referência: Processo nº 0194979202] .0056695-11 SEI nº 0003091 9245
-
-Deve-se esclarecer que, em 2020, o Estado da Bahia, como estratégia de entrentamento da
-pandemia, optou pela aquisição e aplicação do RT-PCR, considerado padrão ouro na
-detecção de vírus respiratórios, especialmente o SarsCov-2, por sua alta sensibilidade e
-consequente eficácia. E, em 2021, esta Secretaria da Saúde procedeu à aquisição de 37.500
-(trinta e sete mil e quinhentos) testes rápidos, do tipo imunocromatográficos, para
-detecção de antígenos para coronavírus SARS-CoV-2, que consistiu em uma evolução do
-RT-PCR, não se confundindo com os “testes rápidos” fornecidos pelo Ministério da Saúde.
-
-O Estado da Bahia realizou até a presente data 1.192.465 (um milhão, cento e noventa e dois
-mile quatrocentos e sessenta e cinco) exames com RT-PCR e o teste rápido evolutivo.
+Referência: Processo nº 019.4979.2021.0056695-11 SEI nº 00030919245
 

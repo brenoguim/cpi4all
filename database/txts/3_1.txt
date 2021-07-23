@@ -1,94 +1,42 @@
-OO100 Ma ta7/z021.as
+00100.044127/2021-45
+
+ 
 
 SENADO FEDERAL
+
 Secretaria de Tecnologia da Informação - Prodasen
 
-Ofício nº. 10/2021 —PRDSTI
+Oficio nº. 10/2021 — PRDSTI
+Em 05 de maio de 2021
 
-Nome Matrícula | Cargo LotafdO O EPA
-e da | 105044 Analista de | PRDSTI- Presidente
+Ref.: NUP 00100.043273/2021-53
 
-ref UI god no de Informática” | COATEN-
+A Senhora Ilana Trombka
+Diretoria-Geral
 
-Legislativa SEATLE
+Assunto: Requerimento da CPI da Pandemia.
 
-[Psdimorifana Tsinyaes Coelho | TOSTIT [Analista de | PRDSTE [Membro  -
-nba gpedro Osenado.leg.br> Informática | COINTI- | Substituto do
+Senhora Diretora Geral,
 
-presenta Legislativa | SEAINT | | Presidente
-
-Joao Artur Motta Coimbra | 105950 | Analista de | PRDSTE | Membro
-
-sina afapresimenba>da CPI da Pandemia. | Informática | COSTIC-
-Legislativa SESIC
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Tiago Gomes Santana [247823 | Analista de | PRDSTI | Membro
-
-<tiagoSiefihoraditegrGeral, Informática | COLEP-
-Legislativa | SESCOM
-
-Daniel de Mello  Viero [265527 | Analista de | PRDSTI | Suplente
-
-<danieRiatanigalRegserimento nº 188-2021 da ERrksfnpmissão, Ragkgentar] de Inquérito) da
-Pandemia a esta Diretoria para, in verbis, “que seja degeraninada ao PRODASEN a instituição
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-z b Frtedio: str EPE rm Tomestiteri barcos
+Trata-se do Requerimento nº 138-2021 da CPI (Comissão Parlamentar de Inquérito) da
+Pandemia a esta Diretoria para, in verbis, “que seja determinada ao PRODASEN a instituição
+de grupo de trabalho de TI dedicado a esta CPI, especialmente para a constituição de bancos
 de dados destinados a armazenar os documentos eletrônicos que serão enviados a esta
+comissão, para fins de acesso remoto aos membros desta Comissão ”.
 
-comissdUNpÃira RIO aMe:O Emos vrÔama anSpFaadASS AP CSRÁASgO após a publicação do GT,
-de modo que os servidores sejam cientificados e que comando ao final do Ofício nº 11/2021-
-
-CPIPANDEMIA seja atendido, a saber, in verbis: “A documentação deve ser encaminhada no
-prazo RRimsirympnts) drválidmeregisirar pnsparacradarimenarpela confiseça emermonsos
-servigasaT ipa air dio» Pspdasen está destacada para apoiar a Coordenação de Comissões
-Especiais, Temporárias e Parlamentares de Inquérito (COCETT) e, portanto, a CPI, desde os
-preparativos iniciais e prévios. No entanto, esse grupo de Tecnologia da Informação (TI) não
+Primeiramente, é válido registrar nosso agradecimento pela confiança em nossos
+serviços. Uma equipe do Prodasen está destacada para apoiar a Coordenação de Comissões
+Especiais, Temporárias e Parlamentares de Inquérito (COCETD e, portanto, a CPI, desde os
+preparativos iniciais e prévios. No entanto, esse grupo de Tecnologia da Informação (TT) não
 está organizado em formato de Grupo de Trabalho (GT).
-
-Respeitosamente,
-
-  
-
- 
 
 Adicionalmente, cumpre informar que as CPIs, inclusive a da Pandemia, contam com
 soluções de TI do Prodasen destinadas à recepção e ao armazenamento seguro de documentos
-eletrônicos, inclusive franqueando o fosisade igtabegure) por meio de rede privada virtual aos
-membros dos colegiados em alessandro Pereira de Albuquerque
-
-Diretor do Prodasen
-
- 
+eletrônicos, inclusive franqueando o acesso remoto seguro por meio de rede privada virtual aos
+membros dos colegiados em questão.
 
 No entanto, novas necessidades podem surgir e trazer desafios diferentes à TI, sendo
-salutar à formação de grupo de trabalho específico. Nesse sentido, considerando a competência
-
+salutar a formação de grupo de trabalho específico. Nesse sentido, considerando a competência
 da DGER para a edição e publicação de atos de composição de grupos de trabalho, e
 considerando o comando da Presidência da CPI da Pandemia, relaciono abaixo os nomes dos
 servidores efetivos que comporão o GT solicitado, com sugestão de prazo adstrito à duração da
@@ -96,11 +44,115 @@ comissão:
 
  
 
-  
+ 
 
  
 
-Senado Federal - Praça dos Três Poderes - CEP 70165-900 - Brasília DF.
+ 
 
-     
+Senado Federal — Praça dos Três Poderes — CEP 70165-900 — Brasília DF
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+00100.044127/2021-45
+
+ 
+
+SENADO FEDERAL
+
+Secretaria de Tecnologia da Informação - Prodasen
+
+ 
+
+ 
+
+Nome Matrícula | Cargo Lotação Papel no GT
+Ailton Oliveira de Almeida | 105044 Analista de | PRDSTI- Presidente
+<AILTONQsenado.leg .br> Informática | COATEN-
+
+Legislativa SEATLE
+
+Pedro Eneas Guimaraes Coelho | 105111 Analista de | PRDSTI- Membro -
+Mascarenhas <pedro O senado.leg.br> Informática | COINTI- Substituto do
+Legislativa SEAINT Presidente
+
+Joao Artur Motta Coimbra | 105950 Analista de | PRDSTI- Membro
+
+ 
+
+ 
+
+ 
+
+<joaoamc Q senado.leg.br> Informática | COSTIC-
+Legislativa SESIC
+
+Tiago Gomes Santana | 247823 Analista de | PRDSTI- Membro
+
+<tiagostn O senado.leg.br> Informática | COLEP-
+
+Legislativa SESCOM
+
+Daniel de Mello Viero | 265527 Analista de | PRDSTI- Suplente
+<danielv O senado.leg.br> Informática | NQPPPS
+Legislativa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Por fim, solicito que os autos sejam retornados ao Prodasen após a publicação do GT,
+de modo que os servidores sejam cientificados e que comando ao final do Ofício nº 11/2021-
+CPIPANDEMIA seja atendido, a saber, in verbis: “A documentação deve ser encaminhada no
+prazo de 5 (cinco) dias úteis em formato digital, para o endereço eletrônico
+sec.cpipandemia(a)senado.leg. br. ”.
+
+Respeitosamente,
+
+[assinado digitalmente]
+Alessandro Pereira de Albuquerque
+Diretor do Prodasen
+
+ 
+
+ 
+
+ 
+
+ 
+
+Senado Federal — Praça dos Três Poderes — CEP 70165-900 — Brasília DF
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 

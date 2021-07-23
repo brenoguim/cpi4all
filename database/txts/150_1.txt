@@ -1,16 +1,8 @@
-E verificador 9558876 e o código CRC FOGEC42B.
-
  
-
- 
-
-Processo nº 00810028.002203/2021-85 SEInº 9558876
-
-epa
 
 RIO GRANDE DO NORTE
-
- 
+BO ESTADO
+DOGOVERNODO RA
 
  
 
@@ -24,7 +16,7 @@ SENADOR OMAR AZIZ
 Presidente da Comissão Parlamentar de Inquérito - CPI Pandemia
 Brasília/DF.
 
-sec.cpipandemiae senado.leg.br
+sec.cpipandemiaQsenado.leg.br
 
 Assunto: Requerimento nº 194-2021/CPIPANDEMIA
 
@@ -41,9 +33,8 @@ Aproveitamos a oportunidade para esclarecer que, em virtude do
 tamanho dos documentos digitais gerados, o encaminhamento das informações
 requeridas dar-se-á através da plataforma Google Drive, serviço de armazenamento
 e sincronização de arquivos na internet, por meio do link:
-oogle.com/drive/folders/14Yy3uy0BX7vHNINGRZIn7zZt7 paWfktn?
-
- 
+https://drive.google.com/drive/folders/14Yy 3uy0BX7vHNINGRZIn72Zt7paW fktn?
+usp=sharing
 
 Sem mais para o momento, nos colocamos à disposição para eventuais
 novas informações e renovamos os mais elevados votos de estima e consideração.
@@ -57,12 +48,12 @@ Secretário-Chefe
 
  
 
+€ eil Documento assinado eletronicamente por RAIMUNDO ALVES JUNIOR,
+Edenia É) Secretário, em 12/05/2021, às 19:34, conforme horário oficial de Brasília,
+eletrônica com fundamento no art. 4º do Decreto nº 27.685, de 30 de janeiro de 2018.
+
  
-
-| seil Documento assinado eletronicamente por RAIMUNDO ALVES JUNIOR,
-atado B Secretário, em 12/05/2021, às 19:34, conforme horário oficial de Brasília,
-
-sérêsts — ) com fundamento no art. 4º do Decreto nº 27.685, de 30 de janeiro de 2018.
+    
 
  
 
@@ -71,9 +62,17 @@ sérêsts — ) com fundamento no art. 4º do Decreto nº 27.685, de 30 de janei
  
 
 A autenticidade deste documento pode ser conferida no site
-https://sei.rn.gov.br/seifcontrolador extemo.php?
-
-q acao=documento conferir&id orgao acesso extemo=o0, informando o código
+" https://sei rn.gov.br/sei/controlador externo.php?
+] acao=documento conferir&id orgao acesso externo=0, informando o código
 
  
+[otra verificador 9558876 e o código CRC FOGEC42B.
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 00810028.002203/2021-85 SEI nº 9558876
 

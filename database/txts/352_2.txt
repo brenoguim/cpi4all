@@ -1,28 +1,28 @@
-    
+ 
+ 
  
 
-à GOVERNO DO ESTADO DA BAHIA
-fi POLÍCIA CIVIL DO ESTADO DA BAHIA - PCBA
-HDRACO - GABINETE DIRETOR - PCBA/DRACO/SEDE/GAB.DIRETOR
-
- 
-
- 
+a GOVERNO DO ESTADO DA BAHIA
+ff POLÍCIA CIVIL DO ESTADO DA BAHIA - PCBA
+DRACO - GABINETE DIRETOR - PCBA/DRACO/SEDE/GAB.DIRETOR
 
  
 
  
 
-[[012.6248.2021.0023722-65 ]
-| CPI da pandemia ]
+ 
+
+ 
 
  
 
  
 
-INTERESSADO: | | [nsitaaqui o órgão interessado)
+PROCESSO: 012.6248.2021.0023722-65
+OBJETO: CPI da pandemia
 
- 
+ÓRGÃO fInsi io órção int doi
+INTERESSADO: nsira aquio órgão interessado
 
  
 
@@ -52,6 +52,7 @@ Através do presente dirijo-me a Vossa Excelência para o fim de informar que na
 condição de Diretor do Departamento de Repressão e Combate ao Crime Organizado -
 DRACO desde o dia 27/01/2021, por meio do qual ao realizarmos pesquisas junto ao arquivo
 da Coordenação de Crimes Econômicos e Contra a Administração Pública, vinculada a este
+
 Departamento, verificamos a inexistência de inquérito policial ou investigação em curso ou
 finalizada, relativos à aplicação de recursos federais destinados ao estado da Bahia.
 
@@ -66,25 +67,33 @@ Diretor do DRACO
 
  
 
-  
  
-  
- 
-  
+
+      
  
  
 
-seil sa | Documento assinado eletronicamente por Jose Alves Bezerra Juntor, Diretor, em
-Sde (3 |07/05/2021, às 17:46, conforme horário oficial de Brasília, com fundamentono art.
-ekmwônca — ) 139, Incisos Le II, do Decreto nº 15.805, de 30 de dezembro de 2014,
+seil 3
+
+assinatura
+eletrônica
+
+Documento assinado eletronicamente por Jose Alves Bezerra Junior, Diretor, em
+07/05/2021, às 17:46, conforme horário oficial de Brasília, com fundamento no art.
+13º, Incisos Ie II, do Decreto nº 15.805, de 30 de dezembro de 2014.
+
+  
 
  
 
-A autenticidade deste documento pode ser conferida no site
-https: //seibahia.ba.gov.br/sei/controlador externo.php?
+ 
+
+mr
+[e] A autenticidade deste documento pode ser conferida no site
+https://seibahia.ba.gov.br/sei/controlador externo.php?
 
 acao=documento conferir&id orgao acesso externo=0, informando o código
-verificador 00030272392 e o código CRC 9455ED48.
+4 verificador 00030272392 e o código CRC 9455FD48.
 
  
 
@@ -92,5 +101,5 @@ verificador 00030272392 e o código CRC 9455ED48.
 
  
 
-Referência: Processo nº 012,6248.2021 002372265 SEI nº 00030272392
+Referência: Processo nº 012.6248.2021.0023722-65 SEI nº 00030272392
 

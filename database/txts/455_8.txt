@@ -1,55 +1,11 @@
-AGAPTURADO POR
-
-ISTENTE GESTÃO -DT
-
  
 
- 
+Identificação
 
-RIA IZABETE COUTINHO SANTOS
-
-Governo do Estado do Es;
+Governo do Estado do Espírito Santo
 
 Nota de Liquidação
 
-ito Santo
-
- 
-
- 
-
- 
-
-“sa -FES
-
-A (PATA DA CAPTURA 10/06/2020 11:20:42 (HORÁRIO DE BRASÍLIA - UTC-3)
-
-rca DOCUMENTO NATO-DIGITAL moro vo o conto [Data au Enasão
-ago A ES Jeoconcossas Jrosossoo,
-
-[Valor Bruto [Valor Liquido
-
-A isponididade do documento pode ser conferida BeB29hO 00 fetos es go by documento registo 2020344xc8.820 000,00
-
- 
-
- 
-
-Tipo de Alteração
-
-mento
-ido
-
-[Status Complementar
-
- 
-
-Passivo reconhecido e Liquidado
-
- 
-
-Detalhamento,
-
  
 
  
@@ -58,16 +14,41 @@ Detalhamento,
 
  
 
-Tipo de Contabilização
-Nota do Empenho
-credor
+Unidade Gestora Número do Documento [Data de Emissão
+440901 - FES 2020NL05908 10/06/20
+Valor Bruto Valor Líquido
+3.920.000,00) 3.920.000,00]
+Tipo de Alteração Documento [Status Complementar
+Alterado
+Passivo reconhecido é Liquidado
+
+ 
+
+ 
+
+ 
+
+Detalhamento
+
+ 
+
+ 
+
+ 
+
+Tipo de Contabi
+Nota de Empenho
+Credor
+
+ação
 
 Programa de trabalho
 Microrregião
-Município
+
+ 
 
 Emenda Parlamentar
-ld. uso
+Id. uso
 
 Fonte
 
@@ -77,30 +58,30 @@ Natureza
 Plano Orçamentário
 Convênio Recebido
 
-[convênio Concedido
+Convênio Concedido
 
- 
+Reconhecer o passivo e liquidar
 
-Reconhecer
-2ozongogas Ma FZ a
+2020NE03497
 
-oaBassi 300 DRA OGIA SIA
+04846613000103 - CELER BIOTECNOLOGIA S/A
 
-20.44.801.10. NCIA COMPLEMENTAR À REDE PÚBLICA DE SAÚDE
+20.44.901.10.302. 0047. 4705 - ASSISTÊNCIA COMPLEMENTAR À REDE PÚBLICA DE SAÚDE
+00 - ESTADO
 
-00 - ESTAD»nsulta via leitor de QR Code.
 Não informado
 
 0000 / E0000
 
-O- RECURSOS NÃO DESTINADOS À CONTRAPARTIDA
+0- RECURSOS NÃO DESTINADOS À CONTRAPARTIDA
 
-185- BLOCO DE GUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - SUS - FEDERAL
+155 - BLOCO DE CUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - SUS - FEDERAL
 
-000001 - BLOCO DE CUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - SUS - FEDERAL
+000001 - BLOCO DE CUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - SUS — FEDERAL
 (COVID-19)
 
-a39030 - MATERIAL DE CONSUMO
+339030 - MATERIAL DE CONSUMO
+
 001821 - Enfrentamento COVID-19
 000000 - Convênio não identificado
 000000 - Convênio não identificado
@@ -113,48 +94,37 @@ a39030 - MATERIAL DE CONSUMO
 
  
 
+ 
+
 Contrato 00000000 - Sem contrato
 Processo 2020013300059
-tens,
-Tipo Patrimonial Subilemda — Operação Tipode Inscrição Classificação Valor
+Itens
+Tipo Patrimonial Sub-item da Operação Tipo de Classificação Valor
 Despesa Patrimonial Inscrição Genérica Complementar
 Genérica
-Material do Consumo 35-MATERIAL 172 00 - Não — 000000000 3.920.000,00
-LABORATORIAL Reconhecimento Informado Não Informado
-da obrigação, com
-ingresso no
-almoxarifado
-SEM CONTRATO
+Material de Consumo 35-MATERIAL 172 - 00 - Não 000000000 - 3.920.000,00
+
+LABORATORIAL
 
 Observação
 
- 
+Reconhecimento Informado Não Informado
+da obrigação, com
+
+ingresso no
+
+almoxarifado -
+
+SEM CONTRATO
 
  
 
-[LIQUIDAÇÃO DE DESPESA, ANF 6232 PEÇA 4 57, COM AQUISIÇÃO DE TESTE RÁPIDO RADIOCAOMATOGRÁFICO PARA DETEGÇÃO
-[QUALITATIVA DE ANTICORPOS IGGHGM ANTI GOVID-CONFORME SOLICITAÇÃO DO LAGEN PEÇA 460 E CIÊNCIA DO GERENTE DE
-
-[VIGILÂNCIA EM SAÚDE A PEÇA 462.
-
  
 
- 
+LIQUIDAÇÃO DE DESPESA, A NF 6232 PEÇA 4 57, COM AQUISIÇÃO DE TESTE RÁPIDO RADIOCROMATOGRÁFICO PARA DETECÇÃO
+QUALITATIVA DE ANTICORPOS IGG/GM ANTI COVID-CONFORME SOLICITAÇÃO DO LACEN PEÇA 460 E CIÊNCIA DO GERENTE DE
 
-Emitento
-
- 
-
-[Secretário de Estado da Saúde
-os2055a5s01
-
-NÉSIO FERNANDES DE MEDEIROS JUNIOR.
-
-Usuário
-
- 
-
-Maria Izabete Coutinho Santos
+VIGILÂNCIA EM SAÚDE A PEÇA “62.
 
  
 
@@ -162,13 +132,100 @@ Maria Izabete Coutinho Santos
 
  
 
-SIEEFES slema inegtadode Gestão das Fnnças Pútcas do Espro Sano SerazES
+ 
 
-Emis docontaiizado por Mari Izabete Coutinho Santos em 10/0820 às 11:19
+Emitente
+Secretário de Estado da Saúde Usuário
+03205535901 - NÉSIO FERNANDES DE MEDEIROS JUNIOR Maria Izabete Coutinho Santos
 
-preso par Mari Iabete Causo Sans em 1010120 às 1:19
+ 
 
-Página 141
+ 
 
-2020 344XGQ -E-DOCS - CÓPIA SIMPLES 10/06/2020 11:20 PÁGINA 2/2
+ 
+
+ 
+
+ 
+
+Emitido contabilizado por Maria Izabete Coutinho Santos em 10/08/20 às 11:19.
+
+Impresso por Maria Izabete Coutinho Santos em 10/06/20 às 11:19
+
+SIGEF ES | sistema Integrado de Gestão das Finanças Públicas do Espírito Santo / SEFAZ-ES Página 11
+
+ 
+
+ 
+
+ 
+
+o
+8
+8
+s
+2
+8
+Ss
+q
+&
+5
+E
+E
+õ
+<
+à
+S
+S
+q
+8
+o
+a
+ui
+9
+g
+s
+&
+5
+5
+Q
+8
+8
+&
+ 
+
+CAPTURADO POR
+
+ 
+
+MARIA IZABETE COUTINHO SANTOS
+ASSISTENTE GESTAO - DT
+
+ 
+
+ 
+
+ 
+
+ 
+
+SESA-FES
+DATA DA CAPTURA | 10/06/2020 11:20:42 (HORÁRIO DE BRASÍLIA - UTC-3)
+VALOR LEGAL CÓPIA SIMPLES
+
+NATUREZA DOCUMENTO NATO-DIGITAL
+
+ 
+
+ 
+
+ 
+
+A disponibilidade do documento pode ser conferida pelo link https://e-docs.es.gov.br/documento/registro/2020-344XGQ
+
+ 
+
+Consulta via leitor de QR Code.
+
+2020-344XGO - E-DOCS - CÓPIA SIMPLES 10/06/202011:20 PÁGINA2/2
 

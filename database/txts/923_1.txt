@@ -1,7 +1,8 @@
-t76p021 SENGOVMG - 30743607 - Ofício
+17/06/2021 SEI/GOVMG - 30743607 - Ofício
 
 GOVERNO DO ESTADO DE MINAS GERAIS
 Advocacia Geral do Estado de Minas Gerais
+
 Gabinete
 
  
@@ -9,10 +10,10 @@ Gabinete
 Ofício AGE/GAB/ASSGAB nº. 863/2021
 Belo Horizonte, 11 de junho de 2021.
 
-Exmo. Sr. SENADOR OMAR Aziz
+Exmo. Sr. SENADOR OMAR AZIZ
 Presidente da CPI da Pandemia
 SENADO FEDERAL
-sec.cpipandemiaGsenado.leg.br
+sec.cpipandemiaQsenado.leg.br
 
 Assunto: Resposta ao Requerimento nº 627/2021 - CPI PANDEMIA
 Referência: [Caso responda este Ofício, indicar expressamente o Processo nº 1630.01.0001819/2021-82].
@@ -33,26 +34,28 @@ Advogado-Geral do Estado de Minas Gerais
 
  
 
-séail ,a, | Documento assinado eletronicamente por Sergio Pessoa de Paula Castro, Advogado Geral do
-| (5) | Estado, em 11/06/2021, às 17:23, conforme horário oficial de Brasília, com fundamento no art. 6º, 8
+Documento assinado eletronicamente por Sergio Pessoa de Paula Castro, Advogado Geral do
 
-Sieônica 1º, do Decreto nº 47.222, de 26 de julho de 2017.
-
- 
-
-E) À autenticidade deste documento pode ser conferida no site
-
-https//sei,mg gov br/sei/controlador externo.php?
-Bd erno=0, informando o código verificador 30743607
-
-  
-  
-
- 
+[ cail
+Sel. B Estado, em 11/06/2021, às 17:23, conforme horário oficial de Brasília, com fundamento no art. 6º, &
+1º, do Decreto nº 47.222, de 26 de julho de 2017.
 
    
+    
+ 
 
-É e o código CRC AOMESCEA.
+eletrônica
+
+ 
+
+£
+
+A autenticidade deste documento pode ser conferida no site
+
+http://sei.mg.gov.br/sei/controlador externo.php?
+
+= acao=documento, conferir&id orgao, acesso externo=0, informando o código verificador 30743607
+EJÉ e o código CRC 404E8CEA.
 
  
 
@@ -60,10 +63,8 @@ Bd erno=0, informando o código verificador 30743607
 
  
 
- 
-
-Referência: Processo nº 1630.01.0001819/2021-82 SEInE 30743607
+Referência: Processo nº 1630.01.0001819/2021-82 SEI nº 30743607
 Av. Afonso Pena, nº 4000 - Bairro Cruzeiro - Belo Horizonte - CEP 30130-008
 
-file:/fsICPIPandemia, DadosTemporariosídoc 923 gov MG ostensivalOficio 30743607 html n
+file://fs/CPIPandemia Dados Temporarios/doc 923 gov MG ostensivo/Oficio 30743607.html 144
 

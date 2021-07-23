@@ -1,49 +1,250 @@
-André Longo Araújo de Melo
-Secretário Estadual de Saúde de Pernambuco
-SES/PE
+GOVERNO DO ESTADO
 
-TRIBUNAL DE CONTAS DE PERNAMBUCO. Dispõe sobre os procedimentos para registro, transparência e
-organização dos processos de contratação emergencial destinados ao enfrentamento da emergência, incluindo os das
-Organizações Sociais de Saúde (OSS). Resolução TC nº 91, de 13 de maio de 2020. Pernambuco, 2020. Disponível
-em https:/docs. google. com/document/d/1L. okfrQaUazS HiP9lx5 pri: ANkpBWaPFpzyCRPwmgR4/edit, acesso em 13 de
-maio de 202
+PERNAMBUCO
+
+MAIS TRABALHO, MAIS FUTURO,
+
+Secretaria de
+Saúde
+
+ 
+
+OFÍCIO Nº 228/2021 - GPA/GCI/GAB-SES
+
+Data da assinatura eletrônica.
+
+A Sua Excelência o Senhor,
+
+Paulo Henrique Saraiva Câmara
+
+Governador do Estado
+
+Gabinete do Governador
+
+Praça da República, S/N, - Bairro Santo Antônio, Recife/PE - CEP 50010-928
+
+Assunto: Oficio nº 425/2021 - CPIPANDEMIA, que solicita informações através do Requerimento nº 154/2021- CPIPANDEMIA.
+
+Excelentíssimo Governador,
+
+Cumprimentando-o cordialmente, em atenção ao Ofício em epígrafe, que solicita subsídios para
+responder ao Requerimento nº 154 - CPIPANDEMIA, esta Secretaria Estadual de Saúde (SES/PE) vem expor o que
+segue:
+
+Preliminarmente, é importante esclarecer que, os repasses de Recursos Federais destinados
+exclusivamente ao combate à pandemia do CORONAVÍRUS (COVID-19) ao Estado de Pernambuco foram iniciados a
+partir de março de 2020, por meio da publicação de Portarias no Diário Oficial da União.
+
+Como forma de orientar os entes da Federação quanto à contabilização e ao tratamento fiscal dos
+recursos recebidos e aplicados no enfrentamento do Coronavírus, foi emitida pelo Ministério da Economia a Nota
+Técnica SEI Nº 12774/2020/ME.
+
+Conforme a Nota Técnica menciona, em seu item 13, há a recomendação da criação de “um
+detalhamento na classificação por fonte de recursos que permita identificar a destinação do recurso ao
+enfrentamento à pandemia, possibilitando também o controle das despesas utilizadas nesse enfrentamento”.
+
+Dessa forma, foram criados, no âmbito do Governo do Estado de Pernambuco, os detalhamentos da
+fonte 0144 - Recursos do SUS Exclusive Convênios- Adm. Direta, conforme códigos a seguir.
+
+Fonte detalhada exclusiva COVID:
+
+. 0144530002 - RECURSOS DESTINADOS AO TRATAMENTO DE CASOS DO CORONA VÍRUS -
+COVIDI9;
+
+. 0144530003 - RECURSOS FUNDO A FUNDO SUS BLOCO INVESTIMENTO PARA COVID19.
+Cumpre destacar que, devido ao grande volume de ações destinadas ao combate ao Coronavírus, tais
+como aquisições de insumos e reagentes para exames de detecção do vírus SARS-COV-2 realizados pelo Laboratório
+Central de Pernambuco — LACEN, foram executadas despesas com recursos SUS disponíveis em conta para atender
+estas despesas emergenciais. Isto é, parte do recurso federal não foi originalmente repassado com a finalidade
+específica para o enfrentamento do Coronavírus, mas atendeu a este fim, conforme dispõe a Lei Complementar nº
+172, de 15 de Abril de 2020, que possibilita a transposição e a transferência de saldos financeiros constantes dos
+Fundos de Saúde dos Estados, do Distrito Federal e dos Municípios, provenientes de repasses federais.
+
+Por fim, o Estado de Pernambuco recebeu recursos na forma de auxílio financeiro e em ações de
+enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19) através da Lei Complementar nº 173, de 27 de maio de 2020. A
+execução das despesas ocorreu a partir da Fonte 164 - RECURSOS DA LC 173/2020.
+
+A partir daí, passamos a detalhar, conforme o quadro 1, o tipo de despesa em que os recursos foram
+executados nas fontes detalhadas e não detalhadas e, os documentos correspondentes aos processos administrativos
+de despesa para cada um deles, sendo a marcação N/A correspondente a documento que não se aplica a
+determinado tipo de despesa.
+
+Quadro 1 - Detalhamento dos tipos de despesa executados nas fontes detalhadas e não detalhadas.
 
  
 
  
 
-     
+ 
 
  
 
-são
-
-      
-
-Documento assinado eletronicamente por Andre Longo Araujo de Melo, em 19/05/2021, às 162, conforme
-horário oficial de Recife, com fundamento no art. 108, do Decreto nº 45.157, de 23 de outubro de 2017.
+ 
 
  
 
-A autenticidade deste documento pode ser conferida no site http:/[sei pe. goubr/sei/controlador. externo.php?
-
-acaosdocumento conferir&id. orgao, acesso. externo=0, Informando o código verificador 13856629 e o código
-CRCSBCOASFD.
+ 
 
  
 
-SECRETARIA ESTADUAL DE SAÚDE DE PERNAMBUCO
+ 
 
-Rua Dona Maria Augusta Nogueira, 519, - Bairro Bongi, Recife/PE - CEP 50751-530, Telefone: (81)3184-0000
-independentemente de ter havido licitação ou dispensa ou inexigibilidade (em PDF) relativos à aplicação de TUDOS os
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x NOTAS COMPROVANTE
+TIPO DE DESPESA EMPENHO LIQUIDAÇÃO 08 | iscais | CONTRATO | OA NCÁRIO
+BLOQUEIO JUDICIAL TRT 6 REGIÃO SIM SIM SIM SIM N/A SIM
+CONTRATO DE GESTÃO - HOSPITAIS, SIM SIM SIM SIM SIM SIM
+FUNDO NACIONAL DE SAUDE N/A N/A SIM N/A N/A SIM
+CONTRATO DE GESTÃO - HOSPITAL
+CAMPANHA sim siM siM sim SIM siM
+CONTRATO GESTAO - UPA SIM SIM SIM SIM SIM SIM
+CONTRATO GESTAO - UPAES SIM SIM SIM SIM SIM SIM
+DIÁRIA SIM SIM SIM N/A N/A SIM
+FADE-UFPE SIM SIM SIM N/A N/A SIM
+DISTRITO ESTADUAL DE FERNANDO
+DE NORONHA sim siM siM N/A N/A siM
+GERENCIA REGIONAL - GERES SIM SIM SIM N/A N/A SIM
+HEMOPE SIM SIM SIM N/A N/A SIM
+HOSPITAIS REGIONAIS, SIM SIM SIM N/A N/A SIM
+HOSPITAL AGAMENON
+MAGALHAES N/A N/A siM N/A N/A siM
+HOSPITAL BARAO DE LUCENA N/A N/A SIM N/A N/A SIM
+HOSPITAL DA RESTAURACAO N/A N/A SIM N/A N/A SIM
+HOSPITAL DE ENTIDADE
+FILANTROPICA sim siM siM sim SIM siM
+HOSPITAL DE ENTIDADE PRIVADA SIM SIM SIM SIM SIM SIM
+HOSPITAL GETULIO VARGAS N/A N/A SIM N/A N/A SIM
+HOSPITAL OTAVIO DE FREITAS N/A N/A SIM N/A N/A SIM
+HOSPITAL REGIONAL DO AGRESTE N/A N/A SIM N/A N/A SIM
+INSUMOS E MATERIAL HOSPITALAR SIM SIM SIM SIM SIM SIM
+LACEN N/A N/A SIM N/A N/A SIM
+LOCAÇÃO DE EQUIPAMENTOS DE
+INFORMÁTICA sim siM siM sim SIM siM
+MEDICAMENTO SIM SIM SIM SIM SIM SIM
+SERVIÇO CLINICA MEDICA, SIM SIM SIM SIM SIM SIM
+SERVIÇO DE APOIO
+ADMINISTRATIVO sim siM siM sim SIM siM
+SERVIÇO DE LOCAÇÃO DE
+AMBULÂNCIA sim siM siM sim SIM siM
+SERVIÇO PRESTADO PESSOA FISICA SIM SIM SIM RPA N/A SIM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+TRANSFERENCIA AOS MUNICIPIOS SIM SIM SIM N/A N/A SIM
+
+ 
+
+ 
+
+ 
+
+ 
+
+FUNDO A FUNDO
+TRIBUTO INSS SIM SIM SIM N/A N/A SIM
+TRIBUTO IRRF SIM SIM SIM N/A N/A SIM
+TRIBUTO ISS SIM SIM SIM N/A N/A SIM
+UPE - HOSPITAL OSVALDO CRUZ. SIM SIM SIM N/A N/A SIM
+
+ 
+
+ 
+
+FOLHA DE PAGAMENTO DA
+SECRETARIA ESTADUAL DE SAÚDE -
+Fonte 164 - RECURSOS DA LC
+173/2020
+
+sim siM siM N/A N/A N/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Insta ressaltar que algumas das despesas mencionadas no quadro acima, a exemplo de diárias, locação
+de equipamentos de informática, tributos e serviço prestado por pessoa física, bem como despesas destinadas ao
+Distrito Estadual de Fernando de Noronha, foram realizadas no âmbito do combate à Pandemia decorrente da COVID-
+19, conforme documentação comprobatória em anexo.
+
+Ainda, a execução das despesas a partir da Fonte 164 - RECURSOS DA LC 173/2020, de uso específico
+para ações de enfrentamento da COVID-19, citadas anteriormente, serviram a custear a folha de pagamento dos
+profissionais da Secretaria Estadual de Saúde, mobilizados para o combate da pandemia, e as respectivas
+contribuições previdenciárias aos regimes próprio (FUNAFIN e FUNAPREV) e geral (INSS), com o devido respaldo no
+dispositivo legal. A lista com os servidores alcançados encontra-se disponível nos anexos.
+
+Com isso, em resposta ao item 1. Todas as notas de empenho (em PDF), 2. Todas as ordens bancárias
+(em PDF), 3. Todas as notas fiscais (em arquivo XML) e 4. Todos os processos administrativos de despesa —
+independentemente de ter havido licitação ou dispensa ou inexigibilidade (em PDF) relativos à aplicação de TODOS os
 recursos federais destinados a cada um daqueles entes federados para o combate à COVID 19, incluindo, ainda, 5. os
 extratos bancários (em arquivo Excel) do Requerimento nº 154-2021/CPIPANDEMIA, seguem todos os arquivos
 solicitados em mídia magnética (Base de dados disponível
-em  hitps://drive.google.com/drive/ folders/10zpagaQEsESIMwyw6BX iK7LzqOajva?usp=sharing), conforme
+em https://drive.google.com/drive/folders/10zpggaQEgFS IMvy w6BXJiiK7LZgOgjva?usp=sharing), conforme
 metodologia exposta no quadro 1, organizados por Ordem Bancária (menor nível de detalhamento do rastreamento
 da despesa alcançado por este ente) e segmentado por tipo de despesa.
-
- 
 
 Ponderamos que todas as Notas Fiscais estão devidamente acostadas nas pastas correspondentes,
 atendendo ao solicitado na íntegra. Contudo, apenas nos arquivos referentes aos tipos de
@@ -53,12 +254,12 @@ prejuízo de qualquer fiscalização por parte dos órgãos de controle, uma vez
 
 Importante destacar, ainda, que para o atendimento do requerido quanto ao “processo administrativo
 de despesa”, foi adotado como parâmetro o entendimento do Tribunal de Contas do Estado de Pernambuco (TCE/PE)
-que, por meio do inciso V, Art. 28, da RESOLUÇÃO TC Nº 91, DE 13 DE MAIO DE 2020, definiu processo de contratação
+que, por meio do inciso V, Art. 2º, da RESOLUÇÃO TC Nº 91, DE 13 DE MAIO DE 2020, definiu processo de contratação
 ou aquisição como “identificação que contenha, no mínimo, o número e tipo do processo de contratação ou
 aquisição, bem como a íntegra do contrato ou, na sua ausência, a nota de empenho correspondente” (TRIBUNAL DE
 CONTAS DE PERNAMBUCO, 2020).
 
-No que diz respeito ao item 6 Os documentos bancários de comprovação de todos os débitos e créditos
+No que diz respeito ao item 6. Os documentos bancários de comprovação de todos os débitos e créditos
 ocorridos nas respectivas contas (em arquivo PDF), encontram-se acostados aos processos, juntamente com as
 demais documentações.
 
@@ -66,4 +267,39 @@ Ao tempo em que nos colocamos à disposição para eventuais esclarecimentos que
 necessários, renovamos expressões de estima e consideração.
 
 Cordialmente,
+
+ 
+André Longo Araújo de Melo
+Secretário Estadual de Saúde de Pernambuco
+SES/PE
+
+TRIBUNAL DE CONTAS DE PERNAMBUCO. Dispõe sobre os procedimentos para registro, transparência e
+organização dos processos de contratação emergencial destinados ao enfrentamento da emergência, incluindo os das
+Organizações Sociais de Saúde (OSS). Resolução TC nº 91, de 13 de maio de 2020. Pernambuco, 2020. Disponível
+
+em hitps://docs.google.com/document/d/IL okfrQaUazSHtP9IxSprk 4NxpBWaPFpzy CRPwmgR4/edit, acesso em 13 de
+maio de 2021.
+
+ 
+
+jl
+| Sel!
+assinatura
+
+      
+
+Documento assinado eletronicamente por Andre Longo Araujo de Melo, em 19/05/2021, às 16:32, conforme
+horário oficial de Recife, com fundamento no art. 10º, do Decreto nº 45.157, de 23 de outubro de 2017.
+
+A autenticidade deste documento pode ser conferida no site http://sei pe.gov.br/sei/controlador externo.php?
+
+acao=documento, conferir&id orgao acesso externo=0, informando o código verificador 13856629 e o código
+CRC 5BCO45FD.
+
+ 
+
+ 
+
+SECRETARIA ESTADUAL DE SAÚDE DE PERNAMBUCO
+Rua Dona Maria Augusta Nogueira, 519, - Bairro Bongi, Recife/PE - CEP 50751-530, Telefone: (81)3184-0000
 

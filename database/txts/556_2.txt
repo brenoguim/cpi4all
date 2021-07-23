@@ -1,42 +1,18 @@
-Destaca-se que os óbitos são notificados nos, seguinte sistemas de informação:
-Acumulado dos óbitos por semana epidemiológica. Bahia, 2020-2021*.
-SIVEP-Gripo (Slstema de Informação da Viglância da Gripe) = é 0 sistema no qual
-ocorre a notificação imediata do óbito que apresentou sintomas de Síndrome
-Respiratória Aguda Grave (SRAG). Outro banco de dados utilizado para gaplação &os
-E DOS
+Cenário Epidemiológico da COVID-19 no estado da Bahia.
 
-óbitos é o banco do SIM (Sistema de Informação sobre mortalidage,
+O primeiro caso no estado foi confirmado em 06/03/2020, nove dias após a
+confirmação do 1º caso do Brasil, que ocorreu em 26/02/2020. O primeiro óbito,
+ocorreu no dia, 28/03/2021 paciente do sexo masculino, 74 anos, residente em
+Salvador, que estava internado em hospital da rede privada, com comorbidades
+associadas, o mesmo com histórico de viagem para São Paulo.
 
-     
-  
-    
+Observa-se no quadro abaixo a série histórica dos óbitos por residência no estado da
+Bahia por capítulo CID-10, estando a COVID-19 inserida no capítulo 1 classificado
+como algumas doenças infecciosas e parasitárias. Verifica-se um incremento de
 
-unidade de saúde deve enviar a declaração de óbito imediatameri
-Mynicipal de Saúde, para que seja digitada no SIM em teias
-Pártaria MS 116 de 11 de fevereiro Se ope, ico Se
+259,94% de óbitos no ano de 2020 em comparação ao ano de 2019.
 
-Declaração de Óbito (DO), como eofinêno
-
-território nacional, para a cole
-
-documento hábil para o e
-
-Certidão de Sbifp, Fed da
-
-oficiaL para e AU eb! 8-SUS,Nofífiça &, asistema que
-
-notifigaBs óbitos confirmados para coveiro não apresentaram sintorffê! de
-grAG. * Semana em curso
-
-Ressalta-se que a Bahia ocupa 27º lugar na taxa de mortalidade Quid 19,
-
-Segundo Unidade. da fiaderação. A taxa de mortalidade representa o risco, ou
-tal hihi Tea MMA EU
-probabilidade que qualquer pessoa na população apresenta de poder vir a morrer ou
-dA TM ta ny
-de morrer em decorrência de uma determinada doença. | | li | || || | I
-
-e apura mi Mobo JA
+Quadro 1: Óbitos por residência por capítulo CID-10 e ano do óbito.
 
  
 
@@ -88,35 +64,234 @@ e apura mi Mobo JA
 
  
 
-      
+Mortalidade geral - Bahia
+Óbitos por Residência por Capítulo CID-10 e Ano do Óbito
+Período:2019-2021
 
-   
+[Capítulo ciD-10 2019 | 2020 | 2025 Total
+. Algumas doenças infecciosas e parasitárias ag7o | 14290 | so3e 27198
+ll. Neoplasias (tumores) 13467 | a3348 | 2170 20985
+ll. Doenças sangue órgãos hemat e transt imunitár 632 eu 186 1428
+Iv. Doenças endócrinas nutricionais e metabólicas 6sas | za | aco 15514
+|. Transtornos mentais e comportamentais 1107 | 1285 289 2681
+1. Doenças do sistema nervoso 298 | nz 478 aso3
+Al. Doenças do olho e anexos - í 2 3
+ll. Doenças do ouvido e da apófise mastóide 8 8 2 18
+x. Doenças do aparelho circulatório 22781 | 22m | ssm s1582
+|x. Doenças do aparelho respiratório suas | z024 | um 17266
+|xi. Doenças do aparelho digestivo asa | qa25 | arma 10049
+|xil. Doenças da pele e do tecido subcutâneo 519 s2z 104 1145
+XIIl.Doenças sist osteomuscular e tec conjuntivo ES ass a 228
+|xiv. Doenças do aparelho geniturinário 2504 | 2453 E) 5616
+|xv. Gravidez parto e puerpério 108 134 as 287
+|xvi. Algumas afec originadas no período perinatal 1809 | 1695 E 2994
+|xvil.Malf cong deformid e anomalias cromossômicas Big 686 184 1688
+| XVIII Sint sinais e achad anorm ex clin e laborat 10746 | 13536 | aim 28866
+|xiX. Lesões enven e alg out conseg causas externas 2 - 1 3
+|tx. Causas externas de morbidade e mortalidade 12965 | 13078 | 2562 29606
+|xx1. Contatos com serviços de saúde
 
-           
-   
-
-       
+|úxilCódigos para propósitos especiais 9 23 281 563
+[Total saasa | 106802 | 22880 233134
 
  
 
-Zig
-
-Abêiiss.
-
-. Dosâdfgcsss.
-
-é DESSisrisgrss
-
-E TFEFESsa
-SPAS
-
-seem do ue
-
-Dacos referente à domingo, 23 de mai de 2021
+ 
 
  
 
-   
+ 
 
+ 
+
+ 
+
+ 
+
+Fonte: SESAB/SUVISA/DIVEP/Sistema de Informação sobre Mortalidade — SIM.
 Última atualização realizada em 06/05/2021.
+Até o dia 31/12/2020 ocorreu no estado da Bahia 10.140 óbitos por COVID-19, no ano
+de 2021 (01/01/2021 a 24/05/2021) ocorreram 10.359 óbitos por COVID-19
+totalizando até o 24/05/2021, 20.499 óbitos por COVID-19 no estado da Bahia.
+(Figuras 1 e 2). No dia 20/03/2021 foi a data que ocorreu o maior número de óbitos no
+Estado totalizando 145 óbitos por COVID-19.
+
+Ressalta-se que, o processo de atualização das informações nos municípios e Estado
+é dinâmico e complexo e que os dados informados diariamente estão sujeitos a
+alterações. É possível que haja mudanças no número de óbitos, em decorrência de
+inconsistências ou atrasos no repasse das informações ao Estado.
+
+Figura 1: Distribuição dos óbitos por dia de ocorrência e curva acumulada por COVID-
+19. Bahia, 2021.
+
+Distribuição dos óbitos por dia de ocorrência e curva acumulada por COVID-19. Bahia, 2021
+
+EEE
+
+Figura 2: Acumulado dos óbitos por semana epidemiológica. Bahia, 2020-2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o
+.
+im
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Acumulado dos óbitos por semana epidemiológica. Bahia, 2020-2021*.
+
+Ba
+ma
+m 2
+5
+go
+Rm
+= ã
+a —
+vu Ba
+og oo
+nas
+420 &
+E
+5 9
+
+14 16 18 20 21 23 2731 36 40 45 4953 13 7 m14 16 18 20 2!
+2020 Semana epidemiológica 2021
+
+17906
+
+11128
+
+Nºde óbitos
+
+2049
+
+Do sos
+
+um
+a
+ma
+up ql
+se
+og NES E
+
+* Semana em curso
+
+Ressalta-se que a Bahia ocupa 27º lugar na taxa de mortalidade por COVID-19,
+segundo Unidade da Federação. A taxa de mortalidade representa o risco ou
+probabilidade que qualquer pessoa na população apresenta de poder vir a morrer ou
+
+de morrer em decorrência de uma determinada doença.
+Figura 3: Taxa de mortalidade por COVID-19, segundo Unidade da Federação. Brasil, 2021.
+
+Taxa de mortalidade por COVID-19, segundo Unidade da Federação. Brasil, 2021.
+
+157
+nr
+
+=
+a
+
+1765
+
+1760
+
+170,5
+1654
+1608
+
+Taxa por 100000 hab.
+Ea:
+Po ca
+Do cms
+
+2410
+2359
+2344
+2325
+2231
+Dom
+2137
+2133
+206,9
+1959
+Do asa
+
+Fonte: Ministério da Saúde
+Dados referente a domingo. 23 de maio de 2021
+Destaca-se que os Óbitos são notificados nos seguinte sistemas de informação:
+SIVEP-Gripe (Sistema de Informação da Vigilância da Gripe) — é o sistema no qual
+ocorre a notificação imediata do óbito que apresentou sintomas de Síndrome
+Respiratória Aguda Grave (SRAG). Outro banco de dados utilizado para captação dos
+óbitos é o banco do SIM (Sistema de Informação sobre mortalidade) — na qual a
+unidade de saúde deve enviar a declaração de óbito imediatamente para a Secretaria
+Municipal de Saúde, para que seja digitada no SIM em até 48 horas. Segundo a
+Portaria MS 116 de 11 de fevereiro de 2009, deve ser utilizado o formulário da
+Declaração de Óbito (DO), como documento padrão de uso obrigatório em todo o
+território nacional, para a coleta dos dados sobre óbitos e considerado como o
+documento hábil para os fins do Art. 77, da Lei nº. 6.015/1973 para a lavratura da
+Certidão de Óbito, pelos Cartórios do Registro Civil. Indicando este como documento
+oficial para coleta de informações sobre óbito. O e-SUS Notifica é o sistema que
+notifica os óbitos confirmados para COVID-19 que não apresentaram sintomas de
+SRAG.
 

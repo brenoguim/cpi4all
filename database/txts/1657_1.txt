@@ -1,15 +1,18 @@
-Oo ANAICL
+2 DANA TEL
 
-“Agência Nacional de Telecomunicações
-SAUS, Quadra 6, Bloco H, 10º Andar, Ala Norte Bairro Asa Sul, Brasília/DF, CEP 70070-940
-Telefone: (61) 2312-2010 - http://www anatelg on br
+Agência Nacional de Telecomunicações
+SAUS, Quadra 6, Bloco H, 10º Andar, Ala Norte - Bairro Asa Sul, Brasília/DF, CEP 70070-940
+Telefone: (61) 2312-2010 - http://www .anatel.gov.br
+
+ 
 
 Referência: Caso responda este Ofício, indicar expressamente o Processo nº 53500.039847/2021-42
-
-Importante: O Acesso Externo do SEI (www anatel. gov br/seiusuarioexterno) possibilita o Peticionamento Eletrônico para abrir Processo
+Importante: O Acesso Externo do SEI (www anatel.gov.br/seiusuarioexterno) possibilita o Peticionamento Eletrônico para abrir Processo
 Novo e Intercorrente, podendo utilizar a segunda opção para responder este Ofício. Página de Pesquisa Pública do
 
-SEI mrwwanatel gor br/seipesquisa
+SEI: www .anatel.gov.br/seipesquisa
+
+ 
 
 Ofício nº 355/2021/GPR-ANATEL
 
@@ -28,9 +31,10 @@ Assunto: Comissão Parlamentar de Inquérito - CPI da Pandemia - Suspensão dos 
 Requerimento nº 757/2021-CPIPANDEMIA.
 
 Referência Anatel: Processo nº 53500.039847/2021-42.
+
 Senhor Senador,
 
-1 Reporto-me ao Ofício nº 1845/2021 - CPIPANDEMIA, por meio do qual Vossa
+1. Reporto-me ao Ofício nº 1845/2021 - CPIPANDEMIA, por meio do qual Vossa
 Excelência informou que durante a 33º Reunião Ordinária da CPI Pandemia foi deliberada
 a suspensão dos efeitos do Requerimento nº 757/2021-CPIPANDEMIA, o qual requeria a transferência
 dos sigilos telefônico e telemático da Sra. Francieli Fontana Sutile Tardetti Fantinato.
@@ -44,13 +48,16 @@ Respeitosamente,
 
  
 
-  
-    
+      
 
 Documento assinado eletronicamente por Leonardo Euler de Morais, Presidente, em
-09/07/2021, às 14:40, conforme horário oficial de Brasília, com fundamento no art. 23, inciso Il,
+09/07/2021, às 14:40, conforme horário oficial de Brasília, com fundamento no art. 23, inciso II,
+da Portaria nº 912/2017 da Anatel.
 
-daPortaria nº 912/2017 da Anatel.
+sela
+
+assinatura
+eletrônica
 
   
 
@@ -67,5 +74,7 @@ CRC B3660D71.
 
  
 
-Referência: Caso responda este Ofício, indicar expressamente o Processo nº 53500.039847/2021-42 SEI nº 7121766
-
+ 
+
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 53500.039847/2021-42 SEInº 7121766
+

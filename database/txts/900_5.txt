@@ -1,3 +1,129 @@
+SPDM - Associação Paulista para o Desenvolvimento da Medicina
+Programa de Atenção Básica e Saúde da Família
+
+   
+
+ 
+
+ 
+
+ 
+
+Contrato de Gestão 01/2020 - SMS/SPDM - Emergência para Enfrentamento COVID-19.
+
+Contratada: SPDM Associação Paulista para o Desenvolvimento da Medicina
+
+ 
+
+ 
+
+PERÍODO: ABRIL/2020.
+
+ 
+
+ 
+
+ANEXO I - DEMONSTRATIVO RESUMIDO
+
+ 
+
+RECEITAS
+
+ 
+
+ 
+
+Total de Receitas =
+
+ 
+
+ 
+
+DESPESAS
+
+ 
+
+Total de Despesas, conforme Anexo II - Detalhamento das Receitas e
+
+Despesas (3.221.041,35)
+
+ 
+
+Total de Despesas** (3.221.041,35)
+
+ 
+
+ 
+
+** Nota: O Total de Despesas realizadas em Abril/2020 foram pagas através da conta Caixa Econômica Federal /
+Agência 3006 / c/c 1278-0 do CG 001/2019 - Fortaleza, cuja regularizações financeiras ocorreram em 05/05/2020
+e 06/05/2020, conforme extratos bancários anexados.
+
+ 
+
+ 
+
+Repasses efetuados na c/c 44.475-8 - Matriz - SPDM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Descrição Valor
+13/04/2020 |Repasse Custeio 4.658.714,34
+16/04/2020 |Repasse Investimento 7.375.677,50
+Total Repasse** 12.034.391,84
+
+ 
+
+ 
+
+ 
+
+ 
+
+*Nota: Considerando que o repasse foi efetivado pela conta da Matriz SPDM Banco Bradesco / Agência 2677-8 / c/c
+44.475-8, e que a SPDM/PAIS se comprometeu em realizar a transferência a conta corrente aberta exclusivamente e
+especificadamente para o Contrato de Gestão nº 01/2020 - Hospital de Campanha Presidente Vargas Banco
+Bradesco / Agência 2677-8 / c/c 87033-1;
+
+Considerando a a nova metodologia da Instituição Financeira para realizar a ativação da conta corrente (87.033-1)
+do referido Contrato de Gestão;
+
+Esclarecemos que em 04/05/2020 estaremos efetuando a referida transferência da conta corrente de repasse para
+a conta corrente de execução do Contrato de Gestão;
+
+ 
+ 
+
+na DE ANE Ena SAE A
+
+    
+
+ 
+
+[contrato da Gastão 01/2020 - SMS/SPDM - Emergência para Enfrantamento COVID-19.
+
+[Contratad: & Desenvolvimento da Medicina
+
+ 
+
+PDM Associação Paulista par
+
+ 
+
+[Período: ABRIL/2020.
+
+ 
+
+Anexo II - Demonstrativo Detalhado de Receitas e Despesas efetuadas pela c/c 1278-0
+
  
 
  
@@ -48,7 +174,32 @@
 
  
 
- 
+Item Data — No do Documento Descrição Fornecedor Valor
+1º 13/04/2020) REPASSE REPASSE REPASSE CUSTEIO 4.650.714,34
+2 16/04/2020 — ADIANTAMENTO MAQUINAS E UTENSÍLIOS BAUMER S.A (313.900,00)
+5 16/04/2020 ADIANTAMENTO, MATERIAL DE ENFERMAGEM, CIRURGICA FERNANDES - COMERCIO DE MATERIAIS CIRURGICOS E HOSPITALARES - SOCIEDADE LIMITADA (435.000,00)
+4 16/04/2020 FUNDO FIXO OUTRAS DESPESAS. PRISCILA DE ANDRADE NEVES (5.100,00)
+5 16/04/2020) REPASSE REPASSE REPASSE INVESTIMENTO 7.375.677,50)
+6 17/04/2020) 87 SERVIÇOS DE INFRAESTRUTURA ANDERSON BRUNO DE MIRANDA. (21.235,75)]
+7 22/04/2020 7 SERVICOS DE INSTALAÇÕES EM GERAL, CONSTRUTORA MOURA CAMPOS EIRELI (383.880,00)
+8 22/04/2020 7853 CURSOS E TREINAMENTOS KIT ASSESSORIA E CONSULTORIA EM SAÚDE 5/5 LTDA (7.500,00)
+9 22/04/2020 — ADIANTAMENTO, MAQUINAS E UTENSÍLIOS VERTICAL LOCAÇÃO DE EMPILHADERIA LTDA, (1.500,00)
+10 22/04/2020 — ADIANTAMENTO MAQUINAS E UTENSÍLIOS RAPIDO CARRINHO INDUSTRIAL SOLUÇÃO E MOVIMENTAÇÃO DE CARGAS (8.100,00)
+11 25/04/2020 5961 LAVANDERIA TECLA - TECNOLOGIA E LAVAGEM INSDUSTRIAL LTDA, (80.610,00)
+12 23/04/2020 — ADIANTAMENTO MATERIAL DE ENFERMAGEM YURI ALVES FARIAS. (22.500,00)]
+15 25/06/2020 ADIANTAMENTO MOBILIÁRIO LABTECNICA PRODUTOS PARA LABORATORIO EIRELI (4.090,91)
+14 24/04/2020 7898 LOCAÇÃO DE EQUIPAMENTOS. MELOC - LOCAÇÃO DE EQUIPAMENTOS LTDA. (2.100,00)
+15 24/04/2070 — ADIANTAMENTO EQUIPAMENTOS MÉDICOS CMOS DRAKE DO NORDESTE As (838.000,00)
+16 24/04/2020 TRSS| TAXAS DE RESÍDUOS PREFEITURA MUNICIPAL DE FORTALEZA (180,20)
+17 27/04/2020 191504 MAQUINAS E UTENSÍLIOS KONIMAGEM COMERCIAL LTDA, (840.000,00)
+18 27/04/2020 — ADIANTAMENTO MATERIAL DE ENFERMAGEM PROHOSPITAL COMERCIO HOLANDA LTDA. (15.960,00)]
+19 29/04/2020 73 SERVICOS DE INSTALAÇÕES EM GERAL, CONSTRUTORA MOURA CAMPOS EIRELI (101.454,00)
+20 28/04/2020 aa3 DEDETIZAÇÃO J8H LIMPEZA E HIGIENIZACAO DE RESERVATORIO LTDA (2.596,00)
+21 28/04/2020 1449 TELECOMUNICAÇÃO TQNUS TECNOLOGIA COMERCIO E SERVICOS DE INFORMATICA LTDA, (2.976,19)
+22 29/08/2020 — ADIANTAMENTO. MOBILIÁRIO LABTECNICA PRODUTOS PARA LABORATORIO EIRELI (128.000,00)
+23 29/04/2020 — ADIANTAMENTO, EQUIPAMENTOS MÉDICOS TERMON INDUSTRIA E COMERCIO LTDA, (158,30)
+
+Total 8.813.350,49
 
  
 
@@ -58,43 +209,13 @@
 
  
 
- 
+Observação: As movimentações financeiras listadas acima, foram realizadas através da c/c 1278-0, cuja regularizações financeiras acorraram em 05/05/2020 e 06/05/2020, conforme extratos
+
+bancários anexados.
+
+cesnão eu saúos
+
+   
 
  
-
- 
-
- 
-
-«s2pm, «epa
-fencadeGenao GI/20 HG /SPOM Enenêncio ara Eniremmemo COM
-
-E
-
-Anos = Demanervo Dedo de Reais espeto feudos pace i2z00
-
-cisão OE | AA EE ART 55620]
-à amaro aomumimeno | ira pememmiscem | crunecarraanos cotreca de meras cocos ese anes semeneme iene | sessarane
-sato — AEE EEE “ERRSETaETAETO nasis
-Eis 585 CORES EPs a AEE E CONOR ENADE SEE ae]
-Edo gr UNA EL EGO LAVE UA REsiGe
-A ERtão 266 TESE DE EUFRATES “EG LEGO DE EAETS LIA a soael
-De cer aomumieno | emrnnemasmémcos came moço Neres saca
-5 Então 1880 os ETR TE CONCLUI Fases]
-E Edo IOONTAAE ELAS ERR Res GORRO Tasca)
-> omospme sorammere | esarenemosnéricos eme ae ccmeico a say
-
- 
-
- 
-
- 
-
- 
-
-  
-
- 
-
-vês da c/e 12780, cuja regulrizações financeiras acateram em 05/05/2029 e 06/05/2020, conforme extratos
 

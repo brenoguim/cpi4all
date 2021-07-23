@@ -1,4 +1,4 @@
-teu
+TCU
 
 TRIBUNAL DE CONTAS DA UNIÃO
 
@@ -19,18 +19,18 @@ A propósito, informo que foi concedido, com relação aos processos em comento,
 acesso integral ao auditor do Tribunal Erick dos Santos Alves e parcial aos servidores do
 Senado Federal Liliane Galvão de Moraes, Weiller Diniz de Oliveira, Marcos Paulo da Rocha
 Eirado e Farid Mendonça Júnior — em virtude de o sistema informatizado do TCU (e-tcu), por
-razões de segurança da informação, não permitir a não servidores desta Casa acesso remoto à
+razões de segurança da informação, não permitir a não servidores desta Casa acesso remoto a
 feitos sigilosos.
 
 Ademais, conforme consignado na manifestação técnica anexa, os autos
+
 sigilosos nela listados já foram encaminhados a essa CPI, em meio digital, por intermédio dos
 Avisos nº 672 - GP/TCU, de 7/5/2021, e nº 741 - GP/TCU, de 20/5/2021.
 
 Por oportuno, é necessário ressaltar que os processos disponibilizados contêm
 informações que não são de livre acesso público e que o compartilhamento de tais dados com
-
 essa Comissão não enseja modificação de sua confidencialidade, de acordo com o art. 25, da
-Lei nº 12.527/2011,
+Lei nº 12.527/2011.
 
 Atenciosamente,
 
@@ -46,5 +46,5 @@ Senado Federal
 
 Brasília - DF
 
-Para verificar as assinaturas, acesse wwnwtcu.gov br/autenticidade, informando o código 68388524.
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 68388624.
 

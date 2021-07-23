@@ -1,13 +1,9 @@
-                
+Anexo 4: HOSPITAIS DO EXERCITO BRASILEIRO
 
  
 
-da ss Rd Ra
-
  
 
-  
-
  
 
  
@@ -59,7 +55,37 @@ da ss Rd Ra
  
 
  
+
+Média de Ocupação de leitos de UTI Média de Ocupação de Leitos Clínicos
+Hospitais
 
+Janeiro | Fevereiro Março Abril Janeiro | Fevereiro | Março Abril
+Hospital Central do Exército (Rio de Janeiro) 17% 94% 133% 158% 45% 49% 50% 91%
+Hospital Geral do Rio de Janeiro 8% 92% 7% 205% 21% 20% 31% 59%
+Hospital Militar de Resende - - - - 45% 58% 65% 39%
+Hospital Militar de Area de São Paulo 65% 86% 176% 168% 32% 40% 51% 14%
+Hospital Militar de Área de Porto Alegre 55% 83% 180% 134% 106% 135% 142% 76%
+Hospital Geral de Santa Maria 51% 49% 132% 153% 40% 49% 64% 90%
+Hospital de Guamição de Bagé - - - - 24% 28% 33% 31%
+Hospital de Guamição de Alegrete - - - - 25% 10% 35% 35%
+Hospital de Guamição de Santiago - - - - 18% 27% 32% 31%
+Hospital Geral de Juiz de Fora 591% 356% 400% 337% 21% 19% 38% 44%
+Hospital Geral de Curitiba 50% 5% 140% 63% 31% 34% 39% 41%
+Hospital de Guamição de Florianópolis - - - - 11% 31% 35% 33%
+Hospital Geral de Salvador 41% 97% 103% 68% 64% 48% 56% 84%
+Hospital Militar de Área de Recife 91% 120% 137% 126% 80% 91% 91% 92%
+Hospital de Guamição de Natal 60% 65% 114% 96% 18% 11% 12% 14%
+Hospital de Guamição de João Pessoa - - - - 10% 17% 44% 21%
+Hospital Geral de Belém 30% 54% B% 85% 31% 43% 49% 45%
+Hospital de Guamição de Marabá - - - - 10% 6% 3% 5%
+Hospital Militar de Área de Campo Grande 79% 56% 113% 131% 41% 59% 62% 94%
+Hospital Geral de Fortaleza 42% 54% 101% Th 43% 57% 89% 78%
+Hospital Militar de Área de Brasília 145% 244% 220% 213% 50% 57% 61% 60%
+Hospital Militar de Área de Manaus 265% 226% 8% 49% 134% 55% 35% 43%
+Hospital de Guamição de Tabatinga 418% 678% 210% 93% 35% 33% 11% 26%
+Hospital de Guanição de São Gabriel da Cachoeira 145% 189% 20% 10% 46% 37% 39% 45%
+Hospital de Guamição de Porto Velho - 21% 23% - 11% 32% 28% 1%
+
  
 
  
@@ -77,9 +103,40 @@ da ss Rd Ra
  
 
  
+
+Taxa de ocupação entre os meses de janeiro a abril de 2021.
+
+A taxa de ocupação dos hospitais militares acompanhou a evolução dos casos informados por semana
+epidemiológica e a consequente taxa de ocupação dos hospitais civis, nas respectivas regiões. Nos momentos
+de maior incidência de COVID 19, medidas emergenciais foram adotadas, tais como: remoção de pacientes para
+outras Organizações Militares de Saúde, na mesma cidade ou em outros centros; deslocamentos de equipes de
+saúde entre essas organizações; interrupção de procedimentos médicos eletivos quando necessário;
+encaminhamento dos pacientes para serviços credenciados da rede privada. Diante do exposto, depreende-se a
+não existência, nesse período, de leitos ociosos, por conta das peculiaridades do Sistema de Saúde Militar.
+
+Observações:
 
+Para as taxas de ocupação que superam o valor de 100%, significa dizer que o Sistema de Saúde do
+Exército foi obrigado a abrir leitos emergenciais.
+
+Os leitos emergenciais são leitos temporários de suporte e de estabilização do paciente, os quais foram
+ampliados, naquele momento, adaptando-se outros setores hospitalares, tais como sala de recuperação
+anestésica, quartos privativos e leitos de emergência, para serem utilizados de acordo com a necessidade,
+com os meios (equipamentos, instalações e pessoal) existentes na OMS. Portanto, são aqueles que excedem
+
  
+Anexo 4, continuação: HOSPITAIS DO EXERCITO BRASILEIRO
+
+o número de leitos previstos, bem como a capacidade de atendimento em termos de estrutura física, pessoal
+e material, para atender a situação de emergência, não configurando leitos de UTI.
+
+A situação de leitos COVID e NÃO-COVID é dinâmica, cabendo ao gestor local a destinação conforme
+a demanda por um ou outro tipo de leito. Ressalta-se que houve momentos nos quais alguns hospitais
+apresentavam 100% dos seus leitos destinados à COVID-19 e outros.
 
+As informações relativas a ocupação de leitos no Sistema de Saúde do Exército estão disponíveis,
+diariamente, no sítio eletrônico http://wwrw.dsau.eb.mil.br/index .php/leitos-unidades-de-saude .
+
  
 
  
@@ -135,50 +192,39 @@ da ss Rd Ra
  
 
  
+
+Leitos UTI/EMERGENCIAIS Leitos Clínicos
+Hospitais Leitos COVID Leitos NÃO-COVID | Leitos Tao NÃO-
+UTI [Emergencial) UTI [Emergencial) COVID coviD
+[Hospital Central do Exército (Rio de Janeiro) 12 34 2 4 59 159
+[Hospital Geral do Rio de Janeiro 1 13 6 4 23 43
+[Hospital Militar de Resende - - - - 28 25
+[Hospital Militar de Área de São Paulo 8 13 3 7 26 36
+[Hospital Militar de Área de Porto Alegre 2 0 8 0 26 40
+[Hospital Geral de Santa Maria 5 0 0 0 14 13
+[Hospital de Guarnição de Bagé - - - - 3 7
+[Hospital de Guarnição de Alegrete - - - - 1 u
+[Hospital de Guarnição de Santiago - - - - 4 8
+[Hospital Geral de Juiz de Fora 0 2 0 6 6 15
+Hospital Geral de Curitiba 3 0 3 0 14 23
+[Hospital de Guarnição de Florianópolis, - - - - 10 5
+[Hospital Geral de Salvador 0 6 4 1 0 10
+[Hospital Militar de Área de Recife 5 5 5 1 26 54
+[Hospital de Guarnição de Natal 4 4 4 6 1 8
+[Hospital de Guarnição de João Pessoa 0 0 0 0 13 3
+[Hospital Geral de Belém 0 1 6 3 23 23
+[Hospital de Guarnição de Marabá 0 0 0 0 3 21
+[Hospital Militar de Área de Campo Grande 1 0 6 3 8 33
+[Hospital Geral de Fortaleza 9 1 0 3 30
+[Hospital Militar de Área de Brasília 0 0 0 10 3
+[Hospital Militar de Área de Manaus 6 0 0 0 21 19
+[Hospital de Guarnição de Tabatinga 0 7 0 7 14
+[Hospital de Guanição de São Gabriel da Cachoeira 0 3 0 2 15 38
+[Hospital de Guanição de Porto Velho 0 0 0 0 15 4
 
  
 
-o ds, der ede ENO A dd dão, E do Si
-% É ERAS Io PSC flo E da Inobjli jstolna de
-de efeitos COVID e NÃO Epsmelocaladash
-leigo: nel Ce SOIMSNÃAS HO:
-pn nei saliaig tita ERR Aa otco o “Eta dl
-pa bro suidizoidnenda densdidiontormefesistsasiad cabispo)
-no EO Eno RÇO E SA AS RS SC SS EP
-PR EB an sm ERES PRESA, tao
-Pisiniapadieiebrarieterainão configurandp coitó leitos &EUT|. 16 | use | am | am | sim | u%
-Fresprarvá destinação de leitos hospitalares é decorrente do CAME DR GERTEREP MAS a Capa mom SenngAssm,
-écrdinfâmica resultante da demanda por leitos pafa atender pacientes com COVID-19 e ontjas patologias que definem |
-eg idade de leitos a sexgg destinados para cgda Ass COVID | Los NÃOCOVID [Ljos Em Não
-HopistdAs informações relativas à ocupação de less peSisfEna GR Spjrdc da EXPIRA dseniveitcaiiamente, | |
-gr equi q E
-tospa Hospital Geral do Rio de Janeiro Da E | a = | 8
-sp dHospital la de Resende E | = | 5 TH
-Hospital Militar de Area de Sto Paulo Ds =| s 7 » | 5 H
-Hosp
-Hospital Militar de Axea de Ponto Alegre = o | & o = | 2 |
-Host ro pita Geral de Santa Maria Ds o jo o E | E [|
-lospial Qirospial de Guarnição de Bagé l | E 7
-Hospital [Hospital de Guarnição de Alegrete l | 1] E
-pa opa de Guarnição de Seniago E | - 1 5 1
-cepa LPs! Geral de di de oa Lo 2 05 é | 15 H
-Hospital Geral e Curia Ds E o “| 5 H
-os z
-Hospital de Guamição de Horianápolis E | - | 5 LI
-Hospital Arospial Geral de Salvador o é a 1 o 10
-Hospital MHlospital Militar de Axe de Recife 5 5 5 1 2 E
-itospal Hospital de Guarnição de Natal 4 4 4 é u 5
-spa Hospital de Guarnição de Toto Pesos o o 1 o E: H
-Hospital Geral d Bem Lo Dé 3 a 2 H
-Hopi
-Hospital de Guarnição de Marabã Lo o lo o soa H
-Hospital ral Militar de Área de Campo GrandE La o 16 3 Ss 108
-Hospital drospial Gera de Foraeza Lo 1 o 3 E 9
-Hospal Hospital Militar de Áxea de Brasília Lo o 1 10 31 9
-“Taxa dllospial Militar de Área de Manaus Ds o [o o a pos FH
-Hospital de Guarmição de Tabatinga Lo 7 10 7 m | 7
-A taNrospial de Guanição de Sto Gabrilda Cachata |O so: 2 sas a
-epidefrrosial de Guanição de Porto Velho [o o | o o E s
+ 
 
  
 
@@ -193,26 +239,42 @@ epidefrrosial de Guanição de Porto Velho [o o | o o E s
  
 
  
+
+Número de leitos em 10 de maio de 2021
 
-de maiga insidanclaidas COMIDO aRAidasonergenciais foram adotadas, fais como: remoção de pacientes para
-outras, rganizações Militares de Saúde, na mesma cidade ou em outros centros; deslocamentos de equipes de
-saúde “entre “essas organizações; intermpção de procedimentos médicos eletivos quando necessário;
+Observações:
 
-encaninharmenta despacigntes para scpriposeradensiados dussis pisada Diane de rannsta, depugendese a
-ado istênsicsnaesa pario de siadeigesTaçgieses, por conta das peculiaridades do Sistema de Saúde Militar.
+O Sistema de Saúde do Exército é composto por uma série de instalações de saúde destinadas ao atendimento
+dos contribuintes do Sistema de Saúde do Exército.
 
 Esse Sistema tem como princípio básico o atendimento inicial nas organizações de nível mais baixo, mantendo
-a 188% evacuação para as de nível mais alto, ou seja, existe uma malha de apoio dentro da Força Terrestre
+a capacidade de evacuação para as de nível mais alto, ou seja, existe uma malha de apoio dentro da Força Terrestre
+com escalonamento de complexidade para evacuar seus pacientes para uma unidade de maior capacidade quando
+necessários.
 
-com ada dO du tetas cela paeiaões pastonaricanddade qireronizs apa iiadaaendo
-pes E obrigado a abrir leitos enciais.
+Cabe destacar que nem todos os hospitais militares possuem capacidade de leitos de terapia intensiva e precisam
+do apoio de outras organizações militares ou de hospitais credenciados da rede privada.
 
-dação que nem todos 9s hospitais militares cemenea ag detales crósaia fensiva e precisam
-donde Ra ppa opala tel apr
+Assim, os Hospitais Militares, distribuídos dentro das respectivas áreas administrativas, denominadas Regiões
+Militares (RM), são empregados de forma integrada, como uma rede própria, que permite o remanejamento de meios
+Anexo 4, continuação: HOSPITAIS DO EXERCITO BRASILEIRO
 
-DRA: FRED Bias er cuenaiidos dg Pede Biávads.
-im FOI Rar A AA E Ed Ra la o
-andas a Cd de TRA OGIA GINA sda
+e de pacientes entre si, conforme as necessidades, inclusive com a criação de leitos emergenciais, com o apoio de
+médicos, enfermeiros, técnicos de enfermagem e outros profissionais de saúde envolvidos com a assistência, oriundos
+de outras regiões do país, características precípuas da flexibilidade, da integralidade e da mobilidade do Sistema de
+Saúde do Exército.
 
-com os meios (equipamentos, instalações e pessoal) existentes na ÓMS. Portanto, são aqueles que excedem
+Os leitos emergenciais são leitos temporários de suporte e de estabilização do paciente, os quais foram
+ampliados, naquele momento, adaptando-se outros setores hospitalares, tais como sala de recuperação anestésica,
+quartos privativos e leitos de emergência, para serem utilizados de acordo com a necessidade, com os meios
+(equipamentos, instalações e pessoal) existentes na OMS. Portanto, são aqueles que excedem o número de leitos
+previstos, bem como a capacidade de atendimento em termos de estrutura física, pessoal e material, para atender a
+situação de emergência, não configurando como leitos de UTI.
+
+A destinação de leitos hospitalares é decorrente do cenário vivido pelos hospitais a cada momento. Sendo assim,
+é a dinâmica resultante da demanda por leitos para atender pacientes com COVID-19 e outras patologias que definem
+a quantidade de leitos a serem destinados para cada caso.
+
+As informações relativas à ocupação de leitos no Sistema de Saúde do Exército estão disponíveis, diariamente,
+no sítio eletrônico http://www. dsau. eb.mil. br/index .php/leitos-unidades-de-saude .
 

@@ -1,19 +1,193 @@
-30/06/2021 SEVANVISA - 1508045 - Nota Técnica
+30/06/2021
+
+SEI/ANVISA - 1508045 - Nota Técnica
+
+=> ANVISA
+
+TT Agência Nacional de Vigilância Sanitária
+
+NOTA TÉCNICA Nº 54/2021/SEI/GELAS/DIRE4/ANVISA
+
+Requerimento nº 928/2021 -
+CPIPANDEMIA
+
+1. RELATÓRIO
+
+Trata-se de manifestação da Gerência de Laboratórios de Saúde Pública -GELAS/DIRE4/Anvisa
+sobre o Ofício nº 1621/2021 - CPIPANDEMIA, em que se solicita manifestação da Anvisa acerca
+do Requerimento nº 928/2021 - CPIPANDEMIA (1503078), do qual consta solicitação de informações sobre
+a produção, exportação e importação da vacina Sputnik V, especialmente no que se refere às razões que
+impedem a utilização interna de uma vacina produzida e exportada pelo Brasil.
+
+HI. ANÁLISE
+
+DA LIBERAÇÃO DOS LOTES PELO INCOS
+
+Considerando a publicação da Lei nº 14.124, de 10 de março de 2021 que dispõe sobre as
+medidas excepcionais relativas à aquisição de vacinas e de insumos e à contratação de bens e serviços de
+logística, de tecnologia da informação e comunicação, de comunicação social e publicitária e de
+treinamentos destinados à vacinação contra a covid-19 a Agência publicou as seguintes Resoluções da
+Diretoria Colegiada:
+
+RESOLUÇÃO RDC Nº 475, DE 10 DE MARÇO DE 2021, que estabelece os
+procedimentos e requisitos para submissão de pedido de autorização temporária de uso
+emergencial (AUE), em caráter experimental, de medicamentos e vacinas para Covid-19
+para o enfrentamento da emergência de saúde pública de importância nacional
+decorrente do surto do novo coronavírus (SARS-CoV-2); e a
+
+A Resolução RDC Nº 476, DE 10 DE MARÇO DE 2021, republicada no Diário
+Oficial da União de 13/03/2021, que estabelece os procedimentos e requisitos para
+submissão de pedido de autorização excepcional e temporária para importação e
+distribuição de medicamentos e vacinas contra Covid-19 para o enfrentamento da
+emergência de saúde pública de importância nacional decorrente do surto do novo
+coronavírus (SARS-CoV-2), nos termos da Lei 14.124/2021.
+
+ 
+
+As Resoluções supracitadas determinam que os lotes das vacinas autorizadas para uso
+emergencial, em caráter experimental, ou importadas em caráter excepcional só poderão ser liberados para
+uso após emissão do laudo de análise do lote, emitido pelo Instituto Nacional de Controle de Qualidade em
+
+Saúde (INCQS):
+
+RDC 475/2021,
+
+"Art. 29. Os lotes das vacinas ou dos medicamentos imunobiológicos autorizadas para uso
+emergencial, em caráter experimental, só poderão ser liberados para uso após emissão do laudo de
+análise do lote, emitido pelo Instituto Nacional de Controle de Qualidade em Saúde (INCQS) mediante
+realização das avaliações previstas na Resolução de Diretoria Colegiada - RDC nº 73, de 21 de
+outubro de 2008."
+
+RDC 476/2021
+
+"Art. 4º Caberá ao importador:
+
+(..:)
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508045.html 183
+30/06/2021
+
+SEI/ANVISA - 1508045 - Nota Técnica
+
+XIII - apresentar a documentação requerida ao Instituto Nacional de Controle de Qualidade em Saúde
+(INCQS), nos termos da Resolução de Diretoria Colegiada - RDC nº 73, de 21 de outubro de 2008.
+
+(...)
+
+Art. 9º Os lotes das vacinas importados nos termos desta Resolução somente poderão ser destinados
+ao uso após liberação pelo Instituto Nacional de Controle de Qualidade em Saúde (INCQS), nos
+termos da Resolução de Diretoria Colegiada - RDC nº 73, de 21 de outubro de 2008."
+
+Diante do exposto, imediatamente após internalização da carga no país deve ser protocolado
+
+no INCQS pela COADI/MS a documentação constante no Anexo Il da RDC nº 73/2008 para avaliação pelo
+INCQS de forma a subsidiar a liberação dos lotes de vacinas:
+
+“ANEXO II
+PROTOCOLO RESUMIDO DE PRODUÇÃO E CONTROLE —
+
+Informações Gerais
+
+1. Informações dos Ingredientes Biologicamente Ativos, Excipientes e Produtos Terminados
+(apresentação, composição, número de doses produzidas, número de lote, rastreabilidade do
+produto deste o lote semente até o produto terminado, dentre outras pertinentes) e suas
+especificações e controles.
+
+2. Todas as etapas dos processos de produção (tais como: cultivo, purificação, inativação e, etc.) e
+seus respectivos controles de qualidade, além do controle de qualidade do ingrediente
+biologicamente ativo e do produto terminado (lote final), bem como as especificações de liberação
+do fabricante, com base nas informações presentes no registro sanitário.
+
+3. Extrato SISCOMEX comprovando a liberação de Importação dos lotes de produto pela ANVISA.
+4, Certificado de Liberação do Lote pela Autoridade Sanitária do País de origem."
+
+Ressaltamos a importância do envio ao INCOS do protocolo, conforme determinado no
+
+Anexo Il da Resolução RDC 73/2008, para a liberação dos lotes de vacinas para uso no país.
+
+DA RASTREABILIDADE DOS LOTES LIBERADOS
+O Anexo III da RDC nº 73/2008 determina o MODELO DE CERTIFICADO DE LIBERAÇÃO a ser
+
+emitido pelo INCOS, dos quais destaco as seguintes informações: nome do produto, número de lote,
+número de doses, data de fabricação; data de validade e nome e endereço do fabricante:
+
+"ANEXO HIf
+
+MODELO DE CERTIFICADO DE LIBERAÇÃO Instituto Nacional de Controle de Qualidade em Saúde
+Certificado de Autorização de Distribuição, Comercialização E EXPORTAÇÃO Lot release certificate
+
+ 
+
+Número do Certificado / Certificate Number:
+
+ 
+
+Nome do produto / Product Name:
+
+ 
+
+Denominação Comum Brasileira:
+
+ 
+
+Pharmacopoeia Name or Common Name:
+
+ 
+
+Número do Lote / Batch Number:
+
+ 
+
+Tipo de Envase / Type of container:
+
+ 
+
+Número de Doses / Number of Doses:
+
+ 
+
+Data de Fabricação / Manufacturing Date:
+
+ 
+
+Data de Validade / Expiry Date:
+
+ 
+
+ 
+
+Número do Registro Sanitário / Marketing Authorization Number:
+
+ 
+
+Detentor de Registro no Brasil
+
+ 
+
+Nome e Endereço do Fabricante / Name and Address of Manufacturer:
+
+ 
+
+ 
+
+Este Certificado é baseado na análise do protocolo resumido de produção e controle e/ou testes laboratoriais. / This]
+
+ 
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508045.html 2/3
+30/06/2021 SEI/ANVISA - 1508045 - Nota Técnica
+
 Certificate is based on the examination of production and contro! summary manufacturer's protocol and/or laboratory tests.
 
  
 
 Este Lote cumpre com as Normas Oficiais Nacionais e Internacionais (Organização Mundial da Saúde e Farmacopéias) e as]
-disposições da RDC Nº73/2008. / This batch Is in compliance with the Official National and International Standards (Worl
-Health Organization and Pharmacopoeias) and the provisions of RDC Nº73/2008.
+disposições da RDC N273/2008. / This batch is in compliance with the Official National and International Standards (World|
+Health Organization and Pharmacopoeias) and the provisions of RDC N273/2008.
 
  
 
 Assinatura/Signed: Nome/Name:
-
- 
-
- 
 
  
 
@@ -23,29 +197,35 @@ Data / Date: Rio de Janeiro,
 
  
 
+ 
+
+ 
+
 HI. CONCLUSÃO
 Diante do exposto, informamos que as informações constantes no PROTOCOLO RESUMIDO
 DE PRODUÇÃO E CONTROLE (PRPC) e no CERTIFICADO DE LIBERAÇÃO permitem a rastreabilidade dos lotes
 de vacinas importadas e correlacionar se o lote que está sendo utilizado no país foi liberado pelo INCOS,
-assim como todas as informações sobre ele, incluindo a cadeia de fabricantes, Dessa forma, é possível
+assim como todas as informações sobre ele, incluindo a cadeia de fabricantes. Dessa forma, é possível
 verificar, para cada lote importado, as plantas produtivas envolvidas na fabricação da vacina.
 
-sa
-
-       
  
-  
+
+:
+seil
+
+: 6)
+assinatura E
+eletrônica
+
+   
 
 Documento assinado eletronicamente por Graziela Costa Araujo, Gerente de Laboratórios de Saúde
 Pública, em 29/06/2021, às 16:54, conforme horário oficial de Brasília, com fundamento no art. 5 3º
 do art. 4º do Decreto nº 10.543, de 13 de novembro de 2020
 
-htto:/Awww. planalto. gov. br/ccivil 03/ ato2019:2022/2020/decreto/D10543.him.
+http://www. planalto.gov.br/ccivil 03/ ato2019-2022/2020/decreto/D10543.htm.
 
-  
-
-ja no site https://seianvisa.gov.br/autenticidade,
-informando o código verificador 1508045 e o código CRC 3C8050AS.
+   
 
  
 
@@ -53,7 +233,9 @@ informando o código verificador 1508045 e o código CRC 3C8050AS.
 
  
 
-Referência: Processo nº 25351.918347/2021-94 SEI nt 1508045
+ 
 
-files/CPIPandemia DadosTemporariosídos 1293 anvisa ostensivolNota Tecnica 1508045.html as
+Referência: Processo nº 25351.918347/2021-94 SEI nº 1508045
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508045.html 3/3
 

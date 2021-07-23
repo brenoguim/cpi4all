@@ -1,28 +1,75 @@
-em seu genoma para fornecer as proteínas essenciais para que os vetores sejam produzidos. A
+ 
+
+COMISSÃO TÉCNICA NACIONAL DE BIOSSEGURANÇA
+Presidência da Comissão Técnica Nacional de Biossegurança
+
+OFÍCIO Nº 5/2021/CTNBio - Membros
+Brasília, 20 de maio de 2021.
+
+Senador
+
+Omar Aziz
+
+Presidente da CPI Pandemia
+
+SENADO FEDERAL —COCETI. Anexo Il, Ala Senador Alexandre Costa, Sala 15, Subsolo.
+CEP 70165-900. Brasília DF. (sec.cpipandemia(Dsenado.leg.br)
+
+Assunto: Resposta ao Ofício 568/2021-CPIPANDEMIA
+Senhor Senador,
+
+1. Em resposta ao Requerimento nº 357/2021 (CPIPANDEMIA) que “Requer que sejam
+prestadas, pelo Senhor Presidente do CNTBio, Paulo Augusto Viana Barroso, informações sobre
+Adenovírus replicante.”:
+
+2. Em primeiro lugar, esclareço que compete à CTNBio avaliar as tecnologias
+associadas aos OGMs e seus potenciais riscos ao homem e ao meio ambiente. A avaliação de risco
+para liberação comercial realizada pela CTNBio é um dos passos para a registro de produtos para
+uso na vacinação da população brasileira, e complementa os processos de análise da ANVISA
+sobre o pedido de importação e registro destes imunizantes, bem como sobre o pedido de
+produção da vacina no país realizado pela Farmacêutica União Química. Registra-se que nossa
+deliberação trata apenas a biossegurança dos organismos geneticamente modificados que
+compõe o produto vacina, em condições ótimas de fabricação.
+
+Sobre o 1º questionamento apresentado no requerimento: “Gostaria de entender a possível
+presença na formulação final de vacina Sputnik contra o Covid-19 de “vetores replicantes”
+
+3. Resposta: Os organismos geneticamente modificados propostos pelo Instituto
+Gamaleya para a construção da vacina profilática GAM-COV-VAC - Sputnik V, vetores adenovirais
+Ad26-S-CoV2 e Ad5-S-CoV2, são do tipo recombinante e replicante incompetente. Estes vetores
+não possuem capacidade de se replicar em células humanas, pois deles foram retiradas a região
+E1 do DNA dos vírus originais, que codificam a síntese de proteínas essenciais para a replicação.
+Em seu lugar foi introduzido o gene da glicoproteína S (Spike) do vírus SARS-CoV-2.
+
+4. Embora os OGMs finais não contenham a região El, o processo de produção de
+Ad26-S-CoV2 e Ad5-S-CoV2 demanda que as proteínas produzidas a partir do DNA da região El
+estejam presentes. Os vetores virais Ad26-S-CoV2 e Ad5-S-CoV2 são produzidos dentro de células
+de mamíferos. Por não possuírem a região E1, as células de mamífero devem conter a região E1
+em seu genoma para fornecer as proteínas essenciais para que os vetores sejam produzidos. A
 célula usada pelo Instituto Gamaleya para a produção dos vetores é a HEK-293. Ela contém a
-região E1 do Ads. A região E1 de HEK-293 possui homologia suficiente para que eventos raros de
+região E1 do Ads5. A região El de HEK-293 possui homologia suficiente para que eventos raros de
 recombinação possam ocorrer com Ad5-S-CoV2. Nesses eventos raros de recombinação, pode
-ocorrer a troca do gene da glicoproteina S (Spike) do vírus SARS-CoV-2 presente no Ad5-S-Cov2
+ocorrer a troca do gene da glicoproteína S (Spike) do vírus SARS-CoV-2 presente no Ad5-S-CoV2
 pela região E1 presente nas células HEK-293, readquirindo a capacidade de replicação.
 
-5 Embora haja possibilidade de recombinação, em um baixo número de passagens do
+5. Embora haja possibilidade de recombinação, em um baixo número de passagens do
 Ad5-S-Cov2 nas células hospedeiras, ela pode ocorrer de modo raro, durante o processo de
 produção em larga escala e pode ser acompanhada por um processo de controle de qualidade
 durante a fabricação dos lotes. No documento apresentado pela União Química, o Instituto
 Gamaleya admite que partículas de Ad5 podem estar presentes e estabelece um limite máximo de
 tolerância dentro do processo de controle de qualidade do produto farmacêutico vacinal.
 
-6 Dado que os eventos de recombinação são raros, a possibilidade teórica não
+6. Dado que os eventos de recombinação são raros, a possibilidade teórica não
 necessariamente implica em efetiva produção de partículas Ad5 competentes para replicação. A
 adoção de medidas preventivas e mitigatórias durante o processo de fabricação, associado a um
-adequado controle de qualidade, deve permitir a produção de lotes isentos de Ads replicativos ou
+adequado controle de qualidade, deve permitir a produção de lotes isentos de Ad5 replicativos ou
 dentro de um limite considerado aceitável pela autoridade de saúde competente.
 
 7. Sobre o 2º questionamento apresentado no requerimento: “Gostaria de
-esclarecimentos quais quantidades mínimos e toleráveis de proteinas provenientes do vetor
+esclarecimentos quais quantidades mínimas e toleráveis de proteínas provenientes do vetor
 replicante, misturado a quantidade de vetor desejado, o não replicado”
 
-8 Resposta: Ainda não existem na literatura e em normativos de outros países ou
+8. Resposta: Ainda não existem na literatura e em normativos de outros países ou
 transnacionais parâmetros sobre tolerância à presença de partículas replicantes em produto
 vacinal baseado em vetores virais. O estabelecimento do nível de aceitação de impurezas, entres
 as quais se incluem as partículas de adenovírus, é de competência da autoridade de saúde
@@ -31,41 +78,40 @@ nacional.
 Dr. Paulo Augusto Vianna Barroso
 Presidente da CTNBio
 
-    
+ 
 
  
+      
+ 
+
+il
+sei a
+assinatura
+eletrônica
 
 Documento assinado eletronicamente por Paulo Augusto Vianna Barroso, Presidente da
 Comissão Técnica Nacional de Biossegurança, em 20/05/2021, às 18:03 (horário oficial de
 Brasília), com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
   
-  
+
+ 
+
+ 
+
+gi À autenticidade deste documento pode ser conferida no site
+
+P3 http://sei.mctic.gov.br/verifica.html, informando o código verificador 7413483 e o código CRC
+FA48EFAD.
+
  
 
  
 
  
 
-DER
-& A autenticidade deste documento pode ser conferida no site
-
-im http://se.metic.govbr/verifica.htm|, informando o código verificador 7413483 e o código CRC
-FAABEFAD.
-
  
 
- 
-
- 
-
-Em Caso de resposta a este Ofcia fazer referência expressa a: Ofido nt 5/2021/CTN Bio -Membros - Processo nt 01245 DOBIO9/2021-
-18-Nº Eu 7413083
-
-Em seu lugar foi introduzido o gene da glicoproteína S (Spike) do vírus SARS-Cov-2.
-
-4 Embora os OGMs finais não contenham a região E1, o processo de produção de
-Ad26-5-CoV2 e Ad5-S-CoV2 demanda que as proteínas produzidas a partir do DNA da região E1
-estejam presentes. Os vetores virais Ad26-S-CoV2 e Ad5-S-CoV2 são produzidos dentro de células
-de mamíferos. Por não possuírem a região E1, as células de mamífero devem conter a região El
+Em caso de resposta a este Ofício, fazer referência expressa a: Ofício nº 5/2021/CTNBio - Membros - Processo nº 01245.008109/2021-
+18- Nº SEI: 7413483
 

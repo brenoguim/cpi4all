@@ -1,7 +1,7 @@
-Brasília, OS de maio de 2021.
+Brasilia, O5 de maio de 2021.
 
 Trata-se do Ofício nº 29/2021 - CPIPANDEMIA (0020324553), do Presidente da CPI da Pandemia, Senador
-Omar Aziz, o qual fazreferência ao Requerimento de Informação nº 13/2021/CPIPANDEMIA (0020324555), de autoria
+Omar Aziz, o qual faz referência ao Requerimento de Informação nº 13/2021/CPIPANDEMIA (0020324555), de autoria
 do Senador Randolfe Rodrigues (REDE/AP), solicitando que sejam informadas, pelas áreas do Ministério da
 Saúde, quais providências foram tomadas para evitar o fechamento, e garantir a reabertura de leitos hospitalares
 fechados por falta de recursos humanos nos Hospitais Federais do estado do Rio de Janeiro.”
@@ -9,43 +9,41 @@ fechados por falta de recursos humanos nos Hospitais Federais do estado do Rio d
 Considerando o artigo 14, do Decreto nº 10.477/2020, cabe à Superintendência Estadual do Ministério da
 Saúde no Rio de Janeiro:
 
-“Art, 14-A, À Superintendência Estadual do Ministério da Saúde no Rio de Janeiro compete:
-|- coordenar, monitorar, avaliar e definir as diretrizes de atuação dos hospitais federais no Estado do Rio de Janeiro;
+“Art. 14-A, À Superintendência Estadual do Ministério da Saúde no Rio de Janeiro compete:
+- coordenar, monitorar, avaliar e definir as diretrizes de atuação dos hospitais federais no Estado do Rio de Janeiro;
 
-1! - articular as ações de implementação das políticas de saúde nos hospitais federais com os demais serviços de saúde
+ll - articular as ações de implementação das políticas de saúde nos hospitais federais com os demais serviços de saúde
 localizados no Estado do Rio de Janeiro, com vistas ao planejamento, ao fortalecimento e à qualificação das ações para a
 prestação dos serviços de saúde;
 
-l-supervisionare avaliar a atuação técnica e administrativa do Instituto Nacional de Câncer José Alencar Gomes da Siva,
+HI -supervisionar e avaliar a atuação técnica e administrativa do Instituto Nacional de Câncer José Alencar Gomes dia Silva,
 do Instituto Nacional de Cardiologia e do Instituto Nacional de Traumatologia e Ortopedia Jamil Haddad;
 
-IV - promover a integração operacional e assistencial dos serviços de saúde vinculados ao Ministério;
-V- desenvolver as atividades de execução orçamentária financeira e contábil relativas aos créditos orçamentários soba
+IV - promover à integração operacional e assistencial dos serviços de saúde vinculados ao Ministério;
+
+V- desenvolver as atividades de execução orçamentária, financeira e contábil relativas aos créditos orçamentários sob a
 sua gestão;
 
-Vi- coordenar as atividades relacionadas à administração de pessoal e ao desenvolvimento de pessoas, em consonância
+VI- coordenar as atividades relacionadas à administração de pessoal e ao desenvolvimento de pessoas, em consonância
 com as diretrizes do Ministério;
 
-VII - planejar e executar a contratação de serviços e aquisição de bens, materiais e de Insumos estratégicos para saúde
+Vil - planejar e executar a contratação de serviços e aquisição de bens, materiais e de insumos estratégicos para saúde
 sob a sua responsabilidade; e
 
-VAI - planejar e monitorar a armazenagem e a distribuição de bens e materiais para os hospitais federais sob a sua
-responsabilidade. ”(NR)
+vill - planejar e monitorar a armazenagem e a distribuição de bens e materiais para os hospitais federais sob a sua
+responsabilidade." (NR)
 
 Com a publicação do Decreto 10.477/2020, verifica-se que houve alteração das competências quanto à
 aquisição e contratação referente aos Hospitais e Institutos Federais, sendo responsabilidade da Superintendência
 Estadual do Ministério da Saúde no Rio de Janeiro (SEMS/RJ/SE/MS), ciência e remessa diretamente à Subsecretaria
 de Assuntos Administrativos (SAA/SE/MS) ou à Secretaria Executiva (SE/MS), dependendo do objeto a ser analisado.
 
-   
-   
-
 Diante disso, e com intuito de colaborar com decisão judicial com tema semelhante ao da consulta
 parlamentar, técnicos desta SAES/MS participaram de reuniões junto à SAA/SE/MS, para esclarecer a falta de
 competência desta SAES quanto a contratação de pessoal para trabalhar nos hospitais federais. .
 
 Em acesso as informações disponíveis no Sistema de Cadastro Nacional de Estabelecimentos de Saúde
-(SCNES), relacionadas às habilitações /autorizações de leitos de UTI COVID-19 concedidas ao Estado do Rio de Janeiro,
+(SCNES), relacionadas às habilitações/autorizações de leitos de UTI COVID-19 concedidas ao Estado do Rio de Janeiro,
 incluindo os Hospitais Federais do Rio de Janeiro e os Institutos, consoante dados dispostos abaixo:
 
 Sendo assim, esta área finalística esclarece que o entendimento de que não está adstrito ao seu rol de

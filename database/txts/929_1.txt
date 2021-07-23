@@ -1,4 +1,4 @@
-teu
+TOU
 
 TRIBUNAL DE CONTAS DA UNIÃO
 
@@ -10,16 +10,13 @@ Senhor Presidente,
 
 Encaminho a Vossa Excelência, para conhecimento, cópia do Despacho
 exarado pelo Ministro Vital do Rêgo em 2/6/2021 (acompanhado da instrução técnica e
+
 respectivos anexos), ao apreciar os autos do TC-014.372/2021-5.
 
 O aludido processo trata de Solicitação do Congresso Nacional, encaminhada a
 esta Casa por intermédio do Oficio nº 565/2021 - CPIPANDEMIA, de 7/5/2021, relacionado
 ao Requerimento nº 353/2021, de sua autoria, em que solicita ao Tribunal de Contas da União
-
 que "realize auditoria dos dados fiscais referentes aos recursos da União transferidos aos 26
-
-  
-
 Estados, ao Distrito Federal, às capitais e aos municípios com mais de quinhentos mil
 
 habitantes para o combate à pandemia do Covid-19”.
@@ -38,5 +35,5 @@ Senado Federal
 
 Brasília - DF
 
-Para verificar as assinaturas, acesse wwnw.tou.gov br/autenticidade, informando o código 68178507.
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 68178607.
 

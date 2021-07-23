@@ -1,12 +1,8 @@
-CPI da Pandemi:
+CPI da Pandemia
 
  
 
- 
-
- 
-
-D FUNAI/Presidência da Funai <presidenciadfunai.gov.br>
+De: FUNAI/Presidência da Funai <presidenciaOfunaigov.br>
 Enviado em: quarta-feira, 26 de maio de 2021 15:20
 
 Para: CPI da Pandemia
@@ -14,23 +10,21 @@ Para: CPI da Pandemia
 Assunto: SEI - Acesso Externo ao Processo nº 08027.000348/2021-43
 Categorias:
 
-Este é um e-mail automático
+:: Este é um e-mail automático ::
 Prezado(a) Senado Federal - SF,
 
 Este e-mail informa que foi concedido acesso externo ao Processo nº 08027.000348/2021-43 no SEI-FUNAI, para o
 usuário Senado Federal - SF.
 
- 
-
 O referido acesso externo será válido até 24/08/2021 e poderá ser realizado por meio do link a seguir:
-http://sei.funai,gov.br/sei/processo, acesso, externo, consulta.php?id acesso, externo=24309&iinfra hash=157aa5f
+http://sei.funai.gov.br/sei/processo. acesso externo, consulta.php?id acesso externo=24309&infra hash=157aa5f
 88c981e29424e4cec29b5889f
 
 Favor confirmar o recebimento!
 
 SEAG - COGAB - PRES/FUNAI
 Fundação Nacional do Índio
-http://www funaigov.br
+http://www funai.gov.br
 
 ATENÇÃO: As informações contidas neste e-mail, incluindo seus anexos, podem ser restritas apenas à pessoa ou
 entidade para a qual foi endereçada. Se você não é o destinatário ou a pessoa responsável por encaminhar esta

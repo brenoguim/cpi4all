@@ -1,6 +1,7 @@
  
 
 Lorenzo Parodi
+
 Perito
 Forense Digital, Falsificações e Fraudes
 
@@ -10,41 +11,102 @@ Forense Digital, Falsificações e Fraudes
 
  
 
-Observa-se, porém, que no rERRATAUDORRIBE: hamento da pag. 24 relativo
+ERRATA CORRIGE
+
+Este documento visa corrigir um erro presente no laudo de código
+P5T34JL2B2, emitido em 30/06/2021.
+
+Na página 2 (dois) do dito laudo, no ponto 4), foi indicado que um dos itens
+analisados no laudo seria um e-mail enviado por Emanuela Medrades no dia
+22/03/2021 às 15:32.
+
+O erro consiste no horário do e-mail efetivamente analisado, que não é 15:32
+mas sim 10:22.
+
+Conforme pode se observar na Fig. 18 do Laudo (parte aumentada do qual se
+encontra reproduzida na Fig. 01 deste documento, evidenciando os detalhes A
+e B), a mensagem de e-mail em questão foi enviada no dia 22/03/2021 às
+10:22 e fazia parte de uma cadeia de mensagens de e-mail, sendo que outras
+mensagens e-mails foram enviados no mesmo dia dentro de tal cadeia.
+
+Em tal cadeia de e-mails a mensagem seguinte foi enviada às 15:32 (detalhe B
+
+na Fig. 01), e este horário foi erroneamente atribuído a primeira mensagem
+somente na parte introdutória (pag. 2) do laudo acima identificado.
+
+Re: AUTORIZAÇÃO EXCEPCIONAL DE IMPORTAÇÃO - VACINA COVID - Parte |
+
+ 
+
+O | Você respondeu em Seg, 22/03/2021 1532 | 4 B
+
+Emanuela Medrades A
+Seg, 22/03/2021 1022 | 4————————
+Para: William Amorim Santana <william.santana saude gov.br>; Regina Celia Silva Oliveira <Regina.Olive
+
+Ce: LISTA - DIVISÃO DE IMPORTAÇÃO <lista.divisanimportacaoOsaude.gov.br>; DEPARTAMENTO DE LOG
+Cco: Maximiano
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+India EUL 12032021 .pdf
+2MB
+
+DECLARACAO ART 12 II...
+389 kB
+
+   
+
+PI ON LETTER HEAD.pdf
+65 KB
+
+ 
+
+?R Ganexos (10 MB] Baixartudo - Salvar tudo no OneDrive — PRECISA MEDICAMENTOS
+
+Fig. 01
+
+ 
+
+periciasQOibracaf.com.br - 011-99271.2064 O - www.parodi.in
+ 
+
+Lorenzo Parodi
+
+Perito
+Forense Digital, Falsificações e Fraudes
+
+ 
+
+ 
+
+ 
+
+Observa-se, porém, que no mesmo laudo, no detalhamento da pag. 24 relativo
 à tal mensagem de e-mail (embasado nos cabeçalhos da Fig. 19 do laudo, e
 também confirmados na ata notarial mencionada no laudo), é especificado e
 demonstrado que o horário exato de envio da mesma é 10:21:55 (que o
-Estemdarmedmtda pise thánjina apresertaçãosuntmainda ilantagem), cédiim
-PSTaMH 2B2joemiticdo inhca0/B6/202horário 15:32 na introdução do laudo era
+sistema arredonda para 10:22 na apresentação normal da mensagem), sendo,
+portanto, óbvio que a indicação do horário 15:32 na introdução do laudo era
 consequência de um erro formal, por ter sido considerado, por engano, o
-Mlaráriim ditfdaisa rtmaistm ttnidemaib (Pim 024 JeftilledAgado que um dos itens
-analisados no laudo seria um e-mail enviado por Emanuela Medrades no dia
-22, AUTORIZAÇÃO EXCEPCIONAL DE IMPORTAÇÃO - VACINA COVID - Parte |
+horário de outra mensagem de e-mail (Fig. 02, detalhe A).
 
- 
+AUTORIZAÇÃO EXCEPCIONAL DE IMPORTAÇÃO - VACINA COVID - Parte |
+Emanuela Medrades A
+Seg, 22/03/2021 15:32 >="
 
- 
-
-o“ januela Medrades A 32
-ma BAT | de
-ar: Wliam Amorim Santana <viliam santênadisaude govbe>; Regina Cali Si Oliveira «egi
-
-co e: LISTA - DINSÃO DE IMPORTAÇÃO clistadtisaompor degovtr> +2 pessoas SO
-
-v ;
-en Senhores, boa tarde. =
-et às
-10: Gostaríamos de informar que esse transporte será a primeira corrida de validaçãras
-me observação na LI,
-Er Atenciosamente, “B
-na am
-sol
-
-AvPoruga 1100-Rqui-tapev.5»
-Emanuela Medrades | ns
-
-jiretora Executive
-entos com br
+Para: William Amorim Santana <william.santanaO saude. gov.br>; Regina Celia Silva Oliveira <Regi
+Cc: LISTA - DIVISÃO DE IMPORTAÇÃO clista.divisaoimportacao(esaude.gov.br> +2 pessoas
 
  
 
@@ -52,55 +114,36 @@ entos com br
 
  
 
-Eig. 02
-6 | você respondeu em Seg, 22/03/2021 1532 | 4——— B
+ 
+
+Senhores, boa tarde.
+
+Gostaríamos de informar que esse transporte será a primeira corrida de validaçã:
+observação na LI.
+
+Atenciosamente,
+Av Portugal, 1100 - Itaqui- Itapevi- SP
+Emanuela Medrades 55 11 3080-5140 - 11 93257-4642
+Diretora Executiva www.precisamedicamentos.com.br
+Fig. 02
 
 Por tudo quanto acima na página 2 do laudo de código P5T34JL2B2, emitido
-patnpee!: emicial do ponto 4) deverá ser corrigida para que conste
+em 30/06/2021, a parte inicial do ponto 4) deverá ser corrigida para que conste
+da seguinte forma:
 
-Par “amei Santana em ritisaudegovbez; Regina Celia Siva Olieira «Regina Ole
-Ce: LISTA - DIVISÃO DE IMgpORTAÇI “go cd rg DRRNRTANHINTO DEVO
+4) Mensagem de e-mail enviada em 22/03/2021 às 10:22 horas (horário de
+Brasília) por Emanuela Medrades, a partir do endereço de e-mail...
 
-4) Mensagemae e-mail enviada em 22/03/2021 às 10:22 horas (horário de
-Brasilia) por Emanuela Medrades, a partir do endereço de e-mail...
+Sem mais.
 
- 
-
- 
-
- 
-
-  
-
- 
-
- 
- 
-
-  
-
- 
-
- 
-
-fpa nela EUL 12032021 pet fa] DECLARACAQ ART. 12 1
-fai » || bul
-Sem mais. == 2 cm» aasks
-
-São Paulo, 09/07/2802 trrER HEAD par
-
-Saiartuco no Crebive- PRECISA ECICAMENTOS
-
-NC 2 Fig. 01
+São Paulo, 09/07/2021
 
 Lorenzo Parodi
 Perito
 
  
 
- 
+periciasOibracaf.com.br - 011-99271.2064 0 - www.paro
 
  
-
-periciasQibracaf.com.br + 011-99271.2064/9 + www.parodiin
 

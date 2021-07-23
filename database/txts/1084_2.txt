@@ -1,87 +1,279 @@
-Termos de Assinatura e Registro Eletrônico criado em: 09/12/2019 14:28:28
-Partes concordam em JURIDICO
+Certificado de Conclusão
 
-Eventos de pagamento Status Carimbo de datalhora
-Termos de Assinatura e EE Eletrônico
+Identificação de envelope: 61ECD60FFA764118BE1A0533247C032E
+Assunto: DocuSign: Requerimento 820 última versão 21 06.docx
 
-Identificação SCE Florido base quenmpligaro vide
-Assunto: Dater one ig sido nirodsmaticosyisaiusares,
+Envelope fonte:
+Documentar páginas: 15
 
-Envolopo ion udrortianticastimek nb RAN AMARAM AÊ DIFE doShménis, thsibarE oenpáres) inibe fpravipltidedirtyade
-Documentar igitffeiemadilcio deitoi ER dies dro dit firulas y Ri ER tel
-creo ei e a Reais gn
-Selo com Ei X
+Certificar páginas: 5
 
-Fuso horário
+Assinatura guiada: Ativado
+
+Selo com Envelopeld (ID do envelope): Ativado
+Fuso horário: (UTC-03:00) Brasília
+
+Rastreamento de registros
+
+Status: Original
+21/06/2021 22:34:25
+
+Eventos do signatário
+MARCIO CASTANHA
+marcio.castanhaQapsen.com.br
+
+Diretor de Marketing e Vendas
+APSEN FARMACEUTICA S/A
+
+Nível de segurança: E-mail, Autenticação da conta
+(Nenhuma), Certificado Digital
+
+Detalhes do provedor de assinatura:
+Tipo de assinatura: ICP Smart Card
+Emissor da assinatura: AC Certisign RFB G5
+
+Termos de Assinatura e Registro Eletrônico:
+Não disponível através da DocuSign
+
+Eventos do signatário presencial
+Eventos de enirega do editor
+Evento de entrega do agente
+
+Eventos de entrega intermediários
 
  
 
-        
-    
+Eventos de enirega certificados
 
-decide ecran ip bee in TON ideia Dig
+Eventos de cópia
 
-ugréo receive delivery of the notices and disclosures
-Status: Oriinglectronically from us. Portador: Henrique Vicento Duran Guedes Local: DocuSign
+JURIDICO
+juridicoDapsen.com.br
 
-2106! Rim system requirements'fBfWEAHE MO BERMESINA system may change over time. The
-Eventos dfsfgamaAper eapirsments aradingagebere: https://support docusi ide-
-pe rea Ep SIA: Emado; 2082021 229684
+Nível de segurança: E-mail, Autenticação da conta
+(Nenhuma)
 
-Rastream
+Termos de Assinatura e Registro Eletrônico:
+Aceito: 13/05/2021 11:1 3
+ID: 35464243-3109-4 1cc-9e97-cl5daBd65f6s
 
-marcio castarMdHptdÁRa OU May request Ttulg/ Ns bisdpianidopy of any record provides ar masvaveilable
-Dito de edu ta ass ti pia rn pi pomar.
-APSEN FARS eçjonhoss oi po ónus ei mai puicivin at, 6 you
-Nivoldo cogyiges RS “ORI que Bgdiajmedocuments for a limited period of time
-o pm eps oirobiçy atirei ou siiiaiorous to
-Toodoal doa aneuthavt Sr qr otfoRa gengivite ho
-Emissor ANE gti y oras tlbinco prin É emchapepesras piesoirivalysday Solis RSIhdor
-Termos de AimnalicinniybHFiicEAnRAdA TP KO Sof ponbienveemaillatidrERS D to an email address
-Não dispopipl at yóR“PABEMbIe to print on paper or save it for your future reference and access. Further,
+ 
 
-aos A us AA eq oi
+Eventos com testemunhas
+Eventos do tabelião
 
-o
+Eventos de resumo do envelope
 
-Eventos O PER  stuichi ah Date onispresáous email addresp square Hi cata
-Tiyioess do mupivguintiaay ailiatitofosmesidrvfrons phactroobariby, yr eramaidtaahiraime
+Envelope enviado
+Entrega certificada
+Assinatura concluída
+Concluído
 
-Evento deibyineiga doratindkeak bibus seataldieg fee tpousevelectoorricerreoeip Red stediatesresta yimatasiem
-tip icpageto DomuSige genoom syinfonay palio iirvdiitisionrtocreceirei Fatinieso thocghiyour
+Assinaturas: 1
+Rubrica: O
 
-Eventos dgieaisad puiatepapediásosar anStafisdraw your consent to receive notRtesisiko dehosaredata
-per desesibedkbeladthis Electronic Record and Signature Disclosure: and
+Portador: Henrique Vicente Duran Guedes
+henrique.guedesapsen.com.br
 
-Eventos de entrega GPEHCARRE on paperdlt Electronic Record and Signature PASSEMAS APIAGEBena
+Assinatura
 
-Eventos dl Lapa ist Plapinooip Rsciroiyy A ASEN BAR M A CÊADEOA SAO pg ph hd ÁS
-Junio Consequêconco fire ve mind 06202! 22:30234
-gu einocicionu dA ARA Sist las Wesepiasdaboy qria
-ii age ari posa ini
-ma rrindoseprónided
-Termos do SE ORAR SE us nb copsporfigonat,
-De SA A Det gt REED AR ARIM A GEE VE DAISY edgment of your receipt of such
+DocuSigned by
+
+MARIO CASTANHA
+
+Adoção de assinatura: Estilo pré-selecionado
+Usando endereço IP: 186.204.70.112
+
+Assinatura
+Status
+Status
+Status
+Status
+
+Status
+Copiado
+
+Assinatura
+Assinatura
+
+Status
+
+Com hashicriptografado
+Segurança verificada
+Segurança verificada
+Segurança verificada
+
+DocuSign
+
+Status: Concluído
+
+Remetente do envelope:
+Henrique Vicente Duran Guedes
+Rua La Paz 37/67
+
+SP, 04755-020
+henrique.guedesapsen.com.br
+Endereço IP: 200.178.8.194
+
+Local: DocuSign
+
+Registro de hora e data
+
+Enviado: 21/06/2021 22:35:54
+Visualizado: 21/06/2021 22:38:48
+Assinado: 21/06/2021 22:39:33
+
+Registro de hora e data
+Registro de hora e data
+Registro de hora e data
+Registro de hora e data
+Registro de hora e data
+
+Registro de hora e data
+Enviado: 21/06/2021 22:39:34
+
+Registro de hora e data
+Registro de hora e data
+
+Carimbo de data/hora
+21/06/2021 22:
+21/06/2021 22:38:48
+21/06/2021 22:39:33
+21/06/2021 22:
+
+ 
+
+ 
+Eventos de pagamento Status Carimbo de data/hora
+
+Termos de Assinatura e Registro Eletrônico
+Termos de Assinatura e Registro Eletrônico criado em: U9/12/2019 14:28:28
+Partes concordam em: JURIDICO
+
+ELECTRONIC RECORD AND SIGNATURE DISCLOSURE
+
+From time to time, APSEN FARMACÊUTICA S/A (we, us or Company) may be required by
+law to provide to you certain written notices or disclosures. Described below are the terms and
+conditions for providing to you such notices and disclosures electronically through the DocuSign
+system. Please read the information below carefully and thoroughly, and if you can access this
+information electronically to your satisfaction and agree to this Electronic Record and Signature
+Disclosure (ERSD), please confirm your agreement by selecting the check-box next to “T agree to
+use electronic records and signatures” before clicking *CONTINUE" within the DocuSign
+system.
+
+Getting paper copies
+
+Atany time, you may request from us a paper copy of any record provided or made available
+electronically to you by us. You will have the ability to download and print documents we send
+to you through the DocuSign system during and immediately after the signing session and, if you
+elect to create a DocuSign account, you may access the documents for a limited period of time
+(usually 30 days) after such documents are first sent to you. After such time, if you wish for us to
+send you paper copies of any such documents from our office to you, you will be charged a
+$0.00 per-page fee. You may request delivery of such paper copies from us by following the
+procedure described below.
+
+Withdrawing your consent
+
+If you decide to receive notices and disclosures from us electronically, you may at any time
+change your mind and tell us that thereafter you want to receive required notices and disclosures
+only in paper format. How you must inform us of your decision to receive future notices and
+disclosure in paper format and withdraw your consent to receive notices and disclosures
+electronically is described below.
+
+Consequences of changing your mind
+
+If you elect to receive required notices and disclosures only in paper format, it will slow the
+speed at which we can complete certain steps in transactions with you and delivering services to
+you because we will need first to send the required notices or disclosures to you in paper format,
+and then wait until we receive back from you your acknowledgment of your receipt of such
 paper notices or disclosures. Further, you will no longer be able to use the DocuSign system to
-Eventos cifydsiteirathgpamimasemt AMAR MENDA RALA GR TI Gere Reistreodêchizacodataents
+
+receive required notices and consents electronically from us or to sign electronically documents
 from us.
 
-Eventos de tapeÃo, us that you no lon APSAEÍHS receive future notices and dRegistedahatardato
+Al notices and disclosures will be sent to you electronically
+Unless you tell us otherwise mn accordance with the procedures described herem, we will provide
+electronically to you through the DocuSign system all required notices, disclosures,
+authorizations, acknowledgements, and other documents that are required to be provided or made
+available to you during the course of our relationship with you. To reduce the chance of you
+inadvertently not receiving any notice or disclosure, we prefer to provide all of the required
+notices and disclosures to you by the same method and to the same address that you have given
+us. Thus, you can receive all the disclosures and notices electronically or in paper format through
+the paper mail delivery system. If you do not agree with this process, please let us know as
+described below. Please also see the paragraph immediately above that describes the
+consequences of your electing not to receive delivery of the notices and disclosures
+electronically from us.
 
-nat VOU
-Eventos df loures SUNBÊ sentto ou electronically Carimbo de datalhora
-Emvolopo enúndo Com hashiorplogralado 21062021 220554
+How to contact APSEN FARMACÊUTICA S/A:
 
-Entrega coriicada Segurança verificada 21062021 22:38:48
-Assinatura concluída Segurança verificada 21062021 2299:39
-Concluído Segurança verificada 21062021 2299:34
+You may contact us to let us know of your changes as to how we may contact you electronically,
+to request paper copies of certain information from us, and to withdraw your prior consent to
+receive notices and disclosures electronically as follows:
 
-   
+To contact us by email send messages to: luis.costa O apsen.com.br
+
+To advise APSEN FARMACÊUTICA S/A of your new email address
+
+To let us know of a change in your email address where we should send notices and disclosures
+electronically to you, you must send an email message to us at luis.costa Wapsen.com.br and in
+the body of such request you must state: your previous email address, your new email
+
+address. We do not require any other information ftom you to change your email address.
+
+If you created a DocuSign account, you may update it with your new email address through your
+account preferences.
+
+To request paper copies from APSEN FARMACÊUTICA S/A
+
+To request delivery ftom us of paper copies of the notices and disclosures previously provided
+by us to you electronically, you must send us an email to luis.costa O apsen.com.br and in the
+body of such request you must state your email address, full name, mailing address, and
+telephone number. We will bill you for any fees at that time, if any.
+
+To withdraw your consent with APSEN FARMACÊUTICA S/A
+
+To inform us that you no longer wish to receive future notices and disclosures in electronic
+format you may:
+1. declme to sign a document from within your signmg session, and on the subsequent page,
+select the check-box indicating you wish to withdraw your consent, or you may;
+
+li. send us an email to luis.costaQ apsen.com.br and in the body of such request you must state
+your email, full name, mailing address, and telephone number. We do not need any other
+information from you to withdraw consent.. The consequences of your withdrawing consent for
+online documents will be that transactions may take a longer time to process..
+
+Required hardware and software
+
+The minimum system requirements for using the DocuSign system may change over time. The
+current system requirements are found here: https://support.docusign.com/guides/signer-guide-
+
+signing-system-requirements.
 
  
 
-juridico apso
+Acknowledging your access and consent to receive and sign documents electronically
 
-  
- 
+To confirm to us that you can access this information electronically, which will be similar to
+other electronic notices and disclosures that we will provide to you, please confirm that you have
+read this ERSD, and (i) that you are able to print on paper or electronically save this ERSD for
+your future reference and access; or (ii) that you are able to email this ERSD to an email address
+where you will be able to print on paper or save it for your future reference and access. Further,
+if you consent to receiving notices and disclosures exclusively in electronic format as described
+herein, then select the check-box next to “I agree to use electronic records and signatures” before
+clicking “CONTINUE” within the DocuSign system.
+
+By selecting the check-box next to “I agree to use electronic records and signatures”, you confirm
+that:
+
+* You can access and read this Electronic Record and Signature Disclosure; and
+
+* Youcan print on paper this Electronic Record and Signature Disclosure, or save or send
+this Electronic Record and Disclosure to a location where you can print it, for future
+reference and access; and
+
+e Until or unless you notify APSEN FARMACÊUTICA S/A as described above, you
+consent to receive exclusively through electronic means all notices, disclosures,
+authorizations, acknowledgements, and other documents that are required to be provided
+or made available to you by APSEN FARMACÊUTICA S/A during the course of your
+relationship with APSEN FARMACÊUTICA S/A.
 

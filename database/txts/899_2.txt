@@ -1,21 +1,20 @@
-dê
+ds
 
 Fortaleza
 
 PREFEITURA
 Saúde
 
-* DOCUMENTOS BANCÁRIOS DE COMPROVAÇÃO DOS DÉBITOS E CRÉDITOS
-OCORRIDOS NAS RESPECTIVAS CONTAS.
+REQUERIMENTO Nº 152/2021 — CPIPANDEMIA
 ANEXOS
 
-ANEXO II: EXTRATOS BANCÁRIOS.
-
-ANEXO IV: NOTAS FISCAIS EM FORMATO XML.
+Em resposta ao Requerimento 152/2021-CPIPANDEMIA encaminhamos a
+documentação nos anexos seguintes. Esclarecemos que os quesitos formulados pelo Sr.
+Senador, como elencados no Requerimento são os mesmos constantes do Requerimento
 139/2021-CPIPANDEMIA, e foram respondidos da seguinte forma:
 
 O Resumo de todas as portarias de repasse dos recursos federais recebidos pelo
-Município de Fortaleza no âmbito de todo o período da pandemia, integrando o Anexo
+Município de Fortaleza no âmbito de todo o período da pandemia, integrando o Anexo I
 — Resumo das Portarias.
 
 As notas de empenho (1), ordens bancárias (2), notas fiscais (3), processos
@@ -33,17 +32,33 @@ XML, integrando o Anexo IV — Notas Fiscais em XML. Os arquivos no formato XML
 foram gerados individualmente, e correspondem às notas fiscais de compra constantes
 no Anexo II.
 
-ANEXO E RESUMO DAS PORTARIAS
+ANEXO I: RESUMO DAS PORTARIAS
 
 ANEXO II: PROCESSOS ADMINISTRATIVOS DIVIDIDOS POR PORTARIAS
 CONTENDO AS SEGUINTES INFORMAÇÕES:
 
-* NOTA DE EMPRENHO;
-* ORDENS BANCÁRIAS;
+NOTA DE EMPRENHO;
 
-* NOTAS FISCAIS EM PDF;
+ORDENS BANCÁRIAS;
 
-* PROCESSOS ADMINISTRATIVOS DE DESPESAS;
+NOTAS FISCAIS EM PDF;
+
+PROCESSOS ADMINISTRATIVOS DE DESPESAS;
+
+ 
+ds
+
+Fortaleza
+
+PREFEITURA
+Saúde
+
+e DOCUMENTOS BANCÁRIOS DE COMPROVAÇÃO DOS DÉBITOS E CRÉDITOS
+OCORRIDOS NAS RESPECTIVAS CONTAS.
+
+ANEXO III: EXTRATOS BANCÁRIOS.
+
+ANEXO IV: NOTAS FISCAIS EM FORMATO XML.
 
  
 

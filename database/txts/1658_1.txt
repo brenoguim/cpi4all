@@ -1,37 +1,345 @@
-orrornoar SEIS - 0020176265 - Relatório
-seil ” ") Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
-asc O
+07/07/2021 SEI/MS - 0020178265 - Relatório
 
+ 
+
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+Departamento de Imunização e Doenças Transmissíveis
+
+RELATÓRIO DE EXECUÇÃO DO CONTRATO Nº 29/2021
+
+Processo de Execução: 25000.175250/2020-85
+Contrato: 29/2021
+
+Contratada: BHARAT BIOTECH LIMITED INTERNATIONAL, Representada pela Empresa PRECISA
+COMERCIALIZAÇÃO DE MEDICAMENTOS LTDA
+
+Unidade Detentora do Contrato: Coordenação-Geral do Programa Nacional de Imunizações - CGPNI
+
+OBJETO DO CONTRATO: VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL
+(COVAXIN/BBV152)
+
+Valor do Contrato: US$ 300.000.000,00 (Trezentos milhões de dólares americanos), que convertidos na
+
+hipótese de US$ 1,00 PARA R$ 5,38 perfaz o valor total estimado de R$ 1.614.000.000,00 (Um bilhão,
+seiscentos e quatorze milhões de reais).
+
+Garantia Contratual: US$ 15.000.000,00 (quinze milhões de dólares americanos), que convertidos na
+hipótese de US$ 1,00 para R$ 5,38 perfaz o valor total estimado de R$ 80.700.000,00 (oitenta milhões e
+setecentos mil reais) correspondente a 5% do valor do Contrato.
+
+Vigência: 25/02/2021 A 25/02/2022
+
+Fiscais: Regina Célia Silva Oliveira, matrícula Siape nº 1.161.859, e Renata Marques de Melo, matrícula
+Siape nº 2.108.012 - Portaria CGIES nº 65, de 08 de março de 2021
+
+DEMANDA APRESENTADA INICIALMENTE:
+
+Trata-se de contrato celebrado entre a União, por intermédio do Departamento de Logística em Saúde, da
+Secretaria Executiva do Ministério da Saúde e a empresa Bharat Biotech International Limited
+representada pela empresa Precisa Comercialização de Medicamentos Ltda, com vistas à contratação de
+Vacina, Covid-19 (Coronavírus, SARS-COV-2), Injetável (Covaxin/BBV 152), conforme especificações e
+quantitativos estabelecidos no 29/2021.
+
+PARCELAS PREVISTAS NO CONTRATO:
+
+Nos termos da Cláusula Primeira, o referido contrato prevê a entrega do quantitativo de 20.000 doses,
+conforme discriminado na tabela abaixo:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL
+QUANTITATIVO | PRAZO MÁXIMO DE ENTREGA
+PARCELA (DOSES) (ATÉ)
+1º 4.000.000 20 dias após a assinatura do Contrato
+2º 4.000.000 30 dias após a assinatura do Contrato
+3º 4.000.000 45 dias após a assinatura do Contrato
+4 4.000.000 60 dias após a assinatura do Contrato
+5 4.000.000 70 dias após a assinatura do Contrato
+TOTAL 20.000.000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://sei.saude.gov.br/seifcontrolador.php?acao=documento. imprimir. web&acao. origem=arvore visualizar&id documento=220156198infra si... 1/5
+07/07/2021 SEI/MS - 0020178265 - Relatório
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONTROLE DA EXECUÇÃO:
+Cronograma - Contrato Entrega
+e Atesto Nota
+Parcela | Prazo de entrega | Quantitativo | Data Quantitativo Lote | Validade Fiscal
+(At$) entregue
+1º 17/03/2021 4.000.000 - 0 - - -
+z 27/03/2021 4.000.000 - 0 - - -
+3º 11/04/2021 4.000.000 - 0 - - -
+4º 26/04/2021 4.000.000 - 0 - - -
+sa 06/05/2021 4.000.000 - 0 - - -
+TOTAL 20.000.000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INFORMAÇÕES QUANTO AO TIPO DE ENTREGA (centralizada/descentralizada):
+
+Centralizada, conforme CLÁUSULA DÉCIMA do Contrato a entrega dos bens deverá ocorrer
+no Almoxarifado do Ministério da Saúde em São Paulo.
+
+DADOS DA UNIDADE RECEBEDORA
+Produtos FÁRMACO (Medicamentos/Vacinas/insumos relacionados):
+
+Endereço: Rua Jamil João Zarif, nº 684, Jardim Santa Vicência, UNIDADES 11 A 17 e 18º -Guarulhos —
+SP
+
+CEP: 07.143-000.
+E-mail para agendamento: cglog.agendamento(D saude. gov.br
+
+DADOS DA COMISSÃO DE RECEBIMENTO
+
+Comissão de Recebimento, constituída pela Portaria DLOG de 12 de setembro de 2020, publicada no
+Boletim de Serviço - Ano 35 - nº 40 de 05/10/2020.
+
+OCORRÊNCIAS VERIFICADAS AO LONGO DA EXECUÇÃO PARCIAL CONTRATUAL:
+
+A empresa Bharat Biotech International Limited representada pela empresa Precisa Comercialização de
+Medicamentos Ltda foi notificada (0019820580) pelo atraso nas parcelas do contrato. Observou-se
+pendências, por parte da empresa contratada, quanto ao atendimento solicitado pela Agência Nacional de
+Vigilância Sanitária - ANVISA acerca dos documentos necessários à concessão excepcional para a
+importação da vacina.
+
+Em atenção à Notificação nº 11/2021/DEIDT/SVS/MS a contratada enviou o Ofício Contrato 29/2021 nº
+007/2021 (0020084587) realizando as seguintes justificativas:
+
+3. A oficiante apresentou os documentos necessários para realização da importação do imunizante
+CovaxinTM tempestivamente ao tempo do cronograma previsto para as entregas 1 e 2. A solicitação
+foi apresentada tempestivamente nos termos do art. 16 inciso VII da Lei 14.124/2021, considerando
+que a CovaxinTM está registrada na Central Drugs Standard Control Organization (CDSCO), da
+República da Índia.
+
+4. Os certificados de liberação dos lotes a serem importados (inciso IV do art. 16 da RDC 476/2021),
+onde restou pendente os certificados de liberação dos respectivos lotes emitidos pelo fabricante,
+informamos que todos os lotes se encontram no CDL — Central Drugs Laboratory responsável pela
+emissão dos Certificados de Origem bem como indicação de qual lote será destinado as exportações
+aguarda aprovação da Anvisa para que os lotes possam ser designados ao Brasil, haja vista a
+crescente demanda por vacinas e os lotes já produzidos já estão direcionados à outros países,
+
+https://sei.saude.gov.br/seifcontrolador.php?acao=documento. imprimir. web&acao. origem=arvore visualizar&id documento=220156198infra si... 2/5
+07/07/2021 SEI/MS - 0020178265 - Relatório
+
+ressaltando que após a liberação a indústria designará os lotes e os certificados, com os respectivos
+prazos de validade.
+
+5. Sobre o relatório técnico de avaliação da vacina emitido ou publicado pela autoridade sanitária da
+Índia, responsável pela concessão da autorização para uso emergencial, o documento apresentado
+pela autoridade sanitária do país de origem cumpre com os padrões de qualidade, eficácia e
+segurança emitido pelo CDSCO — Central Drugs Standard Control Organization (Biological
+Division), sendo este documento a liberação para uso emergencial e ao mesmo tempo o relatório
+técnico de avaliação contendo todas as ressalvas. Em complementação, fornecemos também o GMP
+— Good Manufacturing Practice emitido pela mesma autoridade para a produção da Covaxin e o
+GMP - Good Manufacturing Practice emitido pela OMS — Organização Mundial de Saúde para todas
+as linhas de produção.
+
+6. O CDSCO emitiu um documento (anexo BBV 152 — COVAXIN — EUL — 12032021) que transmite
+a autorização para uso emergencial com as suas ressalvas, bem como o relatório de avaliação técnica
+em um único documento. Tal documento foi transmitido ao Ministério da Saúde na quinta-feira dia
+18/03 com essa observação. De maneira proativa foi compartilhado o CAPA Report emitido para a
+autoridade sanitária Indiana que apresenta os apontamentos do mesmo durante a inspeção para
+autorização de produção da CovaxinTM,
+
+12. Sobre o prazo de validade aprovado pela autoridade Indiana para a vacina Covaxin é de 6 meses,
+se conservada de 2-8º, porém, os estudos de estabilidade acelerada já avançaram tal período. Dessa
+forma, a Precisa Medicamentos, apresenta a possibilidade de assinatura de um termo de
+compromisso assegurando que nenhum produto importado, terá percorrido mais que 30% de sua
+validade.
+
+13. As conformidades relativas aos questionamentos da Anvisa foram satisfeitas por meio dos
+documentos apresentantes anteriormente, de amplo conhecimento e notoriedade tanto da contratante
+quanto da contratada.
+
+14. Portanto, sobre a Alínea “a” do item 5.2., da r. Notificação quanto a todos os
+questionamentos/pendências exarados pela Agência Nacional de Vigilância Sanitária, a oficiante
+esclareceu os pontos essenciais e juntou a documentação específica. Vale ressaltar que, conforme
+manifestado em reunião extraordinária da DICOL/ANVISA de 31/03/2021, foi solicitado ao
+Ministério da Saúde reunião para tratar dos pontos relativos à licença de importação, porém essa
+reunião foi realizada, o que aparentemente caracterizaria falta de interesse do importador, no caso o
+Ministério da Saúde.
+
+Novo Ofício foi encaminhado à empresa representante, Ofício nº 1597/2021/SVS/MS em 24/05/2021, para
+manifestação do prazo de 2 (dois) dias, acerca da expectativa de cumprimento do contrato. em 31/05/2021
+a empresa encaminhou resposta ao citado Ofício por meio do Ofício nº 11/2021/PRECISA. Informou que
+o último pedido de autorização excepcional e temporária foi protocolizado em 24/05/2021; que o prazo
+para inserção em pauta da agência regulatória tinha previsão para 01/06/2021. Ou seja, somente poderiam
+apresentar alguma expectativa quanto a execução do contrato após manifestação da Anvisa.
+
+Reiteradas solicitações foram feitas à empresa. Em 02/06/2021, foi solicitado um posicionamento da
+Precisa Medicamentos acerca da manifestação da Anvisa. Somente em 11/07/2021 a empresa encaminhou
+o Ofício nº 12/2021/PRECISA, no qual informou que a ANVISA concedeu em 04/06/2021 autorização
+para importação de 4.000.000 de doses.
+
+No Ofício nº 12/2021/PRECISA (0021162768) o qual informa que a Agência Nacional de Vigilância
+Sanitária - Anvisa autorizou a importação de 4.000.000 de doses e apresentou proposta de cronograma de
+entrega a partir do deferimento da Licença de Importação (LI) pela Agência Nacional de Vigilância
+Sanitária, como segue:
+
+https://sei.saude.gov.br/seifcontrolador.php?acao=documento. imprimir. web&acao. origem=arvore visualizar&id documento=220156198infra si... 3/5
+07/07/2021 SEI/MS - 0020178265 - Relatório
+
+5. O cronograma que se apresenta para o momento, deverá considerar como
+termo inicial, a partir do deferimento da Licença de Importação (LI) pela Agência
+Nacional de Vigilância Sanitária, conforme grade de fornecimento.
+
+ 
+
+vo Croi O
+
+* Novo Cronograma
+
+ 
+
+Parcela | “Quantitativo (Doses) | Prazo de entrega (até)
+Em até 10 (dez) dias após o
+q 4.000.000 deferimento da Licença de
+
+| Importação (LI), pela ANVISA.
+
+Em até 10 (dez) dias após o
+2º 16.000.000* deferimento da Licença de
+
+Importação (LI), pela ANVISA.
+
+* Ou na quantidade autorizada pela Anvisa e após o seu deferimento da Licença de Importação (Li).
+
+Observa-se que não há como aceitar a alteração do cronograma proposto uma vez que este está
+condicionado ao deferimento da licença de importação a ser concedido pela Anvisa.
+
+DILIGÊNCIAS DEMANDADAS E PROVIDÊNCIAS ADOTADAS:
+Notificação nº 11/2021/DEIDT/SVS/MS (0019820580)
+
+Ofício nº 1597/2021/SVS/MS (0020724609)
+
+Mensagens eletrônicas (0020848669 0020890381)
+
+ANÁLISE SOBRE O DESEMPENHO DA EMPRESA CONTRATADA, AO LONGO DA
+EXECUÇÃO CONTRATUAL:
+
+Não houve a conclusão de nenhuma das parcelas
+
+CONSIDERAÇÕES SOBRE A FISCALIZAÇÃO DE CONTRATOS:
+
+Não nenhuma consideração.
+
+ENCAMINHAMENTOS CONSIDERADOS NECESSÁRIOS:
+
+Diante da inexecução do contrato, uma vez que o cronograma encontra-se exaurido, sugere-se avaliação da
+área técnica que estabeleceu as diretrizes para o Plano Nacional de Operacionalização da Vacinação contra
+a COVID-19 (PNO) quanto a pertinência na continuidade da contratação.
+
+Não obstante, face a inexecução do contrato sugere-se rescisão deste, conforme subitem 14.1.1 e aplicação
+das sanções previstas no item 12 DAS SANÇÕES ADMINISTRATIVAS do Termo de Referência.
+
+Ressalta-se que no momento da contratação foi devidamente apresentada a garantia contratual no valor de
+US$ 15.000.000,00 (quinze milhões de dólares americanos), que convertidos na hipótese de US$ 1,00 para
+R$ 5,38 perfaz o valor total estimado de R$ 80.700.000,00 (oitenta milhões e setecentos mil reais)
+correspondente a 5% do valor do Contrato.
+
+Encaminhe-se o presente relatório para ser juntado ao processo de execução de contrato.
+
+REGINA CELIA SILVA OLIVEIRA
+Fiscal titular do Contrato nº 29/2021
+
+ 
+
+Documento assinado eletronicamente por Regina Celia Silva Oliveira, Fiscal de Contrato, em
+24/06/2021, às 18:36, conforme horário oficial de Brasília, com fundamento no art. 6º, & 1º, do
+
+https://sei.saude.gov.br/seifcontrolador.php?acao=documento. imprimir. web&acao. origem=arvore visualizar&id documento=220156198infra si... 4/5
+SEI/MS - 0020178265 - Relatório
+Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+07/07/2021
+
+jl
+sell! à
+assinatura
+eletrônica
+
+   
   
 
+    
  
 
-     
-   
+A autenticidade deste documento pode ser conferida no site
 
-Esp A autenticidade deste documento pode ser conferida no site
-SET hitp://sei saude go br/sei/controlador. externo. php?
-acao=documento conferir&id orgao acesso externo:
+http://sei.saude.gov.br/sei/controlador externo.php?
 
+po acao=documento conferir&id orgao acesso externo=0, informando o código verificador
 0020178265 e o código CRC 82659919.
 
- 
+ps
 
-informando o código verificador
-
- 
+    
 
  
 
  
 
- 
+Referência: Processo nº 25000.175250/2020-85 SEI nº 0020178265
 
-hips:lsel saude gov.briselcontrolador php?acao=dacumento, imprimir web&acao origem=arvore, visualizar&id documento=220156198infra si...
-
- 
-
-rocesso nº 25000.175250/2020-85 SEI nº 0020178265.
-
-ss
+https://sei.saude.gov.br/seifcontrolador.php?acao=documento. imprimir. web&acao. origem=arvore visualizar&id documento=220156198infra si... 5/5
 

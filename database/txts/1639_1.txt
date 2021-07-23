@@ -1,4 +1,4 @@
-o
+TCU
 
 TRIBUNAL DE CONTAS DA UNIÃO
 
@@ -10,6 +10,7 @@ Senhor Presidente,
 
 Encaminho a Vossa Excelência cópia do Despacho do Ministro-Relator Benjamin
 Zymler — para ciência, em especial quanto ao contido no subitem 13.1 do referido documento —,
+
 exarado em 5/7/2021 no âmbito do TC-006.789/2021-8.
 
 O aludido processo trata de representação sobre possíveis irregularidades na
@@ -19,8 +20,9 @@ pelo Laboratório Bharat Biotech, representado pela empresa Precisa Comercializa
 Medicamentos Ltda.
 
 Por oportuno, informo que esclarecimentos adicionais podem ser obtidos junto à
-Secretaria de Controle Extemo da Saúde, por meio do telefone (61) 3527-7334, das 13h às 17h, e
-pelo e-mail secexsaudeQDteu.gov.br, unidade técnica deste Tribunal responsável pela instrução da
+Secretaria de Controle Externo da Saúde, por meio do telefone (61) 3527-7334, das 13h às 17h, e
+
+pelo e-mail secexsaude(dtcu.gov.br, unidade técnica deste Tribunal responsável pela instrução da
 
 matéria em comento.
 Atenciosamente,
@@ -37,5 +39,5 @@ Senado Federal
 
 Brasília - DF
 
-Para verificar as assinaturas, acesse wwnw.tcu.gov br/autenticidade, informando o código 68432443.
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 68432443.
 

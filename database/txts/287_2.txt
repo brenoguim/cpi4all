@@ -1,87 +1,387 @@
-8. COVID-I9 Treatment Guidelines Panel. Coronavirus Disease 2019 (COVID-19) Treatment Guidelines. National Institutes of Health.
-Disponívelem:https://fikes covidl Htreatmentguide lines. nih gov! guidelinesicovid 9treatmentguide lines. pd acesso em 11/01/2021
-ouClinical interim guidance, disponível em: WHO/2019- nCoVielinical'2020,5, acessoem 11/01/2021
-
-9.3" edição COVID-19 Guia Orientador para oenfentamento da pandemia na Rede de Atenção à Saúde
-Disponível em:Mttps:/fwww.conasems org br'wp contentiplonds/2020 IInstrumento-Orientador-Conass-Conasems-3-cdicacecvisao-
-
-I-mesclado-1 pdf, acesso em 11/01/2021
-
-10. Ministério da Saúde. Secretaria Executiva. Gabinete da Secretaria Executiva. Nota Informativa nº 9/2020-SEGAB/SE/MS.
-Orientações pa maio medicamentos preco de paca com diagnóstico da Cord, disponível
-
- 
-
-precoce-de-pacientes-com-dingn--stico-da-COVTD- 19 pd acesso em 07/05/2021;
-
-11 Diretrizes para o Tratamento Farmacológico da COVID-19. Consenso da Associação de Medicina Intensiva Brasileira, da Sociedade
-Brasileira de Infectologia e da Sociedade Brasileira de Pneumologia e Tisiologia, disponível em https: seielo.br'scielophp?
-pid=S0 103-SOTX202 00002001 66 &script=sei arttext, acesso em 07/05/2021;
-
-12. Sociedade Brasileira do Imunologia. Parecer Cientifico da Sociedade Brasileira de Imunologia sobre a utilização da
-CloroquvaHidroieorcquna par tamento da COVID- 19 de 18 de malo de 2020, isponel
-
- 
-
-para-o-istamento-da-covid-19, acesso em 07/05/2021;
-
-13. Recomendação 1º42, de 22 de maio de 2020 - Conselho Nacional de Saúde - CNS, disponível
-em htip:ífconse lho saude, gow: bri comendacoss-cns/11 93-e comendacao-n-042-de-22-de-maio-de-2020, acesso em 07/05/2
-
- 
-
-SECRETARIA ESTADUAL DE SAÚDE DE PERNAMBUCO
-Rua Dona Maria Augusta Nogueira, 519, - Bairro Bongi, RecfejPE - CEP 50751-530, Telefono: (81)3184-0000
-
- 
-
-Documento assinado eletronicamente por Andre Longo Araujo de Melo, em 19/05/2021, às 15:33, conforme horário oficial de Recife,
-com fundamento no ar. 10º, do Desreto nº 45.157. de 23.de outubro de 2017.
-
- 
-
    
+
+Governo Da Estao
+
+O PERNAMBUCO
+
+MAIS TRABALHO, MAIS FUTURO,
+
+Secretaria de
+Saúde
+
+OFÍCIO Nº 198/2021- GPA/GCI'GAB-SES
+
+Data da assinatura eletrônica.
+
+A Sua Excelência o Senhor,
+
+Paulo Henrique Saraiva Câmara
+Governador do Estado
+
+Gabinete do Governador
+
+Praça da República, S/N, - Bairro Santo Antônio, Recife/PE - CEP 50010-928
+
+Assunto: Ofício nº 0808 /21 GAB / Oficio nº 486/2021 - CPIPANDEMIA, Solicitação de informações — Requerimentos nº 194
+CPIPANDEMIA
+
+Excelentíssimo Governador,
+
+Cumprimentando-o cordialmente, em atenção ao Ofício em epígrafe, que solicita subsídios para responder
+ao Requerimento nº 194-CPIPANDEMIA, esta Secretaria Estadual de Saúde vem expor o que segue:
+
+1. os protocolos medicamentosos (em formato PDF);
+
+Quanto ao item 1, que solicita os protocolos medicamentosos (em formato PDF), oportuno destacar, preliminarmente,
+que Notas Técnicas e Protocolos são documentos norteadores para a execução e tomada de decisão na área de saúde, principalmente
+na assistência à saúde, como reguladores da segurança do paciente e da melhoria na prática profissional, devendo, assim, estar
+rigorosamente fundamentados em evidências científicas e nos resultados das pesquisas clínicas desenvolvidas em todo o mundo.
+
+Nesta seara, destacamos que a COVID 19, provocada pelo Novo Coronavírus, é uma doença descrita recentemente, cuja
+evolução e manifestação clínica têm sido acompanhadas atentamente por profissionais de saúde, cientistas e pesquisadores em todo o
+mundo, assim como revisões e atualizações do manejo clínico têm sido realizadas a partir das evidências clínicas e achados de pesquisas
+e estudos científicos.
+
+Até o momento, pesquisas clínicas realizadas e avaliadas por órgãos internacionais como o CDC
+(Center of DiseasesControl), o NHS (National Health System) e a OMS (Organização Mundial de Saúde), dentre outros, descrevem que as
+medidas não farmacológicas como o uso de máscaras, lavagem das mãos e distanciamento social são eficazes para reduzir a propagação
+do vírus na população e, consequentemente, o número de pessoas infectadas (assintomáticas) e doentes com a COVID 19. Além disso,
+também resta confirmada a eficácia da vacinação para o controle da doença na população.
+
+Em relação ao tratamento precoce e profilaxia medicamentosa da doença, com a utilização de medicamentos
+principalmente a cloroquina, hidroxicloroquina e ivermectina, estudos realizados em diversos centros de pesquisa no mundo e
+publicados em revistas e periódicos internacionais subsidiaram as sociedades de especialistas na elaboração de documentos científicos e
+recomendações em forma de diretrizes, como a Sociedade Brasileira de Infectologia (SBI), a Associação Médica de Medicina Intensiva
+Brasileira (AMIB), Sociedade Brasileira de Pneumologia e Tisiologia (SBPT) a Sociedade Brasileira de Medicina de Família e Comunitária
+(SBMFC), dentre outras.
+
+Destaca-se, dentre os diversos estudos, a publicação no The Lancet, acessível pelo endereço
+eletrônicohttps:/ /www.thelancet.com /journals/lancet/article/P11S0140-6736(20)31180-6/fulitext, que subsidiou a recomendação da
+OMI para contra-indicar o uso das medicações referidas e suspender o estudo multicêntrico em curso, a partir de resultados obtidos
+após a análise de 96.032 casos de incremento significativo de mortalidade no grupo de pacientes que foram tratados com as
+medicações cloroquina e hidroxicloroquina.
+
  
 
-BEE À asenidade des documento podes conferia o she htc gostamos esemosas
-A ocum amo canfci, GaÃo aco, eco ifomando o Gg veficador EELSTAB o códgo CC sap,
+ 
+
+Estudos demonstram que o uso de tais medicamentos, além de ineficaz no tratamento da doença, pode gerar efeitos
+colaterais aos pacientes. A título de exemplo, a Sociedade Brasileira de Infectologia (SBI), baseada em estudo publicado
+no The New Englandlournalof Medicine, concluiu, no Informe nº 15, que "até o momento, os principais estudos clínicos, que são
+os randomizados com grupo controle, não demonstraram benefício do uso da cloroquina, nem da hidroxicloroquina no tratamento de
+pacientes hospitalizados com COVID-19 grave. Efeitos colaterais foram relatados. Seu uso em profilaxia pós-exposição, até o momento,
+também não demonstrou benefício" (https://sbgg org.br/wp-content/uploads/2020/06/SBI Informe-15. Medicamentos-2,pdf).
+
+Salutar ainda ressaltar que, a despeito da publicação da Nota Informativa nº 9/2020-SE/GAB/SE/MS que trata de
+Orientações para Manuseio medicamentoso precoce de pacientes com diagnóstico da COVID-19, foram divulgados estudos, pareceres,
+consensos, recomendações e diretrizes em relação ao uso das medicações citadas anteriormente expondo a inexistência de evidências
+científicas de benefícios na utilização in vivo, dentre os quais, podemos citar como exemplos dos textos divulgados, as Diretrizes para o
+Tratamento Farmacológico da COVID-19 — Consenso da Associação de Medicina Intensiva Brasileira (AMIB), da Sociedade Brasileira de
+Infectologia e da Sociedade Brasileira de Pneumologia e Tisiologia, o Parecer Científico da Sociedade Brasileira de Imunologia, e a
+Recomendação nº 042, 22/05/2020, do Conselho Nacional de Saúde (CNS), que recomendou a suspensão imediata das orientações do
+Ministério da Saúde para manuseio medicamentoso precoce de pacientes com diagnóstico da COVID-19, como ação de enfrentamento
+relacionada à pandemia do Novo Coronavírus.
+
+Acrescente-se que, em 17/05/2021, última segunda-feira, foi publicado pela CONITEC - Comissão Nacional de
+incorporação de Tecnologia no SUS, órgão técnico vinculado ao próprio Mistério da Saúde (nos termos da Lei 12.401/2011), parecer
+recomendando a não utilização de medicamentos como hidroxicloroquina, cloroquina, ivermectina, azitromicina etc., para o tratamento
+da coviD-
+19 (<http://conitec.gov.br/images/Consultas/Relatorios/2021/20210517. Relatorio, Diretrizes, Brasileiras COVID Capitulo, 2 CP 37.pdf>).
+
+Assim, e considerando as evidências científicas e a literatura médica publicada, a equipe técnica da SES/PE elaborou,
+publicou e divulgou as ORIENTAÇÕES PARA A REDE ASSISTENCIAL - MANEJO CLÍNICO DO PACIENTE COM COVID-19 (Doc. 01).
+
+O MANEJO CLÍNICO DO PACIENTE COM COVID-19 objetivou apresentar orientações para o manejo e condução clínica de
+pacientes suspeitos ou com diagnóstico de COVID-19, a fim de auxiliar os profissionais de saúde nos processos de trabalho durante a
+ocorrência da pandemia, garantindo a assistência adequada dos pacientes e segurança para os profissionais de saúde.
+
+A versão 2.0 foi elaborada de acordo com os critérios utilizados nos meios científicos e comitês técnicos, encontrando-se
+em processo de revisão por existir a necessidade constante de atualização ao longo do curso da pandemia, em razão do grande número
+de estudos e pesquisas realizadas e em curso, por se tratar de uma enfermidade nova e pouco conhecida. Esse esforço busca garantir
+que as unidades da rede assistencial de saúde de Pernambuco prestem o adequado atendimento aos pacientes acometidos pela COVID-
+19, bem como demonstra o compromisso veemente da gestão com o que há de mais seguro em termos de cuidados assistenciais para o
+cenário da pandemia.
+
+Além das ORIENTAÇÕES PARA A REDE ASSISTENCIAL - MANEJO CLÍNICO DO PACIENTE COM COVID-19, a equipe técnica
+da Coordenação Estadual de Qualidade e Segurança do Paciente, diante do cenário da pandemia causada pelo Novo Coronavírus,
+também elaborou, publicou e divulgou as RECOMENDAÇÕES AOS NÚCLEOS DE SEGURANÇA DO PACIENTE NO ENFRENTAMENTO DA
+COVID 19 (Doc. 02), a partir da necessidade de elencar algumas das principais recomendações aos Núcleos de Segurança do Paciente
+com o objetivo de somar todos os esforços em apoio ao enfrentamento da pandemia.
+
+O documento citado acima está fundamentado em fontes oficiais do Governo Federal e Estadual, Notas Técnicas,
+Resoluções e Portarias, bem como informações de sites de instituições científicas e especialistas em Qualidade e Segurança do Paciente,
+Medicina Intensiva, entre outras contribuições sobre o tema, com a pretensão de promover o direcionamento de ações prioritárias no
+âmbito da segurança do paciente para este período crítico.
+
+Em relação aos medicamentos adquiridos (em formato PDF) requeridos no item 2, esta SES realizou um esforço para
+garantir um estoque regulador para o abastecimento das unidades da rede assistencial com os medicamentos que compõem o chamado
+“KIT INTUBAÇÃO”, a fim de garantir a segurança dos pacientes e a continuidade da assistência. Os medicamentos do referido kit foram
+definidos a partir dos protocolos e recomendações publicados pela Sociedade Brasileira de Farmácia Hospitalar e Serviços de Saúde
+(SBRAFH), Associação de Medicina Intensiva Brasileira (AMIB) e Sociedade Brasileira de Anestesiologia (SBA), através de literatura
+robusta apresentada em referências médicas vigentes com a finalidade de alinhamento envolvendo os eixos
+AQUISIÇÃO/DISTRIBUIÇÃO/USO NA PRÁTICA CLÍNICA.
+
+Todos os medicamentos relacionados no quadro 1 e que compõem o “KIT INTUBAÇÃO” são utilizados conforme as
+recomendações constantes nas respectivas bulas e orientações das Sociedades Brasileiras de Especialidades Médicas. São medicamentos
+utilizados rotineiramente na prática clínica em Unidades de Terapia Intensiva (UTI) e emergências, sobretudo para sedação e bloqueio
+neuromuscular no intuito de permitir a intubação orotraqueal e a adequada ventilação mecânica, independentemente da causa da
+insuficiência respiratória.
+
+Quadro 1 - Medicamentos adquiridos pela SES/PE para o tratamento de pacientes com Covid-19.
 
  
 
  
 
-SECRETARIA ESTADUAL DESAÚDE DE PERNAMBUCO
-Rua Dona Maria Augusta Nogueira, 519, - Bairro Bongi, Recife/PE - CEP 50751-530, Telefone: (81)3184-0000
+Grupo terapêutico Princípio ativo
+BESILATO ATRACURIO
+BESILATO CISATRACURIO
+BROMETO ROCURÔNIO
+CLORETO SUXAMETÔNIO
+SULFATO ATROPINA
 
  
+
+ 
+
+ 
+
+ 
+
+BLOQUEADORES NEUROMUSCULARES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OUTRAS CLASSES ADJUVANTES EPINEFRINA
+HEMITARTARATO NOREPENEFRINA
+SEDATIVOS CLORIDRATO DEXMEDETOMIDINA
+CLORIDRATO DEXTROCETAMINA
+DIAZEPAM
+
+ 
+
+ 
+
+ 
+
+ 
+
+| |
+ETOMIDATO
+HALOPERIDOL
+LIDOCAÍNA
+MIDAZOLAN
+PROPOFOL
+CITRATO FENTANILA
+SULFATO MORFINA
+ANTAGONISTA DE OPIOIDE CLORIDRATO NALOXONA
+Fonte: DGAF/SEAS/SES.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANALGÉSICOS (DOR CRÔNICA)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Os itens 3 e 4 do Requerimento nº 194-CPIPANDEMIA solicitam as datas das aquisições, as quantidades adquiridas (ambos
+em formato PDF), respectivamente.
+
+Em resposta, encaminhamos a Planilha de Aquisição dos Medicamentos (Doc. 03), bem como a Planilha com o
+Recebimento dos Medicamentos (Doc. 04), contendo detalhes pertinentes aos fármacos, como a quantidade e outras especificações.
+
+O item 5 requer as notas fiscais dos medicamentos adquiridos (em arquivo XML). Face este item, estamos enviando
+arquivo que contém todas as notas fiscais referentes aos medicamentos comprados no formato ora requerido (Doc. 05).
+
+Por fim, o item 6 solicita o percentual de eficácia de cada medicamento utilizado, considerando o percentual de pacientes
+tratados e recuperados (em formato PDF).
+
+Aqui importa reiterar que, em razão dos estudos anteriormente citados e do dever de observância do princípio da
+precaução, não há recomendação quanto à utilização de medicamentos profiláticos e/ou para o tratamento precoce da COVID 19, bem
+como, não foi realizado nas unidades da rede própria estadual ensaios e/ou estudos clínicos com medicamentos para as citadas
+finalidades.
+
+Nesta senda, informamos que esta Secretaria Estadual de Saúde de Pernambuco tem adquirido e utilizado apenas
+medicamentos com indicação de bula e reconhecidamente eficazes em cada uma das suas destinações, reafirmando o alinhamento
+técnico com as evidências científicas que têm sido publicadas e divulgadas em todo o mundo para o manejo clínico dos casos de COVID
+19.
+
+Ao tempo em que nos colocamos à disposição para eventuais esclarecimentos que se façam necessários, renovamos
+expressões de estima e consideração.
+
+André Longo Araújo de Melo
+Secretário Estadual de Saúde
+SES/PE
 
 Referências
 
 1. Diretrizes para o Tratamento Farmacológico da COVID-19. Consenso da Associação de Medicina Intensiva Brasileira, da Sociedade
-Brasileita de Infectologia e da Sociedade Brasileira de Prcumologia e Tisiologia, 18 de maio de 2020. Disponível
-em: https://sbpt.crg briportal/consenso-tratamento-farmacologicocovid-19/, acesso dia 11/01/2021.
+Brasileira de Infectologia e da Sociedade Brasileira de Pneumologia e Tisiologia, 18 de maio de 2020. Disponível
+em: htfps://sbpt.org br/portal/consenso-tratamento-farmacologicocovid-19, acesso dia 11/01/2021.
 
 2. Nota técnica sobre as novas orientações publicadas em 20 de maio de 2020 sobre o tratamento precoce de COVID-19 com o uso de
+cloroquina e hidroxicloroquina. Disponível em: htfps://yrww amib.org br/fileadmin/user upload/amib/2020/maio/19/
 
-cloroquina e hidraxicloroquina. Disponíveem: htips:/swavay amib.org. br! ileacim iníuser uplondfamibi20204maior19/
-
-3.Nata Tecnica AMIB Oriutacoes Ministerio Saude. pdf, acesso em 11/01/2021 3. Carta de apoio da AMIB à SBI. Disponível
-eme Dtps:/fsewwamib. org br/filendmintuser. uplond/omib/2020/dezembro/1 6t
-
-4. Carta de apoio da AMIB à SBL Disponível
-cem https: seram ore bile dminusr up Joni 2020dezembro/LGiCarta de Apoio AMIB. SBL 2 pd
-
-5. Diretrizes para o tratamento farmacológico da COVID-19. Consenso da Associação de Medicina Intensiva Brasileira, da Sociedade
-Brasibita de Infectologia da Sociedade Brasilbira de Pneumologia e Tisiologia Autores: Falavigna M, Colpani V, Stein C, Azevedo
-LC, Bagattini AM, Brio GV. et SES - Nota de Resposta 42 (10849264) SEI 23 00000026.001592/2020-19 / pg, al Disponívelem: Rev:
-Bras. Ter. Intensiva. 2020,32(2):166-196.
-
-6. Nota de apoio da SBPT à SBI Disponívelem: hitps://sbpt org.br/portal/covid]9-sbj-09-12-20/, acesso dia 11/01/2021
-
-7. Sociedade Brasileira de Infectologia: ATUALIZAÇÕES E RECOMENDAÇÕES SOBRE A COVID-19. Elaboradoem 09/12/2020
-
-Disponívelem: https: /infectologin org, br'svp content up loads/2020/1 2tualizacoes-e-recomendacoes-covid- 19.pdf , acesso em
-11/01/2021
+3. Nota Tecnica AMIB Orientacoes Ministerio Saude.pdf, acesso em 11/01/2021 3. Carta de apoio da AMIB à SBI. Disponível
+em: https:/www.amib.org br/fileadmin/user upload'amib/2020/dezembro/16/
 
  
+
+4. Carta de apoio da AMIB à SBI. Disponível
+em: htfps:/wrww amib.org.brfileadmin/user upload/amib/2020/dezembro/16/Carta de Apoio AMIB SBL 2 pd
+
+5. Diretrizes para o tratamento farmacológico da COVID-19. Consenso da Associação de Medicina Intensiva Brasileira, da Sociedade
+Brasileira de Infectologia e da Sociedade Brasileira de Pneumologia e Tisiologia. Autores: Falavigna M, Colpani V, Stein C, Azevedo
+LC, Bagattini AM, Brito GV, et SES - Nota de Resposta 42 (10849264) SEI 2300000026.001592/2020-19 / pg. al. Disponível em: Rev.
+Bras. Ter. Intensiva. 2020;32(2):166-196.
+
+6. Nota de apoio da SBPT à SBI Disponível em: htt pt.org.br/portal/covid19-sbi-09-12-20/, acesso dia 11/01/2021
+
+ 
+
+7. Sociedade Brasileira de Infectologia- ATUALIZAÇÕES E RECOMENDAÇÕES SOBRE A COVID-19. Elaborado em 09/12/2020
+Disponível em: https://infectologia.org br/wpcontentfuploads/2020/12/atualizacoes-e-recomendacoes-covid-19 pdf, acesso em
+11/01/2021
+8. COVID-19 Treatment Guidelines Panel. Coronavirus Disease 2019 (COVID-19) Treatment Guidelines. National Institutes of Health.
+Disponível em:https://files.covid | 9treatmentguidelines nih.gov/guidelines/covid! 9treatmentguidelines pd£acesso em 11/01/2021
+ou Clinical interim guidance, disponível em: WHO/2019- nCoV/clinical/2020.5, acesso em 11/01/2021
+
+9. 3º edição COVID-19 Guia Orientador para o enfrentamento da pandemia na Rede de Atenção à Saúde
+Disponível em:https:/Avww.conasems.org br/wpcontentiuploads/2020/1 1/Instrumento-Orientador-Conass-Conasems-3-edicaorevisao-
+1-mesclado-1 pdf, acesso em 11/01/2021
+
+10. Ministério da Saúde. Secretaria Executiva. Gabinete da Secretaria Executiva. Nota Informativa nº 9/2020-SE/GAB/SE/MS.
+Orientações pra manuseio medicamentoso precoce de pacientes com diagnóstico da Covid-19, disponível
+em https:/iportalarquivos.saude.gov br/images/pdf/2020/May/21/Nota-informativa---Orienta----es-para-manuseio-medicamentoso-
+
+precoce-de-pacientes-com-diagn-stico-da-COVID-19 pdf, acesso em 07/05/2021;
+
+11. Diretrizes para o Tratamento Farmacológico da COVID-19. Consenso da Associação de Medicina Intensiva Brasileira, da Sociedade
+Brasileira de Infectologia e da Sociedade Brasileira de Pneumologia e Tisiologia, disponível em https:/Aywwrw scielo br/scielo.php?
+
+pid=S0103-507X20200002001 66& script=sci arttext, acesso em 07/05/2021;
+
+12. Sociedade Brasileira de Imunologia. Parecer Cientifico da Sociedade Brasileira de Imunologia sobre a utilização da
+Cloroquina/Hidroxicloroquina para tratamento da COVID-19 de 18 de maio de 2020, disponível
+em htfps://sbi.org br/2020/05/1 8/parecer-da-sociedade-brasileira-de-imunologia-sobre-a-utilizacao-da-cloroquina-hidroxicloroquina-
+
+para-o-tratamento-da-covid-19/, acesso em 07/05/2021;
+
+13. Recomendação nº42, de 22 de maio de 2020 - Conselho Nacional de Saúde — CNS, disponível
+em http://conselho.saude.gov.br/recomendacoes-cns/1193-recomendacao-n-042-de-22-de-maio-de-2020, acesso em 07/05/2021.
+
+ 
+
+ 
+
+SECRETARIA ESTADUAL DE SAÚDE DE PERNAMBUCO
+Rua Dona Maria Augusta Nogueira, 519, - Bairro Bongi, Recife/PE - CEP 50751-530, Telefone: (81)3184-0000
+
+seil Documento assinado eletronicamente por Andre Longo Araujo de Melo, em 19/05/2021, às 15:33, conforme horário oficial de Recife,
+apsinatpro com fundamento no art. 10º, do Decreto nº 45.157, de 23 de outubro de 2017.
+
+ 
+
+ 
+
+E A autenticidade deste documento pode ser conferida no site http://sei pegou br/sei/controlador externo.php?
+à acao=documento conferir&id orgao acesso externo=0, informando o código verificador 13613148 e o código CRC 85422733.
+
+ 
+
+SECRETARIA ESTADUAL DE SAÚDE DE PERNAMBUCO
+Rua Dona Maria Augusta Nogueira, 519, - Bairro Bongi, Recife/PE - CEP 50751-530, Telefone: (81)3184-0000
 

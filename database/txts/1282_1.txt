@@ -1,18 +1,115 @@
-ji acao=documento conferir&id orgao acesso externo=0, informando o código verificador
-0021358330 e o código CRC 34635052.
-
  
 
- 
+Ministério da Saúde
+Secretaria Executiva
+Superintendência Estadual do Ministério da Saúde no Rio de Janeiro
+Hospital Federal da Lagoa
 
- 
+OFÍCIO Nº 570/2021/HFL/RJ/SEMS/SE/MS
+Rio de Janeiro, 29 de junho de 2021.
 
-Referência: Processo nº 33408.096422/2021-81 SEI nº 0021358330
+Ao Exmo. Sr. Presidente da CPI Pandemia
 
-Hospital Federal da Lagoa HFL
-Rua Jardim Botânico, nº 501 - 10% andar -Bairro Jardim Botânico, Rio de Janeiro/RJ, CEP 22470-050
-site
+Senador Omar Aziz
 
+Comissão Parlamentar de Inquérito da Pandemia
+
+SENADO FEDERAL — COCETI, Anexo Il, Ala Senador Alexandre Costa, Sala 15, Subsolo
+Brasília, CEP 70165-900 - DF
+
+e-mail: sec.cpipandemiaQsenado.leg.br
+
+Ref.: Oficio nº 1611/2021 - CPIPANDEMIA
+
+Assunto: Prestação de informações — Requerimento n. 894/2021-CPIPANDEMIA
+
+Senhor Presidente da CPIPandemia,
+
+Em atenção ao ofício em epígrafe, exarado por essa Comissão Parlamentar de Inquérito,
+encaminhando o Requerimento acima indicado, por meio do qual são solicitadas informações e
+documentos com vistas à apuração das ações e omissões do Governo Federal no enfrentamento da
+Pandemia da Covid-19 no Brasil; as possíveis irregularidades, bem como outras ações ou omissões
+cometidas por administradores públicos federais, estaduais e municipais, no trato com a coisa pública,
+limitado apenas quanto à fiscalização dos recursos da União repassados aos demais entes federados para
+as ações de prevenção e combate à Pandemia da Covid-19, servimo-nos do presente para esclarecer:
+
+1. Informe o orçamento do Hospital, bem como os valores de recursos financeiros
+repassados mês a mês pelo Ministério da Saúde ao Hospital, desde 01/01/2016 até a presente data.
+
+Em relação a tal solicitação, informamos que os valores relativos aos orçamentos desta
+unidade hospitalar referentes aos anos de 2016 até a presente data encontram-se descriminados na
+planilha anexa (0021359067).
+
+Ademais, no que tange aos repasses de recursos financeiros mês a mês a este HFL, desde
+01/01/0216 até a presente data, as informações constam da planilha anexa (0021359089).
+
+2. Informe a quantidade de leitos de internação e de UTI (capacidade instalada total,
+operacional e inoperante) existentes e inativos neste hospital desde 01/01/2016 até a presente data,
+discriminando as especialidades.
+
+Em relação a tal questionamento, encaminhamos a planilha anexa (0021359107),
+contendo as informações acerca dos quantitativos existentes.
+
+3. Informe a quantidade de leitos de internação e de UTI destinados ao atendimento de
+pacientes com Covid-19 desde 01/01/2020 até a presente data.
+
+Em relação a tal questionamento, encaminhamos em a planilha em anexo (0021359126),
+contendo as informações acerca dos quantitativos existentes.
+
+4. Informe quantos leitos de internação e de UTI poderiam ter sido habilitados para
+Covid-19 desde 01/01/2020 até a presente data.
+
+No que diz respeito à quantidade de leitos de internação e de UTI que poderiam ter sido
+habilitados para Covid-19, desde 01/01/2020 até a presente data, cabe mencionar que tal quantitativo
+estaria adstrito aos critérios e especificações exigidos em normativos federais inerentes à matéria — tais
+como a Portaria SAES/MS Nº 237, De 18 de Março de 2020; Portaria GM/MS nº 471, de 17 de março de
+2021; e Portaria GM/MS nº 829, de 28 de abril de 2021 — ficando a eventual determinação para tal
+habilitação coadunada à eventual diretriz dos órgãos superiores em tal sentido.
+
+5. Informe a razão pela qual este hospital não habilitou novos leitos de internação e de
+UTI para atendimento de pacientes com Covid-19.
+
+Quanto a tal questionamento, esclareça-se que, inicialmente, o HFL não habilitou novos
+leitos de internação e de UTI COVID-19, pois, por diretriz ministerial, permaneceu com o foco de
+atendimento na assistência às demandas clínicas e cirúrgicas urgentes ou não eletivas de alta
+complexidade durante o início da pandemia, tendo sido referenciado para o atendimento à COVID-19 na
+rede pública hospitalar federal no RJ o Hospital Federal de Bonsucesso.
+
+Ainda assim, durante o início da pandemia este HFL reorganizou seus fluxos para
+atendimento de COVID-19, tendo sido inicialmente destinados 4 (quatro) leitos de enfermaria, localizados
+no 7º andar da unidade, para internação exclusiva de pacientes suspeitos. Naquele momento tais leitos
+foram devidamente indicados na plataforma “SUBBPAV”, permitindo assim ao gestor municipal a
+visualização de suas ocupações.
+
+Ocorre que, com a rápida saturação dos leitos no município do Rio de Janeiro ainda no
+primeiro semestre de 2020, tornou-se necessário o aumento de tal quantitativo para atender a demanda
+de internações por suspeita de COVID-19, oportunidade em que este HFL chegou ter ocupação de 35
+(trinta e cinco) leitos para o referido atendimento, sendo 14 (quatorze) clínicos (enfermaria adulto), 18
+(dezoito) de terapia intensiva adulto, e 3 (três) de terapia intensiva pediátrica.
+
+6. Informe se o Ministério da Saúde solicitou a habilitação de novos leitos de internação
+e de UTI para atendimento de pacientes com Covid-19, encaminhando cópia de e-mails, ofícios,
+memorandos e todos os demais documentos relativos à essa informação.
+
+O Ministério da Saúde, antes mesmo da chegada do primeiro caso de COVID-19 no Brasil,
+solicitou que os hospitais federais reservassem leitos para atendimento específico a estes pacientes. Ao
+HFL coube inicialmente a reserva de 4 (quatro) leitos de enfermaria, chegando ao número de 32 (trinta e
+dois) leitos, sendo 16 (dezesseis) de CTI e 16 (dezesseis) de enfermaria no final de 2020, por
+determinação judicial oriunda da 152 Vara Federal do Rio de Janeiro, em razão do incêndio ocorrido no
+Hospital Federal de Bonsucesso de outubro de 2020. Em 2021, com o avanço da pandemia no país e o
+aumento considerável na demanda por tais leitos, houve determinação verbal ministerial, através da
+Superintendência Estadual do Ministério da Saúde no Rio de Janeiro, para a ampliação do quantitativo de
+leitos, tendo sido habilitados e disponibilizados um total de 87 (oitenta e sete) leitos neste HFL para o
+tratamento da doença, sendo 50 (cinquenta) de enfermaria (46 de adulto, e 4 de pediátrica); 18 (dezoito)
+de unidade de suporte ventilatório SRAG; 18 (dezoito) de UTI adulto; e 1 (um) de UTI pediátrica.
+
+7. Informe quantos leitos de internação e de UTI deste hospital foram disponibilizados na
+Central de Regulação estadual/municipal para Covid19.
+
+Em função do incêndio ocorrido no Hospital Federal de Bonsucesso — inicialmente
+escolhido para referenciar o atendimento à pacientes COVID na rede de saúde pública federalnoRJ-e a
+nova determinação para referenciar este HFL para o atendimento à pacientes COVID na rede de saúde
+pública federal no RJ, foi necessária a recomposição da força de trabalho nesta Unidade Hospitalar,
 especifica para atuação nos leitos destinados aos pacientes com COVID-19, ocorrida em abril de 2021,
 com a contratação de novos profissionais. A partir disso, este HFL pôde ampliar a oferta de leitos de
 enfermaria para o tratamento dos pacientes acometidos por tal patologia, além de destinar todos os
@@ -28,7 +125,7 @@ manutenção predial e de equipamento, limpeza, lavanderia e alimentação, vigi
 inclusive contratos de terceirização, entre outros, no período compreendido entre 01/01/2017 até a
 presente data, informamos que os mesmos estão sendo apresentados por meio de disponibilização de
 link em razão do tamanho dos arquivos, que inviabiliza seu encaminhamento por mensagem
-eletrônico, estando dispostos na pasta de documentos denominada “Contratos HFL 2017/2021".
+eletrônico, estando dispostos na pasta de documentos denominada “Contratos HFL 2017/2021”.
 
 Já em relação aos “contratos de insumos” também solicitados, considerando a inexistência
 de instrumentos contratuais na aquisição de materiais de tal natureza, em conformidade com o que
@@ -40,31 +137,40 @@ data, dispostas na pasta de documentos denominada “Notas de Empenho HFL 2017/2
 Sem mais no momento, permanecemos à disposição dessa r. Comissão Parlamentar de
 Inquérito para os demais esclarecimentos que eventualmente sejam necessários.
 
- 
-
 Atenciosamente,
 
 MARCELO GORGULHO COSENTINO
 Diretor Substituto
-
 Hospital Federal da Lagoa
 Portaria DISTEC/SAA nº 769, de 18 de julho de 2019
 
  
 
-     
+Documento assinado eletronicamente por Marcelo Gorgulho Cosentino, Diretor(a) do Hospital
+Federal da Lagoa substituto(a), em 29/06/2021, às 12:05, conforme horário oficial de Brasília, com
+fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
+900 de 31 de Março de 2017.
 
-sell sa
+eletrônica
 
  
 
-Documento assinado eletronicamente por Marcelo Gorgulho Cosentino, Diretor(a) do Hospital
-Federal ca Lagoa substituto(a), em 29/06/2021, às 12:05, conforme horário oficial de Brasília, com
-
-fundamento no art. 6º, 5 18, do Decreto nº 8,539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
-900 de 31 de Março de 2017,
-
-      
+ 
 
 A autenticidade deste documento pode ser conferida no site
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 33408.096422/2021-81 SEI nº 0021358330
+
+Hospital Federal da Lagoa - HFL
+Rua Jardim Botânico, nº 501 - 10º andar - Bairro Jardim Botânico, Rio de Janeiro/RJ, CEP 22470-050
+site
 

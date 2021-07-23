@@ -1,15 +1,180 @@
-210512021 SEIIGOVERNADORIA - 000020745154 - Ofício
+21/05/2021 SEI/GOVERNADORIA - 000020/45154 - Ofício
 
-A autenticidade do documento pode ser conferida no site
+Controladoria Xe
 
-http://sei.go.gov.br/sei/ controlador externo.php?
-É acao= documento conferir&id orgao acesso externo=1 informando o código verificador
+Geral do E
+Estado
+
+ 
+
+ESTADO DE GOIÁS
+CONTROLADORIA-GERAL DO ESTADO
+
+Ofício nº 856/2021 - CGE
+
+GOIANIA, 21 de maio de 2021.
+
+A Sua Excelência o Senhor
+Senador Omar Aziz
+Presidente da CPI Pandemia
+
+Assunto: Resposta ao Ofício nº 417/2021 - CPIPANDEMIA
+
+Senhor Senador,
+
+O Ofício nº 417/2021 — CPIPANDEMIA, subscrito pelo excelentíssimo Senador Omar
+Aziz, Presidente da CPI Pandemia, acompanhado do Requerimento nº 154/2021 - CPIPANDEMIA
+(000020329947), no intuito de instruir os trabalhos da Comissão Parlamentar de Inquérito,
+visando “apurar as ações e omissões do Governo Federal no enfrentamento da Pandemia da Covid-19 no
+Brasil; as possíveis irregularidades, bem como outras ações ou omissões cometidas por administradores
+públicos federais, estaduais e municipais, no trato com a coisa pública, limitado apenas quanto à
+fiscalização dos recursos da União repassados aos demais entes federados para as ações de prevenção e
+combate à Pandemia da Covid-19”, solicita informações sobre o volume de recursos repassados pela
+União para aplicação no enfrentamento à pandemia da Covid-19, bem como a discriminação da execução
+orçamentária desses recursos. Para tanto, solicita cópia dos documentos a seguir:
+
+1. as notas de empenho (em formato PDF);
+2.as ordens bancárias (em formato PDF);
+
+3. as notas fiscais (em arquivo XML);
+
+4. os processos administrativos de despesa, independentemente de ter havido licitação ou dispensa ou
+
+inexigibilidade de licitação (em formato PDF);
+
+5. os extratos bancários (em arquivo compatível com o programa Microsoft Excel); e
+
+6. os documentos bancários de comprovação de todos os débitos e créditos ocorridos nas respectivas contas
+
+(em formato PDF).
+
+Em atendimento a esse expediente, foram gerados os seguintes documentos até o
+período de 30/04/2021:
+
+* 511 documentos referente a notas de empenhos.
+* 654 documentos referente a ordens de pagamentos.
+*52 documentos processos licitatórios.
+
+*85 documentos referentes a arquivos de extratos bancários.
+
+https://sei.go.gov.br/seilcontrolador. php ?acao=documento. imprimir web&acao origem=arvore visualizar&id documento=254745208infra siste..
+
+1/3
+21/05/2021 SEI/GOVERNADORIA - 000020/45154 - Ofício
+
+Essas informações estão resumidas no documento RELATÓRIO FINAL - 0210506 -
+“CPI COVID 09998 09997 CORONA COVID.xis.
+
+Destacamos que as notas fiscais estão anexadas aos processos licitatórios e que os
+extratos bancários seguem em extensão .pdf e .xIsx.
+
+Quanto aos recebimentos de recursos, os mesmos estão informados no
+Relatório 20210510 - Recebimento Recursos.pdf
+
+Assim, considerando a quantidade de informações solicitadas e que os arquivos gerados
+ultrapassam o espaço virtual de 3,2 GB de armazenamento, os documentos serão encaminhados em link
+para acesso via FTP, o qual estará disponível para download por um período de 3 meses contados a
+partir de 11/05/2021:
+
+Atenciosamente,
+
+Ronaldo Caiado
+Governador do Estado de Goiás
+
+Ismael Alexandrino Júnior
+Secretário de Estado da Saúde
+
+Cristiane Alkmin Junqueira Schmidt
+Secretária de Estado da Economia
+
+Henrique Moraes Ziller
+Secretário-Chefe da Controladoria-Geral do Estado
+
+ 
+
+      
+ 
+
+:
+sel
+Dios (E)
+assinatura ,
+eletrônica
+
+ 
+
+  
+
+Documento assinado eletronicamente por HENRIQUE MORAES ZILLER, Secretário (a)-Chefe,
+em 21/05/2021, às 20:43, conforme art. 2º, 8 2º, III, "b", da Lei 17.039/2010 e art. 3ºB, 1, do Decreto
+nº 8.808/2016.
+
+ 
+
+   
+
+s il
+sei a
+assinatura
+eletrônica
+
+ 
+
+Documento assinado eletronicamente por IIMAEL ALEXANDRINO JUNIOR, Secretário (a) de
+Estado, em 21/05/2021, às 20:46, conforme art. 2º, $ 2º, III, "b", da Lei 17.039/2010 e art. 3ºB, I, do
+Decreto nº 8.808/2016.
+
+      
+ 
+
+ 
+
+ 
+
+Documento assinado eletronicamente por CRISTIANE ALKMIN JUNQUEIRA SCHMIDT,
+Secretário (a) de Estado, em 21/05/2021, às 20:45, conforme art. 2º, 8 2º, III, "b", da Lei
+17.039/2010 e art. 3ºB, I, do Decreto nº 8.808/2016.
+
+- al
+sen
+assinatura
+eletrônica
+
+     
+
+ 
+
+e 7] Documento assinado eletronicamente por RONALDO RAMOS CAIADO, Governador(a), em
+sem 21/05/2021, às 20:55, conforme art. 2º, 8 2º, III, "b", da Lei 17.039/2010 e art. 3ºB, I, do Decreto nº
+eletrônica 8.808/2016.
+
+assinatura
+
+ 
+
+ei. go.gov.br/seilcontrolador php 2acao=documento imprimir web&acao origem=arvore visualizar&id documento=254745208infra siste..
+
+288
+21/05/2021 SEI/GOVERNADORIA - 000020/45154 - Ofício
+
+a
+
+  
+  
+ 
+ 
+
+* A autenticidade do documento pode ser conferida no site
+
+: http://sei.go.gov.br/sei/controlador externo.php?
+
+k acao=documento conferir&id orgao acesso externo=1 informando o código verificador
 000020745154 e o código CRC F9F9B270.
 
  
 
 CONTROLADORIA GERAL DO ESTADO
-RUA 82400 - Bairro SETOR SUL -CEP 74015-908 -GOIANIA - GO - PALÁCIO PEDRO LUDOVICO
+RUA 82 400 - Bairro SETOR SUL - CEP 74015-908 - GOIANIA - GO - PALÁCIO PEDRO LUDOVICO
 
 TEIXEIRA, 3º ANDAR
 
@@ -19,5 +184,7 @@ Referência: Processo nº 202118037002244 SEI 000020745154
 
  
 
-hlps:seigo.goubrisolcontrolador php?acao=documento. imprimir web8acao origem=arvoro, visualizarid documento=254745208inra siste... 3
+https://sei.go.gov.br/seilcontrolador. php ?acao=documento. imprimir web&acao origem=arvore visualizar&id documento=254745208infra siste... 3/3
+
+ 
 

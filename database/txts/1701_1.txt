@@ -1,4 +1,6 @@
-=. 16
+Fi. 16
+SR/PF/DF
+2021.0041651
 
  
 
@@ -14,12 +16,12 @@ Senador OMAR AZIZ
 Presidente da CPI da Pandemia
 
 Assunto: Informações (solicita)
-Referência: 2021004165 1-SR/PF/DF (favor mencionar na resposta)
+Referência: 2021.0041651-SR/PF/DF (favor mencionar na resposta)
 
 Senhor Presidente,
 
 Comunicamos a Vossa Excelência que em face da requisição apresentada no Ofício nº
-1106/2021 - CPIPANDEMIA, de 18/05/2021, foi instaurado o Inquérito Policial 2021.0041651-
+1106/2021 - CPIPANDEMIA, de 18/05/2021, foi instaurado o Inquérito Policial 2021004165 1-
 SR/PF/DF, para apurar, em tese, o crime previsto no Art. 147 do Código Penal, para tramitar sob a
 presidência da autoridade policial signatária.
 
@@ -30,8 +32,11 @@ Delegado de Polícia Federal
 
  
 
-Documento eletrônico assinado em09/07/2021, às 13h40, por FRANCISCO VICENTE BADENES JUNIOR, Delegado de
-Policia Fe deral, na forma do artigo 1º, inciso II, da Lei 11419, de 19 de dezembro de 2006. A autenticidade deste documento pode
-ser conferida no site Itips:/servicos.dpf.govbr/assinaturaiappfassinatura, informando o seguinte código verificador
-cbóabe IfendaD48b0f29dTeSd60c7529c4Obfe8d
+Documento eletrônico assinado em 09/07/2021, às 13h40, por FRANCISCO VICENTE BADENES JUNIOR, Delegado de
+Policia Federal, na forma do artigo 1º, inciso II, da Lei 11.419, de 19 de dezembro de 2006. A autenticidade deste do cumento pode
+
+ser conferida no site https://servicos dpf gov br/assinatura/app/assinatura, informando o seguinte código verificador:
+cbóabe lfea4a048b0f29d7e5d6cc7529c40bfc8d
+
+ 
 

@@ -1,38 +1,44 @@
- 
+MUNICÍPIOS DA AREA DE ATRIBUIÇÃO DA PRM-PATOS DE
+
+  
 
  
 
  
 
-Município Área (km?) População Dan
-Abadia Dos Dourados 880,46 7.006 z61
-Arapua 173,89 2.835] 15,96
-Carmo Do Paranaíba 1.307,86 30.334] 22,74)
-Coromandel 3313,12 27.866 831
-Cruzeiro Da Fortaleza 187,72 3.639) 20,91
+MINAS
+Município Área (km?) População prensidade
+emográfica
+Abadia Dos Dourados 880,46 7.006 7,61
+Arapua 173,89 2.835 15,96
+Carmo Do Paranaíba 1.307,86 30.334 22,74
+Coromandel 3.313,12 27.966 8,31
+Cruzeiro Da Fortaleza 187,72 3.639 20,91
 Guimarânia 366,83 8.105 19,80
-Lagamar 1.474,56 7.600 5,15)
+Lagamar 1.474,56 7.600 Silã
 Lagoa Formosa 840,92 18.111 20,41
-Mantina 260,96 3.741] 14,41
-Patos De Minas 3.190,19 153.585 43,49]
-Patrocínio 2.874,34 91.449] 28,69)
-Presidente Olegário 3.503,74 19.627] 5,30]
-Rio Paranaíba 1.352,35 12.335 8,79]
-Santa Rosa Da Serra 284,33 3.357] 11,34]
-São Gonçalo Do Abaete 2.692,17 8.459] 2,33]
-São Gotardo 866,09 35.782] 36,74
-Serra Do Salitre 1.295,27 11.668 8,14]
-Tiros 2.091,77 6.424 3,30)
-Varjão De Minas 65L61 7138] 9,29)
+Matutina 260,96 3.741 14,41
+Patos De Minas 3.190,19 153.585 43,49
+Patrocínio 2.874,34 91.449 28,69
+Presidente Olegário 3.503,74 19.627 5,30
+Rio Paranaíba 1.352,35 12.335 8,79
+Santa Rosa Da Serra 284,33 3.357 11,34
+São Gonçalo Do Abaete 2.692,17 8.459 2,33
+São Gotardo 866,09 35.782 36,74
+Serra Do Salitre 1.295,27 11.668 8,14
+Tiros 2.091,77 6.424 3,30
+Varjão De Minas 651,61 7.138 9,29
 Total 27.608,18 459.161
 
  
 
  
 
- 
+Obs.: Dados pesquisados no site do IBGE.
 
-Obs.: Dados pesquisados no site do IBGE, no dia 05/05/2021
+, no dia 05/05/2021
 
 Página 1
+
+ 
 

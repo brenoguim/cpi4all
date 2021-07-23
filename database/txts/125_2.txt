@@ -1,4 +1,291 @@
-1apetaçar SEVANVISA - sadggoa - Nota Tóorica
+14/05/2021 SEI/ANVISA - 1445594 - Nota Técnica
+
+= ANVISA
+
+I Agência Nacional de Vigilância Sanitária
+
+NOTA TÉCNICA Nº 19/2021/SEI/GADIP-DP/ANVISA
+Processo nº 25351.912739/2021-40
+
+Informações sobre a existência de medicamento
+aprovado no Brasil e em outros países para o
+tratamento de pacientes com Covid-19.
+
+1. Relatório
+
+No âmbito da Comissão Parlamentar de Inquérito da Pandemia, o Senado Federal,
+mediante Requerimento nº 191/2021, solicitou informações sobre a existência de medicamento aprovado
+no Brasil e em outros países para o tratamento de pacientes com Covid-19.
+
+Para tal, solicita que seja enviada à CPI, em meio magnético, cópia integral de todos os
+documentos com as informações abaixo discriminadas:
+
+1. os medicamentos aprovados no Brasil e em outros países (em formato PDF);
+
+2. os laboratórios que desenvolveram os medicamentos aprovados no Brasil e em outros
+países (em formato PDF); e
+
+3. os fabricantes dos medicamentos aprovados no Brasil e em outros países (em formato
+PDF);
+
+2. Análise
+
+Para atendimento ao Requerimento nº 191/2021, foi conduzida pesquisa nos bancos de
+dados da Anvisa e sítios eletrônicos das Agências reguladoras dos Estados Unidos (FDA), Europa (EMA),
+Suiça (Swissmedic), Canadá (Health Canadá) e Japão (PMDA). Foi avaliada a existência de medicamentos
+sintéticos com registro válido para o tratamento de pacientes com Covid-19. Ressalta-se que todas
+as Agências Reguladoras mencionadas são membros do ICH (International Council For Harmonisation of
+Technical Requirements for Pharmaceuticals for Human Use) . O ICH é uma relevante iniciativa de
+harmonização regulatória global de requisitos técnicos para medicamentos de uso humano com
+participação principal de autoridades regulatórias, indústrias e várias organizações internacionais.
+
+Atabela abaixo resume as informações obtidas nas pesquisa:
+
+ 
+
+ 
+
+ 
+
+APROVADO
+LABORATÓRIO APROVADO NO | EM OUTROS
+MEDICAMENTO DESENVOLVEDOR) FABRICANTE(S) BRASIL? PAÍSES?
+QUAIS?
+VEKLURYº Gilead Sciences, Razão Social -Andersobrecon INC Sim. Registrado Sim.
+(rendesivir) Inc. Endereço - 4545 ASSEMBLY DRIVE - pela GILEAD Estados
+ROCKFORD, ILLINOIS (IL) 61109 SCIENCES Unidos (FDA)
+Cidade - ROCKFORD FARMACEUTICA | Europa (EMA)
+País - ESTADOS UNIDOS DA AMÉRICA | DO BRASIL LTDA Canadá
+Tipo de Fabricante - Internacional (CNPJ (Health
+Etapas de fabricação: 15.670.288/0001-| Canadá)
+- Embalagem secundária 89) Japão (PMDA),
+Austrália
+Razão Social - GILEAD SCIENCES, INC. (TGA), Suiça
+Endereço - 1800 WHEELER AVENUE, LA (SwissMedic)
+VERNE, CALIFORNIA (CA) 91750
+Cidade - CALIFORNIA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+file:///D:/USERS/assaife/AppData/Local/Microsoft/Windows/INetCache/Content.OutlookVHA3XOCQ/Nota Tecnica 1445594.html 1/4
+14/05/2021 SEI/ANVISA - 1445594 - Nota Técnica
+
+País - ESTADOS UNIDOS DA AMÉRICA
+Tipo de Fabricante - Internacional
+Etapas de fabricação:
+- Embalagem secundária
+
+ 
+
+Razão Social - HOSPIRA, INC.
+Endereço - 1776 NORTH CENTENNIAL
+DRIVE, MCPHERSON, KANSAS - 67460
+
+Cidade - MCPHERSON
+País - ESTADOS UNIDOS DA AMÉRICA
+Tipo de Fabricante - Internacional
+Etapas de fabricação:
+- Processo produtivo completo
+
+ 
+
+Razão Social - JUBILANT HOLLISTERSTIER
+LLC
+Endereço - 3525 NORTH REGAL STREET,
+SPOKANE, WASHINGTON 99207
+Cidade - SPOKANE
+País - ESTADOS UNIDOS DA AMÉRICA
+Tipo de Fabricante - Internacional
+Etapas de fabricação:
+- Processo produtivo completo
+
+ 
+
+Razão Social - PATHEON
+MANUFACTURING SERVICES LLC
+Endereço - 5900 MARTIN LUTHER KING
+JR. HIGHWAY, GREENVILLE, NORTH
+CAROLINA 27834
+Cidade - GREENVILLE
+País - ESTADOS UNIDOS DA AMÉRICA
+Tipo de Fabricante - Internacional
+Etapas de fabricação:
+
+- Processo produtivo completo
+
+ 
+
+Eli Lilly e Incyte
+Corporation.
+Fonte: Markham
+A. Baricitinib: | Não há informações sobre o fabricante
+
+First Global do medicamento no site do PMDA
+Olumiant | | Approval. Drugs. [(https:/Avww. pmda.go.jp/english/about:| Não. Sim. Japão
+(baricitinibe) 2017 pmda/0002.html). Há informação que o . (PMDA).
+Apr;77(6):697- | solicitante do registro é Eli Lilly Japan
+704. doi: KK.
+10.1007/s40265-
+017-0723-3.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PMID: 28290136.
+
+ 
+
+Por oportuno, informamos que foi aprovada, durante a 62 Reunião Extraordinária Pública
+da Diretoria Colegiada da Anvisa, a autorização para uso emergencial da combinação de dois anticorpos
+monoclonais para o tratamento de Covid-19. Abaixo estão as informações solicitadas.
+
+Produto: Casirivimabe e Imdevimabe (nome internacional: REGN-COV2)
+Empresa solicitante: Produtos Roche Químicos e Farmacêuticos S.A.
+
+Desenvolvedor e fabricantes:
+
+file:///D:/USERS/assaife/AppData/Local/Microsoft/Windows/INetCache/Content.OutlookVHA3XOCQ/Nota Tecnica 1445594.html 214
+14/05/2021
+RAZÃO SOCIAL
+
+SEI/ANVISA - 1445594 - Nota Técnica
+
+OPERAÇÃO
+
+CBPF
+
+ 
+
+Genentech, Inc.
+1000 New
+Horizons Way
+Vacaville,
+California, 95688,
+EUA
+(Genentech VV)
+
+Fabricação dos princípios ativos
+casirivimabe e imdevimabe, liberação
+do FDS (ativos formulados), IPC e
+testes de estabilidade do ativo
+
+CBPF válido publicado por meio da Resolução RE
+nº1.378 de 05/04/2021, DOU de 06/04/2021.
+
+Insumos farmacêuticos ativos biológicos:
+ocrelizumabe, pertuzumabe, rituximabe
+,trastuzumabe, casirivimabe e imdevimabe
+
+ 
+
+Genentech Inc.
+4625 NE
+Brookwood
+Parkway,
+Hillsboro,
+Oregon, 97124,
+EUA
+(Genentech HTO)
+
+Fabricação do produto terminado a
+granel (até a embalagem primária)
+
+CBPF válido publicado por meio da Resolução RE
+nº1.940 de 10/06/2020, DOU de 15/06/2020.
+
+Produtos estéreis: Pós Liofilizados; Soluções
+Parenterais de Pequeno Volume com Preparação
+Asséptica.
+
+ 
+
+F-Hoffmann La
+Roche Ltd,
+Wurmisweg,
+4303 Kaiseraugst,
+Suíça
+
+ 
+
+ 
+
+Embalagem secundária
+
+ 
+
+CBPF válido publicado por meio da Resolução RE
+nº4.720 de 18/11/2020, DOU de 23/11/2020.
+
+Produtos estéreis (Cefalosporínicos): Pós com
+Preparação Asséptica; Soluções Parenterais de
+Pequeno Volume com Esterilização Terminal.
+Produtos estéreis: Pós Liofilizados; Soluções
+Parenterais de Pequeno Volume com Esterilização
+Terminal; Soluções Parenterais de Pequeno
+Volume com Preparação Asséptica.
+
+ 
+
+ 
+
+Indicação terapêutica aprovada: Casirivimabe e imdevimabe são indicados para o
+tratamento da doença causada pelo coronavírus 2019 (COVID-19) em adultos e pacientes pediátricos (12
+anos de idade ou mais que pesem no mínimo 40 kg) que não necessitam de suplementação de oxigênio,
+com infecção por SARS-CoV-2 confirmada por laboratório e que apresentam alto risco de progressão para
+
+Covid-19 grave.
+
+Alto risco é definido como pacientes que atendem a pelo menos um dos seguintes critérios:
+
+Ter índice de massa corporal (IMC) > 35
+
+Ter doença renal crônica
+
+Ter diabetes
+
+Ter doença imunossupressora
+Ter >65 anos de idade
+
+Ter >55 anos de idade Eter:
+
+- Doença cardiovascular, OU
+
+- Hipertensão, OU
+
+- Doença pulmonar obstrutiva crônica / outra doença respiratória crônica.
+
+Ter entre 12 e 17 anos de idade E ter:
+
+- IMC > 85º percentil para sua idade e sexo com base nos gráficos de crescimento do CDC
+(Centers for Disease Control and Prevention), https://www.cdc.gov/growthcharts/clinical charts.htm, OU
+
+- Doença falciforme, OU
+
+- Doença cardíaca congênita ou adquirida, OU
+
+file:///D:/USERS/assaife/AppData/Local/Microsoft/Windows/INetCache/Content.OutlookVHA3XOCQ/Nota Tecnica 1445594.html
+
+3/4
+14/05/2021 SEI/ANVISA - 1445594 - Nota Técnica
 - Distúrbios de neurodesenvolvimento, por exemplo, paralisia cerebral, OU
 
 - Dependência tecnológica relacionada à medicina, por exemplo, traqueostomia,
@@ -10,43 +297,48 @@ para controle.
 A associação casirivimabe e imdevimabe foi aprovada para uso emergencial também nos
 Estados Unidos (FDA), Suiça (Swissmedic) e Europa (EMA).
 
- 
-
 Por fim, a associação banlanivimabe e etesevimabe teve pedido de uso emergencial
-solicitado na Anvisa em 29 de março de 2021, o qual se encontra em análise, Tal associação teve seu uso
+solicitado na Anvisa em 29 de março de 2021, o qual se encontra em análise. Tal associação teve seu uso
 emergencial aprovado nos Estados Unidos (FDA) e Europa (EMA).
 
 3. Conclusão
-Diante do exposto, considera-se atendido o requerimento nº 191/2021-CPIPANDEMIA uma
 
+Diante do exposto, considera-se atendido o requerimento nº 191/2021-CPIPANDEMIA uma
 vez que foram apresentadas as informações sobre a existência de medicamento aprovado no Brasil e em
 outros países para o tratamento de pacientes com Covid-19.
 
  
 
- 
-
- 
-
 Documento assinado eletronicamente por Anna Paula Oliveira Faria, Assessor(a), em 10/05/2021, às
-19:07, conforme horário oficial de Brasília, com fundamento no art. 6º, 5 1º, do Decreto nº 8.539, de
-
-8 de outubro de 2015 http://wwwplanalto.govbr/ccivil 03/ Ato2015-
+19:07, conforme horário oficial de Brasília, com fundamento no art. 6º, & 1º, do Decreto nº 8.539, de
+8 de outubro de 2015 http://www. planalto.gov.br/ccivil 03/ Ato2015-
 2018/2015/Decreto/D8539.htm.
 
-       
-   
+seil
+eletrônica
+
+  
+ 
+
+  
 
  
 
-A autenticidade deste documento pode ser conferida no site https://sei anvisa gowbr/autenticidade,
-formando o código verificador 1445594 e o código CRC DAZA7560.
+ 
+  
+
+E A autenticidade deste documento pode ser conferida no site https://sei.anvisa.gov.br/autenticidade.
+= informando o código verificador 1445594 e o código CRC DAZA7560.
 
  
 
  
 
-Referência: Processo 8 25351.912739/2021-40 SEIT LAA55SA
+ 
 
-An AUS ER fomalfA pp Dt a orgao honor Ou oc VHARXCOCQ Not Toonloa 1446094 Hi aja
+Referência: Processo nº 25351.912739/2021-40 SEI nº 1445594
+
+file:///D:/USERS/assaife/AppData/Local/Microsoft/Windows/INetCache/Content.OutlookVHA3XOCQ/Nota Tecnica 1445594.html
+
+414
 

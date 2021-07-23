@@ -1,10 +1,157 @@
-sapeizçor SEVANVISA - 1444289 - Nota Técnica
+14/05/2021 SEI/ANVISA - 1444269 - Nota Técnica
+
+= ANVISA
+
+l Agência Nacional de Vigilância Sanitária
+
+NOTA TÉCNICA Nº 15/2021/SEI/GADIP-DP/ANVISA
+
+Processo nº 25351.912739/2021-40
+
+Informações sobre a quantidade de medicamentos do
+kit tratamento precoce que foram comercializados
+antes e durante o período da pandemia nas farmácias
+comerciais.
+
+1. Relatório
+
+No âmbito da Comissão Parlamentar de Inquérito da Pandemia, o Senado Federal,
+mediante Requerimento nº 35/2021, solicitou que a Anvisa preste informações acerca da quantidade de
+medicamentos do kit tratamento precoce foram comercializados antes e durante o período da pandemia
+nas farmácias comerciais.
+
+2. Análise
+
+Com relação ao tratamento de pacientes com COVID-19, encontra-se registrado nesta
+Agência o medicamento Veklury, cujo princípio ativo é rendesivir, em nome da empresa Gilead Sciences
+Farmacêutica do Brasil.
+
+Conforme a bula do medicamento, sua indicação é:
+
+Vekluryº é indicado para o tratamento da doença causada pelo coronavírus de 2019 (COVID-19) em
+adultos e adolescentes (com idade igual ou superior a 12 anos e com peso corporal de, pelo menos,
+40 kg). O medicamento somente será administrado para pacientes com pneumonia que precisam
+de oxigênio extra para ajudá-los a respirar, mas que não estejam sob ventilação artificial (quando
+são usados meios mecânicos para auxiliar ou substituir a respiração espontânea).
+
+Informamos, ainda, que foi aprovada, durante a 6º Reunião Extraordinária Pública da
+Diretoria Colegiada da Anvisa, a autorização para uso emergencial da combinação de dois anticorpos
+monoclonais para o tratamento de Covid-19, Casirivimabe e Imdevimabe (nome internacional: REGN-
+cov2).
+
+A indicação terapêutica aprovada dessa associação (casirivimabe e imdevimabe) é o
+tratamento da doença causada pelo coronavírus 2019 (COVID-19) em adultos e pacientes pediátricos (12
+anos de idade ou mais que pesem no mínimo 40 kg) que não necessitam de suplementação de oxigênio,
+com infecção por SARS-CoV-2 confirmada por laboratório e que apresentam alto risco de progressão para
+Covid-19 grave.
+
+Alto risco é definido como pacientes que atendem a pelo menos um dos seguintes
+
+critérios:
+. Ter índice de massa corporal (IMC) > 35
+. Ter doença renal crônica
+. Ter diabetes
+. Ter doença imunossupressora
+. Ter >65 anos de idade
+. Ter 55 anos de idade E ter:
+
+- Doença cardiovascular, OU
+
+file:///D:/USERS/assaife/AppData/Local/Microsoft/Windows/INetCache/Content.OutlookVHA3XOCQ/Nota Tecnica 1444269.html 1/3
+14/05/2021 SEI/ANVISA - 1444269 - Nota Técnica
+- Hipertensão, OU
+
+- Doença pulmonar obstrutiva crônica / outra doença respiratória crônica.
+. Ter entre 12 e 17 anos de idade E ter:
+
+- IMC > 85º percentil para sua idade e sexo com base nos gráficos de crescimento do CDC
+(Centers for Disease Control and Prevention), https://www.cdc.gov/growthcharts/clinical charts.htm, OU
+
+- Doença falciforme, OU
+- Doença cardíaca congênita ou adquirida, OU
+- Distúrbios de neurodesenvolvimento, por exemplo, paralisia cerebral, OU
+
+- Dependência tecnológica relacionada à medicina, por exemplo, traqueostomia,
+gastrostomia ou ventilação com pressão positiva (não relacionada ao COVID-19), OU
+
+- Asma, via aérea reativa ou outra doença respiratória crônica que requer medicação diária
+para controle.
+
+Por oportuno, esclarecemos que após a aprovação de um medicamento para uma
+determinada indicação terapêutica, outras indicações podem vir a ser estudadas, e então submetidas à
+Anvisa, as quais poderão vir a ser aprovadas e passarão a constar na bula.
+
+Uma vez comercializado o medicamento, é possível que um médico queira prescrevê-lo
+para seu paciente com uma indicação diferente da aprovada. Quando o medicamento é empregado
+nestas situações está caracterizado o uso off label do medicamento, ou seja, o uso não aprovado, que
+não consta no texto de bula.
+
+A respeito desse assunto, o Conselho Federal de Medicina emitiu o Parecer CFM nº
+
+2/2016, disponível no endereço http://www.portalmedico.org.br/pareceres/CEM/2016/2 2016.pdf, no
+qual consta:
+
+"Os procedimentos médicos off label são aqueles em que se utilizam materiais ou fármacos fora das
+indicações em bula ou protocolos e correm por conta de cada médico que o prescreve ou executa.
+
+Ao CRM/CFM compete julgar os insucessos sob a ótica do risco a que o médico submeteu seu
+paciente."
+
+Desse modo, não cabe à Anvisa manifestação quanto ao uso off label de medicamentos,
+sendo esta uma prerrogativa do profissional prescritor no âmbito de sua atuação.
+
+A respeito da solicitação dos dados de comercialização, informamos que, em virtude da
+recente aprovação dos medicamentos supracitados, os dados de sua comercialização, que ocorreu
+apenas em 2021, ainda serão recepcionados mediante a entrega dos Relatórios de Comercialização no
+segundo semestre desse ano.
+
+3. Conclusão
+
+Diante do exposto, informamos que o medicamento rendesivir está registrado nesta
+Agência para tratamento de pacientes com COVID-19 e a associação casirivimabe e imdevimabe teve seu
+uso emergencial aprovado para utilização no tratamento de pacientes com COVID-19.
+
+ 
+
+Documento assinado eletronicamente por Anna Paula Oliveira Faria, Assessor(a), em 10/05/2021, às
+18:18, conforme horário oficial de Brasília, com fundamento no art. 6º, $ 1º, do Decreto nº 8.539, de
+8 de outubro de 2015 http://www.planalto.gov.br/ccivil 03/ Ato2015-
+2018/2015/Decreto/D8539.htm.
+
+   
+
+  
+
+seil a,
+
+assinatura
+eletrônica
+
+    
+ 
+
+ 
 
  
 
  
 
-Bofacência: Processo rf 25351.912738/221-40 SEInE IA4426S
+ 
 
-An AUSERS fomalfA pp Dt oa orgao Açu Phone Ou ci HARXOCQ Not Tocnloa 1444289 ri ”
+:/USERS/assaife/AppData/Local/Microsoft/Windows/INetCache/Content.OutlookVHA3XOCQ/Nota Tecnica 1444269.html 213
+14/05/2021 SEI/ANVISA - 1444269 - Nota Técnica
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25351.912739/2021-40
+
+file:///D:/USERS/assaife/AppData/Local/Microsoft/Windows/INetCache/Content.OutlookVHA3XOCQ/Nota Tecnica 1444269.html
+
+SEI nº 1444269
+
+3/3
 

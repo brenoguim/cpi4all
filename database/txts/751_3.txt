@@ -1,7 +1,9 @@
-08/06/2021 SEIPF - 18672959 - Despacho
+08/06/2021 SEI/PF - 18672959 - Despacho
+
+ 
 
 SERVIÇO PÚBLICO FEDERAL
-MISP - POLÍCIA FEDERAL
+MUSP - POLÍCIA FEDERAL
 COORDENAÇÃO-GERAL DE POLÍCIA JUDICIÁRIA - CGPJ/COGER/PF
 
 Assunto: Solicitação de informações. (Prazo: 05 dias úteis)
@@ -10,7 +12,7 @@ Processo: 08200.008810/2021-01
 
 Interessado: CPIPANDEMIA/SENADO FEDERAL
 
-1 De acordo com o despacho DELP 18667686, no qual restou consignado o que segue:
+1. De acordo com o despacho DELP 18667686, no qual restou consignado o que segue:
 
 a. Resposta ao ofício nº 105/2021-CPIPANDEMIA (18645022) informando a
 vedação de fornecimento do conteúdo de inquéritos policiais em razão das regras
@@ -22,40 +24,41 @@ avaliação de seus respectivos presidentes, ou de autorização judicial espec�
 b. Resposta ao ofício nº 436/2021-CPIPANDEMIA (18645132), com
 a possibilidade de fornecimento, pela área especializada (CGRC/DICOR/PF), dos
 dados estatísticos das investigações realizadas sobre a temática relacionada a
-desvios de verbas destinadas ao combate da COVID - 19;
 
-2. ACOGER.
+desvios de verbas destinadas ao combate da COVID - 19;
+2. À COGER.
 
 Cesar de Freitas Xavier
 Delegado de Polícia Federal
 
-  
-      
- 
-     
+        
+
+   
+
+seil a
+
+eletrônica
 
 Documento assinado eletronicamente por CESAR DE FREITAS XAVIER, Coordenador(a) - Geral, em
-07/05/2021, às 14:51, conforme horário oficial de Brasília, com fundamento no art. 6º, 5 1º, do
+07/05/2021, às 14:51, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
 Decreto nº 8.539, de 8 de outubro de 2015.
 
-  
-
  
 
-[E] A autenticidade deste documento pode ser conferida no site
-https//seidpf gov br/sei/controlador externo.php?
+A autenticidade deste documento pode ser conferida no site
 
-à acao=documento. conferir&id orgao acesso externo=0, informando o código verificador 18672959
-ódigo CRC 61CELB91.
-É eo cói
+http://sei.dpf.gov.br/sei/controlador externo.php?
 
- 
+acao=documento conferir&id orgao acesso externo=0, informando o código verificador 18672959
+eo código CRC 61CE1B91.
 
  
 
  
 
-Referência: Processo nº 08200.008810/2021-01 SEInº 18672959
+ 
 
-fle:MU/COCETUCPICPIPANDEMIAdocumentos recebidosídocs baixados/doc 751 PF ostensivolDespacho, 18672958 html n
+Referência: Processo nº 08200.008810/2021-01 SEI nº 18672959
+
+file:///U:/COCETI/CPWCPIPANDEMIA/documentos recebidos/docs baixados/doc 751 PF ostensivo/Despacho 18672959.html 144
 

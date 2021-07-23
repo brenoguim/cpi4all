@@ -1,130 +1,358 @@
-jan/21 fev/21 mar/21 abr/21 mai/21 era)
-Operacionais instalados Operacionais Instalados Operacionais Instolados Operacionais Instslados Operacionais Insialados
-
-165] 170 E 174 176. 182 176 201 176.
-6: GO Sor ns 6 nr 5 SPL INS 11 567 E
-
-Especialidades.
-
-     
-       
-       
-  
-      
-  
-   
-
-   
-
-    
-  
-
-   
-      
- 
-
-  
-     
-    
- 
-
-    
-   
-
-    
-
-    
-
-      
-
-Hospital (Total)
-idades Cirú
-
-    
-
-       
- 
-  
-
-     
-
- 
-
-bas
-
-FIT
-
-     
-
-     
-
- 
-
- 
-
-    
-
-  
-
-   
  
 
  
 
  
 
-ES NESCUTAT sai áhe Sn ae Sa a ta
-
-  
  
 
-        
-  
-
-le seÃõa 14 5
-Eita astra cet mana
-Pes aca io
-
-str io ação, onda
-
- 
-     
  
 
-   
-
-Map Emparn as tetaço she sal
-[eo kpreanána emacs cocranaçioams ext eme rações sarro coesão, consomem
-
-Unidades fechadas 30
-UTI adulto B
-UI adulto (UPG e isolamento) 6 6 6 6 6
-UTI pediátrica 6 6 6 6 6
-UI pediátrica
-
-Unidade de pós-operatório
-Emergência
-Pronto socorro adulto E 7 7 37 33
-[Outros profissionais de saúde
-[Odontologia] Z
-Hospital-dia]
-
-    
-      
-
-     
-    
  
- 
-  
 
-  
-  
-   
  
-  
 
-  
-  
-   
+ 
+
+ 
+
+ 
+
+Jon(16, Eferpi] mar/16 abr/16 mai/16 Ene] ue] 280/16 Eaaittd qut/16 nov/16 dez/16
+ospii oa E zo E zo E zo 51 zo 2 zo 5, zo E zo Ts, zo ES zo E zo 15, zo 1, zo
+Especialidades Crirgicar E E E E E E E E E E E E E E E 7 E T E T E T T T
+Erurgiacerar = = = z = = = = 7 = = = = 7 5 2 ES 2 7 2 ES 2 2 7
+rua peánica 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+Cirurgia vascuar 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+eoicprocttogia 3 3 3 3 a a a a a a a a a a 7 7 7 7 7 7 7 7 7 7
+Gnccciogia 2 2 2 2 3 B 3 B B 3 B 3 B B B B 1 B B B B 1 B B
+urciogia 18 8 18 8 8 18 8 18 8 8 18 8 18 8 8 E a E a a a a 18 a
+Especialidade Cirúrgica ão Identicada 5 5 5 5 2 2 2 2 2 2 2 2 2 2 2 2 1 2 1 2 1 2 2
+Especialidades Clínicas E E E E E E E) E 5 E 5 E 5 E E E E E E E E E E E
+Carcologa 5 7 9 7 7 4 7 7 7 5 7 E 7 T T T T T
+cónica ésca a a a a » a » a a » a » a » » » » a » » » » a »
+Gasroemtercigia 9 9 9 9 10 Fa 9 Fa 6 10 7 10 Fa 10 9 10 9 10 10 10 10 10 10 10
+eirotoga 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+Pneumologia 3 B B B u u u u B u 8 u 8 u B u “ 1a “ “ “ “ a “
+Espociatidade cânica não Idemtficada a 10 a 10 1 7 1 7 1 7 1 7 1 2 1 2 1 7 1 2 1 2 2
+Pedisria E 5 5 5 5 E E E 5 E A E 5 E E E = = E = E = = =
+Emergência Pasta (U. Fechada) E E E E E E E E E E E E
+Emergência Plantão (U. Fechada) E E 7 E E E E E E = ES E
+D. de Cuidados Intensivos (U. Fechada = E E E 2 E E E = E 3 E 3 E 3 E 5 E E E 5 E E E
+Ui furo 17 E 7 E 7 18 7 18 7 E E E E E 7 18 7 18 7 E E E 18 E
+ui nduto s s s s s s s s s 4 s s s s s
+um Peárica s 6 s 6 s 6 s 6 s 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+unidade de Pacientes Graves 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+
+ 
+
+ 
+
+Notas Leitos Istalados de Celoproctdlegia e Grugia Vascular contabilizados de acordo com Censo interno
+Especialidade Cirúrgica/Cânica não identificada faz menção às internações extracdinárias (Odonto/Endoscogia/Onco teuroyRcumato)
+UI Add faz menção à estrutura que anteicemente abrigava a UI Coronariana
+
+O Serviço de Emergência conta com leitos de observação em sua essência, entretanto, situações contingenciais obrigam à conversão de leitos extras de internação, quando necessário.
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Jen/17 fev/17 mar/17 abr/17 mai/17 Jun/17 Juifaz ago/17 set/17 out/17 nov/17 dez/17
+[Hospital (rota EC CE 6 15 156 186 — 16 — JE — te 157 M6 77 16 15 16 Ja DE IG 16 162 16 dm 156
+Especialidades Crúrgicas E = 7 = 7 = 7 = 7 = TZ, = Z = 7 E EO E E E 7 E E E
+irurgia Gerar = 3 = 3 E 3 E 3 E 3 = 3 z 3 = 3 a 3 a 3 a 3 a 3
+cirurgia Pediávica a a a a a a a a a a a a a a a 4 a 4 a 4 a 4 4 4
+cirurgia Vascular 6 6 6 6 6 6 6 6 6 6 6 6 3 6 6 6 6 6 6 6 6 6 a 6
+oloprociatogia 2 s 7 7 7 6 s 7 3 1 1
+
+Ginecologia B 1 B 1 B 1 B 1 B 1 B 1 B 1 2 1 2 1 2 1 2 1 B 1
+[odontologia 2 2 3 3 3 3 3 3 3 3 3 3
+
+urciogia 8 18 8 18 2 18 2 18 2 18 2 18 8 18 8 18 e 18 e 18 e 18 e 18
+Especialidade Cirúrgica Não identificada 1 2 1 2 1 2 1 2 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2
+Especialidades Cínicas SE a SE a SE a 5 a E a E a T a E a 5 a 3 a = a = a
+[Cardiologia T T T T T T T T T T T T
+tínica médica » 2 » 2 » 2 » 2 5 2 2 2 5 2 1 2 5 2 5 2 a 2 u 2
+Icastroenteralogia, 1 10 1 10 1 10 6 10 6 10 8 10 7 10 3 10 3 10 10 10 10
+ncfrologia 7 7 7 7 7 7 7 7 7 7 7 7 7 7 s 7 3 7 6 7 6 7 6 7
+[Pneumologia u u u u u u u u u u u u u u 2 u B u 10 u a u a u
+Especialidade cínica Não identificada 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+Pediatria. 5a JE 7 JE 7 JE E JE E JE 7 JE JE JE JE E ES E a E JE E JE E
+[Emergência Pediátrica U. Fechada E E E E E E E E E E E E
+Emergência / Plantão (U. Fechada) Z H Z JE z = Z E TZ E = a
+
+D. de Cuidados intensivos (U. Fechada E E E E E E E E 5, 5 E E E E E E 5, E E E = E = E
+Uri Adulto E E] E E] E E] E E] E E] E E] E E] E E] E E] 7 E] 7 E] T E]
+ui duto. s s s s s s s s s s s s
+um Pesiática 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 s 6 s 6
+unidade de Pasientes Graves. 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+
+ 
+
+Mota: Leitos Instalados de Coloproctologa e Cirurgia Vascular contabilizados de acorda com Censo interno
+
+Especialidade Cirúrgica/Clnica não identificada faz menção às internações extraordinárias (Odonto/En dascapia /Onco Neuro Reumato)
+
+UI Adulto faz menção à estrutura que anteriormente abrigava a UI Coronariana
+O Serviço de Emergência conta com leitas de observação em sua essência, entretanto, situações contingenciais obrigam à conversão de leitos extras de internação, quando necessário.
+
+ 
+ana] ey! [Rei [Ee] ça] [a RAE! [Res] Reis! foi! ra] (dez)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+spa ata Ts 50, o Tm EE E] Ts, EI Ts E] o EI Ts E] e Te 61, e 6a Te 15 e E Te
+Especisdades rirgesr E 7 E 7 = z E z E = E z E = E z E = E z s = z
+longa Gera E 27 E 27 2 3 3 E 25 E 25 E E E 27 7 = = = = E = 7 =
+nua pesáca a a a a a a a a a a a a a a a a a a a a a a a a
+nua vascutar 6 6 6 3 6 6 ç ç ç ç ç ç
+eotoeocitogia 1 7 1 7 5 6 6 5 5 6 5 6 a 6 5 . 5 6 5 6 5 6 5 6
+inectoga B B B B n 2 n 2 n 2 n 2 10 2 s 2 a 2 a 2 a 2 a 2
+sono 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 2 3 3
+Traga TE TE TE TE T TE TE TE TE TE E TE TE TE E E E E E E E E E E
+Especidades Ciniess 2 E = E 2 E Jo E Jo E = E Jo E 3 5 JE 5 JE 5 3 5 JE 5
+Esracoga 7 7 7 7 7 7 7 7 7 7 7 7
+anicattédes a a a a 1» a 1» a 1» a 5 a E a 19 a » 2 » 2 a 2 » 2
+(oasroemercoga 10 10 10 10 10 10 10 10 7 7 7 7
+etrtoçia 5 7 e 7 s 7 s 7 s 7 s 7 s 7 6 7 . 7 . 7 . 7 . 7
+ercumotgia s u 5 u 7 u 5 u 5 u 5 u Z u s a & a É a É a & a
+edita E E E E E E E E TE E a E E E E E TE E E E E E TE E
+Emergências Padtánia (O Fecada] 5 s 5 s 5 s 5 s E E E E
+Emergência /Plamão(u. Fechada) = = = = E = E E = E = =
+
+0.deCuldados Intensivos (U. Fechada 2 E 2 E = E = E z E z E Jo E E E = E = E E E E E
+mira E TE E E 16 TE 16 E 7 TE 7 T T 3 a T 7 3 T T 7 3 T T
+urso s 5 s 5 s 5 s 5 s 5 s 5
+um peca s ç s ç s ç s ç e ç e ç e ç e ç s ç s ç s ç s ç
+unidade de Pacientes Graves ç 6 ç 6 ç 6 ç 6 6 6 6 6 6 6 6 6 ç 6 ç 6 ç 6 ç 6
+unidade de pós Operatóio 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+
+Unidade Pé-Ooeratóriodesdobrada da estrutura do Cr a parte e junho.
+UI eo faz menção à estrutura que anteriormente abriga a UlCoronaiana
+
+Per limitações doSCHESos leitos de Guia Vascular e Coloproctcoga integram o quantitativo deeios instalados a CrurgiaGeat
+
+O leitos de Hospitaia não entram no câmputo de leitos operacinais ac a sua nature espedica
+
+O Servico de Emergência conta com leitos de observação em sua essência, entretanto, situações contingenciais obrigam à convers So de leitos extras deintemação, quandonecessário.
+Pn/19 fev/19 mar/19 abr/19 mai/19 Jun/19 Juris ago/19 set/19 out/19 nov/19 de/19
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[aspira 6 NO 16 JH JJ JE Ná NO JE JH JM JE 16 5 16 JH JJ JH 165 5 15 im dm im
+Especialidades Ciirgcas] E E E E E E si E E E E &
+irurgia gerar z 3 a 3 E 3 E 3 a 3 a 3 E 3 E 3 a 3 a 3 a 3 E 3
+Cirurgia pesiátrca 4 2 4 2 4 2 4 2 4 2 4 2 2 2 2 2 2 2 2 2 2 2 2 2
+Cirurgia vascuar 6 4 Ê 5 6 6 5 o 5 o 5 o 5 5 5
+oloproctologia 5 5 5 6 5 5 5 o o 5 o 5 6
+
+Ginecologia 3 2 2 2 2 2 a 2 10 2 2 2 a 2 a 2 2 2 a 2 2 2 2
+urciogia £ e E e z z 5 z E z % e E e e e e e e e e z e
+Especialidades Cinicas o E 5 E E E 5 E sa 55 E E E E E 7 E E E sá E E E
+Clinica médica a E = E » E 25 E » E » a » a % a 25 a » a » a 3 a
+Iverologa 5 6 7 6 6 7 6 7 6 7 6 7 7 6 6 6 6
+
+Pesiatio a 10 a 10 u 10 5 10 “ 10 a 5 5 5 10 5 a 5 a 5 2 5 a 5
+Pneumologia, 2 e 2 e 1 E E E 1 E 2 7 2 7 2 7 B 7 B 7 2 7 B 7
+Unidades techadar % 3 = = = = = = = = E E 5 5 3 5 = 5 E 5 3 5 E 5
+UTiadurto 2 15 2 15 = 1 3 1 3 15 3 3 3 3 3 3 z 3 E 3 70 3 5 3
+Utaduto 5 5 5 5 5 6 6 6 6 6 6 6 6 6 o 6
+uripeciárrica 5 7 5 7 5 5 7 5 7 o o 6 6 5 6 5 6 6 6 5 6 5 6
+urigade de pôscoperatório 5 5 5 5 5 5 5 5 5 5 5 5 5 2 5 2 5 4 5
+Emergência 5 E E E 5 E E E E E = E E T E T E T A T E T A T
+Pronto socorro Saul E) E = E = E E E a E 2 E 7 2 7 2 B 2 a 2 E 2 a 2
+[Ouros profissionais de saúde 3 o 3 o 3 o 3 o 3 o 3 o o o o o o o o õ o õ o õ
+Odontologia” z z 0 0 0 0 0
+
+[ospitataia 5 5 E E E E o 5 o 5 5 E E E
+
+ 
+
+Por imitações do SCNES os leitos de Cirurgia Vascular e Coloproctologia integram o quantitativo de leitos instalados da Cirurgia Gera!
+Os leitos de Hospital-Dia não entram no cômputo delitos operacionais dada a sua natureza específica
+O Serviço de Emergência conta com leitos de observação em sua essência, entretanto, situações contingenciais obrigam à conversão de leitos extras de internação, quando necessário.
+Jan/20 fev/20 mar/20 abr/20 mai/20 Jun/20 Jui/20 ago/20 set/20 out/20 nov/20 dez/20
+Opacomis sois Onoaconie  tnsoinhs Onoaconis  hnsoinds Onoacionit  hstdados Ononimis  hstdados Oponimis sidade: Oponimis sidade: Oponimis  tntdados Operaimis  utándos Opernimis ntánios Opernimis utásios Opernimis  tntánios
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[HospialtTotai) E 155 167 155 E 155 150, 155 JA 100 22 100 EE 100 E 16 160 176 156, 176 156, 176 E 176
+Especialidades Cirúrgicas Es EE E EE E EE Es EE E E E E E E E Es 5 é 5 é TE é E é
+[Cirurgia geral 2 3 2 3 2 3 2 3 26 a 26 a 26 a 5 3 E 3 E 3 56 3 E 3
+cirurgia pesliátrica 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+cirurgia vascular 6 6 5 5
+
+[Coloproctologia 6 6 6 6
+
+Ginecologia 2 2 u 2 2 2 2 2 2 2 2 2 2
+Urologia 18 18 v 18 16 18 18 18 4 4 4 1 1 1 1 1
+Especialidades Clínicas E E E E E E E E E EH 35 = Er E E E E E E E E E
+nica médica 24 Em 2 Em 3 Em 29 Em 58 E E E 2 E a 36 a 36 3 36 E 36 3 36
+Netrologia, 6 7 6 7 s 7 6 7 6 6 6 6 6
+Pediatria 10 15 u 15 2 15 15 15 6 15 15 15 u 15 u 15 u 15 u 15 u
+Pneumologia 15 v 15 v 2 v 16 v 8 8 4 8 8 2 9 2 a 2 4 2 a 2
+Unidades fechadas. 20 30 27 30 27 30 29 30 2 3 26 3 2 3 29 3 28 3, 28 3, 29 3, 28 3,
+UTI aduito 5 E E E E E E E E 5 E 5 E 5 E B B B B B B B B B
+Ut adulto (UPS) 5 5 5 5 5 5 5 5 5 5 5 5 5 5 z 5 E 5 E 5 E 5 E
+umipesiárrica, s 6 s 6 s 6 s 6 s 6 s 6 s 6 6 6 5 6 5 6 6 6 6 6
+Unidade de pós-operatório 4 s s s s s s s 1 s 3 s s s 4 s 4 5 4 5 4 5 3 5
+Emergência a 2 v 2 a 2 20 2 v o 15 o v o a o a o a o a o 2 o
+Pronto socorro adulto 2 2 v 2 mn 2 20 2 v E v mn a B a za
+Hosprtal-ia E E E E z z z E E E E E
+
+ 
+
+ 
+
+ 
+
+Por limitações do SCNES os leitos de Cirurgia Vascular e Coloproctologia integram o quantitativo de leitos instalados da Cirurgia Geral
+Os leitos de Hospital-Dia não entram no cômputo de leitos operacionais dada a sua natureza específica
+O Serviço de Emergência conta com leitos de observação em sua essência, entretanto, situações contingenciais obrigam à conversão de leitos extras de internação, quando necessário.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Especialidades jan/21 fev/21 mar/21 abr/21 mai/21
+Operacionais — Instalados — Operacionais  Instalados — Operacionais  Instalados Operacionais — Instalados Operacionais Instalados
+
+Hospital (Total) 165 176 170 176 174 176 182 176 201 176
+Especialidades Cirúrgicas 61 65 59 65 59 65 58 65 56 65
+Cirurgia geral 23 33 24 33 24 33 23 33 27 33
+Cirurgia pediátrica 2 2 2 2 2 2 2 2 2 2
+Cirurgia vascular 6 6 6 6 6
+Colo proctologia 3 3 3 3
+Ginecologia 12 12 9 12 9 12 9 12 6 12
+Urologia 15 18 15 18 15 18 15 18 15 18
+Especialidades 56 68 58 68 59 68 62 68 80 68
+Clínica médica 29 36 29 36 29 36 30 36 51 36
+Nefrologia 2 6 2 6 6 6 6
+Pediatria 15 14 15 14 15 14 15 14 15 14
+Pneumologia 10 12 12 12 15 12 17 12 14 12
+COVID 11 11 11 12
+Unidades fechadas 28 37 30 37 30 37 30 37 30 37
+UTI adulto 13 13 13 13 13 13 13 13 13 13
+Uladulto (UPG e isolamento) 6 8 6 8 6 8 6 8 6 8
+UTI pediátrica 6 6 6 6 6 6 6 6 6 6
+UI pediátrica 5 5 5 5 5
+Unidade de pós-operatório 3 5 5 5 5 5 5 5 5 5
+Emergência 20 0 23 0 26 0 32 0 33 0
+Pronto socorro adulto 20 23 26 32 33
+Outros profissionais de saúde 0 0 0 0 0 0 0 0 2 0
+Odontologia 2
+Hospital-dia 6 6 6 6 6
+
+ 
+
+ 
+
+ 
 

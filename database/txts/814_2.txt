@@ -1,72 +1,611 @@
-Pa 7 ESBEXO ÚNICO sega
+ANEXO ÚNICO
+
+Tabela 1 — Leitos de UTI Adulto sob gestão estadual
+
+Quantidade de |Taxa de ocupação | Taxa de ocupação
+
+Mês/Ano leitos de UTI mensal média - anual
+
+jan/18 25 96,41
+
+fev/18 25 96,20
+
+mar/18 25 95,55
+
+abr/18 25 97,25
+
+mai/18 25 95,23
+
+jun/18 25 97,155
+
+ao = 59,78 108,08
+ago/18 25 98,66
+
+set/18 25 149,51
+
+out/18 25 144,66
+
+nov/18 25 130,90.
+
+dez/18 34 95,72
+
+jan/19 34 87,63
+
+fev/19 34 89,01
+
+mar/19 34 94,15
+
+abr/19 34 76,14
+
+mai/19 34 88,24
+
+jun/19 34 82,97
+
+jul/19 34 92,45 89,34
+ago/19 34 97,12
+
+set/19 34 84,74
+
+out/19 34 91,40
+
+nov/19 34 93,43
+
+dez/19 34 94,84
+
+jan/20 34 89,18
+
+fev/20 34 96,46
+mar/20 34 94,57
+
+abr/20 64 57,15
+
+mai/20 108) 72,44
+
+jun/20 122 82,67 69,56
+jul/20 138 62,88
+
+ago/20 143 53,27
+
+set/20 136 63,14
+
+out/20 148 53,99
+
+nov/20 152 51,09
+dez/20 155 57,94
+
+jan/21 190 64,72
+fev/21 205 72,15
+74,77
+mar/21 234 82,02
+abr/21 234 80,20
+
+Fonte: NIR e núcleos de epidemiologia das unidades hospitalares sob gestão da SESAU
+
+Tabela 2 — Leitos de UTI Pediátrica sob gestão estadual
+
+Quantidade de | Taxa de ocupação | Taxa de ocupação
+
+Mês/Ano leitos de UTI mensal média - anual
+jan/18 10 94,52
+fev/18 10 86,21
+mar/18 10 89,6
+abr/18 10 95,23
+mai/18 10 94,19
+jun/18 10 100,00]
+93,59
+jul/18 10 96,13
+ago/18 10 92,88
+set/18 10 93,87
+out/18 10 95,22)
+nov/18 10 92,28
+dez/18 10 92,90
+jan/19 10 87,82
+fev/19 10 91,43
+mar/19 10 94,31
+abr/19 10 97,33
+mai/19 10 94,53
+jun/19 10 95,33
+U 92,00
+jul/19 10 9241
+ago/19 10 88,71
+set/19 10 97,46
+out/19 10 83,72
+nov/19 10 90,94
+dez/19 10 89,96
+jan/20 10 90,29
+fev/20 10 87,56
+mar/20 10 92,71 74,11
+abr/20 20 46,59
+
+mai/20 20 52,32
+jun/20 20 72,09
+
+jul/20 20 36,88
+
+ago/20 20 84,42
+
+set/20 20 68,87
+
+out/20 20 67,77
+
+nov/20 20 68,04
+
+dez/20 20 71,80
+
+jan/21 20 64,59
+
+fev/21 20 61,89 nas
+mar/21 20 82,32 ”
+abr/21 20 76,88
+
+Fonte: NIR e núcleos de epidemiologia das unidades hospitalares sob gestão da SESAU
+
+Tabela 3 — Leitos de UTI Neonatal sob gestão estadual
+
+Mês/Ano Quantidade de | Taxa de ocupação | Taxa de ocupação
+
+leitos de UTI mensal média - anual
+
+jan/18 15 103,44
+
+fev/18 15 98,81
+mar/18 15 95,48
+
+abr/18 26 83,08
+
+mai/18 26 95,41
+
+jun/18 26 83,72
+
+jul/18 26 84,74 85,72
+ago/18 26 79,16
+
+set/18 26 74,74
+
+out/18 26 74,32
+
+nov/18 26 81,03
+
+dez/18 26 74,69
+
+jan/19 26 68,11
+
+fev/19 26 78,43
+mar/19 26 77,54
+
+abr/19 26 61,79
+
+mai/19 26 85,48
+
+jun/19 26 67,44 70,52
+
+jul/19 26 68,61
+
+ago/19 26 70,72
+
+set/19 26 76,03
+
+out/19 26 68,36
+
+nov/19 26 66,92
+dez/19 26 56,82
+
+jan/20 26 71,46
+fev/20 26 69,36
+mar/20 26 83,87
+abr/20 26 73,21
+mai/20 26 72,70
+jun/20 26 66,28
+jul/20 26 65,26 71,56
+ago/20 26 73,20
+set/20 26 68,46
+out/20 26 75,31
+nov/20 26 71,54
+dez/20 26 68,11
+jan/21 26 70,47
+fev/21 26 50,41
+67,06
+mar/21 26 72,08
+abr/21 26 75,26
+
+Fonte: Censo hospitalar da Maternidade Escola Santa Mônica - UNCISAL
+
+Tabela 4 — Leitos de UTI Materna sob gestão estadual
+
+Quantidade de | Taxa de ocupação | Taxa de ocupação
+
+Mês/Ano leitos mensal média - anual
+
+jan/18 5 30,32
+
+fev/18 5 32,14
+
+mar/18 5 50,97
+
+abr/18 5 32,00
+
+mai/18 5 30,97
+
+jun/18 5 36,67
+
+U 27,90
+jul/18 5 15,48
+
+ago/18 5 29,08
+
+set/18 5 16,67
+
+out/18 5 10,32
+
+nov/18 5 36,00
+
+dez/18 5 14,19
+
+jan/19 5 19,35
+
+fev/19 5 19,29
+
+mar/19 5 20,00 30,77
+abr/19 5 46,00
+
+mai/19 5 45,16
+ 
 
  
 
-OR | Sam
-
-ea 7 mB asas 74,17
-BBB, 4 21 deem nauteo «lil. estadual
-SATO 7 BR
-
-MATO Ouantidâde 288 raxa de mais de ocupação
-Fonte: Nijj ERgjahdind elenisteg! ol ga das unidade! mreagob gasdão da SESAU
-
  
-  
-
-2a sand
-
-Za E
-co SR ão estoggal
-SS
-
-95,38
-PO antidâde Tails de ocuoBEBRr axa de ocupação
-
-Fonte: Ni E'Rgainiinda apiseoio'aaii las unidadasdrggad alases sob gasáfio é à SESAU
-Fonte: Belem ya ação diária gago entral de Regggipgãy| de TERBBCOVID-1S) da
-
-SESAU otro, 7 28 Ea] 67,06
-MERO, à 1 oifne An noonata UABBRR. so estadual
-E 7 86 1009588)
-
-Tabe le andei Zneco8PEnizai de atras MBA rograta ada SEAL)
-Fonte: C ASS rico Meteor diga > EscalarSantemiypha amd ua
-
-il 1888 1. eg
-Quareliada de Tosade-ocupado | Taxa de cu ocupação
-Mega dr oa BBRO] ásia spa!
-Fonte: Cersosdiiáiiares ag únidag's conveniad AMiggaa| a SESAU [santa Casa de
-e
-pesa A
-
-Beltrão) Sé
-
-e 7 = Fi 7045
-
-Te bel BRBR io LT! od: intoctocontAMAR sob Bestágestad al
-Ee 7% ê »
-
- 
-   
-
-   
-  
-
-Fio Quantidade
-
-Fonte: co dora
-at, E, 7
-ROME —
-Tabela 6-! Et» UTI Adulto Es atualizados BA ivamente para COMID-19
-E mê iso
-veado Quantidade 3 Taxa de ocuAadçaR, Taxa fgeagppação
-tetos ad mensalad gg) média anual
 
  
 
-nt Hã 11326
-7 mê E
-7 mé mm SE
-| Tah
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+jun/19 5 23,33
+
+jul/19 5 31,61
+ago/19 5 33,55
+
+set/19 5 30,00
+
+out/19 5 50,97
+nov/19 5 29,33
+
+dez/19 5 20,65
+
+jan/20 5 30,97
+
+fev/20 5 35,86
+mar/20 5 19,35
+
+abr/20 5 33,33
+mai/20) 5 5,81
+
+jun/20 5 11,33 na
+jul/20 5 18,06 ”
+ago/20 5 21,29
+
+set/20 5 19,33
+
+out/20 5 36,13
+nov/20 5 16,00
+
+dez/20 5 14,19
+
+jan/21 5 9,03
+
+fev/21 5 12,14 2835
+mar/21 5 32,90 ”
+abr/21 5 59,33
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Censo hospitalar da Maternidade Escola Santa Mônica - UNCISAL
+
+Tabela 5 — Leitos de UTI doenças infectocontagiosas sob gestão estadual
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mês/Ano Quantidade de (Taxa de Ocupação Taxa de ocupação
+leitos Mensal média - anual
+
+jan/18 7 62,21 |
+fev/18 7 59,18 |
+mar/18 7 68,66 |
+abr/18, 7 89,52. |
+mai/18 7 58,71 |
+jun/18 7 43,33 65,18 |
+jul/18) 7 62,34 |
+ago/18 7 80,18 |
+set/18 7 69,59 |
+out/18 7 82,03 |
+nov/18 7 58,53 |
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dez/18 7 47,93
+jan/19 7 48,95
+fev/19 7 43,78
+mar/19) 7 75,58
+abr/19 7 84,29
+mai/19 7 64,52
+jun/19 7 52,38
+jul/19 7 49,77 62,22
+ago/19 7 72,35
+set/19 7 62,86
+out/19 7 62,21
+nov/19 7 55,71
+dez/19 7 74,19
+jan/20 7 72,00
+fev/20 7 78,16
+mar/20 7 65,59
+abr/20) 7 64,44
+mai/20 7 60,75
+jun/20 7 76,11
+jul/20 7 65,05 69,17
+ago/20 7 82,80
+set/20 7 53,33
+out/20 7 67,2
+nov/20 7 67,78
+dez/20 7 76,88
+jan/21 7 62,37
+fev/21 7 72,02
+70,45
+mar/21, 7 77,42
+abr/21 7 70,00
+
+ 
+
+ 
+
+ 
+
+Fonte: Censo hospitalar do Hospital Escola Dr. Hélvio Auto - UNCISAL
+
+Tabela 6 — Leitos de UTI Adulto contratualizados exclusivamente para COVID-19
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mês/Ano Quantidade de | Taxa de ocupação Taxa de ocupação
+leitos mensal média - anual
+jan/20 A . |
+fev/20 + - |
+51,65
+mar/20 + - |
+abr/20) 70 22,00 |
+
+ 
+
+ 
+
+ 
+
+ 
+mai/20 103 74,67
+
+jun/20 119 82,33
+jul/20 140 68,75
+ago/20 143 47,92
+set/20 148 30,08
+out/20 53 42,67
+nov/20 34 46,60
+dez/20 34 49,80
+jan/21 53 48,17
+fev/21 67 64,00
+69,62
+
+mar/21 128 81,20
+abr/21 144 85,10
+
+Fonte: Boletim de ocupação diária da Central de Regulação de leitos COVID-19 da
+SESAU
+
+Tabela 7 — Leitos de UTI conveniados através de programas da SESAU
+
+Quantidade de |Taxa de ocupação | Taxa de ocupação
+
+Mês/Ano leitos mensal média - anual
+jan/18 63 108,18
+fev/18 63 109,75
+mar/18 63 118,88
+abr/18 63 119,08
+mai/18 63 111,81
+jun/18 63 104,94 111,19
+jul/18 63 103,59
+ago/18 63 107,50.
+set/18 63 108,81
+out/18 63 116,82
+nov/18 63 111,24
+dez/18 63 113,67
+jan/19 63 119,31
+fev/19 63 111,69
+mar/19 63 109,49
+abr/19 63 110,58 113,26
+mai/19 63 116,46
+jun/19 63 106,31
+
+jul/19 63 106,80
+ago/19 63 117,79
+
+set/19 63 119,38
+
+out/19 63 118,33
+
+nov/19 63 109,09
+
+dez/19 63 113,94
+
+jan/20 63 106,63
+
+fev/20 63 105,65
+mar/20 63 102,51
+
+abr/20 63 96,12
+
+mai/20 63 81,92
+
+jun/20 63 77,74
+
+: 95,38
+jul/20 63 76,43
+
+ago/20 63 92,00
+
+set/20 63 96,87
+
+out/20 63 108,25
+
+nov/20 63 106,05
+
+dez/20 63 94,38
+
+jan/21 57 99,16
+
+fev/21 63 80,92 52,79
+mar/21 63 99,03 ,
+abr/21 63 92,04
+
+Fonte: Censos hospitalares das unidades conveniadas com a SESAU (Santa Casa de
+Misericórdia de Maceió, Hospital Veredas, Hospital Sanatório, Hospital Chama,
+Hospital Regional Nossa Senhora do Bom Conselho, Hospital Vida, Hospital Carvalho
+Beltrão)
 

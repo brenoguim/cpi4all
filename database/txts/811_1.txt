@@ -1,40 +1,38 @@
-Salutar se faz mencionar que a Dotação Orçamentária indicada na
-despesa supracitada refere-se ao programa de trabalho 1455, elemento de
-despesa 33.90.30 e fonte de recurso 0209 e atualmente encontra-se em processo
-de empenhamento da despesa.
+Boverno do Estato de
 
-Certos do atendimento à vossa solicitação, desde já nos colocamos à
-disposição para eventuais dúvidas e esclarecimentos que se façam necessários.
+RONDÔNIA .
+GOVERNO DO ESTADO DE RONDÔNIA
+Secretaria de Estado da Saúde - SESAU
 
-Atenciosamente,
+Ofício nº 8383/2021/SESAU-ASTEC
 
-Documento — assinado eletronicamente por FERNANDO RODRIGUES
-MAXIMO, Secretário(a), em 24/05/2021, às 18:48, conforme horário
-oficial de Brasília, com fundamento no artigo 18 caput e seus 55 1º e 2º, do
+Ao Excelentíssimo Senhor
 
- 
+EDUARDO GIRÃO
 
-   
+Senador
 
- 
+Coordenação de Comissões Especiais, Temporárias e Parlamentares de Inquérito
+Senado Federal - COCETI
 
- 
-  
+Anexo II, Ala Senador Alexandre Costa, Sala 15, Subsolo
 
-É A autenticidade deste documento pode ser confrida no site portal do SEL
-informando o código verificador 0018114372 e o código CRC FFZ19E76.
+CEP 70165-900 - Brasília/DF
 
- 
+Com cópia para:
 
- 
+OMAR AZIZ
 
-Refarência: Caco responda esta Oficio indicar expressamente a Processo nã
+Senador
 
-0036.200384 /2021-84. SEIntooiBI4372
+Presidente da CPI da Pandemia
 
- 
+Coordenação de Comissões Especiais, Temporárias e Parlamentares de Inquérito
+Senado Federal - COCETI
 
-CEP 70165-900 - Brasília/DF —
+Anexo II, Ala Senador Alexandre Costa, Sala 15, Subsolo
+
+CEP 70165-900 - Brasília/DF
 
 Assunto: Resposta ao Ofício nº 768/2021 e Requerimento nº 448/2021
 (0017863954) - CPI Pandemia Covid-19 - URGENTE
@@ -42,14 +40,14 @@ Assunto: Resposta ao Ofício nº 768/2021 e Requerimento nº 448/2021
 Excelentíssimos Senhores Senadores,
 
 A par dos mais cordiais cumprimentos, vimos por meio deste, em
-atendimento ao solicitado através do Ofício nº 7682021 e Requerimento nº
+atendimento ao solicitado através do Ofício nº 768/2021 e Requerimento nº
 448/2021 (0017863954), prestar informações acerca da aquisição direta e
 aplicação, por este Estado de Rondônia, de testes rápidos para a detecção de
-covid-io.
+covid-19.
 
-A Agência Estadual de Vigência em Saúde - AGEVISA,
+A Agência Estadual de Vigilância em Saúde - AGEVISA,
 instaurou processo administrativo 0002.130050/2021-33, visando a aquisição de
-Teste Imunocromatográfico Rapido de Ag SarsCov-2 para diagnostico
+Teste Imunocromatográfico Rapido de Ag Sars-CoV-2 para diagnostico
 de Coronavírus SARS-CoV2 (COVID-19), em carater emergencial para
 atender todas as unidades de saúde, hospitais com o propósito de diagnóstico em
 tempo hábil para isolamento dos casos interrompendo o ciclo de
@@ -62,7 +60,13 @@ Referência (0017024491) e demonstrado no quadro abaixo:
 
  
 
-* POSSUIR REGISTRO ANVISA,
+ 
+
+ 
+
+ 
+
+* POSSUIR REGISTRO ANVISA
 
  
 
@@ -74,14 +78,14 @@ Referência (0017024491) e demonstrado no quadro abaixo:
 
  
 
-term Descrição Lud, Quant]
-KIT DF TESTE NÁPINO IMUNCICRIMATOGRÁFICO PRA DETECÇÃO OUR TATIVA NF ANTÍCENO SARSCONE? eTnavÉS p=
-SWIAB DA NASOFARINGE,
-O KIT DEVE CONTER DISPOSITIVO TESTE, TAMPÃO DE EXTRAÇÃO, TAMPAS DE MILTRO E SV/AB ESTÉRIL. EMBALAGEM COM
-
-bi | 25 umDaDes. [Caixa] 11
-
  
+
+[Item Descrição [Unid)Quant.
+KIT DE TESTE RÁPIDO IMUNOCROMATOGRÁFICO PRA DETECÇÃO QUALITATIVA DE ANTÍGENO SARS-CON-2 ATRAVÉS DE
+SWAB DA NASOFARINGE.
+O KIT DEVE CONTER DISPOSITIVO TESTE, TAMPÃO DE EXTRAÇÃO, TAMPAS DE FILTRO E SWAB ESTÉRIL, EMBALAGEM COM
+
+01 | 25 UNIDADES. [Caixa1448
 
  
 
@@ -95,14 +99,53 @@ Cumpre mencionar que a escolha do fornecedor foi baseada em
 critérios preestabelecidos no Termo de Referência, considerando a
 proposta apresentada, documentos de habilitação e as especificações
 técnicas exigidas, tendo sido consagrada vencedora a empresa VIDA
-BIOTECNOLOGIA “LTDA, inscrita no CNPJ: 11.308.834/0001-85 no valor total
+BIOTECNOLOGIA LTDA, inscrita no CNPJ: 11.308.834/0001-85 no valor total
 de R$ 685.990,00 (Seiscentos e oitenta e cincom mil, novecentos e noventa reais).
 Necessário se faz esclarecer ainda que os processos de aquisição discriminados
-pelo ofício retro mencionado (SEI nº 0002.120555/2021-90 e 0002.130050/2021.
-33) foram instruídos sob fundamento do art. 24, IV, da Lei nº 8.666, de 1903
+pelo ofício retro mencionado (SEI nº 0002.120555/2021-90 e 0002.130050/2021-
+33) foram instruídos sob fundamento do art. 24, Iv, da Lei nº 8.666, de 1993
 (dispensa de licitação em razão da emergencialidade).
 
  
 
  
+
+ 
+
+ 
+Salutar se faz mencionar que a Dotação Orçamentária indicada na
+despesa supracitada refere-se ao programa de trabalho 1455, elemento de
+despesa 33.90.30 e fonte de recurso 0209 e atualmente encontra-se em processo
+de empenhamento da despesa.
+
+Certos do atendimento à vossa solicitação, desde já nos colocamos à
+disposição para eventuais dúvidas e esclarecimentos que se façam necessários.
+
+Atenciosamente,
+
+ 
+
+      
+
+Documento assinado eletronicamente por FERNANDO RODRIGUES
+MAXIMO, Secretário(a), em 24/05/2021, às 18:48, conforme horário
+
+oficial de Brasília, com fundamento no artigo 18 caput e seus 88 1º e 2º, do
+reto nº 21.794, 5 Abril 2017
+
+  
+
+A autenticidade deste documento pode ser conferida no site portal do SEI,
+informando o código verificador 0018114372 e o código CRC FF219E76.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº
+0036.200384/2021-94 SEI nº 0018114372
 

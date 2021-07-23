@@ -1,25 +1,43 @@
  
 
-COESO DO ESTADO
+— GONERHO DO ESTADO
 SECRETARIA DE ESTADO DA SAUDE
 
-Tabela 2. Distribuição dos óbitos por grupo de causas. 2019, 2020 e 20217 na
-cidade de Aracaju. capital do estado de Sergipe
+INFORMAÇÕES REQUERIDAS SOBRE ÓBITOS EM SERGIPE E CAPITAL
 
-      
+Em relação a solicitação de informações (Requerimento nº 450/2021 —
+CPIPANDEMIA) acerca da quantidade de óbitos nos anos 2019, 2020 e 2021,
+segue as informações registradas na base estadual, sob gestão da Diretoria de
 
-Eles
+Vigilância em Saúde, do Sistema de Informação sobre Mortalidade (SIM).
+
+Esclarecemos que a base da informação é a Declaração de Óbito preenchida
+pelo médico responsável ou substituto, mas que que todo óbito suspeito de
+Covid-19, assim como com causas indeterminadas seguem um processo de
+
+investigação epidemiológica.
+
+Tabela 1. Distribuição dos óbitos por grupo de causas, 2019, 2020 e 2021* no
+
+estado de Sergipe.
 
  
   
- 
- 
 
-[Ee Te bro]
+  
+
+ 
 
      
+ 
 
-Neoplasias iturnares) 62
+ 
+
+ 
+
+ 
+
+  
 
  
 
@@ -32,6 +50,73 @@ Neoplasias iturnares) 62
  
 
  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+as & parasitárias 128. aro 1 164
+
+H. Neoplasias (tumores) 1889 1870 501
+ill. Doenças sangue órgãos hemat e transt imunitár E so 2
+ty. Doenças endócrinas nutricionais e metabólicas 950 soa 2aS
+Ne. Transtomas mentais & comportamentais E 329 345 2a
+VI. Doenças do sistema nervoso 362 380 303
+viLDoenças do ouvido e da apúfise mastóide 3 a 1
+
+Lix. Doenças do aparetho circutatório 3139 3208 958 305
+*. Doenças do aparelho reghigtório: 1272 1177 355 205 |
+X1. Doenças do aparelho digestivo [E 548 191 1517
+Xil. Doenças da pele e do tecido subcutâneo. 131 122 30 283
+XHLDoenças sist osteomuscular e teç conjuntiva 50 ES 12 108
+Xiv. Doenças do aparelho gentturinário: au ESA 112 SR
+Pv. Gravidez parto e puerpério 11 2h 2. EM
+XVI. Algumas afec originadas no periodo perinatal Era LEE) 226 A5TE
+XVit.Malf cong deformid e anomalias
+cromossórmicas . 167 139 as 354]
+KV IILSint sinals e achad anoemoex clin e laborat A0SAa 1360 ao 2868
+xx Causas externas de morbidade e mortalidade 1355 ca so 4860 |
+Total 13826 16155 5452 ESLEEI
+
+ 
+
+ 
+
+FONTE: SIM/DVS/SES/SE (banco atualizado em 12/05/2021, sujeito à revisão)
+
+ 
+ 
+
+O  CONERMO DO ESTADO
+SECRETARIA DE ESTADO DA SAÚDE
+
+Tabela 2. Distribuição dos óbitos por grupo de causas, 2019, 2020 e 2021* na
+
+cidade de Aracaju, capital do estado de Sergipe
 
    
 
@@ -57,6 +142,23 @@ Neoplasias iturnares) 62
 
  
 
+   
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
  
 
  
@@ -71,45 +173,58 @@ Neoplasias iturnares) 62
 
  
 
-HI Doenças sangue órgãos hemate transtimunitár  à5 iz
-
-IV. Dyenças endócrinas nunricionais e metabólicas 285 261 BE iz
-
-V. Transtormosmentaise comportamentais | 100 106 DRE
-
-Vi. Doenças do sistema nervoso — 153 143 as E
-yanbGençãa Hb puma é ds aponse imaginei: | 3 J q o
-EX. Doenças do aparelho cireuietório 907º 906 258 2071. j
-x Domgitiddaçarttro respiato Jaz aa 135 Bs |
-XE Deenças do agarethe digest 201º 180 51 EEE
-
-Ji Dognças da peles do jécido suitulêneo,"” ao 30 FE
-Xn.D0Enças sist osteomuscular e tec conjuntivo 22 7
-
-XIV Doenças do aparelho geniturinário 155 129 40
-
-XV. Gravidez parto e puerpério 3 7 1
-
-[XVI Algumas afec originadas no periodo perinatal | 185 164 54
-
-xVIl.Matf cang detormid « anomaiias |
-cromossômicas 3... 15 102 |
-XL Sint sinais & achad anorm ex tiihe dantas 129 146 28 303 !
-XX. Causas externas da morbidade emestalidade 44? AB6 122 1049
-Total 3794 AS] 1756 1013
-
  
 
  
 
  
 
-FONTE: SIM/DVS/5ES/SE (banco atualizado em 12/05/2021, sujeito à revisão)
+1.
 
-“nasal A GÕES
-...—Afetor de E em Saúde
+Ho Neoplasias (tumores) bza 605 163 1392
+
+Ill. Doenças sangue órgãos hemat e transt imunitár 15 12 RIA |
+
+iv. Doenças endócrinas nutricionais e metabólicas 285 261 56 612
+
+VW. Transtornos mentais e comportamentais 100 106 28 234
+Doenças do sist nervoso 153 14a 35 331
+(Doenças do ; Aastó 3 1 q a
+
+IX. Doenças do aparelho circulatório 907 306 258 am
+
+x. Dosnças d6 aparelho respiratório 342 37 135 si |
+
+xt. Doenças do aparelho digestivo 201 190 51 aa
+Dognças da pele é do jscido Muticutâno: EE) 30 14 83
+
+xIHl.Doenças sist osteomuscular e tec conjuntivo 22 17 2 4 +
+
+XIV. Doenças do aparelho geniturinário 155 128 40 BM |
+
+KW. Gravidez parto e puerpério 3 7 1 11
+
+XWI. Algumas afec originadas no periodo perinatal 185 164 5a 403
+
+XvIlLMaN cong deformid e anomalias
+
+cromeossôrnicas 43 43 15 101
+
+XvIll.Sint sinais e achad anorm ex cit é laborat 125 145 28 a0a
+
+XX. Causas externas de morbidade e mortalidade 441 486 132 1049
+
+Total 3794 4563 1756 10113
 
  
+
+ 
+
+FONTE: S:M/DW5/5E5/5E (banco atualizado em 12/05/2021, sujeito à revisão)
+
+—
+
+g iretor de Vigilângia em Saúde
 
  
 

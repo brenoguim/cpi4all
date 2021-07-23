@@ -1,19 +1,6 @@
-51 http://sei mg. gov. briseifcontrolador extemo.php?
-
-acao=documento conferir&id orgao acesso externo=0, informando o código
-| verificador 29911138 e o código CRC EDEBSCSA.
-
- 
- 
-
- 
-
- 
-
- 
-
-Referência: Processo nº 1630.01.0001591/2021-30 SEInº 29911138
-Av. Afonso Pena, nº 4000 - Bairro Cruzeiro - Belo Horizonte - CEP 30130-008
+GOVERNO DO ESTADO DE MINAS GERAIS
+Advocacia Geral do Estado de Minas Gerais
+Gabinete
 
  
 
@@ -23,7 +10,8 @@ Belo Horizonte, 24 de maio de 2021.
 Exmo. Sr. SENADOR OMAR AZIZ
 Presidente da CPI da Pandemia
 SENADO FEDERAL
-sec.cpipandemiae senado.leg.br
+
+sec.cpipandemiaQsenado.leg.br
 
 Assunto: Resposta ao Requerimento nº 00470/2021 - CPI PANDEMIA
 
@@ -48,12 +36,41 @@ Atenciosamente,
 SÉRGIO PESSOA DE PAULA CASTRO
 Advogado-Geral do Estado de Minas Gerais
 
-(Er Documento assinado eletronicamente por Sergio Pessoa de Paula Castro,
-seil £3 | Advogado Geral do Estado, em 24/05/2021, às 22:19, conforme horário
-issu LH | oficial de Brasília, com fundamento no art. 6, 5 1º, do Decreto nº 47.222, de
+ 
 
-dletrônica.
+ 
+
+  
+
+Documento assinado eletronicamente por Sergio Pessoa de Paula Castro,
+Advogado Geral do Estado, em 24/05/2021, às 22:19, conforme horário
+oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 47.222, de
+
 26 de julho de 2017.
 
-AE A autenticidade deste documento pode ser conferida no site
+eletrônica
+
+    
+ 
+
+ 
+
+ 
+
+Blig A autenticidade deste documento pode ser conferida no site
+th http://sei. mg.gov.br/sei/controlador externo.php?
+fé acao=documento conferir&id orgao acesso externo=0, informando o código
+Hi fº verificador 29911138 e o código CRC EDEB8SC8A.
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 1630.01.0001591/2021-30 SEInº 29911138
+Av. Afonso Pena, nº 4000 - Bairro Cruzeiro - Belo Horizonte - CEP 30130-008
 
