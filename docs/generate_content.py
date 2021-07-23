@@ -163,8 +163,15 @@ function collapse(id, visible_id) {
 txts_dir = "../database/txts"
 content = []
 
+def get_base_id(filename):
+    return int(os.path.basename(os.path.splitext(filename)[0]).split("_")[0])
+
+def get_sub_id(filename):
+    return int(os.path.basename(os.path.splitext(filename)[0]).split("_")[1])
+
+
 txts = [os.path.join(txts_dir, t) for t in os.listdir(txts_dir)]
-txts = sorted(txts)
+txts = sorted(txts, key=lambda k: get_base_id(k)*100 + get_sub_id(k))
 
 for t in txts:
     c = dict() 
@@ -172,8 +179,8 @@ for t in txts:
     with open(t, 'r') as txtf:
         c["txt"] = txtf.readlines()
 
-    base_id = os.path.basename(os.path.splitext(t)[0]).split("_")[0]
-    sub_id = os.path.basename(os.path.splitext(t)[0]).split("_")[1]
+    base_id = get_base_id(t)
+    sub_id = get_sub_id(t)
 
     c["id"] = base_id
     c["sub_id"] = sub_id
