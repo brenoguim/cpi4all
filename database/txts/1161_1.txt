@@ -1,4 +1,4 @@
-teu
+TCU
 
 TRIBUNAL DE CONTAS DA UNIÃO
 
@@ -10,11 +10,8 @@ Senhor Presidente,
 
 Encaminho a Vossa Excelência, para conhecimento, cópia do
 Acórdão nº 1.413/2021 proferido pelo Plenário desta Corte de Contas, na sessão telepresencial
-de 16/6/2021, nos autos do TC-015.749/2021-5, da relatoria do Mi
 
- 
-
-stro Vital do Rêgo.
+de 16/6/2021, nos autos do TC-015.749/2021-5, da relatoria do Ministro Vital do Rêgo.
 
 O mencionado processo trata de Solicitação do Congresso Nacional originária
 do Ofício nº 1159/2021-CPIPANDEMIA, de 27/5/2021, relativo ao Requerimento
@@ -22,7 +19,7 @@ nº 680/2021-CPIPANDEMIA, de autoria do Senador Renan Calheiros.
 
 Por oportuno, informo que o Relatório e o Voto que fundamentam a referida
 
-Deliberação podem ser acessados pelo endereço eletrônico wwnw.teu. gov br/acordaos.
+Deliberação podem ser acessados pelo endereço eletrônico www-tcu.gov.br/acordaos.
 
 Atenciosamente,
 
@@ -38,5 +35,5 @@ Senado Federal
 
 Brasília - DF
 
-Para verificar as assinaturas, acesse wwnw.tcu.gov br/autenticidade, informando o código 68330557.
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 68330557.
 

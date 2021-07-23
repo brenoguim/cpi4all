@@ -1,20 +1,7 @@
- 
+Documento expedido pelo sistema e-BC do Banco Central do Brasil e assinada digitalmente conforme MP nº 2.200-2 de 24/08/2001. HUP:19600.061375202185 CRIS
 
-conforma Mr 2.290-2 39 24/08/2562
-
- 
-
-i
-z
-i
-Í
-i
-i
-Í
-ê
-
-“cl
-hr
+“et
+rt
 BANCO CENTRAL DO BRASIL
 
 Ofício 13.435/2021-BCB/Direc
@@ -36,7 +23,7 @@ Senhor Presidente,
 Refiro-me ao Ofício nº 1235/2021 — CPI Pandemia, de 11 de junho de 2021, em
 que Vossa Excelência, na qualidade de Presidente da Comissão Parlamentar de Inquérito — CPI
 Pandemia, solicita ao Banco Central do Brasil o cadastramento, como gerente setorial de segurança
-da informação no Sistema de Informações do Banco Central (Sisbacen), do Secretário da CPI—
+da informação no Sistema de Informações do Banco Central (Sisbacen), do Secretário da CPI —
 Pandemia, Sr. Marcelo Assaife Lopes, para que dê curso ao recebimento das informações oriundas
 do Sistema Financeiro Nacional (SFN) referentes aos pedidos da CPI-Pandemia de transferência
 de sigilo bancário.
@@ -50,9 +37,8 @@ Respeitosamente,
 Maurício Costa de Moura
 Diretor de Relacionamento, Cidadania e Supervisão de Conduta
 
-SBS Quadra 3, Bloco B, Edifício Sede - 21º andar
-70074-900 Brasilia - DF
-
-Tel: (81) 3414-3452
-E-mail: score. dircoGabob gou br
+SBS Quadra 3, Bloco B, Edifício Sede — 21º andar
+70074-900 Brasília — DF
+Tel: (61) 3414-3452
+E-mail: secre.direcObcb.gov.br
 

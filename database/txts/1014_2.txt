@@ -10,16 +10,16 @@ Ilmo.Sr. Senador Humberto Costa,
 A Beker Produtos Fármaco Hospitalares Ltda., com sede na Estrada Louis Pasteur, 439,
 Embu, inscrita no CNPJ sob nº 47.231.121/0001-08, vem muito respeitosamente através de
 seu Presidente, Sr. Antonio lanchello, apresentar resposta ao Requerimento nº 819/2021-
-CPIPANDEMIA,
+CPIPANDEMIA.
 
 Conforme solicitado no Requerimento supracitado, informamos que dos medicamentos
 listados no documento, a empresa possui um registro de medicamento clone da azitromicina
-conforme abaixo elucidado
+conforme abaixo elucidado:
 
  
 
 Medicamento | Número de registro | Apresentação | Classe terapêutica
-Aziromicina | 103460016 Poliofilo Antibiótico Sistemico Simples
+Azitromicina 103460016 Po liofilo Antibiótico Sistemico Simples
 
  
 
@@ -47,11 +47,11 @@ No mais, nos colocamos a disposição para eventuais esclarecimentos que possam 
 Atenciosamente, Assinado de forma digital
 ANTONIO por ANTONIO
 
-IANCHELLO:23 iancHeLto23416267850
+IANCHELLO:23 1ancHeLLO:23416267850
 
 Dados: 2021.06.18
 
-416267850 121038 -0300'
+416267850 12:10:38 -03:00'
 
 Antonio lanchello
 Beker Produtos Farmaco Hospitalares Ltda.
@@ -60,6 +60,6 @@ Presidente
  
 
 Beker Produtos Fármaco Hospitalares Ltda.
-Estrada Louis Pasteur, 439 - Embudas Artes- SP
-www bokor.com.br
+Estrada Louis Pasteur, 439 — Embu das Artes — SP
+www.beker.com.br
 
