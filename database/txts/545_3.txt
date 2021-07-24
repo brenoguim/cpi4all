@@ -1,49 +1,3444 @@
-210512021 SENGDF - 62407199 - Nota Técnica
-Chefe da Unidade de Articulação Institucional
+21/05/2021 SEI/GDF - 62407199 - Nota Técnica
+
+CASA CIVIL DO DISTRITO FEDERAL
+Subsecretaria de Análise de Políticas Governamentais
+Unidade de Articulação Institucional
+
+Nota Técnica N.º 807/2021 - CACI/SPG/UNAI Brasília-DF, 21 de maio de 2021.
+
+À GOVERNO DO DISTRITO FEDERAL
+
+Processo nº 00010-00000675/2021-54
+Interessado: Senado Federal. Comissão Parlamentar de Inquérito da Pandemia.
+
+Assunto: CPI da Pandemia. Solicitação de informações. Requerimentos nºs 139/2021, 154/2021, 194/2021 e 342/2021. Complementação.
+
+URGENTE
+Senhora Chefe da Unidade de Articulação Institucional,
+1- RELATÓRIO
+
+Tratam os autos dos Ofícios nº 476/2021 - CPIPANDEMIA (61252106), nº 415/2021 - CPIPANDEMIA (61252061) e nº 118/2021 - CPIPANDEMIA
+(61251989), encaminhados por correspondência eletrônica (61251521), por meio dos quais a Comissão Parlamentar de Inquérito - CPI da Pandemia no Senado
+Federal, por intermédio do seu Presidente, Senador Omar Aziz, envia os Requerimentos nº 139/2021 (61251728), nº 154/2021 (61251792), nº 194/2021
+(61251848) e nº 342/2021 (61251902), aprovados na 2º Reunião da CPI da Pandemia, bem como solicita informações, no prazo de cinco dias úteis, para apurar
+as ações e omissões do Governo Federal no enfrentamento da Pandemia da Covid-19 no Brasil; as possíveis irregularidades, bem como outras ações ou omissões
+cometidas por administradores públicos federais, estaduais e municipais, no trato com a coisa pública, limitado apenas quanto à fiscalização dos recursos da
+União repassados aos demais entes federados para as ações de prevenção e combate à Pandemia da Covid-19.
+
+Em atenção ao prazo de cinco dias úteis, a Secretaria de Estado de Saúde - SES apresentou o Ofício Nº 4759/2021 - SES/GAB (61696263),
+destacando tratar-se de Ofício Preliminar, e asseverou que ainda existiam áreas técnicas daquela Pasta que foram instadas a se manifestar em relação aos
+questionamentos epigrafados, e que mais informações seriam encaminhadas de forma complementar.
+
+ 
+
+Também em atendimento ao prazo supracitado, esta Subsecretaria de Análise de Políticas Governamentais apresentou a Nota Técnica N.º
+748/2021 - CACI/SPG/UNAI (61779095), com a consolidação das informações até então presentes nos autos e apresentadas pela área finalística responsável.
+
+Por meio do Ofício Nº 362/2021 - GAG/CI (61790725), complementado com o Ofício Nº 366/2021 - GAG/C] (61874788), a Consultoria Jurídica do
+Gabinete do Governador encaminhou ao Presidente da Comissão Parlamentar de Inquérito o Ofício Nº 4759/2021 - SES/GAB (61696263) e a Nota Técnica N.º
+748/2021 - CACI/SPG/UNAI (61779095), com a resposta parcial ao que foi requerido e com os arquivos digitalizados em mídia, considerando a inviabilidade de
+remessa por correspondência eletrônica, solicitando a dilação do prazo inicialmente fixado, por mais cinco dias úteis, para finalização das diligências
+necessárias para a consolidação da resposta àquela CPI.
+
+Em nova análise, esta Unidade de Articulação Institucional apresentou manifestação com sugestão de envio dos autos à Secretaria de Estado de
+Saúde, para complementação e apresentação das informações pendentes, bem como a consolidação de todas as informações requeridas e nos formatos
+solicitados, nos termos da Nota Técnica N.º 771/2021 - CACI/SPG/UNAI (62012314), sendo o opinativo atendido pelo Gabinete desta Pasta, conforme Despacho -
+CACI/GAB (62054755).
+
+Em resposta ao Despacho supramencionado e, em complementação ao Ofício Nº 4759/2021 - SES/GAB (61696263), a Secretaria de Estado de
+Saúde apresentou o Ofício Nº 5189/2021 - SES/GAB (62304651).
+
+É o breve relatório.
+
+!- FUNDAMENTAÇÃO
+
+Conforme inicialmente informado na Nota Técnica N.º 748/2021 - CACI/SPG/UNAI (61779095), faz-se necessário reiterar que a manifestação desta
+pasta se dá conforme o previsto no Decreto nº 39.610, de 1º de janeiro de 2019, que dispõe sobre a organização da estrutura da Administração Pública do
+Distrito Federal.
+
+Em seu art. 18, inciso VIII, o mencionado ato normativo prevê:
+
+Art, 18. A Casa Civil do Distrito Federal, com status de Secretaria de Estado, é o órgão de apoio e assessoramento administrativo e político
+ao Governador com atuação e competência para:
+
+(4)
+Vil - coordenar, sem prejuízo da responsabilidade dos órgãos e autoridades destinatários da decisão, o atendimento e o cumprimento de
+decisões emanadas pelo Tribunal de Contas do Distrito Federal e demais órgãos de controle, ressalvado o disposto no inciso Xl do art. 18-A
+
+Sob esse enfoque, e em complemento ao apresentado na Nota Técnica N.º 748/2021 - CACI/SPG/UNAI (61779095), passa-se a adicionar as
+informações e documentos solicitados pelo colegiado demandante.
+
+11.1 — Ofício nº 118/2021 - CPIPANDEMIA (61251989) - Requerimentos nº 139 e nº 342/2021-CPIPANDEMIA (61251728, 61251902)
+
+Por meio do Requerimento nº 139/2021 (61251728), o Senador Ciro Nogueira (PP-PI) requereu cópia integral dos documentos relativos à
+
+aplicação de TODOS os recursos federais destinados a cada um daqueles entes federados para o combate à COVID 19, dentre os quais:
+
+1. de todas as notas de empenho (em PDF),
+
+2. de todas as ordens bancárias (em PDF),
+
+3. de todas as notas fiscais (em arquivo XML),
+
+4, de todos os processos administrativos de despesa - independentemente de ter havido licitação ou dispensa ou inexigibilidade (em PDF),
+
+5. os extratos bancários (em arquivo Excel) e
+
+6. os documentos bancários de comprovação de todas os débitos e créditos ocorridos nas respectivas contas (em arquivo PDF).
+
+ 
+
+https://sei.df.gov.br/seilcontrolador.php?acao=documento. imprimir web&acao orige!
+
+ 
+
+rvore visualizar&id documento=71267240&infra siste... 1/16
+
+ 
+21/05/2021 SEI/GDF - 62407199 - Nota Técnica
+
+Em aditamento ao Requerimento nº 139/2021, o Senador Ciro Nogueira (PP-PI), mediante o Requerimento nº 342/2021 (61251902), requereu
+que fossem incluídas cópias:
+
+1. de todos os empenhos/contratos das ações orçamentárias da Saúde, liquidação da despesa/nota fiscal e ordem bancária, detalhando a
+fonte de recursos e data/hora da fonte/Sistema de Execução Orçamentária, Financeira, Contábil e Patrimonial de todos os Estados, Distrito
+Federal e Municípios.
+
+2. o demonstrativo de todas as doações nacionais e internacionais recebidas para o enfrentamento da Pandemia, bem como constar as
+fontes financeiras dos respectivos estados e municípios, demonstrando por meio de conciliação bancária dos repasses financeiros
+constitucionais para saúde, como também as respectivas Células Orçamentárias.
+
+Em manifestação anterior (Nota Técnica N.º 748/2021 - CACI/SPG/UNAI, doc.61779095), esta Unidade apresentou as informações dos itens 1, 2,
+4,5 e 6 do Requerimento nº 139/2021 (61251728), e dos pedidos do Requerimento nº 342/2021 (61251902).
+
+Em atendimento ao exposto na Nota Técnica N.º 771/2021 - CACI/SPG/UNAI (62012314), que opinou pela complementação e apresentação das
+informações pendentes e nos formatos solicitados, em especial quanto aos itens 3 e 4 do Requerimento nº 139/2021 e aos pedidos do Requerimento nº
+342/2021, a Secretaria de Estado de Saúde apresentou as informações a seguir.
+
+Quanto ao “item 3” do Requerimento nº 139/2021 (de todas as notas fiscais, em arquivo XML), o Ofício Nº 5189/2021 - SES/GAB (62304651)
+informa:
+
+3. Informações prestadas pela Subsecretaria de Administração Geral (61754754):
+
+"a Diretoria de Acompanhamento de Contratos e Convênios (DACC), setor competente pelas atividades relacionadas a execução
+administrativa de contratos, convênios e instrumentos congêneres, vide Despacho (61685463), inseriu ao processo - 00060-
+00212696/2021-34 - cópias dos processos de pagamento com as notas fiscais, ordens bancárias e demais documentos referentes a
+execução dos contratos"
+
+Assim, em que pese não constar os documentos no formato solicitado, a informação repassada pela área técnica daquela Pasta é de que as notas
+fiscais solicitadas se encontram presentes nos processos de pagamento, abaixo listados, conforme Despacho - SES/SUAG (61754754):
+
+Por fim, a Diretoria de Acompanhamento de Contratos e Convênios (DACC), setor competente pelas atividades relacionadas a execução
+administrativa de contratos, convênios e instrumentos congêneres, vide Despacho (61685463), inseriu ao processo - 00060-
+00212696/2021-34 - cópias dos processos de pagamento com as notas fiscais, ordens bancárias e demais documentos referentes a
+execução dos contratos, conforme planilha abaixo:
+
+ 
+
+ 
+
+Contrato Empresa Descritivo Processo Observação
+
+ 
+
+ 
+
+ 
+
+Processo 00060-00189892/2020-17
+BRB SERVIÇOS S/A (61653544)
+
+Processo 00041-00000969/2020-65
+BRB SERVIÇOS S/A (61653591)
+
+Processo 00041-00001317/2020-48
+BRB SERVIÇOS S/A (61653618)
+
+Processo 00041-00001399/2020-21
+BRB SERVIÇOS S/A (61653641)
+
+Processo 00041-00001893/2020-95
+BRB SERVIÇOS (parte 1/2)
+
+(61653769)
+
+063/2020 || BRB SERVIÇOS S/A. SERVIÇO || 00060-00109204/2020-43 | processo 00041-00001893/2020-95
+BRB SERVIÇOS (parte 2/2)
+(61653840)
+
+Processo 00041-00001661/2020-37
+
+BRB SERVIÇOS (parte 1/3)
+(61654672)
+
+Processo 00041-00001661/2020-37
+BRB SERVIÇOS (parte 2/3)
+(61654719)
+
+Processo 00041-00001661/2020-37
+BRB SERVIÇOS (parte 3/3)
+(61654767)
+
+ 
+
+ 
+
+ 
+
+WHITE MARTINS GASES CONTRATO NÃO ACOMPANHADO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+065/2020 | pIDUSTRIAIS LTDA SERVIÇO |) 00060-00385454/2019-44 | (cera DACC
+Processo 00060-00173741/2020-47
+CONTARPP CT 067/20 COMPLETO
+(61658307)
+Processo 00060-00180332-2020-05
+CONTARPP CT 067/20 COMPLETO
+61659263)
+
+067/2020 | CONTARPP ENGENHARIA | ogpa 00060.00129560/2020-23 | ( ,
+
+LTDA Processo 00060-00193925/2020-23
+
+CONTARPP CT 067/20 COMPLETO
+(61660159)
+Processo 00060-00259339/2020-59
+CONTARPP CT 067/20 COMPLETO
+(61660413)
+
+068/2020 | SABIN DE ANÁLISES | serviço | 00060:00101215/2020-85 || NÃO HOUVE PAGAMENTO
+
+CLÍNICAS LTDA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ocumento imprimir web&acao origei
+
+ 
+
+rvore visualizar&id document
+
+12672408&infra siste... 2/16
+21/05/2021
+
+SEI/GDF - 62407199 - Nota Técnica
+
+ 
+
+069/2020
+
+ 
+
+HOSPITAL SERVIÇOS DE
+ASSISTÊNCIA SOCIAL SEM
+ALOJAMENTO LTDA
+
+SERVIÇO
+
+00060-00137001/2020-47
+
+CONTRATO NÃO ACOMPANHADO
+POR ESTA DACC
+
+ 
+
+ 
+
+ 
+
+070/2020
+
+INFRA ENGETH  INFRA-
+ESTRUTURA CONSTRUÇÃO
+E COMÉRCIO LTDA
+
+OBRA
+
+00060-00155821/2020-11
+
+Processo 00060-00206501/2020-36
+INFRA ENGETH CT 070/2020
+(61675660)
+
+Processo 00060-00253702/2020-22
+INFRA ENGETH CT 070/2020
+(61676209)
+
+Processo 00060-00403982/2020-26
+INFRA ENGETH CT 070/2020
+(61676361)
+
+ 
+
+ 
+
+ 
+
+075/2020
+
+MEVATO CONSTRUÇÕES E
+COMÉRCIO LTDA
+
+OBRA
+
+04016-00030034/2020-62
+
+Processo 00060-00054987/2021-00
+MEVATO CT 075/2020 (61676620)
+
+Processo 00060-00212479/2020-63
+MEVATO CT 075/2020 (61677181)
+
+Processo 00060-00250290/2020-79
+MEVATO CT 075/2020 (61677540)
+
+Processo 00060-00305415/2020-13
+MEVATO CT 075/2020 (61678460)
+
+Processo 00060-00344759/2020-30
+MEVATO CT 075/2020 (61678628)
+
+Processo 00060-00393272/2020-81
+MEVATO CT 075/2020 (61679020)
+
+Processo 00060-00430405/2020-15
+MEVATO CT 075/2020 (61679202)
+
+Processo 00060-00483109/2020-17
+MEVATO CT 075/2020 (61679341)
+
+Processo 00060-00529302/2020-01
+MEVATO CT 075/2020 (61679464)
+
+Processo 00060-00542176/2020-72
+MEVATO CT 075/2020 (61679615)
+
+ 
+
+ 
+
+079/2020
+
+BIOMEGA MEDICINA
+DIAGNÓSTICA LTDA
+
+SERVIÇO
+
+00060-00180684/2020-52
+
+Processo 00060.00225316/2020-41
+completo- Biomega (61652234)
+
+Processo 00060.00222472/2020-50
+completo Biomega (61652238)
+
+Processo 00060.00251462/2020-21
+completo-Biomega (61652244)
+
+Processo 00060.00262807/2020-72
+completo-Biomega (61652257)
+
+Processo 00060.00239414/2020-65
+completo-Biomega (61652270)
+
+ 
+
+ 
+
+080/2020
+
+INSTITUTO MED AID SAÚDE
+-IMAS
+
+SERVIÇO
+
+00060-00145738/2020-33
+
+CONTRATO NÃO ACOMPANHADO
+POR ESTA DACC
+
+ 
+
+ 
+
+ 
+
+091/2020
+
+DAN ENGENHARIA E
+CONSULTORIA LTDA
+
+SERVIÇO
+
+00060-00155261/2020-02
+
+Processo 00060-00416569/2020-21
+DAN ENGENHARIA CT 091/2020
+(61674115)
+
+Processo 00060-00515265/2020-46
+DAN ENGENHARIA CT 091/2020
+(61674544)
+
+Processo 00060-00525444/2020-91
+DAN ENGENHARIA CT 091/2020
+(61674815)
+
+Processo 00060-00334993/2020-59
+DAN ENGENHARIA CT 091/2020
+(61675017)
+
+Processo 00060-00471357/2020-15
+DAN ENGENHARIA CT 091/2020
+(61675191)
+
+Processo 00060-00555885/2020-18
+DAN ENGENHARIA CT 091/2020
+(61675357)
+
+ 
+
+ 
+
+ 
+
+104/2020
+
+ASSOCIAÇÃO SAÚDE EM
+MOVIMENTO — ASM
+
+SERVIÇO
+
+00060-00249077/2020-14
+
+CONTRATO NÃO ACOMPANHADO
+POR ESTA DACC
+
+ 
+
+ 
+
+ 
+
+106/2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONTARPP ENGENHARIA
+LTDA
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ 
+
+ 
+
+SERVIÇO
+
+ 
+
+ 
+
+00060-00227177/2020-90
+
+ocumento imprimir web&acao origei
+
+ 
+
+ 
+
+ 
+
+Processo 00060-00345141/2020-97
+CONTARPP CT 106/2020 (61662541)
+
+rvore visualizar&id document
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12672408&infra siste..
+
+3/16
+21/05/2021
+
+SEI/GDF - 62407199 - Nota Técnica
+
+Processo 00060-00368301/2020-76
+CONTARPP CT 106/2020 (61663802)
+
+Processo 00060-00391039/2020-63
+CONTARPP CT 106/2020 (61671373)
+
+Processo 00060-00430328/2020/95
+CONTARPP CT 106/2020 (61671649)
+
+Processo 00060-00456291/2020-25
+CONTARPP CT 106/2020 (61672190)
+
+Processo 00060-00479132/2020-07
+CONTARPP CT 106/2020 (61673020)
+
+Processo 00060-00524985/2020-01
+CONTARPP CT 106/2020 (61673332)
+
+Processo 00060-00555953/2020-49
+CONTARPP CT 106/2020 (61673649)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WEGH ASSESSORIA E
+
+41437/2020 | LOGISTICA SERVIÇO | 00010-00001781/2020-74 | NÃO HOUVE PAGAMENTO
+INTERNACIONAL LTDA
+KNC MEDICINA
+
+41599/2020 | O NOSTICA LIDA SERVIÇO | 00060-00254827/2020-70 | NÃO HOUVE PAGAMENTO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Em complementação ao já apresentado no ao "item 4" (de todos os processos administrativos de despesa — independentemente de ter havido
+
+licitação ou dispensa ou inexig
+
+   
+
+jade, em PDF), a Subsecretaria de Admi
+
+istração Geral (SUAG) da SES informou que a Diretoria de Aquisições Especiais
+
+(DAESP), setor responsável pelas atividades relacionadas às aquisições de materiais e bens, às contratações de serviços por meio de dispensa e inexigibilidade de
+licitação, às adesões às atas de registro de preços e às importações, por meio do Despacho (61559848), apresentou os processos de contratação/aquisição
+relacionados à Pandemia do COVID-19, com tramitação na Diretoria e que foram efetivados, conforme planilha abaixo:
+
+ 
+
+ 
+
+Relação Processos com fundamento na Lei Federal 13.979/2020 (Lei do COVID) e relacionados à Pandemia do Covid-19
+
+ 
+
+ 
+
+ 
+
+Processo
+
+Objeto
+
+ 
+
+ 
+
+00060-00109204/2020-43
+
+Contratação emergencial de central telefônica ativa e receptiva para atendimento aos
+usuários cadastrados nos núcleos do Componente Especializado - NFCE (farmácias de Alto
+Custo) da GCEAF/DIASF/SESDF, contemplando agendamento, entregas de medicamentos
+em domicílio e fornecimento de mão de obra especializada de nível médio para atividades
+relacionadas à separação e transporte dos medicamentos.
+
+ 
+
+ 
+
+00060-00385454/2019-44
+
+Prestação de serviços de fornecimento de CONCENTRADOR DE OXIGÊNIO DOMICILIAR DE
+BAIXO e ALTO FLUXO e CONCENTRADOR DE OXIGÊNIO PORTÁTIL, fornecimento de GÁS
+MEDICINAL e DESCARTÁVEIS PARA OXIGENOTERAPIA, com COMODATO DE CILINDROS DE
+OXIGÊNIO e LOCAÇÃO DOS CONCENTRADORES para atender às demandas da Secretaria
+de Saúde - DF
+
+ 
+
+ 
+
+00060-00129560/2020-83
+
+Contratação emergencial de empresa de especializada em construção civil para adequar o
+Estádio Nacional de Brasília Mané Garrincha no sentido de implementar o Hospital de
+Campanha e criar 200 (duzentos) leitos de internação para pacientes em tratamento de
+coronavírus (COVID-19)
+
+ 
+
+ 
+
+00060-00101215/2020-85
+
+Contratação de laboratório especializado para diagnóstico laboratorial para a detecção de
+SARS COV 2 (COVID - 19) por metodologia molecular em para atender às demandas da
+Secretaria de Saúde - DF
+
+ 
+
+ 
+
+ 
+
+00060-00137001/2020-47
+
+Contratação emergencial de Serviço de Gestão Integrada de 173 (cento e setenta e três)
+leitos de Enfermaria Adulto sem suporte de oxigenioterapia + 20 Leitos de Suporte
+Avançado + 04 Leitos de emergência (sala vermelha), por preço global, compreendendo a
+locação de equipamentos, gerenciamento técnico, assistência médica multiprofissional (de
+forma ininterrupta), com manutenção e insumos necessários para o funcionamento dos
+equipamentos (incluindo computadores e impressoras) e atendimento dos pacientes
+(medicamentos, materiais, alimentação) a ser estruturado em local disponibilizado pela
+Contratante para o enfrentamento ao COVID-19. Dispensa de Licitação nº 08/2020.
+
+ 
+
+ 
+
+00060-00155821/2020-11
+
+Contratação emergencial de empresa especializada em engenharia civil para construção
+de unidade de atendimento hospitalar com capacidade para 10 (dez) leitos de suporte
+avançado e 30 (trinta) leitos de enfermaria, no Complexo Penitenciário da Papuda visando
+atender a população carcerária acometida pelo COVID-19
+
+ 
+
+ 
+
+04016-00030034/2020-62
+
+contratação emergencial de empresa especializada em engenharia civil para prestar
+serviços de manutenção predial incluindo manutenção da infraestrutura e instalações
+existente, de forma ininterrupta, no período de 180 (cento e oitenta) dias, e construção de
+abrigo de recipientes de resíduos, no sentido de permitir o funcionamento de 86 (oitenta
+e seis) leitos de terapia intensiva e 20 (vinte) leitos de retaguarda no Centro Médico da
+Polícia Militar do Distrito Federal - PMDF
+
+ 
+
+ 
+
+00060-00180684/2020-52
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trata-se da contratação de serviços laboratoriais de análises clínicas, para realização de
+100.000 Testes Rápidos para Coronavírus COVID-19 IgG e IgM, no intervalo de 15 dias
+
+ 
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ 
+
+ocumento imprimir web&acao origei
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rvore visualizar&id document
+
+12672408&infra siste..
+
+46
+21/05/2021
+
+SEI/GDF - 62407199 - Nota Técnica
+
+ 
+
+00060-00145738/2020-33
+
+Trata-se da contratação de serviços de Gestão Integrada de 86 (Oitenta e Seis) leitos de
+UTI tipo Il + 20 Leitos de Enfermaria, por preço global, compreendendo a locação de
+equipamentos, gerenciamento técnico, assistência médica multiprofissional (de forma
+ininterrupta), com manutenção e insumos necessários para o funcionamento dos
+equipamentos (incluindo computadores e impressoras) e atendimento dos pacientes
+(medicamentos, materiais, alimentação, nutrição enteral e parenteral) a ser estruturado
+no Hospital da Polícia Militar, para enfrentamento ao COVID-19
+
+ 
+
+ 
+
+00060-00155261/2020-02
+
+Trata-se da contratação de serviços para instalação e manutenção de sistema de
+climatização em edificações hospitalares para prestar serviços de fornecimento, instalação
+e manutenção preventiva, preditiva e corretiva, incluindo peças, no sistema de
+climatização do Centro Cirúrgico, Pronto Socorro, Centro Obstétrico, Unidade de
+Tratamento Intensivo - UTI e Central de Material e Esterilização - CME do Hospital Regional
+da Asa Norte — HRAN, para atender as necessidades da Secretaria de Estado de Saúde —
+DE,
+
+ 
+
+ 
+
+00060-00249077/2020-14
+
+Serviço de Gestão Integrada de 86 (Oitenta e Seis) leitos de suporte avançado e 20 Leitos
+de enfermaria, por menor preço lote/item, compreendendo a locação de equipamentos,
+gerenciamento técnico, assistência multiprofissional (de forma ininterrupta), com
+manutenção e insumos necessários para o funcionamento dos equipamentos (incluindo
+computadores e impressoras) e atendimento dos pacientes (medicamentos, materiais
+médico-hospitalares e esterilização de equipamentos e materiais, alimentação, nutrição
+enteral e parenteral) a ser estruturado no Hospital da Polícia Militar
+
+ 
+
+ 
+
+00060-00227177/2020-90
+
+construção de unidade de atendimento hospitalar com capacidade para 60 (sessenta)
+leitos, sendo 20 (vinte) leitos de suporte avançado e 40 (quarenta) leitos de enfermaria na
+QNN 27 Área Especial, Lote "D" - Ceilândia, com área total de 2.115,72 m?, conforme
+indicado no Projeto Básico de Arquitetura anexo, para atendimento exclusivo à pacientes
+acometidos pelo COVID-19
+
+ 
+
+ 
+
+00010-00001781/2020-74
+
+Contratação de empresa especializada para nacionalização de produto para saúde
+conforme as AWB
+
+ 
+
+ 
+
+00060-00254827/2020-70
+
+contratação de empresa especializada para execução de serviços laboratoriais de análises
+clínicas, para realização de 100.000 Testes Rápidos para detecção do Coronavírus COVID-
+19 IgG e IgM disponibilizados em 10 pontos de testagens que serão definidos a partir de
+critérios epidemiológicos e demográficos após a contratação
+
+ 
+
+ 
+
+00060-00105182/2020-42
+
+Trata o presente da solicitação de autorização para — aquisição
+em caráter emergencial de EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL - EPI, PARA O
+COMBATE DA DISSEMINAÇÃO DO COVIDI9.
+
+ 
+
+ 
+
+00060-00128485/2020-33
+
+Trata o presente da aquisição em caráter emergencial de Kit PCR em Tempo Real para a
+detecção qualitativa do vírus SARS Cov-2 para atender a demanda da Rede
+SES/DF. Dispensa de Licitação 24/2020.
+
+ 
+
+ 
+
+00060-00104949/2020-16
+
+Trata o presente da aquisição, em caráter emergencial, de Medicamentos e Insumos para
+Manipulação de Medicamentos para atender a demanda da Rede da Secretaria de Estado
+de Saúde do DF
+
+ 
+
+ 
+
+00060-00194015/2020-68
+
+Trata o presente da aquisição em caráter Emergencial do material médico
+hospitalar: MÁSCARA CIRÚRGICA DESCARTÁVEL, PARA O COMBATE DA
+DISSEMINAÇÃO DO COVID19
+
+ 
+
+ 
+
+ 
+
+00060-00151232/2020-63
+
+Aquisição emergencial de insumos laboratoriais para enfrentamento à pandemia de
+Coronavírus.
+
+ 
+
+ 
+
+00060-00124295/2020-47
+
+Trata-se do Contrato nº 068/2020-SES/DF, firmado em 17/04/2020, entre o Distrito
+Federal, por intermédio da Secretaria de Estado de Saúde, e a empresa LABORATÓRIO
+SABIN DE ANÁLISES CLÍNICAS LTDA, cujo objeto consiste na contratação emergencial de
+laboratório especializado para diagnóstico laboratorial para a detecção de SARS COV 2
+(COVID - 19) por metodologia molecular em para atender às demandas da Secretaria de
+Saúde - DF. Dispensa de Licitação nº 05/2020.
+
+ 
+
+ 
+
+00060-00106136/2020-61
+
+Trata-se de aquisição em caráter emergencial do material: TESTES RÁPIDO PARA
+DETECÇÃO QUALITATIVA ESPECÍFICA DE IGG E IGM E ANTÍGENO DO COVID-19, na
+quantidade de 300.000 (trezentos mil) unidades de testes, por meio de Dispensa de
+Licitação, com fulcro no art. 24, inciso IV, da Lei nº. 8.666/93, ratificada pelo Sr. Secretário
+de Saúde do Distrito Federal no documento SEI - Dispensa de Licitação nº 09/2020
+
+ 
+
+ 
+
+00060-00159341/2020-29
+
+Trata-se da aquisição Emergencial de Teste Rápido para detecção qualitativa específica de
+IgG e IgM do COVID-19. Teste rápido, através da metodologia de imunocromatografia,
+destinado a detecção qualitativa específica de IgG e IgM do COVID-19, podendo ser
+utilizado em amostras de sangue total, soro e plasma, conforme condições e
+especificações constantes no Projeto Básico. Dispensa de Licitação nº 11/2020
+
+ 
+
+ 
+
+ 
+
+00060-00159341/2020-29
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trata-se da aquisição Emergencial de Teste Rápido para detecção qualitativa específica de
+IgG e IgM do COVID-19. Teste rápido, através da metodologia de imunocromatografia,
+destinado a detecção qualitativa específica de IgG e IgM do COVID-19, podendo ser
+utilizado em amostras de sangue total, soro e plasma, conforme condições e
+especificações constantes no Projeto Básico. Dispensa de Licitação nº 18/2020.
+
+ 
+
+ocumento imprimir web&acao origei
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rvore visualizar&id document
+
+12672408&infra siste..
+
+5/16
+21/05/2021 SEI/GDF - 62407199 - Nota Técnica
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trata-se o procedimento da Contratação de empresa especializada para execução de
+serviços laboratoriais de análises clínicas, para realização de 100.000 Testes Rápidos para
+detecção do Coronavírus COVID-19 IgG e IgM disponibilizados em 10 pontos de
+testagens que serão definidos a partir de critérios epidemiológicos e demográficos após a
+contratação. Ressaltamos que a testagem deve ser realizada dentro de um período
+máximo de 30 dias. A empresa deve dispor de recursos humanos habilitados, estrutura
+física tipo Drive Thru, gerenciamento de resíduos, alimentação, gerenciamento de dados
+(envio de dados Secretaria de Vigilância em Saúde e para e Secretaria Adjunta de
+Assistência), emissão de resultado físico e eletrônico para atender às demandas da
+Secretaria de Saúde - DF Dispensa de Licitação nº 57/2020.
+
+ 
+
+00060-00254827/2020-70
+
+ 
+
+ 
+
+ 
+
+Versa o processo acerca da aquisição em caráter Emergencial do material Testes rápido
+para detecção qualitativa específica de IgG e IgM e antígeno do COVID-19, para atender a
+demanda da Rede SES/DF, de acordo com a legislação sanitária vigente, com fulcro no
+artigo 48, inciso IV, da Lei nº 13.979/2020, onde foi ampliada a hipótese de incidência da
+autorização legal de dispensa de licitação para insumos destinados ao enfrentamento da
+pandemia da doença do Coronavírus (COVID-19). Dispensa de Licitação DL nº 16/2020.
+
+00060-00173692/2020-42
+
+ 
+
+ 
+
+Versa o processo acerca da Contratação de empresa especializada para execução de
+serviços laboratoriais de análises clínicas, para realização de 100.000 Testes Rápidos para
+Coronavírus COVID-19 IgG e IgM, no intervalo de 15 dias. A empresa deve dispor de
+recursos humanos habilitados, estrutura física tipo Drive Thru, gerenciamento de resíduos,
+alimentação, gerenciamento de dados (envio de dados Secretaria de Vigilância em Saúde e
+00060-00120684/2020-52 | para e Secretaria Adjunta de Assistência), emissão de resultado físico e eletrônico para
+atender às demandas da Secretaria de Saúde - DF, de acordo com a legislação sanitária
+vigente, com fulcro no artigo 4º, inciso IV, da Lei nº 13.979/2020, onde foi ampliada
+a hipótese de incidência da autorização legal de dispensa de licitação para insumos
+destinados ao enfrentamento da pandemia da doença do Coronavírus (COVID-
+19). Dispensa de Licitação nº 20/2020
+
+ 
+
+ 
+
+Trata o presente processo da aquisição emergencial a ser realizada pela Secretaria de
+Estado de Saúde do Distrito Federal, referente à Dispensa de Licitação nº 58/2020, com
+00060-00150153/2020-35 | fulcro no Art. 4º da Lei Federal 13.979/2020, para aquisição emergencial do
+item identificado pelo Código SES 21552 e Outros - REAGENTES para dosagens
+bioquímicas, conforme Projeto Básico. Dispensa de Licitação nº 58/2020.
+
+ 
+
+ 
+
+ 
+
+Versa O processo acerca da aquisição, em caráter emergencial, de Medicamentos e
+Insumos para Manipulação de Medicamentos para atender a demanda da Rede da
+Secretaria de Estado de Saúde do DF, de acordo com a legislação sanitária vigente, com
+00060-00104949/2020-16 | fulcro no art. 4º, inciso IV, da Lei Federal n. 13.979/2020, onde foi ampliada a hipótese de
+incidência da autorização legal de Dispensa de Licitação para insumos destinados ao
+enfrentamento da pandemia da doença do Coronavírus (COVID-19) Dispensa de
+Licitação n. 31/2020.
+
+ 
+
+ 
+
+Versa o processo acerca da aquisição do Cód. SES 34084 - AVENTAL DE PROCEDIMENTO
+
+00060-00135812-2020/11 | Não esTÉRIL
+
+ 
+
+ 
+
+Versa o processo acerca da aquisição em caráter emergencial de MÁQUINAS DE
+HEMODIÁLISE E OSMOSE REVERSA PORTÁTEIS, para enfrentamento à pandemia de
+Coronavírus em atendimento à demanda do Governo do Distrito Federal, de acordo com a
+legislação sanitária vigente, com fulcro no art. 4º, da Lei Federal nº 13.979/2020, de 06 de
+fevereiro de 2020, alterada pela Lei Federal nº 14.035/2020, de 11 de agosto de
+2020, onde foi ampliada a hipótese de incidência da autorização legal de Dispensa de
+Licitação para insumos destinados ao enfrentamento da pandemia da doença do
+Coronavírus (COVID-19). Dispensa de Licitação nº 87/2020.
+
+  
+
+00060-00147608/2020-35
+
+ 
+
+ 
+
+Trata o presente processo da aquisição emergencial do material médico hospitalar: LUVA
+00060-00067598/2021-36 | DE PROCEDIMENTO E OUTROS para atender as necessidades da Secretaria de Saúde — SES-
+DF. Dispensa de Licitação nº 018/2021.
+
+ 
+
+ 
+
+ 
+
+Trata o presente da Contratação Emergencial de Serviço de Gestão
+Integrada compreendendo, gerenciamento técnico, assistência multiprofissional (de forma
+ininterrupta), com manutenção e insumos necessários para o funcionamento dos
+00060-00126594/2021-05 | equipamentos (incluindo computadores e impressoras) e atendimento dos pacientes
+(medicamentos, materiais médico-hospitalares, gases medicinais e esterilização de
+equipamentos e materiais, alimentação, nutrição enteral e parenteral), em Hospitais de
+Campanha para enfrentamento a SARS-COV?2. Dispensa de Licitação nº 31/2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O mesmo Despacho informou ainda que, quando da conversão dos processos em formado pdf, a Diretoria verificou que "os arquivos superavam
+o limite suportado pelo SEI que é de 20MB por arquivo, feto que impossibilita a anexação dos arquivos a este processo conforme solicitado", razão pela qual
+
+sugeriu verificar junto ao Senado Federal (Órgão Reg
+
+de modo a possibilitar o download diretamente do link enca
+
+ 
+  
+
+   
+
+ 
+
+inhado.
+
+ 
+
+Quanto ao primeiro pedido do Requerimento nº 342/2021 (61251902), pelo qual requer o encaminhamento de todos os empenhos/contratos
+das ações orçamentárias da Saúde, liquidação da despesa/nota fiscal e ordem bancária, detalhando a fonte de recursos e data/hora da fonte/Sistema de
+Execução Orçamentária, Financeira, Contábil e Patrimonial de todos os Estados, Distrito Federal e Municípios, a SUAG da SES apresentou as informações da
+Diretoria de Instrução e Formalização de Atas, Contratos e Convênios (DFACC), unidade responsável pelas atividades relacionadas a formalização de contratos,
+convênios, ajustes congêneres e atas de registro de preços, nos termos do Despacho (61560788), e acostou aos autos - 00060-00212696/2021-34 - a cópias dos
+contratos administrativos e seus termos aditivos/apostilamentos, com fundamento na Lei 13.979/2020 (Lei do COVID), e da Diretoria de Acompanhamento de
+Contratos e Convênios (DACC), setor competente pelas atividades relacionadas a execução administrativa de contratos, convênios e instrumentos congêneres,
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ocumento imprimir web&acao origei
+
+ 
+
+rvore visualizar&id documento=71267240&infra siste... 6/16
+21/05/2021
+
+SEI/GDF - 62407199 - Nota Técnica
+
+nos termos do Despacho (61685463), que inseriu ao processo - 00060-00212696/2021-34 - cópias dos processos de pagamento com as notas fiscais, ordens
+
+bancárias e demais documentos referentes a execução dos contratos, conforme as planilhas abaixo relacionadas, respectivamente:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ocumento imprimir web&acao origei
+
+ 
+
+Contrato Empresa Descrição Processo
+
+063/2020 (61564860) | BRB SERVIÇOS S/A. SERVIÇO | 00060-00109204/2020-43
+
+065/2020 (61564801) e MARTINS GASES INDUSTRIAIS | serviço | 00060-00385454/2019-44
+
+067/2020 (61564857)
+CONTARPP ENGENHARIA LTDA OBRA 00060-00129560/2020-83
+
+AS TA (61564851)
+
+068/2020 (61564824) | SABIN DE ANÁLISES CLÍNICAS LTDA SERVIÇO | 00060-00101215/2020-85
+HOSPITAL SERVIÇOS DE ASSISTÊNCIA .
+
+069/2020 (61564833) | CociAL SEM ALOJAMENTO LTDA SERVIÇO | 00060-00137001/2020-47
+INFRA ENGETH INFRA-ESTRUTURA
+
+070/2020 (61564950) | CONSTRUÇÃO E COMÉRCIO LTDA OBRA 00060-00155821/2020-11
+
+075/2020 (61564924)
+
+/: ( ) MEVATO CONSTRUÇÕES E COMÉRCIO | dana 04016-00030034/2020-62
+12 TA (61564941) LTDA
+079/2020 (61564956)
+/: ( ) BIOMEGA MEDICINA DIAGNÓSTICA serviço | 00060-00120684/2020-52
+
+12 TA (61564938) LTDA
+
+080/2020 (61564934) |) INSTITUTO MED AID SAÚDE — IMAS SERVIÇO | 00060-00145738/2020-33
+
+091/2020 (61565042) a ENGENHARIA E CONSULTORIA | serviço | 00060-00155261/2020-02
+
+104/2020 (61565406)
+
+AS TA (61565073)
+
+2º TA (61565079) o,
+
+3º TA (61565070) ASSOnAçÃO SAÚDE EM MOVIMENTO | serviço | 00060-00249077/2020-14
+
+1º APOST. (61565031)
+
+2º APOST. (61565088)
+
+32 APOST. (61565399)
+
+106/2020 (61565383) | CONTARPP ENGENHARIA LTDA SERVIÇO | 00060-00227177/2020-90
+WEGH ASSESSORIA E LOGISTICA
+
+41437/2020 (61565422) | pr ERNACIONAL LTDA SERVIÇO | 00010-00001781/2020-74
+
+41599/2020 (61565436) | KNC MEDICINA DIAGNOSTICA LIDA SERVIÇO | 00060-00254827/2020-70
+
+Contrato Empresa Descritivo Processo Observação
+063/2020 || BRB SERVIÇOS S/A. SERVIÇO 00060-00109204/2020-43 | Processo 00060-00189892/2020-17
+
+BRB SERVIÇOS S/A (61653544)
+
+BRB SERVIÇOS S/A (61653591)
+
+BRB SERVIÇOS S/A (61653618)
+
+BRB SERVIÇOS S/A (61653641)
+
+BRB SERVIÇOS
+(61653769)
+
+(parte
+
+BRB SERVIÇOS
+(61653840)
+
+(parte
+
+BRB SERVIÇOS
+(61654672)
+
+(parte
+
+BRB SERVIÇOS
+(61654719)
+
+(parte
+
+ 
+
+ 
+
+rvore visualizar&id document
+
+Processo 00041-00000969/2020-65
+
+Processo 00041-00001317/2020-48
+
+Processo 00041-00001399/2020-21
+
+Processo 00041-00001893/2020-95
+1/2)
+
+Processo 00041-00001893/2020-95
+2/2)
+
+Processo 00041-00001661/2020-37
+1/3)
+
+Processo 00041-00001661/2020-37
+2/3)
+
+ 
+
+ 
+
+ 
+
+12672408&infra siste..
+
+7/16
+21/05/2021
+
+SEI/GDF - 62407199 - Nota Técnica
+
+Processo 00041-00001661/2020-37
+BRB SERVIÇOS (parte 3/3)
+(61654767)
+
+ 
+
+ 
+
+065/2020
+
+WHITE MARTINS GASES
+INDUSTRIAIS LTDA
+
+SERVIÇO 00060-00385454/2019-44
+
+CONTRATO NÃO ACOMPANHADO
+POR ESTA DACC
+
+ 
+
+ 
+
+ 
+
+067/2020
+
+CONTARPP ENGENHARIA
+LTDA
+
+OBRA 00060-00129560/2020-83
+
+Processo 00060-00173741/2020-47
+CONTARPP CT 067/20 COMPLETO
+(61658307)
+
+Processo 00060-00180332-2020-05
+CONTARPP CT 067/20 COMPLETO
+(61659263)
+
+Processo 00060-00193925/2020-23
+CONTARPP CT 067/20 COMPLETO
+(61660159)
+
+Processo 00060-00259339/2020-59
+CONTARPP CT 067/20 COMPLETO
+(61660413)
+
+ 
+
+ 
+
+068/2020
+
+SABIN DE ANÁLISES CLÍNICAS
+LDA
+
+SERVIÇO 00060-00101215/2020-85
+
+NÃO HOUVE PAGAMENTO
+
+ 
+
+ 
+
+069/2020
+
+HOSPITAL SERVIÇOS DE
+ASSISTÊNCIA SOCIAL SEM
+ALOJAMENTO LTDA
+
+SERVIÇO 00060-00137001/2020-47
+
+CONTRATO NÃO ACOMPANHADO
+POR ESTA DACC
+
+ 
+
+ 
+
+070/2020
+
+INFRA ENGETH  INFRA-
+ESTRUTURA CONSTRUÇÃO E
+COMÉRCIO LTDA
+
+OBRA 00060-00155821/2020-11
+
+Processo 00060-00206501/2020-36
+INFRA  ENGETH CT 070/2020
+(61675660)
+
+Processo 00060-00253702/2020-22
+INFRA  ENGETH CT 070/2020
+(61676209)
+
+Processo 00060-00403982/2020-26
+INFRA ENGETH CT 070/2020
+(61676361)
+
+ 
+
+ 
+
+075/2020
+
+MEVATO CONSTRUÇÕES E
+COMÉRCIO LTDA
+
+OBRA 04016-00030034/2020-62
+
+Processo 00060-00054987/2021-00
+MEVATO CT 075/2020 (61676620)
+
+Processo 00060-00212479/2020-63
+MEVATO CT 075/2020 (61677181)
+
+Processo 00060-00250290/2020-79
+MEVATO CT 075/2020 (61677540)
+
+Processo 00060-00305415/2020-13
+MEVATO CT 075/2020 (61678460)
+
+Processo 00060-00344759/2020-30
+MEVATO CT 075/2020 (61678628)
+
+Processo 00060-00393272/2020-81
+MEVATO CT 075/2020 (61679020)
+
+Processo 00060-00430405/2020-15
+MEVATO CT 075/2020 (61679202)
+
+Processo 00060-00483109/2020-17
+MEVATO CT 075/2020 (61679341)
+
+Processo 00060-00529302/2020-01
+MEVATO CT 075/2020 (61679464)
+
+Processo 00060-00542176/2020-72
+MEVATO CT 075/2020 (61679615)
+
+ 
+
+ 
+
+079/2020
+
+BIOMEGA MEDICINA
+DIAGNÓSTICA LTDA
+
+SERVIÇO 00060-00180684/2020-52
+
+Processo 00060.00225316/2020-41
+completo- Biomega (61652234)
+
+Processo 00060.00222472/2020-50
+completo Biomega (61652238)
+
+Processo 00060.00251462/2020-21
+completo-Biomega (61652244)
+
+Processo 00060.00262807/2020-72
+completo-Biomega (61652257)
+
+Processo 00060.00239414/2020-65
+completo-Biomega (61652270)
+
+ 
+
+ 
+
+080/2020
+
+INSTITUTO MED AID SAÚDE —
+IMAS
+
+SERVIÇO 00060-00145738/2020-33
+
+CONTRATO NÃO ACOMPANHADO
+POR ESTA DACC
+
+ 
+
+ 
+
+091/2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ 
+
+ 
+
+ 
+
+DAN ENGENHARIA E
+CONSULTORIA LTDA
+
+ 
+
+SERVIÇO 00060-00155261/2020-02
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ocumento imprimir web&acao origei
+
+ 
+
+Processo 00060-00416569/2020-21
+DAN ENGENHARIA CT 091/2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+rvore visualizar&id document
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12672408&infra siste..
+
+8/16
+21/05/2021 SEI/GDF - 62407199 - Nota Técnica
+
+(61674115)
+
+Processo 00060-00515265/2020-46
+DAN ENGENHARIA CT 091/2020
+(61674544)
+
+Processo 00060-00525444/2020-91
+DAN ENGENHARIA CT 091/2020
+(61674815)
+
+Processo 00060-00334993/2020-59
+DAN ENGENHARIA CT 091/2020
+(61675017)
+
+Processo 00060-00471357/2020-15
+DAN ENGENHARIA CT 091/2020
+(61675191)
+
+Processo 00060-00555885/2020-18
+DAN ENGENHARIA CT 091/2020
+(61675357)
+
+ 
+
+ 
+
+ASSOCIAÇÃO SAÚDE EM
+MOVIMENTO — ASM
+
+CONTRATO NÃO ACOMPANHADO
+
+104/2020 POR ESTA DACC
+
+SERVIÇO 00060-00249077/2020-14
+
+ 
+
+ 
+
+Processo 00060-00345141/2020-97
+CONTARPP CT 106/2020 (61662541)
+
+Processo 00060-00368301/2020-76
+CONTARPP CT 106/2020 (61663802)
+
+Processo 00060-00391039/2020-63
+CONTARPP CT 106/2020 (61671373)
+
+Processo 00060-00430328/2020/95
+
+CONTARPP CT 106/2020 (61671649)
+CONTARPP ENGENHARIA | serviço 00060-00227177/2020-90 2ozo | À
+LTDA Processo 00060-00456291/2020-25
+
+CONTARPP CT 106/2020 (61672190)
+
+Processo 00060-00479132/2020-07
+CONTARPP CT 106/2020 (61673020)
+
+Processo 00060-00524985/2020-01
+CONTARPP CT 106/2020 (61673332)
+
+Processo 00060-00555953/2020-49
+CONTARPP CT 106/2020 (61673649)
+
+106/2020
+
+ 
+
+ 
+
+WEGH | ASSESSORIA E
+41437/2020 | LOGISTICA INTERNACIONAL | SERVIÇO 00010-00001781/2020-74 | NÃO HOUVE PAGAMENTO
+LTDA
+
+ 
+
+ 
+
+KNC MEDICINA DIAGNOSTICA
+
+41599/2020 | pa
+
+SERVIÇO 00060-00254827/2020-70 | NÃO HOUVE PAGAMENTO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ainda em atenção ao primeiro pedido do Requerimento nº 342/2021 (61251902), no que se refere aos empenhos emitidos (não cancelados) para
+custear despesas com o enfrentamento da Covid-19 com recurso federal, a Diretoria Executiva do Fundo de Saúde do Distrito Federal apresentou a manifestação
+da sua Diretoria de Análise e Execução Orçamentária, que informou, por meio do Despacho SES/FSDF/DIOR (61646732), a inclusão nos presentes autos das
+planilhas 61648882 (exercício financeiro 2020) e 61648911 (exercício financeiro 2021), referente aos empenhos supracitados.
+
+11.2 — Ofício nº 415/2021 - CPIPANDEMIA (61252061) - Requerimento nº 154-2021/CPIPANDEMIA (61251792)
+
+Por meio do Requerimento nº 154/2021 (61251792), o Senador Marcos Rogério (Líder do Democratas) requereu informações sobre o volume de
+recursos repassados pela União para aplicação no enfrentamento à pandemia da Covid-19, bem como a discriminação da execução orçamentária desses
+recursos, devendo ser encaminhada a cópia integral de todos os seguintes documentos referentes aos recursos citados, nos formatos abaixo discriminados:
+
+1, as notas de empenho (em formato PDF);
+
+2.as ordens bancárias (em formato PDF);
+3.as notas fiscais (em arquivo XML);
+
+4, os processos administrativos de despesa, independentemente de ter havido licitação ou dispensa ou inexigibilidade de licitação (em
+formato PDF);
+
+5. os extratos bancários (em arquivo compatível com o programa Microsoft Excel); e
+
+6. os documentos bancários de comprovação de todos os débitos e créditos ocorridos nas respectivas contas (em formato PDF).
+
+Em manifestação anterior (Nota Técnica N.º 748/2021 - CACI/SPG/UNAI, doc.61779095), esta Unidade apresentou as informações dos itens 1, 2,
+4,5 e 6 do Requerimento nº 154/2021 (61251792).
+
+Aproveitamos o ensejo para retificação de erro material constante na Nota Técnica N.º 748/2021 - CACI/SPG/UNAI (61779095), notadamente no
+subtítulo “11.2 — Ofício nº 415/2021 - CPIPANDEMIA (61252061) - Requerimento nº 154-2021/CPIPANDEMIA (61251792)".
+Em vista disso, onde se lê:
+
+Em atendimento ao “item 1” do Requerimento nº 139/2021 (de todas as notas de empenho, em PDF, relativos à aplicação de TODOS os
+recursos federais destinados a cada um daqueles entes federados para o combate à COVID 19)
+
+(.)
+
+No tocante ao "item 2" do Requerimento nº 139/2021, o qual solicita as ordens bancárias (em formato PDF)
+
+ 
+
+ 
+
+https://sei. df.gov.br/sei/controlador.php?aca: 12672408&infra siste... 9/16
+
+ 
+
+ocumento imprimir web&acao origei
+
+ 
+
+rvore visualizar&id document
+21/05/2021 SEI/GDF - 62407199 - Nota Técnica
+Leia-se:
+
+Em atendimento ao “item 1” do Requerimento nº 154/2021 (as notas de empenho, em PDF, relativos ao volume de recursos repassados
+pela União para aplicação no enfrentamento à pandemia da Covid-19)
+(.)
+
+No tocante ao "item 2" do Requerimento nº 154/2021, o qual solicita as ordens bancárias (em formato PDF)
+
+ 
+
+ 
+
+Não obstante, também em atendimento ao exposto na Nota Técnica N.º 771/2021 - CACI/SPG/UNAI (62012314), que opinou pela
+complementação e apresentação das informações pendentes e nos formatos solicitados, em especial no que tange os itens 3 e 4 do Requerimento nº 154/2021,
+a Secretaria de Estado de Saúde apresentou as informações a seguir.
+
+Quanto ao “item 3” do Requerimento nº 154/2021 (as notas fiscais, em arquivo XML), o Ofício Nº 5189/2021 - SES/GAB (62304651) informa:
+3. Informações prestadas pela Subsecretaria de Administração Geral (61754754):
+
+"a Diretoria de Acompanhamento de Contratos e Convênios (DACC), setor competente pelas atividades relacionadas a execução
+administrativa de contratos, convênios e instrumentos congêneres, vide Despacho (61685463), inseriu ao processo - 00060-
+00212696/2021-34 - cópias dos processos de pagamento com as notas fiscais, ordens bancárias e demais documentos referentes a
+execução dos contratos"
+
+Assim, em que pese não constar os documentos no formato solicitado, a informação repassada pela área técnica daquela Pasta é de que as notas
+fiscais solicitadas se encontram presentes nos processos de pagamento, abaixo listados, conforme Despacho - SES/SUAG (61754754):
+
+Por fim, a Diretoria de Acompanhamento de Contratos e Convênios (DACC), setor competente pelas atividades relacionadas a execução
+administrativa de contratos, convênios e instrumentos congêneres, vide Despacho (61685463), inseriu ao processo - 00060-
+00212696/2021-34 - cópias dos processos de pagamento com as notas fiscais, ordens bancárias e demais documentos referentes a
+execução dos contratos, conforme planilha abaixo:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Contrato Empresa Descritivo Processo Observação
+
+ 
+
+ 
+
+Processo 00060-00189892/2020-17
+BRB SERVIÇOS S/A (61653544)
+
+Processo 00041-00000969/2020-65
+BRB SERVIÇOS S/A (61653591)
+
+Processo 00041-00001317/2020-48
+BRB SERVIÇOS S/A (61653618)
+
+Processo 00041-00001399/2020-21
+BRB SERVIÇOS S/A (61653641)
+
+Processo 00041-00001893/2020-95
+063/2020 | BRB SERVIÇOS S/A. SERVIÇO | 00060-00109204/2020-43 | Brg SERVIÇOS (parte 1/2) (61653769)
+
+Processo 00041-00001893/2020-95
+BRB SERVIÇOS (parte 2/2) (61653840)
+Processo 00041-00001661/2020-37
+
+BRB SERVIÇOS (parte 1/3) (61654672)
+
+Processo 00041-00001661/2020-37
+BRB SERVIÇOS (parte 2/3) (61654719)
+
+Processo 00041-00001661/2020-37
+BRB SERVIÇOS (parte 3/3) (61654767)
+
+ 
+
+ 
+
+WHITE MARTINS GASES
+INDUSTRIAIS LTDA
+
+CONTRATO NÃO ACOMPANHADO
+
+065/2020 POR ESTA DACC
+
+SERVIÇO 00060-00385454/2019-44
+
+ 
+
+ 
+
+Processo 00060-00173741/2020-47
+CONTARPP CT 067/20 COMPLETO
+(61658307)
+
+Processo 00060-00180332-2020-05
+CONTARPP CT 067/20 COMPLETO
+(61659263)
+
+Processo 00060-00193925/2020-23
+CONTARPP CT 067/20 COMPLETO
+(61660159)
+
+Processo 00060-00259339/2020-59
+CONTARPP CT 067/20 COMPLETO
+(61660413)
+
+067/2020 CONTARPP ENGENHARIA LTDA | OBRA 00060-00129560/2020-83
+
+ 
+
+ 
+
+068/2020 Ea DE ANÁLISES CLÍNICAS SERVIÇO 00060-00101215/2020-85 | NÃO HOUVE PAGAMENTO
+
+ 
+
+ 
+
+HOSPITAL SERVIÇOS DE
+
+069/2020 ASSISTÊNCIA SOCIAL SEM | SERVIÇO 00060-00137001/2020-47 | CONTRATO NÃO ACOMPANHADO POR
+
+ 
+
+ 
+
+ 
+
+ALOJAMENTO LTDA ESTA DACC
+
+070/2020 INFRA ENGETH INFRA- | OBRA 00060-00155821/2020-11 | Processo 00060-00206501/2020-36
+ESTRUTURA CONSTRUÇÃO E INFRA  ENGETH CT 070/2020
+COMÉRCIO LTDA (61675660)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ocumento imprimir web&acao origei
+
+ 
+
+rvore visualizar&id documento=71267240&infra sist... 10/16
+21/05/2021
+
+SEI/GDF - 62407199 - Nota Técnica
+
+Processo 00060-00253702/2020-22
+INFRA  ENGETH CT 070/2020
+(61676209)
+
+Processo 00060-00403982/2020-26
+INFRA  ENGETH CT 070/2020
+
+ 
+
+(61676361)
+
+ 
+
+ 
+
+075/2020
+
+MEVATO CONSTRUÇÕES E
+COMÉRCIO LTDA
+
+OBRA
+
+04016-00030034/2020-62
+
+Processo 00060-00054987/2021-00
+MEVATO CT 075/2020 (61676620)
+
+Processo 00060-00212479/2020-63
+MEVATO CT 075/2020 (61677181)
+
+Processo 00060-00250290/2020-79
+MEVATO CT 075/2020 (61677540)
+
+Processo 00060-00305415/2020-13
+MEVATO CT 075/2020 (61678460)
+
+Processo 00060-00344759/2020-30
+MEVATO CT 075/2020 (61678628)
+
+Processo 00060-00393272/2020-81
+MEVATO CT 075/2020 (61679020)
+
+Processo 00060-00430405/2020-15
+MEVATO CT 075/2020 (61679202)
+
+Processo 00060-00483109/2020-17
+MEVATO CT 075/2020 (61679341)
+
+Processo 00060-00529302/2020-01
+MEVATO CT 075/2020 (61679464)
+
+Processo 00060-00542176/2020-72
+MEVATO CT 075/2020 (61679615)
+
+ 
+
+ 
+
+079/2020
+
+BIOMEGA
+DIAGNÓSTICA LTDA
+
+MEDICINA
+
+SERVIÇO
+
+00060-00180684/2020-52
+
+Processo 00060.00225316/2020-41
+completo- Biomega (61652234)
+
+Processo 00060.00222472/2020-50
+completo Biomega (61652238)
+
+Processo 00060.00251462/2020-21
+completo-Biomega (61652244)
+
+Processo 00060.00262807/2020-72
+completo-Biomega (61652257)
+
+Processo 00060.00239414/2020-65
+completo-Biomega (61652270)
+
+ 
+
+ 
+
+080/2020
+
+INSTITUTO MED AID SAÚDE —
+IMAS
+
+SERVIÇO
+
+00060-00145738/2020-33
+
+CONTRATO NÃO ACOMPANHADO POR
+ESTA DACC
+
+ 
+
+ 
+
+091/2020
+
+DAN ENGENHARIA E
+CONSULTORIA LTDA
+
+SERVIÇO
+
+00060-00155261/2020-02
+
+Processo 00060-00416569/2020-21
+DAN ENGENHARIA CT 091/2020
+(61674115)
+
+Processo 00060-00515265/2020-46
+DAN ENGENHARIA CT 091/2020
+(61674544)
+
+Processo 00060-00525444/2020-91
+DAN ENGENHARIA CT 091/2020
+(61674815)
+
+Processo 00060-00334993/2020-59
+DAN ENGENHARIA CT 091/2020
+(61675017)
+
+Processo 00060-00471357/2020-15
+DAN ENGENHARIA CT 091/2020
+(61675191)
+
+Processo 00060-00555885/2020-18
+DAN ENGENHARIA CT 091/2020
+(61675357)
+
+ 
+
+ 
+
+104/2020
+
+ASSOCIAÇÃO SAÚDE EM
+MOVIMENTO — ASM
+
+SERVIÇO
+
+00060-00249077/2020-14
+
+CONTRATO NÃO ACOMPANHADO POR
+ESTA DACC
+
+ 
+
+ 
+
+106/2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ 
+
+CONTARPP ENGENHARIA LTDA
+
+ 
+
+ 
+
+ 
+
+SERVIÇO
+
+ocumento imprimir web&acao origei
+
+ 
+
+ 
+
+00060-00227177/2020-90
+
+ 
+
+Processo 00060-00345141/2020-97
+CONTARPP CT 106/2020 (61662541)
+
+Processo 00060-00368301/2020-76
+CONTARPP CT 106/2020 (61663802)
+
+Processo 00060-00391039/2020-63
+CONTARPP CT 106/2020 (61671373)
+
+Processo 00060-00430328/2020/95
+CONTARPP CT 106/2020 (61671649)
+
+ 
+
+ 
+
+ 
+
+ 
+
+rvore visualizar&id document
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1267240&infra sist..
+
+11/16
+21/05/2021
+
+SEI/GDF - 62407199 - Nota Técnica
+
+Processo 00060-00456291/2020-25
+CONTARPP CT 106/2020 (61672190)
+
+Processo 00060-00479132/2020-07
+CONTARPP CT 106/2020 (61673020)
+
+Processo 00060-00524985/2020-01
+CONTARPP CT 106/2020 (61673332)
+
+Processo 00060-00555953/2020-49
+CONTARPP CT 106/2020 (61673649)
+
+ 
+
+ 
+
+41437/2020
+
+WEGH ASSESSORIA E LOGISTICA
+INTERNACIONAL LTDA
+
+SERVIÇO 00010-00001781/2020-74 | NÃO HOUVE PAGAMENTO
+
+ 
+
+ 
+
+4159/2020 | (A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+KNC MEDICINA DIAGNOSTICA
+
+SERVIÇO 00060-00254827/2020-70 | NÃO HOUVE PAGAMENTO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Em complemento ao já apresentado no "item 4" (os processos administrativos de despesa, independentemente de ter havido licitação ou
+dispensa ou inexigibilidade de licitação, em PDF), a Subsecretaria de Administração Geral (SUAG) da SES informou que a Diretoria de Aquisições Especiais
+(DAESP), setor responsável pelas atividades relacionadas às aquisições de materiais e bens, às contratações de serviços por meio de dispensa e inexigibilidade de
+licitação, às adesões às atas de registro de preços e às importações, por meio do Despacho (61559848), apresentou os processos de contratação/aquisição
+relacionados a Pandemia do COVID-19, com tramitação na Diretoria e que foram efetivados, conforme planilha abaixo:
+
+ 
+
+ 
+
+Relação Processos com fundamento na Lei Federal 13.979/2020 (Lei do COVID) e relacionados à Pandemia do Covid-19
+
+ 
+
+ 
+
+ 
+
+Processo
+
+Objeto
+
+ 
+
+ 
+
+00060-00109204/2020-43
+
+Contratação emergencial de central telefônica ativa e receptiva para atendimento aos usuários cadastrados nos
+núcleos do Componente Especializado - NFCE (farmácias de Alto Custo) da GCEAF/DIASF/SESDF, contemplando
+agendamento, entregas de medicamentos em domicílio e fornecimento de mão de obra especializada de nível
+médio para atividades relacionadas à separação e transporte dos medicamentos.
+
+ 
+
+ 
+
+00060-00385454/2019-44
+
+Prestação de serviços de fornecimento de CONCENTRADOR DE OXIGÊNIO DOMICILIAR DE BAIXO e ALTO FLUXO
+e CONCENTRADOR DE OXIGÊNIO PORTÁTIL, fornecimento de GÁS MEDICINAL e DESCARTÁVEIS PARA
+OXIGENOTERAPIA, com COMODATO DE CILINDROS DE OXIGÊNIO e LOCAÇÃO DOS CONCENTRADORES para
+atender às demandas da Secretaria de Saúde - DF
+
+ 
+
+ 
+
+00060-00129560/2020-83
+
+Contratação emergencial de empresa de especializada em construção civil para adequar o Estádio Nacional de
+Brasília Mané Garrincha no sentido de implementar o Hospital de Campanha e criar 200 (duzentos) leitos de
+internação para pacientes em tratamento de coronavírus (COVID-19)
+
+ 
+
+ 
+
+00060-00101215/2020-85
+
+Contratação de laboratório especializado para diagnóstico laboratorial para a detecção de SARS COV 2 (COVID -
+19) por metologia molecular em para atender às demandas da Secretaria de Saúde - DF
+
+ 
+
+ 
+
+ 
+
+00060-00137001/2020-47
+
+Contratação emergencial de Serviço de Gestão Integrada de 173 (cento e setenta e três) leitos de Enfermaria
+Adulto sem suporte de oxigenioterapia + 20 Leitos de Suporte Avançado + 04 Leitos de emergência (sala
+vermelha), por preço global, compreendendo a locação de equipamentos, gerenciamento técnico, assistência
+médica multiprofissional (de forma ininterrupta), com manutenção e insumos necessários para o
+funcionamento dos equipamentos (incluindo computadores e impressoras) e atendimento dos pacientes
+(medicamentos, materiais, alimentação) a ser estruturado em local disponibilizado pela Contratante para o
+enfrentamento ao COVID-19. Dispensa de Licitação nº 08/2020.
+
+ 
+
+ 
+
+00060-00155821/2020-11
+
+Contratação emergencial de empresa especializada em engenharia civil para construção de unidade de
+atendimento hospitalar com capacidade para 10 (dez) leitos de suporte avançado e 30 (trinta) leitos de
+enfermaria, no Complexo Penitenciário da Papuda visando atender a população carcerária acometida pelo
+coviD19
+
+ 
+
+ 
+
+04016-00030034/2020-62
+
+contratação emergencial de empresa especializada em engenharia civil para prestar serviços de manutenção
+predial incluindo manutenção da infraestrutura e instalações existente, de forma ininterrupta, no período de
+180 (cento e oitenta) dias, e construção de abrigo de recipientes de resíduos, no sentido de permitir o
+funcionamento de 86 (oitenta e seis) leitos de terapia intensiva e 20 (vinte) leitos de retaguarda no Centro
+Médico da Polícia Militar do Distrito Federal - PMDF
+
+ 
+
+ 
+
+00060-00180684/2020-52
+
+Trata-se da contratação de serviços laboratoriais de análises clínicas, para realização de 100.000 Testes Rápidos
+para Coronavírus COVID-19 IgG e IgM, no intervalo de 15 dias
+
+ 
+
+ 
+
+ 
+
+00060-00145738/2020-33
+
+Trata-se da contratação de serviços de Gestão Integrada de 86 (Oitenta e Seis) leitos de UTI tipo Il + 20 Leitos
+de Enfermaria, por preço global, compreendendo a locação de equipamentos, gerenciamento técnico,
+assistência médica multiprofissional (de forma ininterrupta), com manutenção e insumos necessários para o
+funcionamento dos equipamentos (incluindo computadores e impressoras) e atendimento dos pacientes
+(medicamentos, materiais, alimentação, nutrição enteral e parenteral) a ser estruturado no Hospital da Polícia
+Militar, para enfrentamento ao COVID-19
+
+ 
+
+ 
+
+00060-00155261/2020-02
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trata-se da contratação de serviços para instalação e manutenção de sistema de climatização em edificações
+hospitalares para prestar serviços de fornecimento, instalação e manutenção preventiva, preditiva e corretiva,
+incluindo peças, no sistema de climatização do Centro Cirúrgico, Pronto Socorro, Centro Obstétrico, Unidade de
+Tratamento Intensivo - UTI e Central de Material e Esterilização - CME do Hospital Regional da Asa Norte —
+HRAN, para atender as necessidades da Secretaria de Estado de Saúde — DF,
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+   
+
+ocumento imprimir web&acao origei
+
+ 
+
+rvore visualizar&id document
+
+1267240&infra sist..
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12/16
+21/05/2021
+00060-00249077/2020-14
+
+SEI/GDF - 62407199 - Nota Técnica
+
+Serviço de Gestão Integrada de 86 (Oitenta e Seis) leitos de suporte avançado e 20 Leitos de enfermaria, por
+menor preço lote/item, compreendendo a locação de equipamentos, gerenciamento técnico, assistência
+multiprofissional (de forma ininterrupta), com manutenção e insumos necessários para o funcionamento dos
+equipamentos (incluindo computadores e impressoras) e atendimento dos pacientes (medicamentos, materiais
+médico-hospitalares e esterilização de equipamentos e materiais, alimentação, nutrição enteral e parenteral) a
+ser estruturado no Hospital da Polícia Militar
+
+ 
+
+ 
+
+ 
+
+00060-00227177/2020-90
+
+construção de unidade de atendimento hospitalar com capacidade para 60 (sessenta) leitos, sendo 20 (vinte)
+leitos de suporte avançado e 40 (quarenta) leitos de enfermaria na QNN 27 Área Especial, Lote "D" - Ceilândia,
+com área total de 2.115,72 m?, conforme indicado no Projeto Básico de Arquitetura anexo, para atendimento
+exclusivo à pacientes acometidos pelo COVID-19
+
+ 
+
+ 
+
+00010-00001781/2020-74
+
+Contratação de empresa especializada para nacionalização de produto para saúde conforme as AWB
+
+ 
+
+ 
+
+00060-00254827/2020-70
+
+contratação de empresa especializada para execução de serviços laboratoriais de análises clínicas, para
+realização de 100.000 Testes Rápidos para detecção do Coronavírus COVID-19 IgG e IgM disponibilizados em 10
+pontos de testagens que serão definidos a partir de critérios epidemiológicos e demográficos após a
+contratação
+
+ 
+
+ 
+
+ 
+
+ 
+
+00060-00105182/2020-42
+
+Trata o presente da solicitação de autorização para aquisição em caráter emergencial de EQUIPAMENTOS DE
+PROTEÇÃO INDIVIDUAL - EPI, PARA O COMBATE DA DISSEMINAÇÃO DO COVIDIS.
+
+ 
+
+ 
+
+00060-00128485/2020-33
+
+Trata o presente da aquisição em caráter emergencial de Kit PCR em Tempo Real para a detecção qualitativa do
+vírus SARS Cov-2 para atender a demanda da Rede SES/DF. Dispensa de Licitação 24/2020.
+
+ 
+
+ 
+
+00060-00104949/2020-16
+
+Trata o presente da aquisição, em caráter emergencial, de Medicamentos e Insumos para Manipulação de
+Medicamentos para atender a demanda da Rede da Secretaria de Estado de Saúde do DF
+
+ 
+
+ 
+
+00060-00194015/2020-68
+
+Trata o presente da aquisição em caráter Emergencial do material médico hospitalar: MÁSCARA CIRÚRGICA
+DESCARTÁVEL, PARA O COMBATE DA DISSEMINAÇÃO DO COVID19
+
+ 
+
+ 
+
+00060-00151232/2020-63
+
+Aquisição emergencial de insumos laboratoriais para enfrentamento à pandemia de Coronavírus.
+
+ 
+
+ 
+
+00060-00124295/2020-47
+
+Trata-se do Contrato nº 068/2020-SES/DF, firmado em 17/04/2020, entre o Distrito Federal, por intermédio da
+Secretaria de Estado de Saúde, e a empresa LABORATÓRIO SABIN DE ANÁLISES CLÍNICAS LTDA, cujo objeto
+consiste na contratação emergencial de laboratório especializado para diagnóstico laboratorial para a detecção
+de SARS COV 2 (COVID - 19) por metologia molecular em para atender às demandas da Secretaria de Saúde -
+DF. Dispensa de Licitação nº 05/2020.
+
+ 
+
+ 
+
+00060-00106136/2020-61
+
+Trata-se de aquisição em caráter emergencial do material: TESTES RÁPIDO PARA DETECÇÃO QUALITATIVA
+ESPECÍFICA DE IGG E IGM E ANTÍGENO DO COVID-19, na quantidade de 300.000 (trezentos mil) unidades de
+testes, por meio de Dispensa de Licitação, com fulcro no art. 24, inciso IV, da Lei nº. 8.666/93, ratificada pelo
+Sr. Secretário de Saúde do Distrito Federal no documento SEI - Dispensa de Licitação nº 09/2020
+
+ 
+
+ 
+
+00060-00159341/2020-29
+
+Trata-se da aquisição Emergencial de Teste Rápido para detecção qualitativa específica de IgG e IgM do COVID-
+19. Teste rápido, através da metodologia de imunocromatografia, destinado a detecção qualitativa específica
+de IgG e IgM do COVID-19, podendo ser utilizado em amostras de sangue total, soro e plasma, conforme
+condições e especificações constantes no Projeto Básico. Dispensa de Licitação nº 11/2020
+
+ 
+
+ 
+
+00060-00159341/2020-29
+
+Trata-se da aquisição Emergencial de Teste Rápido para detecção qualitativa específica de IgG e IgM do COVID-
+19. Teste rápido, através da metodologia de imunocromatografia, destinado a detecção qualitativa específica
+de IgG e IgM do COVID-19, podendo ser utilizado em amostras de sangue total, soro e plasma, conforme
+condições e especificações constantes no Projeto Básico. Dispensa de Licitação nº 18/2020.
+
+ 
+
+ 
+
+00060-00254827/2020-70
+
+Trata-se o procedimento da Contratação de empresa especializada para execução de serviços laboratoriais de
+análises clínicas, para realização de 100.000 Testes Rápidos para detecção do Coronavírus COVID-19 IgG e IgM
+disponibilizados em 10 pontos de testagens que serão definidos a partir de critérios epidemiológicos e
+demográficos após a contratação. Ressaltamos que a testagem deve ser realizada dentro de um período
+máximo de 30 dias. A empresa deve dispor de recursos humanos habilitados, estrutura física tipo Drive Thru,
+gerenciamento de resíduos, alimentação, gerenciamento de dados (envio de dados Secretaria de Vigilância em
+Saúde e para e Secretaria Adjunta de Assistência), emissão de resultado físico e eletrônico para atender às
+demandas da Secretaria de Saúde - DF Dispensa de Licitação nº 57/2020.
+
+ 
+
+ 
+
+ 
+
+ 
+
+00060-00173692/2020-42
+
+Versa o processo acerca da aquisição em caráter Emergencial do material Testes rápido para detecção
+qualitativa específica de IgG e IgM e antígeno do COVID-19, para atender a demanda da Rede SES/DF, de
+acordo com a legislação sanitária vigente, com fulcro no artigo 4º, inciso IV, da Lei nº 13.979/2020, onde foi
+ampliada a hipótese de incidência da autorização legal de dispensa de licitação para insumos destinados ao
+enfrentamento da pandemia da doença do Coronavírus (COVID-19). Dispensa de Licitação DL nº 16/2020.
+
+ 
+
+ 
+
+00060-00180684/2020-52
+
+Versa o processo acerca da Contratação de empresa especializada para execução de serviços laboratoriais de
+análises clínicas, para realização de 100.000 Testes Rápidos para Coronavírus COVID-19 IgG e IgM, no intervalo
+de 15 dias. A empresa deve dispor de recursos humanos habilitados, estrutura física tipo Drive Thru,
+gerenciamento de resíduos, alimentação, gerenciamento de dados (envio de dados Secretaria de Vigilância em
+Saúde e para e Secretaria Adjunta de Assistência), emissão de resultado físico e eletrônico para atender às
+demandas da Secretaria de Saúde - DF, de acordo com a legislação sanitária vigente, com fulcro no artigo 4º,
+inciso IV, da Leinº 13.979/2020, onde foi ampliada a hipótese de incidência da autorização legal de dispensa de
+licitação para insumos destinados ao enfrentamento da pandemia da doença do Coronavírus (COVID-
+19). Dispensa de Licitação nº 20/2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+00060-00150153/2020-35
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trata o presente processo da aquisição emergencial a ser realizada pela Secretaria de Estado de Saúde do
+Distrito Federal, referente à Dispensa de Licitação nº 58/2020, com fulcro no Art. 4º da Lei Federal
+
+ 
+
+rvore visualizar&id document
+
+ 
+
+ocumento imprimir web&acao origei
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1267240&infra sist..
+
+13/16
+21/05/2021 SEI/GDF - 62407199 - Nota Técnica
+
+13.979/2020, para aquisição emergencial do item identificado pelo Código SES 21552 e Outros - REAGENTES
+para dosagens bioquímicas, conforme Projeto Básico. Dispensa de Licitação nº 58/2020.
+
+ 
+
+ 
+
+ 
+
+Versa o processo acerca da aquisição, em caráter emergencial, de Medicamentos e Insumos para Manipulação
+de Medicamentos para atender a demanda da Rede da Secretaria de Estado de Saúde do DF, de acordo com a
+00060-00104949/2020-16 | legislação sanitária vigente, com fulcro no art. 4º, inciso Iv, da Lei Federal n. 13.979/2020, onde foi ampliada
+a hipótese de incidência da autorização legal de Dispensa de Licitação para insumos destinados ao
+enfrentamento da pandemia da doença do Coronavírus (COVID-19) Dispensa de Licitação n. 31/2020.
+
+ 
+
+ 
+
+ 
+
+ 
+
+00060-00135812-2020/11 || Versao processo acerca da aquisição do Cód. SES 34084 - AVENTAL DE PROCEDIMENTO NÃO ESTÉRIL
+
+ 
+
+ 
+
+Versa o processo acerca da aquisição em caráter emergencial de MÁQUINAS DE HEMODIÁLISE E OSMOSE
+REVERSA PORTÁTEIS, para enfrentamento à pandemia de Coronavírus em atendimento à demanda do Govemo
+do Distrito Federal, de acordo com a legislação sanitária vigente, com fulcro no art. 42, da Lei Federal
+00060-00147608/2020-35 | nº 13.979/2020, de 06 de fevereiro de 2020, alterada pela Lei Federal nº 14.035/2020, de 11 de agosto de
+2020, onde foi ampliada a hipótese de incidência da autorização legal de Dispensa de Licitação para insumos
+destinados ao enfrentamento da pandemia da doença do Coronavírus (COVID-19). Dispensa de
+Licitação nº 87/2020.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trata o presente processo da aquisição emergencial do material médico hospitalar: LUVA DE PROCEDIMENTO E
+
+00060-00067598/2021-36 | otros para atender as necessidades da Secretaria de Saúde — SES-DF. Dispensa de Licitação nº 018/2021.
+
+ 
+
+ 
+
+Trata o presente da Contratação Emergencial de Serviço de Gestão Integrada compreendendo, gerenciamento
+técnico, assistência multiprofissional (de forma ininterrupta), com manutenção e insumos necessários para o
+funcionamento dos equipamentos (incluindo computadores e impressoras) e atendimento dos pacientes
+(medicamentos, materiais médico-hospitalares, gases medicinais e esterilização de equipamentos e materiais,
+alimentação, nutrição enteral e parenteral), em Hospitais de Campanha para enfrentamento a SARS-
+COV2. Dispensa de Licitação nº 31/2021
+
+00060-00126594/2021-05
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O Despacho mesmo informa, ainda, que, quando da conversão dos processos em formado pdf, a Diretoria verificou que "os arquivos superavam
+o limite suportado pelo SEI que é de 20MB por arquivo, fato que impossibilita a anexação dos arquivos a este processo conforme solicitado", razão pela qual
+sugeriu verificar junto ao Senado Federal (Órgão Requerente) a di ação de endereço eletrônico para a disponibilização dos processos (ace
+de modo a possibilitar o download diretamente do link encaminhado.
+
+  
+
+11.3 — Ofício nº 476/2021 - CPIPANDEMIA (61252106) - Requerimento nº 194-2021/CPIPANDEMIA (61251848)
+
+Por meio do Requerimento nº 194/2021 (61251848), o Senador Marcos Rogério (Líder do Democratas) requereu informações sobre os protocolos
+medicamentosos utilizados no tratamento de pacientes com Covid-19, devendo ser encaminhada a cópia integral de todos os seguintes documentos referentes
+aos recursos citados, nos formatos abaixo discriminados:
+
+1. 0s protocolos medicamentosos (em formato PDF);
+
+2. os medicamentos adquiridos (em formato PDF);
+
+3. as datas das aquisições (em formato PDF);
+
+4, as quantidades adquiridas (em formato PDF);
+
+5.as notas fiscais dos medicamentos adquiridos (em arquivo XML);
+
+6. o percentual de eficácia de cada medicamento utilizado, considerando o percentual de pacientes tratados e recuperados (em formato
+PDF);
+
+Em manifestação anterior (Nota Técnica N.º 748/2021 - CACI/SPG/UNAL, doc.61779095), esta Unidade apresentou as informações dos itens 1, 2,
+4,5 e 6 do Requerimento nº 194/2021 (61251848).
+
+Em atendimento ao exposto na Nota Técnica N.º 771/2021 - CACI/SPG/UNAI (62012314), que opinou pela complementação e apresentação das
+informações pendentes e nos formatos solicitados, em especial quanto aos itens 5 e 6 do Requerimento nº 194/2021, a Secretaria de Estado de Saúde
+apresentou as informações a seguir.
+
+Quanto ao “item 5º, a SES informou:
+
+5. Notas fiscais dos medicamentos adquiridos (em anexo - arquivos 61588041, 61588185, 61588309, 61590375 e 61590799);
+(grifos no original)
+
+Assim, em que pese não constar os documentos no formato solicitado, a informação repassada pela área técnica daquela Pasta é de que as notas
+fiscais solicitadas foram acostadas nos autos, em formato de arquivo PDF, nos seguintes documentos:
+* Relação Notas Fiscais Medicamentos - arquivo 1 (61588041)
+* Relação Notas Fiscais Medicamentos - arquivo 2 (61588185)
+* Relação Notas Fiscais Medicamentos - arquivo 3 (61588309)
++ Relação Notas Fiscais Medicamentos - arquivo 4 (61590375)
+* Relação Notas Fiscais Medicamentos - arquivo 5 (61590799)
+
+Quanto ao “item 6º, a Secretaria de Saúde ratificou a informação apresentada pela Câmara Técnica de Diretrizes e Orientações para o Manejo da
+COvID-19, em manifestação consubstanciada no Despacho - SES/SAIS/CAT-COVIDAS (61703668), com o seguinte teor:
+
+A resposta para o questionamento referente à eficácia terapêutica de qualquer medicamento requer que o seu uso tenha sido realizado em
+ambiente controlado dentro de um contexto de pesquisa clínica, sendo considerado como "padrão ouro " para o desenho de ensaio clínico
+prospectivo randomizado, duplo cego, com grupo controle placebo.
+
+ 
+
+https://sei.df.gov.br/seilcontrolador php?aca
+
+ 
+
+ocumento imprimir web&acao origei
+
+ 
+
+rvore visualizar&id documento=71267240&infra sist... 14/16
+21/05/2021
+
+Hi - CONCLUSÃO
+
+SEI/GDF - 62407199 - Nota Técnica
+
+Os estudos realizados utilizando coleta retrospectiva de dados não são adequados quando intencionam determinar a segurança,
+efetividade, eficácia e eficiência de um medicamento. Desta forma, somente podem ser descritos os dados de eficácia contidos nos estudos
+realizados com esses medicamentos, não sendo possível apresentar o número exato de pacientes tratados fora do ambiente de pesquisa
+clínica, bem como sua respectiva taxa de eficácia.
+
+Abaixo seguem os estudos considerados mais relevantes (com rigor metodológico adequado) referente 20 suporte clínico farmacológico
+ofertado aos pacientes que evoluem com necessidade de internação em Enfermaria, Unidades de Terapia Semi-Intensiva e Unidades de
+
+Terapia Intensiva:
+
+The Randomised Evaluation of COVID-19 Therapy (RECO VERY) Collabo rative group (Grupo Colaborativo para Avaliação
+Randomizada de Terapia para COVID-19)
+
+« A Dexametasona reduziu a mortalidade em 35% nos pacientes que receberam ventilação mecânica invasiva (RR de 0,65 [IC
+
+95% 0,51 a 0,82]; p <0,001) e em 20% nos pacientes que receberam oxigênio sem ventilação mecânica invasiva (RR de 0,80
+[1C95% 0,70 a 0,92]; p = 0,002). No entanto, não houve nenhuma evidência de benefício entre os pacientes que não estavam
+recebendo suporte ventilatório ou em uso de oxigenioterapia.
+
+ 
+
+Guidance on diagnosis, prevention and treatment of thrombo embolic complications in COVID-19 (Guia para diagnóstico,
+prevenção e tratamento de complicações tromboembólicas na COVID-19)
+
++ https:/Awyrw sciencedirect.com/science/article/pii/S253 11 37920300705?via%3 Dihub
+
+« ISTH interim guidance on recognition and management of coagulopathy in COVID-19 (Guia para reconhecimento e manejo da
+
+Congulopatia relacionada à COVID-19)
+
+* https://onlinelibrary.wiley.com/doi/full/10.11 | L/jth. 14810
+
+* Anticoagulant treatment is associated with decreased mortality in severe co ronavirus disease 2019 patients with coagulopathy
+
+(Tratamento com anticoagulantes é associado a diminuição de mortalidade na COVID-19 com coagulopatia)
+
++ https://onlinelibrary.wiley.com/doi/full/10.111 L/jth 14817
+
+* Anticoagulant therapy mainly with low molecular weight heparin appears to be associated with better prognosis in severe
+
+COVID-19 patients meeting SIC criteria or with markedty elevated D-dimer (Terapia anticoagulante principalmente com uso
+de Heparina de Baixo Peso Molecular aparenta estar associado com melhor prognóstico em COVID-19 na forma severa com
+escore SIC elevado ou com nível marcadamente elevado de d-dimero )
+
+Prevention and Treatment of Venous Thromboembolism Associated with Coronavirus Discase 2019 Infection: A Consensus
+Statement before Guidelines (Prevenção e Tratamento de Tromboembolismo Venoso com Infecção pelo Coronavitus: Consenso
+frente aos Guidelines)
+
+https:/Awww thieme-connect de/products/gjourmals/abstract/1 0.1055/5-0040-1710019
+
+* Management ofhospitalised adults with co ronavirus discase-19 (COVID-19): A European Respiratory Society living guideline.
++ https://er) ersjoumals.com/content/eariy/2021/03/07/13993003.00048-2021
+
+Guidelines nacionais e internacionais de manejo de COVID-19
+
+https:/fwww. covid | 9treatmentguidelines nih.gov/critical-care/
+https:/fwww amib.org br/fileadminíuser upload/amib/2020/maio/1|/RECOMENDACOES PARA O CUIDADO FARMACEU
+
+https:/fwwrw amib.org br/fileadmin/user upload /amib/2020/julho/07/Analgesia e sedacao AMIB 070720 VV VIS.pdf
+
+https:/fwwrw amib.org br/fileadmin/user upload/amib/2020/abril/24/Orientac o es para o Manuseio do paciente com coros
+V6 Junho 2020,pdf
+
+ 
+
+   
+
+ 
+
+Os estudos e guidelines acima citados têm fornecido fundamentos técnicos para a elaboração de protocolos e diretrizes assistenciais em
+diversos países tais como Estados Unidos, Reino Unido, União Européia, assim como para as diretrizes construídas por este corpo técnico.
+
+É importante salientar que esta Câmara Técnica tem função consultiva, não sendo do seu escopo de atribuições a implementação e
+fiscalização da execução das recomendações elaboradas.
+
+A despeito dos esclarecimentos prestados, a Secretaria de Estado de Saúde, por intermédio do Ofício nº 5189/2021 - SES/GAB (62304651),
+asseverou que ainda existem áreas técnicas daquela Pasta que foram instadas a se manifestar em relação aos questionamentos epigrafados, solicitando a dilação
+do prazo para nova complementação.
+
+ 
+
+Deste modo, considerando as informações apresentadas, sugere-se o encaminhamento dos autos ao Gabinete desta Casa Civil, com sugestão
+de posterior encaminhamento à Consultoria Jurídica do Governador, para ciência desta Nota Técnica e adoção das medidas julgadas cabíveis, afim de
+promover a resposta às solicitações apresentadas pelo Senado Federal e, caso assim entenda, solicitar nova prorrogação de prazo, conforme solicitado pela
+Secretaria de Estado de Saúde do Distrito Federal, para apresentação das informações que ainda serão apresentadas por suas áreas técnicas.
+
+Grazielle Rodrigues
+
+Assessora Especial
 
 De acordo.
 
-Encaminhem-se os aros ao Gabinete desta Casa Chi, com sugestão de posterior encaminhamento à Consultoria Jurídica do Governador, para
-ciência desta Nota Técnica e adoção das medidas julgadas cabíveis, afim de promover à resposta às soliciações apresentadas pelo Senado Federal e, caso
-assim entenda, soictar nova prorrogação de prazo, conforme solitado pela Secretaria de Estado de Saúíde do Distrito Federal, para apresentação das.
-informações que aínda serão apresentadas por suas áreas técnicas.
+Submeta-se à apreciação do Subsecretário de Análise de Políticas Governamentais.
+
+ 
+
+'sei.df.gov.br/seilcontrolador.php?aca:
+
+Patrícia Helena Domingos
+
+   
+
+ocumento imprimir web&acao origem=arvore visualizar&id documento=712672408infra sist..
+
+15/16
+21/05/2021
+
+De acordo.
+
+SEI/GDF - 62407199 - Nota Técnica
+Chefe da Unidade de Articulação Institucional
+
+Encaminhem-se os autos ao Gabinete desta Casa Civil, com sugestão de posterior encaminhamento à Consultoria Jurídica do Governador, para
+ciência desta Nota Técnica e adoção das medidas julgadas cabíveis, afim de promover a resposta às solicitações apresentadas pelo Senado Federal e, caso
+assim entenda, solicitar nova prorrogação de prazo, conforme solicitado pela Secretaria de Estado de Saúde do Distrito Federal, para apresentação das
+informações que ainda serão apresentadas por suas áreas técnicas.
 
 Raimundo Júnior
 
-Subsetretário de Análise do Polficas Governamentais
-
-seil sy) 7d) dotado ra cnemomem ensuos iria
-
-ea confame a? do Decio” 35756 de IG de seem de 2015, pubbcado no Diria Oca
-
-do ivo rodelas 180, quina 17 de sasembrode 2015
-
-Documento assinado eetoicamente po PATRÍCIA HELENA TAVARES DOMIGOS DOS
-SANTOS Mate 16S1892-5, Che) a Uniade de Articlção Insstucona em 2/05/20,
-às 1:30 conforme an 6 d Deco 36756, de 16 desenembo de 2015, picado no
-Diário Ofcialdo Div Fedtae 180 quisa-eia, 17d setembnode 2015.
-
-Documento ssnado eestoicamente por GRAZIELE RODTUGUES - Mate 1en3e16
-Assesgoa) Especial em 21/05/2021, às 1733, onfarme at 6º do Decroa” 3356 de de
-setembeode 2015, pubicado no ii hcl o Distrito Tedesaa 100, quinta 17 de
-Sesambrod 205
+Subsecretário de Análise de Políticas Governamentais
 
  
 
-A asenicdade do documento podes conerdanosãe
-Mepfcidt ponte forcado emermaghp?
-acamedarumeno confriaia oi, ess, eemoso
-venicador= 6240719 cógo Cc= 15003975.
+sei,
+
+Documento assinado eletronicamente por RAIMUNDO DIAS IRMÃO JÚNIOR - Matr.1.668.283-
+1, Subsecretário(a) de Análise de Políticas Governamentais, em 21/05/2021, às 17:29,
+conforme art. 6º do Decreto nº 36.756, de 16 de setembro de 2015, publicado no Diário Oficial
+do Distrito Federal nº 180, quinta-feira, 17 de setembro de 2015.
+
+ 
+
+sei
+
+8
+
+Documento assinado eletronicamente por PATRÍCIA HELENA TAVARES DOMINGOS DOS.
+SANTOS - Matr.1693892-5, Chefe(a) da Unidade de Articulação Institucional, em 21/05/2021,
+às 17:30, conforme art. 6º do Decreto nº 36.756, de 16 de setembro de 2015, publicado no
+Diário Oficial do Distrito Federal nº 180, quinta-feira, 17 de setembro de 2015.
 
  
 
  
 
-caro omnssaem sa Oo sec exoriaa
+Documento assinado eletronicamente por GRAZIELLE RODRIGUES - Matr.1693416-4,
+Assessor(a) Especial, em 21/05/2021, às 17:33, conforme art. 6º do Decreto nº 36.756, de 16 de
+setembro de 2015, publicado no Diário Oficial do Distrito Federal nº 180, quinta-feira, 17 de
+setembro de 2015.
 
-Mips:fisel df gowbriseilcontrolador php?aca
+A autenticidade do documento pode ser conferida no site:
+http://sei. df gov.br/sei/controlador. extemo. php?
+acao=documento, conferir&id orgao, acesso, externo=0
+verificador= 62407199 código CRC= 33DD3975.
 
  
 
-jocumento imprimir. web&acao, ofigemsanvoro visualizardid, documentos? 126724 O8infra sist.. 18116
+“Brasília - Patrimônio Cultural da Humanidade"
+
+Praça do Buriti, Palácio do Buriti 1º Andar. - Bairro Zona Cívico Administrativa - CEP 70075-900 - DF
+
+ 
+
+ 
+
+00010-00000575/2021-54 Doc. SEI/GDF 62407199
+
+https://sei.df.gov.br/seicontrolador.php2acao=documento imprimir web&acao origem=arvore visualizar&id documento=71267240&infra sist... 16/16
 
