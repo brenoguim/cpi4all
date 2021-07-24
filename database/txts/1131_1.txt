@@ -1,57 +1,677 @@
-ae - » me
+ 
 
-E
-aitadfideperstociais
+ 
 
-o EM a
+República Federativa do Brasil
+
+Senado Federal
+
+Comissão Parlamentar de Inquérito
+
+Ações e omissões do Governo Federal no enfrentamento
+da Pandemia da Covid-19 no Brasil
+
+Presidente: Senador Omar Azis
+
+Depoente: Pedro Rodrigues Curi Hallal
+
+Junho, 2021
+
+ 
+
+ 
+1. Contextualização
+
+O presente documento reúne as informações comprobatórias dos temas a serem
+abordados durante o depoimento do Prof. Pedro Rodrigues Curi Hallal a
+Comissão Parlamentar de Inquérito da Covid-19, no âmbito do Senado Federal,
+agendado originalmente para o dia 25 de junho de 2021, às 9:00 horas, e depois
+remarcado para o dia 24 de junho de 2021.
+
+2. Apresentação do depoente
+
+O currículo do depoente está depositado na Plataforma Lattes, mantida pelo
+Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), uma
+plataforma de domínio público e acesso gratuito. O link para currículo do
+depoente é http://lattes.cnpq.br/3211152266266081 (Anexo 1). Resumidamente,
+o depoente possui Graduação em Educação Física, Mestrado e Doutorado em
+Epidemiologia, todos esses títulos obtidos junto à Universidade Federal de
+Pelotas. O depoente é Bolsista de Produtividade em Pesquisa Nível 1A do CNPq
+e está entre os 19 brasileiros destacados pela Clarivate Analytics, do Web of
+Science, na lista dos pesquisadores mais citados do mundo (Anexo 2). Em 20
+anos de carreira científica, o depoente publicou 478 artigos científicos, além de
+possuir 19 artigos científicos aceitos para publicação. Destes artigos, 439 foram
+citados pelo menos 10 vezes, de acordo com o Google Scholar. Nesta base, o
+depoente possui índice H de 100, sendo que seu trabalho foi citado 62.178 vezes
+
+por seus pares.
+
+O depoente foi agraciado com uma Newton International Fellowship pela
+prestigiada Royal Society, do Reino Unido, em 2009. Foi também o primeiro
+pesquisador não britânico a receber um Investigator Award da agência de
+fomento Wellcome Trust, do Reino Unido, em 2011 (Anexo 3). O depoente foi o
+proponente e investigador principal das Séries de Atividade Física publicadas no
+The Lancet em 2012 (https:/Awww.thelancet.com/series/physical-activity), 2016
+(https:/Avww .thelancet.com/series/physical-activity-2016) e de nova série sobre
+o tema, a ser publicada no meio de julho. Como forma de destacar sua atuação
+nas séries, o periódico The Lancet publicou um perfil sobre o depoente em 2016
+(Anexo 4).
+
+O depoente é Professor Permanente do Programa de Pós-Graduação em
+Epidemiologia (conceito 7 na avaliação da Coordenação de Aperfeiçoamento de
+Pessoal de Nível Superior —- CAPES) e do Programa de Pós-Graduação em
+Educação Física (conceito 4 na avaliação da CAPES), ambos sediados na
+Universidade Federal de Pelotas. Além de sua carreira científica, o depoente
+também tem experiência em gestão, visto que foi Coordenador do Programa de
+Pós-Graduação em Epidemiologia da UFPel entre 2015 e 2016 e foi Reitor da
+Universidade Federal de Pelotas entre 2017 e 2020.
+
+Embora sua área de atuação seja atividade física e saúde, o depoente utilizou
+sua formação em Epidemiologia para estudar a pandemia de coronavírus desde
+o princípio. O depoente é coordenador do EPICOVID19, o maior estudo
+epidemiológico sobre coronavírus no Brasil. O EPICOVID19 inclui uma pesquisa
+de âmbito estadual (EPICOVID19-RS) e outra de âmbito nacional (EPICOVID19-
+BR). O EPICOVID19-RS realizou 10 fases de coletas de dados, entre abril de
+2020 e abril de 2021, tendo entrevistado e testado aproximadamente 45 mil
+gaúchos espalhadas por nove cidades, de todas as regiões do estado. Já o
+EPICOVID19-BR realizou cinco fases de coletas de dados, entre maio de 2020
+e abril de 2021, tendo entrevistado e testado aproximadamente 250 mil
+brasileiros, espalhados por 133 municípios, em todos os estados da Federação.
+O Anexo 5 apresenta todas as publicações científicas oriundas do EPICOVID19.
+O depoente já publicou mais de uma dezena de artigos científicos sobre a
+
+pandemia de coronavírus em periódicos científicos nacionais e internacionais.
+
+3. Comparação do Brasil com o resto do mundo
+
+Preliminarmente, é essencial apresentar algumas considerações
+epidemiológicas para melhor interpretação dos dados sobre Covid-19 no mundo.
+As análises a serem apresentadas pelo depoente focam em mortes, e não em
+casos, pela simples razão de que há subestimativa grosseira do número de
+casos, conforme dados demonstrados pelo EPICOVID19 no Brasil (Anexo 5) e
+por outros estudos ao redor do mundo. Isso se explica pelas diferentes políticas
+e capacidades de testagem. Exatamente pela mesma razão, o uso dos
+indicadores de mortalidade é mais indicado do que o uso de indicadores de
+letalidade, especialmente para comparar os números entre cidades, estados ou
+países.
+
+Outra consideração epidemiológica básica é sempre utilizar números relativos,
+e não números absolutos, visto a importância do denominador para qualquer
+intepretação epidemiológica (Anexo 6). Por último, embora possa parecer óbvio,
+é necessário destacar a necessidade da utilização de fontes confiáveis para
+interpretar e analisar os dados da pandemia, visto a ampla disseminação de
+notícias falsas.
+
+3.1. Mortalidade, considerando o tamanho da população
+
+Existem inúmeras abordagens metodológicas para comparar o desempenho
+brasileiro com o restante do mundo no enfrentamento da pandemia de Covid-19.
+Em publicação na revista The Lancet, em janeiro de 2021 (Anexo 7), o depoente
+utilizou uma metodologia simples: comparar o percentual de mortes por Covid-
+19 no Brasil com o que seria esperado de acordo com o tamanho da população
+do país. O Brasil tem 2,7% da população mundial e, portanto, se tivesse um
+enfrentamento da pandemia na média mundial, seria esperado que tivesse 2,7%
+das mortes por Covid-19 no mundo. No entanto, na época da publicação, o Brasil
+concentrava 10,8% das mortes por Covid-19 no planeta. Portanto, até aquela
+data, o Brasil possuía 4,0 vezes mais mortes por Covid-19 do que seria esperado
+de acordo com o tamanho de sua população.
+
+Em função do depoimento na Comissão Parlamentar de Inquérito, o depoente
+atualizou os cálculos, até o dia 19 de junho de 2021, com dados do sítio
+eletrônico https:/Avww.worldometers.info/coronavirus/. Até essa data, o Brasil
+representava 12,9% das mortes por Covid-19 no planeta. Portanto, até a
+presente data, o Brasil possui 4,8 vezes mais mortes por Covid-19 do que seria
+esperado de acordo com o tamanho de sua população.
+E possível, portanto, afirmar que quatro de cada cinco mortes por Covid-19 no
+Brasil poderiam ter sido evitadas caso o país estivesse na média mundial em
+
+termos de enfrentamento da pandemia.
+3.2. Mortalidade acumulada
+
+Outra maneira de comparar o desempenho brasileiro com o do resto do mundo
+é avaliar a mortalidade acumulada por Covid-19. Os dados, extraídos do sítio
+eletrônico https://ourworldindata.org/covid-deaths, estão disponibilizados na
+Figura 1.
+
+per million people
+
+the number of confirmed death:
+
+  
+
+ 
+
+Brazil
+
+Fob 24, 2021 Jun 19, 2021
+
+ 
+
+Figura 1. Comparação da mortalidade acumulada por Covid-19, por 1 milhão de
+habitantes, entre o Brasil e o mundo.
+
+A mortalidade acumulada por Covid-19 era de 494 mortes por 1 milhão de
+habitantes no dia 18 de junho de 2021. No Brasil, a mortalidade acumulada era
+de 2345 mortes por 1 milhão de habitantes, na mesma data. A diferença é de
+4,7, muito parecida com a obtida no método de comparação pelo tamanho da
+população.
+Novamente, é possível afirmar que quatro de cada cinco mortes ocorridas por
+Covid-19 no Brasil poderiam ter sido evitadas caso o Brasil estivesse na média
+mundial de enfrentamento da pandemia. Para ser exato, no momento que o
+Brasil atingiu 500 mil mortes, 394 mil poderiam ter sido evitadas caso nosso
+desempenho no enfrentamento da pandemia fosse igual a média mundial.
+
+Analisando-se o ranking dos países com maior mortalidade acumulada por
+Covid-19 no planeta, o Brasil ocupa a 9º posição, atrás apenas do Peru, Hungria,
+Bósnia, República Tcheca, San Marino, Macedônia, Bulgária e Montenegro.
+Entre os 10 países com maior população do mundo, o Brasil é disparadamente
+aquele com maior mortalidade acumulada, sendo o único com mais de 2000
+mortes por 1 milhão de pessoas. Sete dos 10 países mais populosos do mundo
+possuem mortalidade acumulada inferior a 1000 mortes por 1 milhão de pessoas
+(Figura 2).
+
+per million people
+
+the number of confirmed death:
+
+  
 
  
 
  
 
-30.108] =
+ 
 
-deniritzodo est áriroDessio danadirtes
+Figura 2. Mortalidade acumulada por Covid-19 nos 10 países mais populosos
+do mundo.
+Outro recorte é comparar o desempenho brasileiro com os outros países dos
+BRICS (Rússia, Índia, China e África do Sul). Novamente, o desempenho
+brasileiro é disparadamente o pior (Figura 3). Enquanto o Brasil tem mortalidade
+acima de 2000 mortes por 1 milhão de habitantes, nenhum outro país dos BRICS
+tem mortalidade acima de 1000 mortes por 1 milhão de habitantes.
+
+ 
+
+Cumulative confirmed COVID-19 deaths per million people
+
+the number of confirmed death:
 
       
-    
 
- 
-
- 
- 
- 
-    
-
-Teens
-
-respiradores, a tentativa de geramtir oxigênio &imedicamentos para Kits intubação
-
-    
  
 
   
- 
+
+Apr 30
+
+Figura 3. Mortalidade acumulada por Covid-19 nos cinco países que compõe o
+bloco BRICS.
+
+Por fim, a Figura 4 apresenta os dados de mortalidade por Covid-19 nos países
+da América do Sul. O Brasil apresenta a segunda maior mortalidade da região,
+atrás apenas do Peru. Note que a América Latina é, no momento atual (junho de
+
+2021), o epicentro da pandemia.
+confirmed COVID-19 deaths per mi
+
+lion people
+
+e number of confirmed death
+
+         
 
  
 
  
 
+Figura 4. Mortalidade acumulada por Covid-19 na América do Sul.
+
+Por fim, cabe aprofundar o conceito das ondas epidemiológicas, tão difundido na
+interpretação dos dados da pandemia. A curva brasileira é bastante divergente
+das curvas epidêmicas tradicionais, simplesmente pelo fato de que no Brasil
+nunca foram feitas as medidas restritivas necessárias para a completude de
+qualquer onda da pandemia. O Brasil optou por utilizar restrições longas e
+flexíveis, ao invés de restrições curtas e rígidas, mas eficazes sob o ponto de
+vista da saúde pública e, também, para garantir a recuperação econômica.
+
+3.3. Vacinação
+
+A análise da vacinação no Brasil, em comparação ao resto do mundo, foi
+realizada utilizando dados disponíveis até o dia 19 de junho de 2021, no sítio
+eletrônico — https://ourworldindata.org/covid-vaccinations. Em relação ao
+percentual da população vacinada com, pelo menos uma dose, o Brasil ocupava
+a posição 78, com 29,3% da população. Já no percentual da população
+completamente vacinada (duas doses), o Brasil ocupava a posição 85, com
+11,4% da população completamente imunizada contra Covid-19.
+4. Impacto do atraso na aquisição de vacinas
+
+Considerando somente as informações prestadas nos depoimentos dos
+senhores Carlos Murilo (Pfizer) e Dimas Covas (Butatan) a esta egrégia
+Comissão Parlamentar de Inquérito, o depoente estimou, conservadoramente,
+que o atraso na compra de vacinas pelo Governo Federal resultou na morte de
+95.500 pessoas, utilizando equação simples considerando a eficácia das
+vacinas, a taxa de infecção e a letalidade da doença. O cálculo é conservador
+porque o depoente, ao considerar a eficácia das vacinas, utilizou a eficácia
+global, e não a eficácia contra mortalidade, que é maior tanto para a Coronavac
+quanto para a vacina da Pfizer. Além disso, o depoente utilizou a letalidade
+média, desconsiderando que as vacinas seriam inicialmente aplicadas para a
+população idosa, que possui letalidade por Covid-19 bastante superior a
+observada nas outras faixas etárias.
+
+Estudo recente, liderado pelo Dr. Eduardo Massad, Professor Emérito da
+Faculdade de Medicina da Universidade de São Paulo, e Professor de
+Matemática Aplicada da Fundação Getúlio Vargas, estimou que esse número é,
+na verdade, de 145 mil mortes. O estudo reuniu um grupo de pesquisadores e o
+modelo utilizado usa técnicas de cálculo mais complexas e considera 24
+variáveis, como a taxa de infecção de pessoas expostas, a mortalidade natural
+dos brasileiros, a taxa de recuperação de quem pegou Covid-19, a taxa de
+hospitalização e o ritmo de vacinação. A pesquisa identificou o comportamento
+dessas variáveis desde o início da pandemia até o final de 2020, e a partir dessa
+dinâmica projetou a evolução para 2021. Importante destacar que esse número
+ignora mortes que poderiam ter sido evitadas por outras políticas públicas, como
+maior incentivo ao uso de máscaras e ao distanciamento social. Segundo o
+pesquisador principal, Dr. Massad: "Essas 145 mil mortes neste ano são
+atribuíveis apenas ao fato de o governo ter rejeitado as ofertas de vacina”.
+
+5. Causalidade: negacionismo e mortes por Covid-19 no Brasil
+Em 1965, 0 Sir Austin Bradford Hill publicou um artigo histórico (Anexo 8), no
+qual introduziu nove critérios científicos para avaliar se uma associação
+observada em uma análise epidemiológica é causal ou não. Embora o
+conhecimento científico sobre saúde e doença tenha evoluído
+consideravelmente nas últimas décadas, os Critérios de Hill continuam válidos e
+têm sido aplicados em diversas situações para avaliar se as associações
+observadas são causais ou não. É importante destacar que nem todos os nove
+critérios precisam estar preenchidos para confirmar uma associação causal. Por
+exemplo, a tradicional associação causal entre tabagismo e câncer de pulmão
+não preenche o critério de especificidade, visto que o tabagismo causa várias
+outras doenças, que não apenas o câncer de pulmão.
+
+Para fins de trazer novos conhecimentos a esta egrégia Comissão Parlamentar
+de Inquérito, o depoente analisou a associação entre negacionismo e
+mortalidade por Covid-19 no Brasil à luz dos critérios de causalidade do Sir
+Austin Bradford Hill. As análises aqui apresentadas são preliminares e farão
+parte de um artigo científico, de autoria do depoente e colaboradores, a ser
+submetido para publicação em um periódico científico nos próximos dias.
+
+Critério 1 - Força de associação: Quanto maior a diferença na frequência da
+doença (Covid-19) entre pessoas ou lugares expostos em comparação a
+pessoas e lugares não expostos ao fator de risco (negacionismo), maior a
+probabilidade de que a relação observada seja causal. No caso concreto,
+conforme demonstrado na Figura 1, a mortalidade por Covid-19 é 4,7 vezes
+maior no Brasil em comparação com o resto do mundo. As diferenças ficam
+ainda mais marcantes se considerada a estrutura etária da população.
+Utilizando-se uma análise distinta, A Figura 5 demonstra a relação entre
+percentual de votos obtidos por Bolsonaro no segundo turno das eleições de
+2018 e mortalidade por Covid-19. A mortalidade por Covid-19 nas cidades que
+mais votaram em Bolsonaro em 2018 (60% ou mais dos votos) é 3,4 vezes maior
+do nas cidades que menos votaram em Bolsonaro (<10% dos votos).
+Mortes Covid-19 por 100 mil
+
+313
+247 235
+216
+196 206
+167
+120
+102
+70
+
+<10% 10-20%  20-30%  30-40% 40-50% 50-60% 60-70% 70-80%  80-90% >90%
+% votos Bolsonaro no 2º turno 2018
+
+Figura 5. Mortalidade por Covid-19 conforme percentual de votos em Bolsonaro
+no segundo turno das eleições de 2018.
+
+Critério 2 - Consistência: A relação é observada em diferentes estudos, com
+diferentes métodos, conduzidos por diferentes pesquisadores? No caso
+concreto, há diversos estudos descrevendo uma associação entre negacionismo
+e Covid-19. O Centro de Pesquisas e Estudos de Direito Sanitário (Cepedisa) da
+Faculdade de Saúde Pública (FSP) da USP, em conjunto com a Conectas
+Direitos Humanos, conduziu estudo que concluiu que *... identificamos uma
+estratégia que parece ser focada em atrapalhar aqueles que estão tentando
+reduzir ou minimizar os malefícios que essa pandemia está causando à
+coletividade e aos indivíduos particularmente”. Os dados podem ser observados
+em https://jornal.usp.br/atualidades/pesquisa-identifica-estrategia-do-executivo-
+
+federal-em-atrapalhar-combate-a-pandemia/.
+
  
+
+No mesmo sentido, artigo publicado na revista Nature traz a opinião científica de
+vários pesquisadores sobre o tema (https:/Awww.nature.com/articles/d41586-
+021-01031-w). “Eu acho que nenhum de nós poderia prever que a resposta
+brasileira à pandemia seria tão ruim” (Pasternak N, 2021). “É triste que, no século
+21, nós estejamos falhando no nível nacional em incorporar ferramentas antigas
+
+e eficazes que teriam salvado milhares de vidas” (Orellana J, 2021). “Na
+ausência de uma ação coordenada no nível federal, vimos diferentes respostas
+no nível local, que não foram suficientes para baixar o número de mortes” (Castro
+M, 2021). “O governo tem sido um negacionista da pandemia. Ele nega que a
+pandemia é séria, nega que ela exige intervenções, e nega as medidas
+defendidas pela ciência para enfrentá-la” (Lotta G, 2021).
+
+Ainda, artigo publicado na mídia também traz a opinião científica de
+pesquisadores brasileiros, das áreas de microbiologia e epidemiologia, sobre o
+assunto (https:/mais.opovo.com.br/jornal/cidades/2020/08/08/quantas-mortes-
+
+por-covid-19--poderiam-ter--sido-evitadas.html). “Não havia necessidade da
+doença chegar nesse ponto. Com um bom planejamento, metade dessas mortes
+
+poderia ter sido evitadas. Além de não fazer o que precisava ser feito, com
+ausência de planejamento, o Governo Federal atrapalhou o trabalho dos estados
+e municípios que queriam fazer um trabalho sério” (Pasternak N, 2020). “Tem
+um sistema de atenção básica, experiência em saúde pública e uma capacidade
+científica já comprovada. Temos os recursos para enfrentar de uma forma melhor
+do que foi feita. Estamos em uma posição que poderíamos não estar” (Werneck
+G, 2020).
+
+Por fim, estudo conduzido nos Estados Unidos (Anexo 9) mostrou diferenças nos
+indicadores de Covid-19 entre os estados liderados por Republicanos, aliados
+do Presidente negacionista Donald Trump, e o estados liderados por
+Democratas.
+
+Critério 3 - Especificidade: O fator em estudo (negacionismo) está relacionado
+especificamente a um tipo de doença (Covid-19)? Este é um dos critérios de Hill
+mais difíceis de serem comprovados, visto que a maioria dos fatores de risco
+está relacionado com múltiplas doenças. Para testar esse critério, analisou-se a
+mortalidade geral no Brasil em 2020 por todas as causas agrupadas (exceto
+Covid-19), conforme o percentual de votos obtidos por Bolsonaro no segundo
+turno das eleições de 2018. Similarmente, analisou-se a mortalidade específica
+por Covid-19 conforme o mesmo indicador de percentual de votos. A Figura 6
+mostra que, no caso do negacionismo, a associação é específica com Covid-19,
+doença sobre a qual o negacionismo debruçou-se nos últimos meses no Brasil.
+Mortes gerais (sem Covid-19] por 1 milhão Mortes Covid-15 por 100 mil
+
+SO BOOM G7OK OBD BMC io
+
+ 
+
+Figura 6. Relação entre votos em Bolsonaro no segundo turno das eleições de
+2018 e mortalidade geral (excluindo-se Covid-19; gráfico da esquerda) e
+mortalidade por Covid-19 (gráfico da direita).
+
+Critério 4 — Temporalidade: O fator causal (negacionismo) veio antes da doença
+(Covid-19)? No caso concreto, esse é o critério de mais fácil comprovação. O
+presidente foi eleito em 2018, tendo seu mandato iniciado em 2019, enquanto a
+pandemia de Covid-19 só chegou ao Brasil no início de 2020. Além disso,
+algumas das declarações mais anti-ciência do presidente e do Governo Federal
+vieram a público antes da maior aceleração dos óbitos no país, ocorrida em
+2021, conforme demonstrado no Quadro 1.
+ 
+
+Março 2020 — o presidente sugere que a Covi-19 é uma “gripezinha” e passa a
+
+defender o tratamento com “cloroquina” como capaz de frear a pandemia.
+
+Abril 2020 — o presidente declara haver “sinais de que a pandemia está
+
+acabando”.
+
+Maio 2020 — o presidente intensifica o discurso de que “isolamento não
+funciona”, além de declarar “e daí?” sobre a alta mortalidade por Covid-19
+observada no país até aquele momento.
+
+Dezembro 2020 — o presidente intensifica as declarações anti vacina, sugerindo
+que as vacinas eram experimentais e de que seus efeitos adversos eram
+
+desconhecidos.
+
+Janeiro 2021 — Twitter bane publicação do Ministério da Saúde, por violar as
+regras de saúde pública.
 
  
 
  
 
+Quadro 1. Resumo das principais declarações anti-ciência feitas pelo presidente
+da República e pelo Governo Federal durante a pandemia de Covid-19.
+
+Critério 5 — Gradiente biológico: Quando há maior exposição, há maior risco?
+Também conhecido como efeito dose-resposta. No caso concreto, os dados
+apresentados na Figura 5 confirmam a relação dose-resposta entre exposição
+ao negacionismo e mortalidade por Covid-19. Destaque-se que, conforme pode
+ser observado na Figura 7, esses dados são observados não apenas para
+mortalidade por Covid-19, mas também para os casos da doença.
+
  
+Figura 7. Relação entre o percentual de votos de Bolsonaro no segundo turno
+das eleições de 2018 e (a) casos; (b) mortes por Covid-19.
+
+Critério 6 — Plausibilidade biológica: Há uma explicação plausível para a relação
+em estudo? No caso concreto, são várias as explicações para uma possível
+relação causal entre negacionismo e mortalidade por Covid-19. O negacionismo
+está relacionado com o não uso de máscaras, com a não adesão ao
+distanciamento físico, com a promoção de aglomerações, com a não vacinação
+e promoção de notificas falsas sobre as vacinas e, por fim, com exposição ao
+vírus, por crença de que há medicamentos capazes de curar a doença.
+
+Critério 7 — Coerência: Os achados são coerentes com outras relações
+conhecidas? No caso concreto, há múltiplos indicadores para confirmar o
+preenchimento do critério. Estudo publicado em 2019 (antes da pandemia) no
+periódico científico The Lancet, evidenciou forte relação entre intensidade da
+democracia e indicadores de saúde (Anexo 10). Outro artigo publicado na
+mesma revista científica (Anexo 11) analisou as implicações da era Trump para
+as políticas de saúde nos Estados Unidos. As ações baseadas em evidências
+científicas (https://covid19.govt.nz/) fazem com que a Nova Zelândia seja um dos
+países com menor mortalidade acumulada do mundo (5,4 mortes por 1 milhão
+de habitantes). Apenas para fins de comparação, caso o Brasil tivesse a mesma
+mortalidade acumulada da Nova Zelândia, seriam 1161 óbitos no país até o dia
+19 de junho de 2021.
+Critério 8 — Evidências experimentais: Quando hã estudos experimentais que
+comprovem a relação, a probabilidade de ela ser causal é maior. No caso
+concreto, por questões éticas, é inviável conduzir um estudo experimental,
+expondo aleatoriamente populações ao negacionismo. No entanto, as
+intervenções questionadas pelo negacionismo já foram submetidas a diversos
+estudos experimentais. Em relação ao uso de máscaras, por exemplo, estudo de
+meta-análise (Anexo 12) demonstrou uma forte evidência de proteção contra
+transmissão de vírus respiratórios (Figura 8).
+
+Mask Control Odds Ratio Odds Ratio
+Study or Submrouo  Evorts Total Events Jotal Weight Mt Random 996CL MH Random, 25% CL
+Allelo 2012 12 292 16 0 70%  O70[033,1.50 =:
+Barasheed et al 2014 1% 2 53 30%  319055,184]
+
+Cheng eta 2010 0 569 4 288 13%  005/009,098] +—>>—+
+Chokiphaimuldl et al 2012 0 29 3 17 44%  DB7DI9,247] dm
+Coming et at 2008 461 12 205 49%  113/035,367] E
+Coming et al 2009 18 258 28 X9 78%  057/036,125] —
+Jasger tal 2011 0 MD 9 4 14%  000000,160]
+
+Loob etal 2004 3 BD 5 9 29% Doro
+
+Ma etal 2004 15 203 32 180 78%  025/013,048] Ta
+Matinha etai 2011 6 MM 15 481 76%  057/030,109 Eros À
+Nishiura etal2005 8 43 17 T2 60%  O74]029,190] Ee
+Suess etal 2012 6 6 19 82 54% 032012084 comerem
+Sung etat 2016 ao at 95 020 00% 040/027,058] =
+Teteman etal 2004 3 1% 3 60 44% 011/003,039] a
+
+Wang etat 2070 O WB 10 5 44% — DO4000,06] +—>>>—
+Wider-Smith eta! 2005 3 Mo U 65 44%  O1/DOLOAM] Tt —
+
+VN tai 2004 mo 4 73 74% 03701907 dae.
+
+Yin eta 2004 e MS O 41 354 00[D02,040] ==
+
+Zhang otatz912 a 2 12 35%  130/020,664 = —
+Zhang etal2013 0 15 9 2% 13% 000] >>
+Zhang etat2017 782 19 2% 51%  DO7D0202] ae
+
+Total (95% Cm se 3469 10004 035/024,059] e
+
+Total events 307 “o
+
+Hetorogengity Tau! = 0.35; Chi'= 50.41, dt= 20 (P = 0.002. "= 60%
 
  
 
  
 
- 
+ms to E
+Testfor overal esect Za 559 (P < 000001) 4 a ê
+
+Favours jerpenimental
 
  
 
- 
+Figura 8. Meta-análise entre uso de máscaras e transmissão de doenças
+respiratórias. Disponível em Liang et al, 2020.
+
+Em relação às vacinas, múltiplos são os estudos de intervenção comprovando
+sua eficácia (em situações controladas) e efetividade (no mundo real). Os
+Anexos 13 e 14 apresentam os estudos originais demonstrando a eficácia das
+vacinas contra Covid-19 da Pfizer e de Oxford/AstraZeneca. Já o Anexo 15
+apresenta a efetividade da campanha de vacinação em Israel na redução de
+casos e hospitalizações por Covid-19. A vacinação reduziu em 92% o risco de
+infecção por SARS-CoV-2 e em 87% o risco de hospitalização por Covid-19.
+No Anexo 16, são apresentadas informações sobre a efetividade das vacinas em
+uso no Brasil. Em poucas semanas, a campanha de vacinação foi capaz de
+prevenir 44 mil mortes de idosos no país, em comparação ao que seria esperado
+
+caso a vacinação não houvesse iniciado no país.
+
+Critério 9 — Analogia: O resultado é análogo ao que se sabe sobre outras
+relações causais? No caso concreto, o estudo de Bollyky et al, publicado no The
+Lancet em 2019 (Anexo 10), traz analogia com o caso do negacionismo, ao
+estudar a relação entre democracia e indicadores de saúde. A expectativa de
+vida entre 1970 e 2015 aumentou 3% a cada 10 anos nos países que fizeram
+transição para democracia no período. Para doenças cardiovasculares,
+acidentes e câncer, por exemplo, a experiência democrática tem maior influência
+sobre a mortalidade do que o produto interno bruto dos países. No mesmo
+sentido, os países que tiveram privada a oportunidade de votarem em eleições
+democráticas apresentaram aumentos em doenças não-transmissíveis e
+
+violência.
+
+Em resumo, a associação entre negacionismo e mortalidade por Covid-19 no
+Brasil preenche absolutamente todos os critérios de causalidade do Sir Austin
+Bradford Hill, não deixando dúvidas de que se trata de uma relação causal.
+
+6. Um fracasso monumental
+
+O enfrentamento brasileiro ao coronavírus foi classificado pelo depoente e pelo
+Dr. Cesar Victora, em artigo publicado na revista Nature Medicine, como um
+fracasso monumental (Anexo 17). Resumidamente, os principais erros no
+enfrentamento brasileiro da pandemia podem ser divididos em sete pecados
+capitais.
+
+6.1. Otripé do enfrentamento de doenças infecciosas
+O enfrentamento de doenças infecciosas baseia-se no tripé testagem,
+
+rastreamento de contatos e isolamento. O objetivo é diminuir a disseminação do
+vírus, por meio do isolamento dos suspeitos, até que a possibilidade de doença
+seja descartada. Infelizmente, os dados sobre testagem do Brasil não podem ser
+comparados aos do resto do mundo, visto que não estão disponíveis no sítio
+eletrônico https://ourworldindata.org/coronavirus-testing. Destaque-se que não
+houve, em nenhum momento da pandemia, uma política de testagem de larga
+escala, efetiva, em nível nacional. É necessário também ressaltar que o objetivo
+da testagem em larga escala não é apenas quantificar os casos, mas
+especialmente identificá-los precocemente, evitando que essas pessoas
+transmitam a doença para outras. Os poucos casos de sucesso em relação à
+testagem de Covid-19 no Brasil restringem-se a estudos epidemiológicos, nos
+quais a testagem é feita por amostragem (ver item 7 — Epicovidt9). O
+rastreamento de contatos consiste em identificar as pessoas que tiveram
+contatos com indivíduos com confirmação da doença, testá-los e isolá-los, para
+
+evitar a disseminação do vírus.
+
+6.2. Abordagem clínica (individual) versus abordagem epidemiológica
+(populacional)
+
+Conforme destacado no artigo (Anexo 17), o Brasil adotou, equivocadamente,
+uma abordagem clínica para o enfrentamento da pandemia, ao invés de adotar
+uma abordagem epidemiológica. O aumento do número de leitos, a compra de
+respiradores, a tentativa de garantir oxigênio e medicamentos para kits intubação
+são exemplos dessa estratégia. Não há aqui uma defesa contrária a essas
+medidas, mas é um equívoco achar que uma pandemia seria controlada sem
+
+reduzir a transmissão do vírus (abordagem populacional).
+
+6.3. Desestímulo ao uso de máscaras
+
+Não há dúvida científica sobre a eficácia do uso de máscaras para o controle da
+disseminação do vírus (Anexo 12). No Brasil, as constantes aparições públicas
+do presidente sem máscara passam uma mensagem dúbia à população,
+
+estimulando o descrédito na eficácia do uso de máscaras.
+
+6.4. Promoção de tratamento ineficazes
+O depoente, devido a sua formação, se absterã de comentar sobre tratamentos
+para Covid-19. No entanto, é necessário pontuar que, independente da ineficácia
+dos medicamentos do chamado kit de tratamento precoce, e independente dos
+riscos associados à administração em altas doses desses medicamentos, o mais
+grave é a falsa sensação de segurança passada à população. Quando o
+presidente está infectado e levanta uma caixa de medicamentos como se fosse
+um troféu de Copa do Mundo, a mensagem passada à população é nítida: podem
+
+se contaminar que esse medicamento é capaz de salvá-los.
+
+6.5. Atraso na compra e desestímulo à vacinação
+
+O desestímulo à vacinação foi observado em várias manifestações do presidente
+da República. Além do efeito maléfico das declarações em si, o mais grave foi a
+ação de negligenciar as ofertas de vacinas feitas no ano de 2020. Estudo
+realizado pelo depoente estimou que 95.500 mortes poderiam ter sido evitadas
+caso o Brasil tivesse adquirido as vacinas da Pfizer e da Coronavac nas ofertas
+iniciais. Estudo mais recente, de outro grupo de pesquisa, estima em 145.000
+vidas perdidas em função da negligência na compra de vacinas.
+
+6.6. Falta de liderança do Ministério da Saúde e de um comitê de especialistas
+
+Conforme muito bem explicado nesta Comissão Parlamentar de Inquérito pelo
+Dr. Cláudio Maierovicht, a falta de uma liderança nacional, centralizando as
+ações de combate à pandemia foi decisiva para explicar o vexatório desempenho
+brasileiro no enfrentamento do coronavírus. Nem mesmo a mais elementar
+decisão em uma situação dessa gravidade, que era a criação de um comitê de
+especialistas, foi feita, com exceção de grupos que agiam “nas sombras”,
+
+conforme já comprovado nesta egrégia comissão.
+6.7. Falta de uma comunicação unificada
+Uma mensagem unificada auxilia na adoção da população das medidas
+
+recomendadas pela ciência. No caso brasileiro, a única tentativa nesse sentido
+ocorreu durante a gestão do Ministro Mandetta, que promovia coletivas de
+imprensa diárias para informar à população sobre a evolução da pandemia.
+Infelizmente, todas essas iniciativas foram boicotadas pelo próprio presidente da
+República, que diariamente promoveu a disseminação de informações anti-
+
+ciência.
+
+7. EPICOVID19
+
+O EPICOVID19 foi um estudo idealizado pela depoente e operacionalizado por
+um comitê científico composto por pesquisadores de diversas universidades
+brasileiras. Originalmente, foi idealizado o EPICOVID19-RS, para monitorar a
+evolução da pandemia no estado do Rio Grande do Sul. A seguir, após contato
+com o Secretário de Atenção Primária à Saúde, Dr. Erno Harzheim, integrante
+da equipe do Ministro Mandetta, foi decidido expandir o estudo em nível nacional,
+sendo este denominado EPICOVID19-BR. O estudo gaúcho concluiu, até hoje,
+10 fases de coletas de dados, cada um entrevistando e testando 4.500 pessoas
+espalhadas por nove cidades em todas as regiões do estado. O estudo nacional
+concluiu, até hoje, cinco fases de coletas de dados, cada uma visitando 33.250
+domicílios espalhados por 133 cidades de todos os estados da Federação. As
+três primeiras fases do estudo foram financiadas pelo Ministério da Saúde, ao
+custo de R$ 12 milhões.
+
+O Anexo 5 apresenta o conjunto dos artigos científicos produzidos pelo
+EPICOVID19. O EPICOVID19-BR é uma pesquisa financiada pelo Ministério da
+Saúde e, posteriormente, pelo Todos pela Saúde e pela Fundação de Amparo à
+Pesquisa do Estado de São Paulo. Estudo de revisão recente (Anexo 18)
+classificou o EPICOVID19 como um dos mais bem ranqueados entre todos os
+estudos sorológicos do mundo sobre Covid-19.
+
+Os dados do EPICOVID19-BR foram alvo de tentativa de censura por parte do
+Ministério da Saúde, na coletiva de imprensa de divulgação dos resultados do
+projeto. No meio de 2020, o Ministério da Saúde, sem apresentar qualquer razão
+técnica, decidiu interromper o monitoramento da pandemia no Brasil por meio do
+EPICOVID19-BR.
+8. Conclusões
+
+O Brasil é um dos países do mundo com pior desempenho no enfrentamento da
+pandemia. Não há outra explicação para esse fracasso que não a postura anti-
+ciência adotada pelo Governo Federal. A promoção da imunidade de rebanho
+como política de saúde mostrou-se equivocada em todos os locais do mundo, e
+apenas o Brasil manteve essa estratégia. A negativa em adotar as políticas de
+distanciamento adequadas (Anexo 19) auxiliou na disseminação do vírus no
+Brasil.
 

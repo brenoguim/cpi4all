@@ -3,13 +3,302 @@ DEPARTAMENTO DE POLÍCIA TÉCNICA
 INSTITUTO DE CRIMINALÍSTICA
 SEÇÃO DE PERÍCIAS DE INFORMÁTICA
 
+   
+
+[2
+LAUDO DE PERÍCIA CRIMINAL
+
+Exame de Informática
+
+ 
+
+Laudo de Perícia Criminal 56.492/2021
+Número do Material 6.782/2021 — IC
+
+Solicitação de Perícia 6.384/2021 — IC
+
+Protocolo 1.222,936/2021 — PCDF
+
+Ofício 269/2021 — SPOL/Senado Federal
+
+Ofício 1.802/2021 — CPIPANDEMIA/Senado Federal
+
+ 
+
+Brasília — Patrimônio Cultural da Humanidade
+
+ 
+
+Assinado Digitalmente: e4cb7a3dc5b813314c16424cdcaedfcaZd63d331bciadcbc2d7e3916992db2d9
+DEPARTAMENTO DE POLÍCIA TÉCNICA
+INSTITUTO DE CRIMINALÍSTICA
+SEÇÃO DE PERÍCIAS DE INFORMÁTICA muEmImur gern RI MNA loiça
+
+POLÍCIA CIVIL DO DISTRITO FEDERAL C
+
  
 
  
 
-MÍDIA ÓPTICA 2/2
+PREÂMBULO
 
-ESPAÇO PARA ANEXAR.
+Em primeiro de julho de 2021, o Diretor deste Instituto de Criminalística, Perito
+Criminal Emerson Pinto de Souza, designou o Perito Criminal Raphael Augusto Souza de
+Melo para proceder a um exame de informática, descrever minuciosamente o que examinar e
+esclarecer tudo que possa interessar, a fim de atender à solicitação da autoridade da Secretaria
+de Polícia do Senado Federal — SPOL/Senado Federal.
+
+1 HISTÓRICO
+
+Anexado ao Ofício 269/2021 — SPOL/Senado Federal, datado de 01/07/2021, foi
+recebido por esta Seção de Perícias de Informática do Instituto de Criminalística —
+
+SPI/IC/PCDF, na mesma data, o material descrito na Seção 4.
+2 OBJETIVO PERICIAL
+
+Atendendo à solicitação supracitada, visa o Perito Criminal a realizar, no material
+descrito na Seção 4, exame pericial de extração de todos os dados de usuário, incluindo as
+comunicações enviadas ou recebidas por meio de e-mails, mensagens do aplicativo Whats App,
+chamadas telefônicas de voz e vídeo, documentos e registros de reuniões por vídeo conferência
+(solicitação relacionada ao item 1 do Ofício 269/2021 — SPOL/Senado Federal).
+
+Quanto à realização de perícia no arquivo de áudio veiculado na reunião da “CPI
+Pandemia”, supostamente atribuído ao Deputado Federal Luis Miranda, que teria sido
+encaminhado por meio de mensagem no aplicativo Whats App, supostamente pelo Sr. Cristiano
+Alberto Carvalho, este exame será realizado posteriormente, em laudo pericial específico
+(solicitação relacionada ao item 2 do Ofício 269/2021 — SPOL/Senado Federal).
+
+3 CADEIA DE CUSTÓDIA DE VESTÍGIOS
+
+Foi recebido por esta Seção de Perícias de Informática, acompanhado do Ofício
+269/2021 — SPOL/Senado Federal, datado de 01/07/2021, um malote contendo um brasão da
+Polícia do Senado Federal com o lacre 0002022. Constatou-se que o lacre 0002022 aplicado
+sobre o malote era ineficiente para o armazenamento do material encaminhado, sendo possível,
+portanto, o acesso ao aparelho celular (descrito na Seção 4) sem o rompimento do lacre.
+
+Não se constatou, inicialmente, que tal status tenha prejudicado a extração e a análise
+dos dados do aparelho. Nesse sentido, os registros de mensagens do aparelho indicam o último
+armazenamento no dia 01/07/2021 às 15:00:26 (UTC-3).
+
+ 
+
+Laudo de Perícia Criminal 56.492/2021 — IC 2m
+
+Assinado Digitalmente: e4cb7a3dc5b83314016424cdcaedfcaZd63d33 1bcladebeZd7e39f6992db2d9
+
+ 
+EN
+
+POLÍCIA CIVIL DO DISTRITO FEDERAL
+DEPARTAMENTO DE POLÍCIA TÉCNICA O
+INSTITUTO DE CRIMINALÍSTICA
+
+SEÇÃO DE PERÍCIAS DE INFORMÁTICA a
+
+ 
+
+ 
+
+Registros de atividades relacionadas ao exame do material:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Registro Data e hora
+Recebimento do malote com o aparelho celular. 01/07/2021 às 16:13
+Acesso ao aparelho celular para realização dos exames. 01/07/2021 às 16:30
+Tnício das extrações dos dados do aparelho. 01/07/2021 às 17:50
+Conclusão da última extração dos dados do aparelho. 01/07/2021 às 20:46
+Início da cópia das mensagens do Google Gmail. 02/07/2021 às 11:00
+Conclusão do download das mensagens do Google Gmail. 02/07/2021 às 11:28
+Acondicionamento € lacramento do aparelho celular. 02/07/2021 às 16:00
+4 MATERIAL
+
+Um aparelho de telefonia celular da marca Motorola, modelo Moto G8 Play,
+
+Gbytes, com avarias na tela, com capa protetora, acompanhado de dois cartões SIM, sendo um
+
+da operadora Oi e outro da operadora TIM (ICCID
+
+ 
+
+5 EXAMES
+
+As informações do material examinado, conforme Seção 4, foram duplicadas através de
+técnica apropriada, que consiste na realização da cópia do seu conteúdo para um disco rígido
+de trabalho, que, como medida de segurança, é utilizado para a realização dos exames.
+
+Devido à limitação das ferramentas forense atuais para a extração de dados de alguns
+aplicativos e aos mecanismos de proteção dos dados do aparelho, algumas informações foram
+coletadas por meio de capturas de telas do aparelho.
+
+Dessa forma, verificou-se que o aparelho se encontrava associado à conta Google
+
+RR vinculado ao nome de Luiz Paulo Dominghetti, e que o
+
+aplicativo Whats App estava habilitado para o númer e apresentava o nome
+de usuário Dominghetti e a foto do perfil vista na Figura 1.
+
+O aplicativo Skype, por sua vez, se encontrava associado à conta com nome Luiz paulo
+Dominghetti pereira e ao e-mail O aplicativo Telegram
+estava habilitado para o número e apresentava o nome de usuário
+
+Dominghetti.
+
+Verificou-se que o cartão SIM da operadora Oi apresentava o valor O
+
+no campo MSISDN, o qual usualmente armazena o número telefônico que está ou que já esteve
+
+vinculado ao cartão. O cartão SIM da operadora TIM, por sua vez, não apresentou tal registro.
+
+ 
+
+Laudo de Perícia Criminal 56.492/2021 — IC 37
+
+Assinado Digitalmente: e4cb7a3dc5b813314016424cdcaedfcaZd63d331bctadcbc2d7e39f6992db2d9
+
+ 
+POLÍCIA CIVIL DO DISTRITO FEDERAL
+
+DEPARTAMENTO DE POLÍCIA TÉCNICA G
+INSTITUTO DE CRIMINALÍSTICA
+
+SEÇÃO DE PERÍCIAS DE INFORMÁTICA Rr
+
+    
+
+ 
+
+ 
+
+Figura 1 - Foto do perfil do WhatsApp.
+
+Na sequência, foram encontrados e extraídos, da memória intema do celular, arquivos e
+registros relacionados ao objetivo pericial, tais como:
+e Arquivos de imagens e vídeos; e Mensagens do WhatsApp;
+e Arquivos de áudios e gravações; | e Mensagens do Telegram;
+e Registros de chamadas; e Mensagens de Skype;
+e Registros de contatos; e Documentos e planilhas.
+
+Quanto às mensagens de e-mails do aplicativo Google Gmail vinculadas à conta
+
+RR ao nome de Luiz Paulo Dominghetti, tais mensagens foram
+
+salvas através do aplicativo Google Takeout, utilizando-se das credenciais fornecidas pelo
+solicitante do exame.
+
+Todos os dados extraídos foram salvos nas mídias ópticas que compõem o presente
+laudo, em formato de relatório, que pode ser visualizado conforme instruções apresentadas no
+Manual do Usuário (arquivo Manual do Usuário.pdf), localizado na raiz da primeira
+
+mídia óptica.
+6 CONCLUSÃO
+
+Em face do exposto e analisado, conclui-se que foram extraídos, do material examinado,
+
+dados relacionados ao objetivo pericial, os quais podem ser visualizados no relatório que integra
+
+este laudo.
+
+ 
+
+Laudo de Perícia Criminal 56.492/2021 — IC 4m
+
+| Assinado Digitalmente: e4cb7a3dc5b8f3314c16424cdcaedfca2d63d331bcladebc2d7e39f6992db2d9
+
+ 
+1)
+a
+
+A
+
+POLÍCIA CIVIL DO DISTRITO FEDERAL
+DEPARTAMENTO DE POLÍCIA TÉCNICA O
+INSTITUTO DE CRIMINALÍSTICA
+
+SEÇÃO DE PERÍCIAS DE INFORMÁTICA Rn
+
+ 
+
+ 
+
+Para a visualização do relatório deverá ser realizado o procedimento apresentado na
+Seção 1.1.2 (Relatório sem instalador) do Manual do Usuário, localizado na raiz da primeira
+mídia.
+
+Conforme descrito no Manual do Usuário, o relatório contém um arquivo denominado
+hashes . txt que lista o nome dos arquivos que o compõe precedidos do respectivo código de
+
+integridade SHA-512. O código de integridade do arquivo hashes. txt é:
+
+ 
+
+03274aa680faalce72766f81dla3a0b7b3alab8918cf7c7c254414FF4d3raAZIE
+46b7955£84179506951453b4139d5beelbff8b38elea43b962 £baSb53b2477122
+
+ 
+
+ 
+
+ 
+
+Ao término do exame o material foi acondicionado em embalagem plástica de número
+C180000736 e lacrado com lacre de número 0000849. O malote e o lacre 0002022 seguem no
+interior da embalagem plástica. O laudo e o relatório, o qual foi armazenado em duas mídias
+ópticas, foram acondicionados em envelope de papel com de lacre L3202000447.
+
+Dessa forma, o material, uma cópia impressa deste laudo e o relatório de extração dos
+dados foram entregues à autoridade solicitante no dia 02/07/2021, conforme Ofício 2.844/2021
+— IC/PCDF.
+
+Nada mais havendo a lavrar, foi encerrado o presente laudo, composto de sete folhas e
+um relatório, que, relatado pelo Perito Criminal Raphael Augusto Souza De Melo, que
+realizou o exame, lido e achado conforme pelo Perito Criminal Juliano Kazuki Matsuzaki
+
+Oya, segue assinado digitalmente”.
+
+1 A forma eletrônica deste documento contém assinatura digital que garante sua autenticidade, integridade e
+validade jurídica, nos termos da Medida Provisória 2.200-2, de 24 de agosto de 2001.
+
+ 
+
+Laudo de Perícia Criminal 56.492/2021 — IC 57
+
+Assinado Digitalmente: e4cb7a3dc5b813314c16424cdcaedfcaZd63d331bcladebc2d7e396992db2d9
+
+ 
+POLÍCIA CIVIL DO DISTRITO FEDERAL
+DEPARTAMENTO DE POLÍCIA TÉCNICA O
+INSTITUTO DE CRIMINALÍSTICA
+
+SEÇÃO DE PERÍCIAS DE INFORMÁTICA RT a
+
+ 
+
+MÍDIA ÓPTICA 1/2
+
+ESPAÇO PARA ANEXAR
 
 A MÍDIA ÓPTICA
 
@@ -17,7 +306,34 @@ A MÍDIA ÓPTICA
 
  
 
-Laudo de Perícia Criminal 56.45272021 1. um
+Laudo de Perícia Criminal 56.492/2021 — IC 87
 
-Assinado Digitalmonto: cdcb7a3de5h813314016424cclcaedica?d63d331bo Tadobe2d7e39/6992db299
+ 
+
+Assinado Digitalmente: e4cb7a3dc5b8f3314c16424cdcaedfcaZd63d331bcladebc2d7e39f6992db2d9
+ 
+
+DEPARTAMENTO DE POLÍCIA TÉCNICA
+INSTITUTO DE CRIMINALÍSTICA
+SEÇÃO DE PERÍCIAS DE INFORMÁTICA era ade ica
+
+POLÍCIA CIVIL DO DISTRITO FEDERAL J
+
+ 
+
+MÍDIA ÓPTICA 2/2
+
+ESPAÇO PARA ANEXAR
+
+A MÍDIA ÓPTICA
+
+ 
+
+ 
+
+Laudo de Perícia Criminal 56.492/2021 — IC Fera
+
+ 
+
+Assinado Digitalmente: e4cb7a3dc5b813314c16424cdcaedfcaZd63d331bctadcbc2d7e39f6992db2d9
 

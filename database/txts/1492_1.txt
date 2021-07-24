@@ -1,175 +1,1383 @@
-CAVALCANTE REIS ADVOGADOS
+ 
 
-HC 204196 MC / DF
-Mai
-toi
+Sapremo Tribunal Federal
 
-Doria,
+Ofício eletrônico nº 9949/2021
+Brasília, 5 de julho de 2021.
 
-toca À
+A Sua Excelência o Senhor
+Senador OMAR AzlZ
+Presidente da Comissão Parlamentar de Inquérito do Senado Federal — CPI da Pandemia
 
- 
+Medida Cautelar no Habeas Corpus n. 204196
 
- 
+PACTE(S) : SILVIO BARBOSA DE ASSIS
+IMPTE(S) :IURI DO LAGO NOGUEIRA CAVALCANTE REIS (35075/DF) E
+OUTRO(A/S)
 
- 
+COATOR(A/SXES) : PRESIDENTE DA COMISSÃO PARLAMENTAR DE INQUÉRITO DO
+SENADO FEDERAL - CPI DA PANDEMIA
 
- 
+Senhor Presidente,
 
- 
+De ordem, comunico a Vossa Excelência os termos do(a) despacho/decisão
+proferido(a) nos autos em epígrafe, cuja reprodução segue anexa.
 
- 
+Ademais, solicito-lhe as informações requeridas no referido ato decisório.
 
- 
+Acompanha este expediente cópia da petição inicial do processo em
+referência.
 
- 
+Informo que os canais oficiais do Supremo Tribunal Federal para recebimento
+de informações são: malote digital, fax (61- 3217-7921/7922) e Correios (Protocolo Judicial
+do Supremo Tribunal Federal, Praça dos Três Poderes s/n, Brasília/DF, CEP 70175-900).
 
- 
+Apresento testemunho de consideração e apreço.
+Marcelo Pereira de Souza Júnior
 
- 
+Secretário Judiciário Substituto
+Documento assinado digitalmente
 
- 
+Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http:/Avww.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 572D-027A-80EC-CAGA e senha 8C99-F07B-F71B-F147
+CAVALCANTE REIS ADVOGADOS
 
- 
+Excelentíssimo Senhor Ministro Presidente do Egrégio Supremo Tribunal
+Federal
 
- 
+URGENTE
 
- 
+IURI DO LAGO NOGUEIRA CAVALCANTE REIS, brasileiro, advogado,
+inscrito na OAB/DF sob o nº 35.075; YURI COELHO DIAS, brasileiro, advogado,
+inscrito na OAB/DF sob o nº 43.349 e THAYNNÁ DE OLIVEIRA PASSOS
+CORREIA, brasileira, advogada, inscrita na OAB/DF sob o n.º 64.778, todos com
+escritório profissional situado na SHIS QL 18, Conj. 06, Casa 19, Lago Sul,
+Brasília/DF (endereço eletrônico: iuri(Dcavalcantereis.adv.br) (Doe. n.º 01), vêm,
+respeitosamente, à presença de Vossa Excelência, com fundamento (i) no artigo 5º,
+LXVIII, e artigo 105, 1, “c”, ambos da Constituição Federal (“CF”); e (ii) nos artigos
+647 seguintes, do Código de Processo Penal (“CPP”), impetrar a presente ordem de
 
- 
+HABEAS CORPUS PREVENTIVO
+(com pedido liminar inaudita altera pars)
+
+em favor de SILVIO BARBOSA DE ASSIS, CPF nº 175.787.792-49, RG n.º
+16772018 SSP/PA, brasileiro, empresário, residente e domiciliado na SHIS QL 06,
+Conj. 05, Casa 12, Lago Sul, Brasília/DF (Doc. n.º 02) em face do Requerimento
+n.º 01025/2021, aprovado no dia 30.06.2021, pela Comissão Parlamentar de
+Inquérito, batizada como “CPI DA PANDEMIA", que deferiu “a convocação do
+Senhor SÍLVIO ASSIS, para prestar depoimento perante esta Comissão
+Parlamentar de Inquérito, como testemunha, sobre suposto esquema de corrupção
+no Ministério da Saúde”, (Doe. n.º 03) tendo fundado receio de que possa vir a sofrer
+constrangimentos ilegais durante possível audiência pública.
 
- 
+Impetra-se o presente Habeas Corpus preventivo contra a Comissão Parlamentar de
+Inquérito da Pandemia, representada pelo seu eminente Presidente, Senador Omar
+José Abdel Aziz, com o fito de que o Supremo Tribunal Federal assegure ao Paciente
+os direitos constitucionais inerentes à não autoincriminação, que além de abranger o
 
- 
+(i) direito ao silêncio, também compreende (ii) a faculdade de comparecer ao ato
+(HC 171.438/DF, rel. Min. Gilmar Mendes, j. 28.05.2019, 2º Turma), ou seja, inexiste
 
- 
+obrigatoriedade ou sanção pelo não comparecimento.
 
- 
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
 
  
+CAVALCANTE REIS ADVOGADOS
 
- 
+I - DOS FATOS
 
- 
+L- Preliminarmente, se faz forçoso evidenciar a partir de qual circunstância
+a convocação do Sr. Silvio Assis se deu. Nesse diapasão, revela-se que a partir dos
+Requerimentos n.º 1731 e 1732 de 2021, em 04.05.2021, foi instaurada a Comissão
+Parlamentar de Inquérito batizada como “CPI da Pandemia”, com a finalidade de
+“apurar, no prazo de 90 dias, as ações e omissões do Governo federal no
+enfrentamento da Pandemia da Covid-19 no Brasil (...)”. Assim o Senado Federal
+descreve o escopo da mencionada CPI:
 
- 
+A presente Comissão Parlamentar de Inquérito, batizada como CPI DA PANDEMIA,
+foi criada pelos Requerimentos 1371 e 1372, ambos de 2021, com a finalidade de apurar,
+no prazo de 90 dias, as ações e omissões do Governo Federal no enfrentamento da
+Pandemia da Covid-19 no Brasil e, em especial, no agravamento da crise sanitária no
+Amazonas com a ausência de oxigênio para os pacientes internados; e as possíveis
+irregularidades em contratos, fraudes em licitações, superfaturamentos, desvio de
+recursos públicos, assinatura de contratos com empresas de fachada para prestação de
+serviços genéricos ou fictícios, entre outros ilícitos, se valendo para isso de recursos
+originados da União Federal, bem como outras ações ou omissões cometidas por
+administradores públicos federais, estaduais e municipais, no trato com a coisa pública,
+durante a vigência da calamidade originada pela Pandemia do Coronavírus "SARS-
+CoV-2", limitado apenas quanto à fiscalização dos recursos da União repassados aos
+demais entes federados para as ações de prevenção e combate à Pandemia da Covid-19,
+e excluindo as matérias de competência constitucional atribuídas aos Estados, Distrito
+
+Federal e Municípios.
+
+2.- Nesta senda, o motivo constante ao Requerimento de convocação do
+Paciente utilizou como fundamentação reportagem assinada pelo jornalista
+Patrick Camporez, publicada no sítio eletrônico do periódico “Crusoé”, na data de
+29.06.2021, a qual narra que o Deputado Federal Luis Cláudio Miranda declarou
+que teria integrado reunião com o também Deputado Federal Ricardo Barros e
+o Sr. Silvio de Assis, ora Paciente, oportunidade em que teria recebido oferta de
+vantagem ilegal para não atrapalhar as tratativas de aquisição das vacinas da
+Covaxin. O Senador Humberto Costa (PT/PE), autor do requerimento, inclusive,
+
+enunciou que o Sr. Silvio seria “homem de confiança do Líder do Governo”. Veja-
+
+se:
 
- 
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+CAVALCANTE REIS ADVOGADOS
 
- 
+Segundo reportagem do jornalista Patrick Camporez, publicada no site da Crusoé, em
+29/06/2021, o deputado federal Luis Miranda teria relatado ter participado de reunião
+com o Líder do Governo na Câmara dos Deputados, Ricardo Barros, e com um suposto
+lobista, Silvio Assis, em que recebeu oferta de propina para não atrapalhar o negócio
+da COVAXIM. A reunião teria ocorrido no 31/03/2021, onze dias depois de o deputado
+Luis Miranda ter denunciado para o Presidente da República um esquema de corrupção
+no Ministério da Saúde envolvendo a compra da citada vacina COVAXIM. O
+convocado seria um homem de confiança do Líder do Governo.
 
  
 
- 
+A denúncia é gravíssima e exige uma investigação imediata por parte desta CPI.
+(Grifos Nossos)
 
- 
+3.- Momento propício para destacar que o Sr. Silvio de Assis possui trajetória
+idônea, porquanto é atuante no meio jornalístico brasileiro há mais de 30 (trinta)
+anos, sem que haja qualquer fato que desabone sua conduta como jornalista. A
+circunstância, inclusive, lhe faz sentir enorme pesar ao ler a matéria veiculada no
+periódico “Crusoé”, tendo em vista que, como noticiarista, entende e empenha-se
+pelo justo e íntegro jornalismo, que se esvaziou quando da propagação do teor do
+texto antes da necessária elucidação do falacioso boato.
 
- 
+4.- Muito embora o Sr. Silvio não possua qualquer ligação com o escopo da
+Comissão, tampouco tenha praticado ações que atinjam as determinações e
+delimitações da CPI, os respeitáveis Senadores o convocaram, exibindo suposta
+necessidade de sua intimação sob a alegação de que o ora Paciente faria parte de
+hipotético esquema de superfaturamento de vacinas, mais especificamente da
+Covaxin, oferecendo suposta propina ao Deputado Federal Luis Miranda para que o
+último não atrapalhasse o conjecturado esquema. Para mais, há a errônea afirmação
+de que o Sr. Silvio Assis seria “homem de confiança” do Deputado Federal Ricardo
+Barros, tido como “líder” do arranjo.
 
- 
+5.- A convocação teve égide na veiculação da mentirosa matéria acerca da
+
+influência do Sr. Silvio no esquema, que, após a primeira divulgação, foi replicada
+em diversos e inúmeros canais jornalísticos, senão vejamos:
 
- 
+“(...) Ele [Luis Miranda] afirma ter ouvido do lobista Silvio Assis os detalhes da
+proposta. A conversa se deu ao final da reunião social para o qual fora convidado.
+Quando já caminhava para o carro, diz, Assis o acompanhou e, então, ofereceu 6
 
- 
+SHIS QUIS | Conj. DE | Casa 18 | Lago Sul | Brasília/DF | CEP 71650-D6G | (El) 3248-D6IZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
 
  
- 
+CAVALCANTE REIS ADVOGADOS
 
-e
-doa, POE SÉ Ve
-essas pre
-eennapBEUNDE
-aisce ore da
+centavos de dólar por cada dose a ser adquirida pelo governo. Em troca, Miranda
 
-deste iahs
-Nú
+deveria “ajudar” a destravar o processo de compra da vacina.”
 
- 
+“Reportagem da revista Crusoé publicada nesta 3º feira (29. jun.2021) aponta que o
+deputado Luis Miranda (DEM-DF? teria relatado que recebeu oferta de propina para não
+atrapalhar a conclusão da compra da vacina Covaxin pelo governo federal. De acordo
+com a publicação, o fato teria ocorrido em reunião com o lobista Silvio Assis e o
+deputado Ricardo Barros (PP-PR), líder do governo Bolsonaro na Câmara.”?
 
- 
+“O deputado Luis Miranda (DEM-DF) contou que foi procurado por um conhecido
+lobista de Brasília para ajudar nas negociações para a compra da vacina indiana
 
- 
+Covaxin. O lobista em questão é Silvio Assis (...)” >
 
- 
+“O deputado Luis Miranda (DEM-DF) teria recebido uma oferta de propina de um
+lobista para não atrapalhar as negociações de compra da vacina da Covaxin pelo
+governo de Jair Bolsonaro (sem partido). A revelação é de uma reportagem da revista
+Crusoé, que diz que o deputado teria participado de uma reunião com o lobista
+Silvio Assis no dia 31 de março, 11 dias após o parlamentar se encontrar com o
+presidente Bolsonaro para denunciar a pressão sofrida pelo seu irmão, Luis Ricardo,
+servidor do Ministério da Saúde, para agilizar a liberação das vacinas.”*
 
- 
+“Em reportagem publicada ontem, a Crusoé afirmou que o lobista Silvio Assis ofereceu
+propina ao deputado Luís Miranda (DEM-DF), que denuncia, ao lado do irmão,
+indícios de irregularidades na compra da Covaxin, para que ele não atrapalhasse o
+negócio envolvendo a vacina.”
 
-NE
-funda
+“(...) uma reportagem publicada pela revista Crusoé afirmou que o lobista Silvio de
+Assis e o líder do governo Bolsonaro na Câmara dos Deputados, Ricardo Barros
 
- 
+(PP-PR), participaram de uma reunião em que foi oferecida propina ao deputado
 
-inferiz
+! https://crusoe.com br/diario/indecente-imoral- luis-miranda-fala-sobre-oferta-de-propina/
 
-agir
-principio Sis
+?https:/Avww poder360.com.br/congresso/lobista-teria-oferecido-propina-a-luis-miranda-por-covaxin-diz-
+revista/
 
-euso:
+*https://congressoemfoco .uol.com .br/corrupcao/miranda-diz-que-recebeu-oferta-de-propina-em-reuniao-com-
+barros-para-nao-atrapalhar- negocio-da-covaxin/
+*https://istoe.com.br/lobista-ofereceu-propina-para-miranda-nao-atrapalhar-compra-da-covaxin-diz-revista/
+“https://noticias.uol.com br/politica/ultimas-noticias/2021 /06/30/precisa-medicamentos-lobista-covaxin-luis-
+miranda.htm
 
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+
  
+CAVALCANTE REIS ADVOGADOS
+
+federal Luís Miranda (DEM-DF) para que ele não atrapalhasse a venda da vacina
+
+Covaxin ao Ministério da Saúde.”*
+
+“O deputado federal Luis Miranda (DEM-DF) afirmou, em entrevista à "Crusoé", que
+recebeu uma proposta de propina para facilitar a compra de vacinas. De acordo com o
+Miranda, a sugestão foi feita pelo lobista Silvio Assis, após um jantar em sua casa que
+
+teria contado com a participação de outros parlamentares.”?
+
+“Após denunciar o esquema milionário de propina na compra de doses da Covaxin pelo
+Ministério da Saúde, o deputado Luis Miranda (DEM-DE) afirma que chegou a ser
+convidado a participar da negociação. Ele conta que foi convidado para duas reuniões
+com o lobista Silvio Assis, que tentou convencê-lo a não atrapalhar as articulações
+em troca da reeleição.”*
+
+(Grifos Nossos)
 
+6.- Embora existam outras matérias veiculadas diversos portais de comunicação
+que falsamente acusam o Sr. Silvio, em atenção à síntese, deixa-se de inseri-las.
+Como se não bastasse, o Requerimento de Convocação da intitulada “CPI da Covid-
+19”, pronuncia que “A denúncia é gravíssima e exige uma investigação imediata
+por parte desta CPI”. Ora, é claro que, muito embora, teoricamente, o Sr. Silvio
+tenha sido convocado como testemunha, a fundamentação para tanto é evidente e
+cristalina quanto à sua verdadeira condição: de investigado.
+
+7.- É patente que os argumentos havidos para a inserção do nome de Silvio Assis
+no rol de convocados descendem de matérias desabonadoras em seu nome. Mas não
+só. Para além de meramente desabonadoras, evidenciam caráter ilícito e transgressor
+ao Paciente, de sorte que, por óbvio, a capa de testemunha esconde, em realidade,
+a condição de INVESTIGADO do Paciente.
+
+8.- O pretexto do chamamento como testemunha nem ao menos se sustenta em
+pé, porquanto o próprio Requerimento utiliza o vocábulo “investigação”, quando
+respalda salienta que “A denúncia é gravíssima e exige uma investigação imediata
+por parte desta CPI”. A inserção do termo “investigação” não é uma coincidência.
+
+$ https:/Avww bbe. com/portuguese/brasil-57666781
+
+7https://extra globo. com/noticias/brasil/luis- miranda-diz-revista-que-recebeu-oferta-de-propina-para-facilitar-
+compra-de-vacina-rv1-1-25083567.html
+
+8 https:/Awww leiaja.com/politica/2021 /06/30/miranda-recebeu-oferta-para-esconder-esquema-da-covaxin/
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+
  
+CAVALCANTE REIS ADVOGADOS
 
+É clarividente: por trás da aparência de testemunha, o Sr. Silvio será inquirido como
+investigado.
+
  
+
+9.- É oportuno destacar que, no mesmo dia do requerimento para oitiva do
+Paciente pela CPI (30.06.2021), foi instaurado inquérito pela Polícia Federal e um
+procedimento investigatório no âmbito da Procuradoria da República no DF, para
+investigar as negociações narradas pelo Deputado Luis Miranda, conforme divulgado
+pelos veículos de comunicação. (Doc. n.º 04).
 
+10.- | Neste ponto, destaca-se que a busca por Justiça não deve — inclusive pelas
+características da locução, que possui como característica intrínseca, preconizar o
+justo, o probo — atropelar a lisura e retidão das ações dos nobres Senadores, de
+maneira que é imprescindível que os caminhos perquiridos não ultrapassem a
+estrada da equidade em busca de atalho para o desfecho que se deseja. Os fins não
+
+justificam os meios.
+
+11.- | Desse modo entende o Ilmo. Ministro Celso de Mello, quando evidencia
+que as Comissões Parlamentares de Inquérito, evidentemente, não possuem
+poderes ilimitados, como qualquer estrutura institucional fundada em bases
+democráticas. Vê-se:
+
+(...) O respeito incondicional aos valores e aos princípios sobre os quais se
+estrutura, constitucionalmente, a organização do Estado, longe de comprometer a
+eficácia das investigações parlamentares, configura fator de irrecusável legitimação
+de todas as ações lícitas desenvolvidas pelas comissões legislativas. A autoridade
+
+da Constituição e a força das leis não se detêm no limiar das comissões
+parlamentares de inquérito, como se estas, subvertendo as concepções que dão
+significado democrático ao Estado de Direito, pudessem constituir um universo
+
+diferenciado, paradoxalmente imune ao poder do Direito e infenso à supremacia
+da Lei Fundamental da República. Se é certo que não há direitos absolutos,
+
+também é inquestionável que não existem poderes ilimitados em qualquer
+estrutura institucional fundada em bases democráticas. A investigação
+
  
 
  
+
+parlamentar, por mais graves que sejam os fatos pesquisados pela Comissão
+
+Legislativa, não pode desviar-se dos limites traçados pela Constituição nem
+transgredir as garantias que, decorrentes do sistema normativo, foram atribuídas
 
+à generalidade das pessoas. Não se pode tergiversar na defesa dos postulados do
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+
  
+CAVALCANTE REIS ADVOGADOS
+
+Estado Democrático de Direito e na sustentação da autoridade normativa da
+
+Constituição da República, eis que nada pode justificar o desprezo pelos princípios
+que regem, em nosso sistema político, as relações entre o poder do Estado e os
+
+direitos do cidadão — de qualquer cidadão.”
+(Grifos Nossos)
+
+12.- Nesse diapasão, é inquestionável, público e notório que o Sr. Silvio, em
+verdade, é investigado aos olhos dos ilustríssimos Senadores da República, motivo
+pelo qual é substancial a concessão do presente writ, a fim de substituir a
+compulsoriedade de seu comparecimento à CPI em faculdade ou, caso opte por
+comparecer ao ato da Comissão, seja assegurado o direito a não responder as
+perguntas a ele formuladas, a dispensa do compromisso de dizer a verdade e/ou
+subscrever termos com esse conteúdo e, por certo, à assistência de advogado.
+
+IL- DA COMPETÊNCIA DESTA SUPREMA CORTE
+
+13. - A denominada Comissão Parlamentar de Inquérito, cujo procedimento é de
+atribuição do Poder Legislativo, tem emprego em sentido amplo, compreendendo
+órgãos políticos da União (Câmara dos Deputados e Senado da República), dos
+Estados (Assembleias Legislativas) e dos Municípios (Câmaras dos Vereadores).
+
+14. - Embora cada entidade política tenha regramentos específicos sobre essa
 
+Comissão, certo é que delimitação se encontra na própria Constituição Federal
+(“CRFB/88”). Assim sendo, o art. 48, 8 3º, da Carta Magna, dispõe que:
+
+As comissões parlamentares de inquérito, que terão poderes de investigação próprio das
+autoridades judiciais, além de outros previstos nos regimentos das respectivas Casas,
+serão criadas pela Câmara dos Deputados e pelo Senado Federal, em conjunto ou
+separadamente, mediante requerimento de 1/3 de seus membros, para a apuração de fato
+determinado e por prazo certo, sendo suas conclusões, se for o caso, encaminhadas ao
+Ministério Público, para que promova a responsabilidade civil ou criminal dos
+infratores.
+
+? STF, MS 23.576 — DF (pedido de reconsideração), Rel. Min. Celso de Mello, Informativo STF n. 176, de 9-
+
+2-2000
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+
  
+CAVALCANTE REIS ADVOGADOS
+
+15. - Deste modo, as Comissões Parlamentares de Inquérito, conforme lição
+provinda de Ezequiel Antônio Ribeiro Balthazar, as CPIs “destinam-se à apuração
+de fato determinado que digam respeito à gestão da coisa pública, de relevante
+interesse para a vida pública e a ordem jurídica constitucional, legal, econômica e
+
+social do pais "!º,
+
+16. - É dizer que se trata de procedimento autônomo de cunho político, previsto
+pela Constituição Federal, visando à apuração de fato determinado, podendo ser de
+qualquer espécie, desde que tenha relevância para a administração pública direta ou
+indireta!
+
+17. - No presente caso, a Comissão Parlamentar de Inquérito foi instalada, no
+âmbito do Senado Federal, para apurar as ações e omissões do Governo Federal no
+enfrentamento da Pandemia da Covid-19 no Brasil.
+
+18. - A impetração da presente medida se justifica em razão de os atos praticados
+por membros do Senado Federal estarem sujeitos diretamente à jurisdição do
+Supremo Tribunal Federal, na forma do art. 102, inciso I, “i”, da Constituição!
+
+19. - O Supremo Tribunal Federal tem remansosa jurisprudência reconhecendo a
+impetração de ordem de Habeas Corpus contra atos de Comissão Parlamentar de
+Inquérito instauradas no Congresso Nacional:
+
+EMENTA: Ao Supremo Federal compete exercer, originariamente, o controle
+jurisdicional sobre atos de comissão parlamentar de inquérito que envolvam ilegalidade
+ou ofensa a direito individual, dado que a ele compete processar e julgar habeas-corpus
+e mandado de segurança contra atos das Mesas da Câmara dos Deputados e do Senado
+
+Federal, art. 102, I, i, da Constituição, e a comissão parlamentar de inquérito procede
+
+1º COSTA MACHADO; CUNHA FERRAZ. Constituição Federal interpretada, p. 447-8.
+
+1 MOSSIN, Herácito Antônio. Habeas Corpus: antecedentes históricos, hipóteses de impetração, processo,
+competência e recursos, modelos de petição, jurisprudência atualizada. 9. ed. Barueri, SP: Manole, 2013, p.
+526.
+
+12 Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe: 1 - processar
+e julgar, originariamente: i) o habeas corpus, quando o coator for Tribunal Superior ou quando o coator ou o
+paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo
+Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância;
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+CAVALCANTE REIS ADVOGADOS
+
+como se fora a Câmara dos Deputados ou o Senado Federal ou o Congresso Nacional.
+Construção constitucional consagrada, MS 1959, de 1953 e HC 92.678, de 1953.
+
+20. - Conforme será narrado nesta peça, o Paciente possui justo receio de sofrer
+constrangimento ilegal perante a Comissão Parlamentar de Inquérito da Covid-
+19, de modo que em razão do exercício de direitos fundamentais que são assegurados
+em nosso ordenamento jurídico e reafirmados pela ampla jurisprudência desse
+Supremo Tribunal Federal, postula seja concedido em seu favor o presente Habeas
+Corpus preventivo.
+
+HI. — DO DIREITO
+
+(i) Do Direito à não autoincriminação — o Depoente possui a garantia de não
+produzir provas contra si mesmo- Do princípio do nemur tenetur se detegere
+
+21. - O Paciente foi convocado pela Comissão Parlamentar de Inquérito, instaurada
+no Senado Federal, para prestar depoimento na condição de testemunha sobre suposto
+esquema de corrupção no Ministério da Saúde.
+
+22. - Em um primeiro momento, é mister ressaltar que o poder de convocação de
+uma CPI está previsto no art. 2º da Lei nº 1.579/52, onde consta:
+
+Art 2º No exercício de suas atribuições, poderão as Comissões Parlamentares de
+Inquérito determinar diligências que reputarem necessárias e requerer a
+convocação de Ministros de Estado, tomar o depoimento de quaisquer autoridades
+federais, estaduais ou municipais, ouvir os indiciados, inquirir testemunhas sob
+compromisso, requisitar da administração pública direta, indireta ou fundacional
+informações e documentos, e transportar-se aos lugares onde se fizer mister a sua
+presença.
+
+23. - A mesma lei prevê, em seu artigo 3º, que “[ilndiciados e testemunhas serão
+intimados de acordo com as prescrições estabelecidas na legislação penal”!*, ou
+
+5 HC 71039, Relator(a): PAULO BROSSARD, Tribunal Pleno, julgado em 07/04/1994, DJ 06-12-1996 PP-
+48708, EMENT VOL-01853-02 PP-00278
+
+Semelhante previsão também pode ser encontrado no art. 148 do Regimento Interno do Senado Federal: No
+exercício das suas atribuições, a comissão parlamentar de inquérito terá poderes de investigação próprios das
+autoridades judiciais, facultada a realização de diligências que julgar necessárias, podendo convocar Ministros
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+CAVALCANTE REIS ADVOGADOS
+
+seja, os direitos e garantias previstos na Constituição Federal, Código Penal e Código
+de Processo Penal devem ser estendidos à todos aqueles que comparecem perante a
+CPI, na condição de testemunhas ou de investigados.
+
+24, - A cada um dos cidadãos brasileiros é garantido o direito de se manter silente
+frente a quaisquer espécies de abordagens em âmbito processual penal por parte
+de agentes estatais. Trata-se do direito ao silêncio, pelo qual se entende, em um
+primeiro momento, o direito que o cidadão detém de ser advertido da possibilidade
+de invocar a prerrogativa de calar, perante questionamentos referentes a eventuais
+acusações ou perquirições, quanto à sua participação no polo ativo dos crimes e, de
+consequência, nos casos penais. Em que pese já ser possível inferi-lo de alguns dos
+modelos constitucionais pregressos, o direito ao silêncio foi explicitamente
+positivado pela primeira vez na Constituição da República de 1988, através do inciso
+LXIII do art. 5.º!5,
+
+25. - Em que pese o fundamento jurídico imediato do direito ao silêncio encontrar-
+se ancorado no artigo supracitado, ele está, mediatamente, amparado pelos princípios
+constitucionais da não autoincriminação, da dignidade da pessoa humana, da
+presunção da inocência, do devido processo legal, da ampla defesa e do contraditório.
+
+26. - O valor dignidade humana foi adotado como fundamento da República pela
+Constituição de 1988. Para resguardá-lo instituíram-se uma série de direitos e
+garantias, dentre os quais o de permanecer calado.
+
+27. - Jão direito ao silêncio relaciona-se com a presunção de inocência na medida
+em que esta impede que o exercício daquele seja interpretado em desfavor de quem
+o exerce!$, Este Supremo Tribunal Federal já reconheceu que qualquer investigação,
+
+de Estado, tomar o depoimento de qualquer autoridade, inquirir testemunhas, sob compromisso, ouvir
+indiciados, requisitar de órgão público informações ou documentos de qualquer natureza, bem como requerer
+ao Tribunal de Contas da União a realização de inspeções e auditorias que entender necessárias. $ 2º Os
+indiciados e testemunhas serão intimados de acordo com as prescrições estabelecidas na legislação processual
+penal, aplicando-se, no que couber, a mesma legislação, na inquirição de testemunhas e autoridades.
+
+15 Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos
+estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à
+propriedade, nos termos seguintes: LXIII - o preso será informado de seus direitos, entre os quais o de
+permanecer calado, sendo-lhe assegurada a assistência da família e de advogado;
+
+!9 MOURA, Maria Thereza Rocha de Assis; MORAES, Maurício Zanoide. Direito ao silêncio no
+interrogatório. Revista Brasileira de Ciências Criminais, São Paulo, n. 6, abr./jun. 1994
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+CAVALCANTE REIS ADVOGADOS
 
+encontra limite nos direitos fundamentais do cidadão, que só podem ser afetados nas
+hipóteses e na forma que a Carta Política estabelecer.
+
+28. - Oportunizar o direito ao silêncio significa contribuir com o tratamento digno
+da pessoa humana, na medida em que reitera a necessidade de se presumir a inocência
+do cidadão, garantindo-lhe que entre quaisquer acusações e a aplicação de penas
+haverá um processo que lhe assegure defesa ampla e contraditória aos passos da
+acusação, a quem se incumbe de provar a culpa.
+
+29. - O direito ao silêncio é direito de primeira geração (direitos de liberdade), que
+significa direito de oposição ou de resistência perante o Estado. Além disso, o nemo
+tenetur se detegere está inserido na cláusula do devido processo legal, logo, é também
+de interesse público para o exercício correto da jurisdição, é uma garantia de
+autodeterminação do acusado. Por fim, importante destacar que o direito ao silêncio,
+constitucionalmente assegurado, não é apenas direito daquele que está preso, mas
+
+também do acusado que se encontra em liberdade”.
+
+30. - Este Colendo Supremo Tribunal Federal reconhece a possibilidade de o
+indivíduo poder permanecer em silêncio frente às Comissões Parlamentares de
+Inquérito:
+
+EMENTA: COMISSÃO PARLAMENTAR DE INQUÉRITO - PODERES DE
+INVESTIGAÇÃO (CF, ART. 58, $3º) - LIMITAÇÕES CONSTITUCIONAIS -
+LEGITIMIDADE DO CONTROLE JURISDICIONAL - POSSIBILIDADE DE A CPI
+ORDENAR, POR AUTORIDADE PRÓPRIA, A QUEBRA DOS SIGILOS
+BANCÁRIO, FISCAL E TELEFÔNICO - NECESSIDADE DE FUNDAMENTAÇÃO
+DO ATO DELIBERATIVO - DELIBERAÇÃO DA CPI QUE, SEM
+FUNDAMENTAÇÃO, ORDENOU MEDIDAS DE RESTRIÇÃO A DIREITOS -
+MANDADO DE SEGURANÇA DEFERIDO. COMISSÃO PARLAMENTAR DE
+INQUÉRITO - COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL
+FEDERAL. - Compete ao Supremo Tribunal Federal processar e julgar, em sede
+originária, mandados de segurança e habeas corpus impetrados contra Comissões
+Parlamentares de Inquérito constituídas no âmbito do Congresso Nacional ou no
+de qualquer de suas Casas. É que a Comissão Parlamentar de Inquérito, enquanto
+
+17 QUEIJO, Maria Elizabeth. O direito de não produzir prova contra si mesmo: o princípio do nemo tenetur
+se detegere e suas decorrências no processo penal. São Paulo: Saraiva, 200
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+
  
+CAVALCANTE REIS ADVOGADOS
 
-a
+projeção orgânica do Poder Legislativo da União, nada mais é senão a longa manus do
+próprio Congresso Nacional ou das Casas que o compõem, sujeitando-se, em
+consegiiência, em tema de mandado de segurança ou de habeas corpus, ao controle
+jurisdicional originário do Supremo Tribunal Federal (CF, art. 102, 1, "d" e "i').
+Precedentes[..] OS PODERES DAS COMISSÕES PARLAMENTARES DE
+INQUÉRITO, EMBORA AMPLOS, NÃO SÃO ILIMITADOS E NEM
+ABSOLUTOS. - Nenhum dos Poderes da República está acima da Constituição.
+No regime político que consagra o Estado democrático de direito, os atos emanados
 
  
+
+de qualquer Comissão Parlamentar de Inquérito, quando praticados com
+desrespeito à Lei Fundamental, submetem-se ao controle jurisdicional (CF, art. 5º,
+XXXV). As Comissões Parlamentares de Inquérito não têm mais poderes do que
+aqueles que lhes são outorgados pela Constituição e pelas leis da República. É essencial
+reconhecer que os poderes das Comissões Parlamentares de Inquérito -
+precisamente porque não são absolutos - sofrem as restrições impostas pela
+Constituição da República e encontram limite nos direitos fundamentais do
+cidadão, que só podem ser afetados nas hipóteses e na forma que a Carta Política
+estabelecer. Doutrina. Precedentes. LIMITAÇÕES AOS PODERES
+INVESTIGATÓRIOS DA COMISSÃO PARLAMENTAR DE INQUÉRITO. - A
+Constituição da República, ao outorgar às Comissões Parlamentares de Inquérito
+"poderes de investigação próprios das autoridades judiciais" (art. 58, 8 3º), claramente
+delimitou a natureza de suas atribuições institucionais, restringindo-as, unicamente, ao
+campo da indagação probatória, com absoluta exclusão de quaisquer outras
+prerrogativas que se incluem, ordinariamente, na esfera de competência dos magistrados
+e Tribunais, inclusive aquelas que decorrem do poder geral de cautela conferido aos
+juízes, como o poder de decretar a indisponibilidade dos bens pertencentes a pessoas
+
+sujeitas à investigação parlamentar. A circunstância de os poderes investigatórios de
+
+uma CPI serem essencialmente limitados levou a jurisprudência constitucional do
+Supremo Tribunal Federal a advertir que as Comissões Parlamentares de
+
+Inquérito não podem formular acusações e nem punir delitos A 199/205, Rel.
+Min. PAULO BROSSARD), nem desrespeitar o privilégio contra a auto-
+incriminação que assiste a qualquer indiciado ou testemunha A 196/197, Rel.
+Min. CELSO DE MELLO - HC 79.244-DF, Rel. Min. SEPÚLVEDA PERTENCE),
+
+nem decretar a prisão de qualquer pessoa, exceto nas hipóteses de flagrância (RDA
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+CAVALCANTE REIS ADVOGADOS
+
+196/195, Rel. Min. CELSO DE MELLO - RDA 199205, Rel. Min. PAULO
+BROSSARD).!º
+
+31. - No caso em concreto, o Paciente faz jus ao direito de permanecer em silêncio,
+pois, apesar de se fazer constar a condição de testemunha no Requerimento aprovado
+
+para sua convocação, a bem da verdade, está-se diante de uma situação em que o
+Sr. Silvio de Assis é, de maneira injusta, investigado.
+
+32. - O Requerimento n.º 01025/2021, feito pelo Senador Humberto Costa, está
+baseada em uma reportagem sensacionalista -- totalmente descomprometida com a
+verdade -- do jornalista Patrick Camporez, publicada no site da Crusoé, em
+29/06/2021, no qual consta que:
 
+Segundo reportagem do jornalista Patrick Camporez, publicada no site da
+Crusoé, em 29/06/2021, o deputado federal Luis Miranda teria relatado ter
+participado de reunião com o Líder do Governo na Câmara dos Deputados,
+Ricardo Barros, e com um suposto lobista, Silvio Assis, em que recebeu oferta
+
+de propina para não atrapalhar o negócio da COVAXIM. A reunião teria
+ocorrido no 31/03/2021, onze dias depois de o deputado Luis Miranda ter
+
+denunciado para o Presidente da República um esquema de corrupção no
+Ministério da Saúde envolvendo a compra da citada vacina COVAXIM. O
+convocado seria um homem de confiança do Líder do Governo.
+
+A denúncia é gravíssima e exige uma investigação imediata por parte desta
+
+CPI
+[Grifos nossos]
+
+33.- E não é só. Por conta das matérias veiculadas na mídia, no dia 30.06.2021,
+foi instaurado inquérito pela Polícia Federal e um procedimento investigatório no
+âmbito da Procuradoria da República no DF, para investigar as supostas
+negociações narradas pelo Deputado Luis Miranda, conforme divulgado pelos
+veículos de comunicação. Vejamos:
+
+A Procuradoria da República no Distrito Federal informou nesta quarta-
+feira (30) que abriu uma investigação criminal sobre as negociações para
+aquisição da vacina contra a Covid-19 Covaxin, produzida na Índia.
+
+8 (MS 23452, Relator(a): CELSO DE MELLO, Tribunal Pleno, julgado em 16/09/1999, DJ 12-05-2000 PP-
+00020 EMENT VOL-01990-01 PP-00086).
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+CAVALCANTE REIS ADVOGADOS
+
+Até então, a apuração tinha caráter preliminar. A decisão foi tomada pelo 11º
+Ofício de Combate ao Crime e à Improbidade Administrativa da
+Procuradoria.
+
+Nesta quarta, a Polícia Federal também abriu um inquérito para investigar
+
+as negociações.
+
+As negociações envolvendo a aquisição da Covaxin são alvos do Ministério
+Público e da CPI da Covid. O imunizante é o mais caro negociado pelo governo
+
+federal até agora, e o contrato foi suspenso nesta terça (29).
+
+O contrato foi firmado entre o Ministério da Saúde e a Precisa Medicamentos,
+empresa responsável pela ponte entre o governo federal e o laboratório que
+produz a vacina na Índia. A empresa é a única intermediária que não possui
+vínculo com a indústria de vacinas.
+
+Em depoimento à CPI da Covid, na semana passada, o deputado Luis Miranda
+(DEM-DF) e o irmão dele, Luis Ricardo Miranda, servidor do Ministério da
+Saúde, disseram ter relatado ao presidente Jair Bolsonaro as
+suspeitas envolvendo a Covaxin.
+
+Segundo Luis Miranda, ao ouvir o relato, Bolsonaro citou o nome do deputado
+Ricardo Barros (PP-PR), líder do governo na Câmara. Barros nega envolvimento
+em irregularidades.
+
+Um dia antes do depoimento do irmãos Miranda à CPI, Bolsonaro disse em uma
+rede social que houve a reunião com o deputado, mas negou que tivesse sido
+avisado sobre as suspeitas. À Procuradoria Geral da República, porém, o ex-
+ministro da Saúde Eduardo Pazuello disse ter sido avisado por Bolsonaro.
+(https://g] .globo.com/politica/noticia/202 1/06/30/ministerio-publico-abre-
+investigacao-criminal-sobre-contrato-da-vacina-covaxin.ghtml. Matéria
+divulgada em 30.06.2021)
+
  
 
  
+
+34. - Dito isso, está claro de que a condição do Sr. Silvio Assis não é a de
+testemunha, como quer fazer crer o Requerimento, mas a de investigado, sob a
+infundada suspeita de sua participação na compra de vacinas, motivo pelo qual,
 
+deve ser reconhecido o seu direito de permanecer em silêncio.
+
+35. - Como o próprio Requerimento diz, trata-se de denúncia gravíssima, ou seja,
+o Paciente deverá responder sobre possível participação nos fatos investigados, com
+a participação de membros do governo, outrossim, na mesma sessão do dia
+30.06.2021, o Deputado Ricardo Barros também foi convocado. (Doc. n.º 05).
+
+36. - Convém esclarecer que a presente ordem de Habeas Corpus não se presta ao
+intento de se fazer ocultar a verdade. O Sr. Silvio Assis é um jornalista experiente,
+arrimo de família, pai de 6 (seis) filhos e tem plena convicção de seus atos, os quais
+garantem a sua inocência e não participação em qualquer tipo de ilícito.
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+
  
+CAVALCANTE REIS ADVOGADOS
 
-ml
+37. - É importante destacar, desde já, que a acusação formulada pelo Deputado Luís
+Miranda em desfavor do Paciente Silvio Assis é totalmente infundada, sendo que o
+Paciente nunca teve nenhuma relação com a vacina Covaxin, não tendo participado
+de nenhuma intermediação no negócio e tampouco oferecido vantagem indevida, na
+medida em que não possui nenhum vínculo com as empresas citadas.
 
+38. - A asserção que se faz, inclusive, pode ser comprovada em vídeo divulgado
+pelo Deputado Federal Luís Miranda, veiculado na data de ontem, 30.06.2021, pelo
+periódico “O Antagonista”. A manifestação do parlamentar aponta que “não há fato
+novo” para pronunciar em sua nova convocação à Comissão, momento em que
+
+prossegue que sequer existe algo que possa comprovar!”. Isto posto, não há azo
+plausível para o chamamento do Sr. Silvio.
+
+39. - Salienta-se, por oportuno, que a CPI da Covid-19 é crucial e valorosa para que
+se investigue e apure ações e omissões ilícitas relacionadas ao enfrentamento da
+pandemia. Por este motivo, inclusive, as inquirições devem ocorrer quando
+descobertas evidências substanciais — uma vez que a urgência do cenário assim
+exige —. A acusação isolada protagonizada pelo Deputado Luis Miranda com relação
+ao Paciente não encontra amparo em provas concretas, tais como testemunhas,
+mensagens ou vídeos.
+
+40. - O motivo da ordem é que lhe seja garantido o exercício do direito
+
  
+
+constitucional de não ser injustamente constrangido, ou cerceado em sua liberdade,
+bem como o direito de permanecer em silêncio em tudo quanto se pretender
+incriminá-lo, em decorrência do impedimento à autoincriminação, também oponível
 
+às Comissões Parlamentares de Inquérito.
+
  
+
+41. - Este Supremo Tribunal Federal tem jurisprudência sólida quanto à necessidade
+de se garantir o direito ao silêncio nas Comissões Parlamentares de Inquérito:
+
+EMENTA: COMISSÃO PARLAMENTAR DE INQUÉRITO - PRIVILÉGIO
+CONTRA A AUTO-INCRIMINAÇÃO - DIREITO QUE ASSISTE A QUALQUER
+INDICIADO OU TESTEMUNHA - IMPOSSIBILIDADE DE O PODER PÚBLICO
+IMPOR MEDIDAS RESTRITIVAS A QUEM EXERCE, REGULARMENTE, ESSA
+
+Phtips://www.oantagonista.com/brasil/miranda-agora-diz-que-nao-ha-fato-novo-que-justifique-sessao-
+secreta-da-cpi/
 
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+
  
+CAVALCANTE REIS ADVOGADOS
+
+PRERROGATIVA - PEDIDO DE HABEAS CORPUS DEFERIDO. - O privilégio
+contra a auto-incriminação - que é plenamente invocável perante as Comissões
+Parlamentares de Inquérito - traduz direito público subjetivo assegurado a qualquer
+pessoa, que, na condição de testemunha, de indiciado ou de réu, deva prestar
+depoimento perante órgãos do Poder Legislativo, do Poder Executivo ou do Poder
+Judiciário. - O exercício do direito de permanecer em silêncio não autoriza os órgãos
+estatais a dispensarem qualquer tratamento que implique restrição à esfera jurídica
+daquele que regularmente invocou essa prerrogativa fundamental. Precedentes. O
+direito ao silêncio - enquanto poder jurídico reconhecido a qualquer pessoa
+relativamente a perguntas cujas respostas possam incriminá-la (nemo tenetur se
+detegere) - impede, quando concretamente exercido, que aquele que o invocou venha,
+por tal específica razão, a ser preso, ou ameaçado de prisão, pelos agentes ou pelas
+autoridades do Estado. - Ninguém pode ser tratado como culpado, qualquer que seja a
 
  
+
+natureza do ilícito penal cuja prática lhe tenha sido atribuída, sem que exista, a esse
+respeito, decisão judicial condenatória transitada em julgado. O princípio constitucional
+da não-culpabilidade, em nosso sistema jurídico, consagra uma regra de tratamento que
+impede o Poder Público de agir e de se comportar, em relação ao suspeito, ao indiciado,
+ao denunciado ou ao réu, como se estes já houvessem sido condenados definitivamente
+
+por sentença do Poder Judiciário. Precedentes.”
+
+42. - Aliás, este Supremo Tribunal Federal já reconheceu o direito de permanecer
+em silêncio à vários outros indivíduos convocados para prestar depoimento
+perante a CPI da COVID-19, cita-se, a título de exemplo, o Sr. Carlos Roberto
+Wizard Martins?!, o Sr. Eduardo Pazuello?, o Sr. Alexandre Figueiredo Costa
 
  
 
+Silva Marques?, a Sra. Mayra Isabel Correia Pinheiro.”
+
+43. - Além dos julgados listados acima, no dia 30.06.2021, foi concedida a ordem
+de habeas corpus ao Sr. Francisco Emerson Maximiano, que também foi intimado
+a esclarecer os contornos do relacionamento da Precisa Medicamentos Ltda, empresa
+da qual o retromencionado Paciente é “sócio e representa no Brasil o laboratório
+
+? HC 79812, Relator(a): CELSO DE MELLO, Tribunal Pleno, julgado em 08/11/2000, DJ 16-02-2001 PP-
+
+00091 EMENT VOL-02019-01 PP-00196.
+
+“1! MEDIDA CAUTELAR NO HABEAS CORPUS 203.387 DISTRITO FEDERAL
+
+? MEDIDA CAUTELAR NO HABEAS CORPUS 201.912 DISTRITO FEDERAL
+
+?3 HABEAS CORPUS 203.381 DISTRITO FEDERAL
+
+*4 AG.REG. NA MEDIDA CAUTELAR NO HABEAS CORPUS 201.970 DISTRITO FEDERAL
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+
  
+CAVALCANTE REIS ADVOGADOS
 
+indiano Bharat Biotech, fabricante da Covaxin” (Habeas Corpus n.º 203.800/DF,
+Ministra Relatora Rosa Weber)
+
+44. - Portanto, conclui-se que este Egrégio Supremo Tribunal Federal reconhece a
+garantia constitucional da não autoincriminação pelo Paciente e está evidenciado o
+receio de o Sr. Silvio Assis ser submetido à constrangimento ilegal, bem como ter
+seus direitos e garantias desrespeitados pelos integrantes do órgão parlamentar no ato
+de colheita de seu depoimento, uma vez que, como demonstrado, é evidente sua
+condição de investigado, tudo a justificar o cabimento da presente ordem de Habeas
+Corpus.
+
+(ii) Do não comparecimento do Paciente perante a Comissão Parlamentar de
+Inquérito — desdobramento lógico do princípio da não autoincriminação
+
+45. - De acordo com o já demonstrado no tópico anterior, o investigado pode optar
+pelo silêncio, por não contribuir com as investigações, uma vez que o ordenamento
+brasileiro assegura o direito de calar perante qualquer autoridade, incluindo os
+parlamentares que compõem a CPI.
+
+46. - Entretanto, comumente em sede de Comissões Parlamentares de Inquérito,
+quando o investigado opta pelo silêncio, tem-se exigido sua presença à Comissão,
+para que explicite de corpo presente sua decisão de calar. Tal situação não raro gera
+constrangimento e exposição desnecessária daquele que unicamente decidiu exercer
+direito assegurado em lei.
+
+47. - É consequência lógica do direito à não autoincriminação a possibilidade de o
+interrogado não comparecer para seu depoimento. Neste sentido, em 14/6/2018, o
+STF declarou, no julgamento das arguições de descumprimento de preceito
+fundamental 395 e 444, por maioria de votos, que a primeira parte do artigo 260,
+do CPP que autoriza a condução coercitiva do imputado para fins de
+interrogatório não foi recepcionada pela Constituição.
+
  
+
+48. - Conforme a corte, a medida cerceia a liberdade de locomoção e viola o
+princípio da presunção de inocência, além de ignorar a garantia contra a
+
+25 Art. 260 do CPP: “Se o acusado não atender à intimação para o interrogatório, reconhecimento ou qualquer
+outro ato que, sem ele, não possa ser realizado, a autoridade poderá mandar conduzi-lo à sua presença”
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
 
  
+CAVALCANTE REIS ADVOGADOS
 
+autoincriminação. Em seu voto, o ministro Celso de Mello fez menção à existência
+do “direito de não comparecer” (ou “direito de ausência”) que assiste ao réu no que
+toca à determinação da medida constritiva.
+
+49. - Especificamente quanto ao não comparecimento perante Comissões
+Parlamentares de Inquérito, o Supremo Tribunal Federal já reconheceu que o direito
+à não autoincriminação compreende a possibilidade do investigado não se fazer
+comparecer:
+
+Habeas corpus. 2. Intimação de investigado para comparecimento compulsório à
+Comissão Parlamentar de Inquérito, sob pena de condução coercitiva e crime de
+desobediência. 3. Direito ao silêncio e de ser acompanhado por advogado.
+Precedentes (HC 79.812/SP, Rel. Min. Celso de Mello, DJ 16.2.2001). 4. Direito à não
+autoincriminação abrange a faculdade de comparecer ao ato, ou seja, inexiste
+
+obrigatoriedade ou sanção pelo não comparecimento. Inteligência do direito ao
+silêncio. 5. Precedente assentado pelo Plenário na proibição de conduções coercitivas
+
+de investigados (ADPF 395 e 444). 6. Ordem concedida para para convolar a
+
+compulsoriedade de comparecimento em facultatividade.?
+
  
+
+PACTE.(S): MARCELLO PARANHOS DE OLIVEIRA MILLER IMPTE(S) : LUIZ
+RODRIGO DE AGUIAR BARBUDA  BROCCHI E OUTRO(A/S)
+COATOR(A/SJXES) : PRESIDENTE DA COMISSÃO PARLAMENTAR DE
+INQUÉRITO DA CÂMARA DOS DEPUTADOS - CPI DO BNDES IMPTE.(S) :
+MARIA CLAUDIA NAPOLITANO DE OLIVEIRA IMPTE(S) : MARCELO
+NAPOLITANO DE OLIVEIRA IMPTE.(S) : FABRICIO MORAIS DA COSTA
+IMPTE.(S) : DIEGO DE CASTRO RODRIGUES IMPTE.(S) : IIABELLA CORREA
+DE LUCENA
+
+DECISÃO: Trata-se de “habeas corpus” impetrado em razão de o ora paciente haver
+sido convocado pela CPI do BNDES, para “prestar depoimento”, perante referida
+Comissão, “sobre fatos relacionados ao objeto de investigação”, “na qualidade de
+testemunha” (grifei).
+
+O pedido de medida liminar foi por mim integralmente deferido, em ordem a
 
+assegurar, cautelarmente, a esse mesmo paciente, em face da CPI do BNDES, o
+direito de não comparecer a mencionado órgão do Poder Legislativo, ficando-lhe
+
+garantido, ainda, na hipótese de comparecimento:
+
+“(a) o direito de exercer a prerrogativa constitucional contra a autoincriminação, sem
+que se possa adotar contra ele, em razão do regular exercício de tal prerrogativa jurídica,
+qualquer medida restritiva de direitos ou privativa de liberdade; (b) o direito de ser
+dispensado de assinar termo de compromisso legal, por tratar-se de investigado em sede
+
  
+
+% HC 171438, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 28/05/2019, PROCESSO
+ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020
 
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+
  
+CAVALCANTE REIS ADVOGADOS
+
+criminal, garantindo-se-lhe, por isso mesmo, o direito de não sofrer qualquer medida
+sancionatória por parte de mencionada Comissão Parlamentar de Inquérito; e (c) o
+direito de ser assistido por seus Advogados e de com estes comunicar-se, pessoal e
+reservadamente, sem qualquer restrição, durante o curso de seu depoimento.”
+
+L]
+
+Constato, por relevante, que entendimento idêntico tem sido observado em ações de
+“habeas corpus” promovidas contra Comissões Parlamentares de Inquérito (HC
+171.399/DF, Rel. Min. GILMAR MENDES — HC 171.567/DF, Rel. Min. GILMAR
+MENDES -— HC 171.628/DF, Rel. Min. GILMAR MENDES, v.g.), inclusive contra a
+própria CPI-BNDES (HC 174.533/DF, decisão do Ministro GILMAR MENDES, em
+substituição ao Relator, RISTF, art. 38, 1).
+
+Sendo assim, e em face das razões expostas, defiro, integralmente, desde já, o pedido
+de “habeas corpus”, consolidando e tornando definitiva, em todos os seus termos, a
+medida cautelar por mim concedida, nestes autos, em 02/09/2019.”
 
+50. - No caso concreto, conforme já amplamente demonstrado, o Paciente tem o
+justo receio de ser constrangido em sua liberdade de locomoção caso exerça o direito
+
  
+
+constitucional de não se manifestar sobre matérias que possam de alguma forma lhe
+incriminar.
 
+51. - Damesma forma, o Paciente tem o receio de ser exposto em audiência pública.
+sobre matérias que digam respeito à sua intimidade e que podem o levar a uma
+
  
 
  
+
+exposição pública desnecessária e a violar o princípio da não autoincriminação, tendo
+em vista que, independentemente de ter sido convocado como testemunha, é notório
+o fato de que o Paciente se encontra sob a condição de investigado.
+
+52. - Isto posto, ante a real perspectiva de ser o Paciente submetido a
+
+constrangimento, requer seja deferido o direito de não comparecimento perante a
+Comissão Parlamentar de Inquérito, porquanto o direito à não autoincriminação
+
+abrange a faculdade de comparecer ao ato.
+IV. - DOS PEDIDOS
+
+53. - Portanto, considerando o justo receio de constrangimentos a serem
+
+impingidos ao Paciente, embora tenha sido notificado para prestar depoimento como
+testemunha, deve ser a ele garantida a prerrogativa constitucional de não produzir
 
  
+
+27? HC 175087/DF - DISTRITO FEDERAL HABEAS CORPUS Relator(a): Min. CELSO DE MELLO
+Julgamento: 13/09/2019 Publicação PROCESSO ELETRÔNICO DJe-209 DIVULG 24/09/2019 PUBLIC
+25/09/2019 Partes.
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+CAVALCANTE REIS ADVOGADOS
+
+prova contra si mesmo, requerendo, portanto, a concessão de MEDIDA LIMINAR
+
+para:
+
+6)
+
+(ii)
+
+(iii)
+
+(iv)
+
+(v)
 
+(vi)
+
+Assegurar ao Paciente SILVIO ASSIS a não compulsoriedade de seu
+comparecimento à Comissão Parlamentar de Inquérito da “CPI da
+
+Pandemia”, do Senado Federal, para prestar declarações sobre os fatos que
+supostamente o envolvem, porque o direito ao silêncio deve ser
+compreendido como direito à não autoincriminação abrangente da
+faculdade de comparecer ou não ao ato para o qual foi convocado, sem que
+possa sofrer qualquer sanção ou constrangimento pelo não
+comparecimento;
+
+Em caso de comparecimento, que seja assegurado ao Paciente o
+direito de não ser obrigado a assinar termo de compromisso como
+
+testemunha ou investigado, sem sofrer, com isso, qualquer
+constrangimento;
+
+Seja garantido o direito ao silêncio, resguardando-se o direito de
+responder às perguntas que, a seu Juízo, não configurem violação ao
+
+princípio do nemo tenetur se detegere;
+
+Seja garantido o direito ao silêncio, no sentido de somente
+responder às perguntas que se refiram a fatos objetivos, eximindo
+o depoente da emissão de juízos de valor ou opiniões pessoais;
+
+Assegure ao Paciente o direito de ser assistido por advogado com
+as prerrogativas asseguradas pela Lei no 8.906/1994, garantindo,
+ainda, o direito de se comunicar com seu advogado durante a Sessão
+da Comissão Parlamentar de Inquérito e no curso de suas declarações
+ou depoimentos, podendo o seu representante legal intervir
+verbalmente, quando se revelar necessário, para fazer cessar ato
+arbitrário ou, então, para impedir que aquele que o constituiu culmine
+por autoincriminar-se;
+
+Que os advogados do Paciente tenham assegurada a palavra pelo
+Presidente da CPI para, inclusive, suscitar questão de ordem,
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+CAVALCANTE REIS ADVOGADOS
+
+objetivando preservar a efetiva vigência do Regimento do Senado e
+das leis nele reportadas que devem ser integralmente respeitadas pela
+CPI, inclusive, para evitar futuras arguições de nulidade.
+
+54, - Ao final o impetrante requer, após a oitiva da Procuradoria- Geral da
+República e a prestação de informações pela presidência da CPI, seja o presente
+remédio constitucional recebido para que seja concedida definitivamente a ordem de
+habeas corpus, confirmando-se a medida liminar vindicada.
+
  
+
+N A Termos em que,
+| pa ON Pede deferimento.
+Ca. N (Sd Brasília/DF, 01 dejulho de 2021. 7 y À
+ca MA / |
+SS aja ye fu
+Iuri do Lago Nogueira Cavalcante Reis Yuri Coelho Dias
+OAB/DF n.º 35.075 OAB/DF 43.349
+
+nr Faso”
+
+Thaynyá'de Oliveira Passos Correia
+OAB/DF n.º 64.778
+
+SHIS QLIB | Conj. DA | Casa 18 | Lago Sul | Brasília/DF | CEP 71850-DES | (Bl) 3248-DBIZ
+advocacia Bcavalcantereis.adv.br | www.cavalcantereis.adv.br
+MEDIDA CAUTELAR NO HABEAS CORPUS 204.196 DISTRITO FEDERAL
+
+RELATOR : MIN. EDSON FACHIN
+
+PACTE.(S) : SILVIO BARBOSA DE ASSIS
+
+IMPTE.(s) :IURI DO LAGO NOGUEIRA CAVALCANTE REIS E
+OUTRO(A/S)
+
+COATOR(A/S)(ES) : PRESIDENTE DA COMISSÃO PARLAMENTAR DE
+INQUÉRITO DO SENADO FEDERAL - CPI DA
+PANDEMIA
+
+CONSTITUCIONAL. HABEAS CORPUS
+PREVENTIVO. “CPI DA PANDEMIA”.
+NEMO TENETUR SE DETEGERE. O
+DIREITO DE PERMANECER EM
+SILÊNCIO É CONSTITUCIONALMENTE
+GARANTIDO AO RÉU OU INDICIADO,
+NÃO À TESTEMUNHA. DEVER DE
+COMPARECER, DE DEPOR E DE DIZER
+A VERDADE QUANTO AOS FATOS EM
+TESE CRIMINOSOS QUE NÃO
+INCRIMINEM O PACIENTE. LIMINAR
+PARCIALMENTE DEFERIDA.
+
+DECISÃO: Trata-se de habeas corpus preventivo, com pedido de
+liminar, impetrado em favor de Sílvio Barbosa de Assis com o propósito
+de ver garantido o direito constitucional de permanecer em silêncio e de
+não comparecer ao ato de inquirição perante o Senado Federal,
+garantindo-se o direito contra a não autoincriminação.
+
+Narra o impetrante que “o motivo constante ao Requerimento de
+convocação do Paciente utilizou como fundamentação reportagem assinada pelo
+jornalista Patrick Camporez, publicada no sítio eletrônico do periódico 'Crusoé”,
+na data de 29.06.2021, a qual narra que o Deputado Federal Luis Cláudio
+Miranda declarou que teria integrado reunião com o também Deputado Federal
+Ricardo Barros e o Sr. Silvio de Assis, ora Paciente, oportunidade em que teria
+recebido oferta de vantagem ilegal para não atrapalhar as tratativas de aquisição
+das vacinas da Covaxin. O Senador Humberto Costa (PT/PE), autor do
+
+Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FFEE-C210-3129-2E03 e senha BCCB-DBOS9-DE3A-2C22
+HC 204196 MC / DF
+
+requerimento, inclusive, enunciou que o Sr. Silvio seria homem de confiança do
+Líder do Governo"”.
+
+Afirma que “O pretexto do chamamento como testemunha nem ao menos
+se sustenta em pé, porquanto o próprio Requerimento utiliza o vocábulo
+“investigação”, quando respalda salienta que “A denúncia é gravíssima e exige
+uma investigação imediata por parte desta CPI. A inserção do termo
+“investigação” não é uma coincidência. É clarividente: por trás da aparência de
+testemunha, o Sr. Silvio será inquirido como investigado”.
+
+Sustenta, em síntese, ter o direito constitucional de permanecer em
+silêncio e, como “desdobramento lógico do princípio da não autoincriminação”,
+de não comparecer perante a Comissão Parlamentar de Inquérito.
+
+É o relatório do necessário. DECIDO.
+
+À luz do art. 58, 8 3º, da Constituição Federal, as comissões
+parlamentares de inquérito possuem poderes de investigação próprios
+das autoridades judiciárias.
+
+Extraio do Requerimento n. 01025/2021 a justificação do ato
+convocatório, verbis:
+
+“Requeiro, nos termos do art. 58, 8 3º, da Constituição
+Federal, do art. 2º da Lei nº 1579/1952 e do art. 148 do
+Regimento Interno do Senado Federal, a convocação do Senhor
+SÍLVIO ASSIS, para prestar depoimento perante esta Comissão
+Parlamentar de Inquérito, como testemunha, sobre suposto
+esquema de corrupção no Ministério da Saúde.
+
+JUSTIFICAÇÃO
+
+A presente Comissão Parlamentar de Inquérito, batizada
+como CPI DA PANDEMIA, foi criada pelos Requerimentos
+1371 e 1372, ambos de 2021, com a finalidade de apurar, no prazo
+de 90 dias, as ações e omissões do Governo Federal no enfrentamento
+da Pandemia da Covid-19 no Brasil e, em especial, no agravamento da
+crise sanitária no Amazonas com a ausência de oxigênio para os
+pacientes internados; e as possíveis irregularidades em contratos,
+fraudes em licitações, superfaturamentos, desvio de recursos públicos,
+assinatura de contratos com empresas de fachada para prestação de
+
+2
+
+Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FFEE-C210-3129-2E03 e senha BCCB-DBOS9-DE3A-2C22
+HC 204196 MC / DF
+
+serviços genéricos ou fictícios, entre outros ilícitos, se valendo para
+isso de recursos originados da União Federal, bem como outras ações
+ou omissões cometidas por administradores públicos federais,
+estaduais e municipais, no trato com a coisa pública, durante a
+vigência da calamidade originada pela Pandemia do Coronavírus
+“SARS-CoV-2”, limitado apenas quanto à fiscalização dos recursos da
+União repassados aos demais entes federados para as ações de
+prevenção e combate à Pandemia da Covid19, e excluindo as matérias
+de competência constitucional atribuídas aos Estados, Distrito Federal
+e Municípios.
+
+Segundo reportagem do jornalista Patrick Camporez, publicada
+no site da Crusoél, em 29/06/2021, o deputado federal Luis Miranda
+teria relatado ter participado de reunião com o Líder do Governo na
+Câmara dos Deputados, Ricardo Barros, e com um suposto lobista,
+Silvio Assis, em que recebeu oferta de propina para não atrapalhar o
+negócio da COVAXIM. A reunião teria ocorrido no 31/03/2021, onze
+dias depois de o deputado Luis Miranda ter denunciado para o
+Presidente da República um esquema de corrupção no Ministério da
+Saúde envolvendo a compra da citada vacina COVAXIM. O
+convocado seria um homem de confiança do Líder do Governo.
+
+A denúncia é gravíssima e exige uma investigação imediata por
+parte desta CPI.
+
+Por essas razões, solicito o apoio dos colegas senadores para a
+aprovação deste requerimento ”
+
+O contexto apresentado na justificação do ato é prima facie,
+indicativo de dúvida sobre a condição em que o paciente será ouvido
+(testemunha ou indiciado). Aliás, o fito da CPI é, ao que parece, o de
+descortinar o exato teor das denúncias veiculadas nos sites jornalísticos,
+tendo em vista a gravidade das acusações.
+
+Sob a ótica jurídica, o ordenamento pátrio impõe a tutela liminar do
+que se pretende neste qvrit.
+
+O artigo 5º, LXII, da Constituição Federal garante ao paciente o
+direito de permanecer em silêncio exclusivamente quanto aos fatos que
+possam incriminá-lo.
+
+Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FFEE-C210-3129-2E03 e senha BCCB-DBOS9-DE3A-2C22
+HC 204196 MC / DF
+
+Os precedentes do Supremo Tribunal Federal sobre o tema, alguns
+específicos sobre a mesma CPI narrada nestes autos, são unissonos no
+sentido da preservação do direito a não autoincriminação pretendido pelo
+impetrante, na linha de trechos extraídos da decisão exarada no
+HC 113.548, Min. Celso de Mello, in verbis:
+
+“Reconheço, desse modo, a adequação do meio processual
+ora utilizado, pois se busca, com o presente “writ”
+constitucional, proteção jurisdicional ao "status libertatis" do ora
+paciente, o que permite afastar eventual alegação de impropriedade
+do "habeas corpus”, eis que, diversamente do que se decidiu no HC
+75.232/RJ, Rel. p/ o acórdão Min. MAURÍCIO CORRÊA, não
+conhecido por esta Corte (porque, nele, se pretendia salvaguardar
+apenas “o direito à intimidade" de determinado paciente,
+alegadamente lesado por deliberação de Comissão Parlamentar
+de Inquérito, visa-se, no caso ora em exame, tomar efetivo o
+amparo ao direito de defesa (com projeção no plano processual
+penal) e à prerrogativa contra a autoincriminação, cujo
+desrespeito - ninguém o ignora - pode gerar consequências
+prejudiciais à liberdade de locomoção física daquele que sofre
+investigação por parte de órgãos estatais.
+
+Cabe acentuar, de outro lado, examinada a pretensão dos
+impetrantes na perspectiva da espécie ora em análise, que as
+Comissões Parlamentares de Inquérito, à semelhança do que
+ocorre com qualquer outro órgão do Estado ou com qualquer dos
+demais Poderes da República, submetem-se, no exercício de
+suas prerrogativas institucionais, às limitações impostas pela
+autoridade suprema da Constituição.
+
+Isso significa, portanto, que a atuação do Poder Judiciário,
+quando se registrar alegação de ofensa a direitos e a garantias
+assegurados pela Constituição da República, longe de
+configurar situação de ilegítima interferência na esfera de outro
+Poder do Estado, traduz válido exercício de controle
+jurisdicional destinado a amparar qualquer pessoa nas hipóteses
+de lesão, atual ou iminente, a direitos subjetivos reconhecidos
+pelo ordenamento positivo.
+
+Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FFEE-C210-3129-2E03 e senha BCCB-DBOS9-DE3A-2C22
+HC 204196 MC / DF
+
+Em uma palavra: uma decisão judicial - que restaura a
+integridade da ordem jurídica e que torna efetivos os direitos
+assegurados pelas leis e pela Constituição da República - não
+pode ser considerada um ato de indevida interferência na esfera do
+Poder Legislativo, consoante já o proclamou o Plenário do
+Supremo Tribunal Federal, em unânime julgamento:
+
+O CONTROLE JURISDICIONAL DE ABUSOS
+PRATICADOS POR COMISSÃO PARLAMENTAR DE
+INQUÉRITO NÃO OFENDE O PRINCÍPIO DA SEPARAÇÃO
+DE PODERES.
+
+- A essência do postulado da divisão funcional do poder, além de
+derivar da necessidade de conter os excessos dos órgãos que compõem
+o aparelho de Estado, representa o princípio conservador das
+liberdades do cidadão e constitui o meio mais adequado para tornar
+efetivos e reais os direitos e garantias proclamados pela Constituição.
+
+Esse princípio, que tem assento no art. 2º da Carta Política, não
+pode constituir nem qualificar-se como um inaceitável manto protetor
+de comportamentos abusivos e arbitrários, por parte de qualquer
+agente do Poder Público ou de qualquer instituição estatal.
+
+- O Poder Judiciário, quando intervém para assegurar as
+franquias constitucionais e para garantir a integridade e a supremacia
+da Constituição, desempenha, de maneira plenamente legítima, as
+atribuições que lhe conferiu a própria Carta da República.
+
+O regular exercício da função jurisdicional, por isso mesmo,
+desde que pautado pelo respeito à Constituição, não transgride o
+princípio da separação de poderes.
+
+Desse modo, não se revela lícito afirmar, na hipótese de desvios
+jurídico-constitucionais nas quais incida uma Comissão Parlamentar
+de Inquérito, que o exercício da atividade de controle jurisdicional
+possa traduzir situação de ilegítima interferência na esfera de outro
+Poder da República.
+
+(RTJ 173/805-810, 806, Rel. Min. CELSO DE MELLO)
+
+Esse entendimento tem sido por mim observado em
+diversos julgamentos que proferi nesta Suprema Corte e nos quais
+tenho sempre enfatizado que a restauração, em sede judicial, de
+direitos e garantias constitucionais lesados por uma CPI não
+
+Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FFEE-C210-3129-2E03 e senha BCCB-DBOS9-DE3A-2C22
+HC 204196 MC / DF
+
+traduz situação configuradora de ofensa ao princípio da divisão
+funcional do poder, como resulta claro de decisão assim
+ementada:
+
+(..) O postulado da separação de poderes e a legitimidade
+constitucional do controle, pelo Judiciário, das funções investigatórias
+das CPIs, se e quando exercidas de modo abusivo. Doutrina.
+Precedentes do Supremo Tribunal Federal. (...).”
+
+Por outro lado, o art. 58, 8 2º, V, da Constituição Federal assevera que
+às comissões, em razão da matéria de sua competência, cabe “solicitar
+depoimento de qualquer autoridade ou cidadão”.
+
+Por sua vez, o art. 206 do CPP dispõe que “A testemunha não poderá
+eximir-se da obrigação de depor. Poderão, entretanto, recusar-se a fazê-lo o
+ascendente ou descendente, o afim em linha reta, o cônjuge, ainda que
+desquitado, o irmão e o pai, a míãe, ou o filho adotivo do acusado, salvo quando
+não for possível, por outro modo, obter-se ou integrar-se a prova do fato e de suas
+circunstâncias”.
+
+Consectariamente, na qualidade de testemunha de fatos em tese
+criminosos, o depoente tem o dever de comparecer e de dizer a verdade,
+não lhe assistindo, quanto a tais fatos, quer o direito ao silêncio, quer o
+não comparecimento perante Comissão Parlamentar de Inquérito.
+
+Nesse sentido, e referindo-se à mesma CPI da Pandemia, cito o HC
+203.800/DF, Rel. Min. Rosa Weber, do qual destaco o seguinte trecho: “Ao
+contrário das pessoas investigadas, às quais se reconhecem as prerrogativas de
+ficar em silêncio e até mesmo de deixar de comparecer ao interrogatório (ADPF
+395/DF, Rel. Min. Gilmar Mendes, Pleno, DJe 22.5.2019), as testemunhas, via
+de regra, estão sujeitas à obrigação de comparecer perante o órgão de investigação
+parlamentar, quando regularmente intimadas, sob pena de serem submetidas à
+condução coercitiva, podendo o comportamento faltoso resultar na aplicação de
+multa e na condenação por crime de desobediência (Lei 1.579/52, art. 3º, 8 1º, clc
+CPP arts. 218€ 219) [...)”.
+
+Desse modo, satisfeitos apenas em parte os requisitos do fumus boni
+iuris e do periculum in mora, a concessão parcial da ordem é medida que se
+impõe.
+
+Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FFEE-C210-3129-2E03 e senha BCCB-DBOS9-DE3A-2C22
+HC 204196 MC / DF
+
+Ex positis, e firme nos precedentes desta Corte, CONCEDO, em
+parte, a liminar pretendida, a fim de que, no seu depoimento perante a
+CPI da Pandemia, e exclusivamente em relação aos fatos que o
+incriminem, o paciente tenha o direito de: 7) permanecer em silêncio
+sobre o conteúdo das perguntas formuladas; ii) não ser obrigado a assinar
+termo de compromisso de dizer a verdade, uma vez que os fatos indicam
+que será ouvido na condição de investigado; iii) de ser assistido por
+advogado e iv) de se comunicar, livremente e em particular, com este,
+garantindo-se o direito contra a autoincriminação (art. 5º, inciso LXII, da
+CRFB), excluída possibilidade de ser submetido a qualquer medida
+privativa de liberdade ou restritiva de direitos em razão do exercício
+dessas prerrogativas constitucionais.
+
+Por outro lado, à luz dos fundamentos anteriormente lançados,
+indefiro o pedido de não comparecimento, impondo-se, quanto aos
+fatos, em tese, criminosos de que o paciente seja meramente
+testemunha, o dever de depor e de dizer a verdade, nos termos da
+legislação processual penal.
+
+Comunique-se, com urgência, à autoridade coatora (Presidente da
+CPI da Pandemia) o inteiro teor da presente decisão.
+
+Requisitem-se informações.
+
+Em seguida, abra-se vista à Procuradoria-Geral da República.
+
+Publique-se. Cumpra-se.
 
-PR A Pd
+Brasília, 5 de julho de 2021.
 
-das vacinasaidaca fare iltantereiS edito resetar sonhar (PT/PE), autor %
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
 
-Documento assinado digitalmente conformo MP nº 2.200:2/2001 de 24/08/2001. O documento pode sor acessado polo endereço
-ip st jus briportalfautenticaçao/autenticarDocumento. asp sob o oódigo SFEE(IFOIDS-PRB senti EXE -BOO TEA 2Ç2o
+Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FFEE-C210-3129-2E03 e senha BCCB-DBOS9-DE3A-2C22
 

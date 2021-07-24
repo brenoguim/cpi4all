@@ -1,21 +1,764 @@
-05/05/2021 SENCGU - 1581742 - Nota Técnica
+05/05/2021 SEI/CGU - 1561742 - Nota Técnica
 
-É A autenticidade deste documento pode ser conferida no site https://sei.cgu.gov.briconferir informando o
+CONTROLADORIA-GERAL DA UNIÃO
+NOTA TÉCNICA Nº 1711/2020/GAB-SE/SERGIPE
+
+PROCESSO Nº 00224.100076/2020-61
+
+INTERESSADO: MINISTÉRIO PÚBLICO FEDERAL NO ESTADO DE SERGIPE, PROCURADORIA REGIONAL
+DOS DIREITOS DO CIDADÃO EM SERGIPE
+
+1. ASSUNTO
+
+11. Levantamento de informações sobre o montante de recursos repassados ao município de Aracaju e ao
+estado de Sergipe para custar ações de combate à COVID-19 e a sua respectiva aplicação.
+
+2. INTRODUÇÃO
+
+21. Trata-se de levantamento realizado para atender demanda da Procuradoria da República em Sergipe
+
+(PR/SE), apresentada por meio do Ofício nº 453/2020/MPF/PRDC/SE, de 13.07.2020, que solicitou informações acerca
+dos recursos federais repassados ao município de Aracaju e ao estado de Sergipe, no âmbito do financiamento de ações
+de saúde para combate à COVID-19, bem como da sua efetiva aplicação.
+
+22. A fim de subsidiar o referido levantamento, foram apurados dados relativos ao montante de recursos
+repassados pelo Fundo Nacional de Saúde (FNS) ao Fundo Municipal de Saúde de Aracaju (FMS/Aracaju-SE) e ao
+Fundo Estadual de Saúde de Sergipe (FES/SE) para o atendimento exclusivo de despesas relativas ao enfrentamento da
+COVID-19.
+
+23. Em complemento, foram consultadas informações relativas às despesas realizadas, publicadas em seus
+respectivos Portais de Transparência, pela Prefeitura Municipal de Aracaju e pelo Governo do Estado de Sergipe, bem
+como dados registrados no Sistema de Acompanhamento da Gestão dos Recursos da Sociedade (Sagres), mantido pelo
+Tribunal de Contas do Estado de Sergipe (TCE/SE).
+
+3. DOS RECURSOS REPASSADOS PELO FNS
+
+31. Por meio de consulta realizada no site do Fundo Nacional de Saúde (FNS), em 08.07.2020, foi
+identificado que até o momento o município de Aracaju e o estado de Sergipe receberam recursos do Governo Federal
+nos montantes de R$ 24.364.417,92 e de R$ 89.340.624,56, respectivamente, repassados ao Fundo Municipal de Saúde
+de Aracaju (FMS/Aracaju-SE) e ao Fundo Estadual de Saúde de Sergipe (FES/SE), conforme demonstrado nas figuras
+seguintes:
+
+Figura 1 — Recursos repassados pelo FNS ao FMS/Aracaju-SE para ações de custeio em saúde
+
+Resultado da Consulta
+
+ano ur Município, População Ano Censo
+E se aRacAIy eSTAra habtanics 29
+Tipo de Repasse
+
+unica
+
+Aee)
+
+ 
+
+custEIO A
+grupo! Valor Total Eruto. Valor Desconto. Valor Liquido
+ASSISTÊNCIA FARMACEUTICA R$2cer 21075 Rsago R$ 226121078
+ATENÇÃO BÁSICA Rs come rraos Rsaga asa s4s178,08
+ATENÇÃO DE MÉDIA E ALTA COMPLEXIDADE AMEULATORUAL E HOSPITALAR Rssoss2s27as Rene szrsea gr RSEr6rD/19228
+
+ 
+
+ONNARUS
+
+ 
+
+Dis) RS 26400.41792] R$ 2044 000,00 RS 2036441797
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ão DO SUS R$ 00900 R$aga R$ o too00
+VIGILÂNCIA EM SAUDE R$ 462109348 [E R$ aseteo ae
+Total Geral R$ 158.020.436,19 R$ 20.568.204,7] R$ 137 402.041,32
+
+Fonte: https://consultafns.saude.gov.br/t/consolidada. Consulta realizada em 08.07.2020.
+
+https:/isei.cgu.gev.br/seilcontrolador php?acao= documento imprimir. web&açao origem=arvore, visuelizarâid .documento=17149638infra siste...
+
+17
+05/05/2021 SEI/CGU - 1561742 - Nota Técnica
+
+Figura 2 — Recursos repassados pelo FNS ao FES/SE para ações de custeio em saúde
+
+ 
+
+Resultado da Consulta
+ano ur municipio População Ano censo
+E se ARACA ESTA abiantes ma
+
+Tipo de Repasse
+Estadual
+
+ei PORO Eco)
+
+custeio
+
+Valor Total Bruto. Valor Desconto Velor Liquido
+
+ASSISTÊNCIA FARMAGÉUTICA RS2m0as4as eso R$2110304 86
+
+ 
+
+ATENÇÃO BÁSICA asoze ro
+
+ 
+
+esogo R$ szsasa go
+
+ATENÇÃO DE MED! ACOMPLEXIDADE AMBULATORIAL E HOSPITALAR R$21849072545 R$ 1.520.424,60 R$ 206 970.256,69
+
+ 
+
+ 
+
+ORGNAvIRUS GOV as co g90.624,56 R$ 1.460,000,00 R$ Bes4n. 626.66]
+
+ 
+
+ 
+
+ 
+
+estão DO sus RE s0c0500 Rso5o R$ 60,000,00
+
+VIGILÂNCIA EM SAUDE R$ 389156580 Rs0go as 2801 58560
+
+     
+
+ssa R$ 12000.424,00 RS S03431,02221
+
+Fonte: https://consultafns.saude. gov.br/H/consolidada. Consulta realizada em 08.07.2020.
+
+32. Os valores indicados contemplam recursos creditados entre os meses de março e junho do corrente ano,
+obedecendo à seguinte distribuição:
+
+Tabela 1 — Valores brutos repassados pelo FNS ao FMS/Aracaju-SE e ao FES/SE relativos à COVID-19
+
+ 
+
+Fundo Março - R$ | Abril- R$ Maio - R$ | Junho - R$ Total - R$
+
+ 
+
+FMS/Aracaju-SE | 1.297.878,00 | 13.002.145,87| 6.306.022,63] 5.802.371,42] 26.408.417,92
+
+ 
+
+FES/SE 6.787.883,23 | 28.403,410,59 | 42.261.397,37 | 13.347.933,37|  90.800.624,56
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: https://consultafns.saude.gov.br//consolidada. Consulta realizada em 08.07.2020.
+
+4. DOS RECURSOS APLICADOS
+
+4.1. Tendo em vista que os recursos destinados ao enfrentamento da COVID-19 são creditados na mesma
+conta bancária que os demais recursos repassados pelo FNS, na modalidade fundo a fundo, para as outras ações que
+compõe o Bloco de Manutenção das Ações e Serviços Públicos de Saúde (ações de custeio), nos termos do art. 3º da
+Portaria de Consolidação nº 6, de 28.09.2017, do Ministério da Saúde, não há outra forma de acompanhar a aplicação
+desses recursos que não seja por meio de informações disponibilizadas pelos próprios Fundos beneficiários dos repasses,
+pelas respectivas administrações municipais ou estaduais a que estejam vinculados ou ainda pelo TCE/SE.
+
+42. Assim, foram apuradas a partir das fontes supramencionadas, as informações relativas à aplicação dos
+recursos em questão pelo FMS/Aracaju-SE e FES/SE, que serão descritas a seguir:
+
+43. Das informações relativas às despesas do FMS/Aracaju-SE
+
+43.1. A Prefeitura Municipal de Aracaju (PMA) disponibiliza as informações relativas às despesas para o
+
+enfrentamento da COVID-19 em página eletrônica acessível por meio do link
+https://transparencia.aracaju.se.gov.br/prefeitura/covid19/covidl9-despesas/. Nessa página, é possível consultar valores
+empenhados, liquidados e pagos relacionados a tais despesas.
+
+43.2. Em um primeiro plano, são apresentadas informações relativas ao órgão e unidade orçamentária a que se
+referem as despesas, contemplando ainda o número do empenho, respectivos credores, valores empenhados, liquidados
+ou pagos. A figura a seguir ilustra as informações disponíveis, tomando como exemplo a consulta a empenhos:
+
+https:/isei.cgu.gev.br/seilcontrolador php?acao= documento imprimir. web&açao origem=arvore, visuelizarâid .documento=17149638infra siste...
+
+ 
+
+ 
+
+217
+https:/isei.cgu.gev.briseilcontrolador, php?acao=document
+
+05/05/2021 SEI/CGU - 1561742 - Nota Técnica
+
+Figura 3 — Exemplo ilustrativo de consulta às informações gerais dos empenhos no portal da transparência da
+
+       
+
+     
+
+ 
+
+Empenhos | Liquidações Pagamentos
+8 2020 v
+[=]
+órgão | Unidade Empenho Empenhado Reforçado
+E + + Dat credor . + miados :
+0 AOL SOMAM CASÓOTO 06347 A7NOMATA-KTECCOMERCICE | R$sMOCO0O R$op0 R$n40
+SERVCOSLTDA
+o” SO0AINDO | CASOOCB | 12677 604/0001-56-CENTERPALADE R$ono RSo4O
+COMERCIO DE VESTUARIO EREU
+1 18401 SOMADO CABOT 0404 copioogt-52-RHOSSE ascanesoo R$ogo RSDg0
+e INSTRUMENTOS E EQUIPAMENTOS
+cruRGcasER:
+2 15401 CASOt6 28762 74600A-1A-FLAMOCARDOSO | Rss zéngo Rsoo RsD10
+
+ 
+
+ARCANGELIS
+
+Fonte: https://transparencia.aracaju.se.gov.br/prefeitura/covidl9/covidl9-despesas/. Consulta realizada em 08.07.2020.
+
+433. As informações listadas podem ser transportadas em planilha eletrônica, mediante opção disponibilizada
+na própria página. Porém, a indicação das fontes de recurso, informação relevante para identificar sua origem, somente
+pode ser obtida mediante o detalhamento individual das informações de cada empenho:
+
+Figura 4 — Exemplo ilustrativo de consulta às informações detalhadas dos empenhos no portal da transparência
+da PMA
+
+Empenhos | Liquidações Pagamentos
+
+    
+
+       
+
+   
+ 
+      
+  
+
+BBB BS
+Orgão Unicade Empenho Empenhado Reforçado
+Orgão: 18-SECRETARIA MUNICIPAL DESAÚDE -SMS
+Unidade: FUNDO MUNICIP? Ú
+
+Subfunção:
+Elemento:
+
+Lcitação/Dispensa: 00
+Nº Contrato:
+
+Histórico
+
+Memo sDOC2
+
+ 
+
+na de Visitação 46/2020 Aquisição de Materia Hosgitalar- Em
+
+ 
+
+Pendemiado COMIDAS.
+
+Fonte: https://transparencia aracaju.se.gov.br/prefeitura/covid19/covid]9-despesas/. Consulta realizada em 08.07.2020.
+
+434. Em consulta realizada para os meses de março a junho do corrente ano, foram identificados cerca de 800
+empenhos associados a despesas para o enfrentamento da pandemia, quantitativo que demandaria um tempo bastante
+significativo para identificar as respectivas fontes de recurso, uma vez que necessitaria consultar individualmente cada
+empenho.
+
+43.5. Desse modo, não se identificou na página em questão uma maneira prática e ágil de quantificar as
+despesas que correspondem à aplicação dos recursos federais repassados pelo FNS para esse fim.
+
+43.6. Não obstante, mediante acesso ao sistema Sagres, mantido pelo TCE/SE, é possível consultar toda a
+execução financeira do FMS/Aracaju/SE, constando atualmente informações atualizadas até 29.05.2020.
+
+43.7. Assim, foi possível correlacionar as informações coletadas na página da transparência da PMA com as
+informações do sistema Sagres, apurando o total empenhado e pago por fonte de recurso entre março e maio de 2020:
+
+ 
+
+Armprimir. web&açao origem=arvore. visualizerâid documento=17149638infra siste...
+
+317
+05/05/2021 SEI/CGU - 1561742 - Nota Técnica
+Tabela 2 — Montantes empenhados e pagos das despesas relativas à COVID-19 do FMS/Aracaju-SE, por fonte de
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+recurso
+
+Fontes de recurso Empenhado —- R$ | Pago -R$
+12110000 - Receitas de Impostos e de Transferência de Impostos - Saúde 3.666.538,76 655.100,12
+12130000 - Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo 76.518,44 55.769,40
+Estadual
+12140000 - Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo
+Federal - Bl Je Custeio das Açõ Serviços Públi Sa 11.523.802,22] 1.684.670,57
+12149919 - Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo
+Federal - Bloco de Custeio das Ações e Serviços Públicos de Saúde para ações de combate ao 12.260.915,90| 2.468.255,24
+COVID-19
+
+ 
+
+12150000 - Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo
+
+Federal - Bloco de Investimento na Rede de Serviços Públicos de Saúde 12.213,00 12.213,00
+
+ 
+
+12209919 - Transferências de Convênios ou de Contratos de Repasse vinculados à Saúde para
+
+ações de combate ao COVID-19 133.009,60] 133.009,60
+
+ 
+
+12903110 - Outros Recursos Vinculados à Saúde - Transferências da União decorrentes de
+
+emendas parlamentares individuais. 8.366.846,64] 970.789,00
+
+ 
+
+12909819 - Transferências da União decorrentes de emendas parlamentares de bancada para
+
+ações de combate ao COVID-19. 8.865.479,79 496.000,00
+
+ 
+
+12909919 - Transferências da União decorrentes de emendas parlamentares individuais para
+
+ações de combate ao COVID-19. 3.343.874,34 9,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total - R$ 48.249.198,69 | 6.475.806,93
+
+ 
+
+ 
+
+Fonte: Elaborado pela CGU, a partir de informações do sistema Sagres e da página de transparência da PMA,
+https://transparencia aracaju. se.gov.br/prefeitura/covid19/covid19-despesas/.
+
+43.8. Em relação a esses dados, importa ressaltar que o referido município adotou, a partir do final do mês de
+abril do corrente ano, uma codificação de fonte específica para os recursos recebidos do FNS e destinados ao
+enfrentamento da COVID-19: “12149919 - Transferências Fundo a Fundo de Recursos do SUS provenientes do
+Governo Federal - Bloco de Custeio das Ações e Serviços Públicos de Saúde para ações de combate ao COVID-19”,
+razão pela qual algumas das despesas relacionadas à pandemia, realizadas em março e abril, foram empenhadas com
+indicação da fonte de recurso relativa aos repasses do FNS para ações de custeio em geral: “12140000 - Transferências
+Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Custeio das Ações e Serviços Públicos
+de Saúde”.
+
+43.9. Somados, os valores empenhados correspondentes às duas fontes de recurso anteriormente mencionadas
+totalizam R$ 23.784.718,12, sendo que o total de pagamentos, entretanto, alcança pouco mais de R$ 4 milhões.
+
+44, Das informações relativas às despesas do FES/SE
+441. O Governo do Estado de Sergipe disponibiliza as informações relativas às despesas para do combate à
+COVID-19 em página eletrônica acessível por meio do link
+
+http://www.transparenciasergipe.se.gov.br/TRS/Covid/Despesas.xhtml. Nessa página, é possível consultar, de forma
+segregada, valores empenhados, liquidados e pagos mês a mês relacionados a tais despesas.
+
+442. As informações apresentadas resumem-se à indicação da unidade orçamentária, programa, elemento de
+despesa e favorecido, sendo complementadas, a depender do estágio da despesa a ser consultado (empenho, liquidação e
+pagamento), pelo número e valor do empenho, valores liquidados e pagos. A figura a seguir ilustra as informações
+disponíveis, tomando como exemplo a consulta aos empenhos:
+
+Figura 5 — Exemplo ilustrativo de consulta às informações gerais dos empenhos no portal da transparência do
+Governo do Estado de Sergipe
+
+Despesas com a COVID-19
+
+e ne
+
+a ee E
+
+Valsanoizente ares 59050
+
+was rr ev gua
+
+Unidade « Nº do smpenho + | Programa é Elemento + Favorecido : Valor Original (R$) Valor Reforço (R$) Valor Total (R$) +
+
+ 
+
+EOREODEDOVOCR 2020ncon20 Ses e Manutenção | tira de Consura 285 sescoce 000 sascoge
+cotoneaveen orouemerm Goes Ai de Cams amas os meseo om
+
+FUNDO ESTADUAL:
+
+ 
+
+Ens ie o acto co
+
+ 
+https:/isei.cgu.gev.br/seilcontrolador php?aca
+
+05/05/2021 SEI/CGU - 1561742 - Nota Técnica
+
+Fonte: http://www.transparenciasergipe.se.gov.br/TRS/Covid/Despesas.xhtml. Consulta realizada em 08.07.2020.
+
+443. Com base nessas informações não é possível identificar a origem dos recursos efetivamente utilizados
+para custear as despesas apresentadas, uma vez que não consta a indicação do código/descrição da fonte do recurso.
+
+444. Não obstante, na página que reúne os contratos relacionados às despesas para o enfrentamento da
+COVID-19, acessível por meio do link http://www.transparenciasergipe.se.gov.br/TRS/Covid/ContratosSES.xhtml, há
+um Painel Geral da Situação Financeira dessas despesas, onde são apresentadas as despesas custeadas com recursos
+federais, estaduais e obtidos por meio de patrocínio.
+
+445. De acordo com as informações publicadas no mencionado painel, que apresenta data de atualização de
+16.06.2020, foram empenhados cerca de R$ 28 milhões em recursos federais e pagos R$ 6,5 milhões.
+
+44.6. Entretanto, não há como detalhar quais despesas foram custeadas com esses recursos, uma vez que a
+relação constante no Painel COVID-19 menciona apenas as dados das empresas e respectivos valores empenhados,
+liquidados ou pagos em seu favor, não permitindo exata correlação com os processos de contratação, contratos, ou
+objetos a que se referem os valores apontados, especialmente quanto às empresas que firmaram mais de uma contratação
+com o FES/SE. Além disso, há pagamentos atribuídos a conjuntos de pessoas físicas, sem informação que permita
+relacioná-los a um detalhamento dos beneficiários.
+
+447. A figura a seguir apresenta recortes da informação disponível no referido painel:
+
+Figura 6 — Recortes de informações relativas às despesas com recursos federais publicadas no Painel COVID-19
+pelo Governo do Estado de Sergipe
+
+si
+EstaDO DE SeraPE
+SECRETARIA DE ESTADO DA SAQDE
+
+PAINEL GERAL -SITUAÇÃO FINANCEIRA - CID -S
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EM texcanro
+RECEITA EXTRAORDINÁRIA [EOVERNO FEDERAI]-CONEATERO CONES
+[EcURSO FEDERAL [DsFonfve) jenéDiTo Eur xG/em) = EZORHaDO
+curso FEDERAL [nisronfve) (entorro Ecos) é 2065.26025
+[PORTAnA E ria DE 09 DE AL - ESTABELECE REPASTE PARK AÇÕES DEMEDIAEALTACONPIENDADE PARA DE ESTADOS CRÉDITO EIS Rê Tamamo sa
+[recurso FEDERAL [Disronfven [Emtorra Ea 29/09) es 220.000,00
+recurso FEDERAL [DisronÍvEL (emdorra Eu 11/05) es 1.aso 00000
+[PROPOSTA 19000 5377102/02-000 (BANCADA E/ HDS [CIRURGIA] CRÉDITO HA OST $ 86.000,00
+[rnOposra 19000 3177082/02-mno (gacaDa) (erÉDITO En 12/05) R$ aromas
+RECURSO FEDERAL [DISPONÍVEL] CCRÉDITO CM 22/05) (HLANTRÓPICOS] E 237059627
+RECURSO FEDERAL [DISPONÍVEL (CRÉDITO EM 03/06) HLANTRÓ PICOS] R$ Ramsaar
+TEA R$ massas
+união E AEGEEROS
+Estado 8 05525546
+seo 8 E
+Tora E SnagS20Sa
+RECURSO FEDERAL
+DESPESAS COVID
+Razão Social EM Empenhado Tiquidado Paga
+AGIS COMERCIAL FIRELI 32.676.601/0001-05 18.749,90] o] o
+AGUAMED COMERCIO DE EQUIPAMENTOS HOSPITALARES E
+ODONTOLOGICOS LTDA - ME 25.137.947/0004:70 2.193,00) 2.150,00 2.150,00
+ASSOCIACAO HOSPITALAR DE SERGIPE 15.366.414/0001-80 960.000,00) o] o
+ASSOCIAÇÃO HOSPITALAR DE SERGIPE 15.366.414/000780 206.000,00] a õ
+ASTRA SERVICOS E FACILITIES EIRELI 06.867.314/0001-72 488.219,81] 255.219,81] 45521951
+BIOTECH INDUSTRIA E COMERCIO LTDA 21.043.162/0001-87 240.000,00) 240.000,00] 240.000,00
+BIOTECH INDUSTRIA E COMERCIO LTDA 21072.162/000787 6E0,000,00] 352.500,00] TES 000,06
+CARDIOSERVICE COMERCIO INDUSTRIA E SERVICOS LTDA [ 13.435.626/0001-58 14.400,00] 18,400,00] 14.400,00
+TEI COMERCIO EXPORTAÇÃO E IMPORTAÇÃO DE MATERIAIS
+MEDICOS. 40.175 .705/0001-64 ea70,00) G270,00 s370,00
+CINCO - CONFIANCA INDUSTRIALE COMERCIO LIDA [05.075.964/0001-12 23.500,00] 15.500,00] 0
+CIRURGICA FERNANDES - COMERCIO DE MATERIAIS
+CIRURGICOS E HOSPITALARES SOCIEDADE LTDA 61,418.002/0001-31 215.945,17 25.144,28] o
+TIRURGICA SÃO FELIPE PRODUTOS PARA SAUDE LTDA «EPP | 07.526.775/0001-60 154.436,40] 154.436,40] 154.435,40
+CIRÚRGICA SÃO FELIPE PRODUTOS PARA SAUDELIDA EPP [07.626.776/0001-60 17.159,50] 17.159,60] 17.159,60
+CLINICA RENASCENCA S.A 13.175.690/0001:61 72.000,90] ] 0
+CLINICA RENASCENCA S.A 13.175.590/0001:61 000,00] o) 0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+L.]
+
+   
+
+locumento. imprimir. web&açao. origem=arvor izar&id do 17149638infra siste...
+
+ 
+
+517
+05/05/2021 SEI/CGU - 1561742 - Nota Técnica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PESSOA FISICA RELACIONADA EM USTA FEOEEEESEE TOLDOO,00] TEXTS] 15032055]
+PESSOA FÍSICA RELACIONADA EM STA PrOSSERRAS TOL00,00] 57.356,55] 8122720]
+PESSOA FISICA RELACIONADA EM STA PFOBSBSSEE 351.000,00] 738.248,04 159.350,12]
+PESSOA FISICA RELACIONADA EM LISTA PrOBRBRRAS 57.100,42] 2.438,34] 2.438,34]
+[O FMEPRODUTOS MEDICOS HOSPITALARESTIDA— [D0MDESGOLS | ERON o Tt
+RIOBAHIAFARMA COMERCIO E DISTRIBUICAO DE PROD.
+MEDICOS E COSMETICOS LTDA EPP. 15.145.035/0001-06 s.00000] a É
+TRES LEOES MATERIAL HOSPITALAR LIDA. 00.175.233/0001-25] 5.055.500,00] LEA 2490 T3A5249,00)
+TRES LEOES MATERIAL HOSPITALAR LTDA 00.175.233/0001-25 13.000,00] 13.000,00] 13.000,00]
+TRES LEGES MATERIAL HOSPITALAR LTDA 00.175.338/0001-25] 22.992,00] a 0]
+TRES LEÕES MATERIAL HOSPITALAR LTDA 00.175.233/0001-25 6.750.000,00] 158.000,00] d|
+TOTAL FE 26.028 648,00 | R$ TZ 017.602,64 | R5 ESSISTAA
+
+ 
+
+Fonte: http://www transparenciasergipe.se.gov.br/TRS/Covid/ContratosSES.xhtml. Consulta realizada em 08.07.2020.
+
+448. Cumpre esclarecer que o sistema Sagres, mantido pelo TCE/SE, não disponibiliza informações sobre a
+execução financeira dos órgãos estaduais.
+
+5. CONCLUSÃO
+
+51. Restou demonstrado que as informações publicadas pela Prefeitura Municipal de Aracaju e pelo Governo
+
+do Estado de Sergipe sobre as despesas realizadas, respectivamente, pelo FMS/Aracaju-SE e pelo FES/SE, são
+insuficientes para permitir o acompanhamento tempestivo da aplicação dos recursos repassados pelo FNS para custear
+ações de enfrentamento da pandemia.
+
+5.2. Apesar disso, no caso de FMS/Aracaju-SE, foi possível, com o apoio das informações do sistema Sagres,
+apurar que, até 29.05.2020, foram empenhados R$ 23.784.718,12 e pagos R$ 4.152.925,81, considerando as duas fontes
+de recurso utilizadas, como já demonstrado.
+
+53. Quanto ao FES/SE, observou-se que a única fonte de informação que correlaciona as despesas aos
+recursos federais recebidos, o Painel COVID-19, foi atualizada em 16.06.2020, e aponta que até então haviam sido
+empenhados R$ 28.028.643,00 e pagos R$ 6.592.574,74.
+
+6. PROPOSTA DE ENCAMINHAMENTO
+
+6.1. Diante do exposto, e considerando a solicitação recebida, propõe-se, após apreciação superior, o
+encaminhamento desta nota técnica à demandante, a fim de que adote as providencias cabíveis no âmbito de seu
+respectivo procedimento interno em andamento.
+
+Aracaju - SE, 16 de julho de 2020.
+
+Diana Moura Vasconcelos
+
+Auditora Federal de Finanças e Controle
+
+ 
+
+ 
+
+DESPACHO DO SUPERINTENDENTE DA CONTROLADORIA REGIONAL DA UNIÃO NO ESTADO DE
+SERGIPE
+
+|Aracaju - SE, 16 de julho de 2020.
+De acordo.
+|Encaminhe-se conforme proposto.
+
+ 
+
+ 
+
+Claudio Canuto dos Santos
+
+SUPERINTENDENTE DA CGU-REGIONAL/SE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Documento assinado eletronicamente por DIANA MOURA VASCONCELOS, Auditor Federal de Finanças e Controle, em
+16/07/2020, às 11:34, conforme horário oficial de Brasília, com fundamento no art. 6º, 81º, do Decreto nº 8.539, de 08
+de outubro de 2015.
+
+ 
+
+Documento assinado eletronicamente por CLAUDIO CANUTO DOS SANTOS, Superintendente da Controladoria
+Regional da União no Estado de Sergipe, em 17/07/2020, às 13:57, conforme horário oficial de Brasília, com
+fundamento no art. 6º, 81º, do Decreto nº 8.539, de 08 de outubro de 2015.
+
+   
+
+imento=1714963&infra siste... 6/7
+
+https:/isei.cgu.gev.br/seilcontrolador php?acao= documento imprimir. web&açao origem=arvore. visual
+05/05/2021 SEI/CGU - 1561742 - Nota Técnica
+
+: É A autenticidade deste documento pode ser conferida no site https://sei.cgu.gov.br/conferir informando o
 
  
 
 código verificador 1561742 e o código CRC 67B8533F
-Referência: Processo nº 00224,100076/2020-61 SEI 1561742
+
+Referência: Processo nº 00224.100076/2020-61 SEI nº 1561742
 
  
 
  
 
- 
-
-hips:lselcgu gow riseiloontrolador php?acaosdocumer
+https:/isei.cgu.gew br/seilcontrolador phpZacao=documento imprimir. webaçao origem=arvore..
 
  
 
-1 Jmprmir. webação. origem=anvore visualizarkid documento=17149638infra siste... 7/7
+isualizar&id documento=1714963&infra siste... 7/7
 

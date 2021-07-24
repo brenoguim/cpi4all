@@ -1,18 +1,3097 @@
-2910812021 fpsilsapions aqu. gou bridocumento/866969188
+ 
 
-O recurso deve ser decidido de maneira motivada. Recomenda-se que antes de ek ser apreciadomedin
+Ministério da Saúde
+Secretaria Executiva
+Gabinete da Secretaria Executiva
+
+OFÍCIO Nº 357/2021/SE/GAB/SE/MS
+Brasília, 11 de fevereiro de 2021.
+
+Ao Senhor
+
+Dr. V KRISHNA MO HAN
+
+Executive Director
+
+Bharat Biotech
+
+Genome Valley, Shamirpet, Hyderabad, 500078
+Telangana, Índia
+
+e-mail: infoObharatbiotech.com
+
+C/c:
+
+FRANCISCO EMERSON MAXMINIANO
+
+Presidente da Precisa Medicamentos
+
+Av. Portugal, 1100 - Rua 5 Parte A 14 A
+
+06.696-060 - Itapevi/SP
+
+e-mail: contatoOprecisamedicamentos.com.br
+maximianoQprecisamedicamentos.com.br
+
+Assunto: Fornecimento de vacina para o Plano Nacional de
+Operacionalização da Vacinação contra Covid-19 no Brasil.
+
+Senhor Diretor-Executivo,
+
+1. Em continuidade às tratativas anteriores, em complemento ao Ofício
+nº 302/2021/SE/GAB/SE/MS, de 03 de fevereiro de 2021 (0018912471), e em
+resposta ao Ofício nº 102 da Precisa Medicamentos, de 11 de fevereiro de 2021
+(0019045985), reitero a intenção de este Ministério da Saúde em adquirir o
+quantitativo de 20.000.000 (vinte milhões) de doses da vacina Covaxin/
+BBV152 contra a Covid-19, desenvolvida pela Bharat Biotech, de acordo com
+cronograma informado pela representante Precisa Medicamentos, e nos termos a
+serem firmados por meio de contrato que encontra-se em elaboração.
+
+2. Ressalto que, para tanto, é necessário que a vacina COVAXIN
+apresente dados de eficácia geral maiores do que 50%, tal como determinado
+pela Organização Mundial da Saúde (OMS) e pela Agência Nacional de Vigilância
+Sanitária (Anvisa) do Brasil. Bem como apresente as informações referentes à
+eficácia da vacina em relação às novas variantes circulantes de Sars-CoV-2, e as
+informações mais atuais relativas ao andamento dos ensaios clínicos, a fim de
+que aludida vacina integre o Plano Nacional de Operacionalização da Vacinação
+contra Covid-19 no Brasil.
+
+Atenciosamente,
+
+ANTÔNIO ELCIO FRANCO FILHO
+Secretário-Executivo
+
+ 
+
+Documento assinado eletronicamente por Antônio Elcio Franco Filho,
+Secretário(a)-Executivo, em 11/02/2021, às 14:28, conforme horário
+assinatura oficial de Brasília, com fundamento no art. 6º, & 19, do Decreto nº 8.539, de
+
+SEE Do de outubro de 2015; e art. 89, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+ 
+
+ 
+
+El A autenticidade deste documento pode ser conferida no site
+à http://seisaude.gov.br/sei/controlador externo.php?
+l acao=documento conferir&id orgao acesso externo=0, informando o
+código verificador 0019045674 e o código CRC 25BC3E5C.
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.175250/2020-85 SEI nº 0019045674
+
+Gabinete da Secretaria Executiva - GAB/SE
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site - saude.gov.br
+ 
+
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+Departamento de Imunização e Doenças Transmissíveis
+Coordenação-Geral do Programa Nacional de Imunizações
+
+NOTA TÉCNICA Nº 117/2021-CGPNI/DEIDT/SVS/MS
+
+Io ASSUNTO
+
+Procedimento de aquisição da vacina Covaxin/BBV152 contra a
+Covid-19
+
+2. ANÁLISE
+
+|- Da importância das ações de vacinação contra a covid-19
+
+A covid-19 é a maior pandemia da história recente da humanidade já
+tendo ocasionado mais de 109 milhões de casos confirmados no mundo e cerca
+de 2,4 milhões de óbitos até o dia 15/02/2021 (1). No Brasil já foram
+confirmados cerca de 9,8 milhões de casos e 239 mil óbitos (2). Para mitigar os
+impactos da covid-19 no Brasil foram implementadas uma série de medidas não
+farmacológicas que, a despeito de terem sido eficazes em retardar o avanço da
+epidemia, estão associadas a elevados custos sociais e econômicos e ainda não
+conseguiram interromper a circulação do vírus no país (3). De fato, a partir da
+semana epidemiológica 46 de 2020, o país vem idenficando uma nova elevação
+no número de casos e óbitos ocasionados pela doença, com alguns estados e
+municípios voltando a implementar medidas não farmacológicas agressivas para
+o combate à doença. Dessa forma entende-se que apenas uma vacina eficaz
+será capaz de permir uma retomada completa das atividades econômicas e
+evitar centenas de milhares a milhões de óbitos no país. Considerando ainda os
+custos elevados da pandemia do ponto de vista econômico e social a vacinação
+seguramente será uma das medidas mais custo efetivas, possibilitando não só
+a preservação de milhares de vidas bem como uma economia substancial.
+
+Il- Do quantitativo de doses necessários
+
+. Conforme descrito no PLANO NACIONAL DE OPERACIONALIZAÇÃO DA
+VACINAÇÃO CONTRA A COVID-19 (PNO), considerando a transmissibilidade da
+covid-19 (RO entre 2,5 e 3), cerca de 60 a 70% da população precisaria estar
+imune (assumindo uma população com interação homogênea) para interromper
+a circulação do vírus, Desta forma seria necessária a vacinação de 70% ou mais
+da população (a depender da efetividade da vacina em prevenir a
+transmissibilidade) para eliminação da doença. Portanto, em um momento
+inicial, onde não existe ampla disponibilidade da vacina no mercado mundial, o
+objetivo principal da vacinação passa a ser focado na redução da
+morbimortalidade causada pela covid-i9, bem como a manutenção do
+funcionamento da força de trabalho dos serviços de saúde e a manutenção do
+funcionamento dos serviços essenciais. Desta forma optou-se pela vacinação
+dos grupos prioritários elencados no PNO, o que demandará cerca de 162
+milhões de doses de vacina, considerando um esquema com 2 doses e um
+percentual de perdas estimados em cerca de 5%. Com os acordos já firmados
+pelo Ministério da Saúde, foram entregues cerca de 11 milhões de doses até o
+momento. Considerando a imprevisibilidade do cronograma de entrega por parte
+das farmacêuticas já contratadas e a escassez de doses fornecidas, faz-se
+necessário procurar o fornecimento com outros fornecedores, visando acelerar o
+processo de vacinação no país, em especial num cenário com elevação no
+número de casos em diversas Unidades da Federação. Nesse cenário a aquisição
+de 20 milhões de doses da vacina BBV152 traz elevada probabilidade de
+acelerar a presente campanha de vacinação e trazer impactos positivos para a
+saúde da população brasileira.
+
+Ill- Da vacina BBV152 da empresa Bharat Biotech International Limited
+
+Trata-se de uma vacina contendo vírus inativado SARS-CoV-2 com o
+adjuvante Algel-IMDG, um adjuvante agonista de TLR7 e TLR8, capaz de induzir
+a formação de resposta imune celular.
+
+A presente vacina ainda não tem dados de eficácia publicado, o
+único artigo identificado referente a vacina até o presente momento são os
+resultados da fase 1. Trata-se de um estudo multicêntrico realizado na índia
+com 375 voluntários saudáveis de 18 a 55 anos. Foram avaliados 3 formulações
+diferentes da vacina, com 100 participantes em cada braço do estudo, e 75
+participantes foram incluídos no grupo controle. Não foram detectados eventos
+adversos graves nesse estudo, os dados de imunogenicidade demonstraram
+respostas de anticorpos em 82,8 a 91,9% dos voluntários. Ressalta-se que a
+vacina foi capaz de induzir anticorpos contra a proteína S bem como o
+nucleocapsídeo. Foi identificada ainda evidências de resposta imune celular
+CD4+ e CD8+ no grupo que utilizou a formulação com o adjuvante Algel-IMDG.
+
+O estudo de fase 3 da vacina está registrado na plataforma
+ClinicalTrials.gov sob o número NCT04641481. Trata-se de um estudo
+multicêntrico para avaliação de eficácia e segurança incluindo indivíduos de 18
+anos ou mais com estimativa de inclusão de 25.800 participantes.
+
+A plataforma utilizada (vírus inativado) é uma plataforma clássica na
+vacinologia com amplo histórico de uso no Brasil e no mundo, Já se tem uma
+vacina com plataforma semelhante que demonstrou eficácia favorável no Brasil
+e está em uso na presente campanha de vacinação (Coronavac). Esta
+plataforma é usualmente muito segura, com baixos riscos de eventos adversos.
+Para a covid-19 traz a vantagem de conter o vírus SARS-COV-2 na sua
+totalidade, o que permite a indução de resposta imune a múltiplos antígenos
+virais, em tese reduzindo o risco de ser impactada por mutações virais.
+
+O adjuvante proposto, no entanto, é uma tecnologia inovadora, com
+pouco histórico de uso. Em tese traz vantagens no que diz respeito a
+capacidade de indução de resposta imune celular, o que poderia aumentar a
+eficácia da vacina e reduzir o risco de fenômenos de exarcebação de doença. No
+entanto tal teoria precisaria ser demonstrada na prática com o estudo de fase
+3.
+
+IV - Dos riscos potenciais
+Os dados de eficácia e segurança das vacinas covid-19 estão sendo
+avaliados na maioria das vezes com intervalos curtos de acompanhamento
+(poucos meses após a vacinação). Desta forma ainda é desconhecida a eficácia
+e segurança a longo prazo dessas vacinas. Ainda não se sabe qual impacto que
+as novas variantes do SARS-CoV-2 poderão trazer no que diz respeito a redução
+da eficácia destas vacinas. E possível que a eficácia reduza a longo prazo bem
+
+como com o surgimento de novas variantes.
+
+Ressalta-se ainda que a presente vacina não teve dados de eficácia
+publicados e não foi aprovada para uso pela Anvisa. No entanto, considerando-
+se o atual cenário pandêmico e a necessidade de aceleração das ações de
+vacinação no país entende-se que o perfil de risco benefício é ainda
+extremamente favorável, com elevada probabilidade de impacto positivo na
+saúde da população e mitigação dos efeitos da pandemia.
+
+Referências
+
+1. Dong E, DuH, Gardner L. An interactive web-based dashboard to track COVID-19 in real time.
+Lancetinfect Dis [Internet]. 2020 May [cited 2020 Jun 19];20(5):533-4. Available
+from:https:/linkinghub.elsevier.comvretrieve/pii/S1473309920301201
+
+2. DATASUS, Secretaria de Vigilância em Saúde, Ministério da Saúde, Brasil. COVIDI9
+PainelCoronavírus [Internet]. [cited 2020 Jun 19]. Available from: https://covid.saude .gov.br/
+
+3. Mellan TA, Hoeltgebaum HH, Mishra S, Whittaker C, Schnekenberg RP, Vesga J, etal. Report
+21:Estimating COVID-19 cases and reproduction number in Brazil. Imp Coll London. 2020;1-24.
+
+4. Ela, R., Vadrevu, K. M., Jogdand, H., Prasad, S., Reddy, S., Sarangi, V., ... & Bhargava, B.
+(2021). Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine, BBV152: a double-
+blind, randomised, phase 1 trial. The Lancet Infectious Diseases.
+
+3. CONCLUSÃO
+
+Esta Coordenação entende que a compra da presente vacina será
+altamente vantajosa caso venha a ser aprovada para uso no país. Considerando
+o atual cenário pandêmico a aquisição de vacina com múltiplos fornecedores
+reduz os riscos inerentes a cada contrato individual e permitirá ampliar a oferta
+de doses de vacina para a população brasileira.
+
+Recomenda-se demandar à empresa fabricante o envio dos dados de
+eficácia e segurança já disponíveis.
+
+Recomenda-se ainda questionar a fabricante qual plano de
+atualização da vacina caso venha a se demonstrar redução da eficácia frente ao
+surgimento de novas variantes do SARS-CoV-2.
+
+FRANCIELI FONTANA SUTILE TARDETTI FANTINATO
+Coordenadora Geral do Programa Nacional de Imunizações
+
+LAURÍCIO MONTEIRO CRUZ
+Diretor Departamento de Imunização e Doenças Transmissíveis
+ 
+
+ 
+
+— - Documento assinado eletronicamente por Francieli Fontana Sutile Tardetti
+seil -» | Fantinato, Coordenador(a)-Geral do Programa Nacional de
+dedo Imunizações, em 17/02/2021, às 11:37, conforme horário oficial de
+
+eletrônica
+
+ 
+
+ 
+
+Brasília, com fundamento no art. 6º, & 1º, do Decreto nº 8.539, de 8 de
+outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+— Documento assinado eletronicamente por Lauricio Monteiro Cruz, Diretor
+call do Departamento de Imunização e Doenças Transmissíveis, em
+sei: 17/02/2021, às 16:51, conforme horário oficial de Brasília, com fundamento
+eletrônica no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+Portaria nº 900 de 31 de Março de 2017.
+
+  
+  
+
+El A autenticidade deste documento pode ser conferida no site
+
+http: //sei.saude.gov.br/sei/controlador externo .php?
+
+fà acao=documento conferir&id orgao acesso externo=0, informando o
+4 código verificador 0019095528 e o código CRC 6E61055F.
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.175250/2020-85 SEI nº 0019095528
+
+Coordenação-Geral do Programa Nacional de Imunizações - CGPNI
+SRTV 702, Via W5 Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
+Site - saude.gov.br
+ 
+
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+Departamento de Imunização e Doenças Transmissíveis
+
+NOTA TÉCNICA Nº 64/2021-DEIDT/SVS/MS
+
+1. DO OBJETO
+
+1.1. Trata-se de processo para aquisição, por meio de Dispensa de
+licitação em conformidade com o art.2º, inciso I, da Medida Provisória nº
+1.026/2021, de 20.000.000 milhões de doses da VVacina Covaxin/BBV152 contra
+a Covid-19, para atender demanda do Programa Nacional de Imunizações,
+conforme Termo de Referência (Sei. 0019102137):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ltem Descrição do Item (Objeto) CATMAT Quantidade | Unidade de
+VACINA ADSORVIDA COVID — 19
+1 (INATIVADA) CONTRA O SARS COV-2, BR0475096 20.000.000 Doses
+SUSPENSÃO INJETÁVEL
+2. DA JUSTIFICATIVA
+2.1. A covid-19 é a maior pandemia da história recente da humanidade já
+
+tendo ocasionado mais de 86 milhões de casos confirmados no mundo e cerca
+de 1,9 milhões de óbitos até o dia 06/01/2020 (1). No Brasil já foram
+confirmados cerca de 7,8 milhões de casos e 198 mil óbitos (2). Para mitigar os
+impactos da covid-19 no Brasil foram implementadas uma série de medidas não
+farmacológicas que, a despeito de terem sido eficazes em retardar o avanço da
+epidemia no país, estão associadas a elevados custos sociais e econômicos e
+ainda não conseguiram interromper a circulação do vírus no país (3). De fato, a
+partir da semana epidemiológica 46, o país vem identificando uma nova
+elevação no número de casos e óbitos ocasionados pela covid-19, com alguns
+estados e municípios voltando a implementar medidas não farmacológicas
+agressivas para o combate à doença. Dessa forma entende-se que apenas uma
+vacina eficaz será capaz de permitir uma retomada completa das atividades
+econômicas e evitar centenas de milhares a milhões de óbitos no país.
+
+2.2. Trata-se de uma vacina contendo vírus inativado SARS-CoV-2 com o
+adjuvante Algel-IMDG, um adjuvante agonista de TLR7 e TLR8, capaz de induzir
+a formação de resposta imune celular.
+
+2.3. A presente vacina ainda não tem dados de eficácia publicado, o
+único artigo identificado referente a vacina até o presente momento são os
+resultados da fase 1. Trata-se de um estudo multicêntrico realizado na índia
+com 375 voluntários saudáveis de 18 a 55 anos. Foram avaliados 3 formulações
+diferentes da vacina, com 100 participantes em cada braço do estudo, e 75
+participantes foram incluídos no grupo controle. Não foram detectados eventos
+adversos graves nesse estudo, os dados de imunogenicidade demonstraram
+respostas de anticorpos em 82,8 a 91,9% dos voluntários. Ressalta-se que a
+vacina foi capaz de induzir anticorpos contra a proteína S bem como o
+nucleocapsídeo. Foi identificada ainda evidências de resposta imune celular
+CD4+ e CD8+ no grupo que utilizou a formulação com o adjuvante Algel-IMDG.
+
+2.4. O estudo de fase 3 da vacina está registrado na plataforma
+ClinicalTrials.gov sob o número NCT04641481. Trata-se de um estudo
+multicêntrico para avaliação de eficácia e segurança incluindo indivíduos de 18
+anos ou mais com estimativa de inclusão de 25.800 participantes.
+
+ 
+2.5. A plataforma utilizada (vírus inativado) é uma plataforma clássica na
+vacinologia com amplo histórico de uso no Brasil e no mundo. Já se tem uma
+vacina com plataforma semelhante que demonstrou eficácia favorável no Brasil
+e está em uso na presente campanha de vacinação (Coronavac). Esta
+plataforma é usualmente muito segura, com baixos riscos de eventos adversos.
+Para a covid-19 traz a vantagem de conter o vírus SARS-COV-2 na sua
+totalidade, o que permite a indução de resposta imune a múltiplos antígenos
+virais, em tese reduzindo o risco de ser impactada por mutações virais.
+
+2.6. O adjuvante proposto, no entanto, é uma tecnologia inovadora, com
+pouco histórico de uso. Em tese traz vantagens no que diz respeito a
+capacidade de indução de resposta imune celular, o que poderia aumentar a
+eficácia da vacina e reduzir o risco de fenômenos de exarcebação de doença. No
+entanto tal teoria precisaria ser demonstrada na prática com o estudo de fase
+3.
+
+3. DA ANÁLISE
+3.1. I- Da importância das ações de vacinação contra a covid-19
+
+A covid-19 é a maior pandemia da história recente da humanidade já
+tendo ocasionado mais de 86 milhões de casos confirmados no mundo e cerca
+de 1,9 milhões de óbitos até o dia 06/01/2021 (1). No Brasil já foram
+confirmados cerca de 7,8 milhões de casos e 198 mil óbitos (2). Para mitigar os
+impactos da covid-19 no Brasil foram implementadas uma série de medidas não
+farmacológicas que, a despeito de terem sido eficazes em retardar o avanço da
+epidemia no país, estão associadas a elevados custos sociais e econômicos e
+ainda não conseguiram interromper a circulação do vírus no país (3). De fato, a
+partir da semana epidemiológica 46, o país vem identificando uma nova
+elevação no número de casos e óbitos ocasionados pela doença, com alguns
+estados e municípios voltando a implementar medidas não farmacológicas
+agressivas para o combate à doença. Dessa forma entende-se que apenas uma
+vacina eficaz será capaz de permitir uma retomada completa das atividades
+econômicas e evitar centenas de milhares a milhões de óbitos no país.
+
+3.2. II - Do quantitativo de doses de vacina COVID-19 necessário
+
+O número de doses de vacinas COVID-19 necessário depende de
+uma série de fatores tais como: características da vacina (efetividade, esquema
+de administração, número de doses, tipo de resposta imune), objetivo da
+estratégia empregada e percentual de perdas esperadas. Apresenta-se a seguir
+diferentes estimativas de necessidade de doses da vacina para duas estratégias
+diferentes e com diferentes cenários.
+
+3.2.1. Estratégia 1: Eliminação da covid-19 no Brasil
+3.2.1.1. Pressupostos necessários para essa estratégia:
+
+e A vacina precisa ser capaz de induzir uma imunidade que impeça
+não somente a progressão para formas graves da doença, mas
+também impeça que os indivíduos se infectem e propaguem o
+vírus.
+
+e A imunidade gerada precisa ser duradoura e não ser impactada
+por mutações virais significativas.
+
+3.2.1.2. Racional para a estratégia e o cálculo de doses necessárias.
+
+A imunidade de rebanho é o percentual de indivíduos imunes em
+uma população a partir do qual uma doença transmissível deixa de circular na
+população. Esse limiar reflete o momento a partir do qual cada caso passa a
+gerar um caso ou menos. Para calcular o limiar necessário podemos utilizar a
+seguinte equação: (R0- 1)/ROLJ=[II, sendo RO o número básico de reprodução,
+eI o percentual da população imune. Considerando ainda que não
+necessariamente todos os indivíduos vacinados desenvolvem uma resposta
+imune adequada, pode-se calcular o percentual da população necessária a ser
+vacinada a partir da fórmula: 1 = Cv x Ev; onde Cv = proporção da população
+vacinada e Ev = efetividade da vacina. A partir desses cálculos, para diferentes
+cenários de RO e efetividade da vacina, pode-se calcular o número de doses
+necessárias para atingirmos o limiar de imunidade de rebanho (Tabela 1).
+Ressalta-se que esta estimativa considera a necessidade de 2 doses da vacina
+e um percentual de perdas esperadas de 5%.
+
+Pode-se observar que, caso a vacina consiga induzir uma resposta
+imune capaz de impedir a transmissibilidade, será necessário vacinar entre
+55,6% a 95,2% da população para atingirmos a imunidade de rebanho e,
+portanto, interromper a transmissão do SARS-CoV-2 no Brasil.
+
+Tabela 1. Cobertura vacinal e doses necessárias para atingir o limiar
+de imunidade de rebanho para diferentes valores de RO e diferentes valores de
+efetividade da vacina.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ROfEfetividade assumidajCobertura vacinal necessárialDoses a serem aplicadas?Perdas esperadas? Doses necessárias
+2 90.0% 55.6% 235472.330 11.773.616 247.245.946
+2 80.0% 62.5% 264.694.615 13.234.731 277.929.346
+2 70.0% 714% 302.387.128 15.119.356 317.506485
+2.5) 90.0% 66.7% 282482.093 14.124.105 296.606.198
+2.5) 80.0% 75.0% 317.633.538 15.881.677 333.515.215
+2.5) 70.0% 85.7% 362.949.256 18.147.463 381.096.719
+3 90.0% 741% 313.821.936 15.691.097 329.513.032
+3 80.0% 83.3% 352.784.983 17.639.249 370 424.232
+3 70.0% 95.2% 403.182.838 20.159.142 423.341.979
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RO = número básico de reprodução
+a: considerando a necessidade de 2 doses de vacina por indivíduo
+b: percentual de perdas esperado de 5%
+
+Em um momento inicial, onde as informações referentes à
+efetividade das vacinas no que diz respeito a transmissibilidade são limitadas e
+considerando ainda a escassez de doses de vacina no mercado mundial,
+entende-se que a estratégia mais adequada seria iniciar a vacinação pelos
+grupos mais vulneráveis à covid-19, conforme descrito no Plano Nacional de
+Operacionalização da Vacinação Contra a Covid-19.
+
+3.2.2. Estratégia 2: Vacinação de grupos de risco visando minimizar a
+mortalidade pela Covid-19.
+
+Na impossibilidade de se eliminar a transmissão da covid-19 no
+território nacional deve-se objetivar a redução do impacto da doença no que diz
+respeito a progressão para formas graves e óbitos, a preservação do
+funcionamento dos serviços de saúde, a preservação dos serviços essenciais e a
+proteção dos grupos mais vulneráveis à infecção pela doença. A definição dos
+grupos prioritários foi elaborada tendo por base as discussões desenvolvidas
+pelos grupos técnicos no âmbito da Câmara Técnica Assessora em Imunização e
+Doenças Transmissíveis de acordo com a Portaria nº 28 de 03 de setembro de
+2020. O racional para a definição destes grupos encontra-se no Plano Nacional
+de Operacionalização da Vacinação Contra a Covid-19,0 qual pode ser acessado
+por meio do link https://www.gov.br/saude/pt-
+br/media/pdf/2020/dezembro/16/plano vacinacao versao eletronica-1.pdf. A
+estimativa da população de cada grupo levantada até o presente
+momento totaliza cerca de 70.682.403 de indivíduos (Tabela 2). Considerando a
+necessidade de duas doses da vacina e um percentual de perdas operacional de
+cerca de 5%, estima-se serem necessárias cerca de 148,4 milhões de doses
+para a vacinação destes grupos. Destaca-se ainda que outros grupos serão
+elencados de acordo com a disponibilidade de vacinas pelos fornecedores.
+
+Tabela 2. Estimativa de necessidade de doses de vacina COVID-19
+
+para os grupos prioritários para vacinação contra a covid-19 no Brasil*.
+
+ 
+
+Grupo prioritário
+
+População estimada
+
+Número de doses necessárias"
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Trabalhadores de Saúde 5.895.851 12.381.287
+Pessoas de 80 anos ou mais 4.441.046 9.326.197
+Pessoas com 60 anos ou mais institucionalizadas 156.878 329444
+Pessoas com Deficiência Institucionalizadas 6472 13.591
+População indígena vivendo em terras indígenas 419.290 880.509
+Povos e Comunidades Tradicionais Ribeirinhas 286.833 602.349
+Povos e Comunidades Tradicionais Quilombolas 1.133.106 2.379.523
+Pessoas de 75 a 79 anos 3.614.384 7.590.206
+Pessoas de 70 a 74 anos 5.408.657 11.358.180
+Pessoas de 65 a 69 anos 7.349.241 15433.406
+Pessoas de 60 a 64 anos 9.383.724 19.705.820
+Comorbidades 17.796.450 37.372.545
+População Privada de Liberdade 753.966 1.583.329
+Pessoas em Situação de Rua 66.963 140.622
+Forças de Segurança e Salvamento 813.010 1.707.321
+Forças Armadas 364.036 7604476
+Pessoas com Deficiências Permanente Severa 7.744 445 16.263.334
+Trabalhadores de Ensino Básico 2.707.200 5.685.120
+Trabalhadores de Ensino Superior? 399.428 838.799
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Caminhoneiros 1.241.061 2.606.228
+Trabalhadores de Transporte Coletivo Rodoviário 461.517 969.186
+Trabalhadores de Metroferroviário de Passageiros 39.399 82.738
+Trabalhadores de Transporte Aéreo 64.299 135.028
+[Trabalhadores Portuários 50.252 105.529
+Trabalhadores de Transporte de Aquaviário 41.515 87.182
+Trabalhadores de Transporte Ferroviário de Cargas 34.104 71.618
+Funcionários do Sistema de Privação de Liberdade! 18.218 38.258
+Total 70.682.403 148.451.824
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Legendas:
+* dados preliminares e sujeitos a alterações
+
+** considerando uma estimativa de perdas operacionais de 5% e a necessidade
+de 2 doses de vacina
+
+adados estimados apenas em professores.
+
+exceto trabalhadores de saúde e segurança (agente de custódia e policiais).
+Fontes:
+
+1) Força de Segurança e Salvamento - estimativa da Campanha de Influenza de
+2020 - dados preliminares, incluiu indivíduos entre 18 a 59 anos.
+
+2) Pessoas com 60 a 64 anos, 65 a 69 anos, 70 a 74 anos, 75 a 79 anos, 80 ou
+mais- Estimativas preliminares elaboradas pelo Ministério da
+Saúde/SVS/DASNT/CGIAE - 2020
+
+3) Pessoas com 60 anos ou mais institucionalizadas: Sistema Único da
+Assistência Social - SUAS, 2019 -estimada a partir do censo SUAS com uma
+margem de erro de 100% para incorporar os estabelecimentos privados não
+registrados no censo.
+
+4) População Indígena vivendo em terras indígenas: dados disponibilizados pelo
+Departamento de Saúde Indígena - DESAI, novembro de 2020, incluiu indígenas
+acima de 18 anos atendidos pelo subsistema de saúde indígena.
+
+5) Comorbidades: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e
+Rendimento, Pesquisa Nacional de Saúde 2019, incluiu indivíduos entre 18 a 59
+anos.
+
+6) Pessoas com Deficiências Permanente Severa: dados do Censo do IBGE de
+2010, incluiu indivíduos entre 18 a 59 anos.
+
+7) Caminhoneiros, Trabalhadores de Transporte Aéreo, Trabalhadores de
+Portuários, Trabalhadores do Transporte de Navegação e Transporte Ferroviário
+de Cargas: dados do Registro Nacional de Transportadores Rodoviários de
+Cargas (RNTRC) e Relação Anual de Informações (RAIS), de 2019, incluiu
+indivíduos acima de 18 anos.
+
+8) Trabalhadores Transporte Coletivo Rodoviário e Metroferroviário de
+passageiros: dados do Registro Nacional de Transportadores Rodoviários de
+Cargas (RNTRC), Base da  ANPTRILHOS (Associação Nacional dos
+Transportadores de Passageiros sobre Trilhos), de 2019, incluiu indivíduos acima
+de 18 anos.
+
+9) Povos e Comunidades Tradicionais Ribeirinha: base de dados do SISAB,
+Secretaria de Atenção Primária à Saúde SAPS, outubro de 2020, incluiu
+indivíduos entre 18 a 59 anos.
+
+10) População Privada de Liberdade e Funcionário do Sistema de Privação de
+Liberdade: base de dados do Departamento Penitenciário Nacional- Infopen, de
+2020, incluiu indivíduos acima de 18 anos.
+
+11) Trabalhadores educacionais - Instituto Nacional de Estudos e Pesquisas
+Educacionais Anísio Teixeira (INEP), de 2019.
+
+12) Pessoas em situação de Rua e Pessoas com deficiencia Institucionalizadas -
+Base do CadSuas de novembro de 2020.
+
+13) Força Armada -Ministério da Defesa, de dezembro de 2020, incluiu
+indivíduos acima de 18 anos.
+
+3.3. III-Das fases de desenvolvimento de vacinas
+
+O desenvolvimento de vacinas passa por uma série de fases de
+pesquisa. Inicialmente são realizados estudos pré-clínicos, com experimentação
+em laboratório e em animais. Após os dados dos estudos pré-clínicos inicia-se o
+processo de estudos clínicos, onde as vacinas são testadas de maneira
+gradativa em humanos, visando avaliar a imunogenicidade, esquema vacinal,
+segurança e eficácia. As fases de pesquisa clínica são descritas brevemente a
+seguir. Ressalta-se que apenas após a fase III as vacinas são licenciadas para
+uso pelas agências regulatórias.
+
+Fase I: verifica a segurança e avalia a melhor forma de
+administração deste novo produto.
+
+Fase II: são testados os diferentes esquemas para a vacina, ou
+seja, qual a dose e o intervalo ideal entre as doses para se obter as melhores
+respostas imunológicas contra a doença que ela se propõe a imunizar.
+
+Fase III: avalia se a vacina tem efeito protetor e confirma a
+segurança em pessoas que estão em contato com a doença. Destaca-se, ainda,
+que na fase III, compara-se a nova vacina com um produto que já existe e se
+há proteção; ou a um produto inerte chamado placebo. Esta comparação é que
+permite concluir, ao final do estudo, se a vacina possui eficácia ou não.
+
+Fase IV: avalia a segurança da vacina em larga escala e a sua
+proteção em várias populações, durante um período de tempo mais longo, após
+o seu registro para uso na Agência Reguladora.
+
+Cada produto tem um plano de estudos chamado Plano de
+Desenvolvimento Clínico, que no Brasil é avaliado e aprovado pela Agência
+Nacional de Vigilância Sanitária- Anvisa. No mais, ainda não existe a vacina
+contra a covid-19 autorizada para uso no país. Portanto, todas as possíveis
+vacinas estão em fase de testes.
+
+3.4. IV-Do cenário global de vacinação contra a covid-19
+
+Como resposta a pandemia foram realizados investimentos maciços
+para o desenvolvimento de vacinas COVID-19, o que levou ao desenvolvimento
+de elevado número de vacinas em tempo recorde. Até o dia 05/01/2020, de
+acordo com a Organização Mundial da Saúde (4), existiam 235 vacinas
+candidatas em desenvolvimento, sendo 63 destas em estudos clínicos, das
+quais 21 estavam em fase 3 de pesquisa clínica. Adicionalmente 4 vacinas já
+foram aprovadas para uso em outros países. A despeito do grande número de
+vacinas em desenvolvimento a oferta de doses de vacina no mercado
+internacional é ainda bastante escassa, o que se agrava com a elevada
+demanda de doses de vacina pelos diferentes países no globo.
+
+Desta forma faz-se necessária a realização de aquisições de doses
+de vacina com múltiplos fornecedores, visando aumentar a probabilidade de
+aquisição de doses em um volume adequado para atender as necessidades do
+Brasil. E de se esperar que esses processos de aquisição poderão ocorrer
+mesmo antes da aprovação para o uso das diferentes vacinas pelas agências
+reguladoras. Isto se justifica visando assegurar um quantitativo adequado de
+vacinas e antecipar o envio das mesmas ao Brasil em um cenário de elevada
+demanda global. Esses processos serão, portanto, investimentos de risco,
+sendo possível que determinadas aquisições não venham a trazer os frutos
+desejados caso a vacina não demonstre um perfil de risco-benefício favorável
+após a finalização dos estudos de fase 3. Tal cenário de incerteza reforça a
+necessidade de diversificação dos fomecedores de eventuais vacinas COVID-19
+visando minimizar a incerteza referente a possibilidade de vacinação da
+população brasileira.
+
+4. DO CRONOGRAMA DE ENTREGA
+
+41. Em análise a necessidade atual de abastecido do programa, se faz
+necessária as entregas na forma e nos prazos abaixo:
+
+ 
+
+VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PARCELA [QUANTITATIVO (DOSES) PRAZO MÁXIMO DE ENTREGA (ATÉ)
+1º 4.000.000 20 dias após a assinatura do Contrato
+2º [4.000.000 30 dias após a assinatura do Contrato
+a? [4.000.000 45 dias após a assinatura do Contrato
+q [4.000.000 60 dias após a assinatura do Contrato
+5º [4.000.000 70 dias após a assinatura do Contrato
+TOTAL 20.000.000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. DO VALOR DA AQUISIÇÃO PROPOSTA E DO CRÉDITO
+ORÇAMENTÁRIO
+5.1. O custo da contratação será de US$ 300.000.000,00 (trezentos
+
+milhões de dólares), conforme preço informado na carta da empresa Bharat
+Biotech, datada de 12 de janeiro de 2021 (0018614163), que ofereceu 12
+milhões de doses da vacina COVAXIN a este Ministério da Saúde, ao preço de
+US$ 15 por dose. Posteriormente, a empresa Precisa Medicamentos, apresentou
+o Ofício nº 102, de 11 de fevereiro de 2021 (0019045985), reiterando a intenção
+de fornecer a vacina ao Ministério da Saúde e ofertou o quantitativo de
+20.000.000 (vinte milhões) de doses.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item do Valor unitário| :
+TR Produto (US$) Quantidade [Total (US$)
+ACINA ADSORVIDA COVID — 19
+1 (INATIVADA) DA BHARAT BIOTECH US$ 15,00 |20.000.000 | US$ 300.000.000,00)
+Total US$ 300.000.000,00]
+5.2. Será celebrado uma dispensa licitação, em conformidade com
+
+a Medida Provisória nº 1.026/2021, publicada em 06 de janeiro de 2021, na qual
+prevê em seu inciso 2º, artigo 6º, que o preço "Excepcionalmente, mediante
+justificativa da autoridade competente, poderá ser dispensada a estimativa de
+preços de que trata o inciso VI do & 1º.". Importante salientar que se tratar da
+primeira aquisição nacional da VACINA ADSORVIDA COVID - 19 (INATIVADA)
+com a empresa BHARAT BIOTECH, não havendo registro de aquisições
+anteriores ou preços balizadores para esta vacina.
+
+5.3. As despesas decorrentes desta contratação estão programadas em
+dotação orçamentária própria, prevista no orçamento da União, para o exercício
+de 2021, na classificação abaixo:
+
+Gestão/Unidade: 00001/250005
+
+Fonte: Decreto nº 10.595 de 07/01/2021.
+Programa de Trabalho: 10.122.5018.21C0.6500
+Elemento de Despesas: 33.90.30.
+
+5.4. No exercício seguinte, se for o caso, as despesas correrão à conta
+dos recursos próprios para atender às despesas da mesma natureza, cuja
+alocação será feita no início de cada exercício financeiro, recursos já destacados
+e aprovados por Medida Provisória no exercício de 2020.
+
+6. DATA DE INÍCIO DO PROCESSO QUE SERÁ CELEBRADO
+
+6.1. A expectativa é que a 13 entrega seja efetivada até março 2021,
+após assinatura do contrato no seguinte endereço: Rua Jamil João Zarif, número
+684, Jardim Santa Vicência, UNIDADES 11 a 17, Município de Guarulhos —
+SP. CEP: 07.143-000.
+
+7. CONCLUSÃO
+
+7.1. Pelo exposto, haja vista a necessidade do Programa Nacional de
+
+Imunizações, solicita-se autorização para o prosseguimento da presente
+aquisição, cujo quantitativo a ser contratado perfaz o montante
+
+de US$ 300.000.000,00 (trezentos milhões de dólares).
+
+ 
+
+Documento assinado eletronicamente por Thiago Fernandes da Costa,
+Assessor(a) Técnico(a), em 17/02/2021, às 17:50, conforme horário
+oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de
+8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Lauricio Monteiro Cruz, Diretor
+do Departamento de Imunização e Doenças Transmissíveis, em
+18/02/2021, às 10:48, conforme horário oficial de Brasília, com fundamento
+no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+
+seil
+Sinta
+eletrônica
+
+     
+ 
+
+ 
+
+(cail ;
+E
+
+  
+
+A autenticidade deste documento pode ser conferida no site
+http: //sei.saude.gov.br/sei/controlador externo.php?
+
+acao=documento conferir&id orgao acesso externo=0, informando o
+código verificador 0019111410 e o código CRC 15C470FC.
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.175250/2020-85 SEI nº 0019111410
+
+Departamento de Imunização e Doenças Transmissíveis - DEIDT
+SRTV 702, Via W5 Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
+Site - saude gov.br
+ 
+
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+Coordenação-Geral de Planejamento e Orçamento
+
+DESPACHO
+
+SVS/CGPO/SVS/MS
+Brasília, 18 de fevereiro de 2021.
+
+À
+Secretaria Executiva
+C/C : DLOG/SE/MS
+
+Assunto: Indicação de Funcional Programática
+
+Em atendimento ao despacho DEIDT 0019109961, o qual trata do
+processo para aquisição, por meio de Dispensa de licitação em conformidade
+com o art.2º, inciso I, da Medida Provisória nº 1.026/2021, de 20.000.000
+milhões de doses da VVacina Covaxin/BBV152 contra a Covid-19, para atender
+demanda do Programa Nacional de Imunizações , ao custo total de US$
+300.000.000,00 (Trezentos milhões de dólares), conforme Nota
+Técnica 0019111410 , indicamos a Funcional Programática
+10.122.5018.21C0.6500 - Medida Provisória nº 1.015, de 17 de dezembro de
+2020 - CVAL.
+
+Quando do atendimento considerar o fechamento de câmbio
+correspondente à taxa do dia.
+
+Atenciosamente,
+
+GERALDO DA SILVA FERREIRA
+Coordenador Geral de Planejamento e Orçamento
+Secretaria de Vigilância em Saúde
+
+De Acordo, encaminhe-se à Secretaria Executiva.
+ARNALDO CORREIA DE MEDEIROS
+Secretário de Vigilância em Saúde
+
+ 
+
+- Documento assinado eletronicamente por Geraldo da Silva Ferreira,
+| eil ;x | Coordenador(a)-Geral de Planejamento e Orçamento, em 18/02/2021,
+= às 17:51, conforme horário oficial de Brasília, com fundamento no art. 6º, 8
+elexrbnica 19, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
+
+900 de 31 de Março de 2017.
+
+o - Documento assinado eletronicamente por Arnaldo Correia de Medeiros,
+«gil -» | Secretário(a) de Vigilância em Saúde, em 18/02/2021, às 17:57,
+sei: conforme horário oficial de Brasília, com fundamento no art. 6º, 8 19, do
+eletrônica Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de
+
+31 de Março de 2017.
+
+El A autenticidade deste documento pode ser conferida no site
+
++: http://seisaude.gov.br/sei/controlador externo.php?
+
+fà acao=documento conferir&id orgao acesso externo=0, informando o
+Tá código verificador 0019132033 e o código CRC C3EA231E.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.175250/2020-85 SEI nº 0019132033
+ 
+
+Ministério da Saúde
+Secretaria Executiva
+Gabinete da Secretaria Executiva
+
+DESPACHO
+
+SE/GAB/SE/MS
+Brasília, 19 de fevereiro de 2021.
+
+Assunto: Ato de Governança - Autorização para aquisição
+da vacina Covaxin/BBV152 contra a Covid-19 - SVS.
+
+1. Trata-se de solicitação de autorização de govemança, com vistas
+à aquisição de 20.000.000 (vinte milhões) de doses da vacina Covaxin/
+BBV152 contra a Covid-19, desenvolvida pela empresa internacional Bharat
+Biotech, representada na presente contratação pela empresa nacional Precisa
+Medicamentos, em atendimento à solicitação do Departamento de Imunização e
+Doenças Transmissíveis - DEIDT/SVS/MS, conforme o todo contido na Nota
+Técnica, observadas as especificações técnicas e justificativas da aquisição
+constantes do Termo de Referência na versão mais recente, deverá ser
+lavrado o instrumento contratual.
+
+2. Conforme consta da Nota Técnica Nº 64/2021-
+DEIDT/SVS/MS (0019111410), a aquisição tem o valor de US$ 300.000.000,00
+(trezentos milhões de dólares), cuja disponibilidade orçamentária e fonte de
+custeio foram declaradas pela SVS via Despacho CGPO/SVS 0019132033, na
+Funcional Programática 10.122.5018,21C0.6500 - Medida Provisória nº 1.015, de
+17 de dezembro de 2020 - CVAL.
+
+3. Cumpre observar, ainda, que não obstante às questões técnicas
+inerentes ao contrato, o acompanhamento e fiscalização do objeto contratado,
+bem como a pesquisa de preços sejam de competência das áreas técnicas
+envolvidas, é imperioso lembrar que eventuais inconsistências na instrução
+processual, sobretudo quanto aos valores às expensas do erário, poderão ser
+objeto de apuração pelos órgãos de controle, podendo ser
+responsabilizados os agentes públicos que derem causa por eventual ação
+ou até mesmo desídia administrativa.
+
+4. Considerando as informações prestadas pela área demandante
+nos expedientes citados no item "1" supra, autorizo a continuidade. Não
+obstante, considerando a excepcionalidade e urgência que essa contração
+requer, os autos deverão ser remetidos à CONJUR-MS para conhecimento e
+parecer a posteriori, cujas recomendações emitidas deverão ser integralmente
+atendidas pelas áreas competentes, em eventuais saneamentos, caso
+necessários. Ademais, o contrato deverá guardar inteira compatibilidade ao
+Termo de Referência expedido pelo DEIDT/SVS. Frisa-se que o teor e a
+veracidade das informações e justificativas apresentadas são de inteira
+responsabilidade das áreas que as emitiram.
+
+5. Registra-se, ainda, que a presente autorização constitui ato de
+governança das contratações estritamente relacionado à ciência sobre a
+realização da despesa pública, não envolvendo a análise técnica e jurídica do
+procedimento, que são de responsabilidade dos ordenadores de despesa e das
+unidades jurídicas dos respectivos órgãos do Ministério da Saúde e entidades a
+ele vinculadas, de acordo com suas competências legais, nem implicando
+ratificação ou validação dos atos que compõem o processo de contratação.
+
+6. Ao Diretor do Departamento de Logística em Saúde -
+
+DLOG/SE/MS, para conhecimento e prosseguimento, NA URGÊNCIA QUE O
+CASO REQUER.
+
+ANTÔNIO ELCIO FRANCO FILHO
+Secretário-Executivo
+
+ 
+
+     
+ 
+  
+
+Documento assinado eletronicamente por Antônio Elcio Franco Filho,
+Secretário(a)-Executivo, em 19/02/2021, às 16:57, conforme horário
+oficial de Brasília, com fundamento no art. 6º, & 19, do Decreto nº 8.539, de
+8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+[ seil
+eletrônica
+
+  
+
+A autenticidade deste documento pode ser conferida no site
+http://sei.saude.gov.br/sei/controlador externo.php?
+
+jà acao=documento conferir&id orgao acesso externo=0, informando o
+código verificador 0019143082 e o código CRC F29EESAS.
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.175250/2020-85 SEI nº 0019143082
+24/02/2021 https://sapiens.agu.gov.br/documento/582876546
+
+9
+
+ADVOCACIA-GERAL DA UNIÃO
+CONSULTORIA-GERAL DA UNIÃO
+CONSULTORIA JURÍDICA JUNTO AO MINISTÉRIO DA SAÚDE
+COORDENAÇÃO-GERAL DE ANÁLISE JURÍDICA DE LICITAÇÕES, CONTRATOS E INSTRUMENTOS CONGÊNERES
+
+PARECER n. 00109/2021/CONJUR-MS/CGU/AGU
+
+NUP: 25000.175250/2020-85
+INTERESSADOS: DEPARTAMENTO DE LOGÍSTICA EM SAÚDE
+ASSUNTOS: ATIVIDADE FIM E OUTROS
+
+EMENTA: DIREITO ADMINISTRATIVO. LICITAÇÕES E CONTRATOS. CONTRATAÇÃO DIRETA.
+DISPENSA DE LICITAÇÃO. AQUISIÇÃO DE VACINA COVID-19 (CORONAVÍRUS, SARS-COV-
+2). APLICAÇÃO DA MEDIDA PROVISÓRIA Nº 1.026/2021. ANÁLISE DE MINUTA CONTRATUAL.
+APROVAÇÃO COM AS OBSERVAÇÕES DOS ITENS 63, 68, 69, 82, 90, 105, 106, 110, 113, 117, e 120.
+CONCLUSÕES NO ITEM 123 DESTE OPINATIVO.
+
+1. RELATÓRIO.
+
+1. Trata-se de processo encaminhado a esta Consultoria Jurídica, por intermédio do Despacho DIVAN 0019185177 que
+aduz tratar-se de processo de compra de VACINA contra COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL
+(Covaxin/BBV 152), por meio de Dispensa de Licitação com fundamento no artigo 2º, inciso I, da Medida Provisória nº 1.026/2021.
+
+2. A área técnica entende pela submissão da minuta do contrato à análise desta Consultoria Jurídica, conforme art. 38,
+parágrafo único, da Lei nº 8.666/93.
+3. Para fins de maior detalhamento, cumpre transcrever o teor do despacho que promoveu o encaminhamento dos autos a
+
+este órgão consultivo. Im verbis:
+
+DESPACHO
+DIVAN/COLMER/CGIES/DLOG/SE/MS
+
+https://sapiens .agu.gov.br/documento/582876546 1/24
+24/02/2021
+
+https://sapiens .agu.gov.br/documento/582876546
+
+https://sapiens.agu.gov.br/documento/5828/6546
+Brasília, 22 de fevereiro de 2021.
+
+À CONJUR/MS,
+Assunto: Análise da minuta de Contrato.
+
+Trata-se do processo de compra para aquisição de VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2),
+INJETÁVEL (Covaxin/BBV152), por meio de Dispensa de Licitação com fundamento no artigo 2º, inciso I, da
+Medida Provisória nº 1.026/2021, em atendimento à solicitação da Departamento de Imunização e Doenças
+Transmissíveis - DEIDT, conforme especificações do Termo de Referência (0019176200).
+
+Cumpre ressaltar que não há manifestação jurídica referencial para abarcar a presente aquisição.
+Por essa razão, faz-se necessário a análise prévia da minuta de contrato pela d. Consultoria Jurídica.
+Para fins de apreciação pela CONJUR/MS, foram juntados ao processo os seguintes documentos:
+Termo de Referência Final (0019176200);
+
+Proposta de Preços (0019176224);
+
+Documentação Técnica (0019183959);
+
+Documentação Fiscal (0019184573 e 0019184366);
+
+Certidões (0019184135);
+
+Reserva Orçamentária (0019162702);
+
+Minuta de Contrato (0019185172).
+
+Por todo o exposto, solicitamos a remessa do processo à d. CONJUR/MS, tendo em vista o disposto no
+parágrafo único, artigo 38, da Lei n.º 8.666/93.
+
+Atenciosamente,
+Michelle Araújo Soares
+Chefe da Divisão de Análise das Aquisições de Insumos Estratégicos para Saúde
+
+De acordo.
+
+Encaminhe-se ao Departamento de Logística em Saúde para ciência e, s.m,j., encaminhamento à d. Consultoria
+Jurídica - CONJUR para exame da minuta ora proposta e pronunciamento acerca da sua regularidade.
+
+Solicito, por gentileza, o retorno do processo em até 10 dias.
+Marcelo Batista Costa
+Coordenador-Geral Substituto de Aquisições de Insumos Estratégicos para Saúde
+
+Ciente.
+
+De acordo.
+
+Submeto à CONJUR/MS para análise e manifestação.
+Roberto Ferreira Dias
+
+Diretor do Departamento de Logística em Saúde,
+
+Os autos estão instruídos no sistema eletrônico SEI, sob o nº 25000.175250/2020-85 e contam com quatro volumes.
+
+2/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+5. Houve solicitação de urgência para liberação deste parecer.
+
+6. É o sucinto relatório.
+
+11 DA FINALIDADE E ABRANGÊNCIA DO PARECER JURÍDICO
+
+7. Registra-se que esta manifestação tomará por base, exclusivamente, os elementos constantes dos autos, visto que, em
+
+face do que dispõe o art. 131 da Constituição Federal e o art. 11 da Lei Complementar nº 73/1993, incumbe a este órgão de execução
+da AGU prestar consultoria sob o prisma estritamente jurídico, não lhe competindo adentrar na análise da conveniência e oportunidade
+dos atos praticados no âmbito da Administração nem analisar aspectos de natureza eminentemente técnico-administrativa, assim como
+os aspectos técnicos, econômicos, financeiros e orçamentários. A Boa Prática Consultiva — BPC nº 07, editada pela AGU, corrobora
+tal entendimento.
+
+8. Importa frisar, pois, que não compete a esta CGLICI apreciar as questões de interesse e oportunidade do ato que se
+pretende praticar, visto que são da esfera discricionária do Administrador, tampouco dos atos técnicos e das especificações e
+fundamentações de ordem técnica explicitadas para justificar a celebração do ajuste.
+
+9. Cabe esclarecer que, via de regra, não é papel do órgão de assessoramento jurídico exercer a auditoria quanto à
+competência de cada agente público para a prática de atos administrativos. Incumbe, isso sim, a cada um desses observar se os
+seus atos estão dentro do seu espectro de competências.
+
+10. Ademais, quanto aos atos decisórios praticados com base em delegação de competência, convém destacar o contido
+na Lei nº da Lei nº 9.784/99:
+
+Art 14.[..]
+$ 3º As decisões adotadas por delegação devem mencionar explicitamente esta qualidade e considerar-se-ão
+editadas pelo delegado.
+
+11. Portanto, estes deverão mencionar explicitamente a qualidade e considerar-se-ão editadas pelo delegado.
+
+12. Vale ressaltar, ainda, que aos órgãos da AGU compete — fiel, técnica e exclusivamente — assessorar os entes e órgãos
+
+assessorados na tomada de suas decisões, apontando-lhes os embaraços jurídicos eventualmente existentes, e as opções palatáveis,
+segundo o ordenamento pátrio, para a consecução das políticas públicas a cargo do organismo assessorado.
+
+13. Portanto, a atribuição legal do órgão de assessoramento jurídico esgota-se em orientar a autoridade sob o exclusivo
+prisma da legalidade, exarando peça opinativa que lhe dá plena ciência das recomendações e observações lançadas pela Advocacia-
+Geral da União.
+
+14. Dessa maneira, a análise em comento tem a função de apontar possíveis riscos do ponto de vista jurídico e recomendar
+providências para salvaguardar a autoridade assessorada, a quem compete avaliar a real dimensão do risco e a necessidade de se adotar
+ou não a precaução recomendada.
+
+15. As questões que envolvam a legalidade, de observância obrigatória pela Administração, serão apontadas, ao
+longo deste parecer, como óbices a serem corrigidos ou superados. O prosseguimento do feito, sem a correção de tais
+apontamentos, será de responsabilidade exclusiva do gestor, por sua conta e risco.
+
+1.2 REGULARIDADE DA FORMAÇÃO DO PROCESSO
+
+https://sapiens .agu.gov.br/documento/582876546
+
+3/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+16. De acordo com o art. 22 da Lei nº 9.784, de 1999, os atos do processo administrativo não dependem de forma
+determinada, salvo expressa disposição legal.
+17. Com efeito, no que pertine especificamente à licitação, bem como contratos/convênios e outros ajustes, conforme
+
+artigo 38 da Lei nº 8.666, de 1993, o processo administrativo deverá observar as normas que lhes são pertinentes, iniciando-se com a
+devida autuação, com a correspondente protocolização e numeração, juntando-se, em sequência cronológica, os documentos
+pertinentes, cujas folhas devem ser numeradas e rubricadas, sendo que cada volume deverá conter os respectivos termos de abertura e
+encerramento, contendo, na medida do possível, no máximo, 200 folhas:
+
+18. Neste sentido a Orientação Normativa AGU nº 2, de 1º de abril de 2009 dispõe:
+
+Os instrumentos dos contratos, convênios e demais ajustes, bem como os respectivos aditivos, devem integrar
+um único processo administrativo, devidamente autuado em sequência cronológica, numerado, rubricado,
+contendo cada volume os respectivos termos de abertura e encerramento.
+
+19. É certo que tais normas devem ser adaptadas e aplicadas, naquilo que couber, ao processo eletrônico.
+20. Deste modo, todos os atos administrativos referentes a contratos e seus aditivos devem integrar o mesmo processo
+administrativo, físico ou eletrônico, com os eventos dispostos em ordem cronológica, conforme ON AGU n. 02/2009. É irregular a
+abertura de novos processos — novos NUPs (número único de protocolo) para cada ocorrência verificada na história daquela
+contratação, a exemplo de um novo processo para eventual aditivo quantitativo ou novo processo para a prorrogação.
+
+1.3 LIMITES E INSTÂNCIAS DE GOVERNANÇA
+
+21. No âmbito do Poder Executivo Federal, o Decreto nº 10.193, de 27 de dezembro de 2019 estabeleceu limites e
+instâncias de governança para a contratação de bens e serviços e para a realização de gastos com diárias e passagens, aplicáveis aos
+órgãos, entidades e fundos do Poder Executivo Federal integrantes do Orçamentos Fiscal e da Seguridade Social, donde se destaca a
+previsão contida em se artigo 3º.
+
+Art. 3º A celebração de novos contratos administrativos e a prorrogação de contratos administrativos em vigor
+relativos a atividades de custeio serão autorizadas em ato do Ministro de Estado ou do titular de órgão
+diretamente subordinado ao Presidente da República.
+
+$ 1º Para os contratos de qualquer valor, a competência de que trata o caput poderá ser delegada às seguintes
+autoridades, permitida a subdelegação na forma do $ 2º:
+
+1- titulares de cargos de natureza especial;
+
+II - dirigentes máximos das unidades diretamente subordinadas aos Ministros de Estado; e
+
+III - dirigentes máximos das entidades vinculadas.
+
+$2º Para os contratos com valor inferior a R$ 10.000.000,00 (dez milhões de reais), a competência de que trata
+o caput poderá ser delegada ou subdelegada aos subsecretários de planejamento, orçamento e administração ou
+à autoridade equivalente, permitida a subdelegação nos termos do disposto no $ 3º.
+
+$3º Para os contratos com valor igual ou inferior a R$ 1.000.000,00 (um milhão de reais), a competência de
+
+que trata o caput poderá ser delegada ou subdelegada aos coordenadores ou aos chefes das unidades
+administrativas dos órgãos ou das entidades, vedada a subdelegação.
+
+https://sapiens .agu.gov.br/documento/582876546
+
+4124
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+2. Verifica-se que consta autorização do Sr. Secretário Executivo, titular de cargo de natureza especial, no documento
+SEI 0019143082, de modo que atendida essa formalidade.
+23. Registre-se que incumbe à área técnica (considerando-se os últimos pacotes fiscais anunciados pelo poder
+
+público) verificar a eventual existência de Decretos ou outros normativos relativos a "limites", "contingenciamento
+orçamentário" ou a "restrição ao empenho de verbas”, com efeitos aplicáveis ao caso concreto.
+
+24. Lembramos, ainda, que o Ministério da Economia costuma editar anualmente normativos que determinam a suspensão
+de contratações, o que deverá ser objeto de atenção e cumprimento pelo Órgão.
+
+1.4 DESENVOLVIMENTO NACIONAL SUSTE: VEL
+
+25. De acordo com o Manual de Boas Práticas Consultivas, da Consultoria-Geral da União, no enunciado 11:
+As licitações e contratações sustentáveis constituem política pública relevante para a Administração, cabendo
+aos Órgãos Consultivos, mediante suas práticas e manifestações nos processos submetidos a seu exame,
+fomentar e sedimentar a sua instrumentalização para a construção de um meio ambiente sustentável.
+26. Tendo por fundamento os compromissos internacionais assumidos pelo Estado Brasileiro, os artigos 3º e 225, da
+Constituição Federal e legislação, há um poder-dever do gestor público na realização de licitações sustentáveis, considerando aspectos
+ambientais, sociais, econômicos e de acessibilidade. Assim, a promoção do desenvolvimento nacional sustentável é diretriz a ser
+observada na licitação (artigo 3º, caput, Lei 8666/93), ao lado da garantia de observância do princípio constitucional da isonomia e da
+seleção da proposta mais vantajosa para a Administração.
+27. O Decreto 7.746/12, alterado parcialmente pelo Decreto 9.178/17, regulamentou o artigo 3º, da Lei 8.666/93 e, na
+efetivação do desenvolvimento nacional sustentável pelas licitações, o órgão assessorado deve atentar se na contratação incidem
+critérios e práticas (artigos 3º e 4º) de sustentabilidade.
+28. Os critérios e práticas de sustentabilidade devem constar como especificação técnica do objeto, obrigação da
+contratada ou requisito previsto em lei especial, de acordo com o disposto no inciso IV do caput do artigo 30 da Lei 8.666/93. Em
+subsídio:
+
+1.10. Dar ciência à
+
+0)
+sobre as seguintes impropriedades:
+
+1.10.2. falta de aplicação de critérios e práticas de sustentabilidade, que contribuem para a promoção do
+desenvolvimento nacional sustentável, em suas contratações, o que afronta o art. 3º da Lei 8666/1993.
+ACÓRDÃO Nº 32/2015 - TCU - 2º Câmara . Processo TC-034.526/2011-0 (PRESTAÇÃO DE CONTAS -
+Exercício: 2010) relator Raimundo Carreiro
+
+€.)
+
+as chamadas licitações sustentáveis constituem importante instrumento a ser adotado pelas entidades públicas
+para, utilizando seu significativo poder de compra, induzir o setor produtivo a adotar processos de produção
+ambientalmente mais sustentáveis.
+
+(Acórdão 0691-04/13-2 - 2º. Câmara)
+
+https://sapiens .agu.gov.br/documento/582876546
+
+5/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/5828/6546
+29. No caso dos autos consta no item 16 do Termo de Referência DEIDT 0019176200:
+
+CRITÉRIOS DE SUSTENTABILIDADE AMBIENTAL
+
+Nos termos do Decreto nº 2.783, de 1998 e da Resolução CONAMA nº 267, de 14/11/2000 é vedada a oferta de
+produto ou equipamento que contenha ou faça uso de qualquer das Substâncias que Destroem a Camada de
+Ozônio SDO abrangidas pelo Protocolo de Montreal, notadamente CFCs, Halons, CTC e tricloroetano, à
+
+exceção dos usos essenciais permitidos pelo Protocolo de Montreal, conforme artigo 1º, parágrafo único, do
+Decreto nº. 783, de 1998, e o artigo 4º da Resolução CONAMA nº 267, de 14/11/2000.
+
+30. Desse modo, tem-se por atendido esse ponto. De qualquer sorte, é dever da área avaliar se a previsão é suficiente em
+relação ao objeto da contratação.
+
+2 ANÁLISE JURÍDICA
+
+21 Breve retrospectiva e contextualização sobre a situação de emergência de saúde pública decorrente do novo
+coronavírus: aspectos legais
+
+31. Como é de notório conhecimento, a Organização Mundial da Saúde (OMS) declarou, em 30 de janeiro de 2020, que o
+surto do novo coronavírus (2019-nCoV) constitui uma Emergência de Saúde Pública de Importância Internacional (ESPII), o mais alto
+nível de alerta da Organização, conforme previsto no Regulamento Sanitário Internacional. Já no dia 11 de março de 2020, a OMS
+declarou que a Covid-19, doença causada pelo novo coronavírus, passou a ser caracterizada como uma pandemia, em razão de ter a
+doença atingido diversos países do mundo, em três continentes ou mais.
+
+32. No Brasil, o Ministro de Estado da Saúde emitiu a Portaria nº 188/GM/MS, de 3 de fevereiro de 2020,
+declarando Emergência em Saúde Pública de Importância Nacional (ESPIN) em decorrência da Infecção Humana pelo novo
+Coronavírus (2019-nCoV).
+
+33. Nesse contexto, foi então publicada a Lei n.º 13.979, de 6 de fevereiro de 2020, estabelecendo "as medidas que
+poderfiamj ser adotadas para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavirus
+responsável pelo surto de 2019".
+
+34. Uma das medidas de enfrentamento à pandemia previstas naquele diploma legal consistia na hipótese de dispensa de
+licitação estabelecida em seu art. 4º, nos seguintes termos:
+
+Art 4º Fica dispensada a licitação para aquisição de bens, serviços e insumos de saúde destinados ao
+enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavirus de que
+trata esta Lei.
+
+35. Vale notar que, em sua redação original, acima transcrita, o art. 4º da Lei n.º 13.979, de 2020, autorizava a contratação
+direta, por dispensa de licitação, destinada exclusivamente à compra de bens, à prestação de serviços e à aquisição de insumos de
+saúde necessários à contenção da situação emergencial relacionada à pandemia do novo coronavírus.
+
+36. Diante do agravamento da situação no país, o Ministro de Estado da Saúde declarou, em todo o território nacional, por
+meio da Portaria nº 454/GM/MS, de 20 de março de 2020, o estado de transmissão comunitária do novo coronavírus, situação em
+
+https://sapiens .agu.gov.br/documento/582876546
+
+6/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+que as autoridades de saúde já não mais conseguem rastrear a origem das cadeias de infecção, ou quando as cadeias já envolvem mais
+de cinco gerações de pessoas.
+
+37. O Congresso Nacional, por sua vez, por meio do Decreto Legislativo n.º 6, de 20 de março de 2020, reconheceu, para
+os fins do art. 65 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), a ocorrência do estado de
+calamidade pública em face do surto de coronavírus (Covid-19), com efeitos até 31 de dezembro de 2020, atendendo os termos da
+solicitação do Presidente da República encaminhada por meio da Mensagem nº 93, de 18 de março de 2020.
+
+38. Assim, em face da necessidade constatada pelo Estado Brasileiro quanto à adoção de providências imediatas e mais
+eficazes de combate da transmissibilidade do novo coronavírus (Covid-19), veio a ser editada a Medida Provisória n.º 926, de 20 de
+março de 2020, posteriormente convertida na Lei nº 14.035, de 2020, que alterou a Lei nº 13.979, de 2020, para nela introduzir
+regramento específico e mais detalhado acerca da hipótese de dispensa de licitação originalmente contida no art. 4º da norma.
+
+39. Nesse sentido, o art. 4º da Lei nº 13.979, de 2020, passou a vigorar com a seguinte redação:
+
+Art. 4º É dispensável a licitação para aquisição ou contratação de bens, serviços, inclusive de engenharia, e
+insumos destinados ao enfrentamento da emergência de saúde pública de importância internacional de que
+trata esta Lei. (Redação dada pela Lei nº 14.035, de 2020)
+
+$ 1º A dispensa de licitação a que se refere o caput deste artigo é temporária e aplica-se apenas enquanto
+perdurar a emergência de saúde pública de importância internacional decorrente do coronavirus.
+
+$ 2º Todas as aquisições ou contratações realizadas com base nesta Lei serão disponibilizadas, no prazo
+máximo de 5 (cinco) dias úteis, contado da realização do ato, em site oficial específico na internet, observados,
+no que couber; os requisitos previstos no $ 3º do art. 8º da Lei nº 12.527, de 18 de novembro de 2011, com o
+nome do contratado, o número de sua inscrição na Secretaria da Receita Federal do Brasil, o prazo contratual,
+o valor e o respectivo processo de aquisição ou contratação, além das seguintes informações: (Redação dada
+pela Leinº 14.035, de 2020)
+
+$ 3º Na situação excepcional de, comprovadamente, haver uma única fornecedora do bem ou prestadora do
+serviço, será possível a sua contratação, independentemente da existência de sanção de impedimento ou de
+suspensão de contratar com o poder público. (Incluído pela Lei nº 14.035, de 2020)
+
+ 
+
+40. As modificações decorrentes da Medida Provisória n.º 926, de 2020, convertidas na Lei nº 14.035/2020, estenderam a
+possibilidade de dispensa de licitação da Lei n.º 13.979, de 2020, à aquisição de quaisquer bens, serviços, inclusive de engenharia, e
+insumos considerados necessários para enfrentar a emergência de saúde do novo coronavírus.
+
+41. Observe-se que o nítido escopo da Lei n.º 13.979, de 2020, foi o de atender necessidades estatais transitórias, relativas
+à situação de emergência de saúde pública decorrente do novo coronavírus. Daí porque o $ 1º do art. 4º da mencionada lei registrou
+expressamente que a dispensa de licitação nela prevista é temporária, estando a sua aplicação limitada ao período excepcional pelo
+qual perdurar a emergência de saúde pública de importância internacional decorrente do novo coronavírus.
+
+42. Ocorre que com o agravamento da disseminação do novo coronavirus (Covid-19) em todo os países, a comunidade
+científica mundial se debruçou na busca de pesquisas que pudessem levar ao desenvolvimento de uma vacina eficaz para o combate à
+pandemia que já levou a óbito milhares de pessoas.
+
+42. Assim, em 06 de janeiro de 2021, foi editada a Medida Provisória nº 1.026, publicada no DOU, Edição -A, Seção 1,
+Extra A, pág.1, dispondo sobre as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística,
+
+https://sapiens .agu.gov.br/documento/582876546
+
+7/24
+24/02/2021 https://sapiens.agu.gov.br/documento/582876546
+
+tecnologia da informação e comunicação, comunicação social e publicitária e treinamentos destinados à vacinação contra a Covid-
+19 e sobre o Plano Nacional de Operacionalização da Vacinação contra a Covid-19 que será tratada a seguir.
+
+2.2 Medida Provisória nº 1.026, de 6 de janeiro de 2021 - previsão de hipótese de dispensa de licitação
+
+44. Consoante relatado, de acordo com o despacho DIVAN 0019185177, o objetivo deste processo de compra é
+a aquisição de vacinas destinadas à vacinação contra a covid-19, conforme dispõe a Medida Provisória nº 1.026, de 06 de janeiro
+de 2021.
+
+45. A área técnica encaminhou a Minuta de Contrato - Dispensa 10/2021 - PRECISA (0019185172), tratando-se de minuta
+contratual para análise jurídica.
+
+46. Cabe ressaltar que o diploma normativo indicado pelo setor técnico, Medida Provisória nº 1.026/2021 dispõe sobre
+
+as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e
+comunicação, comunicação social e publicitária e treinamentos destinados à vacinação contra a covid-19 e sobre o Plano Nacional de
+Operacionalização da Vacinação contra a Covid-19.
+
+47. Cabe destacar o teor de determinados dispositivos da medida provisória citada, inclusive considerando que o
+procedimento em análise trata-se, como dito, de dispensa de licitação:
+
+MEDIDA PROVISÓRIA Nº 1.026, DE 6 DE JANEIRO DE 2021
+[.]
+
+Art. 2º Fica a administração pública direta e indireta autorizada a celebrar contratos ou outros instrumentos
+congêneres, com dispensa de licitação, para:
+
+1- a aquisição de vacinas e de insumos destinados a vacinação contra a covid-19, inclusive antes do registro
+sanitário ou da autorização temporária de uso emergencial; e
+
+[.]
+
+$1º A dispensa da realização de licitação para a celebração de contratos ou de instrumentos congêneres
+de que trata o caput não afasta a necessidade de processo administrativo que contenha os elementos
+técnicos referentes à escolha da opção de contratação e à justificativa do preço.
+
+$2º Será conferida transparência ativa a todas as aquisições ou contratações realizadas nos termos do disposto
+nesta Medida Provisória, no prazo de cinco dias úteis, contado da data da realização do ato, em sítio eletrônico
+oficial na internet, observados, no que couber, os requisitos previstos no $ 3º do art. 8º da Lei nº 12.527, de 18
+de novembro de 2011, no qual serão divulgados:
+
+1- o nome do contratado e o número de sua inscrição junto à Secretaria Especial da Receita Federal do Brasil do
+Ministério da Economia ou identificador congênere no caso de empresa estrangeira que não funcione no País;
+
+II - o prazo contratual, o valor e o respectivo processo de aquisição ou contratação;
+III - o ato que autoriza a contratação direta ou o extrato decorrente do contrato;
+IV - a discriminação do bem adquirido ou do serviço contratado e o local de entrega ou de prestação do serviço;
+
+V- o valor global do contrato, as parcelas do objeto, os montantes pagos e o saldo disponível ou bloqueado,
+caso exista;
+
+VI - as informações sobre eventuais aditivos contratuais;
+
+https://sapiens .agu.gov.br/documento/582876546 8/24
+24/02/2021
+
+https://sapiens .agu.gov.br/documento/582876546
+
+https://sapiens.agu.gov.br/documento/5828/6546
+VII - a quantidade entregue ou prestada em cada ente federativo durante a execução do contrato, nas
+contratações de bens e serviços; e
+VIII - as atas de registros de preços das quais a contratação se origine, se houver.
+0)
+
+Art. 3º Nas dispensas de licitação decorrentes do disposto nesta Medida Provisória, presumem-se
+comprovadas:
+
+1- a ocorrência de situação de emergência em saúde pública de importância nacional decorrente do coronavírus
+(SARS-CoV-2); é
+
+II - a necessidade de pronto atendimento à situação de emergência em saúde pública de importância nacional
+decorrente do coronavírus (SARS-CoV-2).
+
+L.]
+Art. 5º Será obrigatória a previsão de matriz de alocação de risco entre o contratante e o contratado, na hipótese
+de aquisições e contratos acima de R$ 200.000.000,00 (duzentos milhões de reais).
+
+Art. 6º Nas aquisições ou contratações de que trata esta Medida Provisória, será admitida a apresentação de
+termo de referência simplificado ou de projeto básico simplificado.
+
+$ 1º O termo de referência simplificado ou o projeto básico simplificado referidos no caput conterá:
+1- declaração do objeto;
+
+II - fundamentação simplificada da contratação;
+
+III - descrição resumida da solução apresentada;
+
+IV - requisitos da contratação;
+
+V- critérios de medição e de pagamento;
+
+VI - estimativa de preços obtida por meio de, no mínimo, um dos seguintes parâmetros:
+
+a) Portal de Compras do Governo Federal;
+
+b) pesquisa publicada em mídia especializada;
+
+c) sites especializados ou de domínio amplo;
+
+d) contratações similares de outros entes públicos; ou
+
+e) pesquisa realizada com os potenciais fornecedores; e
+
+VII - adequação orçamentária.
+
+$2º Excepcionalmente, mediante justificativa da autoridade competente, poderá ser dispensada a estimativa de
+preços de que trata o inciso VI do $ 1º.
+
+E.
+
+Art. 7º Na hipótese de haver restrição de fornecedores ou de prestadores de serviço, a autoridade competente,
+excepcionalmente e mediante justificativa, poderá dispensar o cumprimento de um ou mais requisitos de
+habilitação, ressalvados a exigência de apresentação de prova de regularidade trabalhista e o cumprimento do
+disposto no inciso XXXIII do caput do art. 7º e do $3º do art. 195 da Constituição.
+
+[.]
+
+Art. 9º Para os contratos decorrentes dos procedimentos previstos nesta Medida Provisória, a administração
+pública direta e indireta poderá prever que os contratados sejam obrigados a aceitar, nas mesmas condições
+
+ 
+
+9/24
+24/02/2021
+
+https://sapiens .agu.gov.br/documento/582876546
+
+https://sapiens.agu.gov.br/documento/582876546
+
+contratuais, acréscimos ou supressões ao objeto contratado de até cinquenta por cento do valor inicial atualizado
+do contrato.
+
+L.]
+Art. 12. O contrato ou o instrumento congênere para aquisição ou fornecimento de vacinas contra a covid-19,
+firmados antes ou após o registro ou a autorização de uso emergencial concedida pela Agência Nacional de
+Vigilância Sanitária - Anvisa, poderá estabelecer as seguintes cláusulas especiais, desde que representem
+condição indispensável para obter o bem ou assegurar a prestação do serviço:
+
+I-o eventual pagamento antecipado, inclusive com a possibilidade de perda do valor antecipado;
+
+II - hipóteses de não penalização da contratada; e
+
+III - outras condições indispensáveis para obter o bem ou assegurar a prestação do serviço.
+
+$ 1º Quanto às cláusulas dos contratos e instrumentos de que trata o caput, aplica-se o disposto na Lei nº 8.666,
+de 1993, no que couber.
+
+$2º As cláusulas de que trata o caput são excepcionais e caberá ao gestor:
+
+1 - demonstrar que são indispensáveis; e
+
+II - justificar a sua previsão.
+
+$3º A perda do valor antecipado e a não penalização de que tratam os incisos I e II do caput não serão
+aplicáveis em caso de fraude, dolo ou culpa exclusiva do fornecedor ou contratado.
+
+$ 4º Os contratos de que trata este artigo poderão ter, caso exigido pelo contratado, cláusulas de
+confidencialidade.
+
+$5º Na hipótese de que trata o inciso I do caput, a administração pública deverá:
+
+1- prever a antecipação de pagamento em edital ou em instrumento formal de adjudicação direta; e
+
+II - exigir a devolução integral do valor antecipado na hipótese de inexecução do objeto, atualizado
+monetariamente pela variação acumulada do Índice Nacional de Preços ao Consumidor Amplo - IPCA, ou
+índice que venha a substituí-lo, desde a data do pagamento da antecipação até a data da devolução, exceto na
+hipótese de perda do pagamento antecipado.
+
+$6º Sem prejuízo do disposto no $ 5º, a administração pública deverá prever cautelas aptas a reduzir o risco de
+inadimplemento contratual, tais como:
+
+I- a comprovação da execução de parte ou de etapa inicial do objeto pelo contratado, para a antecipação do
+valor remanescente;
+
+I - a prestação de garantia nas modalidades previstas no art. 56 da Lei nº 8.666, de1993, de até trinta por cento
+do valor do objeto;
+
+III - a emissão de título de crédito pelo contratado;
+
+IV - o acompanhamento da mercadoria, em qualquer momento do transporte, por representante da administração
+pública; e
+
+V- a exigência de certificação do produto ou do fornecedor.
+
+[.]
+
+Tendo em vista que a Medida Provisória referida encontra-se vigente, as suas disposições serão consideradas no
+procedimento em análise.
+
+10/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+49. De acordo com as disposições constantes no art. 2º, da MP nº 1.026/2021, a excepcionalidade das medidas versa sobre
+a autorização conferida à administração pública direta e indireta para celebrar contratos ou outros instrumentos congêneres, com
+dispensa de licitação para a aquisição de vacinas e de insumos destinados à vacinação contra a covid-19, inclusive antes do registro
+sanitário ou da autorização temporária de uso emergencial, bem como para a contratação de bens e serviços de logística, tecnologia da
+informação e comunicação, comunicação social e publicitária, treinamentos e outros bens e serviços necessários a implementação da
+vacinação contra a COVID-19.
+
+50. Considerando a excepcionalidade do momento atual, é possível verificar que as disposições da MP nº 1.026/2021, em
+especial, no que interessa ao presente exame, as normas sobre dispensa de licitação, são aplicáveis apenas e tão somente às expressas
+situações abrangidas no texto legal, aplicando-se a Lei nº 8.666/93 no que se refere às eventuais prestações de garantias para execução
+do contrato (art. 2º, 84º); à possibilidade de adoção do sistema de registro de preços (art. 2º, 85º); às cláusulas contratuais, no que
+couber (art. 12, 81º).
+
+51. Desse modo, a contratação direta por dispensa de licitação deverá ser regida pelas normas específicas previstas na MP
+nº 1.026/2021, de modo que a Lei n.º 8.666, de 1993, será aplicável exclusivamente em relação a aspectos não disciplinados na lei
+excepcional (e.g. conteúdo mínimo do contrato administrativo, hipóteses de cabimento das alterações contratuais, regras sobre
+
+fiscalização e acompanhamento da execução do objeto, dentre outras) e apenas quando tais disposições gerais forem consentâneas ao
+sentido e alcance da MP nº 1.026/2021.
+
+52. Dito isto, passaremos a analisar os requisitos da dispensa de licitação previstos no art. 2º e seguintes da MP nº
+1.026/2021.
+
+23 Da dispensa de licitação para aquisição de vacinas destinadas ao combate do Covid-19
+
+53. Como explanado nos subitens anteriores, a MP nº 1.026/2021, estabeleceu em seu art. 2º, acima transcrito, a
+dispensabilidade do procedimento licitatório para as aquisições, bens e serviços nele descritas.
+
+54. Os arts. 2º e 3º da MP nº 1.026/2021 apresentam o procedimental e regramento específicos a serem adotados para a
+dispensa de licitação.
+
+55. Cumpre-nos destacar, de logo, para afastar quaisquer equívocos, que a dispensa prevista no art. 2º da MP nº
+
+1.026/2021, ostenta caráter singular, face aos contornos da situação emergencial que atrai a sua incidência, e, portanto, não se
+confunde, em absoluto, com a previsão constante do art. 24, inciso IV, da Lei n.º 8.666, de 1993, cujos requisitos não demandam
+observância na hipótese de que ora se cuida.
+
+56. Forte nessa premissa, verifica-se que, quanto aos requisitos legais próprios para configuração da dispensa de licitação,
+a teor da MP nº 1.026/2021, presume-se atendidas as seguintes condições (art. 3º):
+
+o a ocorrência de situação de emergência em saúde pública de importância nacional decorrente do coronavirus
+(SARS-CoV-2); e
+
+o a necessidade de pronto atendimento à situação de emergência em saúde pública de importância nacional
+decorrente do coronavirus (SARS-CoV-2).
+
+57. Percebe-se, portanto, que a previsão constante do art. 3º da MP nº 1.026/2021 traz uma forte carga valorativa,
+eximindo o gestor público da obrigação de declinar, de forma individualizada, em cada um dos processos de contratação direta, os
+fatos e circunstâncias emergenciais que são de conhecimento público e notório. Nesse sentido, é oportuno ter em mente que a situação
+fática excepcional que autoriza a dispensa de licitação para os fins da multicitada MP, foi oficialmente reconhecida pelo Presidente da
+República.
+
+https://sapiens .agu.gov.br/documento/582876546
+
+11/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+58. No caso desses autos, consta do processo: a justificativa sobre a necessidade da contratação Nota Técnica 64
+(0019111410), assim como a autorização da autoridade competente constante no Despacho GAB/SE 0019143082 para aquisição
+da vacina Covaxin/BBV152 contra a Covid-19 - SVS.
+
+3. FORMALIDADES PREVISTAS NA MEDIDA PROVISÓRIA 1.026 DE 2021
+
+59. Analisada a questão referente à possibilidade de contratação mediante dispensa de licitação prevista no art. 2º, 1,
+cumpre agora examinar a observância dos requisitos impostos no próprio normativo,
+
+60. Vale mencionar que, no caso das referidas dispensas, foram criadas formalidades no procedimento, de modo que, por
+ser específico à situação em tela, não deverá mais ser aplicado o art. 26, da Lei nº 8.666, de 1993, salvo no que for cabível. Nos
+subtópicos seguintes passaremos a abordar esses requisitos.
+
+31 Do Estudo Técnico Preliminar
+
+61. Quanto aos Estudos Técnicos Preliminares - ETP, a IN nº 40/2020, que entrou em vigor no dia 01 de julho de
+2020, regulamenta os procedimentos para sua elaboração quando da aquisição de bens e a contratação de serviços e obras, tornando
+sua utilização obrigatória.
+
+62. Todavia, considerando se tratar de contratação em caráter excepcional, ficou estabelecido no art. 4º, da MP nº
+1026/2021, que nas aquisições e contratações de que trata a aludida Medida Provisória, não será exigida a elaboração de estudos
+preliminares, quando se tratar de bens e de serviços comuns. Essa qualificação dos bens e serviços competirá à Unidade fazer,
+tendo em vista que não consta ainda da instrução desses autos.
+
+ 
+
+ 
+
+Art. 4º Nas aquisições e contratações de que trata esta Medida Provisória, não será exigida a elaboração de
+estudos preliminares, quando se tratar de bens e de serviços comuns.
+
+6. No caso, não se verifica nos autos declaração administrativa acerca da natureza comum ou especial do objeto da
+contratação, o que deverá ser providenciado, com a consequente elaboração, na segunda hipótese, dos estudos preliminares.
+
+3.2 Termo de Referência ou Projeto Básico Simplificado
+
+64. Nas hipóteses de contratações que envolvam o atendimento à situação excepcional para a aquisição de vacinas, o art.
+6º, 81º, da MP nº 1.026/2021, admite que a Administração Pública apresente Termo de Referência ou Projeto Básico simplificado,
+contendo:
+
+Art. 6º Nas aquisições ou contratações de que trata esta Medida Provisória, será admitida a apresentação de
+termo de referência simplificado ou de projeto básico simplificado.
+
+$1º0 termo de referência simplificado ou o projeto básico simplificado referidos no caput conterá:
+
+I- declaração do objeto;
+
+II - fundamentação simplificada da contratação;
+
+https://sapiens .agu.gov.br/documento/582876546
+
+12/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+II - descrição resumida da solução apresentada;
+
+IV - requisitos da contratação;
+
+V- critérios de medição e de pagamento;
+
+VI - estimativa de preços obtida por meio de, no mínimo, um dos seguintes parâmetros:
+a) Portal de Compras do Governo Federal;
+
+b) pesquisa publicada em mídia especializada;
+
+c) sites especializados ou de domínio amplo;
+
+d) contratações similares de outros entes públicos; ou
+
+c) pesquisa realizada com os potenciais fornecedores; e
+
+VII - adequação orçamentária.
+
+65. De toda sorte, recomenda-se que, no que for possível, ainda que passível de adaptação ao objeto contratado, sejam
+adotados pela Administração os modelos correspondentes e atualizados de projeto básico elaborados pela Advocacia-Geral da União,
+disponibilizados no seu sítio eletrônico da instituição, visando garantir o conteúdo mínimo necessário, bem como a padronização e a
+celeridade na análise do documento.
+
+66. Recomenda-se, ainda, que, acatada a presente recomendação, sejam destacadas, formal e visualmente, todas as
+alterações realizadas no modelo padronizado de projeto básico, justificando-se as inclusões, adaptações, modificações e exclusões de
+texto realizadas na minuta. De qualquer sorte, a presente análise recairá sobre as minutas ora apresentadas, sem prejuízo das
+recomendações acima para contratações vindouras.
+
+67. Consta nos autos o Termo de Referência DEIDT 0019176200, cuja minuta será analisada no tópico referente a análise
+das minutas.
+68. Vale registrar, por oportuno, que, mesmo em se tratando de dispensa de licitação, o gestor deverá tomar as devidas
+
+cautelas para assegurar que as especificações do objeto correspondam àquelas essenciais à contratação, sem as quais não poderão ser
+atendidas as necessidades da Administração.
+
+69. Alerta-se, ademais, que o objeto da contratação direta deverá atender a padrões de qualidade e segurança considerados
+necessários para a regular satisfação das demandas administrativas, principalmente no caso de bens, insumos e serviços que estejam
+sujeitos a normas cogentes acerca dos respectivos processos de produção, fornecimento ou execução.
+
+70. Dito isto, passaremos a destacar, nos tópicos seguintes, pontos específicos do planejamento da contratação,
+considerados essenciais à avaliação da regularidade geral do presente procedimento.
+
+33 Acréscimos e supressões ao objeto contratual
+q. Em relação aos acréscimos e supressões ao objeto contratado, estabelece o art. 9º, da MP 1. 026/2021
+
+Art. 9º Para os contratos decorrentes dos procedimentos previstos nesta Medida Provisória, a administração
+pública direta e indireta poderá prever que os contratados sejam obrigados a aceitar, nas mesmas condições
+contratuais, acréscimos ou supressões ao objeto contratado de até cinquenta por cento do valor inicial atualizado
+do contrato
+
+https://sapiens .agu.gov.br/documento/582876546
+
+13/24
+24/02/2021 https://sapiens.agu.gov.br/documento/582876546
+
+72. Diante da imprevisibilidade da situação emergencial, a Administração Pública está autorizada a prever, nos contratos
+de aquisição, percentuais de acréscimos e supressões de até 50% do valor inicial atualizado do contrato. Tal medida é de suma
+importância, tendo em vista que os quantitativos das contratações serão estabelecidos em razão de modelos matemáticos para a
+propagação e gravidade dos casos de infecção pelo coronavírus.
+
+73. A cláusula nona da Minuta trata acerca do assunto:
+
+CLÁUSULA NONA — DAS ALTERAÇÕES 9.1. Eventuais alterações contratuais reger-se-ão pela disciplina do
+art. 65 da Lei nº 8.666, de 1993. 9.2. A CONTRATADA é obrigada a aceitar, nas mesmas condições contratuais,
+os acréscimos ou supressões que se fizerem necessários, até o limite de 50% (cinquenta por cento) do valor
+inicial atualizado do contrato, conforme o art. 9º da MP 1.026 de 2021.
+
+74. Como a MP requer a previsão no instrumento contratual, a disposição expressa é sempre mais recomendável.
+Considerando haver o atendimento a essa recomendação na cláusula nona supracitada, nada temos a opor nesse ponto.
+
+3.4 Dos requisitos de habilitação da futura contratada. Possibilidade de dispensa de apresentação de documentos de
+habilitação.
+75. Como se sabe, mesmo nas hipóteses de dispensa ou inexigibilidade de licitação, podem ser formuladas pelo
+
+órgão público contratante, a rigor, exigências de habilitação jurídica, de regularidade fiscal e trabalhista e de qualificação técnica e
+econômico-financeira a serem atendidas pela futura contratada, com relação aos aspectos considerados essenciais à regularidade da
+contratação (arts. 27 a 33, da Lei nº 8.666, de 1993).
+
+76. Além disso, é necessário que o órgão contratante averigue, previamente à formalização do vínculo contratual, a
+eventual existência de registros válidos de sanções impostas contra a possível contratada, que a impeçam de firmar contratos com a
+Administração Pública (cf. art. 12 da Lei nº 8.429/1992, art. 6º, inciso III, da Lei nº 10.522/2002, art. 7º da Lei nº 10.520/2001, art. 87,
+incisos II e IV, da Lei nº 8.666/1993, e art. 46, da Lei n.º 8.443/1992).
+
+77. Para tanto, deverá ser efetuada pelo órgão contratante a consulta da situação da futura contratada junto aos seguintes
+cadastros e sistemas:
+
+a) Sistema de Cadastramento Unificado de Fomecedores — Sicaf:
+
+b Cadastro Informativo de Créditos não quitados do Setor Público Federal - Cadin (visando auwiliar na
+verificação das informações prestadas pelos administrados e pelos demais órgãos da Administração, em
+especial as constantes em certidões e declarações);
+
+c) Banco Nacional de Devedores Trabalhistas, mantido pelo Tribunal Superior do Trabalho; e
+
+d) Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela Controladoria-Geral da União
+(www. portaldatransparencia.gov.br/ceis);
+
+e) Cadastro Nacional de Condenações Cíveis por Atos de Improbidade Administrativa, mantido pelo Conselho
+Nacional de Justiça ( | jus.br/improbidade adm/consultar requerido.php).
+
+) Relação de Inidôncos, mantida pelo Tribunal de Contas da União (https:/lcontas.teu.govbr/ords/f?
+p=1660:2:::NO:2::).
+
+ 
+
+ 
+
+   
+
+https://sapiens .agu.gov.br/documento/582876546 14/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+78. Observe-se que, quando se pretender a contratação de pessoa jurídica, poderá haver a substituição das consultas
+indicadas nas alíneas "d", "e" e "f' acima pela Consulta Consolidada de Pessoa Jurídica, disponibilizada pelo TCU
+79. Ressalte-se ser igualmente essencial, a demonstração de que a futura contratada observa o disposto no art. 27, inciso
+V, da Lei nº 8.666, de 1993, o qual exige, como requisito para habilitação nas licitações e contratações públicas, o cumprimento da
+regra prevista no art. 7º, inciso XXXIII, da Constituição Federal, que veda o “trabalho noturno, perigoso ou insalubre a menores de
+dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos”.
+
+80. No entanto, observa-se que o art. 7º, da MP nº 1.026/2021, de maneira inovadora, estabelece que, em caso de restrição
+de fornecedores ou prestadores de serviço, a autoridade competente, excepcionalmente e mediante j cativa, poderá, nas
+contratações regidas pela aludida Medida Provisória, dispensar o cumprimento de um ou mais requisitos de habilitação, ressalvados a
+exigência de apresentação de prova de regularidade trabalhista e o cumprimento do disposto no inciso XXXIII do caput do art. 7º e do
+$3º do art. 195 da Constituição.
+
+81. Foram inseridas ao processo as seguintes declarações atualizadas e demais documentos da empresa a ser contratada,
+
+SEI nº 0019184135:
+
+ 
+
+a) Cadastro Nacional de Empresas Inidôneas e Suspensas — CEIS;
+
+b) Certidão Negativa de Licitantes Inidôneos — TCU;
+
+c) Sistema de Cadastramento Unificado de Fornecedores — SICAF;
+
+d) Certidão Negativa de Improbidade Administrativa e Inelegibilidade;
+
+e) Cadastro Informativo de créditos não quitados do setor público federal - CADIN; e
+f) Certidão Negativa de Débitos Trabalhistas - CNDT.
+
+82. Quanto aos registros não há qualquer pendência. Recomenda-se, apenas, a complementação, de modo a constar a
+declaração de que não emprega menor nos termos do art. 7º, XXXIII da Constituição federal.
+83. Ademais, o item 4.4 do TR prevê requisitos de qualificação técnica os quais constam dos autos (0019183959),
+
+conforme verificado pela área técnica no despacho SEI 0019183967.
+
+3.5 Da estimativa de preços
+
+84. Quanto à metodologia adotada para estimar os custos unitários e total da contratação, exige-se, em regra, que a
+Administração providencie a juntada aos autos de orçamento estimativo, elaborado a partir dos dados obtidos por meio de pesquisa de
+preços realizada conforme as diretrizes da Instrução Normativa nº 73/2020. No caso da contratação de serviços, é dever da
+Administração, inclusive, elaborar planilha detalhada com a consolidação dos quantitativos e preços unitários e total da contratação
+(arts. 7º, 82º, IL e 40, 82º, II, da Lei nº 8.666/1993).
+
+8s. Nada obstante, em se tratando das contratações excepcionais para a compra de vacinas, a estimativa foi
+especificamente regulada pelo art. 6º, $1º, inciso VI, da MP nº 1.026/2021, nos seguintes termos:
+
+Art 6º(..)
+$1º0 termo de referência simplificado ou o projeto básico simplificado referidos no caput conterá:
+
+https://sapiens .agu.gov.br/documento/582876546
+
+15/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+VI - estimativa de preços obtida por meio de, no mínimo, um dos seguintes parâmetros:
+a) Portal de Compras do Governo Federal;
+
+b) pesquisa publicada em mídia especializada;
+
+c) sites especializados ou de domínio amplo;
+
+d) contratações similares de outros entes públicos; ou
+
+c) pesquisa realizada com os potenciais fornecedores; e
+
+86. Com isso, entende-se que restou afastada, no caso, a aplicação da Instrução Normativa nº 73/2020, devendo a
+estimativa de preços atender ao preceituado no dispositivo acima transcrito.
+87. Por outro lado, importa também trazer à baila a excepcionalidade trazida no $2º, do art. 6º, da MP nº 1.026/2021, que
+
+dispensa a estimativa de preços, mediante justificativa da autoridade administrativa competente apensada aos autos, verbis:
+
+Art 6º(..)
+
+$ 2º Excepcionalmente, mediante justificativa da autoridade competente, poderá ser dispensada a estimativa de
+preços de que trata o inciso VIdo $ Iº,
+
+88. Consta no processo o documento SEI 0019176224 com a proposta de preços apenas da empresa contratada.
+89. No presente caso, não se observou nos autos a existência da estimativa de preços na forma do art. 6º, VI, nem mesmo
+
+justificativa para a sua dispensa excepcional, na forma do $2º do art. 6º, o que deverá ser sanado. Relembra-se que a justificativa do
+preço é indispensável nos processos de dispensa de que trata a MP 1026 de 2021, conforme art. 2º, 81º.
+
+90. Faz-se necessário, portanto, que a autoridade competente junte manifestação para dispensar a pesquisa de preços, nos
+termos do art. 6º, 82º. Ademais, registre-se a necessidade de que, nesse caso, haja, ainda assim, atesto fundamentado da razoabilidade
+do preço praticado.
+
+3.6 Matriz de alocação de risco entre contratante e contratado
+
+91. O artigo 5º caput, traz uma inovação para as contratações regidas pela Medida Provisória 1.026 de 2021. De acordo
+com o dispositivo, será obrigatória a previsão de matriz de alocação de risco entre o contratante e o contratado, na hipótese de
+aquisições e contratos acima de R$ 200.000.000,00 (duzentos milhões de reais).
+
+92. A matriz de riscos pode ser entendida como a "cláusula contratual definidora de riscos e responsabilidades entre as
+partes e caracterizadora do equilíbrio econômico-financeiro inicial do contrato, em termos de ônus financeiro decorrente de eventos
+supervenientes à contratação”.
+
+93. Também o Tribunal de Contas da União já decidiu pela necessidade de previsão de matriz de riscos em editais e
+instrumentos contratuais, em casos em que o objeto contenha riscos envolvidos, conforme se observa de trecho do Acórdão 1310/2013
+(Plenário): (..) 9.1.1) preveja doravante, nos empreendimentos licitados mediante o regime de contratação integrada, conforme faculta
+o art. 9º da Lei 12.462/2011, "matriz de riscos" no instrumento convocatório e na minuta contratual, para tornar o certame mais
+transparente, fortalecendo, principalmente, a isonomia da licitação (art. 37, XXI da Constituição Federal; art. 1º, $1º, IV da Lei nº
+12.462/2011) e a segurança jurídica do contrato;
+
+https://sapiens .agu.gov.br/documento/582876546
+
+16/24
+24/02/2021 https://sapiens.agu.gov.br/documento/5828/6546
+94. Nesse sentido, foi juntado aos autos o Mapa de Riscos DEIDT 0019109650, com o seguinte teor:
+
+MAPA DE RISCOS
+MATRIZ DE ALOCAÇÃO DE RISCOS
+
+Fundamentação: art. 5º da Medida Provisória nº 1026, de 06/01/2021
+
+Objeto: Aquisição de 20.000.000 de doses da vacina contra SARS COV-2, produzida pela empresa Bharat Biotech e
+fornecida pela empresa PRECISA — COMERCIALIZAÇÃO DE MEDICAMENTOS LTDA.
+
+ 
+
+RISCO DESCRIÇÃO ALOCAÇÃO
+
+Atraso na entrega do imunizante |Descumprimento do cronograma de entrega PRECISA
+
+ 
+
+ 
+
+Descumprimento do prazo previsto para a realização dos pagamentos
+
+Atraso no pagamento de fatura
+de produtos entregues
+
+MS
+
+ 
+
+Elevação dos custos previstos de |Os custos de produção foram aumentados por motivos diversos,
+
+produção [gerando impacto financeiro à contratada PRECISA
+
+ 
+
+Os custos de produção foram reduzidos, gerando impacto financeiro à
+
+Redução dos custos de produção A x E -
+S P SÃO (contratante devido à redução de preço do imunizante no mercado
+
+MS
+
+ 
+
+Efeitos adversos graves além do/O imunizante apresenta efeitos adversos graves significativos que
+
+[previsto implicam a suspensão de sua aplicação MS/PRECISA
+
+ 
+
+Autorização ou registro não
+concedido pelo Orgão
+Regulatório
+
+O imunobiológico teve seu registro ou a autorização de uso
+
+emergencial negado pelo Órgão Regulador Sanitário (ANVISA) PRECISA
+
+ 
+
+Falha na guarda ou transporte do |Falha que compromenta a qualidade do produto, como a variação de
+
+imunizante até a entrega ao MS |temperatura fora da faixa recomendada PRECISA
+
+ 
+
+Excursão de temperatura durante
+a importação do imunizante
+acabado
+
+Vacinação de temperatura no embarque ou no desembarque nos
+
+aeroportos de origem e destino PRECISA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+95. Não incumbe a esta CONJUR analisar no mérito a matriz de risco apresentada, bastando a verificação de sua presença
+e aparente regularidade, o que é o caso. Desse modo, nada temos a opor.
+
+4. DEMAIS FORMALIDADES APLICADAS
+
+96. Analisadas as exigências específicas impostas pela lei, cumpre agora examinar a instrução processual sob o aspecto
+das demais formalidades aplicáveis às contratações administrativas.
+
+https://sapiens .agu.gov.br/documento/582876546 17/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+97. Assim, sem prejuízo dos documentos que devem constar nos processos, é necessário que a Autoridade assessorada
+verifique e vele para que seja observada a devida instrução destes autos, atentando para as exigências da Lei nº 8.666, de 1993.
+
+41 Justificativa da Escolha da Contratada - Representação ou Distribuição
+
+98. Ainda que não conste expressamente da MP 1026/2021, a escolha da contratada é essencial para qualquer
+procedimento de dispensa, por um imperativo de impessoalidade.
+
+99. No caso em concreto, vê-se que, a escolha da contratada (PRECISA COMERCIALIZAÇÃO DE MEDICAMENTOS
+
+LTDA) se dá em razão de ser ela distribuidora no Brasil da Bharat Biotech, fabricante, salvo melhor juízo, da vacina cuja compra ora
+se pretende.
+
+100. Nesse ponto, cabe fazer uma diferenciação, em razão da forma como está escrito o contrato. É que há uma diferença
+jurídica entre o distribuidor exclusivo e o representante ou procurador.
+101. No primeiro caso, o distribuidor tem a posse do produto do fabricante e o vende em nome próprio, ainda que no
+
+interesse do fabricante, normalmente a partir de logística própria. O distribuidor, no caso, importa o produto, arcando com os trâmites
+
+necessários para tanto, e o vende para o comprador final, no caso o governo brasileiro!
+
+102. No segundo caso, o procurador apenas representa o fabricante, o qual assume a condição de vendedor. A venda é feita
+no nome do fabricante e o terceiro meramente é seu longa manus, o representa no país. No caso, há uma operação única de entrada da
+mercadoria no país e entrega: o produto iria diretamente da Bharat para a União, sem intermediários, ao menos sob o ponto de vista
+das relações jurídicas.
+
+103. Pois bem. Nos documentos SEI 0019184366, está que a PRECISA até representa a BHARAT em algumas ações
+(apresentar documentos, iniciar discussões, inscrever-se para estudos de fase III), mas dentre elas não está a de firmar contratos. Sua
+atuação aparenta ser a de distribuidora, inclusive constando do MOU traduzido a obrigação de "E. Importar e distribuir a vacina
+Covid-19 para o setor privado e público (governo). e a previsão de que "G. Deve nomear a Precisa como um distribuidor exclusivo da
+vacina BBILs COVID-19".
+
+104. Por outro lado, o preâmbulo e a ementa do contrato dão a entender que a PRECISA meramente representa, é
+procuradora da BHARAT, na medida em que se diz que "de outro lado a empresa BHARAT BIOTECH LIMITED
+INTERNATIONAL, representada pela empresa PRECISA COMERCIALIZAÇÃO DE MEDICAMENTOS LTDA".
+
+105. Essa circunstância afeta a justificativa da escolha da contratada, de modo que recomenda-se que a área técnica
+enquadre a situação (distribuição ou mera representação) de forma motivada. Se a PRECISA atuar como distribuidora, a área
+demandante deve atestar, pela documentação dos autos, que tal empresa realmente possui autorização para distribuição da vacina em
+questão no país, sendo escolhida para a dispensa seja por ter exclusividade, seja por haver algum benefício em relação a potenciais
+outras opções de distribuidores no país (ou outras razões de natureza equivalente). Já se a PRECISA atuar como procuradora, é
+irrelevante a justificativa de sua escolha, pois o contrato é firmado em nome da BHARAT, de modo que a justificativa recai sobre esta
+e seria no sentido de se tratar do próprio fabricante da vacina. Entretanto, neste último caso, há a necessidade de que se junte aos autos
+a procuração que dê poderes à PRECISA para celebrar contratos de fornecimento pela BHARAT.
+
+106. Cabe salientar que a habilitação deve ser feita em nome da contratada real e não de seu representante. A análise feita
+acima pressupôs que a PRECISA atuava em nome próprio. Se sua atuação é em nome alheio, a habilitação deve ser da BHARAT,
+
+mediante apresentação de documentos de regularidade análogos aos de habilitação, apresentados na forma do art. 32, g4ºt2l da Lei nº
+8.666/93, facultada a sua dispensa na forma do art. 7º da MP 1.026/2021B1
+
+https://sapiens .agu.gov.br/documento/582876546
+
+18/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/5828/6546
+4.2 Justificativa da Contratação
+
+107. Quanto à justificativa da contratação, não cabe ao órgão jurídico adentrar no mérito (oportunidade e conveniência) das
+opções do Administrador, exceto em caso de afronta a preceitos legais. O papel do órgão jurídico é recomendar que tal justificativa
+seja a mais completa possível, orientando o órgão assistido, se for o caso, pelo seu aperfeiçoamento ou reforço, na hipótese de ela se
+revelar insuficiente, desproporcional ou desarrazoada, de forma a não deixar margem para futuros questionamentos, por exemplo,
+quanto à pertinência ou necessidade da contratação, ou dos quantitativos estimados.
+
+108. Ressalte-se ainda que a justificativa da contratação deve compreender, ao menos quando possível, os quantitativos
+estimados da aquisição condizente com o consumo/utilização prováveis do órgão, aferida mediante adequadas técnicas para tanto, em
+conformidade com o que dispõe o art. 15, $7º, inc. II, pois dela dependerá o cálculo do valor contratual.
+
+Art. 15[...] $ 70 Nas compras deverão ser observadas, ainda: [...] II - a definição das unidades e das quantidades
+a serem adquiridas em função do consumo e utilização prováveis, cuja estimativa será obtida, sempre que
+possível, mediante adequadas técnicas quantitativas de estimação;” Nota Explicativa: No caso de serviços, no
+anexo III da IN Nº 05, de 2017, item 3.1, letra “a” consta a diretriz no sentido de que a justificativa da
+necessidade deve ser fornecida pela unidade requisitante da contratação.
+
+109. Via de regra, não cabe em uma manifestação jurídica como a que ora se procede, imiscuir-se no mérito da justificativa
+apresentada pela Autoridade, de tal sorte que, as considerações ora feitas devem ser encaradas apenas como um alerta para que, caso a
+Autoridade julgue oportuno, em prol da sua própria segurança, determine diligências ou complementação de justificativas
+apresentadas.
+
+110. No entanto, na análise da justificativa apresentada aos autos por meio das Notas Técnicas 64 e 117 (0019111410;
+0019095528) convém recomendar a sua complementação. De início a Nota Técnica 64 dispõe acerca da necessidade da contratação de
+vacinas no geral, sem abordar especificamente a aquisição da vacina fornecida pela empresa BHARAT BIOTECH, já a Nota Técnica
+117 não trata especificamente das razões quanto ao quantitativo de 20.000.000 de vacinas ora adquirido (se essa quantidade foi o limite
+oferecido pela contratada, se corresponde à capacidade de absorção da administração, considerando a incerteza relatada, etc.),
+recomenda-se complementação nesse ponto, ainda que de forma sucinta.
+
+43 Da dotação orçamentária e atendimento à Lei de Responsabilidade Fiscal
+
+11. No que concerne à garantia dos recursos orçamentários e financeiros para fazer face à contratação pretendida, verifica-
+se no documento SEI 0019162702, bem como na Nota de Empenho 2021NE000121 (0019183793), no valor de
+R$1.614.000.000,00, a existência de reserva orçamentária para custear as despesas decorrentes da presente contratação, com a
+identificação da fonte de recurso, natureza da despesa e programa de trabalho, em consonância ao art. 14 da Lei nº 8.666/93, c/c art. 6º,
+$1º, inciso VII, da MP nº 1.026/2021 verbis:
+
+Leinº 8.666/93
+
+Art. 14, Nenhuma compra será feita sem a adequada caracterização de seu objeto e indicação dos recursos
+orçamentários para seu pagamento, sob pena de nulidade do ato e responsabilidade de quem lhe tiver dado
+causa.
+
+https://sapiens .agu.gov.br/documento/582876546
+
+19/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+Medida Provisória nº 1.026/2021
+
+Art. 6º Nas aquisições ou contratações de que trata esta Medida Provisória, será admitida a apresentação de
+termo de referência simplificado ou de projeto básico simplificado.
+
+$1º0 termo de referência simplificado ou o projeto básico simplificado referidos nocaputconterá:
+
+VII - adequação orçamentária.
+
+112. De mesmo modo, identifica-se no Despacho GAB/SE 0019143082, a devida autorização para a aquisição, firmada
+pela Sr. Antônio Elcio Franco Filho, Secretário(a)-Executivo. A necessidade de autorização formal decorre do que dispõe o caput do
+
+artigo 38 da Lei Federal nº 8.666/93, verbis:
+
+Leinº 8.666/1993
+
+Art. 38. O procedimento da licitação será iniciado com a abertura de processo administrativo, devidamente
+autuado, protocolado e numerado, contendo a autorização respectiva, a indicação sucinta de seu objeto e do
+recurso próprio para a despesa, e ao qual serão juntados oportunamente.
+
+4.4 Designação dos agentes competentes para o presente feito
+
+113. Recomendamos ainda, que a área competente faça constar na instrução do processo as publicações dos atos de
+nomeação/designação, ou a citação destes, da autoridade e demais agentes administrativos, bem como dos atos normativos que
+estabelecem as respectivas competências para atuarem no feito, a fim de que, em caso de futura auditoria, reste comprovado nos autos,
+desde já, que os atos processuais foram praticados por aqueles que efetivamente detinham as atribuições correspondentes, o que
+recomenda a adoção de providências.
+
+5. ANÁLISE DAS MINUTAS
+
+51 Do Termo de Referência
+
+114. De acordo com o art. 6º, 41º da Medida Provisória 1.026/2021, o termo de referência ou projeto básico simplificado
+conterá:
+
+Art. 6º Nas aquisições ou contratações de que trata esta Medida Provisória, será admitida a apresentação de
+termo de referência simplificado ou de projeto básico simplificado.
+
+$ 1º O termo de referência simplificado ou o projeto básico simplificado referidos no caput conterá:
+1- declaração do objeto;
+
+II - fundamentação simplificada da contratação;
+
+III - descrição resumida da solução apresentada;
+
+IV - requisitos da contratação;
+
+https://sapiens .agu.gov.br/documento/582876546
+
+20/24
+24/02/2021 https://sapiens.agu.gov.br/documento/5828/6546
+V- critérios de medição e de pagamento;
+VI - estimativa de preços obtida por meio de, no mínimo, um dos seguintes parâmetros:
+a) Portal de Compras do Governo Federal;
+b) pesquisa publicada em mídia especializada;
+c) sites especializados ou de domínio amplo;
+d) contratações similares de outros entes públicos; ou
+e) pesquisa realizada com os potenciais fornecedores; e
+VII - adequação orçamentária.
+
+115. Oportuno salientar que o projeto básico deverá ser elaborado pelo setor requisitante do objeto da contratação, com
+posterior aprovação pela autoridade competente (art. 7º, $ 2º, inciso I, da Lei n.º 8.666/1993). No caso houve aprovação pelo
+Sr. Diretor do Departamento de Imunização e Doenças Transmissíveis.
+
+116. Nesse contexto, em análise eminentemente formal, verifica-se que falta, no documento, a estimativa de preços de que
+trata o inciso VI, constando apenas a Proposta de Preços (0019176224) referente a empresa contratada, o que já foi tratado antes neste
+parecer.
+
+117. Ademais, apontam-se as seguintes questões:
+
+o a) Quanto ao item 4.3.5 avaliar tecnicamente se o prazo mínimo exigido para validade é suficiente, tendo em vista
+que, aparentemente, as vacinas poderão ser entregues antes da autorização de uso emergencial.
+
+o b) Na cláusula 9 sugere-se a inclusão de subcláusula para regular o prazo de pagamento para notas fiscais entregues
+antes do registro na ANVISA, haja vista que o subitem 9.6.1 suspende apenas o pagamento enquanto não houver a
+aprovação e não a entrega da vacina em si. Nesse sentido sugere-se a seguinte redação:
+
+9.6.2.1. No caso de entregas efetuadas antes da aprovação integral pela Anvisa, para uso emergencial e
+temporário e/ou registro definitivo, o prazo de que trata o subitem anterior somente será iniciado após,
+cumulativamente, serem efetivadas tanto a aprovação em questão, em qualquer modalidade, quanto a entrega do
+objeto a ser pago.
+
+52 Do Termo de Contrato
+118. Quanto ao instrumento contratual, o art. 12 da Medida Provisória 1.026/2021 assim prevê:
+
+Art. 12. O contrato ou o instrumento congênere para aquisição ou fornecimento de vacinas contra a covid-19,
+firmados antes ou após o registro ou a autorização de uso emergencial concedida pela Agência Nacional de
+Vigilância Sanitária - Anvisa, poderá estabelecer as seguintes cláusulas especiais, desde que representem
+condição indispensável para obter o bem ou assegurar a prestação do serviço:
+
+I-o eventual pagamento antecipado, inclusive com a possibilidade de perda do valor antecipado;
+
+II - hipóteses de não penalização da contratada; e
+
+III - outras condições indispensáveis para obter o bem ou assegurar a prestação do serviço.
+
+https://sapiens .agu.gov.br/documento/582876546 21/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/5828/6546
+$ 1º Quanto às cláusulas dos contratos e instrumentos de que trata o caput, aplica-se o disposto na Lei nº 8.666,
+de 1993, no que couber.
+$2º As cláusulas de que trata o caput são excepcionais e caberá ao gestor:
+1 - demonstrar que são indispensáveis; e
+II - justificar a sua previsão.
+$3º A perda do valor antecipado e a não penalização de que tratam os incisos I e II do caput não serão
+aplicáveis em caso de fraude, dolo ou culpa exclusiva do fornecedor ou contratado.
+$ 4º Os contratos de que trata este artigo poderão ter, caso exigido pelo contratado, cláusulas de
+confidencialidade.
+$5º Na hipótese de que trata o inciso I do caput, a administração pública deverá:
+1- prever a antecipação de pagamento em edital ou em instrumento formal de adjudicação direta; e
+II - exigir a devolução integral do valor antecipado na hipótese de inexecução do objeto, atualizado
+monetariamente pela variação acumulada do Índice Nacional de Preços ao Consumidor Amplo - IPCA, ou
+índice que venha a substituí-lo, desde a data do pagamento da antecipação até a data da devolução, exceto na
+hipótese de perda do pagamento antecipado.
+$6º Sem prejuízo do disposto no $ 5º, a administração pública deverá prever cautelas aptas a reduzir o risco de
+inadimplemento contratual, tais como:
+I- a comprovação da execução de parte ou de etapa inicial do objeto pelo contratado, para a antecipação do
+valor remanescente;
+II - a prestação de garantia nas modalidades previstas no art. 56 da Lei nº 8.666, de1993, de até trinta por cento
+do valor do objeto;
+III - a emissão de título de crédito pelo contratado;
+IV - o acompanhamento da mercadoria, em qualquer momento do transporte, por representante da administração
+pública; e
+V- a exigência de certificação do produto ou do fornecedor.
+
+119. Observa-se, portanto, que, em regra, é aplicável o regramento geral da Lei 8.666/93 no que tange as cláusulas
+essenciais. Se admite a inclusão das cláusulas especiais dispostas nos incisos do art. 12, desde que seja condição indispensável para
+obter o bem ou garantir a prestação do serviço. Neste sentido, o $ 2º impõe ao gestor o múnus de demonstrar a indispensabilidade das
+cláusulas e justificar a sua previsão.
+
+120. Dito isso, tem-se as seguintes observações quanto à minuta analisada (SEI 0019185172):
+
+o a) Na cláusula terceira, ao final, recomenda-se a seguinte redação (modificação em negrito): "[...Je vigorará por 12
+(doze) meses, prorrogáveis nos termos do art. 57, $1º, da Lei nº 8.666 de 1993";
+
+o b) Na cláusula sexta, reitera-se a recomendação do item 117 "b" acima;
+
+o c) Conforme já explicitado acima (seção 4.1 deste parecer), recomenda-se, se for o caso, ajustar ementa e preâmbulo
+para que a Precisa assine em nome próprio.
+
+121. No mais, não verificou-se defeitos na Minuta que maculem o seu prosseguimento, estando apta ao fim a que se
+
+destina.
+
+https://sapiens .agu.gov.br/documento/582876546
+
+22/24
+24/02/2021
+
+https://sapiens.agu.gov.br/documento/582876546
+
+6. CONCLUSÃO
+
+122. Em face do exposto, manifesta-se este órgão de consultoria no sentido da viabilidade jurídica de processo de compra
+para aquisição de VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL (Covaxin/BBV 152), por meio de Dispensa
+de Licitação com fundamento no artigo 2º, inciso I, da Medida Provisória nº 1.026/2021, condicionada ao atendimento das
+recomendações formuladas neste parecer, ressalvado o juízo de mérito da Administração e os aspectos técnicos, econômicos e
+financeiros, que escapam à presente análise.
+
+123. As observações a serem verificadas constam especialmente nos itens 63, 68, 69, 82, 90, 105, 106, 110, 113, 117, e 120
+deste parecer e podem ser resumidas da seguinte forma:
+
+o Necessidade de declaração da natureza comum do objeto contratado para fins de dispensa de ETP (item 63);
+
+o Dever do gestor de assegurar-se em relação à qualidade do produto adquirido e a exatidão das especificações
+técnicas (itens 68 e 69);
+
+e Juntada de declaração de cumprimento do art. 7º XXXIII da Constituição federal pela pretensa contratada (item 82);
+
+o Necessidade de justificativa da dispensa de pesquisa de preços, conforme art. 6º, 82º da MP 1026/2021, com atesto
+fundamentado da razoabilidade dos preços praticados (item 90);
+
+o Enquadramento da posição da PRECISA, enquanto distribuidora ou mera representante, atuando em nome próprio
+ou alheio, respectivamente, com a justificativa da escolha da contratada conforme o caso (item 105);
+
+e Em complemento ao item 105, ajuste na habilitação em nome da BHARAT, nos termos do art. 32, 84º da Lei nº
+
+8.666/93, com a possibilidade de dispensa do art. 7º da MP 1.026/2021, acaso a função da PRECISA seja
+
+meramente procuradora (item 106);
+
+Justificativa, ainda que sucinta, para o quantitativo de 20.000.000 de vacinas ora adquiridas (item 110);
+
+Indicação de fiscais e gestor do contrato, a tempo e modo (item 113);
+
+Apontamentos relativos ao Termo de Referência/Projeto Básico (item 117);
+
+Apontamentos relativos ao Contrato (item 120).
+
+o 000
+
+124. Registre-se, por fim, que não há determinação legal a impor a fiscalização posterior de cumprimento de
+recomendações feitas. Eis o teor do BPC nº 05: "Ao Órgão Consultivo que em caso concreto haja exteriorizado juízo conclusivo de
+aprovação de minuta de edital ou contrato e tenha sugerido as alterações necessárias, não incumbe pronunciamento subsequente de
+verificação do cumprimento das recomendações consignadas". Desse modo, ressalvada a hipótese de dúvida jurídica específica, não há
+necessidade de retorno dos autos a esta CONJUR.
+
+À consideração superior do Sr. Consultor Jurídico.
+
+Brasília, 24 de fevereiro de 2021.
+
+HUGO TEIXEIRA MONTEZUMA SALES
+Coordenador-Geral de Análise Jurídica de Licitações, Contratos e Instrumentos Congêneres
+
+https://sapiens .agu.gov.br/documento/582876546
+
+23/24
+24/02/2021 https://sapiens.agu.gov.br/documento/582876546
+
+ 
+
+, Atenção, a consulta ao processo eletrônico está disponível em http://sapiens.agu.gov.br mediante o fornecimento do
+Número Unico de Protocolo (NUP) 25000175250202085 e da chave de acesso 067343e0
+
+Notas
+
+1.2 Sobre distribuição, ensina Nelson Rosenvald e Cristiano Chaves de Farias (em ROSENVALD, Nelson; FARIAS, Cristiano
+Chaves de. Curso de Direito Civil, Vol. 4. 11º Edição. Salvador: JusPodivm, 2021, p. 1308/1309) que: "O agente impulsiona,
+mas não conclui negócios, já o distribuidor vai além e disponibiliza a coisa negociada, efetivando a sua tradição em nome e
+por conta do proponente, mesmo agindo em nome próprio. [...] Quanto ao primeiro requisito, nota-se similitude parcial com
+o que se anotou para o contrato de agência. Parcial porque, embora o distribuidor atue à conta do proponente, o faz em
+operação comercial levada a efeito em seu próprio nome, dispondo da mercadoria que está em sua posse.” [grifo nosso]
+
+2.2 Art. 32. Os documentos necessários à habilitação poderão ser apresentados em original, por qualquer processo de cópia
+autenticada por cartório competente ou por servidor da administração ou publicação em órgão da imprensa oficial.$ 4o As
+empresas estrangeiras que não funcionem no Pais, tanto quanto possível, atenderão, nas licitações internacionais, às
+exigências dos parágrafos anteriores mediante documentos equivalentes, autenticados pelos respectivos consulados e
+traduzidos por tradutor juramentado, devendo ter representação legal no Brasil com poderes expressos para receber citação e
+responder administrativa ou judicialmente.
+
+3.2 4 7º Na hipótese de haver restrição de fornecedores ou de prestadores de serviço, a autoridade competente,
+excepcionalmente e mediante justificativa, poderá dispensar o cumprimento de um ou mais requisitos de habilitação,
+ressalvados a exigência de apresentação de prova de regularidade trabalhista e o cumprimento do disposto no inciso XXXII
+do caput do art. 7º e do $3º do art. 195 da Constituição.
+
+ 
+
+Documento assinado eletronicamente por HUGO TEIXEIRA MONTEZUMA SALES, de acordo com os normativos legais aplicáveis.
+A conferência da autenticidade do documento está disponível com o código 582876546 no endereço eletrônico
+http://sapiens.agu.gov.br. Informações adicionais: Signatário (a): HUGO TEIXEIRA MONTEZUMA SALES. Data e Hora: 24-02-
+2021 13:05. Número de Série: 26113175607471164680340473837. Emissor: Autoridade Certificadora SERPRORFBvs.
+
+https://sapiens .agu.gov.br/documento/582876546
+
+24/24
+24/02/2021 https://sapiens.agu.gov.bridocumento/583336545
+
+9
+
+ADVOCACIA-GERAL DA UNIÃO
+CONSULTORIA-GERAL DA UNIÃO
+CONSULTORIA JURÍDICA JUNTO AO MINISTÉRIO DA SAÚDE
+GABINETE DA CONSULTORIA JURÍDICA
+ESPLANADA DOS MINISTÉRIOS, BLOCO G, EDIFÍCIO SEDE, 6º ANDAR, BRASÍLIA/DF, CEP 70058-900
+
+ 
+
+DESPACHO n. 00667/2021/CONJUR-MS/CGU/AGU
+
+NUP: 25000.175250/2020-85
+INTERESSADO: Departamento de Imunização e Doenças Transmissíveis - DEIDT/SVS/MS.
+
+ASSUNTO: Aquisição de vacina. COVID-19 (CORONAVÍRUS, SARS-COV-2), injetável (Covaxin/BBV 152). Dispensa de
+Licitação.
+
+1. Aprovo o PARECER n. 00109/2021/CONJUR-MS/CGU/AGU, de 24/02/2021, da lavra do Coordenador-Geral de
+Análise Jurídica de Licitações, Contratos e Instrumentos Congêneres, o Advogado da União Hugo Teixeira Montezuma Sales,
+adotando seus fundamentos e conclusões.
+
+2. Ao Apoio Administrativo desta Consultoria Jurídica, para que, com urgência:
+
+o a) junte as presentes manifestações ao sistema SEI e encaminhe os autos virtuais ao Departamento de Logística em
+Saúde - DLOG/SE/MS, para ciência do opinativo e demais providências cabíveis; e
+
+o b)arquive o processo em epígrafe no sistema SAPIENS.
+
+Brasília, 24 de fevereiro de 2021.
+
+JAILOR CAPELOSSI CARNEIRO
+
+Advogado da União
+Consultor Jurídico junto ao Ministério da Saúde
+
+https://sapiens .agu.gov.br/documento/583336545 1/2
+24/02/2021 https://sapiens.agu.gov.bridocumento/583336545
+
+, Atenção, a consulta ao processo eletrônico está disponível em http://sapiens.agu.gov.br mediante o fornecimento do
+Número Unico de Protocolo (NUP) 25000175250202085 e da chave de acesso 067343e0
+
+ 
+
+Documento assinado eletronicamente por JAILOR CAPELOSSI CARNEIRO, de acordo com os normativos legais aplicáveis. A
+conferência da autenticidade do documento está disponível com o código 583336545 no endereço eletrônico http://sapiens.agu.gov.br.
+
+Informações adicionais: Signatário (a): JAILOR CAPELOSSI CARNEIRO. Data e Hora: 24-02-2021 14:09. Número de Série: 22817.
+Emissor: Autoridade Certificadora da Presidencia da Republica v5.
+
+https://sapiens .agu.gov.br/documento/583336545
+
+212
+29/06/2021
+
+https://sapiens.agu.gov.br/documento/666969186
+
+9
+
+ADVOCACIA-GERAL DA UNIÃO
+CONSULTORIA-GERAL DA UNIÃO
+
+CONSULTORIA JURÍDICA JUNTO AO MINISTÉRIO DA SAÚDE
+
+COORDENAÇÃO-GERAL DE ANÁLISE JURÍDICA DE LICITAÇÕES, CONTRATOS E INSTRUMENTOS
+
+CONGÊNERES
+
+ 
+
+NUP: 25000.175250/2020-85
+
+ 
+
+PARECER n. 00467/2021/CONJ'
+
+INTERESSADOS: BHARAT BIOTECH LIMITED INTERNATIONAL E OUTROS
+ASSUNTOS: ATIVIDADE FIM E OUTROS
+
+1.
+
+EMENTA: ADMINISTRATIVO. LICITAÇÕES E CONTRATOS. LEI 8.666/93. LEI
+14.124/2021. CONSULTA JURÍDICA ACERCA DA POSSIBILIDADE DE SUSPENSÃO E/OU
+RESCISÃO DO CONTRATO ADMINISTRATIVO Nº 29/2021. FORMALIDADES
+RECOMENDADAS
+
+Trata-se de consulta encaminhada por meio de Despacho do Gabinete da Secretaria Executiva datado de
+
+28 de junho de 2021 cujo teor colacionamos a seguir:
+
+Trata-se do Contrato Administrativo nº 29/2021 firmado com a empresa internacional BHARAT
+BIOTECH LIMITED INTERNATIONAL, representada no Brasil pela empresa PRECISA
+COMERCIALIZAÇÃO DE MEDICAMENTOS LTDAL. O Contrato firmado prevê a entrega de
+20.000.000 doses conforme o cronograma abaixo:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parcela a Data
+1º 4.000.000 20 dias após a assinatura do Contrato | 17/03/2021
+a 4.000.000 30 dias após a assinatura do Contrato || 27/03/2021
+3 4.000.000 45 dias após a assinatura do Contrato | 11/04/2021
+4 4.000.000 60 dias após a assinatura do Contrato | 26/04/2021
+se 4.000.000 70 dias após a assinatura do Contrato | 06/05/2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Observa-se que a Secretaria de Vigilância em Saúde (SVS) emitiu a NOTA TÉCNICA Nº
+967/2021-DEIDT/SVS/MS (0021335518), em resumo, contextualizando que:
+
+VI-DOS RISCOS:
+
+Embora a Anvisa tenha aprovada a importação das primeiras 4 milhões de doses, percebe-se as
+dificuldades que a empresa ainda possui para concluir as fases da importação com êxito.
+
+É notório, portanto, que o novo cronograma condicionado ao deferimento da Licença de
+Importação (LI) pela ANVISA apresenta riscos substanciais, pelo fato de ser imprevisível.
+Soma-se a isso o risco de se importar o produto e não se obter a autorização de utilização da
+vacina no Brasil, visto que esta não obteve ainda a autorização de uso emergencial.
+
+Por fim, é importante considerar as condicionantes apresentadas pela ANVISA na aprovação da
+importação do primeiro quantitativo, que aumentam os riscos da impossibilidade de uso
+vacina caso não seja possível o seu atendimento, bem como podem gerar despesas não previstas
+a esta Pasta.
+
+https://sapiens .agu.gov.br/documento/666969186 1/8
+29/06/2021
+
+2.
+
+https://sapiens.agu.gov.br/documento/666969186
+CONCLUSÃO:
+
+ANTE O EXPOSTO, considerando o inadimplemento do compromisso assumido pela Empresa
+BHARAT BIOTECH LIMITED INTERNATIONAL, representada pela empresa PRECISA
+COMERCIALIZAÇÃO DE MEDICAMENTOS LTDA, apontado no Relatório DEIDT
+(0020178265) do fiscal do contrato, bem como os riscos apresentados, sugere-
+se, tempestivamente, a SUSPENSÃO ou mesmo a RESCISÃO do instrumento de contrato nº
+29/2021.
+
+Em face do exposto acima, de forma a garantir a regular instrução e andamento do feito,
+encaminhamos o presente processo a essa Consultoria Jurídica - CONJUR-MS, para
+conhecimento, análise e manifestação quanto as sugestões acima suscitadas pela SVS, bem como
+em especial solicitamos orientação jurídica referente:
+
+à existência ou não de óbices jurídicos à suspensão ou distrato;
+
+qual o procedimento a ser observado em cada um dos casos para garantir o devido processo legal.
+
+O processo encontra-se instruído ainda com a Nota Técnica 967 que apresenta um panorama geral da
+
+contratação, bem como aborda de forma mais aprofundada os problemas apresentados na execução do Contrato
+
+Administrativo nº 29/2001.
+Deste modo, os questionamentos apresentados podem ser resumidos em dois:
+
+3.
+
+1.É possível a suspensão do contrato e qual o procedimento adequado?
+2. É possível a rescisão do contrato e qual o procedimento adequado?
+
+4. Assim, a presente manifestação jurídica será dividida em duas partes, com o fulcro de abordar de forma
+
+sucinta, os aspectos jurídicos que envolvem tanto a suspensão quanto a rescisão contratual.
+
+DA SUSPENSÃO DO CONTRATO ADMINISTRATIVO
+
+5. Acerca do instituto da suspensão do contrato administrativo, peço vênia para citar trecho do Parecer
+
+Referencial n.º 00018/2020/CONJUR-MS/CGU/AGU, que versa sobre suspensão consensual de contrato administrativo
+em função das restrições à execução contratual decorrentes das medidas de enfrentamento à covid-19. Apesar de a
+temática estar relacionada à suspensão consensual, e os motivos relacionados à pandemia, o aludido Parecer aborda de
+forma bem didática o instituto da suspensão unilateral e seu fundamento jurídico:
+
+Entendemos que a suspensão contratual pode se dar através de três formas:
+
+a) unilateralmente pela Administração
+b) unilateralmente pelo contratado
+c) consensualmente
+
+A opção de qual das formas de suspensão contratual dependerá da situação fática existente e do
+interesse administrativo envolvido.
+
+Da suspensão unilateral pela Administração
+
+O contrato administrativo é marcado pela existência de um regime jurídico especial, com maior
+maior incidência das regras de direito público, as quais estabelecem prerrogativas e restrições para
+a Administração contratante.
+
+O contrato administrativo não é um contrato baseado na estrita igualdade jurídica entre as partes.
+Ele possui aspectos em que a administração pública tem poderes de supremacia sobre o
+contraente particular e também aspectos em que a ela fica sujeita a restrições especiais, que os
+particulares, em regra, não tem quando entre si contratam (AMARAL: 2015, P.448)
+
+https://sapiens .agu.gov.br/documento/666969186 2/18
+29/06/2021 https://sapiens.agu.gov.br/documento/666969186
+
+A incidência do regime jurídico de direito administrativo traz algumas características peculiares
+ao contrato administrativo, já que nele a Administração atua com restrições e com prerrogativas
+extraordinárias que a colocam em um patamar de superioridade em relação à parte contratada.
+
+Embora as prerrogativas extraordinárias fundamentem justas críticas sobre a natureza
+propriamente contratual, do contrato administrativo, seu regime jurídico, marcado por aspectos de
+autoritarismo e unilateralismo, não é incompatível com o Estado Democrático de Direito, embora
+deva ser este unilateralismo temperado pela incidência do princípio da autonomia das vontades,
+elemento essencial ao conceito de contrato. Neste sentido, Fernando Dias de Menezes Almeida
+lembra que o simples fato de estar lidando com a categoria jurídica dos contratos, que tem como
+elemento essencial de sua estrutura o acordo de vontades, já indica uma tendência original à
+incidência do princípio da autonomia (ALMEIDA: 2012, p. 153).
+
+Via de regra, as prerrogativas extraordinárias da Administração, nos contratos administrativos,
+independem da previsão contratual, pois decorrem da própria Lei. Assim, mesmo que omisso o
+contrato firmado, cabe a utilização delas em favor do Poder Público. Por conseguinte, o regime
+jurídico contratual da Lei nº 8.666/93 permite à administração a suspensão do contrato
+administrativo.
+
+Embora não seja a suspensão unilateral indicada expressamente, no texto legal, como uma das
+prerrogativas administrativas definidas pelo artigo 58 da Lei nº 8.666/93, ela é implicitamente
+identificável em seu regime jurídico.
+
+Em primeiro, pode ser suscitado que, se a Administração pode alterar unilateralmente o contrato e
+até rescindi-lo unilateralmente, a suspensão seria uma prerrogativa implícita, nada obstante não
+estar claramente identificada no artigo 58 do texto legal. Em segundo, é possível identificar
+trechos da Lei que indicam, mesmo que de forma indireta, esta prerrogativa por parte da
+Administração.
+
+Assim, por exemplo, o parágrafo único do artigo 8º, ao definir que a execução das obras e dos
+serviços deve se programar em sua totalidade, com previsão de seus custos e considerados os
+prazos de sua execução, proíbe o retardamento imotivado, mas ressalva dessa proibição as
+situações de insuficiência financeira ou motivo de ordem técnica. Ora, a ressalva do texto legal
+deixa claro que, em razão de insuficiência financeira ou diante de motivo de ordem técnica, seria
+admitida a suspensão (retardamento) da execução contratual. Nesse prumo, inclusive, Niebuhr
+conclui que, em regra, o contrato deve ser executado dentro dos prazos inicialmente avençados,
+sem atrasos, interrupções ou suspensões, embora admita-se, excepcionalmente, a diminuição do
+ritmo de execução ou a própria suspensão do contrato (NIEBUHR: 2011. p.950).
+
+Vale também fazer referência aos incisos XIV e XV do artigo 78 da Lei nº 8.666/93:
+
+Art. 78. Constituem motivo para rescisão do contrato:
+
+€.)
+
+XIV - a suspensão de sua execução, por ordem escrita da Administração, por prazo superior a 120
+(cento e vinte) dias, salvo em caso de calamidade pública, grave perturbação da ordem interna ou
+guerra, ou ainda por repetidas suspensões que totalizem o mesmo prazo, independentemente do
+pagamento obrigatório de indenizações pelas sucessivas e contratualmente imprevistas
+desmobilizações e mobilizações e outras previstas, assegurado ao contratado, nesses casos, o
+direito de optar pela suspensão do cumprimento das obrigações assumidas até que seja
+normalizada a situação;
+
+XV — o atraso superior a 90 (noventa) dias dos pagamentos devidos pela Administração
+decorrentes de obras, serviços ou fomecimento, ou parcelas destes, já recebidos ou executados,
+salvo em caso de calamidade pública, grave perturbação da ordem interna ou guerra, assegurado
+
+ao contratado o direito de optar pela suspensão do cumprimento de suas obrigações até que seja
+normalizada a situação
+
+https://sapiens .agu.gov.br/documento/666969186 3/8
+29/06/2021 https://sapiens.agu.gov.br/documento/666969186
+
+A Lei nº 8.666/93, que expressamente prevê como prerrogativa extraordinária a alteração
+unilateral e a rescisão unilateral do contrato, implicitamente, permite à Administração Pública
+contratante a suspensão do contrato, mesmo que unilateralmente.
+
+Outrossim, o texto legal, notadamente no inciso XIV do artigo 78, deixa clara esta possibilidade,
+implicitamente admitindo sua adoção unilateral (quando ela será caracterizada como uma
+prerrogativa extraordinária), ao definir que é possível a suspensão da execução por ordem escrita
+da Administração.
+
+Nesta feita, detém a Administração Pública a prerrogativa administrativa implícita de determinar a
+suspensão temporária da execução contratual unilateralmente, mesmo sem concordância do
+particular, nos termos dos dispositivos acima indicados.
+
+Obviamente, eventuais danos causados pela suspensão unilateral podem impactar a execução
+contratual, com repercussões econômicas que exijam indenização, por parte da Administração
+contratante.
+
+6. Observa-se, portanto, que apesar de a lei 8.666/93 não ter previsto expressamente a possibilidade de
+suspensão do contrato, o fez de forma implícita, ao invocar como um dos fundamentos para a rescisão a suspensão da
+execução, por ordem escrita da Administração, por prazo superior a 120 (cento e vinte) dias, salvo em caso de calamidade
+pública, grave perturbação da ordem interna ou guerra. A contrário sensu, portanto, é permitida à Administração, por
+ordem escrita e fundamentada, suspender o contrato, desde que por prazo não superior a 120 (cento e vinte dias),
+havendo exceção para a limitação de prazo apenas nos casos de calamidade pública, grave perturbação da ordem interna
+ou guerra.
+
+7. Dito isto, entendemos pela possibilidade de suspensão unilateral do contrato, desde que haja ordem
+escrita e fundamentada e desde que o prazo da suspensão respeite o limite temporal de 120 (cento e vinte) dias.
+
+8. Entendo que a suspensão se encontra perfeita e acabada com o recebimento, pelo contratado, da ordem
+escrita e fundamentada exarada pela autoridade, carecendo de maiores formalidades.
+
+9. Isso porque, a suspensão, ao contrário da rescisão unilateral com base no inadimplemento, não pressupõe
+culpa da contratada, tendo como fundamento motivos de ordem técnica ou orçamentária (art. 8º, Parágrafo Único da Lei
+8.666/93), pelas quais a execução do contrato, naquele momento, não é interessante para a Administração.
+
+10. No entanto, apesar de desnecessária, nada impede a formalização da aludida suspensão mediante termo
+aditivo.
+
+11. A medida aqui apresentada como alternativa, possui viés contratual, encontrando-se inserida nas
+cláusulas exorbitantes constantes em todo e qualquer Contrato Administrativo.
+
+12. Também é possível a adoção da medida de suspensão fundamentada no poder geral de cautela
+
+administrativa, previsto, dentre outros normativos, no art. 45 da Lei 9.784/99. Nesse caso, a Administração, mediante
+abertura de processo administrativo específico para apuração das irregularidades, poderá valer-se da suspensão contratual
+como forma de acautelar-se, caso a continuidade do contrato possa representar riscos (periculum in mora) e desde que
+caracterizada a probabilidade do direito (fumus boni iuris), oportunizando o exercício do contraditório e da ampla defesa.
+13. Por fim, após a consulta ser enviada, foi inserido nos autos Ofício n. 12846/2021/CRG/CGU, oriundo da
+Controladoria-Geral da União e endereçada ao Secretário Executivo deste Ministério da Saúde, cujo teor colacionamos:
+
+Sr. Secretário-Executivo,
+
+1. Comunico que foi instaurada no âmbito desta Corregedoria-Geral da União a investigação
+preliminar sumária nº 00190.105536/2021-63, com vista a apurar os supostos indícios de
+irregularidades no processo de compra da vacina Covaxin conduzido pelo Ministério da Saúde.
+
+2. A propósito, informo que, com base no art. 45 da Lei nº 9.784/98, art. 10, $ 2º, da Lei nº
+12.846/2013 e no art. 9º, $ 2º, 1, do Decreto nº 8.420/2015 e no art. 30 da Instrução Normativa
+CGU 13/2019, determinei nos autos daquele processo a suspensão cautelar da execução do
+contrato nº 29/2021 firmado entre o Ministério da Saúde e a empresa BHARAT BIOTECH
+LIMITED INTERNATIONAL, representada pela empresa PRECISA COMERCIALIZAÇÃO DE
+
+MEDICAMENTOS, até que seja ultimada a investigação preliminar sumária em curso nesta
+CGU.
+
+https://sapiens .agu.gov.br/documento/666969186 418
+29/06/2021 https://sapiens.agu.gov.br/documento/666969186
+
+14. Portanto, a Controladoria-Geral da União, no exercício da competência de que trata a Lei 12.846/2013,
+instaurou procedimento administrativo preliminar (investigação preliminar) e determinou, de maneira cautelar, a
+suspensão dos efeitos do Contrato Administrativo nº 29/2021, medida essa que não pode ser ignorada. Entendo que a
+suspensão, nesse caso, depende tão-somente de comunicação à contratada, sendo que o contraditório e a ampla
+defesa poderá ser exercido no âmbito do processo administrativo instaurado pela CGU.
+
+    
+
+RESCISÃO C UAL
+15. A segunda parte da consulta, consiste na análise da possibilidade de rescisão unilateral do contrato
+administrativo por inexecução parcial/total do objeto e o procedimento adequado para esse caso.
+16. Para melhor compreensão da questão, faremos um resumo das questões fáticas/técnicas abordadas
+
+na Nota Técnica 967 elaborada pelo Departamento de Imunização e Doenças Transmissíveis:
+
+o O cronograma de entrega previsto não foi cumprido, a primeira parcela deveria ter sido entregue em
+março de 2021 e a última em maio de 2021 (o contrato foi firmado em 25 de fevereiro de 2021 com
+
+previsões de entrega entre 20 e 70 dias da assinatura)
+
+o Houve morosidade da empresa na solicitação da autorização de importação ("Contudo, percebe-se que
+a solicitação para autorização excepcional da importação foi encaminhada à Divisão de
+Importação/CGLOG/DLOG em 18/03/2021 (0019785580), ou seja, na véspera do cumprimento da
+parcela”. ) e em responder ao Ministério acerca das reais previsões de entrega
+
+o A autorização de importação foi obtida mediante condições controladas (Item III da Nota Técnica);
+
+o A necessidade da Administração em relação à entrega dessas vacinas encontra-se modificada, em
+virtude da aquisição de outras vacinas disponíveis no mercado (Item V da Nota Técnica)
+
+o Não houve, até o presente momento, obtenção de autorização para uso emergencial junto à Anvisa da
+vacina contratada
+
+17. Pois bem, o que se observa dos aspectos da Nota Técnica 967 é que não se está diante apenas de um
+simples atraso contratual, mas de reiterados descumprimentos pela contratada de obrigações contratuais, somados a isso,
+a possível ocorrência de desinteresse pela Administração de receber as parcelas fora do prazo inicialmente pactuado.
+
+18. A lei 8.666/93 prevê, nos artigos 77 e 78,1, e 790 seguinte:
+Art. 77. A inexecução total ou parcial do contrato enseja a sua rescisão, com as consegiiências
+contratuais e as previstas em lei ou regulamento.
+Art. 78. Constituem motivo para rescisão do contrato:
+1- o não cumprimento de cláusulas contratuais, especificações, projetos ou prazos;
+(grifei)
+
+Art. 79. A rescisão do contrato poderá ser:
+
+1- determinada por ato unilateral e escrito da Administração, nos casos enumerados nos incisos 1
+a XIL e XVII do artigo anterior;
+
+19. A legislação, trouxe como motivos ensejadores da rescisão contratual unilateral, tanto a inexecução total,
+quanto parcial do contrato, especificando no artigo 78 que o descumprimento de cláusulas contratuais, especificações,
+projetos ou prazos constituem motivos para a rescisão.
+
+20. No presente caso, além do evidente descumprimento dos prazos pela contratada, que até o presente
+momento não conseguiu realizar nenhuma entrega à Contratante, o que por si só já pode constituir motivo para rescisão,
+com fundamento no art. 78, I da Lei 8.666/93, também não houve obtenção da autorização para uso emergencial junto à
+ANVISA, hipótese específica de rescisão contratual, constante no item 15.1.3 do Contrato 29/2021, conforme se observa:
+
+15.1 O presente Termo de Contrato poderá ser rescindido:
+
+€.)
+
+15. 1.3 Caso a Contratada não consiga a autorização para uso emergencial junto à Anvisa, nesta
+hipótese, sem qualquer ônus para a Contratante, não sendo devido, sequer, o pagamento pelas
+parcelas eventualmente entregues;
+
+https://sapiens .agu.gov.br/documento/666969186 5/8
+29/06/2021 https://sapiens.agu.gov.br/documento/666969186
+
+21. Apesar de a cláusula não ter estabelecido prazo máximo para obtenção da autorização emergencial,
+entendemos que a previsão possibilita que o Poder Público, avalie até quando é razoável/oportuno aguardar a obtenção da
+referida autorização. Isso porque, a depender da demora, pode-se chegar a uma impossibilidade ou desinteresse de
+utilização das vacinas, seja por exemplo, pelo transcurso do seu prazo de validade (tendo em vista que no Contrato em
+questão admite-se a entrega com posterior obtenção de autorização), seja pela ulterior ausência de interesse na sua
+utilização, em virtude da necessidade administrativa já ter sido atendida por outros contratos, por exemplo.
+
+22. Outro aspecto que é importante trazer a tona, é que a autorização para importação concedida pela
+ANVISA traz condições controladas, que, segundo consta do Ofício nº 008/2021 (0020392606) e da Nota Técnica 967
+trariam ônus ao Ministério da Saúde, fora das previsões contratuais. Deste modo, ainda que a contratada tenha obtido a
+referida autorização de importação, as condições em que ela foi concedida, fogem aos deveres contratuais assumidos pelo
+Ministério quando da assinatura do Contrato nº 29/2021.
+
+23. A doutrina ensina que não é um simples inadimplemento contratual que deve ser invocado para rescindir
+o contrato, é preciso avaliar, sob o prisma da proporcionalidade e economicidade, se o descumprimento das cláusulas
+
+contratuais torna inviável à continuidade do contrato. A este respeito, veja-se lição de Joel Menezes Niebuhr!.
+
+De todo modo, não é qualquer deslize do contratado o suficiente para rescindir o contrato. Se a
+falta do contratado puder ser corrigida, isto é, se ela não é irreversível, se não comprometer o
+contrato como um todo, a Administração, antes de optar pela rescisão, deve dar oportunidade a ele
+para corrigi-la. No entanto, se o contratado persiste em erro, descumprindo suas obrigações, ainda
+que a falta não seja tão grave, é imperativa a rescisão. Trata-se de aplicação do princípio da
+proporcionalidade aliado ao da economicidade, porquanto, em muitos casos, a rescisão do
+contrato é medida extremamente onerosa para a Administração, que lhe causa inúmeros
+transtornos e inconvenientes. (fl. 1077)
+
+24. As diversas razões apontadas na Nota Técnica 967 parecem indicar a existência de falhas/irregularidades
+ocorridos no bojo do contrato capazes de ensejar a rescisão contratual, no entanto, a avaliação acerca da gravidade das
+faltas e da possibilidade ou não de manutenção do contrato depende de análise pelos órgãos técnicos desse Ministério.
+
+25. Dito isto, passemos a análise do procedimento necessário para a efetivação da rescisão unilateral
+fundamentada no art. 77 c/c art. 78 e art. 79,1 da Lei 8.666/93.
+
+26. O artigo 78, Parágrafo Único da Lei 8.666, dispõe que "os casos de rescisão contratual serão
+formalmente motivados nos autos do processo, assegurado o contraditório e a ampla defesa"
+
+27. Deste modo, sugere-se a abertura de processo administrativo específico para apurar as irregularidades,
+devidamente autuado e apenso ao processo referente ao contrato, onde será oportunizado o contraditório e a ampla defesa.
+28. A respeito do processo para rescisão administrativa, Niebuhr detalha como esse deverá ser conduzido:
+
+"Muito embora a rescisão seja administrativa e unilateral, a entidade administrativa deve seguir
+algumas formalidades enfeixadas na própria Lei nº 8.666/93 e, no caso da Administração Pública
+Federal, na Lei nº 9.784/99, a fim de que tudo seja compatível com os princípios administrativos.
+
+De plano, é importante que seja aberto processo administrativo para realizar a rescisão do
+contrato, devidamente autuado. Sugere-se que esse processo administrativo tramite em apenso aos
+autos do próprio contrato.
+
+Demais disso, dessa feita com arrimo no parágrafo único do art. 78 da Lei nº 8.666/93, é
+necessário assegurar ao contratado o direito ao contraditório. Portanto, muito embora a rescisão
+seja unilateral, isto é, decidida pela entidade administrativa, antes dela deve-se ouvir as razões do
+contratado, com especial atenção à versão dele dos fatos que ensejam a rescisão. Trata-se de
+expressão do princípio constitucional do contraditório, amplamente aplicável aos processos
+administrativos como reconhecido pelo inciso LV do art. 5º da Constituição Federal.
+
+Para que haja o contraditório, a entidade deve expedir ato administrativo para o efeito de intimar o
+contratado sobre a sua intenção de rescindir o contrato, deixando claro quais os fatos que a levam
+a tomar tal medida e qual o fundamento legal para tanto. Ao contratado, então, depois de recebida
+tal intimação, abre-se o prazo para expor a sua versão dos fatos e do direito, exercendo o
+contraditório.
+
+À Administração é permitido, em casos excepcionais, suspender a execução do contrato até a
+decisão final do processo, desde que haja receios fundados de que a continuidade dele acarretaria
+lesão ou prejuízo ao interesse público, tudo com base no art. 45 da Lei nº 9.784/99 e no próprio
+inciso XIV do art. 78 da Lei nº 8.666/93. Logo, se for o caso, a Administração deve, no ato
+
+https://sapiens .agu.gov.br/documento/666969186 6/8
+29/06/2021
+
+https://sapiens.agu.gov.br/documento/666969186
+
+administrativo que intima o contratado a respeito da intenção de rescindir o contrato, comunicar a
+ele a suspensão da execução da avença.
+
+O contratado deve ser intimado a respeito desse ato administrativo por meio de ciência no
+processo, por via postal com aviso de recebimento, por telegrama ou outro meio que assegure a
+certeza de sua ciência, como prescreve o $3º do art. 26 da Lei nº 9.784/99. A intimação somente
+pode ser realizada por meio de publicação oficial nas situações em que o domicílio (sede) do
+contratado for desconhecido, consoante prevê o 84º do art. 26 da Lei nº 9.784/99.
+
+O contratado, uma vez intimado, dispõe do prazo de cinco dias úteis para manifestar-se,
+aplicando-se analogicamente o prazo preceituado para o recurso previsto na alínea “e” do inciso I
+do art. 109 da Lei nº 8.666/93.
+
+Apresentada a manifestação do contratado, ela deve ser analisada pela Administração. Nesse
+momento, é preciso verificar se o contratado requereu, ou não, a produção de prova no processo
+administrativo. Se requereu, a Administração deve analisar sua pertinência aos fatos. Se
+pertinente, deve ser produzida. O contratado tem o direito de produzir as provas sobre os fatos que
+dão suporte à eventual rescisão do contrato. A supressão desse direito importa na violação do
+princípio da ampla defesa, previsto no inc. LV do art. 5º da Constituição Federal e torna nulo o
+processo administrativo, bem como, por lógica, a eventual decisão de rescisão. A prova requerida
+somente pode ser rejeitada pela Administração se for ilícita, impertinente, desnecessária ou
+protelatória, de acordo com o 82º do art. 38 da Lei nº 9.784/99. A rejeição da prova deve ser
+motivada e encarada excepcionalmente.
+
+Se for o caso de produzir prova, o contratado deve ser intimado (com antecedência de três dias
+úteis, como prescreve o $2º do art. 26 da Lei nº 9.784/99) e deve ser franqueado a ele o direito de
+acompanhá-la, bem como, ao final, de apresentar alegações finais, manifestando-se formalmente
+sobre a prova produzida, no prazo de dez dias, consoante o art. 44 da Lei nº 9.784/99.
+Recomenda-se que o processo seja encaminhado para a assessoria jurídica, a fim de que esta emita
+parecer, no prazo, em regra, de quinze dias, como dispõe o art. 42 da Lei nº 9.784/99. Depois
+disso, o processo deve ser direcionado à autoridade competente, que deve decidir pela rescisão ou
+pela manutenção do contrato.
+
+O inciso I do art. 79 da Lei nº 8.666/93 demanda que o ato da rescisão seja formalizado por
+escrito, o que é consequência do princípio da indisponibilidade dos interesses públicos. Tudo deve
+ser feito por escrito, devidamente documentado e posteriormente arquivado.
+
+Além disso, o parágrafo único do art. 78 da Lei nº 8.666/93 exige que o ato de rescisão seja
+motivado. Isto é, a autoridade competente deve indicar os fatos que a levaram a rescindir o
+contrato e o fundamento jurídico da rescisão. À autoridade competente, a teor do $1º do art. 50 da
+Lei nº 9.784/99, é permitido decidir e utilizar como motivação o parecer jurídico ou técnico
+juntado no processo. Para isso, ela deve indicar expressamente no ato de rescisão que os motivos
+são os apontados no parecer.
+
+É de advertir que a autoridade competente deve enfrentar os argumentos de defesa e fatos
+articulados pelo contratado, o que está ínsito no dever de motivação. Aliás, o processo
+administrativo para a rescisão de contrato administrativo não se constitui em mera formalidade,
+deve-se valorizar a sua faceta substancial e material. Nas palavras, de Pedro de Menezes Niebuhr:
+
+Ocorre que o processo administrativo não cuida apenas do rito para se alcançar o ato
+administrativo final, mas, ocupa-se, também, em assegurar critérios e meios para que a posição
+dos particulares — seus argumentos, fatos, direitos e interesses — externada através do respeito
+daquele rito, seja, efetivamente, tomada em consideração no atuar da Administração. De nada
+adiantaria conceber um conjunto de regras que viabilize a participação do interessado — tanto para
+que ele possa proteger seus interesses, quanto para que possa contribuir para a edição da decisão
+mais adequada e informada — se esta participação não for, concretamente, tomada em
+consideração pela Administração. Esta disfunção, aliás, infelizmente parece ser corriqueira na
+praxe administrativa, onde processos são conduzidos com o único propósito de tornar definitivo
+juízo pré-concebido do agente sobre dada pretensão.2
+
+O contratado deve ser intimado do ato de rescisão na forma do art. 26 da Lei nº 9.784/99, sugere-
+se que, do mesmo modo que o foi para apresentar a sua manifestação. Também é obrigatória a
+publicação na Imprensa Oficial, a teor do $1º do artigo 109 da Lei nº 8.666/93. Da intimação,
+abre-se ao contratado o prazo de cinco dias úteis para interpor recurso, que, no entanto, não
+agrega efeito suspensivo, tudo em compasso à alinea “e” do inciso I do art. 109 da Lei nº
+8.666/93. Sem embargo, de acordo com o $2º do mesmo art. 109, à autoridade competente é
+permitido atribuir ao recurso efeito suspensivo, desde que motivadamente e presentes razões de
+interesse público.
+
+https://sapiens .agu.gov.br/documento/666969186 7/8
+29/06/2021 https://sapiens.agu.gov.br/documento/666969186
+
+O recurso deve ser decidido de maneira motivada. Recomenda-se que antes de ele ser apreciado
 pela assessoria jurídica. Decidido o recurso, o contratado deve ser novamente intimado. A partir
-
-desse momento exaure-s: a discussão sobre a rescisão do contrato ma esfera administrativa. Se o
-contratado não se conformar, cabe a ele apenas recorrer no Poder Judiciário."
+desse momento exaure-se a discussão sobre a rescisão do contrato na esfera administrativa. Se o
+contratado não se conformar, cabe a ele apenas recorrer ao Poder Judiciário."
 
 29. Deste modo, para a rescisão unilateral, recomendamos a adoção do procedimento acima pormenorizado
-pelo ilustre doutrinador. nativo
-ico ht
-CONCLUSÃO Ni
+pelo ilustre doutrinador.
+
+CONCLUSÃO
 
 30. Acerca da possibilidade de suspensão do contrato Administrativo nº 29/2021, há amparo jurídico tanto
-
 na Lei de Licitações, quanto no poder geral de cautela. Para suspensão contratual prevista na lei de licitações, por prazo
 não superior a 120 (cento e vinte) dias, é necessária ordem escrita e fundamentada da autoridade competente. Para a
 suspensão cautelar por iniciativa do Ministério, tem-se ser necessário processo administrativo onde se oportunize
@@ -20,7 +3099,7 @@ contraditório e ampla defesa. No entanto, conforme consta nos autos, a suspens�
 seu poder geral de cautela, medida que deve ser cumprida, procedendo-se com a notificação à Contratada.
 
 31. Quanto à rescisão, também há amparo jurídico, tanto pelo descumprimento do cronograma de entrega,
-quanto pela não obtenção da mtorização emergencial de uso. Nesse caso, deverá ser aberto procedimento administrativo
+quanto pela não obtenção da autorização emergencial de uso. Nesse caso, deverá ser aberto procedimento administrativo
 onde se oportunize contraditório e ampla defesa, observando-se o detalhamento constante no Parágrafo 29.
 
 À consideração superior.
@@ -29,28 +3108,29 @@ Brasília, 29 de junho de 2021.
 
 ADRIELE MATOS DE SANTANA SANTOS
 Advogada da União
-Coordenadora de Suporte Jurídico em Procedimentos Licitatório
-COJUPLI/GLICI/CONIUR-MS
+
+Coordenadora de Suporte Jurídico em Procedimentos Licitatórios
+COJUPLI/GLICI/CONJUR-MS
 
  
 
-Atenção, a consulta ao processo eletrônico está disponível em hftp://sapiensagu.govbr mediante o
-fornecimento do Número Único de Protocolo (NUP) 25000175250202085 e da chave de acesso 06734300
+Atenção, a consulta ao processo eletrônico está disponível em http://sapiens.agu.gov.br mediante o
+fomecimento do Número Único de Protocolo (NUP) 25000175250202085 e da chave de acesso 067343€0
 
 Notas
 
- 
+1. 2 Niebuhr, Joel de Menezes Licitação pública e contrato administrativo / Joel de Menezes Niebuhr. — 4. ed. rev. e
+ampl. — Belo Horizonte: Fórum, 2015.
 
-.2 Niebuhr, Joel de Menezes Licitação pública e contrato administrativo / Joel de Menezes Nicbuhr. — 4. ed. rev e
-ampl. - Belo Horizonte: Fórum, 2015.
+ 
 
 Documento assinado eletronicamente por ADRIELE MATOS DE SANTANA SANTOS, de acordo com os normativos
 legais aplicáveis. A conferência da autenticidade do documento está disponível com o código 666969186 no endereço
-eletrônico. http://sapiens.agu.gov.br. Informações adicionais: Signatário (a): ADRIELE MATOS DE SANTANA
+eletrônico http://sapiens.agu.gov.br. Informações adicionais: Signatário (a): ADRIELE MATOS DE SANTANA
 SANTOS. Data e Hora: 29-06-2021 17:03. Número de Série: 129088775082263445319940945. Emissor: Autoridade
-Certificadora SERPRORFBy5.
+Certificadora SERPRORFByvs.
 
  
 
-Mipsslisapiens aqu goubridocumento!Bs Brotas. ae
+https://sapiens .agu.gov.br/documento/666969186 8/8
 

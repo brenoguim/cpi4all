@@ -1,8 +1,695 @@
-Figura-15:Piaur E 14
+ 
 
-Elgura 18: in Grande do NOUS en op Rip nárceBvatei
+POR COVID-19
+NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
 
-: Sergipe.
+MORTES EVITÁVEIS
+POR COVID-19 NO BRASIL
+
+O presente estudo foi elaborado com o apoio do Idec — Instituto
+Brasileiro de Defesa do Consumidor e da Oxfam Brasil, a partir de
+iniciativa do grupo Alerta, que conta também com a participação
+das seguintes organizações: Anistia Internacional Brasil; Centro Santo
+Dias de Direitos Humanos da Arquidiocese de São Paulo; Inesc —
+Instituto de Estudos Socioeconômicos; Instituto Ethos de Empresas
+e Responsabilidade Social; e, SBPC- Sociedade Brasileira para o
+Progresso da Ciência.
+
+AUTORES:
+
+Guilherme Loureiro Werneck
+Instituto de Medicina Social da UERJ e
+Instituto de Estudos em Saúde Coletiva da UFRJ
+
+Ligia Bahia
+Instituto de Estudos em Saúde Coletiva da UFRJ
+
+Jéssica Pronestino de Lima Moreira
+Instituto de Estudos em Saúde Coletiva da UFRJ
+
+Mário Scheffer
+Departamento de Medicina Preventiva da
+Faculdade de Medicina da USP
+
+Revisão de texto: Sérgio Araújo. Projeto gráfico e diagramação:
+José Humberto de S. Santos. Foto capa: Andre Luiz Soares Pera/iStock
+
+Data da publicação
+JUNHO/2021
+Sumário
+
+Introdução ........... ss iretreenereererasese rare raranerrare rara ne rana ne rara ne rana ne rara ne rara ne raranerananeraranerana 4
+
+Mortes evitáveis
+
+ 
+
+Como foram realizadas as estimativas de mortes evitáveis para o Alerta Covid-19
+
+Excesso de mortalidade no primeiro ano da epidemia de Covid-19 no Brasil .................. 8
+Como foram obtidas as estimativas do excesso de Óbitos... 10
+Estimativas de excesso de mortalidade ...............siteemeeeneeeeneerenrereeeereeararnaaars 10
+Mortes evitáveis por ações e serviços de saúde... eeneememeeeaneaa 19
+Acesso a testes diagnósticos... etreenreenerernreenererenerereneaarererar na nerenananenanara 21
+
+Mortes associadas à Covid-19 no sistema de saúde (pacientes hospitalizados)
+
+Considerações Finais .............iereenreenreenereeanerernerernerer near aarna narrar nannananara 34
+Recomendações ............. eee eeeaeeeeeaeeeeeae aeee erra eeeae eee eeeae erra ereae atenas 36
+MATERIAL COMPLEMENTAR
+
+Anexo 1
+Recursos e usos para o enfrentamento da Covid-19 .......... 39
+Orçamento... ireenreenrerenrarenerer onerar ceara era rar raras reaar near ena sanar nr nanarenanara 39
+
+Instituições envolvidas e gastos com vacinas ...
+
+ 
+
+Orçamento do Ministério da Saúde .............. ss ieeeeeeeereeeareeeeeeeeaeeerarenaarenanaso 40
+
+Vacinas e vacinação ...........s eee enrereeeereeeeerenerarenrer ceras ene ear nararnanarenanarenanana 41
+
+Dinâmica do processo de vacinação .............. is enaseenaeeeneereneeeene narrar narenanaso 43
+
+Leitos de UTI... neem aeeeneaeeeae aeee aneeneaaeene arena arena arere arena arena narenanas 45
+Anexo 2
+
+Resenha de estudos relevantes sobre os determinantes das mortes
+associadas à Covid-19 no Brasil e no mundo...
+
+ 
+
+Anexo 3
+Alerta sobre a responsabilidade pelas mortes evitáveis por Covid-19 ........................ 53
+Índice de Quadros, Figuras e Tabelas.............retmeneeememeeeemeererememereeememererenes 55
+
+ 
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Introdução
+
+O Brasil se destacou negativamente no contexto mundial das respostas à pandemia
+de Covid-19.
+
+Desde o primeiro semestre de 2020, as taxas de transmissão se mantiveram altas e
+os números de casos e de óbitos excepcionalmente elevados.
+
+Afalta de controle da pandemia no território nacional se configurou em padrão
+constante, levando ao aumento expressivo da transmissão e das mortes em 2021.
+
+Com a queda do número de óbitos nos Estados Unidos, o país poderá vir a ocupar
+o tenebroso primeiro lugar no ranking de perdas de vidas durante a pandemia.!
+
+A incapacidade de conter o alastramento da infecção rompeu com as boas tradições
+de vigilância epidemiológica e medidas preventivas e de cuidados aos pacientes
+desenvolvidas nacionalmente ao longo de décadas.
+
+As decisões sobre o controle de portos, aeroportos e fronteiras, funcionamento de
+atividades econômicas e apoio financeiro a indivíduos e empresas foram incorretas e
+ambíguas.
+
+Faltaram equipamentos de proteção individual para profissionais de saúde,
+oxímetros e cilindros de oxigênio em unidades de saúde, assim como testes para
+diagnóstico e rastreamento de casos e contatos.
+
+Com a evolução da pandemia ficaram evidentes as lacunas na oferta de leitos e
+ventiladores e, ainda que menos divulgada, a carência de profissionais de saúde
+especializados.
+
+Mais de um ano e três meses depois do registro do primeiro caso de Covid-19 no
+país, as falhas no enfrentamento da pandemia não foram revistas ou corrigidas
+enquanto seguimos com escassez de vacinas.
+
+Ao invés de recomendações para a ampliação de medidas de proteção populacional
+e individual, conforme preconizado pela comunidade científica e agências internacionais,
+prevaleceram ataques à ciência e às experiências históricas de enfrentamento de
+epidemias.
+
+Alegislação promulgada em fevereiro de 2020 autorizou o governo a mobilizar
+recursos existentes e ampliou o orçamento público. No entanto, leitos privados e a
+readequação da capacidade instalada para a produção de insumos, tais como testes e
+máscaras de maior qualidade e menor custo, não foram devidamente organizados.
+
+A execução do orçamento do Ministério da Saúde para a Covid-19 em 2020 ficou
+em torno de 60%, apesar da falta de insumos estratégicos, inclusive oxigênio e
+medicamentos para intubação. Não foram concedidos incentivos suficientes para a
+pesquisa, desenvolvimento e produção de testes para diagnóstico e rastreamento de
+casos e contatos nem para a aquisição ou produção e distribuição de máscaras de boa
+qualidade. As oportunidades para aquisição de vacinas também foram menosprezadas.
+
+* Em 30 de abril de 2020, o Brasil tinha 6.006 mortes, o Reino Unido 26.754 e os EUA 66.231. Um ano depois, em 30 de
+abril de 2021, o Brasil acumulava 403.781 óbitos e se tornou o país que liderava, ao lado da Índia, os números de casos
+fatais de Covid-19 no mundo.
+Estratégias de bloqueio da disseminação do novo coronavirus (SARS-CoV-2) se
+tornaram indisponíveis pela conjugação de quatro ordens de fatores:
+
+1) a minimização da magnitude da pandemia e descrédito nas orientações científicas;
+
+2) adoção de um programa oficial para o “tratamento precoce”, enganoso e sem
+fundamentação científica;
+
+3) políticas insuficientes e intermitentes de auxílio emergencial e para a expansão do
+sistema de saúde;
+
+4) descontinuidades administrativas no Ministério da Saúde e inação de comitês de crise.
+
+Ao recusar o enfrentamento da Covid-19 em nome da “saúde” da economia, o
+governo federal se tornou cúmplice de mortes que poderiam ter sido evitadas e não
+logrou reverter a recessão econômica. Essa escolha política nos conduziu para uma
+situação na qual não dispomos de políticas efetivas contra a Covid-19, nem obtivemos
+melhorias nas taxas de emprego e renda.
+
+O governo falhou. A sociedade baseada no bem comum e no mercado que cria e
+distribui riquezas exige a organização de arranjos legais e institucionais à altura da tarefa
+de prover as necessidades básicas em tempos de crise.
+
+Durante a pandemia houve um rompimento das acepções fundamentais sobre a
+saúde da população e o imperativo moral da defesa da vida foi violado.
+
+Em maio de 2020, um movimento de entidades da sociedade civil denominado
+Alerta Covid-19? denunciou omissões e ações incorretas e anunciou seu objetivo de
+sistematizar informações para subsidiar ações de responsabilização e reparação dos
+danos à sociedade brasileira.
+
+Esta Nota Técnica do Alerta Covid-19 sintetiza uma compreensão sobre a
+pandemia.
+
+Estamos aprendendo todos os dias. Ainda há perguntas sem respostas e ao longo
+dos próximos anos será produzido muito conhecimento realmente novo. Há, por
+exemplo, dúvidas sobre o real impacto da Covid-19 na mortalidade, já que mais
+sistemas e órgãos são afetados pela doença do que o inicialmente identificado, com
+variações segundo diferentes grupos etários. Há indefinição, também, de qual será a
+duração da imunidade pós-infecção ou pós-vacinação. Caminhamos, ainda, com muitas
+incertezas.
+
+O velho costume de querer lidar com riscos, com parâmetros que podem ser
+estimados facilmente, está abalado pelas incertezas. Nossa função é nos esforçarmos
+para nos orientar pela melhor ciência possível. E a melhor ciência possível, no caso da
+Covid-19, exige lidar com as desigualdades na saúde, porque é exatamente assim que
+essa pandemia está se desenrolando.
+
+Não é mais possível dizer para as pessoas lavarem as mãos sem que exista
+saneamento adequado ou para não se aglomerarem em transportes públicos lotados.
+Não são os comportamentos individuais que explicam as desigualdades estruturais e a
+pandemia só as escancara.
+
+2 https:/idec.org.brialerta-mortes-coronavirus
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Esta Nota Técnica do Alerta Covid-19 contêm levantamentos de informações
+documentais e dados oficiais que convergem para uma apreciação de evidências sobre
+mortes evitáveis por Covid-19 no Brasil.
+
+MORTES EVITÁVEIS
+
+Morte evitável é um conceito cunhado na década de 1970, que
+permanece polêmico em função das distintas acepções sobre determinações
+dos processos saúde-doença, especialmente do potencial dos cuidados
+assistenciais para evitar mortes em termos populacionais.
+
+Distintas correntes científicas enfatizam modelos causais apoiados em
+teorias sociais ou comportamentais, que, por sua vez, se desdobram na
+maior ou menor aproximação do papel das instituições e da política.
+
+Mais recentemente, para abranger diferentes conjuntos de
+determinantes da saúde, as mortes evitáveis foram subdivididas em:
+evitáveis pelas políticas públicas de alcance populacional e as evitáveis pelas
+ações e serviços de saúde; e ainda se admitem subcategorias como aquelas
+evitáveis por mudanças no estilo de vida.?
+
+Esta Nota Técnica Alerta Covid-19 adota uma acepção pragmática de
+morte evitável considerando duas dimensões: evitáveis por medidas
+populacionais e por ações e serviços de saúde.
+
+Para tanto, os processos de adoecimento e morte pela Covid-19 podem
+ser representados, simplificadamente, por três patamares de riscos,
+conforme esquema ilustrativo (Quadro 1).
+
+Observa-se que as ações visando a redução da exposição ao vírus, da
+probabilidade de infecção e da gravidade da Covid-19 estão associadas a
+medidas e ações de natureza predominantemente econômica, social e de
+saúde.
+
+O modelo de representação das etapas dos processos de transmissão e
+adoecimento da Covid-19 sugere ainda a relevância da articulação e
+simultaneidade das ações governamentais.
+
+3 Nolte, Ellen, and Martin McKee. Does health care save lives? Avoidable mortality revisited. The Nuffield Trust, 2004.
+
+6
+Quadro 1: Modelo de representação das etapas dos processos
+de transmissão e adoecimento da Covid-19
+
+ 
+
+ 
+
+s de transmissão
+
+ 
+
+Minimizando os
+danos do adoecimento
+Ações em serviços de saúde
+
+Redução da
+gravidade e morte
+
+Ações populacionais
+
+Redução
+da exposição
+
+Redução da
+probabilidade de infecção
+
+ 
+
+Exemplos de medidas
+recomendadas
+
+ 
+
+ções
+
+recomendadas
+
+Exemplos de a:
+
+e Apoio para a
+plementação do
+[Gillo lu ioR eo)
+
+RAN Je Idelco (o A
+créditos, suspensão e
+congelamento de dívidas
+e tarifas básicas
+
+e Garantia de provimento
+fe XE atol io RETIRA]
+internet
+
+Ee Ei ER io uti
+
+e Oferta de máscaras de
+boa qualidade
+
+e Equipamentos de
+proteção individual a
+trabalhadores de
+ETA ALT
+(inclusive informais)
+
+EMO CR CEC
+diagnóstico e detecção
+| ecl e clio]
+
+e Oferta de locais
+adequados para
+isolamento e quarentena
+
+e Campanhas de vacinação
+
+ 
+
+e Mobilização de recursos
+para oferta de leitos,
+oxigênio, medicamentos
+para intubação
+
+PCIe MEM ut Lao
+especializados
+
+ 
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+ 
+
+ 
+
+Elaboração própria: adaptação de Krieger, 2020*; IASC, 2020º
+
+4 Krieger, Nancy. Coronavirus (COVID-19): Press Conference. Harvard TH. Chan. School of Public Health. 05 de novembro
+de 2020. Disponível em: https:/Awww.hsph.harvard.edunews/features/coronavirus-covid-19-press-conference-with-nancy-
+krieger-05-11-20/
+
+5 IASC, Inter-Agency Standing Comittee. Interim Guidance. Public Health and Social Measures for Covid-19 Preparedness
+and Response in Low Capacity and Humanitarian Settings. Version 1 (Developed by ICRC, IFRC, IOM, NRC, UNICEF, UN-
+HABITAT, UNHCR, WHO in consultation with IASC members), May 2020
+
+7
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Como foram realizadas as estimativas
+de mortes evitáveis para o Alerta Covid-19
+
+Com base nos patamares de exposição, infecção e adoecimento recorreu-se a
+diferentes bases de dados e fontes documentais para obter informações que permitam
+uma aproximação da realidade da mortalidade associada à Covid-19 no Brasil.
+
+Para dimensionar o impacto da Covid-19 na mortalidade foram utilizadas as bases
+de dados: Sistema de Informação de Mortalidade (SIM), Cartórios de Registro Civil
+(CRC), PNAD Covid-19 IBGE (Pesquisa Nacional por Amostra de Domicílios — PNAD),
+Sistema de Informação da Vigilância Epidemiológica da Gripe (SIVEP-Gripe - banco de
+dados para registro de óbitos e casos hospitalizados por síndromes respiratórias
+aguadas graves - SRAG) e Cadastro Nacional de Estabelecimentos de Saúde (CNES).
+
+Os resultados das análises desses subconjuntos de dados estão expostos em dois blocos.
+
+O primeiro se refere ao excesso de mortalidade, termo usado em saúde pública no
+contexto da Covid-19 para se referir à comparação do número registrado de mortes
+durante a pandemia com o número esperado de mortes que ocorreriam no mesmo
+período caso não houvesse a pandemia.
+
+Aqui, parte-se da premissa de que ações e medidas efetivas de prevenção da
+disseminação da epidemia no âmbito populacional reverteriam em redução dos níveis de
+transmissão e consequente queda do número de casos e óbitos relacionados à Covid-19.
+
+O segundo bloco corresponde a uma análise das mortes evitáveis por ações e
+serviços de saúde. Nesse contexto compreende-se que o acesso e a qualidade da
+assistência prestada são dimensões essenciais para se evitar mortes.
+
+Os intervalos temporais adotados nas análises buscaram garantir a maior cobertura
+temporal da pandemia no país e, ao mesmo tempo, acesso a dados mais completos,
+isto é, menos sujeitos a erros de registro.
+
+Além dos dados diretamente relacionados com óbitos recorreu-se, de forma
+complementar, a informações cadastrais e documentais para oferecer subsídios sobre
+recursos orçamentários e assistenciais, além de um levamento contendo estudos sobre
+o tema.
+
+Excesso de mortalidade no primeiro
+ano da epidemia de Covid-19 no Brasil
+
+O excesso de mortalidade é uma medida do número de mortes acima do que seria
+esperado em um determinado período e região. O excesso de mortes é calculado
+comparando-se o número de mortes observadas e o número de mortes que seriam
+esperadas, estimadas com base em dados históricos de mortalidade.
+
+O excesso de mortalidade pode ser calculado para causas específicas de morte
+(por exemplo, excesso de mortalidade por câncer de pulmão) ou para todas as causas
+(excesso de mortalidade geral). O excesso de mortalidade geral tem sido considerado
+uma medida adequada para avaliar o impacto da Covid-19 por vários motivos.!
+
+$ Leon DA, Shkolnikov VM, Smeeth L, Magnus P, Pechholdová M, Jarvis CI. COVID-19: a need for realtime monitoring of
+weekly excess deaths. Lancet. 2020 May 2:395(10234):81. doi: 10.1016/50140-6736(20)30933-8.
+
+8
+Primeiro, o numero total de mortes registradas por todas as causas não é distorcido
+por variações na definição e na notificação de mortes associadas à Covid-19 entre
+localidades e ao longo do tempo. Esse aspecto é importante por que se reconhece que
+há subnotificação de óbitos associados à Covid-19 no Brasil, seja porque a realização de
+testes diagnósticos é precária no país ou porque o preenchimento e a definição da
+causa da morte na declaração de óbito são sujeitos a erros e omissões.
+
+Segundo, o excesso de mortes permite avaliar o impacto total da Covid-19 na
+mortalidade, incluindo aquelas mortes indiretamente relacionadas à pandemia de
+Covid-19, mas por ela impactadas, por exemplo, em função de atrasos na procura de
+atendimento para outras doenças ou da redução da capacidade do sistema de saúde
+para lidar com outras doenças.
+
+Finalmente, o excesso de mortalidade apresentado em termos relativos (em relação
+aos óbitos esperados) permite comparações válidas entre regiões.
+
+No Brasil, estudos epidemiológicos sobre mortalidade utilizam, prioritariamente, o
+Sistema de Informações sobre Mortalidade (SIM), do Ministério da Saúde. Os dados
+registrados no SIM são oriundos da Declaração de Óbito (DO), que é o documento
+legal fornecido pelo Ministério da Saúde para registro das mortes ocorridas no país. A
+DO é composta de três vias numeradas, cujo preenchimento é de responsabilidade
+médica. A DO contempla uma série de informações sociais e demográficas, assim
+como as causas de morte e suas circunstâncias. As causas de morte são codificadas
+de acordo com a classificação internacional de doenças (CID-10).
+
+Existem muitas vantagens em utilizar o SIM como fonte de dados. A cobertura do
+sistema é ampla no território nacional e o registro da DO segue fluxo padronizado,
+passando por secretarias municipais e estaduais de saúde até sua chegada no
+Ministério da Saúde. Ao longo dessas etapas, há uma série de verificações para avaliar
+a completude e consistência, identificar erros na codificação das causas de morte e
+realizar as correções necessárias. Esses procedimentos são fundamentais para garantir
+a qualidade das informações e permitir análises válidas e confiáveis.
+
+Entretanto, esse processo leva tempo e a disponibilização do banco de dados
+completo e revisado para uso público ocorre, em geral, apenas no ano subsequente à
+ocorrência do óbito. Nesse sentido, análises referentes aos anos mais recentes são
+sujeitas a erros devido a subregistros e inconsistências ainda não completamente
+corrigidas.
+
+Para análise de dados de mortalidade mais recentes é possível fazer uso de uma
+outra fonte de dados de mortalidade: os Cartórios de Registro Civil (CRC). Após sua
+emissão, uma cópia da DO é entregue para a família da pessoa que morreu para
+registro do óbito no CRC que, por sua vez, emite a Certidão de Óbito (CO), documento
+com várias finalidades legais e obrigatório para que ocorra o sepultamento.
+
+Os dados são então registrados em um sistema de informação da Associação
+Nacional dos Registradores de Pessoas Naturais (ARPEN-Brasil). Embora os dados
+oriundos do CRC sejam, em geral, insuficientes para uma análise das causas básicas de
+morte, eles são adequados para estimar o número total de óbitos ocorridos.
+
+Nessa análise, calculamos o número de mortes em excesso que ocorreram no
+Brasil para os primeiros 12 meses da pandemia, a partir da semana subsequente à
+ocorrência do primeiro óbito de Covid-19 confirmado no país (12/03/2020).
+
+9
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Como foram obtidas as
+estimativas do excesso de óbitos
+
+As análises restringem-se aos óbitos por causa naturais, isto é, aqueles cuja causa
+básica é uma doença ou estado mórbido. Ou seja, não decorrem de causas externas. A
+causa externa de óbito é aquela decorrente de lesão provocada por violência (homicídio,
+suicídio, acidente ou morte suspeita).
+
+A primeira etapa para calcular o excesso de óbito é estimar qual seria o número de
+óbitos esperados num período e região. Para essa finalidade foram utilizados os dados
+do SIM para os anos de 2015 a 2019. Os óbitos esperados foram estimados de acordo
+com sexo, faixa etária, semana e unidade da Federação (UF) de ocorrência, utilizando
+um modelo de regressão binomial negativa com intervalos de 95% de confiança. Os
+modelos específicos para cada UF consideraram, além de um efeito linear do tempo
+(em semanas), os efeitos de sexo, idade e tempo com seus respectivos termos de
+interação. Finalmente, o logaritmo da estimativa do tamanho da população em cada
+subconjunto da população foi incluído como offset no modelo.
+
+Os óbitos observados nos anos de 2020 e 2021 foram obtidos no sistema de
+informação dos CRC. Os dados oriundos do CRC foram corrigidos para subregistro com
+base na comparação entre os óbitos registrados no SIM com os do CRC no ano de
+2019, por sexo, idade, UF e semana de ocorrência.
+
+À estimativa do excesso de mortes se baseou na diferença entre os óbitos
+observados e esperados por sexo, faixa etária (10 anos), semana de ocorrência e UF.
+Para fins desse cálculo considerou-se apenas a situação em que o número de óbitos
+observados estava acima do número esperado de óbitos para a respectiva semana de
+ocorrência do óbito.
+
+O excesso de mortalidade foi expresso também de forma relativa. O excesso
+relativo da mortalidade corresponde ao aumento percentual do número de mortes e é
+calculado dividindo-se o excesso de mortes pelas mortes esperadas (x100).
+
+Estimativas de excesso de mortalidade
+
+O excesso de morte ao longo dos primeiros 12 meses da pandemia, a partir da
+semana subsequente à ocorrência do primeiro óbito de Covid-19 confirmado no país
+(12/03/2020), foi de cerca de 305 mil mortes.
+
+Ou seja, nesse período, ocorreram 305 mil mortes acima do que seria esperado
+para o mesmo período com base nos dados históricos de mortalidade no país (Tabela
+1). Observa-se, na Tabela 1, que o excesso de óbitos varia de acordo com a UF,
+resultado de diferenças nas expectativas de mortalidade, fortemente influenciadas pelo
+tamanho da população e sua estrutura etária.
+
+Assim, o excesso de mortalidade relativa permite uma melhor comparação entre as
+UF. Neste caso, observa-se que, em relação aos óbitos esperados no período, o estado
+do Amazonas foi aquele que apresentou o maior aumento relativo da mortalidade (84%).
+
+10
+Tabela 1: Excesso de mortes e excesso relativo de mortalidade (%)
+segundo as unidades da Federação — Brasil, 2020-2021
+
+UF
+
+Acre
+
+Alagoas
+
+Amapá
+Amazonas
+
+Bahia
+
+Ceará
+
+Distrito Federal
+Espírito Santo
+Goiás
+
+Maranhão
+
+Mato Grosso
+Mato Grosso do Sul
+Minas Gerais
+Pará
+
+Paraíba
+
+Paraná
+Pernambuco
+
+Piauí
+
+Rio de Janeiro
+
+Rio Grande do Norte
+Rio Grande do Sul
+Rondônia
+Roraima
+
+Santa Catarina
+São Paulo
+Sergipe
+
+Tocantins
+
+Total
+
+Excesso de
+mortes (N)
+
+1.468
+3.948
+992
+12.997
+18.638
+20.454
+4.423
+5.811
+13.085
+11.424
+6.654
+3.578
+33.880
+11.802
+3.662
+14.086
+14.044
+2157
+29.681
+4.024
+13.975
+4.053
+739
+7.158
+58.390
+2.396
+2.264
+305.286
+
+1C95% - Intervalo de 95% de confiança
+
+1C95%
+1.115 - 1.810
+2.846 - 5.050
+655 - 1.328
+8.230 - 17.763
+16.109 - 21.166
+15.292 - 25.617
+3.536 - 5.310
+4.479 - 6.143
+10.023 - 16.147
+8.543 - 14.304
+5.587 - 7.721
+2.899 - 4.257
+28.900 - 38.859
+7.169 - 16.435
+2.919 - 4.404
+10.036 - 18.136
+11.116 - 16.971
+1.784 - 2.530
+22.362 - 36.999
+3.105 - 4.942
+7.955 - 19.996
+2.798 - 5.308
+525 -952
+4.956 - 9.360
+46.941 - 69.838
+1.735 - 3.056
+1.750 - 2.778
+279.384 - 331.188
+
+11
+
+Excesso
+relativo (%)
+
+40%
+22%
+33%
+84%
+23%
+40%
+34%
+25%
+39%
+38%
+42%
+24%
+27%
+34%
+15%
+21%
+26%
+11%
+23%
+21%
+17%
+57%
+30%
+18%
+20%
+21%
+34%
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+A Figura 1 (abaixo) mostra as curvas de óbitos esperados (azul) e observados (vermelho) para o Brasil. A distância entre as curvas
+representa o excesso de mortalidade. As demais figuras (nas próximas páginas) apresentam as mesmas curvas para as diferentes UF das
+grandes regiões brasileiras.
+
+Figura 1 Brasil
+
+Número de óbitos
+20000 25000 30000 35000 40000 45000
+
+ 
+
+T T T T T T T T T T
+1/2020 8/2020 15/2020 22/2020 29/2020 36/2020 43/2020 50/2020 5/2021 12/2021
+semana
+
+ 
+
+Óbitos esperados
+Intervalo de 99% de Confiança
+
+ 
+
+ 
+
+Óbitos observados
+
+ 
+
+12
+EGIÃO NORTE
 
  
 
@@ -10,13 +697,13 @@ Elgura 18: in Grande do NOUS en op Rip nárceBvatei
 
  
 
-igura 7: Roraima
+ 
 
-ter o o & GAS KS ANISTIA
-igurafoKlgoas... OX FAM inesc "é É ELE
+ 
 
-Igura 10: Bata es
-Igura 11: Ceará
+ 
+
+ 
 
  
 
@@ -26,5 +713,3085 @@ Igura 11: Ceará
 
  
 
-a ETHOS ERR ams
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura2 Acre Figura3 Amazonas
+8 8
+ge 8
+&” 8ê
+ie E
+Be 28
+ê
+8 e
+vaizo Baião s0ão 2anozo aozo2o aernzo saozo Sodoma saoar tanoas vaizo eaizo 152020 22n02o aomozo somo samozo sotozo soar rooms
+semana semana
+Óbitos esperados — — Óbitos esperados — —
+Intervalo do 95% de Confiança Intervalo de 95% de Confiança
+Óbitos observados — — Óbitos observados.
+Figuras Amapá Figura5 Pará
+E
+s g
+28
+ão Es
+28 $g
+ê g
+5 EB
+2; sê
+º 8
+vaião eadão IS0ã0 2ano2o aozo2o aeazo saozo Sodoma sa0ar taoas vaio Baião IS0ão 2ano2o aozoo aernzo saozo Sodoma saoar tanoas
+Óbitos esperados — — Óbitos esperados — —
+Intervalo do 95% de Confiança Intervalo do 95% de Confiança
+Óbitos observados —— Óbitos observados ——
+Figura6 Rondônia Figura? Roraima
+8 g
+28 2
+8 8
+ê 5º
+tg 8
+Êo $
+Ê És
+Zg ê
+vaio eradão IS0ãO 2ano2o aozoo aernzo daozo sodozo saoar tanoas vaião eadão Is0ã0 2anozo aogoo aernzo darzozo Sodoma saoar tanoas
+semana semana.
+Óbitos esperados — — Óbitos esperados ——
+Intervalo do 95% de Confiança Intervalo do 95% de Confiança
+Óbitos observados —— Óbitos observados ——
+Figura Tocantins Figura Alagoas
+g g
+$? s8
+8s 8
+E H
+se 5
+E És
+às 28
+8 8
+vaio Baião S0ã0 22nozo aozozo a6rnzo saozo Sodoma saoar tamos vaio saido Sc0ão 22no2o a9gozo sendo saozo sozozo saoar tanoas
+semana semana
+Óbitos esperados — — Óbitos esperados — —
+Intervalo do 95% de Confiança Intervalo do 95% de Confiança
+Óbitos observados —— Óbitos onservados ——
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 10 Bahia Figura 1t Ceará
+. ê
+a
+sê
+Ê ê
+sê
+ê g
+ê
+g É
+g ê
+nabo aatão ASÍ0RO ZEGOZO asdcão asdoo aadoco sotoco sanar toras vebão aaGãO AS4020 ZEG020 24020 asdzo aadoco Sonozo samar torcer
+semana semana
+Óbitos esperados —— Óbitos esperados ——
+Intervalo de 95% de Confiança Intervalo de 95% de Confiança
+Óbitos observados — — Óbitos observados — —
+Figura 12 Maranhão Figura 13 Paraíba
+s
+8
+ao Es
+ãe gê
+2 g
+Ê ê
+5º És
+EE e
+8
+8 8
+nabo adido ASÍ02O 22020 asávão ago aadoco sotoco sanar toras vao Matão ASÍ02O ZEG02O R40ã0 asdozo aadoco sotozo samar torcer
+semana semana
+Óbitos esperados —— Óbitos esperados ——
+Intervalo de 95% de Confiança Intervalo de 95% de Confiança
+Óbitos observados — — Óbitos observados — —
+Figurajiá Pernambuco Elgurano Piauí
+Ê 8
+g Es
+8 8
+E 28
+É É
+2 28
+ê 8
+vao adido ASÍ02O 22020 aoacão asdozo aadoco sotoco sanar tornar vao aatão ASÍ02O 22020 Rd0ãO asdozo asdoco Sotoco samar torcer
+semana semana
+Óbitos esperados — — Óbitos esperados — —
+Intervalo de 95% de Confiança Intervalo de 95% de Confiança
+Óbitos observados — — Óbitos observados — —
+Figura 6 Rio Grande do Norte Figura 17, Sergipe
+ê g
+g
+38 8.
+é is
+E 8
+E ss
+Ê 5
+28 28
+g &
+nabo adido AS4020 22020 Rodcão asd aadoco sotoco sanar toras vebão Matão ASÍ02O 22020 24020 asd aadoco sotoco samar torcer
+semana semana
+Óbitos esperados —— Óbitos esperados ——
+? Intervalo de 95% de Confiança Intervalo de 95% de Confiança
+Óbitos observados — — óbitos observados ——
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14
+GIÃO SUDESTE
+
+Figura 18
+8
+
+Número de óbitos.
+
+“9
+
+|
+
+E
+
+Espirito Santo
+
+Figura 19
+ê
+
+aseo «000
+
+E
+
+Número do óbitos.
+
+2000 200
+
+Minas Gerais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E
+vao adido ASÍ02O ZEG020 aodvão asd aadoco Sotoco sanar toras vebão Adão ASÍ02O 22020 aodcão asdozo aadoco Gotoco sanar tornar
+semana semana
+Óbitos esperados — — Óbitos esperados ——
+Intervalo de 95% de Confiança Intervalo de 95% de Confiança
+Óbitos observados — — Óbitos observados — —
+Figura 20 Rio de Janeiro Figura2i São Paulo
+és 5
+B 2 É
+is Eê
+z 3 g
+Nabo aaNão ASÍ0IO ZEGO20 Rodcão asozo aadoco Sotoco sanar toras nabo adido ASÍ02O ZEGO20 Rocas aco aadoco Sotoco sanar tornar
+semana semana
+Óbitos esperados — — Óbitos esperados ——
+Intervalo de 95% de Confiança Intervalo de 95% de Confiança
+Óbitos observados — — Óbitos observados — —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EGIÃO SUL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eigura do) Paraná Eigura do) Rio Grande do Sul
+ê ê
+28
+E £8
+EE $g
+ê g g
+ãe ê
+Ed 2
+vao Matão ASÍ0RO 22020 aodcão aco aadoco sotoco sanar toras nado Matão ASÍ020 22020 Rodtão asozo aadoco sotoco sanar toras
+semana semana
+Óbitos esperados —— Óbitos esperados ——
+Intervalo de 95% de Confança Intervalo de 95% de Confança
+Óbitos observados — — Óbitos observados — —
+Eigura do Santa Catarina
+ê
+gs
+g
+E
+ê
+8
+8
+vebão adido ASÍ0IO ZEGO20 Rodcao asdoco aadoco sotoco sanar toras
+semana
+Óbitos esperados ——
+Intervalo de 95% de Confança
+óbitos observados ——
+
+ 
+
+ 
+
+ 
+
+ 
+
+15
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+EGIÃO CENTRO-OESTE
+
+Figura25
+
+Soo
+
+Distrito Federal
+
+Figura26
+
+ê
+
+Goiás
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 8
+é Gê
+8s 8
+gs” e.
+E 58
+zg E
+8 8
+vebão Matão AS4020 222020 aodcão asdozo audoco sotoco sanar toras nado Matão ASÍ020 22020 24020 asozo asdoco sotozo samar torcer
+semana semana
+Óbitos esperados —— Óbitos esperados — —
+Intervalo de 95% de Confiança Intervalo de 95% de Confiança
+Óbitos observados — — Óbitos observados — —
+Eigura di] Mato Grosso Figura28 Mato Grosso do Sul
+s
+8
+8 8
+5º á
+8 8
+a g
+Ê EB
+ês ê
+8 8
+vebão Matão ASÍ0IO 22020 Rodcao asd aadoco sotoco sanar toras vebão aOGãO ASÍ02O 22020 24020 asozo asdoco Sotozo saia torcer
+semana semana
+Óbitos esperados —— Óbitos esperados ——
+Intervalo de 95% de Confiança Intervalo de 95% de Confiança
+Óbitos observados — — Óbitos observados — —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16
+
+ 
+Na ausência de medidas específicas de prevenção (vacinas) e tratamento
+(medicamentos), restam duas principais frentes de ação para minimizar danos e reduzir
+a mortalidade na população.
+
+O primeiro conjunto de estratégias requer o investimento em ações preventivas que
+busquem reduzir a transmissão do vírus na comunidade.
+
+Nesse contexto, destacam-se as medidas de vigilância epidemiológica, incluindo
+ampla testagem, busca ativa de casos para promover o isolamento e o rastreamento de
+contatos com recomendação de quarentena. Essas medidas visam quebrar as redes de
+transmissão comunitária da infecção.
+
+Em conjunto com as medidas de vigilância epidemiológica, deve-se lançar mão das
+medidas não farmacológicas (por exemplo, uso de máscaras, manutenção do
+distanciamento físico, restrição da mobilidade e da taxa de contato entre pessoas, entre
+outras ações).
+
+Reduzir a transmissão é uma forma efetiva de reduzir a carga da mortalidade, já
+que a diminuição dos níveis de transmissão leva à redução do número de casos e, por
+conseguinte, do número de casos que evoluirão para formas graves da doença e,
+eventualmente, morte.
+
+A segunda frente envolve a preparação do sistema de saúde para prover atenção
+imediata e adequada ao doente. Nesse contexto destacam-se a oferta de recursos
+humanos treinados e em quantidade suficiente, leitos hospitalares e de UTI,
+medicamentos de suporte (anestésicos, corticoides e relaxantes musculares, por
+exemplo), oxigênio e ventiladores mecânicos, entre outros insumos. Uma adequada
+assistência ao paciente com Covid-19 é um elemento central para a redução da
+letalidade dos casos sintomáticos (case-fatality rate).
+
+O excesso de mortalidade não permite uma estimativa direta do número das mortes
+que poderiam ser evitadas. Isso se dá porque apenas parte do excesso de mortes
+durante a pandemia de Covid-19 poderiam ser, de fato, evitadas, na medida em que não
+existem medidas de prevenção e tratamento que sejam 100% eficazes.
+
+Ainda assim, uma parcela substancial do excedente de mortes poderia ser evitada
+com a implementação de medidas não farmacológicas amplas, duradouras e intensas,
+em conjunto com ações de vigilância de casos e contatos e testagem sistemática e
+oportuna da população.
+
+O quanto do excesso de mortalidade poderia ter sido reduzido com o uso amplo
+de medidas não farmacológicas de prevenção em associação com ações de
+testagem e vigilância epidemiológica depende de uma avaliação de qual seria a
+efetividade dessas medidas.
+
+Não restam dúvidas que essas medidas reduzem os níveis de transmissão,
+simplesmente porque elas limitam as oportunidades de transmissão, já que para uma
+infecção respiratória se propagar há a necessidade de contato próximo entre pessoas.
+Assim, qualquer medida que reduza o contato entre pessoas (por exemplo, isolamento,
+quarentena, proibição de agrupamentos em ambientes fechados) terá um efeito de
+reduzir a transmissão.
+
+17
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Argumentos contrários ao uso de medidas não farmacológicas não encontram base
+no conhecimento sobre a dinâmica de transmissão de doenças respiratórias e podem
+gerar, portanto, ações inapropriadas para o enfrentamento da pandemia de Covid-19.
+
+Afalta de implementação de medidas não farmacológicas tem como resultado o
+aumento e/ou manutenção da transmissão, gerando novos casos e mortes. Em
+termos objetivos, a opção deliberada por esse tipo de conduta tem um efeito de
+contribuir para a promoção da transmissão e suas consequências principais, as
+hospitalizações e as mortes.
+
+Existe uma gama reduzida de estudos em revistas internacionais de excelência que
+estimam o efeito de múltiplas medidas não farmacológicas. Dentre esses estudos
+destacam-se dois, publicados nas duas mais respeitadas revistas científicas do mundo,
+a Science e a Nature.” 8
+
+Os dois artigos avaliaram a efetividade das medidas não farmacológicas com base
+
+em dados de diferentes países. O artigo da Nature? analisou dados de seis países e
+concluiu que o uso combinado e ampliado de medidas não farmacológicas reduziu a
+transmissão de SARS-CoV-2 entre 15% a 38% por dia, evitando cerca de 54 a 65
+milhões de casos confirmados de Covid-19 nesses países apenas nos primeiros três
+meses da pandemia. Nesse período, os países estudados tinham relatado menos de
+500 mil casos confirmados, isto é, o uso das medidas restritivas reduziu em cerca de
+100 vezes o número de casos que poderiam ter ocorrido.
+
+Já o artigo da Science” coletou dados de 41 países e conclui que a proibição de
+agrupamentos de mais de dez pessoas associado ao fechamento de serviços não
+essenciais, escolas e universidades e recomendações de “ficar em casa” podem reduzir a
+transmissão em cerca de 75% (redução do número de reprodução da infecção básico — R,
+— de 3.3 para 0.8), promovendo um impacto substancial na evolução da pandemia.
+
+O Brasil não fez uso sistemático de medidas não farmacológicas rígidas e
+ampliadas, mas utilizou-se dessas ferramentas de forma restrita, variada e com baixa
+intensidade. 1º Com base nos dados do artigo da Science”, estima-se que o uso dessas
+medidas no Brasil, da forma incompleta como foram implementadas (equivalente ao
+fechamento parcial de escolas e do comércio e restrição de grandes aglomerações),
+teria conseguido reduzir o R, de 3.3 para apenas cerca de 1.3 em média, contribuindo
+para manutenção da transmissão em níveis compatíveis com o que tem sido observado.
+
+7 Brauner JM, Mindermann S, Sharma M, Johnston D, Salvatier J, Gavenêiak T, Stephenson AB, Leech G, Altman G, Mikulik
+V, Norman AJ, Monrad JT, Besiroglu T, Ge H, Hartwick MA, Teh YW, Chindelevitch L, Gal Y, Kulveit J. Inferring the
+effectiveness of government interventions against COVID-19. Science. 2021 Feb 19;371(6531):eabd9338. doi: 10.1126/
+science.abd9338.
+
+* Hsiang S, Allen D, Annan-Phan S, Bell K, Bolliger 1, Chong T, Druckenmiller H, Huang LY, Hultgren A, Krasovich E, Lau P,
+Lee J, Rolf E, Tseng J, Wu T. The effect of large-scale anti-contagion policies on the COVID-19 pandemic. Nature. 2020
+Aug;584(7820):262-267. doi: 10.1038/541586-020-2404-8.
+
+º Barberia L, Moraes T, Kemp B, Paiva V, Veras MASM. O agravamento da situação em São Paulo exige políticas mais
+rígidas para enfrentar a COVID-19. Mas o zigue-zague do governo não interrompe a expansão do vírus e mantém o estado
+de SP como o epicentro da pandemia no país. Boletim 29. Rede Pesquisa Solidária, 2021. https://
+redepesquisasolidaria.org/wp-contentiuploads/2021/04/boletimpps-29-16abril2021 pdf
+
+10 Hallal PC, Victora CG. Overcoming Brazil's monumental COVID-19 failure: an urgent call to action. Nat Med. 2021 May 6.
+doi: 10.1038/541591-021-01353-2.
+
+18
+Ou seja, O excesso estimado de 305 mil Óbitos jà representaria o impacto da Covid-
+19 considerando que essas medidas parciais e de baixa intensidade foram
+implementadas, ainda que de forma inconsistente no território nacional. Com base
+nessas análises, pode-se inferir que medidas não farmacológicas intensas, se tivessem
+sido aplicadas de forma sistemática no país, poderiam ter reduzido ainda mais os níveis
+de transmissão da Covid-19 (R,de 1.3 para 0.8, redução relativa de cerca de 40%) e,
+por conseguinte, o número de casos de Covid-19 e óbitos no país.
+
+Assumindo-se uma redução relativa de 40% na transmissão com a implementação
+de medidas mais restritivas, pode-se admitir que em torno de 120 mil mortes poderiam
+ter sido evitadas no Brasil se uma política efetiva de controle baseada em ações não
+farmacológicas tivesse sido implementada.
+
+Deve-se salientar que essa quantidade estimada de óbitos que poderia ter sido
+evitada assume uma série de condições, entre elas, uma relação direta entre redução da
+transmissão e número de mortes e efeitos similares das intervenções em diferentes
+locais e tempo.
+
+Vale salientar que esse exercício diz respeito apenas ao efeito das medidas não
+farmacológicas. Ações de organização da assistência à saúde na atenção básica,
+incluindo vigilância epidemiológica, e nos cuidados hospitalares, incluindo profissionais,
+leitos e equipamentos de UTI, poderiam contribuir para uma redução ainda maior dos
+óbitos em excesso.
+
+Além disso, deve-se considerar também, para fins de cálculo adequado das mortes
+evitáveis, equívocos da política de negociação e aquisição de vacinas e a falta de um
+plano de imunização efetivo, completo e articulado com os diferentes entes
+federativos.
+
+Se esses erros tivessem sido evitados e o país pudesse ter contado com vacinas
+para Covid-19 em quantidade suficiente e disponíveis em tempo oportuno, uma parcela
+adicional dos óbitos observados no ano de 2021 também poderia ter sido evitada.
+
+Mortes evitáveis por ações e serviços de saúde
+
+O conceito de “mortalidade evitável” por ações e serviços de saúde deriva da noção
+de mortes “desnecessárias”, que não ocorreriam com o acesso a cuidados médicos
+oportunos e eficazes. !2
+
+Em relação à Covid-19 buscou-se contemplar as duas dimensões (acesso e
+qualidade). Isso serve como um marcador que destaca o desempenho de um sistema
+de saúde, embora tenha suas limitações.
+
+Para isso foram incluídos dados da Pesquisa Nacional por Amostra de Domicílios/
+PNAD-Covid-19, realizada pelo IBGE, por telefone, em todo território nacional. A PNAD-
+Covid-19, dentre outros objetivos, objetivou estimar o número de pessoas com sintomas
+
+" Werneck GL, Bahia L, Scheffer M. Baixa cobertura vacinal e desafios do plano nacional de imunização contra a COVID-
+19 no Brasil. Boletim 28. Rede Pesquisa Solidária, 2021. https/redepesquisasolidaria.org/wp-content/uploads/2021/03/
+boletimpps-28-12marco2021 pdf
+
+'2 Rutstein DD, Berenberg W, Chalmers TC, Child CG, Fishman AP, Perrin EB. Measuring the quality of medical care. N
+Engl J Med 1976;294:582-8.
+
+19
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+associados à sindrome gripal, bem como o acesso a testes diagnósticos da doença.
+Nesta pesquisa foram extraídas e sintetizadas informações relativas aos testes para
+diagnóstico referentes ao intervalo de tempo de ocorrência da pesquisa (julho a
+novembro de 2020).
+
+Outra fonte de informação para a realização desta pesquisa foi o banco de dados do
+SIVEP-Gripe, disponibilizado pelo Ministério da Saúde, que traz dados de óbitos e
+internações de pessoas com quadro de Síndrome Respiratória Aguda Grave (SRAG),
+incluindo os casos de Covid-19. Apresenta dados detalhados sobre hospitalizações e a
+evolução dos casos de SRAG em todo o Brasil, independentemente da natureza jurídica
+do estabelecimento.
+
+Além destes, o banco de dados do Cadastro Nacional dos Estabelecimentos de
+Saúde (CNES), que contém informações sobre a estrutura de todos os
+estabelecimentos de saúde do Brasil, também foi utilizado para a realização da presente
+pesquisa.
+
+Dados do banco de internações por SRAG, que inclui os casos de Covid-19, no
+período compreendido entre janeiro e dezembro de 2020 (dados obtidos em 29 de
+março de 2021), foram relacionados com o Cadastro Nacional de Estabelecimentos de
+Saúde (CNES) e assim propiciaram avaliar o acesso a unidades hospitalares, os
+padrões assistenciais por natureza jurídica dos estabelecimentos, bem como
+características da oferta de hospitais.
+
+Inicialmente foram excluídos os casos de SRAG por Influenza ou SRAG por outros
+agentes respiratórios. Neste estudo foram incluídos apenas os casos cuja classificação
+final foi SRAG por Covid-19, que é dada por um dos seguintes critérios: clínico, clínico-
+epidemiológico, clínico-imagem, laboratorial e laboratorial em indivíduo assintomático.
+
+Segundo a PNAD Covid-19, pesquisa realizada pelo IBGE entre maio e novembro
+de 2020, considerando o primeiro mês e o último dos dados disponíveis, dentre o total
+de pessoas que relataram sintomas associados à síndrome gripal, a maioria era de cor/
+raça negra (58,8% e 54,4%, respectivamente).
+
+Para tentar compreender as interações entre as diversas condições que
+determinaram as mortes entre os internados por Covid-19, foi realizada uma análise
+múltipla (que inclui mais de uma variável explicativa) por meio de modelos de regressão
+logística.
+
+A regressão logística binária é uma técnica estatística que permite modelar um
+desfecho dicotômico (neste caso, óbito por Covid-19 — sim ou não), utilizando potenciais
+variáveis que possam contribuir para a explicação do desfecho. Um resultado obtido
+imediatamente a partir dessa regressão é a razão de chance (ou odds ratio — OR), que
+permite estimar a chance de ocorrência de morte para os níveis da variável, em relação
+à categoria de referência.
+
+20
+Acesso a testes diagnósticos
+
+As maiores disparidades no acesso, de acordo com a PNAD Covid-19, referem-se
+aos testes diagnósticos. Ainda que tenha crescido entre julho e novembro de 2020, a
+proporção da população que teve acesso a testes (todos os tipos) manteve-se inferior
+àquela que seria desejável para o controle da pandemia (Figura 29).
+
+O uso de exames diagnósticos foi maior para mulheres, a partir de agosto de
+2020, e para os mais jovens em todos os meses da pesquisa do IBGE (Figuras 29 e
+30). Deve-se considerar que o acesso à testagem em profissionais de saúde (cujo
+perfil etário é de adulto jovem) pode ter contribuído para o predomínio de testes na
+faixa entre 30 e 59 anos.
+
+As desigualdades no uso de testes ficam explícitas quando se decompõe o acesso
+por raça/cor, escolaridade e renda (Figuras 31, 32 e 33). No mês de novembro, as
+pessoas situadas na faixa de renda acima de quatro salários mínimos consumiram quatro
+vezes mais testes do que o segmento populacional que vive com menos de meio salário
+minimo.
+
+Figura 29: Percentual de pessoas que fizeram algum teste
+para saber se estavam infectadas pelo SARS-CoV-2 no total da população (%)
+Sexo. Pnad-Covid — Brasil, 2020
+
+ 
+
+%
+16,0
+
+ 
+
+ 
+
+14,0
+
+12,0
+
+ 
+
+10,0
+
+ 
+
+ 
+
+80
+
+80
+
+ 
+
+ 
+
+40
+
+2,0
+
+ 
+
+0,0
+
+ 
+
+Julho Agosto Setembro Outubro Novembro
+Mês de 2020
+
+m— Total =-—= Homem — =-—= Mulher
+
+ 
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+ 
+
+ 
+
+291
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Figura 30: Percentual de pessoas que fizeram algum teste
+para saber se estavam infectadas pelo SARS-CoV-2 no total da população (%)
+Faixa etária. Pnad-Covid — Brasil, 2020
+
+ 
+
+ 
+
+%
+20,0
+
+ 
+
+ 
+
+180
+
+ 
+
+160
+
+14,0
+
+ 
+
+120
+
+ 
+
+ 
+
+10,0
+
+ 
+
+80
+
+80
+
+ 
+
+40
+
+ 
+
+ 
+
+|
+
+20
+
+ 
+
+0,0
+Julho Agosto Setembro Outubro Novembro
+
+Mês de 2020
+
+m— Total mm 0a 9 anos == 10 a 19 anos mm 20 a 29 anos
+
+m— 30a59anos ==— 60 anos ou mais
+
+ 
+
+Figura 31: Percentual de pessoas que fizeram algum teste
+para saber se estavam infectadas pelo SARS-CoV-2 no total da população (%)
+Cor/Raça. Pnad-Covid — Brasil, 2020
+
+ 
+
+ 
+
+%
+16,0
+
+ 
+
+14,0
+
+ 
+
+ 
+
+12,0
+
+ 
+
+10,0
+
+80
+
+ 
+
+ 
+
+80
+
+ 
+
+40
+
+ 
+
+20
+
+ 
+
+ 
+
+0,0
+Julho Agosto Setembro Outubro Novembro
+
+Mês de 2020
+
+— Total mm Branca =— Negra
+
+ 
+
+22
+
+ 
+
+ 
+Figura 32: Percentual de pessoas que fizeram algum teste
+para saber se estavam infectadas pelo SARS-CoV-2 no total da população (%)
+Grau de instrução. Pnad-Covid — Brasil, 2020
+
+ 
+
+ 
+
+%
+30,0
+
+ 
+
+25,0
+
+ 
+
+ 
+
+20,0
+
+ 
+
+15,0
+
+10,0
+
+0,0
+
+ 
+
+ 
+
+ 
+
+Julho Agosto Setembro Outubro Novembro
+
+Mês de 2020
+
+— Total =-—=— Sem instrução ao fundamental incompleto === Fundamental completo ao médio incompleto
+
+m— Médio completo ao superior incompleto =-=—= Superior completo ou pós-graduação
+
+ 
+
+ 
+
+Figura 33: Percentual de pessoas que fizeram algum teste
+para saber se estavam infectadas pelo SARS-CoV-2 no total da população (%)
+Rendimento. Pnad-Covid — Brasil, 2020
+
+ 
+
+ 
+
+%
+35,0
+
+ 
+
+30,0
+
+ 
+
+ 
+
+25,0
+
+ 
+
+20,0
+
+15,0
+
+ 
+
+10,0
+
+0,0
+
+ 
+
+ 
+
+ 
+
+Julho Agosto Setembro Outubro Novembro
+
+Mês de 2020
+
+=== Menos de Y> mínimo salário === “ a menos de 1 salário mínimo ==— 1 a menos de 2 salários minimos
+
+mem 2a menos de 4 salários mínimos meme 4 ou mais salários mínimos
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+ 
+
+ 
+
+23
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Mortes associadas à Covid-19 no
+sistema de saúde (pacientes hospitalizados)
+
+Parte dos estudos sobre pacientes hospitalizados com Covid-19 se volta a
+comparações dos pacientes que tiveram acesso a unidades de terapia intensiva e, entre
+esses, aqueles que receberam suporte ventilatório mecânico.
+
+Além de propiciar balizamentos sobre padrões assistenciais, essas análises
+contribuem para aprimorar critérios para adoção de distintas estratégias de ventilação e
+intubação. Em uma amostra de alguns dos maiores estudos epidemiológicos de
+pacientes com Covid-19, a taxa de ventilação mecânica invasiva para pacientes
+admitidos em UTIs variou entre 29,1% e 89,9%. !º
+
+Uma revisão sistemática! sobre características e resultados das internações por
+Covid-19 sinalizou uma taxa de admissão na UTI de 21% e ventilação mecânica para
+69% dos casos. A mortalidade na UTI foi de 28,3% e de 43% para aqueles com
+ventilação mecânica. Contudo, tais parâmetros internacionais devem ser tomados
+apenas como indicativos, uma vez que as taxas encontradas em estudos para diferentes
+países e mesmo para cidades da mesma região são díspares.
+
+Aapresentação de informações sobre as mortes de pacientes hospitalizados no Brasil,
+nesta Nota Técnica do Alerta Covid-19, objetiva avaliar acesso e eventuais desigualdades nos
+desfechos do tratamento de pacientes considerando a rede pública, privada e filantrópica.
+
+O foco recai sobre a possível trajetória dos casos graves de Covid-19 no interior de
+estabelecimentos que registram pacientes hospitalizados segundo o banco de dados do
+SIVEP-Gripe (internações e óbitos por SRAG), buscando apreender características
+individuais (demográficas e status de saúde) dos pacientes em diferentes contextos
+institucionais.
+
+ATabela 2 sintetiza a distribuição institucional e uso de UTI e ventilação mecânica de
+pacientes hospitalizados por Covid-19. Os estabelecimentos públicos deram suporte a
+quase 50% dos casos que requereram internação, enquanto os outros 50% ficaram
+divididos, quase que igualmente, entre os privados (24%) e filantrópicos (26%).
+
+Entre as internações em estabelecimentos públicos, 26% foram em UTI, nas quais 64,8%
+dos pacientes receberam ventilação mecânica invasiva (intubação). Em estabelecimentos
+empresariais a proporção de internação em UTI foi bem maior 40,2% e menor a proporção
+dos intubados 35,9%. O perfil da rede filantrópica, na qual 35,4% foram internados em UTle,
+destes, 49,4% intubados, mostrou-se mais próximo ao da rede empresarial.
+
+Os dados disponíveis sobre a distribuição de internações em leitos, leitos de UTI e
+intubação não permitem afirmar diferenciais de acesso ou da qualidade dos cuidados
+para ventilação mecânica por natureza jurídica, em função de contratos e convênios
+entre órgãos executivos com estabelecimentos privados e filantrópicos.
+
+A oferta de leitos em UTI para a maioria da população é menor do que aquela
+alocada para clientes de planos privados de saúde. Ainda assim é plausível supor
+retenção para o ingresso em UTI na rede pública e, consequentemente, maior
+necessidade de suporte ventilatório mecânico (intubação).
+
+13 Wunsch, Hannah. Mechanical ventilation in COVID-19: interpreting the current epidemiology. Am J Respir Crit Care Med
+Vol 202, Iss 1, pp 1-4, Jul 1, 2020.
+
+4 Chang R, Elhusseiny KM, Yeh YC, Sun WZ. COVID-19 ICU and mechanical ventilation patient characteristics and
+outcomes-A systematic review and meta-analysis. PLoS One. 2021 Feb 11;16(2):e0246318.
+
+24
+ 
+
+Tabela 2: Taxas de pacientes hospitalizados por Covid-19 em unidades de terapia
+intensiva (UTI) e ventilação mecânica (VM), segundo natureza jurídica dos
+estabelecimentos — Brasil, 2020
+
+Entidades
+Admistração %UTI Entidades %UTI semfins % UTI
+pública eVM empresariais e VM lucrativos e VM Total Ya
+
+Hospitalizados 278.898 138.417 148.294 565.609
+UTI 74.564 26,74 55.754 40,28 52.540 3543 182.925 32,34
+Ventilação Mecânica 48.315 64,80 20.054 3597 25.970 4943 94.339 51,63
+% Hospitalizados 49,91 24,47 26,22
+
+Considerando características demográficas dos pacientes hospitalizados, observa-se
+um ligeiro diferencial para homens (55%), paridade em relação raça/cor (51% negros,
+amarelos e indígenas) e concentração nas faixas etárias acima de 50 anos.
+
+Contudo, a heterogeneidade do acesso em termos institucionais (natureza jurídica
+do estabelecimento) é marcante. Estabelecimentos públicos concentraram a internação
+de negros, amarelos e indígenas (66,1%) enquanto nos empresariais e filantrópicos
+predominou o acesso de brancos, com 58,8% e 67,2%, respectivamente. A participação
+de negros, amarelos e indígenas nas internações na rede pública é praticamente o
+dobro, quando comparada aos estabelecimentos privados ou filantrópicos.
+
+A distribuição das internações por faixa etária não foi muito diferente entre os tipos
+de estabelecimentos, com a faixa 50 a 69 anos sendo a de maior proporção de
+hospitalizados, com quase 40%. É possível destacar que, nas entidades empresariais,
+existe uma proporção um pouco maior entre os internados entre 20 e 49 anos (30,2%)
+do que nos outros estabelecimentos, com proporção em torno de 25% (Tabela 3).
+
+Tabela 3: Características sociodemográficas dos pacientes hospitalizados por
+Covid-19 (n=567.626) segundo natureza jurídica dos estabelecimentos — Brasil, 2020
+
+Administração Entidades Entidades sem
+Variáveis pública empresariais fins lucrativos
+(n=278.898) (n=138.417) (n=148.294)
+
+Sexo
+
+Feminino 44,4% 43,7% 44,2%
+
+Masculino 55,6% 56,3% 55,8%
+Cor/Raça
+
+Branca 33,9% 58,8% 67,2%
+
+Negra, Indígena e Amarela 66,1% 41,2% 32,8%
+Faixa etária
+
+0a 19 anos 2,9% 1,5% 1,9%
+
+20 a 49 anos 24,5% 30,2% 25,7%
+
+50 a 69 anos 39,0% 37,0% 39,5%
+
+>=70 anos 33,5% 31,3% 32,9%
+Total 100,0% 100,0% 100,0%
+
+* 2.017 internações sem informação da natureza jurídica do hospital.
+
+25
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Aletalidade hospitalar por Covid-19, isto é, Óbitos entre os que foram hospitalizados,
+foi maior nos estabelecimentos públicos (42%) do que nos empresariais (28%) e
+filantrópicos (31%). O diferencial entre instituições públicas e as demais se mantém
+quando consideradas as letalidades na UTI e entre os intubados (Tabela 4).
+
+Tabela 4: Letalidade de pacientes com Covid-19 hospitalizados em leitos e
+em UTIs, com ventilação mecânica (VM),
+segundo a natureza jurídica do estabelecimento (n=567.626) — Brasil, 2020
+
+E Geral *  Letalidade Letalidade
+Alta Óbito Total Letalidade UTI VM
+Administração pública 145.073 105.703 250.776 42% 66% 83%
+Entidades empresariais 89.475 34.263 123.738 28% 46% 74%
+Entidades sem fins lucrativos 96.058 43.388 139.446 31% 54% 75%
+Sem informação 901 1.009 1.910 53% 71% 84%
+Total 331.507 184.363 515.870 36% 57% 79%
+
+* Calculados apenas para os desfechos Alta ou Óbito, excluindo 51.756 casos sem informação de desfecho.
+
+Uma vez que o paciente esteja hospitalizado, a cor/raça e o sexo não parecem
+interferir na letalidade. A proporção de óbitos foi praticamente a mesma entre homens e
+mulheres e entre brancos e entre negros, amarelos e indígenas.
+
+Existem, entretanto, diferenciais na magnitude da letalidade, que ficou próxima dos
+40%, na rede pública, e de 30%, entre os estabelecimentos privados e filantrópicos, para
+todas as categorias de raça/cor e sexo.
+
+Em relação à faixa etária, observa-se um gradiente esperado, conforme aumenta a
+idade. A letalidade, no entanto, é maior entre os hospitalizados na rede pública. A
+diferença entre os tipos de instituição reduz quando comparada à letalidade na UTl e à
+letalidade daqueles que foram intubados (Tabela 5).
+
+26
+Tabela 5: Letalidade de pacientes com Covid-19 hospitalizados em leitos, em UTIs, com ventilação mecânica (VM), segundo variáveis
+
+Variáveis
+
+Sexo
+
+Feminino
+
+Masculino
+Cor / Raça
+
+Branca
+
+Negra, Indígena e Amarela
+Faixa etária
+
+0ai9anos
+
+20 a 49 anos
+
+50 a 69 anos
+
+>=70 anos
+
+Administração pública
+
+Alta Óbito Total
+(n=145. n=105. (n=250.
+073) 703) 776)
+
+66.183 44.654 110.837
+78.844 61.028 139.872
+
+40.089 29.393 69.482
+74.328 56.622 130.950
+
+6019 708 6.727
+47350 12.112 59.462
+59.094 39.123 98.217
+32.610 53.760 86.370
+
+Leta-
+
+Leta-
+lidade
+
+lidade na UTI
+
+40%
+4M%
+
+42%
+43%
+
+1%
+20%
+40%
+62%
+
+65%
+67%
+
+65%
+68%
+
+27%
+46%
+64%
+80%
+
+Leta-
+lidade
+VM
+
+82%
+83%
+
+81%
+84%
+
+49%
+68%
+82%
+91%
+
+Entidades empresariais
+
+Alta Óbito Total
+(n=89. (n=34. (n=123.
+475) 263) 738)
+
+38.934 15.035 53.969
+50.532 19.224 69.756
+
+34.946 14.062 49.008
+23.445 9.608 33.053
+
+1.640 110 1.750
+33.859 3.224 37.083
+34.656 10.845 45.501
+19.320 20.084 39.404
+
+* Calculados apenas para os desfechos Alta ou Óbito, excluindo 51.756 casos sem informação de desfecho.
+
+27
+
+Leta-
+lidade
+
+28%
+28%
+
+29%
+29%
+
+6%
+9%
+24%
+
+51%
+
+Leia-
+lidade
+na UTI
+
+47%
+
+46%
+
+48%
+49%
+
+13%
+20%
+42%
+67%
+
+Leta-
+lidade
+VM
+
+75%
+
+TA%
+
+73%
+78%
+
+40%
+49%
+70%
+88%
+
+sociodemográficas e natureza jurídica do estabelecimento (n=567.626) — Brasil, 2020
+
+Entidades sem fins lucrativos
+
+Alta
+(n=96.
+058)
+
+43.141
+52.910
+
+55.412
+25.058
+
+2.302
+31.459
+39.952
+22.345
+
+Óbito Total
+(n=43. (n=139.
+388) 446)
+
+18.509 61.650
+24875 77.785
+
+25.173 80.585
+13.000 38.058
+
+193 2495
+3926 35.385
+15.184 55.136
+24.085 46.430
+
+Leta-
+
+Leta- lidade
+
+lidade na UTI
+30% 54%
+32% 54%
+31% 54%
+M% 57%
+8% 20%
+11% 29%
+28% 51%
+52% N%
+
+Leta-
+lidade
+VM
+
+75%
+76%
+
+75%
+77%
+
+4%
+53%
+72%
+87%
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Aletalidade dos pacientes hospitalizados por unidades da Federação foi acima de
+30% para os 26 estados e Distrito Federal. Quando avaliados os estabelecimentos
+públicos, os estados do Espírito Santo e Sergipe se destacam com uma letalidade
+altíssima, de 73%.
+
+Aletalidade na rede privada tendeu a ser menor do que nos estabelecimentos
+públicos, com exceção da maioria dos estados da região Norte, que se situaram em
+patamares similares ou até um pouco maiores do que os verificados para o setor
+público. No estado de Roraima, a letalidade em estabelecimentos privados atingiu 89%
+(Tabela 6).
+
+Tais diferenciais de letalidade, especialmente os desfavoráveis para a rede pública
+ou privada de determinados estados, requerem detalhamentos posteriores.
+
+Aletalidade hospitalar depende fundamentalmente da gravidade das condições
+clínicas no momento da internação e é plausível supor que os pacientes que acorreram
+à rede pública possuíssem um perfil de maior risco do que os que tiveram acesso a
+instituições privadas e filantrópicas.
+
+Por outro lado, será relevante jogar luzes sobre as estruturas assistenciais e a
+qualidade de determinadas instituições, inclusive privadas e filantrópicas, considerando
+informações sobre quantidade e qualificação dos profissionais de saúde, o que, por ora,
+não está disponível.
+
+28
+Tabela 6: Letalidade de pacientes com Covid-19 hospitalizados em leitos, em UTIs e
+com ventilação mecânica (VM), segundo UF e natureza jurídica do estabelecimento
+(n=567.626) — Brasil, 2020
+
+Administração pública Entidades empresariais Entidades sem fins lucrativos
+UE (n=250.776) (n=123.738) (n=139.446)
+: Letalidade Letalidade : Letalidade Letalidade : Letalidade Letalidade
+Letalidade na UTI vM Letalidade naUTI vM Letalidade ha UTI vM
+
+RO 42% 69% 85% 55% 69% 87% 12% 36% 81%
+AC 37% 65% 66% 38% | 100% 100%** 98% | 100% E
+
+AM 37% 74% 85% 42% 74% 88% 21% 43% 74%
+RR 49% 80% 90% 89% 92% 90% E E E
+PA 44% 72% 83% 38% 79% 87% 36% 65% 86%
+AP 31% 65% 83% 48% 33% — 100%** | 56% 60% PANO
+TO 44% 76% 81% 39% 76% 85% 42% 75% 92%
+MA 59% 74% 86% 39% 64% 83% 95% 83% | 100%
+PI 34% 69% 86% 29% 69% 87% 48% 72% 89%
+CE 48% 69% 81% 36% 62% 81% 39% 61% 81%
+RN 47% 74% 89% 35% 58% 84% 42% 70% 88%
+PB 45% 74% 90% 35% 67% 88% 75% 89% 95%
+PE 48% 73% 82% 34% 63% 75% 37% 60% 78%
+AL 48% 79% 92% 37% 68% 88% 48% 77% 92%
+SE 73% 91% 93% 47% 59% 79% 57% 66% 81%
+
+BA 51% 63% 89% 26% 40% 78% 34% 59% 83%
+MG 35% 64% 75% 23% 45% 70% 34% 57% 77%
+
+ES 73% 75% 93% 33% 40% 73% 58% 70% 89%
+RJ 57% PANO 89% 40% 49% 81% 40% 52% 81%
+SP 34% 60% 77% 22% 38% 67% 27% 48% 70%
+
+PR 30% 54% 78% 22% 50% 70% 32% 61% 80%
+sc 36% 53% 68% 22% 47% 67% 28% 57% 70%
+RS 39% 63% 79% 28% 51% 63% 31% 57% 77%
+MS 33% 72% 81% 21% 59% 76% 30% 64% 75%
+MT 36% 73% 83% 18% 37% 79% 16% 61% 85%
+Go 39% 64% 85% 33% 53% 79% 39% 58% 82%
+DF 30% 69% 80% 20% 31% 72% 61% 81% 88%
+
+* Calculados apenas para os desfechos alta ou óbito, excluindo 51.756 casos sem informação de desfecho.
+** Foi registrado apenas 1 caso de internação e óbito em UTI no Acre e no Amapá em entidade empresarial.
+
+29
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+O número de óbitos associados à Covia-19 em pronto-atendimento ou pronto-
+socorro de 20.642 expressa a dramática e paradoxal situação das filas de espera (para
+pessoas com risco iminente de morte) para unidades hospitalares com UTI durante a
+pandemia. Foram mortes que ocorreram mais entre negros, indígenas e amarelos
+(13,1%) do que em brancos (9,2%) e se concentraram, quase exclusivamente, em
+estabelecimentos públicos (Tabela 7). Um triste somatório de pessoas com Covid-19
+que morreram enquanto aguardavam transferência em UPAs e emergências.
+
+Tabela 7: Óbitos por Covid-19 em unidades de pronto-atendimento (PA)
+ou pronto-socorro (PS), segundo natureza jurídica do estabelecimento
+(n=20.642) — Brasil, 2020
+
+Proporção de óbitos em PA
+ou PS por todos os óbitos
+
+Natureza jurídica a Cor/Raça
+
+E Óbitos Geral É =
+
+Branca Negra, Indígena
+PAouPS Geral” e Amarela
+
+Administração pública 20.205 105.703 191% 211% 18,0%
+Entidades empresariais 429 34.263 1,3% 11% 1,5%
+Entidades sem fins lucrativos 8 43.388 0,0% 0,0% 0,0%
+Total 20.642 183.354 11,3% 9,2% 13,1%
+
+*1.009 óbitos não têm informação sobre a natureza jurídica do estabelecimento.
+
+No que se refere ao status prévio de saúde, a distribuição das pessoas que
+internaram com e sem comorbidades (diabetes ou obesidade) é praticamente a mesma
+para os três tipos de instituições (naturezas jurídicas dos estabelecimentos). Um pouco
+mais da metade das pessoas internou sem obesidade nem diabetes. Em torno de 40%
+dos pacientes apresentaram pelo menos uma dessas comorbidades e quase 6% das
+pessoas internaram com as duas condições (Tabela 8).
+
+Tabela 8: Condições de saúde (Diabetes e Obesidade) dos internados por Covid-19,
+segundo natureza jurídica do estabelecimento — Brasil, 2020
+
+Administração Entidades Entidades sem
+
+Condições de saúde pública empresariais fins lucrativos Total
+(n=100.272)  (n=49.095)  (n=66.478)  (n=216.388)
+Não tem diabetes nem obesidade 51,1% 54,7% 53,4% 52,6%
+Tem diabetes ou obesidade 43,1% 40,1% 40,8% 41,7%
+Tem diabetes e obesidade 5,8% 5,2% 5,7% 5,6%
+Total 100,0% 100,0% 100,0% 100,0%
+
+30
+Observa-se um gradiente na letalidade conforme o aumento do número de
+comorbidades (diabetes e obesidade), selecionadas entre aquelas associadas com
+desfechos desfavoráveis.!* Entretanto, após a internação na UTI ou intubação, a
+letalidade passa a ser equivalente para os grupos sem e com comorbidades.
+
+As letalidades na administração pública são um pouco maiores do que nos outros
+tipos de estabelecimentos, chegando a 50% entre quem tem as duas comorbidades,
+contra 40% e 42%, nas entidades empresariais e nas entidades sem fins lucrativos,
+respectivamente. Quando consideradas as letalidades em UTI e entre os intubados, as
+proporções de óbitos foram maiores na administração pública do que nos outros tipos de
+estabelecimentos, que apresentaram valores bem similares (Tabela 9).
+
+Tabela 9: Letalidade de pacientes com Covid-19 hospitalizados em leitos, em UTIs, com ventilação mecânica (VM), segundo
+condições de saúde (Diabetes e Obesidade) e natureza jurídica do estabelecimento — Brasil, 2020
+
+Administração pública
+
+Entidades empresariais
+
+Entidades sem fins lucrativos
+
+Variáveis Alta Óbito Total Leta- Leta- Alta Óbito Total Leta- Leta Alta Óbito Total Leta-  Leta-
+(n=92 n=59. (n-152 Leta lidade lidade (n=49. (n=19 (n-68 Leta- lidade lidade (n=77. (n=34. (n=11t. Leta- lidade lidade
+386) 773) 159) lidade naUT] VM 510) 330) 840) lidade naUTI VM 354) 514) 868) lidade naUT VM
+Não tem diabetes nem obesidade 26.365 20.994 47.359 44% 68% 83% 16.920 7.619 24539 31% 50% 76% 21443 12.902 33.745 36% 59% 78%
+Tem diabetes ou obesidade 21.427 18.838 40.265 47% 69% 85% 11.800 6.178 17.978 34% 53% 77% 16001 9.860 25.861 38% 59% 78%
+Tem diabetes e obesidade 2683 2721 5404 50% 70% 85% 1.951 96 2267 40% 56% 80% 21 1584 3645 42% 60% 78%
+
+* Calculados apenas para os desfechos alta ou óbito, excluindo 51.756 casos sem informação de desfecho.
+
+*4 Vas, Prashanth, et al. “Diabetes, obesity and COVID 19: a complex interplay.” Diabetes, Obesity and Metabolism 22.10 (2020): 1892-1896.
+
+31
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Para melhor compreensão do fenômeno, tendo em vista as realidades diferentes,
+optou-se por realizar um modelo de regressão logística para os casos internados em
+estabelecimentos públicos, e outro para os casos internados em estabelecimentos
+privados e filantrópicos. Foram consideradas as seguintes variáveis: sexo, raça/cor, faixa
+etária, existência de comorbidades, internação em UTI e necessidade de ventilação
+mecânica.
+
+Tabela 10: Regressão logística do SRAG-COVID
+desfecho óbito: administração pública
+
+ 
+
+95% 1.C. para OR
+
+Naridueio o Inferior Superior
+Sexo Masculino 1,27 1,22 1,32
+Feminino 1
+Raça/Cor Negra, Indígena e Amarela 1,17 1,13 1,22
+Branca 1
+Faixa etária 0a 19 anos 1
+20 a 49 anos 1,19 1,59 2,37
+50 a 69 anos 3,90 3,21 4,75
+>=70 anos 10,26 8,44 12,49
+Comorbidade Não tem 1
+Tem diabetes ou hipertensão 1,05 1,02 1,09
+Tem diabetes e hipertensão 1,16 1,07 1,26
+UTI Sim 2,34 2,24 2,43
+Não 1
+Ventilação mecânica Sim 8,37 7,95 8,82
+Não 1
+
+*OR = Odds ratio ou razão de chance
+
+No modelo de regressão logística para pacientes internados com o desfecho óbito na
+administração pública (Tabela 10), observa-se que os homens têm 27% mais chance de
+morrer do que as mulheres (OR = 1,27). Pessoas da raça negra, indígena e amarela
+tiveram 17% mais chance de morrer do que brancas.
+
+Foi 19% maior a chance de morrer entre os internados com 20 a 49 anos, em relação
+aos que têm de 0 a 19 anos. Já entre os internados com 50 a 69 anos, a chance de
+morrer foi 3,90 vezes maior, em relação aos que tem O a 19 anos. A chance de morrer foi
+10,26 vezes maior entre os internados com mais de 70 anos, em relação aos que têm 0 a
+19 anos. Ter diabetes e hipertensão aumentou a chance de morrer por Covid-19 em 16%.
+Quem se internou em UTI morreu 134% mais. Foi 8,37 vezes maior a chance de morrer
+se usou suporte ventilatório invasivo.
+
+32
+Tabela 11: Regressão logística do SRAG-COVID desfecho óbito:
+entidades empresariais ou entidades sem fins lucrativos
+
+95% I.C. para OR
+
+Variáveis OR : E
+Inferior Superior
+Sexo Masculino 1,20 1,16 1,24
+Feminino 1
+Raça/Cor Negra, Indígena e Amarela 1,13 1,09 1,18
+Branca 1
+Faixa etária 0a 19 anos 1
+20 a 49 anos 1,83 1,43 2,35
+50 a 69 anos 3,91 3,07 4,99
+>=70 anos 12,77 10,02 16,27
+Comorbidade Não tem 1
+Tem diabetes ou hipertensão 0,99 0,96 1,02
+Tem diabetes e hipertensão 1,10 1,01 1,19
+UTI Sim 2,78 2,67 2,89
+Não 1
+Ventilação mecânica Sim TAZ 6,85 7,51
+Não 1
+
+"OR = Odds ratio ou razão de chance
+
+Para os pacientes internados em estabelecimentos privados ou filantrópicos, com o
+desfecho óbito (Tabela 11), observa-se que a chance de morrer foi 20% maior para o
+sexo masculino em relação ao feminino. Foi 13% maior a chance de morrer entre os
+pacientes negros, indígenas e amarelos. Os pacientes de 20 a 49 anos tiveram um
+aumento de 83% de chance de óbito, em relação aos que têm O a 19 anos, enquanto
+entre os internados com 50 a 69 anos, foi 3,91 vezes maior a chance de morrer, também
+em relação aos mais jovens. Entre os internados com mais de 70 anos, a chance de
+morrer foi 12,77 vezes maior, em relação aos que têm 0 a 19 anos. Ter as comorbidades
+diabetes e hipertensão aumentou a chance de morrer por Covid-19 em 10%. Internar em
+UTI aumenta em 178% a chance de morrer. Se usou suporte ventilatório invasivo, a
+chance de morrer é 7,17 vezes maior.
+
+É importante ressaltar que o resultado do modelo utilizado é dependente das
+variáveis utilizadas. As magnitudes dos efeitos podem ser diferentes do apresentado,
+por conta de alguma variável não incluída nesta regressão.
+
+33
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Considerações Finais
+
+Políticas de controle da transmissão da Covid-19 e relacionadas ao atendimento
+aos pacientes foram incorretas, tardias, insuficientes e intermitentes. Houve falhas na
+coordenação das ações e no provimento de recursos e insumos estratégicos para a
+saúde e concessão de apoios financeiros e redução de tarifas a pessoas e famílias bem
+como oferta de créditos e empréstimos a empresas. Omissões conjugadas com ações
+equivocadas do governo federal impediram a adoção de bloqueios com estratégias
+populacionais e uma melhor organização dos serviços de saúde.
+
+A responsabilidade de evitar mortes na pandemia compete aos governos nacionais.
+No Brasil, a recusa às orientações para mitigar casos e mortes impediu poupar vidas.
+Aproximadamente 120 mil mortes, entre as que ocorreram até o final de março de 2021,
+poderiam ter sido evitadas por medidas não farmacológicas para o controle da
+transmissão na comunidade.
+
+Profissionais de saúde, trabalhadores expostos a ambientes com ar rarefeito e
+aglomerações, pessoas vivendo em instituições asilares e prisionais, povos indígenas,
+quilombolas e ribeirinhos e habitantes de favelas e periferias e morbidades prévias
+deveriam ter sido prioritariamente protegidas.
+
+O hiato de tempo entre a declaração pela OMS da emergência internacional (30 de
+janeiro de 2020) pelo novo coronavírus e os primeiros casos no Brasil (final de fevereiro
+e início de março) não foi devidamente aproveitado para organizar respostas de
+supressão e mitigação da transmissão.
+
+O país atravessa uma pandemia há mais de um ano e três meses sem implementar
+as ações necessárias para enfrentar a disseminação do novo coronavírus. O desprezo
+do governo pelas vidas impediu realizar campanhas sanitárias informativas, mobilizar a
+solidariedade social (convocação de movimentos sociais, igrejas, empresas, mídias e
+instituições de ensino e pesquisa), prover máscaras de boa qualidade, testes para
+rastreamento e aquisição de vacinas.
+
+Em função da condução desastrosa das respostas à pandemia, casos inicialmente
+localizados em determinadas cidades de regiões metropolitanas entre fevereiro e abril
+de 2020 se disseminaram para cidades de médio porte no interior entre julho e
+setembro. A partir de fevereiro e março de 2021 o país apresentou um padrão
+simultâneo e sustentado de casos e óbitos no território nacional, com aumento de
+mortes em faixas etárias mais jovens.
+
+As estimativas fundamentadas em cálculos sobre excesso de óbitos e impactos de
+medidas populacionais sugerem que pelo menos 120 mil mortes, até o final de março de
+2021, poderiam ter sido evitadas se uma política efetiva de controle baseada em ações
+não farmacológicas tivesse sido implementada. A eficiência da transmissão depende de
+condições ambientais tais como densidade populacional e mobilidade social, por sua vez
+determinadas por condições de vida e trabalho, que são construções sociais e como tal
+podem dar lugar a outros modos de sociabilidade.
+
+Outro contingente significativo de mortes evitáveis, embora também de difícil
+dimensionamento, são aquelas que poderiam não ter ocorrido pela efetiva atuação da
+rede básica de serviços de saúde, ou seja, incluindo testes, monitoramento de casos,
+providências para autoisolamento e referenciamento ágil para hospitais de qualidade.
+
+34
+O acesso a testes para detecção de casos e contatos, que deveriam permanecer
+isolados para buscar reduzir o potencial de transmissão foi extremamente rarefeito e
+desigual em termos de raça/cor e renda, uma inversão entre necessidades e obtenção
+de cuidados inadmissível, especialmente durante uma pandemia.
+
+Haveria ainda a possiblidade de poupar vidas de pacientes hospitalizados, mas a
+letalidade depende também da virulência do patógeno, da capacidade de induzir ou não
+resposta do sistema imunológico e da vulnerabilidade dos pacientes (idade, fatores
+genéticos, comorbidades e acesso tempestivo a serviços de boa qualidade).
+
+A sistematização e análise de dados relativos apenas a fatores institucionais
+relacionados ao sistema de saúde não admite inferências sobre mortes que poderiam
+ter sido evitadas por ações e serviços de saúde. Entretanto, o presente estudo detectou
+indícios que relacionam falta de acesso a hospitais com possíveis mortes evitáveis. Mais
+de 20 mil pessoas morreram em unidades de atendimento pré-hospitalar ou
+emergências, especialmente na rede pública. Seria imprudente ter um cálculo preciso de
+quantas vidas seriam poupadas se essas pessoas tivessem acesso a hospitais e
+unidades de terapia intensiva. Mas é importante afirmar que as informações sugerem
+retenção do acesso e que as mortes em instalações de urgência e emergência não
+foram igualmente distribuídas. Ocorreram especialmente na população que buscou a
+rede pública, integrada por uma maior proporção de negros e pessoas com menor
+status de renda e possivelmente mais vulneráveis.
+
+Entre as pessoas internadas, a letalidade foi diferenciada segundo raça/cor e
+natureza institucional dos estabelecimentos de saúde. A escassez de leitos bem como
+deficiências na estrutura da capacidade instalada e de recursos humanos nas unidades
+hospitalares e UTI no país não podem ser diretamente relacionadas com as mortes com
+os dados disponíveis. Mas as letalidades muito elevadas em estados da Região Norte,
+inclusive na rede privada e ainda em estados das regiões Sudeste e Nordeste na rede
+pública, requerem novos estudos.
+
+A Nota Técnica do Alerta Covid-19 não contém provas, no sentido jurídico-legal do
+termo, mas avança e fundamenta hipóteses e estimativas sobre mortes evitáveis. O
+documento atesta que milhares de mortes poderiam ter sido evitadas por estratégias
+acertadas e coordenadas de enfrentamento da pandemia. Vidas singulares,
+insubstituíveis, foram perdidas, como se tivessem escorrido entre os dedos. Uma
+experiência histórica muito amarga. Muitos e muitas poderiam estar entre nós
+estudando, trabalhando, escrevendo, vivendo, enfim, e contribuindo para nos tornarmos
+um país mais solidário e igualitário.
+
+Esperamos que a CPI da Pandemia honre os brasileiros e brasileiras mortos pela
+Covid-19, ao atribuir responsabilidades e estimular projetos efetivamente regenerativos
+do tecido social rompido pela brutalidade do desprezo à vida.
+
+35
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Recomendações
+
+1. Plano de Responsabilização e Reparação
+
+A partir do relatório final e recomendações da CPI da Covid, propor um plano
+conjunto de Responsabilização e Reparação com participação de organizações não
+governamentais, Ministério Público, Defensorias Públicas, OAB, ONGs e outras
+instituições de defesa dos direito humanos.
+
+A partir dos registros da CPI sobre agentes e autoridades públicas que possam
+ser responsabilizadas pelas mortes evitáveis e pelo curso da pandemia no Brasil,
+implementar ações e medidas legais, junto a instâncias nacionais e tribunais
+internacionais, conducentes à responsabilização, criminalização e reparação coletiva.
+
+2. Frente Nacional de enfrentamento da Covid-19 no Brasil
+
+Que o Senado Federal recomende a convocação de uma Frente Nacional, em
+caráter urgente e excepcional, para enfrentamento da pandemia no âmbito do Sistema
+Único de Saúde, com representação multisetorial e interpoderes, incluindo o Congresso
+Nacional, poder Judiciário, Ministério da Saúde, conselhos de secretários estaduais e
+municipais de Saúde, Conselho Nacional de Saúde, comunidade científica e
+representantes da sociedade civil.
+
+Sugere-se um comitê técnico de especialistas ligado à Frente Nacional para
+revisar o planejamento, diretrizes, critérios e implementação de ações contra a
+Covid-19, considerando inclusive os desdobramentos da pandemia para os anos de
+2021 a 2028.
+
+A Frente Nacional deve traçar metas e monitorar o cumprimento das seguintes
+ações e políticas:
+
+a) Fortalecimento das ações de vigilância epidemiológica, incluindo aquisição de
+testes para identificação de casos e rastreio prospectivo e retrospectivo de contatos;
+
+b) Investimentos em pesquisas, desenvolvimento e produção de recursos
+estratégicos para a saúde, incluindo equipamentos de proteção individual, equipamentos
+hospitalares, medicamentos e vacinas;
+
+c) Participação em redes científicas e consórcios internacionais para garantir acesso a
+vacinas para a imunização da população brasileira em 2021 e nos próximos anos;
+
+d) Reforço da vigilância genômica mediante aporte de recursos para ampliar a
+capacidade de testagem e sequenciamento de vírus;
+
+e) Revisão do Plano Nacional de Imunização contra a Covid-19, assegurando a
+maior oferta de vacinas; rigor no cronograma, com metas claras de definição de grupos
+prioritários; alcance de pelo menos 90% de cobertura vacinal na população elegível para
+a imunização; elaboração de um Plano de Farmacovigilância visando gerenciamento de
+riscos, monitoramento da segurança e do uso da vacina;
+
+1) Revisão de políticas de testagem, prevenção, isolamento e outras medidas não
+farmacológicas adequadas ao momento atual e a contextos epidemiológicos futuros;
+
+36
+9) Aprimoramento do registro, coleta e divulgação de dados sobre casos e óbitos
+por Covid-19, incluindo informações sobre raça/cor, ocupação e outras variáveis
+essenciais para a compreensão das relações entre desigualdades sociais e mortes por
+Covid-19 no Brasil.
+
+3. Adequação da dimensão, abrangência e responsabilidades do
+Sistema Unico de Saúde aos atuais e futuros desafios epidemiológicos
+
+O principal legado da pandemia, para o Brasil e sua população, deve ser um SUS
+com amplo acesso e excelência na oferta de cuidados. O SUS sairá da pandemia
+reconhecido e prestigiado, ainda que suas lacunas e insuficiências tenham sido, mais do
+que nunca, reveladas.
+
+Para enfrentar os desafios sanitários contemporâneos é imprescindível assegurar
+um sistema de saúde do tamanho das necessidades do país, capaz de combinar ações
+de pesquisa com cuidados preventivos e assistenciais, bem com atrair para si os
+melhores profissionais.
+
+Para tanto é necessário estabelecer vínculos permanentes e virtuosos entre o
+sistema político e as políticas de saúde contemplando:
+
+a) Volume de financiamento adequado e progressivo do governo, tal como aprovado
+por diversos países, com critérios de alocação e avaliação transparentes e condizentes
+com as necessidades de saúde;
+
+b) Continuidade administrativa e profissionalização da gestão do SUS e das
+agências reguladoras da saúde, evitando que o SUS seja moeda de troca para a
+conformação de coalizões políticas ocasionais;
+
+c) Reconstrução e desenvolvimento da indústria farmacêutica e de produção em
+saúde nacional, articulando as necessidades do SUS com o sistema produtivo e
+tecnológico, usando o poder de compra do Estado para fortalecer o complexo
+econômico e industrial da saúde do país.
+
+A saúde como direito inscrito na Constituição de 1988 requer gestão competente e
+estável. Um SUS vigoroso, moderno e inovador é a melhor resposta do Brasil para os
+desafios do presente e do futuro.
+
+4. Criação do Memorial Nacional das Vidas Perdidas para a Covid -19
+
+O objetivo do Memorial online, como possível resposta da CPI da Covid, a ser
+executado pelo Senado Federal em parceria com entidades da sociedade civil, é
+homenagear as vítimas e, mediante medidas de reparação, impedir a repetição de
+tragédias humanitárias de cunho sanitário.
+
+O Memorial seria uma expressão de luto, indignação e reação coletiva. Visa honrar
+as perdas e suas circunstâncias dramáticas, tristes e desumanas vividas por milhares de
+familiares, amigos e cidadãos brasileiros.
+
+Trata-se de um tributo em respeito à dignidade de mais de 500 mil cidadãs e
+cidadãos, que não podem ser reduzidos a numerais.
+
+37
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+MATERIAL COMPLEMENTAR
+
+Os Anexos 1 e 2 da Nota Técnica Alerta Covid-19 contêm um conjunto
+de referências e informações que inspiraram a organização do trabalho e
+subsidiaram perguntas e reflexões. São aportes que não se correlacionam
+diretamente com as inferências sobre as mortes evitáveis.
+
+Estão apresentados, portanto, como apêndices que podem ser
+consultados, mas com as devidas cautelas. São informações e
+conhecimentos relevantes que, para fins das inferências sobre mortes
+evitáveis, ficaram apenas no pano de fundo das ilações apresentadas na
+Nota Técnica.
+
+No Anexo 1 constam três levantamentos sobre recursos e usos para o
+enfrentamento da Covid-1 9:
+
+1) sistematização da execução do orçamento da União para combate à Covid-
+19 alocado no Ministério da Saúde em 2020, evidenciando uma opção pela
+transferência de recursos financeiros a estados e municipios e não uso de
+verbas para desenvolver e adquirir testes e posteriormente vacinas, bem
+como pela renúncia ao papel de coordenar a rede pública assistencial;
+
+Il) levantamento do número de leitos de terapia intensiva, que contribui para o
+delineamento de tendências futuras, tais como o aumento absoluto do
+número de leitos na rede SUS e pequenas alterações no padrão de
+distribuição entre público e privado;
+
+HI) conjunto de informações referentes a vacinas e vacinação.
+
+O Anexo 2 se dedica a sintetizar trabalhos científicos correlatos aos
+esforços desenvolvidos para a elaboração da Nota Técnica. Ainda que nem
+todos tenham sido citados como referência bibliográfica, eles contribuem
+para estabelecer um balizamento no conhecimento sobre o tema mortes
+evitáveis. Foram considerados mais de 30 estudos que abordam, dentre
+outros temas, o excesso de mortes, os determinantes de mortalidade e os
+limites da vigilância em saúde sobre óbitos associdos à Covid 19 no Brasil e
+no mundo. O esforço de revisão da literatura, uma etapa incontornável à
+reflexão, não foi exaustivo, pois buscou apenas esquadrinhar balizamentos
+teóricos para fundamentar opções teóricas e metodológicas.
+
+38
+Anexo 1
+
+Recursos e usos para o enfrentamento da Covid-19
+
+ 
+
+Orçamento
+
+Os recursos financeiros e assistenciais para organizar respostas ao enfrentamento
+da Covid-19 no Brasil foram insuficientes e mal utilizados.
+
+Na Tabela 12, que relaciona gastos previstos e executados vinculados ao Ministério da
+Saúde, observa-se o não uso integral do orçamento disponível ao longo do ano de 2020.
+
+A diferença entre a previsão e a alocação concreta de despesas se concentra na
+rubrica aplicações diretas, exatamente aquela que, se executada, permitiria uma
+atuação coordenada do ente federal. Não foram mobilizados R$ 21,5 bilhões que
+poderiam ter suprido diretamente lacunas na prevenção e assistência relacionadas com
+a pandemia de Covid-19 em 2020.
+
+Os recursos de aplicação direta do ano de 2020 foram transferidos para 2021 e
+passaram a ser contabilizados como despesas previstas para a aquisição de vacinas.
+Uma postergação de cerca de 40% do orçamento disponível, sinalizando o mal uso de
+recursos financeiros no contexto de uma tragédia sanitária.
+
+Tabela 12: Gastos previstos e executados vinculados
+ao Ministério da Saúde — Brasil, 2020
+
+Natureza Despesas Despesas (%) Previsto/
+da despesa pagas (R$) previstas (R$) executado
+Equipamentos e material permanente 808.551.170  1.104.262.755 73,22
+Material de consumo 1.940.781.101 | 2.372.313.579 81,81
+Obras e instalações 87.454.204 107.994.114 80,98
+Transferências a estados e DF 8.992.243.750  9.879.467.894 91,02
+Transferências a municipios 23.138.074.724  23.328.393.365 99,18
+Aplicações Diretas 21.595.319.146 0,00
+Pessoa jurídica (serviços) 2212.768.239  2.686.858.602 82,36
+Pessoa física (outros auxílios e serviços de terceiros) 403.132.416 415.155.468 97,10
+Contratação por tempo determinado 15.026.764 277.260.654 5,42
+Auxílio financeiro a estudantes e pesquisadores 447. 118.800 519.734.941 86,03
+Outras despesas pessoal dec. contratos terceirizados 88.563.719 168.956.739 52,42
+Serviços de consultoria 30.940 1.487.470 2,08
+Serviços de tecnologia da informação e comunicação PJ 381.000 604.589 63,02
+Locação de mão-de-obra 34.712.649 49.718.150 69,82
+Passagens 3.817.092 5.091.593 75,86
+Diárias (pessoal civil e militar) 1.971.271 1.972.232 99,95
+Obrigações, subvenções contribuições,
+
+restituições e despesas anteriores 1814218490 1.488413.166 91,68
+Total 39.488.846.329  63.947.944.457 61,75
+
+Fonte: Ministério da Economia, Tesouro Transparente. Monitoramento dos Gastos da União com Combate à COVID-19, 2021
+
+39
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Instituições envolvidas e gastos com vacinas
+
+ATabela 13, elaborada com dados da mesma fonte e referentes ao ano de 2020,
+expõe a execução das despesas segundo destinatário. Observa-se que a alocação do
+orçamento para instituições envolvidas com vacinas não foi priorizada.
+
+Tabela 13: Despesas com Covid-19 do Ministério da Saúde em 2020,
+segundo Destinatário — Brasil, 2020
+
+Destinatário Valor em R$ %o
+
+Repasse a estados 8.356.338.364,32 21,07
+Repasse a municipios 22.353.293.124,39 56,36
+Fiocruz 2.571.819.842,34 6,48
+Opas 757.934.746,50 1,91
+Covax 830.895.256,59 2,1
+Ministério da Saúde 4.788.626.123,71 12,07
+Total 39.658.907.457,85* 100
+
+* valor distinto da tabela anterior e daquele divulgado pela fonte oficial em função de arredondamentos
+Fonte: Ministério da Economia, Tesouro Transparente. Monitoramento dos Gastos da União com Combate à Covid-19, 2021
+
+Em março e abril de 2021 estão registrados, entre outros gastos relacionados com a
+aquisição de vacinas, o pagamento de R$ 1.138.212.178,74 em março e R$
+2.285.378.189,60 em abril. Até maio foram executados 4,82% para a aquisição de
+vacinas. Nos quatro primeiros meses de 2021, a execução dos gastos com vacinas
+representa apenas 21,6% do total dos R$ 22,29 bilhões disponíveis para a aquisição de
+imunizantes.
+
+Orçamento do Ministério da Saúde
+
+A grande preocupação é não repetir em 2021 o que ocorreu em 2020. Em 2019 0
+orçamento do MS foi de R$ 114 bilhões. Em 2020 aumentou para R$ 150 bilhões, e, em
+2021, existe a ameaça de redução para R$ 125 bilhões, ou seja, uma previsão de
+gastos incompatível com a piora do quadro sanitário. O ministro da Economia já
+anunciou que gastos emergenciais com saúde ficarão fora do teto. Entretanto, não há
+como antecipar um planejamento para a preservação e expansão da oferta de ações e
+serviços de saúde sem estabilidade orçamentária.
+
+40
+VACINAS E VACINAÇÃO
+
+A mortalidade associada à Covid varia entre países principalmente em função dos
+diferentes esforços de mitigação da pandemia e da capacidade dos sistemas de saúde.
+Desde a aprovação sanitária, após concluídas as fases de ensaios clínicos, as vacinas
+contra a Covid-19 passaram a ser aplicadas e tornaram-se ferramentas eficazes para
+controlar a pandemia, sendo que as diferenças nas taxas de mortalidade mais recentes
+podem ser parcialmente explicadas por distintas políticas nacionais de imunização.
+
+Por certo, nenhuma vacina é 100% eficaz na prevenção da transmissão, do
+adoecimento e de mortes. Haverá uma pequena porcentagem de pessoas totalmente
+vacinadas que ainda assim ficarão doentes, serão hospitalizadas ou morrerão de Covid-
+19. Além disso, com a escassez mundial de vacinas e a lentidão da vacinação em vários
+países, a imunização, desde final de 2020, passou a ser a principal, mas não a única,
+medida populacional com perspectivas de redução das altas de taxas de mortalidade.
+
+Embora existam diferenças importantes nos perfis dos vários imunizantes
+disponíveis no mundo quanto ao percentual de eficácia de cada um para redução de
+mortes, o impacto da vacinação na redução de mortes já é evidente.
+
+Resultado da ampla vacinação, nos Estados Unidos, onde mais de 100 milhões de
+pessoas haviam sido totalmente imunizadas até final de abril de 2021, registrou-se a
+menor média de novas mortes relatadas desde julho de 2020 e uma queda de 80% no
+número de óbitos em relação a janeiro de 2021.
+
+No Reino Unido!, o NHS (sigla do sistema nacional de saúde) e a University of
+Manchester demonstraram uma grande diferença nos casos de admissões e mortes de
+idosos que foram vacinados em comparação com aqueles não imunizados. Outro
+estudo, do Imperial College London, concluiu que a vacinação no país está “rompendo a
+ligação entre infecções, mortes e internações hospitalares”.
+
+Já Israel?, que começou sua campanha de vacinação em dezembro de 2020 e
+desde então tem sido a nação líder mundial em número de doses per capita da
+população, chegou a zerar o número de mortes diárias por Covid-19 no final de abril
+de 2021.
+
+No Chile, que tem vacinação em estágio avançado, o Ministério da Saúde publicou
+em abril de 2021 relatório de efetividade da vacina Coronavac, a mais administrada no
+país, como ocorre no Brasil. Com a informação de 10,5 milhões de chilenos vacinados,
+a vacina havia demonstrado 80% de efetividade para prevenir mortes, 14 dias depois da
+segunda dose.
+
+Ou seja, a oferta de mais ou menos imunizantes e o ritmo maior ou menor da
+vacinação passam a ser determinantes para a capacidade dos países de reduzir o
+número de mortes associadas à Covid-19.
+
+No Brasil, a campanha nacional de vacinação contra a Covid-19 teve início dia 17
+de janeiro de 2021. Mas o plano de imunização do país, após mais de três meses, ainda
+era marcado por atrasos, improvisos, falhas e ausência de metas públicas objetivas.
+
+* https:/Awww.theweek.co .uk/952540/is-lockdown-or-vaccination-behind-drop-in-covid-deaths
+2 https://www.bbc.com/newsAworld-middle-cast-56868383
+
+ https:elpais. com/sociedad/2021-04-16/chile-asegura-que-la-vacuna-sinovac-tiene-un-80-de-efectividad-para-prevenir-muertes.html
+
+41
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Os principais obstáculos que impediam o Brasil em avançar podem ser agrupados em:
+1) quantidade insuficiente de vacinas e poucas opções de imunizantes adquiridos;
+
+2) inconsistência na escolha, definição e quantificação dos grupos populacionais
+prioritários;
+
+3) baixa cobertura vacinal;
+
+4) limitação e inadequação dos dados sobre a vacinação produzidos e divulgados pelo
+governo federal, estados e municípios.
+
+Até o dia 22 de maio de 2021, o Brasil contava com aproximadamente 83 milhões
+de doses de vacinas distribuídas, segundo o Ministério da Saúde”.
+
+Incertezas e revisões constantes acompanharam, desde o início da vacinação, o
+anúncio de novas doses contratadas, e entregas previstas foram constantemente
+canceladas.
+
+O documento Projeção de entregas de vacinas Covid- 19º produzido pelo
+Ministério da Saúde ressaltava, em 19 de maio de 2020, que os quantitativos
+anunciados poderiam sofrer alterações segundo “variáveis consideradas: não
+recebimento de insumos, questões logísticas e operacionais dos laboratórios, atraso
+nas entregas das doses pronta, e aprovação ainda pendente na Anvisa”. Ou seja, a
+imensa imprevisibilidade oficialmente assumida inviabilizava, ainda no final de maio de
+2021, qualquer projeção realista.
+
+Para o primeiro semestre, até junho de 2021, o quantitativo previsto compreendia
+quatro grupos de fornecedores:
+
+1) Vacinas prontas da AstraZeneca (Índia);
+2) Vacinas prontas do Consórcio COVAX Facility, da Organização Mundial da Saúde (OMS);
+
+3) Laboratórios públicos nacionais (Butantan/Fiocruz), com envasamento de vacinas a
+partir de insumos importados;
+
+4) Vacinas prontas do laboratório Pfizer — Biontech/EUA.
+
+Além das dificuldades de compra de vacinas prontas e de importação do IFA
+(insumo farmacêutico ativo) para o envasamento local, somavam-se ainda a indefinição
+acerca de quando os laboratórios da Fiocruz e do Butantan serão capazes de fabricar
+imunizantes com matéria-prima nacional.
+
+Em maio de 2021 o governo federal seguia anunciando a intenção de comprar
+milhões de doses adicionais, com datas de entrega não conhecidas ou pouco viáveis.
+Vacinas das empresas Bharat Biotech (Índia) e do Instituto Gamaleya (Rússia), ainda não
+aprovadas pela Anvisa, assim como vacinas da empresa Janssen, sem contrato de compra
+estabelecido, também compunham a projeção de entregas do Ministério da Saúde.
+
+Novas alternativas de compra de vacinas por estados, municípios e pelo setor
+privado, além de comporem nova legislação questionável dos pontos de vista político,
+operacional e ético, não se mostraram viáveis na prática.
+
+4 https:/ocalizasus.saude.gov.br/
+
+5 https:/Awww.gov.br/saude/pt-br/coronavirus/entregas-de-vacinas-covid-19
+
+42
+O Quadro 2 mostra que o Ministério da Saúde adquiriu e distribuiu apenas 82.6
+milhões de doses de vacinas até março de 2021.
+
+Quadro 2: Oferta de vacinas contra a Covid-19 no Brasil, segundo doses
+adquiridas e distribuídas pelo Ministério da Saúde de janeiro a março de 2021
+(em milhares)
+
+Vacinas Janeiro Fevereiro Março
+(Doses adquiridas e distribuidas) de 2021 de 2021 de 2021
+Covishield AstraZeneca (India) 2.000 1.999 —
+Covishield AstraZeneca (Brasil-Fiocruz) — — 4.187
+Coronavac - Sinovac (Brasil-Butantan) 7.307 4.853 23.809
+COVAX Facility (AstraZeneca/OPAS/OMS)* = 9.997 32.514
+Total 9.307 12.849 60.510
+
+Fonte: Ministério da Saúde. https:/Awww.gov.br/saude/pt-br/coronavirus/entregas-de-vacinas-covid-1 9/projecao-
+
+contratual-de-entregas-de-vacinas-covid-19-12-05-2021 .pdfview
+
+Dinâmica do processo de vacinação
+
+No Brasil, o Ministério da Saúde incluiu mais de 80 milhões de pessoas nos grupos
+populacionais prioritários a serem vacinados. Este número vem aumentando
+constantemente, inclusive por pressões políticas e corporativas, acrescentando
+demandas a uma oferta notoriamente escassa de vacinas.
+
+Um enorme contingente de pessoas foi acrescentado à demanda potencial para a
+vacinação. Somado aos grupos prioritários anteriores ainda por vacinar, passaram a
+requerer uma oferta de vacinas muito superior à disponível. Foi ilusão supor que o Brasil
+avançaria nas coberturas vacinais somente porque um novo grupo passou a ser
+convocado, sem que as populações prioritárias anteriores tivessem sido efetivamente
+imunizadas.
+
+A ausência de metas claras no plano de imunização, com critérios inadequados de
+priorização, somou-se à persistente baixa disponibilidade de vacinas, às incertezas e
+revisões constantes, para menos, de quantitativos previstos.
+
+Assim, estabeleceu-se um padrão de improvisos e pulverização da distribuição de
+doses no país, sem que coberturas vacinais mínimas fossem alcançadas.
+
+A dinâmica da vacinação para Covid-19, em função das características das vacinas
+e dos grupos prioritários, não poderia ter sido orientada apenas por um calendário de
+sucessão de dias, idades, condições de saúde e profissões. Exigiria o cumprimento de
+metas de coberturas para obtenção de níveis de imunidade suficientes para reduzir a
+mortalidade.
+
+Doses distribuídas e administradas são informações fundamentais, mas só fazem
+sentido como estratégia de enfrentamento da pandemia se forem acompanhadas por
+coberturas definidas e metas alcançadas.
+
+Sem fluxos mais organizados para a vacinação, sem campanhas de comunicação
+visando a convocação e a busca ativa de quem não foi vacinado, a inclusão de novos
+grupos terminou por impedir ou dificultar o acesso dos grupos prioritários ainda não
+imunizados ou com coberturas parciais.
+
+43
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Como consequência, foram registradas mais mortes que poderiam ter sido evitadas
+pela imunização.
+
+A Figura 34 evidencia que quase quatro meses depois do início da vacinação contra
+Covid-19 no Brasil, a cobertura vacinal entre idosos, e na maioria dos demais grupos
+prioritários, ainda era insuficiente.
+
+No dia 11 de maio de 2021, com aproximadamente 46 milhões de doses aplicadas
+no país, 68% da população de 60 a 69 anos tinham recebido a primeira dose da vacina e
+apenas 16% a segunda dose; de 70 a 79 anos, 90% receberam uma dose e 67%
+completaram a segunda dose; e dentre aqueles com 80 anos e mais, 91% foram
+vacinados com a primeira dose e 53% com a segunda dose. Ou seja, quase metade dos
+que têm acima de 80 anos, faixa etária menos numerosa e convocada prioritariamente,
+ainda não foi completamente imunizada com as duas doses.
+
+Figura 34: Coberturas vacinais com uma dose e com duas doses,
+segundo grupo prioritário — Brasil, 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TIA
+
+Pessoas Trabalhadores Povos Pessoas de Pessoasde Pessoasde Pessoas de Povos e
+com de Saúde indígenas +80anos 75-79anos 70-74anos 60-69anos Comunidades
++60 anos vivendo em tradicionais
+institucionalizadas terras indígenas Ribeirinhas
+Quilombolas
+
+ 
+
+EE Cobertura pelo menos 1 dose EE Cobertura com 2 doses
+
+ 
+
+ 
+
+ 
+
+Nota: Dados de janeiro até 11 de maio de 2021.
+
+44
+Leitos de UTI
+
+Houve significativo aumento de leitos de UTI. Entre março de 2020 e março de
+2021, o número total de leitos para terapia intensiva passou de cerca de 67 mil para
+quase 100 mil.
+
+O crescimento da rede SUS foi mais pronunciado que o registrado para os leitos
+reservados para clientes de planos de saúde e particulares (61% e 36%). Essa
+significativa expansão, contudo, não alterou padrões anteriores de desigualdade entre os
+setores público e privado.
+
+A Tabela 14 expõe incrementos na rede SUS superiores à da rede denominada Não
+SUS. A participação dos leitos Não SUS aumentou na região Norte e as alterações na
+divisão público-privado nas regiões Nordeste e Sudeste foram discretas. As regiões que
+concentraram relativamente maior aumento de leitos SUS foram a Sul e a Centro-Oeste.
+
+Tabela 14: Distribuição dos leitos SUS e Não SUS
+por região geográfica — Brasil, 2020-2021
+
+Março de 2020 Março de 2021 Variação (%)
+
+Região SUS NãoSUS %SUS SUS NãoSUS % SUS SUS Não SUS
+Norte 2.637 1.251 67,82 3.871 3.421 53,09 46,80 173,46
+Nordeste 7.731 6.695 53,59 12.562 9.377 57,26 62,49 40,06
+Sudeste 14.324 19.075 42,89 22520 24.997 47,39 57,22 31,05
+
+Sul 5.450 4.298 55,91 9.050 4838 65,16 66,06 12,56
+Centro-Oeste 2.265 3.642 38,34 4307 4.995 4630 90,15 37,15
+
+Total 32.407 34.961 48,10 52.310 47.628 52,34 61,42 36,23
+Fonte: DataSUS. Cadastro Nacional de Estabelecimentos de Saúde, 2021
+
+Na Figura 35, observa-se que o aumento de leitos de terapia intensiva para a rede
+SUS parece ter correspondência com fases de maior transmissão, casos e óbitos em
+2020 e inclusive no período mais recente, entre fevereiro e março de 2021.
+
+Figura 35: Leitos terapia intensiva SUS e óbitos acumulados
+por mês (Março de 2020 a Março de 2021)
+
+ 
+
+70.000
+
+ 
+
+60.000
+
+ 
+
+50.000
+
+ 
+
+40.000
+
+ 
+
+30.000
+
+20.000
+
+ 
+
+10.000
+
+ 
+
+ 
+
+ 
+
+Mar Abr Mai Jun Jul Ago Set Out Nov Dez Jan Fev Mar
+2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2021 2021 2021
+
+ 
+
+ 
+
+meme [eitos SUS meme Óbitos acumulados no mês
+
+ 
+
+45
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Palo A
+Resenha de estudos relevantes sobre os determinantes
+
+das mortes associadas à Covid-19 no Brasil e no mundo
+
+ 
+
+Desde o início da epidemia, estudos vêm sendo divulgados e evidências têm sido
+produzidas sobre o excesso de mortes, os determinantes de mortalidade e os limites da
+vigilância epidemiológica sobre óbitos associadas à Covid 19 no Brasil e no mundo. O
+objetivo aqui foi realizar uma revisão preliminar, não exaustiva, na qual foram
+considerados, ao final, mais de 30 trabalhos que abordam esses temas.
+
+Há artigos publicados em revistas prestigiosas. Outra parte da produção consultada
+está disponível apenas em servidores de preprint, ou seja, não foram ainda avaliados
+por pares nem publicados em um periódico acadêmico. E alguns poucos foram
+divulgados pelos autores apenas diretamente na mídia leiga comercial.
+
+Assim, a diversidade de abordagens, de métodos e de critérios de divulgação
+adverte para o caráter ainda provisório deste conhecimento até agora acumulado.
+
+Os índices de letalidade por Covid-19 (mortes proporcionais ao número de
+habitantes) são diferentes quando comparados entre países, entre uma região e outra
+do mesmo país, entre municípios ou até entre distritos e bairros de uma mesma cidade.
+
+Há muitas causas para essas disparidades. Os territórios podem passar por
+estágios e momentos distintos da epidemia; há diferenças demográficas e nas
+condições prévias de saúde das populações; os sistemas de saúde locais podem estar
+mais ou menos preparados e equipados; e os aspectos econômicos e a vulnerabilidade
+social em cada lugar também são diferenciados.
+
+Nas comparações entre países, as medidas preventivas e populacionais que foram
+ou não adotadas para conter a epidemia são determinantes para caracterizar porque
+tantas mortes ocorreram em um lugar e não em outro.
+
+As decisões e as políticas sobre investimentos no sistema de saúde, o
+distanciamento social, a vigilância epidemiológica e a capacidade de realizar testes e
+vacinação impactam na mortalidade.
+
+Depois de um ano desde o início da pandemia, há fortes evidências de que os
+países que apostaram em medidas de prevenção populacionais e iniciaram mais
+rapidamente e amplamente a vacinação conseguiram atrasar ou controlar a
+disseminação do novo coronavírus, ao mesmo tempo em que aliviaram a pressão sobre
+seus sistemas de saúde e reduziram infecções e mortes.
+
+Os países com vacinação mais adiantada, com maior proporção da população
+imunizada já nos primeiros meses de 2021, registraram redução no volume de óbitos e
+dos casos que demandam internações. Onde a cobertura vacinal ainda é limitada, no
+entanto, a imunização inicial foi menos efetiva na diminuição do ritmo da infecção e do
+número de casos.
+
+Sobretudo antes do início da vacinação, as medidas de isolamento social e
+testagem permitiram — e ainda permitem — que os países conquistem um tempo
+precioso para preparar seus sistemas de saúde, adquirir produtos essenciais, como
+equipamentos de proteção individual, ventiladores e testes de diagnóstico, além de
+apressar os trabalhos de aquisição de imunizantes e planejamento da vacinação.
+
+46
+Em junho de 2020, a revista científica Nature! já divulgava que as medidas de
+confinamento tinham sido diretamente responsáveis por evitar 3,1 milhões de mortes em
+países europeus, incluindo Espanha, França, Itália e Reino Unido, que implantaram com
+êxito desde o lockdown nacional até restrição de deslocamentos, proibição de eventos
+públicos e fechamento de comércio e escolas.
+
+Cabe destacar que o novo coronavírus se disseminou em alguns locais antes do
+que em outros e, portanto, a diferença na mortalidade pode refletir os estágios da
+evolução da epidemia.
+
+Em nível individual, fatores de risco estão associados a um mau prognóstico. Idade
+e comorbidades (doenças cardiovasculares, cânceres, diabetes, obesidade, doenças
+pulmonares crônicas, entre outras) fazem aumentar muito o risco de morte. Portanto, os
+locais com maior proporção de idosos na população ou com maior incidência de
+comorbidades podem registrar mais óbitos.
+
+Na ausência ou insuficiência de vacinas que previnem o agravamento da doença,
+os pacientes que desenvolvem sintomas mais graves requerem internação, assistência
+respiratória de urgência e cuidados intensivos, o que leva à sobrecarga do sistema de
+saúde.
+
+Nesses casos, a maior mortalidade pode refletir também as desigualdades de
+acesso da população e de qualidade dos serviços de saúde, comuns a sistemas
+desiguais e estratificados, como o brasileiro — isso mesmo antes da pandemia.
+
+O desenvolvimento das formas graves da Covid-19 que levam a óbito, importante
+frisar, é um risco marcado por forte gradiente social, desigualmente distribuído na
+população. Há desequilíbrios na exposição ao vírus, na vulnerabilidade social frente à
+pandemia, na realização de testes e diagnóstico, na capacidade de as pessoas e as
+famílias seguirem medidas de isolamento e confinamento e no acesso e uso dos
+serviços de saúde.
+
+O número de óbitos varia, ainda, segundo os critérios de identificação e de
+classificação das causas das mortes.? Há possíveis distorções no cálculo da razão entre
+o número de óbitos e o número de casos confirmados, pois a precisão do registro da
+infecção pode variar em alguns locais. Pode haver diferença relevante entre o número
+real de pessoas infectadas e o número de casos confirmados. Significa que a triagem da
+população e o número de testes realizados afeta o denominador da razão entre o
+número de mortes e o número de casos confirmados, o que pode levar a limitações na
+contagem e no registro de óbitos.
+
+Também é importante lembrar que alguns fatores podem levar à subestimação da
+taxa de mortalidade. As “mortes ocultas”, como são chamadas, referem-se às pessoas
+que morrem por causa da Covid-19, mas que nunca foram testadas. Isso acontece
+quando não há testes suficientes, não há política pública de testagem ou quando os
+serviços de saúde estão sobrecarregados e nem sequer conseguem testar e tratar os
+pacientes que chegam, ou quando o óbito ocorre em casa, na fila de espera ou na rua,
+por total desassistência.
+
+! Kontis V, Bennett J, Rashid T, et al. Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19
+pandemic on all-cause mortality in 21 industri alized countries. Nature Medicine, 2020. (doi.org/10.1038/541591-020-1112-0)
+
+2 Leon DA, Shkolnikov VM, Smeeth L, Magnus P, Pechlokdová M, et Jarvis CI. COVID19: a need for real-time monitoring of
+weekly excess deaths. Lancet, 2020. 395(10234):e80-81
+
+47
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Além disso, uma pandemia com a amplitude da que acontece com a Covid-19 pode
+fazer aumentar mortes não ligadas ao vírus, ou “mortes indiretas”, por exemplo, devido
+ao adiamento de cirurgias, ao atraso de início de tratamentos ou à demora na busca de
+atendimentos de urgência.
+
+No Brasil, observa-se a ocorrência de grande número de óbitos de casos suspeitos
+de Covid-19 sem diagnóstico confirmado, impondo, assim, dois grandes desafios: como
+estimar o grau de subnotificação de óbitos associados à Covid e qual é o número real de
+mortes associada a essa causa.?
+
+Em um grupo de cidades brasileiras examinadas, a vigilância epidemiológica
+capturou apenas 52% de toda a mortalidade potencialmente associada à pandemia de
+Covid-19.4
+
+Em suma, taxas significativas de subnotificação de mortes no Brasil podem
+demonstrar que os números de mortes divulgados oficialmente são muito menores do
+que os reais.
+
+É fato que a pandemia de Covid-19 já matou e mata mais no Brasil do que em
+outros países. Proporcionalmente ao tamanho da população, ocorreram no Brasil mais
+mortes associados à Covid-19 em 2020 do que 89,3% de um conjunto de 178 países
+com dados compilados pela Organização Mundial de Saúde (OMS). Mesmo após a
+comparação desses registros ter sido ajustada à distribuição populacional por faixa
+etária e sexo em cada país, o resultado para o Brasil continua maior que os resultados
+de 94,9% dos países analisados.?
+
+Internamente, há diferenças espaciais e temporais na letalidade por Covid-19 entre
+os estados brasileiros.” O excesso de mortes no território nacional ocorreu de maneira
+ainda mais acentuada em Manaus, seguido por Fortaleza, Rio de Janeiro e São Paulo.8
+Há, no país, elevada porcentagem de mortes excedentes, de mortes não explicadas
+diretamente pela Covid-19 e de mortes fora do hospital, em via pública ou domicílio, o
+que confirma alta subnotificação de óbitos associados à Covid-19.4
+
+As desigualdades sociais e econômicas entre as regiões do Brasil têm papel
+decisivo na persistência do alto número de mortes, fator possivelmente mais
+determinante de óbitos do que a faixa etária e as comorbidades dos pacientes que foram
+a óbito.º
+
+3 FRANÇA EB, Teixeira RA, Ishitani LH, et al. Óbitos por COVID-19 no Brasil: quantos e quais estamos identificando? Rev
+Bras Epidemiol [online], 2020. v23: e200053 [cited 2021-05-02]
+
+4 Freitas ARR, Medeiros NM, Frutuoso LOV, et al. Tracking excess deaths associated with the COVID-19 epidemic as an
+epidemiological surveillance strategy-preliminary results of the evaluation of six Brazilian capitals. Rev Soc Bras Med Trop,
+2020. v53.
+
+5 Silva LV, et al. COVID-19 mortality underreporting in Brazil: analysis of data from government internet portals. Journal of
+Medical Intemet Research, 2020. 22(8): 621413.
+
+8 Hecksher. Marcos. MORTALIDADE POR COVID-19 E QUEDA DO EMPREGO NO BRASIL E NO MUNDO . Nota Técnica.
+Instituto de Pesquisa Econômica Aplicada (Ipea) Ano: 2021 https:/Amww.ipea.gov.br/portalimages/stories/PDFs/
+pubpreliminar/210514 nt mortalidade. emprego marcos hecksher public. preliminarpdf
+
+7 Souza CDF, Paiva JPS, Leal TC, et al. Evolução espaçotemporal da letalidade por COVID-19 no Brasil, 2020. Jornal
+Brasileiro de Pneumologia, 2020. 46(4).
+
+º Rocha R, Atun R, Massuda A, et al. Effect of sociosconomic inequalities and vulnerabilities on health-system
+preparedness and response to COVID-19 in Brazil: a comprehensive analysis. The Lancet Global Health, 2021
+
+48
+Na maior cidade do país, São Paulo, o risco de morte por Covid foi maior nas áreas
+com piores condições sociais.!º Efeitos distintos, porém associados, levam ao aumento
+da mortalidade, que foi maior na região Norte e nas populações de pretos e pardos.
+Desequilíbrios regionais de desenvolvimento socioeconômico e desigualdades de
+acesso aos serviços de saúde, segundo raça/cor, ajudam a explicar o fenômeno.
+
+Sobre o evidente maior impacto da pandemia na população negra, discute-se que
+no Brasil, por ter sido importado pelas classes média e alta, o vírus ajudou a forjar,
+equivocadamente, a noção de que a Covid-19 seria uma doença “democrática”, que
+atinge a todos e cujas consequências são igualmente sentidas.!'?
+
+Entre os adultos brasileiros internados com Covid-19, os pacientes pretos e pardos
+apresentaram maior mortalidade dentro do hospital, utilizaram menos recursos
+hospitalares e apresentaram condições de saúde potencialmente mais graves do que os
+pacientes brancos.!º
+
+Foram identificadas maiores chances de morte entre pessoas negras e obesas, e
+entre moradores de municípios menores, com pelo menos 100 mil habitantes.!* O
+aumento de mortes por problemas cardiovasculares! e aumento da mortalidade
+materna?? têm sido destacados como efeitos coadjuvantes do excesso de mortes
+associadas à Covid-19 no Brasil.
+
+Após o recrudescimento da epidemia, a partir de janeiro de 2021, cresceu o
+percentual de pacientes com menos de 60 anos mortos por Covid no Brasil,
+principalmente nos locais com maiores níveis de transmissão, maior número de casos e
+maior ocupação dos leitos de internação.!”
+
+No contexto de óbitos associados à Covid-19 sem assistência médica, sem entrada
+em serviço de saúde, observou-se que 28% das pessoas não tinham educação formal e
+53% apenas o ensino fundamental, o que deve ter contribuído para a dificuldade de
+acesso e consequente mortalidade acrescida. 'º
+
+'o Bermudi PMM, Lorenz C, Aguiar BS, et al. Spatiotemporal dynamic of COVID-19 mortality in the city of São Paulo, Brazil:
+
+shifting the high risk from the best to the worst socio-economic conditions. arXiv, 2020. arXiv preprint, 2008.02322.
+
+" Baqui P, Bica |, Marra V, et al. Ethnic and regional variations in hospital mortality from COVID-19 in Brazil: a cross-
+sectional observational study. The Lancet Global Health, 2020. 8(8):e1018-e1026.
+
+'2 Oliveira RG, Cunha AP, Gadelha AGS, et al. Desigualdades raciais e a morte como horizonte: considerações sobre a
+COVID-19 e o racismo estrutural. Cadernos de Saúde Pública, 2020. 36(9): 00150120
+
+'8 Peres IT, Bastos LSL, Gelli JG, etal. Sociodemographic factors associated with COVID-19 in-hospital mortality in Brazil.
+Public health, 2021. 192(5):15-20.
+
+'4 Andrade CLT, Pereira CCA, Martins M, et al. COVID-19 hospitalizations in Brazil's Unified Health System (SUS). PloS
+One, 2020. 15(12):60243126.
+
+'s Brant LCC, Nascimento BR, Teixeira RA, et al. Excess of cardiovascular deaths during the COVID-19 pandemic in
+Brazilian capital cities. Heart, 2020. 106(24):1898-1905.
+
+'8 Takemoto MLS, Menezes MO, Andreucci CB, et al. The tragedy of COVID 19 in Brazil: 124 maternal deaths and
+counting. International Journal of Gynacology & Obstetrics, 2020. 151(1):154-6.
+
+7 Mortes de pessoas com menos de 60 anos por Covid registram crescimento. Folha de S.Paulo, 19 de fevereiro de 2021.
+http://www 1 folha.uol.com.br/equilibrioesaude/2021/02/mortes-de-pessoas-com-menos-de-60-anos-por-covid-registra-
+crescimento.shtml
+
+'8 Souza PMM, Gerson G, Soares CEL, et al. COVID-19 Home Deaths without Medical Assistance in Northeastern
+Brazil. The American Journal of Tropical Medicine and Hygiene, 2020. tpmd201210.
+
+49
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Jã a mortalidade em geral de pacientes brasileiros internados com Covid-19,
+mesmo entre aqueles com menos de 60 anos, além de ser mais elevada em
+comparação com outros países, foi também agravada pelas disparidades regionais de
+oferta de leitos hospitalares e de recursos no sistema de saúde. !º
+
+Pesquisa?º mostrou que, dentre os pacientes com Covid internados em UTI, a taxa
+de mortalidade em hospitais privados foi de 19,5%, enquanto em hospitais públicos
+chegou a 38,5%, devido às condições de saúde dos pacientes admitidos, mas também
+às diferenças de desfechos relacionados à qualidade da assistência.
+
+A previsão da ascensão do número de mortes — acima de 400 mil em maio de
+2021- havia sido antecipada por estudos que consideraram fatores como a
+disseminação de variantes do vírus no país, o relaxamento no uso de máscaras e a não
+adesão ao distanciamento social.?!
+
+Outro estudo, de detecção precoce da sazonalidade da Covid-19, advertiu que, em
+novas ondas epidêmicas, o Brasil poderá atingir até cinco mil mortes por dia,
+considerando o comportamento dos vírus respiratórios de acordo com as condições
+ambientais.?
+
+As vacinas contra Covid-19 já vêm tendo um impacto significativo nas taxas de
+mortalidade entre certos grupos populacionais de países com campanhas de imunização
+mais adiantadas.
+
+As vacinas disponíveis no Brasil até maio de 2021 tinham eficácias que variavam de
+50% a 70% para prevenção de formas clínicas e graves da doença. Ou seja, são
+imunizantes que protegem os indivíduos contra doença grave e morte.
+
+A vacinação no Brasil fez diminuir mortes associads à Covid-19 de idosos com 80
+anos ou mais,?2 um grupo pouco numeroso e primeiramente convocado.
+
+Cem dias depois do início da vacinação contra Covid-19, a cobertura vacinal entre
+idosos ainda era insuficiente, o que tem como consequência a ocorrência de muitas
+mortes preveníveis pela imunização.
+
+Em 26 de abril, com aproximadamente 38,4 milhões de doses aplicadas no país,
+apenas 50% da população de 60 a 69 anos haviam recebido a primeira dose da vacina e
+somente 7% a segunda dose; de 70 a 79 anos, 89% receberam uma dose e 52%
+completaram a segunda dose; e dentre aqueles com 80 anos e mais, 91% foram
+vacinados com a primeira dose e 48% com a segunda dose.
+
+1º Ranzani OT, Bastos LSL, Gelli JGM, et al. Characterisation of the first 250 000 hospital admissions for COVID-19 in
+Brazil: a retrospective analysis of nationwide data. The Lancet Respiratory Medicine, 2021. 9(4):407-18.
+
+20 Projeto “UTIs Brasileiras”. Amib - Associação de Medicina Intensiva Brasileira. http://www.utisbrasileiras.com.br/o-projeto/
+
+21 Projeção do Instituto de Métricas e Avaliação em Saúde, Universidade de Washington, Estados Unidos. G1, 04 de abril
+de 2021. https:/g1.globo.com/bemestar/coronavirus/noticia/2021/04/04/universidade-de-washington-preve-100-mil-mortes-
+por-covid-19-no-brasil-no-mes-de-abril.ghtml
+
+22 Watanabe M. Detecção precoce da sazonalidade e predição de segundas ondas na pandemia de COVID-19. http://
+www. uff.br/?q=noticias/24-03-2021 /pesquisa-da-ufi-sobre-sazonalidade-da-transmissao-de-covid-19-preve-ate-5000
+
+28 Victora CG, Castro MC, Gurzenda S, Barros AJD. Estimating the early impact of immunization against COVID-19 on
+deaths among elderty people in Brazil: analyses of secondary data on vaccine coverage and mortality. BMJ.Preprint. https://
+www.medrxiv.org/content/10.1101/2021.04.27.21256187V1
+
+24 Werneck G et al. Após 100 dias de vacinação contra Covid-19 no Brasil, cobertura vacinal entre idosos é insuficiente e
+ainda há discordâncias nos critérios para a convocação de pessoas com comorbidades. Nota Técnica. 12 pags. UFRJ/USP.
+30/04/2021
+
+50
+Segundo projeções, a cada mês sem vacinação ampliada, o numero de novas mortes
+aumentará no Brasil. Estimou-se que aproximadamente 127 mil vidas poderiam ser
+salvas até o final de 2021 se o Brasil tivesse implementado vacinação em massa desde
+janeiro, o que requereria administração de cerca de dois milhões de doses por dia.
+
+Outra pesquisa? apontou que 150 mil mortes poderão ser evitadas no Brasil se
+50% da população estiver vacinada até junho de 2021.
+
+Em cenários projetados sobre o impacto da campanha de vacinação em São
+Paulo,2” mostrou-se que, se fosse duplicado o ritmo de distribuição das doses
+verificados em fevereiro de 2021, os percentuais de diminuição das mortes subiriam em
+66% com a vacina CoronaVac e em 74% com a vacina Covidshield.
+
+Enquanto persistir a escassez de vacinas, sem que o benefício coletivo da
+vacinação seja alcançado, e diante de altas taxas de transmissão, as medidas de
+distanciamento social deverão ser frequentemente acionadas.
+
+Embora o fracasso nacional seja evidente, onde essas medidas foram
+oportunamente decretadas por gestores estaduais e municipais, elas contribuíram para a
+redução localizada ou temporária de óbitos.
+
+Tanto a paralisação de atividades quanto o distanciamento social precoce e
+preventivo, além do planejamento e previsão de leitos de UTI em momentos de picos da
+epidemia, podem ter sido responsáveis pela diminuição localizada de óbitos.?º
+
+O mapeamento de normas jurídicas? que compuseram a resposta do governo
+federal à Covid-19, editadas entre março de 2020 e janeiro de 2021, indicou que o
+descontrole da pandemia e o aumento de mortes podem estar associados a atos
+normativos da União, incluindo a edição de normas por autoridades e órgãos federais e
+vetos presidenciais; a atos de obstrução às respostas dos governos estaduais e
+municipais à pandemia; e a propaganda contra a saúde pública, definida como “o
+discurso político que mobiliza argumentos econômicos, ideológicos e morais, além
+de notícias falsas e informações técnicas sem comprovação científica”.
+
+25 Amaku M, Covas DT, Massad, et al. Modelling the Impact of Delaying Vaccination Against SARS-CoV-2 Assuming
+Unlimited Vaccines.Supply. medRxiv (2021).
+
+26 Mortes por Covid-19 podem mais do que dobrar no segundo semestre no Brasil devido à vacinação lenta. https://
+oglobo.globo.com/sociedade/coronavirus/mortes-por-covid-19-podem-mais-do-que-dobrar-no-segundo-semestre-no-brasil-
+devido-vacinacao-lenta-24936784
+
+27 Vilches TN, Rubio FA, Perroni RAF, et al. 2021. Vaccination efforts in Brazil: scenarios and perspectives under a
+mathematical modeling approach https://www.medrxiv.org/content/10.1101/2021.02.22.21252208v1 .full.pdf
+
+28 Valenti VE, Menezes PL, Abreu ACG, et al. Social distancing measures may have reduced the estimated deaths related
+to Covid-19 in Brazil. Journal of Human Growth and Development. 2020. 30(2): 164-9.
+
+2º Ganem F, Mendes FM, Oliveira SB, et al. The impact of early social distancing at COVID-19 Outbreak in the largest
+Metropolitan Area of Brazil. medRxiv, 2020
+
+30 Mapeamento e análise das normas jurídicas de resposta à Covid-19 no Brasil. Boletim Direito na Pandemia, 2021. n 10.
+CEPEDISA/CONECTAS. hitps://cepedisa.org.br/publicacoes/
+
+51
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+Por fim, as taxas de mortalidade altas e desiguais no Brasil foram até agora
+resultado do comportamento do governo federal, ao combinar inação e irregularidades
+(como a promoção de medicamentos ineficazes), o que levou a respostas locais que
+variaram muito em forma, intensidade e duração. Somaram-se as desigualdades
+regionais, o impacto da pandemia desproporcionalmente maior entre os mais
+vulneráveis e as novas variantes do vírus potencialmente mais transmissíveis.?!
+
+Em síntese, essa foi uma revisão preliminar, não exaustiva, das principais
+produções de evidências científicas sobre os fatores determinantes da mortalidade
+associada à Covid-19 no mundo e no Brasil.
+
+3 Castro MC, Kim S, Barberia L, et al. Spatiotemporal pattem of covid-19 spread in Brazil. Science. online14 apr 2021. doi;
+10.1126/science.abh1558
+
+52
+Manifesto do Movimento Alerta, publicado em maio de 2020
+
+RSRS]
+RSS ONT R AS
+
+PELAS MORTES EVITÁVEIS
+POR COVID-19
+
+ 
+
+Todos os governantes são eleitos para cumprir as responsabilidades consignadas pela
+Constituição Federal e por constituições estaduais. Empossados, juram guardar e
+proteger vidas de seu povo sob as regras legais.
+
+Princípio basilar deste país, as ações e omissões de todos seus agentes públicos geram
+responsabilidades de ordem civil, criminal, administrativa e política. É o que descreve a
+Constituição Federal em diversos de seus artigos, desde o que estabelece um Estado
+Democrático de Direito (art. 1º) até previsões específicas, como as contidas nos seus
+artigos 19, Ill e 37, 8 6º.
+
+O não atendimento, pelo Brasil, às diretrizes científicas de instituições nacionais e da
+Organização Mundial da Saúde para enfrentamento da pandemia gera
+responsabilidades. Decisões administrativas, assim como a ausência delas, devem ser
+motivadas e justificadas. Logo, contrariar consensos científicos em detrimento da vida
+de milhares de pessoas não pode ficar à margem da ordem jurídica.
+
+POR ESSA RAZÃO:
+
+que não estão sendo adotadas medidas de isolamento social adequadas,
+cientificamente comprovadas como política mais eficaz para salvar vidas nos locais onde
+há aceleração da disseminação de casos e de óbitos, bem como o esgotamento da
+capacidade do sistema de saúde.
+
+a omissão deliberada do Governo Federal, que ignora as fartas
+evidências científicas para controle da pandemia. A ocorrência de casos e mortes no
+país, em diferentes regiões e intervalos temporais, exige coordenação nacional e requer
+
+execução descentralizada, pilares do Sistema Único de Saúde.
+
+53
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+ACUSAMOS que está em curso um verdadeiro genocídio dos mais pobres, à medida
+que a epidemia avança nas periferias e favelas, nos asilos de idosos, nas aldeias, nas
+comunidades tradicionais e nos presídios. Medidas excepcionais e urgentes de proteção
+social, como alimentação, alojamento e serviços essenciais para as populações mais
+
+vulneráveis não foram efetivadas e as de auxílio financeiro estão sendo mitigadas.
+
+DENUNCIAMOS que a insuficiência de leitos, de respiradores e testes, a falta de
+médicos e de enfermeiros, a exposição de profissionais de saúde a riscos e as
+condições inadequadas de trabalho são mais letais do que o novo coronavírus, para o
+qual não há tratamento ou vacina suficiente.
+
+REJEITAMOS atos legislativos que busquem a isenção da responsabilidade de agentes
+públicos, manifestamente inconstitucionais e cujo controle será buscado perante a Justiça.
+
+Entidades científicas e de defesa de direitos estão reunindo evidências e provas para a
+demonstração das consequências dessas irresponsabilidades, visando subsidiar
+iniciativas aptas a exigir a apuração de atos de improbidade e a reparação do dano
+coletivo. Todos têm direito de nascer, viver e morrer com dignidade. Vidas perdidas têm
+responsabilidades atribuíveis.
+
+idec Q Ab o ANISTIA
+
+sa ao OXFAM inesc NACIONAL INTERNACIONAL
+
+Brasil
+
+ 
+
+ 
+
+FR (gi ETHOS E Rai ; SIM ESP
+
+   
+
+54
+Indice de Quadros, Figuras e Tabelas
+
+QUADROS
+
+Quadro 1: Modelo de representação das etapas dos processos de transmissão
+e adoecimento da Covid-19
+
+ 
+
+ 
+
+Quadro 2: Oferta de vacinas contra a Covid-19 no Brasil, segundo doses adquiridas
+e distribuídas pelo Ministério da Saúde de janeiro a março de 2021 (em milhares) ....
+
+ 
+
+TABELAS
+
+Tabela 1: Excesso de mortes e excesso relativo de mortalidade (%)
+segundo as unidades da Federação — Brasil, 2020-2021
+
+ 
+
+Tabela 2: Taxas de pacientes hospitalizados por Covid-19 em unidades de terapia intensiva (UTI)
+e ventilação mecânica (VM), segundo natureza jurídica dos estabelecimentos — Brasil, 2020 ..
+
+ 
+
+Tabela 3: Características sociodemográficas dos pacientes hospitalizados por Covid-19 (n=567.626)
+segundo natureza jurídica dos estabelecimentos — Brasil, 2020 ...
+
+ 
+
+Tabela 4: Letalidade de pacientes com Covid-19 hospitalizados em leitos e em UTIs, com ventilação
+macânica (VM), segundo a natureza jurídica do estabelecimento (n=567.626) — Brasil, 2020 ....
+
+ 
+
+Tabela 5: Letalidade de pacientes com Covid-19 hospitalizados em leitos, em UTIs, com ventilação
+mecânica (VM), segundo variáveis sociodemográficas e
+natureza jurídica do estabelecimento (n=567.626) — Brasil, 2020
+
+ 
+
+Tabela 6: Letalidade de pacientes com Covid-19 hospitalizados em leitos, em UTIs e com ventilação
+mecânica (VM), segundo UF e natureza jurídica do estabelecimento (n=567.626) — Brasil, 2020 ..
+
+ 
+
+Tabela 7: Óbitos por Covid-19 em unidades de pronto-atendimento (PA) ou pronto-socorro (PS),
+segundo natureza jurídica do estabelecimento (n=20.642) — Brasil, 2020 ....
+
+ 
+
+ 
+
+Tabela 8: Condições de saúde (Diabetes e Obesidade) dos internados por Covid-
+segundo natureza jurídica do estabelecimento — Brasil, 2020
+
+ 
+
+Tabela 9: Letalidade de pacientes com Covid-19 hospitalizados em leitos, em UTIs, com ventilação
+mecânica (VM), segundo condições de saúde (Diabetes e Obesidade) e natureza jurídica
+do estabelecimento — Brasil, 2020...
+
+ 
+
+ 
+
+Tabela 10: Regressão logística do SRAG-COVID desfecho óbito: administração pública
+
+Tabela 11: Regressão logística do SRAG-COVID desfecho óbitk
+ou entidades sem fins lucrativos ne
+
+entidades empresariais
+
+ 
+
+ 
+
+ 
+
+Tabela 12: Gastos previstos e executados vinculados ao Ministério da Saúde — Brasil, 2020 ....
+Tabela 13: Despesas com Covid-19 do Ministério da Saúde em 2020 ,segundo Destinatário — Brasil, 2020 ...... 40
+Tabela 14: Distribuição dos leitos SUS e Não SUS por região geográfica — Brasil, 2020-2021
+
+ 
+
+FIGURAS
+Figura 1: BRASIL.
+Figura 2: Acre ...
+
+ 
+
+ 
+
+Figura 3: Amazonas
+
+ 
+
+Figura 4: Amapá
+
+ 
+
+Figura 5: Pará
+
+ 
+
+Figura 6: Rondônia
+
+ 
+
+Figura 7: Roraima ....
+
+ 
+
+Figura 8: Tocantins
+
+ 
+
+Figura 9: Alagoas
+Figura 10: Bahia ..
+
+ 
+
+Figura 11: Ceará...
+Figura 12: Maranhão
+
+ 
+
+Figura 13: Paraíba...
+
+ 
+
+Figura 14: Pernambuco
+
+55
+
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+MORTES EVITÁVEIS POR COVID-19 NO BRASIL
+
+  
+
+Figura 15: Piauí
+
+Figura 16: Rio Grande do Norte
+
+ 
+
+ 
+
+ 
+
+Figura 17: Sergipe
+Figura 18: Espírito Santo
+
+ 
+ 
+ 
+
+Figura 19: Minas Gerais
+Figura 20: Rio de Janeiro
+
+ 
+
+Figura 21: São Paulo
+
+ 
+
+Figura 22: Paraná...
+Figura 23: Rio Grande do Sul ..
+Figura 24: Santa Catarina
+
+  
+
+Figura 25: Distrito Federal
+Figura 26:
+Figura 27:
+Figura 28: Mato Grosso do Sul...
+
+ 
+
+ 
+
+Figura 29: Percentual de pessoas que fizeram algum teste para saber se estavam infectadas
+pelo SARS-CoV-2 no total da população (%) Sexo. Pnad-Covid — Brasil, 2020.....
+
+Figura 30: Percentual de pessoas que fizeram algum teste para saber se estavam infectadas
+pelo SARS-CoV-2 no total da população (%) Faixa etária. Pnad-Covid — Brasil, 2020
+
+ 
+
+ 
+
+Figura 31: Percentual de pessoas que fizeram algum teste para saber se estavam infectadas
+pelo SARS-CoV-2 no total da população (%) Cor/Raça. Pnad-Covid — Brasil, 2020 ..
+
+Figura 32: Percentual de pessoas que fizeram algum teste para saber se estavam infectadas
+pelo SARS-CoV-2 no total da população (%) Grau de instrução. Pnad-Covid — Brasil, 2020
+
+ 
+
+ 
+
+Figura 33: Percentual de pessoas que fizeram algum teste para saber se estavam infectadas
+pelo SARS-CoV-2 no total da população (%) Rendimento. Pnad-Covid — Brasil, 2020 .
+
+ 
+
+Figura 34: Coberturas vacinais com uma dose e com duas doses, segundo grupo prioritário — Brasil, 2021 ..... 44
+Figura 35: Leitos terapia intensiva SUS e óbitos acumulados por mês (Março de 2020 a Março de 2021) .... 45
+
+56
 

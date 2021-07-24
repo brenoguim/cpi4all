@@ -1,29 +1,548 @@
-30/06/2021 SEVANVISA - 1508368 - Nota Técnica
+30/06/2021 SEI/ANVISA - 1508368 - Nota Técnica
 
-call Produtos Biológicos Substituto(a), em 29/06/2021, às 19:53, conforme horário oficial de Bra:
-SEE (53 | fundamento no art. 6 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de 2020
+= ANVISA
 
-afeônio http://www planalto, gov.br/ccivil 03/ ato2019-2022/2020/decreto/D10543.htm.
+Agência Nacional de Vigilância Sanitária
 
  
-    
- 
+
  
 
+NOTA TÉCNICA Nº 317/2021/SEI/GGMED/DIRE2/ANVISA
+
+Processo nº 25351.918347/2021-94
+
+Requerimento nº 928/2021 - CPIPANDEMIA.
+
+1. Relatório
+
+Trata-se de manifestação da Gerência Geral de Medicamentos e Produtos Biológicos - GGMED
+em resposta ao Ofício nº 1621/2021 — CPIPANDEMIA e Requerimento nº 928/2021 - CPIPANDEMIA
+(1503071), do qual consta solicitação de informações sobre a produção, exportação e importação da vacina
+Sputnik V, especialmente, no que se refere às razões que impedem a utilização interna de uma vacina
+produzida e exportada pelo Brasil.
+
+2. Análise
+
+2.1. Breve contextualização sobre o local de fabricação de um medicamento ou vacina
+
+Importante contextualizar que quando um medicamento é autorizado, seja pelo registro ou
+pela via da autorização de uso emergencial, o local de fabricação do insumo farmacêutico ativo - IFA e do
+produto na forma acabada faz parte da avaliação da autoridade sanitária. Inicialmente a avaliação
+considera o cumprimento das boas práticas de fabricação, estabilidade e demais estudos que sejam capazes
+de garantir que o medicamento ou vacina mantenha o perfil de qualidade, eficácia e segurança dos estudos
+clínicos. Neste sentido, para cada local de fabricação do IFA ou do produto acabado as autoridades sanitárias
+fazem essa avaliação e incorporam o local de fabricação na autorização concedida para o produto. Até o
+momento, a vacina Sputnik V não possui autorização de uso emergencial e nem registro concedidos pela
+Anvisa. A autorização excepcional de importação considerou as fabricantes localizadas na Rússia,
+inspecionadas pela Anvisa e presentes no relatório técnico emitido pela a autoridade daquele país. A
+princípio a etapa de fabricação e envase da vacina, realizada nas instalações da empresa
+brasileira INOVAT, do grupo da União Química, não figura como local de fabricação autorizado pela
+autoridade da Rússia .
+
+ 
+
+ 
+
+A importação, no termos da Lei 14.124/2021, considera a vacina nas condições registrada ou
+autorizada para uso emergencial na autoridade sanitária estrangeira e autorizada à distribuição em seus
+respectivos países:
+
+LEI Nº 14.124, DE 10 DE MARÇO DE 2021
+
+Art. 16. A Anvisa, conforme estabelecido em ato regulamentar próprio, oferecerá parecer sobre a
+autorização excepcional e temporária para a importação e a distribuição e a autorização para uso
+emergencial de quaisquer vacinas e medicamentos contra a covid-19, com estudos clínicos de fase 3
+concluídos ou com os resultados provisórios de um ou mais estudos clínicos, além de materiais,
+equipamentos e insumos da área de saúde sujeitos à vigilância sanitária, que não possuam o registro
+sanitário definitivo na Anvisa e considerados essenciais para auxiliar no combate à covid-19, desde que
+registrados ou autorizados para uso emergencial por, no mínimo, uma das seguintes autoridades
+sanitárias estrangeiras e autorizados à distribuição em seus respectivos países:
+
+ 
+
+VI - Ministry of Health of the Russian Federation, da Federação da Rússia;
+
+2.2. Da Autorização Temporária para Uso Emergencial
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508368.html 1/9
+30/06/2021 SEI/ANVISA - 1508368 - Nota Técnica
+
+Em razão das declarações de emergência em saúde pública no Brasil pelo Ministério da Saúde
+e de pandemia pela Organização Mundial da Saúde (OMS) devido ao novo coronavírus, desde março de 2020
+a Anvisa tem adotado ações regulatórias estratégicas para oferecer respostas imediatas e alinhadas às
+condutas de autoridades sanitárias internacionais, quanto às ações de enfrentamento da
+pandemia, envolvendo produtos e serviços sujeitos à a vigilância Sanitária.
+
+Dentre as ações voltadas a favorecer a realização de estudos clínicos no Brasil, no caso
+particular das vacinas, a Anvisa criou um ambiente regulatório facilitado com instrumentos para regularizar as
+vacinas desenvolvidas para prevenir a infecção pelo Coronavírus.
+
+Sobre a competência desta Gerência Geral de Medicamentos e Produtos Biológicos - GGMED
+foram publicados dois instrumentos: a RDC nº 444/2020, de 10/12/2020, que regulamentou a Autorização de
+Uso Emergencial - AUE em caráter experimental e o Guia nº 42/2020, de 02/12/2020, sobre os requisitos
+mínimos para submissão de solicitação de autorização temporária de uso emergencial, em caráter
+experimental, de vacinas Covid-19. Ambos possuem critérios convergentes com a Organização Mundial da
+Saúde (OMS), Food and Drug Administration (FDA-
+EUA), Medicines and Healthcare products Regulatory Agency (MHRA-Reino
+Unido), European Medicines Agency (EMA-Europa). Especificamente, quanto aos requisitos de boas práticas
+de fabricação e controles, estes foram convergentes à Convenção de Inspeção Farmacêutica e o Esquema de
+Cooperação em Inspeção Farmacêutica do PIC/s (Pharmaceutical Inspection Co-operation Scheme).
+O objetivo da publicação do Guia é nortear as empresas, uma vez que se trata de um instrumento regulatório
+não normativo, de caráter recomendatório.
+
+Todavia, decorrente da Lei 14.124/2021, houve atualização
+regulatória, resultando na publicação da RDC nº 475/2021, de 10/03/2021, que revogou a resolução anterior
+e estabeleceu critérios adicionais para a AUE tanto para medicamentos quanto para vacinas, de modo a
+regulamentar internamente a referida lei. Consequentemente, impactou na atualização do Guia 42/2020. As
+inovações trazidas na norma foram incorporadas daquela Lei, conforme segue:
+
+1. A Anvisa, conforme estabelecido em ato regulamentar próprio, emitirá parecer para AUE
+de medicamentos e vacinas contra à Covid-19. Assim, como já previsto em regulamento da Agência, a
+vacina autorizada emergencialmente no Brasil deverá submeter o registro no país e se responsabilizar a
+concluir os estudos clínicos e realizar o monitoramento. Essa condição se aplica as empresas
+autorizadas a importar e fabricar medicamentos, as quais já atendem as condições estabelecidas no
+arcabouço legal do país.
+
+2. Para a emissão de parecer sobre o protocolo de AUE, a Anvisa considerará o relatório de
+aprovação de registro ou de autorização para uso emergencial para medicamento ou vacina contra
+Covid-19 emitidos pelas seguintes autoridades reguladoras estrangeiras que se enquadrarem no
+escopo previsto em Lei, a saber:
+
+. autoridades reguladoras de 11 países: Estados Unidos da América; da União Europeia;
+do Japão; da República Popular da China; do Reino Unido da Grã-Bretanha; da Federação da Rússia; da
+República da Índia; da República da Coreia; do Canadá; da Austrália; da República Argentina;
+
+. outras autoridades sanitárias estrangeiras com reconhecimento internacional e
+certificadas, com nível de maturidade IV, pela Organização Mundial da Saúde (OMS) ou pelo Conselho
+Internacional para Harmonização de Requisitos Técnicos para Registro de Medicamentos de Uso
+Humano
+((International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use —
+ICH) e pelo Esquema de Cooperação em Inspeção Farmacêutica (PIC/S).
+
+3. Quando o medicamento ou a vacina contra a Covid-19 for registrado ou autorizado para
+uso emergencial, além dos critérios estabelecidos no Guia nº 42/2020 da Anvisa, a empresa deve
+apresentar o relatório e/ou parecer emitido pela autoridade sanitária estrangeira que autorizou. Esse
+relatório deverá ser capaz de comprovar que o produto atende aos padrões de qualidade, de eficácia e
+de segurança estabelecidos pela Organização Mundial da Saúde - OMS ou pelo Conselho Internacional
+para Harmonização de Requisitos Técnicos para Medicamentos de Uso Humano — ICH, bem como pelo
+Esquema de Cooperação em Inspeção Farmacêutica - PIC/S.
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508368.html 2/9
+30/06/2021 SEI/ANVISA - 1508368 - Nota Técnica
+
+4. O prazo para a avaliação da autorização temporária de uso emergencial de uma vacina
+contra a Covid-19 se dará em 7 (sete) dias úteis, quando a referida vacina contar com desenvolvimento
+clínico no Brasil; ou apresentar o relatório emitido pela autoridade sanitária estrangeira capaz de
+comprovar que a vacina atende aos padrões de qualidade, de eficácia e de segurança estabelecidos
+pela OMS ou pelo ICH e pelo PIC/S. Conforme estabelecido em Lei, na ausência desses documentos, o
+prazo para decisão da Anvisa será de até 30 (trinta) dias.
+
+A AUE é um instrumento que busca facilitar a disponibilização e o uso das vacinas contra a
+Covid-19, ainda que não tenham sido avaliadas sob o crivo do registro, desde que sejam cumpridos os
+requisitos mínimos de segurança, qualidade e eficácia. Esse mecanismo é restrito a um público previamente
+definido e não substitui o registro sanitário. A modalidade de uso emergencial é temporária, está prevista em
+regulamento e pode trazer benefícios a determinados e controlados grupos, como medida adicional para o
+enfrentamento da pandemia. Entretanto, é importante que nessa avaliação os critérios de qualidade, eficácia
+e segurança, estabelecidos no guia da Anvisa e internacionalmente, sejam considerados, bem como a
+avaliação dos pacotes de dados encaminhados na submissão contínua.
+
+Dentre os requisitos para a submissão de pedidos de AUE subentende-se que toda a
+documentação deverá ser apresentada afim de se comprovar a qualidade, segurança e eficácia, e
+assim viabilizar a autorização de uso do medicamento pela população. Por esse motivo, são aceitos
+medicamentos em fase experimental, de maneira excepcional, devendo a requerente comprometer-se com a
+conclusão do desenvolvimento clínico do produto. A requerente e a Anvisa devem ter acesso às informações,
+relatórios, dados e resultados capazes de comprovar as boas práticas de fabricação, qualidade, eficácia e
+segurança do medicamento contra a Covid-19 objeto da solicitação da AUE.
+
+De acordo com o Guia nº 42/2020, quando a vacina COVID-19 não estiver sendo avaliada em
+ensaios clínicos conduzidos no Brasil, caberá à requerente apresentar a estratégia do patrocinador quanto à
+condução dos estudos clínicos, demonstrando a intenção de acompanhamento para a avaliação de eficácia e
+segurança dos participantes do estudo pivotal por pelo menos 1 ano, incluindo estratégia para avaliação de
+exacerbação da doença respiratória (RDE), e garantir que terá acesso aos dados gerados em sua totalidade,
+bem como demonstrar que os estudos pré-clínicos e clínicos foram conduzidos conforme as diretrizes aceitas
+nacional e internacionalmente (por exemplo, se foram seguidos os guias do ICH e se a vacina é produzida em
+país membro do PIC/s), e que os dados clínicos obtidos em outros países sejam aplicáveis à população
+brasileira (em termos étnicos, socioeconômicos e epidemiológicos).
+
+Também, a requerente deve comprometer-se a concluir o desenvolvimento da vacina em
+todos os aspectos, apresentar e discutir os resultados com a Anvisa e solicitar seu registro sanitário, desde
+que atendidos os requerimentos regulatórios, conforme legislação sanitária vigente.
+
+O Guia n.º 42/2020 cita os documentos que, minimamente, serão submetidos para pleitear a
+AUE. Conforme orientado, a empresa informará quais são os documentos faltantes, considerando a legislação
+específica para registro de vacinas no Brasil e justificará o impacto da ausência de tais documentos no
+Relatório de Avaliação de Benefício-Risco da vacina. Esse relatório será encaminhado periodicamente a cada
+3 meses após a concessão da autorização temporária para uso emergencial, em caráter experimental, de
+vacinas Covid-19.
+
+Nos termos da Lei n.º 14.124, de 10 de março 2021, para emissão de parecer sobre o protocolo
+de AUE, a Anvisa considerará o relatório de aprovação do registro ou da autorização para uso emergencial
+para o medicamento ou vacina contra Covid-19 emitidos pelas agências reguladoras
+internacionais nela mencionadas.
+
+Dessa forma, para o caso de vacinas registradas ou aprovadas para uso emergencial em outros
+países, deve ser apresentado relatório técnico de avaliação emitido pelas respectivas autoridades
+reguladoras, quando disponível. Adicionalmente, nos termos da RDC n. 475/20202, deve ser apresentada
+Declaração atestando que o produto atende às mesmas condições autorizadas pelas autoridades
+estrangeiras.
+
+O Guia n. 42/2020 também cita os compromissos a serem cumpridos pela empresa após a
+AUE, de modo a garantir as condições de armazenamento da vacina aprovada, orientações aos serviços de
+saúde e pacientes que irão receber a vacina, monitoramento das possíveis queixas técnicas e eventos
+adversos e eventuais recolhimentos, se necessário.
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508368.html 3/9
+30/06/2021 SEI/ANVISA - 1508368 - Nota Técnica
+
+Dessa forma, depreende-se que na AUE, há uma flexibilização da apresentação dos requisitos
+necessários para a aprovação de um medicamento ou vacina para utilização pela população brasileira. Em
+contrapartida, a empresa solicitante compromete-se a apresentar em momento posterior os dados que não
+foram apresentados no momento da submissão, conforme descrito no Guia, de modo a impedir que a
+população brasileira seja exposta a produtos inadequados, além do monitoramento da administração do
+produto experimental.
+
+Especificamente em relação à AUE da Sputnik V, destaque-se que a empresa
+União Química Farmacêutica Nacional S/A ainda não cumpriu com todos os requisitos dispostos na norma, de
+modo que a Anvisa pudesse emitir parecer sobre as condições mínimas de qualidade, eficácia e segurança.
+
+Desde o dia 30/09/2020 a Anvisa tem se reunido com a empresa União Química no intuito de
+discutir o projeto de desenvolvimento da Vacina Sputnik V pelo Instituto Gamaleya. Ressalta-se que as
+tratativas iniciais sobre a realização de ensaio clínico no Brasil com a vacina Sputnik V iniciaram-se com a
+empresa pública do Paraná Tecpar (Instituto de Tecnologia do Paraná) e foram interrompidas a partir do
+momento em que a União Química assumiu a parceria com o Instituto Gamaleya.
+
+Em 31/12/2020 a empresa União Química submeteu um pedido de anuência prévia em
+estudos clínicos, para a condução de um estudo no Brasil, visto ser um dos requisitos da RDC 444/2020,
+vigente à época. Contudo, houve falha na instrução documental e posteriormente ocorreu a desistência do
+processo.
+
+Em 16/01/2021, a empresa União Química submeteu formalmente à Anvisa uma solicitação de
+autorização temporária de uso emergencial, em caráter experimental, de vacinas Covid-19. Houve também
+falha na instrução documental, com a solicitação de complementação de dados.
+
+Em 26/03/2021 a empresa União Química encaminhou carta à Anvisa, solicitando a desistência
+do pedido de uso emergencial da vacina Sputinik V. Na mesma data foi peticionado um novo pedido de
+Autorização Emergencial de acordo com o preconizado na atual versão do Guia nº 42/2020 e em
+conformidade com a RDC nº475/21. Foi solicitado a complementação de dados, visto que o que foi
+apresentado não atendia aos requisitos do Guia 42/2020. A empresa encaminhou alguns aditamentos em
+resposta à exigência exarada pela GGMED e solicitou o prazo de 120 dias para responder a integralidade das
+exigências, com base na RDC 204/2005. A GGMED não recebeu documentação adicional quanto à solicitação
+de AUE da vacina Sputinik V até então.
+
+Até o momento, a manifestação da GGMED sobre as incertezas dessa vacina foi apresentada
+como subsídios para tomada de decisão desta Agência nos pedidos de autorização excepcional de
+importação.
+
+Destaque-se que a empresa deve apresentar uma estratégia de controle adequada da vacina,
+que é o mecanismo de garantir que o produto obtido possua a qualidade esperada e que parâmetros
+relacionados à eficácia e à segurança do produto estejam sob controle e sejam reprodutíveis lote a lote. No
+entanto, para a vacina Sputnik V, foram observadas falhas de desenvolvimento do produto que resultam em
+incertezas quanto à qualidade, segurança e eficácia da vacina, assim como também foi verificado que os
+controles de qualidade implementados são insuficientes, seja em relação ao produto ou em relação ao
+processo. Todas essas inconsistências e incertezas refletem na confiabilidade sobre os dados de segurança e
+eficácia dos estudos clínicos, pois a empresa não conseguiu demonstrar até o momento que o processo de
+fabricação em escala comercial é representativo do processo em escala piloto, utilizado para produzir os lotes
+clínicos, e também não demonstrou que seu produto oferece a segurança necessária para a vacinação de
+indivíduos sadios.
+
+Os dados fornecidos sobre avaliação clínica de eficácia, segurança e imunogenicidade também
+causam preocupação devido a falhas de desenho e de condução dos estudos clínicos com impactos no nível
+de confiança dos resultados e do estabelecimento do real perfil de segurança da vacina.
+
+Além disso, para a concessão da AUE para a Sputnik V a empresa
+União Química deverá responder alguns pontos questionados, conforme apontado nas observações técnicas
+da área, descritas abaixo:
+
+A caracterização da substância ativa de vacinas é feita por meio de testes complexos que têm
+por objetivo fornecer o entendimento de características físicas, químicas e biológicas da vacina. Esta
+caracterização deve ser realizada com um número mínimo de lotes da substância ativa para que seja possível
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508368.html 419
+30/06/2021 SEI/ANVISA - 1508368 - Nota Técnica
+
+avaliar a variabilidade considerada aceitável para o produto. A empresa União Química apresentou dados de
+caracterização referentes a apenas um lote de desenvolvimento da vacina e os testes realizados não foram
+considerados suficientes para avaliar o perfil completo do produto. Portanto, a empresa ainda não
+demonstrou todas as características físicas, químicas e biológicas da substância ativa e sua respectiva
+homogeneidade ou variabilidade aceitável. Um problema resultante de uma caracterização insuficiente é o
+desenvolvimento de uma estratégia de controle inadequada, com impacto na avaliação da manutenção das
+características da vacina após alterações no processo ou local de fabricação, pois não se tem informações
+sobre as variações possíveis e aceitáveis entre o produto antes e após a alteração e se essas variações podem
+afetar a eficácia e a segurança da vacina.
+
+As especificações (limites para os testes de controle de qualidade) determinadas para o
+controle da substância ativa e do produto acabado, aliadas à caracterização insuficiente da vacina, são
+incapazes de garantir a qualidade, segurança e eficácia da vacina de forma satisfatória. Como bem ressaltado
+pelo guia ICH Q6B (Specifications: Test
+Procedures And Acceptance Criteria For Biotechnological/Biological Products), as especificações são uma
+parte da estratégia de controle global desenhada para assegurar a qualidade e consistência do produto.
+Outras partes desta estratégia também incluem a caracterização do produto durante o desenvolvimento (sob
+a qual algumas especificações são baseadas), cumprimento de boas práticas de fabricação, validação do
+processo de fabricação, testes de matérias-primas, controles em processo, estudo de estabilidade, etc. Desta
+forma, a empresa precisa incluir testes que tenham relação mais direta com a atividade da vacina do que os
+métodos utilizados atualmente pelo fabricante, assegurando assim a avaliação adequada de parâmetros
+relacionados a sua eficácia. Além disso, as especificações estabelecidas não foram justificadas de forma
+adequada e não possuem fundamento científico para o seu estabelecimento. Desse modo, existe o grande
+potencial de liberação de vacinas que não sejam semelhantes àquelas estudadas nos estudos clínicos e que
+apresentam problemas que impactam no seu uso seguro.
+
+Um ponto de grande preocupação para a Anvisa é a ocorrência de adenovírus replicante na
+vacina e a ausência de avaliação adequada sobre a relação de presença dos adenovírus replicantes com a
+segurança da vacina. Os adenovírus replicantes são gerados durante o processo produtivo, quando o vírus
+adquire a capacidade de se replicar (reproduzir) novamente, após troca genética com a célula onde ocorre a
+sua replicação (vide https://www.edqm.eu/sites/default/files/medias/fichiers/COVID-
+19/recombinant viral vectored vaccines.pdf para maiores informações sobre os requisitos de ausência de
+adenovírus replicantes em vacinas de vetor viral). A presença de vírus replicantes na vacina Sputnik V diverge
+do perfil de qualidade das vacinas a base de adenovírus avaliadas pela Anvisa até o momento, pois nestas a
+presença de vírus replicantes não é permitida e não foi detectada, e diverge também do próprio perfil-alvo da
+vacina Sputnik V, onde foi demonstrado que os bancos de semente viral não possuíam adenovírus
+competentes para replicação, fato revertido durante a cultura em células.
+
+A presença de adenovírus competente para replicação (RCA) levanta uma variedade de
+preocupações relacionadas à segurança, incluindo: possibilidade de infecção do indivíduo vacinado por
+adenovírus, replicação não planejada do vetor devido à presença da região de replicação
+do adenovirus selvagem e exacerbação da resposta inflamatória
+(https://www.fda.gov/media/72402/download). A empresa União Química não apresentou dados de estudos
+não clínicos e clínicos conduzidos para avaliação e definição de perfil de segurança relacionado à presença de
+adenovírus replicantes na vacina (vide item 7.3 do
+guia https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-quality-non-clinical-clinical-
+aspects-live-recombinant-viral-vectored-vaccines en.pdf). Detalhamento sobre a avaliação não clínica e
+clínica e as deficiências detectadas estão descritas mais adiante. Além disso, os limites estabelecidos pela
+empresa (1 x 103 RCA por dose de 1x1011 partículas virais) estão consideravelmente acima dos limites
+permitidos em guia da agência americana FDA de 1 RCA a cada 3x1010 partículas virais
+(vide https://www.fda.gov/media/113760/download). A estratégia correta nesse caso seria que a empresa
+elaborasse um plano para a remoção de adenovírus replicante da vacina, conduzisse os estudos relacionados
+e solucionasse esta questão para garantir a segurança das pessoas vacinadas.
+
+O desenvolvimento da vacina deve ser descrito de forma clara, incluindo todos os processos e
+escalas utilizados ao longo do desenvolvimento, além de ser necessária uma avaliação detalhada do impacto
+de todas as mudanças realizadas no processo para a qualidade da substância ativa e do produto acabado. A
+avaliação do impacto das mudanças implementadas (no processo e nas metodologias analíticas), bem como a
+comparabilidade entre os produtos obtidos pelos diferentes processos desenvolvidos, garante que o produto
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508368.html 5/9
+30/06/2021 SEI/ANVISA - 1508368 - Nota Técnica
+
+utilizado nos estudos não-clínicos e clínicos (produzidos em escalas menores) sejam similares ao produto
+produzido pelo processo e escala comerciais (produto a ser utilizado na população). Desta forma, há maiores
+garantias de que a eficácia observada em estudos clínicos será reproduzida na população em geral. Nesse
+sentido, o histórico de desenvolvimento da vacina apresentado é deficiente em descrever os processos
+utilizados ao longo do desenvolvimento do produto e escalas de produção, assim como também é deficiente
+em avaliar o impacto das mudanças no processo de fabricação na qualidade, segurança e eficácia da vacina.
+Pelo fato de o histórico de desenvolvimento possuir informações insuficientes, os estudos de
+comparabilidade da vacina fabricada pelos diferentes processos, escalas e fabricantes são falhos em
+demonstrar que o produto fabricado em escala comercial a ser enviado para o Brasil é similar ao produto
+utilizado nos estudos clínicos. Assim, não é possível garantir com os dados atuais que os resultados
+observados em estudos clínicos com a vacina seriam obtidos com o produto a ser enviado para o Brasil.
+
+A caracterização das impurezas relacionadas ao processo e ao produto é essencial para garantir
+que a empresa conheça o perfil de impureza da vacina e que inclua as etapas produtivas necessárias para
+remoção das impurezas e/ou estabeleça limites adequados para o seu controle. Os estudos das impurezas da
+vacina Sputnik V são insuficientes para demonstrar quais são as impurezas presentes no produto e qual a
+eficiência do processo produtivo em removê-las e controlá-las. Essa avaliação pode ter impacto direto na
+segurança do produto.
+
+Por sua vez, o controle de agentes adventícios é essencial para garantir que vírus adventícios
+não sejam introduzidos no processo produtivo e que, se acidentalmente isto ocorrer, a empresa terá grandes
+chances de detectar a contaminação e impedir a liberação do produto para uso (vide guia ICH
+Q5A https://database.ich.org/sites/default/files/05A%28R1%29%20Guideline O.pdf). O controle de agentes
+contaminantes do processo apresentado é insuficiente no momento. A empresa não realiza testes
+importantes na etapa do bulk concentrado (produto obtido após a replicação do vírus em células, mas antes
+de qualquer etapa de processamento posterior) para a detecção de vírus que podem ser inseridos
+acidentalmente no processo produtivo. A empresa também não demonstrou um controle adequado das
+matérias-primas utilizadas durante o processo de fabricação e que também poderia inserir contaminantes no
+produto. A documentação apresentada foi considerada insuficiente para garantir a segurança da vacina com
+relação a vírus contaminantes e uma estratégia com controles adequados do processo e das matérias-primas
+deve ser estabelecida.
+
+Quanto à avaliação não clínica e clínica, várias deficiências foram detectadas até este momento
+que prejudicam e não permitem as corretas análises e conclusões sobre o perfil de eficácia e segurança da
+vacina proposta. Os pontos de incertezas mais críticos estão descritos em seguida, porém, conforme já
+colocado anteriormente, essa não é uma lista exaustiva de dados considerados insuficientes ou inadequados
+quanto à avaliação não clínica e clínica da vacina proposta.
+
+O potencial impacto na segurança da vacina relacionado à presença de partículas virais
+replicantes (RCA) no componente 2 da vacina é um dos pontos críticos do desenvolvimento clínico
+considerado inadequadamente avaliado (mencionamos apenas o componente 2 pois não foi feita qualquer
+avaliação pelo desenvolvedor quanto ao componente 1, dessa forma, desconhece-se o status desse
+componente quanto à presença de RCA). O perfil de biodistribuição e persistência dos vírus replicantes da
+vacina Sputnik V no organismo humano e em animais não foi estudado. Não houve avaliação criteriosa de
+aspectos de segurança nos estudos clínicos que permitissem estabelecer a relação de perfil de segurança com
+a presença e quantidade de vírus replicantes do componente 2, de acordo com as quantidades variáveis de
+vírus replicantes em cada dose da vacina.
+
+Apesar da presença de vírus replicantes na vacina, não foram apresentados até o momento
+estudos para avaliação de toxicidade reprodutiva e de desenvolvimento conduzidos com a vacina Sputnik V
+proposta. Essas avaliações ausentes são preocupantes e são somadas à ausência de conhecimentos sobre
+a biodistribuição de componentes da vacina e a possibilidade de atingirem tecidos e órgãos reprodutivos e
+sobre a permanência e qual o tempo de permanência de vírus replicantes nesses tecidos e órgãos.
+
+Existem também incertezas sobre as respostas imunes induzidas pela vacina. Não foram
+apresentados relatórios de validação para os testes utilizados na avaliação de resposta imune. Sem a
+validação ou qualificação que confirme que esses testes produzem resultados confiáveis, os resultados
+apresentados não podem ser admitidos como corretos. Por esse motivo que o Guia nº 42/2020-Anvisa, sobre
+os requisitos mínimos para submissão de solicitação de autorização temporária de uso emergencial, em
+caráter experimental de vacinas Covid-19, tem como requerimento, em seu item X, a apresentação de
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508368.html 6/9
+30/06/2021 SEI/ANVISA - 1508368 - Nota Técnica
+
+relatórios de validação dos ensaios bioanalíticos utilizados para avaliar os desfechos do estudo clínico de fase
+3.
+
+Quanto aos resultados de avaliação de segurança clínica, conclui-se que até o momento não é
+possível definir um perfil de segurança para a vacina devido aos dados incompletos e evidências de que a
+avaliação de segurança foi conduzida sem o devido rigor no estudo fase 3. Não está claro, de acordo com a
+documentação apresentada, como os participantes do estudo fase 3 foram instruídos a registrar e como eles
+deveriam informar a equipe do centro clínico sobre eventos adversos de todas as gravidades que ocorressem
+durante o estudo, sejam eles solicitados ou não, locais e sistêmicos. Não foi possível entender como os
+termos médicos/técnicos existentes nos formulários e diários puderam ser avaliados pelos participantes do
+estudo. Não foram informados quais os equipamentos para permitir medição de temperatura, pressão e
+outras avaliações foram fornecidos aos participantes do estudo. Também não foi informado como os eventos
+adversos registrados pelo paciente foram verificados pela equipe médica. Também não estava claro como os
+potenciais eventos adversos de interesse especial ou eventos adversos graves foram monitorados e avaliados
+corretamente de maneira oportuna. Tais pontos introduziram viés aos resultados de segurança, com a
+obtenção de um perfil de segurança pela empresa divergente daquele característico das vacinas de vetores
+virais.
+
+Ressaltamos que não foram incluídos na avaliação clínica do estudo fase 3 Eventos Adversos de
+Interesse Especial de acordo com o recomendado e o padrão internacionalmente aceito para uma avaliação
+clínica pivotal de segurança de vacinas. Um Evento Adverso de Interesse Especial é um evento clinicamente
+significativo pré-especificado que tem o potencial de ser causalmente associado a uma vacina e que precisa
+ser cuidadosamente monitorado. Ressalta-se a não inclusão de eventos adversos de interesse especial como
+reações alérgicas, neurológicas, inflamatórias, eventos relacionados a doenças vasculares (incluindo eventos
+tromboembólicos) e autoimunes, que deveriam ter sido investigados de forma mais intensiva e rigorosa do
+que os demais eventos adversos no estudo. A avaliação adequada de eventos adversos de interesse especial
+teria o potencial de detectar, por exemplo, alterações tromboembólicas, que têm sido discutidas como
+eventos adversos relacionados a outras vacinas Covid-19 com plataformas similares de vetor viral à utilizada
+para a vacina Sputnik V. O potencial de reações adversas da vacina Sputnik V traz a preocupação adicional
+devido ao quantitativo de vírus replicantes permitidos, característica que outras vacinas Covid-19 com
+plataformas similares de vetores virais aprovadas até o momento não possuem.
+
+Além disso, ainda quanto ao perfil de segurança da vacina, não foram apresentados dados de
+segurança por faixa etária, demonstrando por exemplo, qual o perfil de segurança da vacina em idosos.
+Também não foram apresentados dados sobre segurança para a população avaliada com morbidades em
+linha de base.
+
+Não foram apresentados dados de eficácia e segurança da vacina proposta em indivíduos
+soropositivos para o vírus SarsCov2.
+
+Não foram disponibilizadas as bases de dados do estudo de fase 3 para permitir a validação
+dos resultados dos modelos estatísticos apresentados no relatório interino.
+
+Neste contexto de ausência de respostas da empresa União Química e impossibilidade de
+manifestação da Anvisa quanto ao pedido de Autorização de Uso emergencial, cabe destacar que a avaliação
+da AUE segue um processo de revisão aberto e transparente, de forma a garantir que a vacina atenda aos
+padrões científicos de qualidade, eficácia, segurança e de fabricação necessários para apoiar o uso de
+emergência no Brasil.
+
+2.3. Da Autorização Excepcional de Importação
+
+Na Autorização Excepcional de Importação - AEI os dados técnico-científicos gerados para a
+comprovação da qualidade, segurança e eficácia na vacina não serão avaliados pela Anvisa para a aprovação
+do medicamento. É necessário, entretanto, que se tenha um parecer de agência internacional com a
+avaliação dos referidos dados, de modo a demonstrar, de forma inequívoca, que o medicamento é seguro e
+eficaz para o uso pretendido. A flexibilização, neste instrumento, é reconhecer uma avaliação feita por
+agência distinta da Anvisa, desde que tal avaliação esteja disponível.
+
+3. Conclusão
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508368.html 7/9
+30/06/2021 SEI/ANVISA - 1508368 - Nota Técnica
+
+Depreende-se que na Autorização de Uso Emergencial - AUE, há uma flexibilização da
+apresentação dos requisitos necessários para a aprovação de um medicamento ou vacina para utilização pela
+população brasileira, comprometendo a empresa solicitante, além do monitoramento da administração do
+produto experimental, a apresentar os dados necessários em um momento posterior, de modo a impedir que
+a população brasileira seja exposta a produtos inadequados. O pedido de AUE realizado pela União Química
+para a vacina Spuútinik V encontra-se aguardando o cumprimento das pendências verificadas.
+
+Até o momento, não há parecer ou relatório técnico de análise disponível para a vacina
+Sputnik V emitido por qualquer autoridade que tenha autorizado o uso emergencial ou concedido o registro
+da referida vacina. Também, não consta qualquer documento que ateste que os fabricantes mencionados no
+certificado de registro do produto seguem as diretivas internacionais das Boas Práticas de Fabricação. Dessa
+forma, verifica-se que até o momento não há dados suficientes para se realizar uma análise de benefício-risco
+positiva sobre a vacina Sputnik V.
+
+Pelo verificado na análise preliminar de dados técnicos da vacina Sputnik V, a vacina ainda está
+em desenvolvimento de processo de fabricação em larga escala, pelo qual seria possível o fornecimento de
+lotes para o Brasil. Além disso, o seu controle de qualidade não está adequado para garantir a segurança dos
+indivíduos vacinados com o produto nem a sua eficácia, visto que os testes de controle de qualidade não
+reportam os resultados necessários para demonstrar que a quantidade de partículas virais infectantes
+necessárias a uma resposta imune robusta estaria presente na vacina.
+
+Portanto, em face das incertezas técnicas apresentadas, para proteção à saúde pública e
+cumprimento da missão da Anvisa, considerando o cenário da pandemia, a GGMED recomendou a adoção
+das seguintes condicionantes na eventual autorização da importação excepcional, para fins de distribuição e
+uso em CONDIÇÕES CONTROLADAS PELOS ESTADOS solicitantes da importação da vacina Sputnik V:
+
+- Distribuir e utilizar a vacina em condições controladas com condução de estudo de
+efetividade, com delineamento acordado com a Anvisa e executado conforme Boas Práticas Clínicas,
+conforme sugerido pelo Ofício CIDSNE/PRESID n. 25/2021 de 25/05/2021;
+
+- Os lotes a serem destinados ao Brasil devem ser provenientes, das plantas produtivas
+inspecionadas pela Anvisa;
+
+- Lotes importados devem ser aprovados pelo INCOS por meio de análise laboratorial que
+demonstrem a ausência de adenovírus replicante, controle de agentes adventícios, a potência da vacina e
+também assegurem a sua qualidade. É fundamental que sejam disponibilizados os Procedimentos
+Operacionais Padrão, materiais de referência, protocolos e insumos específicos.
+
+- À vacina não deverá ser utilizada por pessoas com hipersensibilidade a qualquer dos
+componentes da fórmula, gravidez, lactantes, menores de 18 anos, mulheres em idade fértil que desejam
+engravidar nos próximos 12 meses, enfermidades graves ou não controladas (cardiovascular, respiratória,
+gastrointestinal, neurológica, insuficiência hepática, insuficiência renal, patologias endócrinas) e
+antecedentes de anafilaxia.
+
+- Não poderão receber essa vacina pessoas que tenham recebido outra vacina contra Covid-19
+e que apresentem febre, HIV, hepatite B ou C, que tenham se vacinado nas 4 semanas anteriores, tenham
+recebido imunoglobulinas ou hemoderivados 3 meses antes, tenham recebido tratamentos com
+imunossupressores, citotóxicos, quimioterapia ou radiação 36 meses, tenham recebido terapias com
+biológicos incluindo anticorpos anticitocinas e outros anticorpos.
+
+- Os estados deverão disponibilizar às unidades de saúde as informações de rótulos e bulas,
+que sejam importantes para o uso correto do produto, no idioma português;
+
+- Os estados deverão estabelecer as ações necessárias para evitar os erros de trocas entre os
+dois componentes da vacina, devendo haver monitorização e ações contínuas para minimizar o risco e os
+danos;
+
+- Os estados deverão suspender a importação, distribuição e uso, caso a Anvisa ou a OMS
+reprovem o uso emergencial da vacina Sputnik V;
+
+- Os estados deverão comunicar amplamente à sociedade que a vacina Sputnik V importada
+não possui avaliação da Anvisa quanto aos critérios de qualidade, eficácia e segurança.
+
+ 
+
+Documento assinado eletronicamente por Patricia Kott Tomazett, Gerente-Geral de Medicamentos e
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508368.html 8/9
+30/06/2021 SEI/ANVISA - 1508368 - Nota Técnica
+
+ 
    
 
+í e al Produtos Biológicos Substituto(a), em 29/06/2021, às 19:53, conforme horário oficial de Brasília, com
+sell & fundamento no art. 8 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de 2020
+
+apinatina http://www. planalto.gov.br/ccivil 03/ ato2019-2022/2020/decreto/D10543.htm.
+
+eletrônica
+
+  
+
  
 
-É A autenticidade deste documento pode ser conferida no site https://sei anvisa gov br/autenticidade,
-informando o código verificador 1508368 e o código CRC 5E923609.
-
  
 
  
 
  
 
-Referência: Processo nf 25351.918347/2021-94 SEI nt 1508368
+ 
 
-fileJs/CPIPandemia DadosTemporariosídos 1293 anvisa ostensivo/Nota Tecnica 1508388.html
+Referência: Processo nº 25351.918347/2021-94 SEI nº 1508368
+
+file://fs/CPIPandemia DadosTemporarios/doc 1293 anvisa ostensivo/Nota Tecnica 1508368.html 9/9
 

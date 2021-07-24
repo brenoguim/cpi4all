@@ -1,31 +1,79 @@
-0010004 TESAI20D1-AT
-2105/2021 SEIFIOCRUZ - 0778314 - Oficio Presidência.
-
-de 31 de Março de 2017.
-
-    
- 
- 
-
-A autenticidade deste documento pode ser conferida no site
-* acao=documento conferirêid orgao acesso externo=0, informando o
-, código verificador 0021523646 e o código CRC 73F4A7FS.
+00100.047664/2021-47
 
  
 
+SENADO FEDERAL
+
+Secretaria-Geral da Mesa
+Secretaria de Comissões
+Coordenação de Comissões Especiais, Temporárias e Parlamentares de Inquérito
+
+Oficio nº 1094/2021 - CPIPANDEMIA
+Brasília, 13 de maio de 2021
+
+A Sua Excelência o Senhor
+Marcelo Queiroga
+Ministro da Saúde
+
+Assunto: Solicitação de informações — Requerimento nº 473/2021-CPIPANDEMIA
+
+Senhor Ministro,
+
+No intuito de instruir os trabalhos da Comissão Parlamentar de Inquérito,
+criada pelos Requerimentos do Senado Federal nº 1371 e 1372, de 2021, para “apurar as
+ações e omissões do Governo Federal no enfrentamento da Pandemia da Covid-19 no
+Brasil; as possíveis irregularidades, bem como outras ações ou omissões cometidas por
+administradores públicos federais, estaduais e municipais, no trato com a coisa pública,
+limitado apenas quanto à fiscalização dos recursos da União repassados aos demais entes
+federados para as ações de prevenção e combate à Pandemia da Covid-19”, e com fulcro
+no art. 148 do Regimento Interno do Senado Federal, e no art. 2º da Leinº 1.579, de 1952,
+encaminho a Vossa Excelência o Requerimento nº 473/2021 — CPIPANDEMIA,
+aprovado na 5º Reunião da CPI da Pandemia, ocorrida no dia 06.05.2021, para
+atendimento.
+
+Solicito que a documentação seja encaminhada no prazo especificado no
+Requerimento, em meio magnético, para o endereço | eletrônico
+
+sec.cpipandemia(a)senado.leg.br.
+Atenciosamente,
+
+Senador Omar Aziz
+Presidente da CPI Pandemia
+
+SENADO FEDERAL - COCETI | Anexo II, Ala Senador Alexandre Costa, Sala 15, Subsolo | CEP 70165-900 | Brasília DF
+Telefone: +55 (61) 3303-3490 sec.cpipandemiaQpsenado leg.br
+
  
 
-Referência: Processo nº 25000.073646/2021-70 SEI nº 0021523646
+ 
 
-Assessoria Parlamentar - ASPAR 5
+ 
 
-Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900 +
+ 
 
-site - saude gov. br é
+ 
 
-A Sua Excelência o Senhor ê
-Senador OMAR AZIZ ã
-Presidente da Comissão Parlamentar de Inquérito da Pandemia - CPIPANDEMIA 5
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Ministério da Saúde
+Gabinete do Ministro
+Assessoria Parlamentar
+
+OFÍCIO Nº 4455/2021/ASPAR/GM/MS
+Brasília, 07 de julho de 2021.
+
+A Sua Excelência o Senhor
+Senador OMAR AZIZ
+Presidente da Comissão Parlamentar de Inquérito da Pandemia - CPIPANDEMIA
 
 Senado Federal
 Praça dos Três Poderes, Anexo II, Ala Alexandre Costa, sala 15 - Subsolo
@@ -52,7 +100,25 @@ Atenciosamente,
 MARCELO QUEIROGA
 Ministro de Estado da Saúde
 
-Documento assinado eletronicamente por Marcelo Antôi
+ 
+
+————.—— Documento assinado eletronicamente por Marcelo Antônio Cartaxo
+seijl Queiroga Lopes, Ministro de Estado da Saúde, em 07/07/2021, às
+tado 15:56, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º,
+do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+
+assinatura
+eletrônica
+
+ 
+de 31 de Março de 2017.
+
+ 
+
+[E]
+
+A autenticidade deste documento pode ser conferida no site
+http: //sei.saude.gov.br/sei/controlador externo .php?
 
  
 
@@ -60,25 +126,412 @@ Documento assinado eletronicamente por Marcelo Antôi
 
  
 
-Cartaxo
+ 
+
+Referência: Processo nº 25000.073646/2021-70 SEI nº 0021523646
+
+Assessoria Parlamentar - ASPAR
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site - saude.gov.br
+CPIPÂANDEMIA
+00473/2021
 
  
 
- 
+SENADO FEDERAL
+
+REQUERIMENTO Nº DE - CPIPANDEMIA
+
+Senhor Presidente,
+
+Requeiro, nos termos do art. 58, S 3º, da Constituição Federal,
+combinado com o art. 2º da Lei nº 1,579/1952 e o art. 148 do Regimento Interno do
+Senado Federal, que seja encaminhado, em até 24h, pelo Ministério da Saúde e pela
+Fundação Oswaldo Cruz cópia, na íntegra, do Termo de Contrato de Encomenda
+Tecnológica nº 01/2020, celebrado entre a FIOCRUZ, o Instituto de Tecnologia em
+
+Imunobiológicos - Bio-Manguinhos e a Astrazeneca UK Limited
+
+JUSTIFICAÇÃO
+
+O Brasil já superou a terrível marca de 414 mil mortes por Covid-19.
+Chegamos a registrar mais de 4 mil mortes em apenas um dia. Vivemos uma
+tragédia sem precedentes. Infelizmente, os números de novos casos e óbitos
+continuam altíssimos e não há nenhum sinal de que essa tragédia esteja perto do
+
+fim.
+
+Presenciamos o colapso dos sistemas de saúde pelo país - sem vagas nos
+hospitais para os doentes, pacientes sendo atendidos em corredores. Os sistemas
+funerários do país não conseguem lidar com os altíssimos números de mortos.
+Presenciamos a falta de oxigênio, especialmente no estado do Amazonas. Há
+falta de medicamentos básicos, como sedativos para a intubação dos pacientes,
+
+enquanto sobram medicamentos sem nenhuma comprovação científica.
+
+Hoje, o país é visto como uma ameaça sanitária pelo mundo. Diversos
+
+países suspenderam voos com o Brasil. Há restrições para a entrada de brasileiros
 
  
+em quase todas as nações do planeta. A respeitada organização Médicos sem
+
+Fronteiras classificou a situação do Brasil como uma "catástrofe humanitária",
+
+Só foi possível chegar a essa situação catastrófica por conta dos
+inúmeros e sucessivos erros e omissões do governo no enfrentamento da pandemia
+da Covid-19 no Brasil. Falhas na estratégia de comunicação; nas ações de vigilância
+e mapeamento da pandemia; promoção de tratamentos ineficazes; má gestão das
+necessidades de leitos de UTIs no país; falhas no planejamento de fornecimento de
+insumos básicos como oxigênio, medicamentos, EPIs, testes, respiradores; atraso e
+
+omissão para a compra de vacinas.
+
+Para investigar esses erros e omissões, esta Comissão Parlamentar de
+Inquérito necessita ter acesso a informações e documentos detalhados a respeito
+da gestão do Governo Federal no enfrentamento da pandemia da Covid-19. Uma
+das principais omissões do governo tem sido na aquisição tempestiva de vacinas
+contra a covid-19. Para subsidiar as investigações e oitivas da CPI, propomos a
+apresentação do presente Requerimento para que sejam encaminhados, em até
+24h, pelo Ministério da Saúde e pela Fundação Oswaldo Cruz cópia completa
+do Termo de Contrato de Encomenda Tecnológica nº 01/2020, celebrado entre
+a FIOCRUZ, o Instituto de Tecnologia em Imunobiológicos - Bio-Manguinhos e
+
+Astrazeneca UK Limited.
+
+Sala da Comissão, 7 de maio de 2021.
+
+Senador Randolfe Rodrigues
+(REDE - AP)
+Líder da REDE Sustentabilidade
+
+ 
+21/05/2021 SEI/FIOCRUZ - 0762280 - Ofício Presidência.
+
+Ministério da Saúde
+
+FIOCRUZ
+Fundação Oswaldo Cruz
+
+Presidência
+
+OFÍCIO nº 416/2021/PRESIDÊNCIA/FIOCRUZ
+
+Rio de Janeiro, 17 de maio de 2021.
+
+Ao Senhor
+
+Omar Aziz
+
+Senador
+
+Presidente da CPI Pandemia
+
+Senado Federal - COCETI
+
+Anexo II, Ala Senador Alexandre Costa, Sala 15, Subsolo
+70165-900 - Brasília - DF
+
+Assunto: Resposta ao Oficio nº 1093/2021 - CPIPANDEMIA
+
+Excelentissimo Senador,
+
+1. Em resposta ao Ofício nº 1093/2021 - CPIPANDEMIA, de autoria do Presidente da CPI da Pandemia, Senador Omar Aziz, o qual
+faz referência ao requerimento do Senado Federal nº 473/2021/CPIPANDEMIA, de autoria do Senador Randolfe Rodrigues, que solicita o
+envio de cópia integral do Termo de Contrato de Encomenda Tecnológica nº 01/2020, celebrado entre a FIOCRUZ, o Instituto de Tecnologia
+em Inobmiológicos-Bio Manguinhos e a Aztrazeneca UK Limited, apresenta as considerações abaixo.
+
+2. Conforme consta do Termo de Classificação da Informação (TCI), o documento em questão foi classificado segundo o grau de
+sigilo como secreto, devendo observar o tratamento dispensado pela Lei 12527/2011 e seus regulamentos, bem como o procedimento para
+classificação e tratamento das informações sigilosas da Fiocruz.
+
+3. O documento somente está sendo disponibilizado em virtude de determinação da CPI da Pandemia e da garantia prestada
+pelo Secretário de Comissão, Sr. Leandro Cunha Bueno, de que os os documentos sigilosos somente serão acessados por parlamentares e
+servidores cadastrados, os quais possuem o dever de guardar sigilo. E, ainda, que os documentos sigilosos são somente registrados
+e inseridos na área de documentos da CPI com essa qualificação, sendo guardados em uma sala cofre.
+
+4. Assim, encaminha-se, em formato físico, considerando a restrição de circulação do documento, cópia autenticada do contrato
+de encomenda tecnológica na integra (confidencial) e no seu modelo tachado (público), devidamente acompanhado do seu TCI.
+5. Coloca-se à disposição para esclarecimento adicionais.
+
+Anexos: — I- Termo de Contrato de Encomenda Tecnológica nº 01/2020, celebrado entre a FIOCRUZ, o Instituto de Tecnologia em
 
  
 
- 
+Tnobmiológicos-Bio Manguinhos e a Aztrazeneca UK Limited na íntegra . (Documento sigiloso)
 
-— [ seil ;= | Queiroga Lopes, Ministro de Estado da Saúde, em 07/07/2021, às —
-=; | 25h [)/15:56, conforme horário oficial de Brasilia, com fundamento no art. 69, $ 10,
-E clvônia — ) do Decreto nº 8,539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+II - Termo de Contrato de Encomenda Tecnológica nº 01/2020, celebrado entre a FIOCRUZ, o Instituto de Tecnologia em
+Inobmiológicos-Bio Manguinhos e a Aztrazeneca UK Limited tachado.
 
-e AsersimaridaiDownloai/O fio, Presidencia .OZTR31A him ne
+III - Termo de Classificação da Informação (TCT) na integra. (Documento sigiloso).
+IV- Termo de Classificação da Informação (TCT) tachado.
+V- Guia de remessa e recebimento.
+
+VI-Procedimento para Classificação e Tratamento das Informações Sigilosas da Fiocruz.
+
+Atenciosamente,
 
   
 
-Er
+Documento assinado eletronicamente por NISIA VERONICA TRINDADE LIMA, Presidente, em 17/05/2021, às 16:29, conforme horário
+oficial de Brasília, com fundamento no art. 6º, 5 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+      
+
+E 8
+
+ 
+
+https://seifiocniz.br/seilcontrolador php?acao= documento. imprimir. web&acao. origem=arvore visualizar&id documento=78765 18infra sistema... 1/2
+21/05/2021 SEI/FIOCRUZ - 0762280 - Ofício Presidência.
+
+[E] A autenticidade deste documento pode ser conferida no site http://sei.fiocruz br/sei/controlador externo, php?
+acao=documento conferir&id orgao acesso externo=0, informando o código verificador 0762280 e o código CRC 085B9CDC.
+
+  
+
+ 
+
+ 
+
+ 
+
+Ay. Brasil, 4365 — Manguinhos Rio de Janeiro — RJ — Brasil - CEP 21040-90
+Tel: (55) (21) 3885-1616/1643/1644/1663 — PABX
+E-mail: presidencia(ofiocruzbr gabinete(D fiocruz,br
+http:/Awwrye fiocruz,br
+
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 25027.000090/202102 seIns0762280
+
+https://seifiocnizbr/seilcontrolador php?acao= documento. imprimir. web&acao. origem=arvore visualizar&id documento=78765 18infra sistema... 2/2
+21/05/2021 SEI/FIOCRUZ - 0778314 - Ofício Presidência.
+
+Ministério da Saúde
+
+FIOCRUZ
+Fundação Oswaldo Cruz
+
+Presidência
+
+OFÍCIO nº 432/2021/PRESIDÊNCIA/FIOCRUZ
+
+Rio de Janeiro, 21 de maio de 2021.
+
+Ao Senhor
+
+Leonardo Batista Silva
+
+Chefe da Assessoria Parlamentar
+
+Ministério da Saúde
+
+Esplanada dos Ministérios, Bloco G - Zona Cívico-Administrativa
+70.058-900 - Brasília - DF
+
+Assunto: Requerimento do Senado Federal nº 473/20211/2021/CPIPANDEMIA.
+
+Processo nº 25000.073646/2021-70
+
+Senhor Assessor,
+
+  
+
+1 Conforme solicitado através do OFÍCIO Nº 2715/2021/ASPAR/GM/MS, referente a resposta ao Ofício nº 1094/2021 -
+CPIPANDEMIA, de autoria do Presidente da CPI da Pandemia, Senador Omar Aziz, o qual faz referência ao Requerimento do Senado
+Federal nº 473/20211/2021/CPIPANDEMIA , informamos que a documentação foi encaminhada à secretaria da CPI da Pandemia no dia 17
+de maio de 2021, conforme OFÍCIO nº 416/2021/PRESIDÊNCIA/FIOCRUZ.
+
+Anexos:  I- OFÍCIO nº 416/2021/PRESIDÊNCIA/FIOCRUZ (SEI nº 0778327).
+
+Atenciosamente,
+
+ 
+
+seil a
+
+Documento assinado eletronicamente por NISIA VERONICA TRINDADE LIMA, Presidente, em 21/05/2021, às 15:36, conforme horário
+oficial de Brasília, com fundamento no art. 6º, $ 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+assinatura
+eletrônica
+
+ 
+
+ 
+
+ 
+
+A autenticidade deste documento pode ser conferida no site http://sei.fiocruz.br/sei/controlador externo. php?
+acao=documento conferir&id orgao acesso externo=o, informando o código verificador 0778314 e o código CRC 1890D5DS.
+
+    
+
+ 
+
+Av. Brasil, 4365 - Manguinhos Rio de Janeiro - RJ - Brasil - CEP 21040-90
+Tel: (55) (21) 3885-1616/1643/1644/1663 — PABX
+E-mail: prosidencia(fiocruz.br gabinete(Dfiocruz.br
+
+http:/Awwrwefiocruz br
+
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 25027.000101/2021-46 seineor78a1A
+
+file:///C:/Users/marilda/Downloads/Oficio, Presidencia. -0778314.html 14
+ 
+
+Ministério da Saúde
+Secretaria Executiva
+Gabinete da Secretaria Executiva
+
+DESPACHO
+
+SE/GAB/SE/MS
+Brasília, 24 de maio de 2021.
+
+Assunto: Requerimento de Informação nº 473/2021/CPIPANDEMIA -
+Senador Randolfe Rodrigues (REDE-AP).
+
+1, Ciente.
+
+2. Trata-se do Ofício nº 1094/2021 - CPIPANDEMIA (0020590394), do
+Presidente da CPI da Pandemia, Senador Omar Aziz (PSD/AM), o qual faz
+referência ao Requerimento de Informação nº 473/2021/CPIPANDEMIA
+(0020590531), de autoria do Senador Randolfe Rodrigues, por meio do qual
+requer que seja encaminhada, em até 24h, pelo Ministério da Saúde e pela
+Fundação Oswaldo Cruz, cópia, na íntegra, do Termo de Contrato de Encomenda
+Tecnológica nº 01/2020, celebrado entre a FIOCRUZ, o Instituto de Tecnologia
+em Imunobiológicos - Bio-Manguinhos e a Astrazeneca UK Limited.
+
+3. Acerca do assunto, o Departamento de Logística em Saúde, por
+meio do Despacho DLOG (0020682167) informa que o Termo de Contrato de
+Encomenda Tecnológica nº 01/2020, celebrado entre a FIOCRUZ, o Instituto de
+Tecnologia em Imunobiológicos - Bio-Manguinhos e a Astrazeneca UK Limited
+não foi tramitado naquele Departamento.
+
+4. Ressalte-se ainda que o referido contrato foi encaminhado
+diretamente à secretaria da CPI da Pandemia pela Fundação Oswaldo Cruz,
+conforme Ofício nº 416/2021/PRESIDÊNCIA/FIOCRUZ (0020703097 -
+0020703384).
+
+5. Isto posto, restitua-se ao Chefe da Assessoria Parlamentar
+- ASPAR/GM/MS, para conhecimento e providências subsequentes.
+
+ALESSANDRO GLAUCO DOS ANJOS DE VASCONCELOS
+Secretário-Executivo Adjunto
+
+ 
+
+Documento assinado eletronicamente por Alessandro Glauco dos Anjos de
+Vasconcelos, Secretário-Executivo Adjunto, em 25/05/2021, às 21:04,
+conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
+
+ 
+  
+  
+
+| elexrônica
+
+— JDecreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de
+31 de Março de 2017.
+
+io A autenticidade deste documento pode ser conferida no site
+
+http: //sei.saude.gov.br/sei/controlador externo .php?
+
+fà acao=documento conferir&id orgao acesso externo=0, informando o
+Já código verificador 0020717587 e o código CRC 7B13D89F.
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.073646/2021-70 SEI nº 0020717587
+ 
+
+Ministério da Saúde
+Gabinete do Ministro
+Assessoria Parlamentar
+
+DESPACHO
+
+ASPAR/GM/MS
+Brasília, 07 de julho de 2021.
+
+Ao Gabinete do Ministro
+
+Assunto: Requerimento do Senado Federal nº 473/2021 - CPIPANDEMIA -
+Remessa pelo Ministério da Saúde e pela Fundação Oswaldo Cruz cópia, na
+íntegra, do Termo de Contrato de Encomenda Tecnológica nº 01/2020,
+celebrado entre a FIOCRUZ, o Instituto de Tecnologia em Imunobiológicos -
+Bio-Manguinhos e a Astrazeneca UK Limited.
+
+1. Trata-se do Ofício n.º 1094/2021, da Comissão Parlamentar de
+Inquérito da Pandemia - CPIPANDEMIA, do Senado Federal (0020590394),
+que encaminha o Requerimento do Senado Federal n.º
+
+473/2021 (0020590531), de autoria do Senador Randolfe Rodrigues, por meio
+do qual requer que seja encaminhada, em até 24h, pelo Ministério da Saúde
+e pela Fundação Oswaldo Cruz, cópia, na íntegra, do Termo de Contrato de
+EncomendaTecnológica nº 01/2020, celebrado entre a FIOCRUZ, o Instituto
+de Tecnologia em Imunobiológicos - Bio-Manguinhos e a Astrazeneca UK
+Limited,
+
+2. Em resposta, encaminho por meio do link eletrônico
+disponibilizado por essa Comissão, para ciência e atendimento à solicitação do
+
+referido a
+
+Requerimento, o Ofício 432/2021/PRESIDÊNCIA/FIOCRUZ (0020703384), elaborado pela
+Fundação Oswaldo Cruz - FIOCRUZ, no qual informa que o contrato acima
+
+requerido foi encaminhado diretamente à secretaria dessa CPI da Pandemia,
+
+conforme cópia anexa do Ofício nº
+416/2021/PRESIDÊNCIA/FIOCRUZ (0020703097) e o Despacho
+SE/GAB/SE/MS (0020717587), elaborado pelo Gabinete da Secretaria
+
+Executiva - SE/MS.
+
+PAULO TIAGO ALMEIDA MIRANDA
+Chefe da Assessoria Parlamentar Substituto
+
+ 
+
+- Documento assinado eletronicamente por Paulo Tiago Almeida Miranda,
+seil aJEE da Assessoria Parlamentar substituto(a), em 07/07/2021, às
+a LÊ)
+
+ 
+
+17:28, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 19,
+do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+
+de 31 de Março de 2017.
+
+assinatura
+eletrônica
+
+ 
+
+   
+ 
+
+E
+
+A autenticidade deste documento pode ser conferida no site
+http: //sei.saude.gov.br/sei/controlador externo.php?
+acao=documento corferir&id orgao acesso externo=0, informando o
+: código verificador 0021524092 e o código CRC EOOB5C15.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.073646/2021-70 SEI nº 0021524092
 

@@ -1,33 +1,668 @@
-SEIMS - 0019155275 - Contrato esjo2puar 16:27
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
+
+ 
+
+Ministério da Saúde
+Secretaria Executiva
+Departamento de Logística em Saúde
+Coordenação-Geral de Aquisições de Insumos Estratégicos para Saúde
+Coordenação de Licitações e Análise de Mercado de Insumos Estratégicos para Saúde
+Divisão de Análise das Aquisições de Insumos Estratégicos para Saúde
+
+CONTRATO Nº 29/2021
+
+Processo nº 25000.175250/2020-85
+
+CONTRATO QUE ENTRE SI
+CELEBRAM A UNIÃO, POR
+INTERMÉDIO DO DEPARTAMENTO
+DE LOGÍSTICA EM SAÚDE DA
+SECRETARIA EXECUTIVA DO
+MINISTÉRIO DA SAÚDE E A BHARAT
+BIOTECH LIMITED INTERNATIONAL,
+REPRESENTADA PELA EMPRESA
+PRECISA (COMERCIALIZAÇÃO DE
+MEDICAMENTOS LTDA.
+
+A UNIÃO por intermédio do Departamento de Logísca em Saúde da Secretaria Execuva do Ministério
+da Saúde, inscrita no CNPJ sob o nº 00.394.544/0008-51, com sede em Brasília — DF, neste ato
+representada por seu Diretor, Sr. ROBERTO FERREIRA DIAS, portador da Carteira de Idendade RG
+nº 152.991.800, expedida pela SSP/PR, e inscrito no CPF sob o nº 086.758 .087-98, em conformidade
+com a Portaria nº 262, de 08/01/2019, publicada no Diário Oficial da União n.º 6, de 09/01/2019,
+doravante denominada CONTRATANTE, e de outro lado a empresa BHARAT BIOTECH LIMITED
+INTERNATIONAL, representanda pela empresa PRECISA COMERCIALIZAÇÃO DE
+MEDICAMENTOS LTDA, CNPJ: 03.394.819/0005-00, com sede na Avenida Portugal nº 1100, Rua 5,
+Parte A-14-B, Itaqui, Itapevi/SP, CEP: 06.696-060, doravante denominada CONTRATADA, neste ato
+representada por EMANUELA BATISTA DE SOUZA MEDRADES, portadora da Carteira de
+Idendade RG nº 354,357.591, expedida pela SSP/SP, e inscrita no CPF nº 330.976.208-42, de acordo
+com o constante no Processo Eletrônico nº 25000.175250/2020-85, em observância às disposições da
+Lei nº 8.666, de 21 de junho de 1993 e da Medida Provisória nº 1.026, de 6 de janeiro de 2021,
+resolvem celebrar o presente Termo de Contrato, por meio da Dispensa de Licitação nº 10/2021, com
+fundamento no Artigo 2º, inciso I, da Medida Provisória nº 1.026/2021 e mediante as cláusulas e
+condições a seguir enunciadas:
+
+ 
+
+https://sei.saude.gov.br/sei/documento. consulta externa.php?id...o acesso externo=O&infra hash=419bc60208643dbtf37917b0d9189b04 Página 1 de 11
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
+
+1. CLÁUSULA PRIMEIRA - DO OBJETO
+
+JA. O objeto do presente Termo de Contrato é a aquisição de VACINA, COVID-I9
+
+(CORONAVÍRUS, SARS-COV-2), INJETÁVEL (Covaxin/BBV152), conforme especificações
+estabelecidas no Termo de Referência e na proposta final, as quais integram este instrumento,
+independente de transcrição.
+
+1.2. Discriminação do objeto:
+
+ 
+
+Descrição do Item
+(Objeto)
+
+| Rem uu
+| VACINA, COVID-19
+1
+
+Unidade | Valor
+
+e de Medida | Quantidade unitário
+
+ 
+
+| (CORONAVÍRUS, SARS-COV-
+2), INJETÁVEL
+(Covaxin/BBV152)
+
+BR0475096 Doses 20.000.000 US$ 15,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.3. A CONTRATANTE terá O direito de exclusividade/preferência na aquisição de doses da
+VACINA, COVID-I9 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL (Covaxin/BBV152)
+produzidas ou importadas pela Contratada em todo o território nacional, enquanto durar a pandemina.
+
+14. A CONTRATANTE poderá autorizar em caráter excepcional a comercialização pela
+Contratada de doses da VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL
+(Covaxin/BBV152), devendo, para tanto, ser notificada formalmente sobre a intenção de venda com
+antecedência mínima de 20 (vinte) dias da data prevista para contratação junto a outro ente, sobre a
+intenção de venda, com a devida justificativa.
+
+Ls. A CONTRATANTE deverá se manifestar sobre a autorização de comercialização/venda
+no prazo máximo de 05 (cinco) dias a contar da data do protocolo da notificação formal.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. CLÁUSULA SEGUNDA - DA FORMA DE Fi ORNECIMENTO
+21. Cronograma de entrega:
+VACINA, COVID-19 (CORONAVÍIRUS, SARS-COV-2), INJETÁVEL
+QUANTITATIVO | PRAZO MÁXIMO DE ENTREGA
+
+PARCELA (DOSES) (ATÉ)
+
+Já 4.000.000 20 dias após a assinatura do Contrato
+
+2º 4.000.000 30 dias após a assinatura do Contrato
+
+3º | 4.000.000 45 dias após a assinatura do Contrato
+
+4 | 4.000.000 60 dias após a assinatura do Contrato
+
+5 4.000.000 70 dias após a assinatura do Contrato
+
+TOTAL | 20.000.000
+
+22. A CONTRATANTE poderá anuir com a alteração do cronograma, desde que verificada à
+
+ausência de culpa da CONTRATADA em possível atraso injustificado.
+
+23. Havendo necessidade de prorrogação ou antecipação no cronograma, ou do quantitativo
+da respectiva parcela de entrega, caberá à CONTRATADA encaminhar ofício com embasamento
+técnico e justificativas, incumbindo à CONTRATANTE se manifestar quanto ao impacto da alteração e
+o aceite ou não da nova proposta, de acordo com o interesse da Administração.
+
+https://sei.saude.gov.br/sei/documento. consulta externa.php?id..o acesso externo=0&infra hash=4f9bc60208643dbif37917b0d9189b04 Página 2 de
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
+
+24. Os ofícios de prorrogação dos cronogramas, ou de alteração dos quantitativos das
+parcelas, somente serão apreciados se encaminhados com antecedência mínima de 30 (trinta) dias da
+data prevista para a entrega de cada parcela, ressalvados os casos fortuitos ou de força maior.
+
+25, O quantitativo final do lote a ser entregue deverá ser confirmado por oficio ao Ministério
+da Saúde com a antecedência mínima de dois dias úteis antes da data de entrega, sem prejuízo ao
+exposto do item anterior.
+
+3. CLÁUSULA TERCEIRA - DA VIGÊNCIA
+
+31. O prazo de vigência deste Termo de Contrato inicia-se na data de sua assinatura e
+vigorará por 12 (doze) meses, prorrogáveis, nos termos do artigo 57, 81º, da Lei nº 8.666 de 1993.
+
+4. CLÁUSULA QUARTA - DO PREÇO
+
+41. O valor total do presente Termo de Contrato é de US$ 300.000.000,00 (trezentos milhões
+de dólares americanos), que convertidos na hipótese de US$ 1,00 para R$ 5,38 perfaz o valor total
+estimado de R$ 1.614.000.000,00 (um bilhão, seiscentos e quatorze milhões de reais).
+
+42. No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas
+decorrentes da execução contratual, inclusive tributos e/ou impostos, encargos sociais, trabalhistas,
+previdenciários, fiscais e comerciais incidentes, taxa de administração, frete, seguro e outros
+necessários ao cumprimento integral do objeto da contratação.
+
+5. CLÁUSULA QUINTA - DA DOTAÇÃO ORÇAMENTÁRIA
+
+51. As despesas decorrentes desta contratação estão programadas em dotação orçamentária
+própria, prevista no orçamento da União, para o exercício de 2021, na classificação abaixo:
+
+Gestão/Unidade: 00001/250005
+
+Fonte: Decreto nº 10.595 de 07/01/2021.
+Programa de Trabalho: 10.122.5018.21C0.6500
+Elemento de Despesas: 33.90.30.
+
+52. No exercício seguinte, se for o caso, as despesas correrão à conta dos recursos próprios
+para atender às despesas da mesma natureza, cuja alocação será feita no início de cada exercício
+financeiro, recursos já destacados e aprovados por Medida Provisória no exercício de 2020.
+
+6. CLÁUSULA SEXTA - DO PAGAMENTO
+
+6.1. O pagamento só será feito uma vez concluída a análise e a eventual aprovação integral
+pela Anvisa, para uso emergencial e temporário e/ou registro definitivo.
+
+62. O pagamento à CONTRATADA, que apresentar proposta de preço em moeda
+estrangeira, será realizado no prazo máximo de até 30 (trinta) dias, contados a partir da apresentação
+dos documentos que comprovem a efetiva entrega do objeto contratado (AWB, Invoice, Packing-list)
+na Coordenação de Execução Orçamentária e Financeira - CEOF, que providenciará a autorização do
+
+https://sei.saude.gov.br/sei/documento. consulta, externa.php?id...o acesso. externo=O&infra hash=4f9bc60208643dbff37917b0d9189b04 Página 3 de 1
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
+
+responsável pelo Departamento de Logística em Saúde - DLOG, de acordo com as normas internas em
+vigor.
+
+621. No caso de entregas efetuadas antes da aprovação integral pela Anvisa, para uso
+emergencial e temporário e/ou registro definitivo, o prazo de que trata o subitem anterior somente será
+iniciado após, cumulativamente, serem efetivadas tanto a aprovação em questão, em qualquer
+modalidade, quanto a entrega do objeto a ser pago.
+
+63. Para cada parcela liquidada, será pago pela CONTRATANTE à Instituição Financeira,
+responsável pela realização da operação de contratação cambial, comissão bancária sobre o valor da
+operação a ser realizada.
+
+64. A CONTRATADA brasileira que apresentar proposta de preço em moeda estrangeira terá
+o pagamento efetuado em moeda brasileira à taxa de câmbio vigente, PTAX, fornecida pelo Banco
+Central do Brasil (www.bcb,gov.br) no dia útil imediatamente anterior à data do efetivo pagamento.
+Para tal, se fará necessária a apresentação de uma nova Nota Fiscal Complementar contemplando a
+diferença decorrente da variação cambial a maior. Na hipótese de o câmbio estar a menor, será
+necessária a glosa do valor.
+
+65. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de que
+trata o inciso II do art. 24 da Lei 8.666, de 1993, deverão ser efetuados no prazo de até 5 (cinco) dias
+
+úteis, contados da data da apresentação da Nota Fiscal, nos termos do art. 5º, 8 3º, da Lei nº 8.666, de
+1993,
+
+66. Considera-se ocorrido o recebimento da nota fiscal ou fatura no momento em que o
+órgão contratante atestar a execução do objeto do contrato.
+
+6.7. A Nota Fiscal ou Fatura deverá ser obrigatoriamente acompanhada da comprovação da
+regularidade fiscal, constatada por meio de consulta on-line ao SICAF ou, na impossibilidade de acesso
+ao referido Sistema, mediante consulta aos sítios eletrônicos oficiais ou à documentação mencionada no
+art. 29 da Lei nº 8.666, de 1993.
+
+6.8. Constatando-se, junto ao SICAF, a situação de irregularidade do fornecedor contratado,
+deverão ser tomadas as providências previstas no art. 31 da Instrução Normativa nº 3, de 26 de abril de
+2018.
+
+69. Havendo erro na apresentação da Nota Fiscal ou dos documentos pertinentes à
+contratação, ou, ainda, circunstância que impeça a liquidação da despesa, como, por exemplo,
+obrigação financeira pendente, decorrente de penalidade imposta ou inadimplência, o pagamento ficará
+sobrestado até que a Contratada providencie as medidas sancadoras. Nesta hipótese, o prazo para
+pagamento iniciar-se-á após a comprovação da regularização da situação, não acarretando qualquer
+ônus para a Contratante.
+
+6.10. Será considerada data do pagamento o dia em que constar como emitida a ordem
+bancária para pagamento.
+
+6.11. Antes de cada pagamento à contratada, será realizada consulta ao SICAF para verificar a
+manutenção das condições de habilitação exigidas no TR.
+
+6.12. Constatando-se, junto ao SICAF, a situação de irregularidade da contratada, será
+providenciada sua notificação, por escrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua
+situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual
+período, a critério da contratante.
+
+6.13. Previamente à emissão de nota de empenho e a cada pagamento, a Administração deverá
+realizar consulta ao SICAF para identificar possível suspensão temporária de participação em licitação,
+no âmbito do órgão ou entidade, proibição de contratar com o Poder Público, bem como ocorrências
+
+https://sei.saude .gov.br/sei/documento consulta externa .php?id...o acesso externo=0&infra hash=4f9bc60208643dbff37917b0d9189b04 Página 4 de 11
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
+
+impeditivas indiretas, observado o disposto no art. 29, da Instrução Normativa nº 3, de 26 de abril de
+2018.
+
+6.14, Não havendo regularização ou sendo a defesa considerada improcedente, a contratante
+deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à
+inadimplência da contratada, bem como quanto à existência de pagamento a ser efetuado, para que
+sejam acionados os meios pertinentes e necessários para garantir o recebimento de seus créditos.
+
+615. Persistindo a irregularidade, a contratante deverá adotar as medidas necessárias à
+rescisão contratual nos autos do processo administrativo correspondente, assegurada à contratada a
+ampla defesa.
+
+6.16. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até
+que se decida pela rescisão do contrato, caso a contratada não regularize sua situação junto ao SICAF.
+
+617. Será rescindido o contrato em execução com a contratada inadimplente no SICAF, salvo
+por motivo de economicidade, segurança nacional ou outro de interesse público de alta relevância,
+devidamente justificado, em qualquer caso, pela máxima autoridade da contratante.
+
+6.18. Quando do pagamento, será efetuada a retenção tributária prevista na legislação
+aplicável.
+6.19. A Contratada regularmente optante pelo Simples Nacional, nos termos da Lei
+
+Complementar nº 123, de 2006, não sofrerá a retenção tributária quanto aos impostos e contribuições
+abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à apresentação de
+comprovação, por meio de documento oficial, de que faz jus ao tratamento tributário favorecido
+previsto na referida Lei Complementar.
+
+6.20. Nos casos de eventuais atrasos de pagamento, desde que a Contratada não tenha
+concorrido, de alguma forma, para tanto, fica convencionado que a taxa de compensação financeira
+devida pela Contratante, entre a data do vencimento e o efetivo adimplemento da parcela, é calculada
+mediante a aplicação da seguinte fórmula:
+
+EM=IxNx VP, sendo:
+EM = Encargos moratórios;
+
+N = Número de dias entre a data prevista para o pagamento e a do efetivo pagamento;
+VP = Valor da parcela a ser paga.
+
+1= Índice de compensação financeira = 0,00016438, assim apurado:
+
+ 
+
+1=0,00016438
+
+ 
+
+ 
+
+I=(TX) I= Cai 00) | rx = Percentual da taxa anual = 6%
+7. CLÁUSULA SÉTIMA - DA GARANTIA DE EXECUÇÃO
+74. A CONTRATADA, no prazo de 10 dias após a assinatura do Termo de Contrato ou
+
+aceite do instrumento equivalente, prestará garantia no valor de US$ 15.000.000,00 (quinze milhões de
+dólares americanos), que convertidos na hipótese de US$ 1,00 para R$ 5,38 perfaz o valor total
+estimado de R$ 80.700.000,00 (oitenta milhões e setecentos mil reais) correspondente a 5% do valor
+do Contrato, que será liberada de acordo com as condições previstas no Termo de Referência, conforme
+disposto no art. 56 da Lei nº 8.666, de 1993, desde que cumpridas as obrigações contratuais.
+
+72. Caberá ao contratado optar por uma das seguintes modalidades de garantia:
+
+https://sei.saude.gov.br/sei/documento. consulta externa. php?id...o. acesso externo=08infra. hash=4f9bc60208643dbif37917b0d9189b04 Página 5 dem
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
+
+721, Caução em dinheiro ou em títulos da dívida pública, devendo estes ter sido emitidos sob
+a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado
+
+pelo Banco Central do Brasil e avaliados pelos seus valores econômicos, conforme definido pelo
+Ministério da Fazenda;
+
+722. Seguro-garantia;
+723. Fiança bancária.
+73. A garantia em dinheiro deverá ser efetuada em favor da Contratante, na Caixa
+
+Econômica Federal, com correção monetária, em favor do contratante.
+
+74. No caso de alteração do valor do contrato, ou prorrogação de sua vigência, a garantia
+deverá ser readequada ou renovada nas mesmas condições.
+
+75. Se o valor da garantia for utilizado total ou parcialmente em pagamento de qualquer
+obrigação, a Contratada obriga-se a fazer a respectiva reposição no prazo máximo de 10 dias úteis,
+contados da data em que for notificada.
+
+76. A Contratante executará a garantia na forma prevista na legislação que rege a matéria.
+
+77. A garantia prestada pelo contratado será liberada ou restituída após a execução do
+contrato e, quando em dinheiro, atualizada monetariamente. (artigo 56, 84º da Lei nº 8666/93).
+
+8. CLÁUSULA OITAVA - DO REAJUSTE
+
+8.1. As regras acerca do reajuste do valor contratual são as estabelecidas no Termo de
+Referência.
+
+9. CLÁUSULA NONA - DAS ALTERAÇÕES
+
+91. Eventuais alterações contratuais reger-se-ão pela disciplina do art. 65 da Lei nº 8.666, de
+1993.
+
+9.2. A CONTRATADA é obrigada a aceitar, nas mesmas condições contratuais, os
+
+acréscimos ou supressões que se fizerem necessários, até o limite de 50% (cinquenta por cento) do
+valor inicial atualizado do contrato, conforme o art. 9º da MP 1.026 de 2021.
+
+10. CLÁUSULA DÉCIMA - CRITÉRIO DE ACEITAÇÃO DO OBJETO, ENTREGA
+E RECEBIMENTO
+
+101. OS CRITÉRIOS DE ACEITAÇÃO DO OBJETO são aqueles previstos no Termo de
+Referência.
+
+10.2. DO LOCAL DE ENTREGA:
+
+102.1. As entregas das parcelas deverão ser realizadas de forma centralizada no Almoxarifado
+
+do Ministério da Saúde em São Paulo no endereço abaixo:
+a) Produtos FÁRMACO (Medicamentos/Vacinas/insumos relacionados):
+
+b) Endereço: Rua Jamil João Zarif, nº 684, Jardim Santa Vicência, UNIDADES 11 A
+17 e 18º “Guarulhos — SP
+
+https://sci.saude.gov.br/sei/documento, consulta externa .php?id...o acesso, externo=0&infra hash=4f9bc60208643dbff37917b0d9189b04 Página 6 de 11
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
+
+c) CEP: 07.143-000.
+
+10.22. A Contratada deverá agendar cada entrega, entrando em contato com a área responsável
+através do telefone: (61) 3315-7770 ou (61) 3315.3582.
+
+10,3. DO RECEBIMENTO DO OBJETO:
+
+10341. Nos termos do art. 73, inciso II, alíneas a e b da lei nº 8.666/93, os imunobiológicos,
+
+objeto desta aquisição, serão recebidos da seguinte forma:
+
+103.2. Os bens serão recebidos provisoriamente no prazo de 1 dia, pelo(a) responsável pelo
+acompanhamento e fiscalização do contrato, para efeito de posterior verificação de sua conformidade
+com as especificações constantes neste Termo de Referência e na proposta.
+
+10.393. Os bens poderão ser rejeitados, no todo ou em parte, quando em desacordo com as
+especificações constantes neste Termo de Referência e na proposta, devendo ser substituídos no prazo
+de 15 dias, a contar da notificação da contratada, às suas custas, sem prejuízo da aplicação das
+penalidades.
+
+10.34, Os bens serão recebidos definitivamente no prazo de 15 dias, contados do recebimento
+provisório, após a verificação da qualidade pelo INCQS e quantidade do material e consequente
+aceitação mediante termo circunstanciado.
+
+10.3,5. Na hipótese de a verificação a que se refere o subitem anterior não ser procedida dentro
+do prazo fixado, reputar-se-á como realizada, consumando-se o recebimento definitivo no dia do
+esgotamento do prazo.
+
+10.3.6. O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da
+contratada pelos prejuízos resultantes da incorreta execução do contrato.
+
+Il. CLÁUSULA DÉCIMA PRIMEIRA - DO CONTROLE E DA FISCALIZAÇÃO
+(CRITÉRIO DE MEDIÇÃO)
+Hl. Nos termos do art. 67 Lei nº 8.666, de 1993, será designado representante para
+
+acompanhar e fiscalizar a entrega dos bens, anotando em registro próprio todas as ocorrências
+relacionadas com a execução e determinando o que for necessário à regularização de falhas ou defeitos
+observados.
+
+12, O recebimento de material de valor superior a R$ 176.000,00 (cento e setenta e seis mil
+reais) será confiado a uma comissão de, no mínimo, 3 (três) membros, designados pela autoridade
+competente.
+
+113. A CONTRATANTE indicará um fiscal de contrato ou comissão, que será responsável
+pelo acompanhamento e fiscalização da execução, conforme Portaria GM nº 78/2006 e Circular
+MS/SE/GAB nº 40, emitida pelo Gabinete da Secretaria Executiva, assim como artigos. 67 e 73 da Lei
+nº 8.666/1993.93.
+
+114. O Fiscal/comissão do contrato deverá manter permanente vigilância sobre as obrigações
+da CONTRATADA, definidas nos dispositivos contratuais e condições do Termo de Referência e,
+fundamentalmente, quanto à inarredável observância aos princípios e preceitos consubstanciados na Lei
+nº 8.666/93, com suas alterações.
+
+Hs. A fiscalização de que trata este item não exclui nem reduz a responsabilidade da
+Contratada, inclusive perante terceiros, por qualquer irregularidade, ainda que resultante de
+
+https://sei. saude.gov.br/sei/documento, consulta externa.php?id...o acesso externo=08infra hash=419bc60208643dbff37917b0d9189b04 Página 7 de 11
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
+
+imperfeições técnicas ou vícios redibitórios, e, na ocorrência desta, não implica em corresponsabilidade
+
+da Administração ou de seus agentes e prepostos, de conformidade com o art. 70 da Lei nº 8.666, de
+1993,
+
+11.6. O representante da Administração anotará em registro próprio todas as ocorrências
+relacionadas com a execução do contrato, indicando dia, mês e ano, bem como o nome dos funcionários
+eventualmente envolvidos, determinando o que for necessário à regularização das falhas ou defeitos
+observados e encaminhando os apontamentos à autoridade competente para as providências cabíveis.
+
+12. CLÁUSULA DÉCIMA SEGUNDA - DAS OBRIGAÇÕES DA CONTRATANTE E
+DA CONTRATADA
+121. As obrigações da CONTRATANTE e da CONTRATADA são aquelas previstas no
+
+Termo de Referência.
+
+13. CLÁUSULA DÉCIMA TERCEIRA - DAS SANÇÕES ADMINISTRATIVAS
+
+131, As sanções referentes à execução do contrato são aquelas previstas no Termo de
+Referência.
+
+14. CLÁUSULA DÉCIMA QUARTA - DA SUSPENSÃO
+
+14.1. Caso a Anvisa suspenda a produção e o uso da vacina, automaticamente ficarão
+
+suspensas a execução e as obrigações previstas no presente instrumento.
+
+15. CLÁUSULA DÉCIMA QUINTA - DA RESCISÃO
+1541. O presente Termo de Contrato poderá ser rescindido:
+15.11. Por ato unilateral e escrito da Administração, nas situações previstas nos incisos 1 a XII e
+
+XVII do art. 78 da Lei nº 8.666, de 1993, e com as consequências indicadas no art. 80 da mesma Lei,
+sem prejuízo da aplicação das sanções previstas no Termo de Referência, anexo ao Edital;
+
+151.2. Amigavelmente, nos termos do art. 79, inciso II, da Lei nº 8.666, de 1993;
+
+15.13. Caso a Contratada não consiga a autorização para uso emergencial junto à Anvisa, nesta
+hipótese, sem qualquer ônus para a Contratante, não sendo devido, sequer, o pagamento pelas parcelas
+eventualmente entregues;
+
+15.14. Caso, após a autorização para uso emergencial e antes da completa execução do contrato,
+a ANVISA não registre o produto e/ou revogue a autorização para uso emergencial, nessa hipótese, sem
+ônus para a Contratante em relação às doses ainda não entregues. Quanto às doses já entregues e não
+administradas, a Contratante será ressarcida pelo valor pago.
+
+151,5. Por perda da autorização regulatória expedida pela ANVISA;
+
+15.1.6. Pela falta de eficácia da vacina contra variantes que se tornem prevalentes em território
+nacional, em grau tal que impeça de atingir a efetiva imunidade de rebanho por vacinação na população
+brasileira
+
+152. Os casos de rescisão contratual serão formalmente motivados, assegurando-se à
+
+https://sei.saude.gov.br/sei/documento. consulta, externa.php?id...o acesso externo=O&inira hash=419bc60208643dbff37917b0dS189b04 Página 8 de 1
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
+
+CONTRATADA o direito à prévia e ampla defesa.
+
+153. A CONTRATADA reconhece os direitos da CONTRATANTE em caso de rescisão
+administrativa prevista no art. 77 da Lei nº 8.666, de 1993,
+
+154. O termo de rescisão será precedido de Relatório indicativo dos seguintes aspectos,
+conforme o caso :
+
+15441. Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+
+1542. Relação dos pagamentos já efetuados e ainda devidos;
+
+1543. Indenizações e multas.
+
+16. CLÁUSULA DÉCIMA SEXTA - DAS VEDAÇÕES E PERMISSÕES
+
+161. É vedado à CONTRATADA interromper a execução do contrato sob alegação de
+
+inadimplemento por parte da CONTRATANTE, salvo nos casos previstos em lei.
+
+16.2. É permitido à CONTRATADA caucionar ou utilizar este Termo de Contrato para
+qualquer operação financeira, nos termos e de acordo com os procedimentos previstos na Instrução
+Normativa SEGES/ME nº 53, de 8 de julho de 2020.
+
+163. A cessão de crédito, a ser feita mediante celebração de termo aditivo, dependerá de
+comprovação da regularidade fiscal e trabalhista da cessionária, bem como da certificação de que a
+cessionária não se encontra impedida de licitar e contratar com o Poder Público, conforme a legislação
+em vigor, nos termos do Parecer JL-01, de 18 de maio de 2020.
+
+164. A crédito a ser pago à cessionária é exatamente aquele que seria destinado à cedente
+(contratada) pela execução do objeto contratual, com o desconto de eventuais multas, glosas é prejuízos
+causados à Administração, sem prejuízo da utilização de institutos tais como os da conta vinculada e do
+pagamento direto previstos na IN SEGES/ME nº 5, de 2017, caso aplicáveis.
+
+17. CLÁUSULA DÉCIMA SÉTIMA - DOS CASOS OMISSOS
+
+174. Os casos omissos serão decididos pela CONTRATANTE, segundo as disposições
+contidas na Medida Provisória nº 1.026 de 2021; na Lei nº 8.666 de 1993, na Lei nº 10.520 de 2002 e
+demais normas federais de licitações e contratos administrativos e, subsidiariamente, segundo as
+disposições contidas na Lei nº 8.078, de 1990 - Código de Defesa do Consumidor - e normas e
+princípios gerais dos contratos.
+
+18. - CLÁUSULA DÉCIMA OITAVA - DA APROVAÇÃO DA DISPENSA DE
+LICITAÇÃO
+181. A lavratura do presente Contrato referente à Dispensa de Licitação nº 10/2021, com
+
+base no artigo 2º, inciso I, da Medida Provisória nº 1.026, de 6 de janeiro de 2021, foi publicada no
+Diário Oficial - Edição Extra em 19/02/2021, conforme determinado pelo caput do artigo 26 da Lei
+8.666/93.
+
+18.2. Incumbirá à CONTRATANTE, no prazo de cinco dias úteis contados da assinatura deste
+instrumento, providenciar a disponibilização, em sítio oficial específico na rede mundial de
+computadores (internet), do ato de autorização da contratação direta, bem como as disposições da
+Medida Provisória nº 1.026, de 6 de janeiro de 2021, observados, no que couber, os requisitos previstos
+
+https://seisaude.gov.br/sei/documento, consulta externa.php?id...o acesso externo=O8infra hash=449bc60208643dbff37917bod9189b04 Página 9 de 11
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
+
+no $ 3º do art. 8º da Lei nº 12.527, de 18 de novembro de 2011.
+
+18,3. O presente Termo de Contrato se vincula ao Termo de Referência da Contratante e à
+proposta da Contratada.
+
+19. CLÁUSULA DÉCIMA NONA — ALTERAÇÃO SUBJETIVA
+
+191. É admissível a fusão, cisão ou incorporação da contratada com/em outra pessoa jurídica,
+desde que sejam observados pela nova pessoa jurídica todos os requisitos de habilitação exigidos na
+contratação; sejam mantidas as demais cláusulas e condições do contrato; não haja prejuízo à execução
+do objeto pactuado e haja a anuência expressa da Administração à continuidade do contrato.
+
+20. CLÁUSULA VIGÉSIMA - DA SUBCONTRATAÇÃO
+
+20.1. Não será admitida a subcontratação do objeto do Contrato.
+
+21. CLÁUSULA VIGÉSIMA PRIMEIRA - DO FORO
+
+211. É eleito o Foro da Judiciária do Distrito Federal - Justiça Federal para dirimir os litígios
+
+que decorrerem da execução deste Termo de Contrato que não possam ser compostos pela conciliação,
+conforme art. 55, 82º da Lei nº 8.666/93.
+
+E, para firmeza e prova de assim haverem, entre si, ajustado e acordado, após ter sido lido juntamente
+com seu(s) anexo(s), o presente Contrato é assinado eletronicamente pelas partes.
+
+22. TESTEMUNHAS
+Marcelo Batista Costa
+
+CPF: 052.126.897-40
+Departamento de Logística em Saúde - DLOG/SE
+
+Túlio Belchior Mano da Silveira
+CPF: 189.185.558-14
+
+Precisa Comercialização de Medicamentos Ltda.
+
+ 
+    
+
+Usuário Externo, em 25/02/2021, às 14:28, conforme horário oficial de Brasília, com
+fundamento no art. 6º, $ 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria
+nº 900 de 31 d de 2017.
+
+ 
+
+Documento assinado eletronicamente por Emanuela Batista de Souza Medrades, Usuário
+Externo, em 25/02/2021, às 14:31, conforme horário oficial de Brasília, com fundamento no art.
+6º,8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de
+Março de 2017.
+
+https://soi.saude.gov.br/sei/documento. consulta externa. php?id... acesso externo=Oginfra hash=4(9bc60208643dbff37917bOd9189b04 Página 10 de
+SEI/MS - 0019155275 - Contrato 25/02/2021 16:27
 
 Documento assinado eletronicamente por Roberto Ferreira Dias, Diretor(a) do Departamento
 de Logística, em 25/02/2021, às 16:28, conforme horário oficial de Brasília, com fundamento no
-art. 6º, $ 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de
 
+art. 6º,8$ 1º, do Decreto nº 8.539, de 8 de outubro de. 2015; e art. 8º, da Portaria nº 900 de 31 de
 Março de 2017.
 
-  
+| seil
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Documento assinado eletronicamente por Marcelo Batista Costa, Coordenador(a)-Geral de
+Aquisições de Insumos Estratégicos para Saúde substituto(a), em 25/02/2021, às 16:22,
+conforme horário oficial de Brasília, com fundamento no art. 6º,8 1º, do Decreto nº 8.539, de 8
+de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+ 
+
      
     
 
- 
+À autenticidade deste documento pode ser conferida no site
+http://sei saude .gov br! i/controlador externo.php?
 
- 
-
-  
-
- 
-
-Documento assinado eletronicamente por Mareelo Batista Costa, Coordenador(a)-Geral de
-Aquisições de Insumos Estratégicos para Saúde substituto(a), em 25/02/2021. às 16:22,
-conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8
-
-de outubro de 2015; 6 art. 8º, da Portaria nº 900 de 31 de Março de 2017.
-
- 
-
- 
- 
+acao=documento ao acesso externo=0, informando o código verificador
+0019155275 e o código CRC 1CAO7D3B.
 
  
 
@@ -35,43 +670,15 @@ de outubro de 2015; 6 art. 8º, da Portaria nº 900 de 31 de Março de 2017.
 
  
 
-    
+Referência: Processo nº 25000.175250/2020-85
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Processo nº 25000,17525052020-55
+SEI nº 0019155275
 
 Divisão de Análise das Aquisições de Insumos Estratégicos para Saúde - DIVAN
-to Zona Cívico-Administrativa, Brasilia/DF. CEP 70058-900
-Site - saude goubr
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site - saude gov br
 
- 
-
-Esplanada dos Ministérios, Bloca G - Ba
-
-hupsslseiseude aos rieeidncumer: H9beGoz0BGaacb+tarar7nadoragaga na idem
-
-   
+https://sei.saude.gov.br/sei/documento. consulta externa. php?id... acesso externo=OBinira hash=419bo60208643dbff37917b0dS189h04 Página de 11
 

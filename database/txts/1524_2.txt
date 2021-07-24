@@ -1,35 +1,1082 @@
-05/05/2021 SENCGU - 1462968 - Nota Técnica
+05/05/2021 SEI/CGU - 1462968 - Nota Técnica
+
+ 
+
+CONTROLADORIA-GERAL DA UNIÃO
+
+NOTA TÉCNICA Nº 766/2020/GAB-SE/SERGIPE
+
+PROCESSO Nº 00224.100044/2020-66
+
+1. ASSUNTO
+
+Levantamento sobre a tempestividade na divulgação de informações nos Portais de Transparência dos
+municípios e do Estado de Sergipe, especialmente no tocante às contratações voltadas ao enfrentamento do
+coronavírus.
+
+2. INTRODUÇÃO
+
+Diante da pandemia do COVID-19, com a decretação de situação de emergência sanitária por meio da
+
+Portaria MS nº 188, de 03 de fevereiro de 2020, publicada em 04.02.2020 e, no caso de Sergipe, com a
+
+decretação do estado de calamidade pública, por meio do Decreto nº 40.571, de 08.04.2020, o número de
+contratações emergenciais por parte dos entes públicos cresceu e continuará a crescer consideravelmente.
+Além disso, o Ministério da Saúde tem liberado recursos diretamente para os fundos estadual e municipais
+de saúde, seja por meio de emendas parlamentares, seja por meio de ações específicas para combate ao
+COVID-19. Torna-se, portanto, urgente que os órgãos de controle acompanhem atentamente essas
+contratações, buscando assegurar a adequada aplicação dos recursos públicos.
+
+Diante desse cenário, a Controladoria Regional da União no Estado de Sergipe vem acompanhando as
+contratações dos entes públicos sergipanos, com foco especial nas ações voltadas à prevenção, preparação,
+mitigação e resposta frente à pandemia do COVID-19.
+
+Após levantamento dos dados sobre dispensas de licitação realizadas ou não no contexto do combate ao
+COVID-19, verificou-se que a grande maioria dos entes públicos de Sergipe não vem atualizando a
+contento seus portais de transparência, o que dificulta sobremaneira o acompanhamento tempestivo por
+parte da Controladoria-Geral da União e pelos demais órgãos de controle e de combate à corrupção, bem
+como pela sociedade em geral, nos termos do art. 8º da Lei nº 12.527/2011 (Lei de Acesso à Informação)
+e arts. 48 e 48-A da Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal).
+
+3. RECURSOS TRANSFERIDOS PARA AÇÕES DE ENFRENTAMENTO AQ
+COVID-19
+
+Até o dia 13/04/2020, o Estado de Sergipe e seus municípios receberam quase R$ 50 milhões, por meio
+dos seguintes repasses, realizados pelo Ministério da Saúde diretamente aos fundos estadual e municipais
+de saúde, especificamente para ações de enfrentamento ao coronavírus:
+
+Tabela 1 — Repasses federais para o Estado de Sergipe e seus municípios para enfrentamento ao COVID-19
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INCREMENTO INCREMENTO | COVID-I9
+
+MUNICIPIO MAC (R$) PAB (R$) (R$) TOTAL (R$)
+ARACAJU] - - 18.808.105,29 | 18.808.105,29
+LAGARTO - 2.985.039,00 1.228.126,79 [4.213.165,79
+NOSSA SENHORA DO SOCORRO |- 700.000,00] 1.246.180,97 | 1.946.180,97
+ITABAIANA - 330.454,00 1.225.111,27 | 1.555.565,27
+ESTANCIA 300.000,00 - 1.064.004,55 | 1.364.004,55
+CARIRA - 980.000,00 96.175,85 1.076.175,85
+JAPARATUBA - 1.000.000,00 70.290,51 1.070.290,51
+NOSSA SENHORA DAS DORES  |- 850.000,00 129.501,31 [979.501,31
+PORTO DA FOLHA - 650.000,00) 252.504,49 [902.504,49
+RIACHÃO DO DANTAS - 791.500,00 92.573,49 [884.073,49
+AQUIDABA - 750.000,00] 92.181,95 [842.181,95
+
+ 
+
+ 
+
+https:/isei.cgu.goy.briseilcontrolador.pho?acan=decumento. imprimir web&acao. origem-=arvors. visualizarêid. documento=16106268infra siste...
+
+ 
+
+1/8
+05/05/2021
+
+SEI/CGU - 1462968 - Nota Técnica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INCREMENTO [INCREMENTO  |COVID1S
+MUNICIPIO MAC (R$) PAR (R$) R$) TOTAL (R$)
+NOSSA SENHORA DA GLORIA |- 741.559,00 9140687 | [832.965,87
+SAO FRANCISCO - 700.227,00 9.587,60 709.814,60
+SÃO MIGUEL DO ALEIXO - 690.000,00 9.805,31 699.805,31
+INDIAROBA - 600.000,00 61.246,64 [661.246,64
+MONTE ALEGRE DE SERGIPE |- 590.000,00 67.502,88 [657.502,88
+PROPRIA - 200.000,00 396.069,98 | 596.069,98
+PINHÃO - 550.000,00 15.836,65 [565.836,65
+RIACHUELO - 500.000,00 20.280,00 [520.280,00
+CUMBE - 500.000,00 11900,52 [511.900,52
+MARUIM - 400.454,00 97.611,90 [498.065,90
+NOSSA SENHORA APARECIDA |- 470.000,00 22.134,81 [492.134,81
+GRACHO CARDOSO - 474.585,00 17.294,81 | [491.879,81
+SAO DOMINGOS - 450.000,00 24309,27 | [474.309,27
+TOBIAS BARRETO 250.000,00 - 21949282 [469.492,82
+SIMÃO DIAS - 200.000,00 247.076,40 | [447.076,40
+GARARU - 350.000,00 4195541 [39195541
+SÃO CRISTOVÃO - - 374219,2 | |374219,72
+CEDRO DE SAO JOAO - 300.085,00 57.908,28 | [357.993,28
+MURIBECA - 300.000,00 19.449,15 [319.449,15
+NOSSA SENHORA DE LOURDES |- 300.000,00 15.075,70 [315.075,70
+MALHADA DOS BOIS - 250.000,00 9.934,17 259.934,17
+POCO REDONDO - - 252.445,02 [252.445,02
+ARAUA - 200.000,00 45.294,97 [245.294,97
+BOQUIM - 100.000,00 138.650,27 | [238.650,27
+CANINDE DE SÃO FRANCISCO |- - 232461,93 [232.461,93
+ILHA DAS FLORES - 200.000,00 3136833 [231.368,33
+MACAMBIRA - 201.000,00 16.508,40 | [217.508,40
+ITABAIANINHA - - 194.922,65 [194.922,65
+ITAPORANGA D'AJUDA - - 188.923,68 | 188.923,68
+CRISTINAPOLIS - 100.000,00 84.238,54 [184.238,54
+MOITA BONITA - 150.000,00 29.572,42 [179.572,42
+TOMAR DO GERU - 100.000,00 67.490,77 | [167.490,77
+SALGADO - 50.000,00 110.049,83 [160.049,83
+LARANJEIRAS - - 157.491,79 [157.491,79
+POCO VERDE - - 155.414,63 [155.414,63
+AREIA BRANCA - 100.000,00 3689200 136.892,00
+SANTA LUZIA DO ITANHY - 100.000,00 34.396,27 [134.396,27
+PEDRINHAS - 100.000,00 26.389,86 | 126.389,86
+UMBAUBA - - 122.537,12 [122.531,72
+SIRIRI - 100.000,00 2106268 [121.062,68
+CAPELA - - 119.653,62 [119.653,62
+BREJO GRANDE - 90.000,00 22.669,23 [112.669,23
+CANHOBA - 100.000,00 11.769,53 | [111.769,53
+BARRA DOS COQUEIROS - - 109.187,88 [109.187,88
+NEOPOLIS - - 9823425 [98.234,25
+CAMPO DO BRITO - - 80.390,84 [80.390,84
+PACATUBA - - 79.257,83 [79.257,83
+FREIPAULO - - 64.258,30 [64.258,30
+ITABI - 50.000,00 1193945 [61.939,45
+RIBEIROPOLIS - - 58.670,48 [58.670,48
+GENERAL MAYNARD - 50.000,00 6.614,00 56.614,00
+JAPOATA - - 53.215,59 [53.215,59
+CARMOPOLIS - - 4743430 [47.434,30
+
+ 
+
+ 
+
+https:/isei.cgu.goy.briseilcontrolador.pho?acan=decumento. imprimir webã&acao. origem-=arvors. visualizarêid. documento=16106268infra siste...
+
+218
+05/05/2021 SEI/CGU - 1462968 - Nota Técnica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INCREMENTO INCREMENTO | COVID-I9
+
+MUNICIPIO MAC (R$) PAB (R$) (R$) TOTAL (R$)
+ROSARIO DO CATETE - - 2897416 [28.974,16
+MALHADOR - - 28.947,13 [28.947,13
+PIRAMBU - - 26.874,03 [26.874,03
+SANTO AMARO DAS BROTAS |- - 26.325,16 [26.325,76
+SANTANA DO SAO FRANCISCO |- - 24.756,14 [24.756,14
+FEIRA NOVA - - 13.742,44 [13.742,44
+SANTA ROSA DE LIMA - - 12.681,58 [12.681,58
+DIVINA PASTORA - - 11.573,95 11.573,95
+PEDRA MOLE - - 8.560,54 8.560,54
+TELHA - - 8.545,43 8.545,43
+AMPARO DE SÃO FRANCISCO |- - 7.492,73 7.492,73
+TOTAL GERAL 550.000,00 19.394.903,00 29.042.736,91 | 48.987.639,91
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: https://consultafns.saude.gov-br/t/consolidada. Consulta realizada em 13.04.2020.
+
+As colunas INCREMENTO MAC e INCREMENTO PAB dizem respeito a valores já transferidos ao
+estado e a municípios referentes a, respectivamente, emendas parlamentares para incremento temporário
+ao custeio dos serviços de assistência hospitalar e ambulatorial e emendas parlamentares para incremento
+temporário ao custeio dos serviços de atenção básica em saúde. A coluna COVID-19 diz respeito a ação
+específica do Ministério da Saúde para enfrentamento ao coronavírus.
+
+Em relação às emendas parlamentares, a tabela anterior traz apenas os valores já transferidos aos
+municípios. Há, no entanto, quase R$ 50 milhões referentes a emendas já aprovadas, apenas esperando
+empenho ou pagamento, conforme detalhado a seguir:
+
+Tabela 2 — Recursos provenientes de emendas parlamentares específicas para enfrentamento ao COVID-19
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENTE PÚBLICO VALOR TOTAL DAS EMENDAS | VALOR PAGO | VALOR A PAGAR
+LAGARTO 3.784.620,00 2.985.039,00 799.581,00
+ARACAJU 3.640.000,00 - 3.640.000,00
+SERGIPE 3.504.000,00 - 3.504.000,00
+NOSSA SENHORA DA GLORIA [2.842.520,00 741.559,00 2.100.961,00
+CAPELA 2.700.000,00 - 2.700.000,00
+ITABAIANA 2.310.454,00 330.454,00 1.980.000,00
+SAO CRISTOVAO 2.200.000,00 - 2.200.000,00
+JAPARATUBA 2.130.000,00 1.000.000,00 1.130.000,00
+SALGADO 2.050.000,00 50.000,00 2.000.000,00
+NOSSA SENHORA DAS DORES [1.921.748,00 850.000,00 1.071.748,00
+AQUIDABA 1.650.000,00 750.000,00 900.000,00
+CARIRA 1.630.000,00 980.000,00 650.000,00
+AREIA BRANCA 1.600.000,00 100.000,00 1.500.000,00
+MURIBECA 1.400.000,00 300.000,00 1.100.000,00
+ITABAIANINHA 1.400.000,00 - 1.400.000,00
+TOBIAS BARRETO 1.300.000,00 250.000,00 1.050.000,00
+GARARU 1.294.308,00 350.000,00 944.308,00
+ILHA DAS FLORES 1.260.847,00 200.000,00 1.060.847,00
+MONTE ALEGRE DE SERGIPE 1.240.000,00 590.000,00 650.000,00
+MALHADOR 1.150.000,00 - 1.150.000,00
+PORTO DA FOLHA 1.100.000,00 650.000,00 450.000,00
+BREJO GRANDE 1.090.000,00 90.000,00 1.000.000,00
+CEDRO DE SAO JOAO 950.000,00 300.085,00 649.915,00
+RIBEIROPOLIS 950.000,00 - 950.000,00
+GRACHO CARDOSO 901.411,00 474.585,00 426.826,00
+LARANJEIRAS 860.000,00 - 860.000,00
+CARMOPOLIS 850.000,00 - 850.000,00
+NOSSA SENHORA DO SOCORRO | 800.000,00 700.000,00 100.000,00
+PROPRIA 800.000,00 200.000,00 600.000,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https:/isei.cgu.goy.briseilcontrolador.pho?acan=decumento. imprimir webã&acao. origem-=arvors. visualizarêid. documento=16106268infra siste...
+
+318
+05/05/2021 SEI/CGU - 1462968 - Nota Técnica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENTE PÚBLICO VALOR TOTAL DAS EMENDAS | VALOR PAGO | VALOR A PAGAR
+RIACHÃO DO DANTAS 791.500,00 791.500,00 -
+
+SAO FRANCISCO 748.524,00 700.227,00 48.297,00
+DIVINA PASTORA 747.913,00 - 747.913,00
+SAO MIGUEL DO ALEIXO 720.618,00 690.000,00 30.618,00
+MALHADA DOS BOIS 680.000,00 250.000,00 430.000,00
+RIACHUELO 650.000,00 500.000,00 150.000,00
+SIMAO DIAS 650.000,00 200.000,00 450.000,00
+FEIRA NOVA 650.000,00 - 650.000,00
+JAPOATA 650.000,00 - 650.000,00
+SANTANA DO SÃO FRANCISCO | 610.000,00 - 610.000,00
+MARUIM 600.454,00 400.454,00 200.000,00
+INDIAROBA 600.000,00 600.000,00 -
+ROSARIO DO CATETE 600.000,00 - 600.000,00
+PINHAO 550.000,00 550.000,00 -
+
+CUMBE 550.000,00 500.000,00 50.000,00
+SAO DOMINGOS 550.000,00 450.000,00 100.000,00
+ESTANCIA 550.000,00 300.000,00 250.000,00
+SANTA ROSA DE LIMA 544.432,00 - 544.432,00
+BOQUIM 510.000,00 100.000,00 410.000,00
+CANHOBA 500.000,00 100.000,00 400.000,00
+PEDRINHAS 500.000,00 100.000,00 400.000,00
+NOSSA SENHORA DE LOURDES | 480.000,00 300.000,00 180.000,00
+NOSSA SENHORA APARECIDA | 470.000,00 470.000,00 -
+
+TELHA 442.485,00 - 442.485,00
+MACAMBIRA 401.000,00 201.000,00 200.000,00
+ARAUA 400.000,00 200.000,00 200.000,00
+CANINDE DE SAO FRANCISCO | 400.000,00 - 400.000,00
+POCO VERDE 400.000,00 - 400.000,00
+MOITA BONITA 350.000,00 150.000,00 200.000,00
+SIRIRI 300.000,00 100.000,00 200.000,00
+AMPARO DE SAO FRANCISCO | 300.000,00 - 300.000,00
+NEOPOLIS 300.000,00 - 300.000,00
+POCO REDONDO 300.000,00 - 300.000,00
+FREI PAULO 270.000,00 - 270.000,00
+ITABI 250.000,00 50.000,00 200.000,00
+TOMAR DO GERU 200.000,00 100.000,00 100.000,00
+GENERAL MAYNARD 200.000,00 50.000,00 150.000,00
+SANTO AMARO DAS BROTAS 200.000,00 - 200.000,00
+UMBAUBA 180.000,00 - 180.000,00
+PEDRA MOLE 150.000,00 - 150.000,00
+CRISTINAPOLIS 100.000,00 100.000,00 -
+
+SANTA LUZIA DO ITANHY 100.000,00 100.000,00 -
+
+CAMPO DO BRITO 100.000,00 - 100.000,00
+PACATUBA 100.000,00 - 100.000,00
+TOTAL GERAL 68.656.834,00 19.944.903,00 | 48.711.931,00
+
+ 
+
+ 
+
+Fonte: https://consultafns.saude.gov-br/t/consolidada. Consulta realizada em 13.04.2020.
+
+Como se pode observar, havia, até 13.04.2020, R$ 68 milhões de emendas aprovadas, dos quais cerca de
+R$ 20 milhões já haviam sido pagos. A coluna VALOR PAGO da Tabela 2 é a soma das colunas
+INCREMENTO MAC e INCREMENTO PAB da Tabela 1. A seguir, será detalhado o volume de recursos
+
+alocados a cada tipo de emenda:
+
+Tabela 3 — Total de emendas por tipo
+
+ 
+
+TIPO DE EMENDA | VALOR TOTAL DAS EMENDAS (R$) | VALOR PAGO (R$)
+
+ 
+
+EQUIPAMENTO 280.000,00 0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https:/isei.cgu.goy.briseilcontrolador.pho?acan=decumento. imprimir, webã&acao. origem-=arvors. visualizarêid. documento=16106268infra siste...
+
+418
+05/05/2021 SEI/CGU - 1462968 - Nota Técnica
+
+ 
+
+ 
+
+ 
+
+INCREMENTO MAC | 8.860.368,00 550.000,00
+INCREMENTO PAB |59.516.466,00 19.394.903,00
+Total Geral 68.656.834,00 19.944.903,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: https://consultafns.saude.gov-br/t/consolidada. Consulta realizada em 13.04.2020.
+
+Por fim, a tabela a seguir detalha a situação das emendas parlamentares em relação ao pagamento:
+
+Tabela 4 — Total de emendas por situação
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SITUAÇÃO DA EMENDA TOTAL DAS EMENDAS
+Proposta aprovada para Pagamento 22.311.593,00
+Proposta Autorizada aguardando Empenho | 26.400.338,00
+Proposta Paga 19.944.903,00
+Total Geral 68.656.834,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: https://consultafns.saude.gov-br/t/consolidada. Consulta realizada em 13.04.2020.
+
+4. DIÁRIOS OFICIAIS E PORTAIS DE TRANSPARÊNCIA
+Diante do cenário detalhado anteriormente, e com o intuito de assegurar que a execução orçamentária e
+
+financeira dos órgãos e entidades da administração pública possa ser acompanhada tempestivamente pela
+Controladoria-Geral da União (CGU), pelos demais órgãos de controle e de combate à corrupção, bem
+como pela sociedade em geral, nos termos do art. 8º da Lei nº 12.527/2011 (Lei de Acesso à Informação) e
+
+arts. 48 e 48-A da Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal), realizou-se
+levantamento de todos os municípios e do Estado de Sergipe no intuito de verificar quais entes possuem:
+
+- Diário oficial do município em forma eletrônica;
+
+- Portal da Transparência com informações atualizadas tempestivamente, em especial sobre licitações e
+dispensas/inexigibilidades de licitação.
+
+41. Diários Oficiais
+
+Verificou-se, dos 75 municípios de Sergipe, que somente dois — Lagarto e Nossa Senhora do Socorro — não
+possuem diário oficial do município nem em versão impressa, nem em versão eletrônica. Os outros 73
+
+possuem diários oficiais em versão eletrônica. Chama a atenção o fato de que esses dois municípios estão
+
+entre os maiores do Estado (Nossa Senhora do Socorro e Lagarto ocupam a 2º e a 3º colocação,
+
+respectivamente, quanto ao número de habitantes e quanto ao volume de recursos recebidos do Governo
+
+Federal).
+
+O Diário Oficial do Estado de Sergipe é disponibilizado em versão eletrônica, embora de maneira limitada
+
+(https://segrase.se.gov.br/diario-oficial). Somente há a possibilidade de leitura na tela do navegador, não
+
+sendo possível, por exemplo, fazer busca textual ou baixar o arquivo no formato PDF. Para ter acesso a
+
+essas funcionalidades mais avançadas, que poderiam agilizam o trabalho de monitoramento por parte dos
+órgãos de controle e da sociedade em geral, é necessário pagar por cada edição do diário.
+
+Importa registrar que a existência de diário oficial é essencial para dar publicidade à sociedade sobre os
+atos de gestão praticados por qualquer ente federado, além de possibilitar que os interessados efetuem o
+
+monitoramento preliminar das contratações realizadas pelo poder público por meio de licitação e de
+
+dispensa/inexigibilidade de licitação, ainda que não seja possível obter detalhes da contratação, tais como
+
+empresas consultadas e preço praticado.
+
+4.2. Portais da Transparência
+
+Verificou-se que todos os municípios têm portais da transparência e que todos esses portais permitem
+
+consultas a licitações. Entretanto, os portais de transparência do Estado de Sergipe
+(http://www transparenciasergipe.se.gov.br/TRS/) e de 27 dos 75 municípios apresentaram informações
+
+desatualizadas, tais como: i) a última licitação cadastrada ter ocorrido há mais de dois meses; ii) não haver
+
+nenhuma dispensa ou inexigibilidade de licitação cadastrada no ano de 2020.
+
+Com o objetivo de avaliar de maneira mais específica a tempestividade de atualização dos dados dos
+portais de transparência, foi realizado levantamento de todas as contratações ocorridas no Estado de
+Sergipe e em seus municípios, por dispensa de licitação, a partir de 16.03.2020, data em que foi decretada
+
+situação de emergência na saúde pública do Estado de Sergipe, em razão da disseminação do vírus
+COVID-19 (novo coronavírus), por meio do Decreto n.º 40.560/2020.
+
+https:/isei.cgu.goy.briseilcontrolador.pho?acan=decumento. imprimir, web&acao. origem-=arvors. visualizarêid. documento=16106268infra siste...
+
+5/8
+05/05/2021 SEI/CGU - 1462968 - Nota Técnica
+
+Os dados coletados estão atualizados até o dia 13.04.2020 e estão incluídas não somente contratações e
+aquisições que se refiram a ações relacionadas ao enfrentamento do COVID-19, mas também outras
+contratações, com o objetivo de avaliar a utilização inadequada da situação de calamidade pública para
+contratações irregulares que não tenham ligação com o enfrentamento do COVID-19.
+
+A tabela a seguir traz as contratações realizadas pela Secretaria de Estado da Saúde e pelos municípios
+sergipanos:
+
+Tabela 5 — Contratações da Secretaria de Estado da Saúde e dos municípios sergipanos por dispensa de
+licitação
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ente Nº. de Processos | Valor Total (R$)
+Estado de Sergipe 1 10.316.167,77
+Aracaju 28* 12.369.648,18
+Arauá 1 64.200,00
+Barra dos Coqueiros | 2 39.700,00
+Brejo Grande 1 65.056,40
+Campo do Brito 1 8.628,00
+Capela 2 57.600,00
+Carira 4 46.901,67
+Divina Pastora 1 8.400,00
+
+Ilha das Flores 2 13.000,00
+Itabaiana 1 12.500,00
+Itabaianinha 1 160.960,00
+Malhador 2 34.000,00
+Maruim 1 52.825,00
+Pinhão 1 58.300,00
+Riachão do Dantas |1 63.000,00
+Ribeirópolis 1 32.873,24
+São Cristóvão 2 162.150,00
+Total Geral 61 19.507.910,26
+
+ 
+
+ 
+
+*Os dados referentes ao município de Aracaju incluem uma dispensa de licitação ocorrida
+no dia 15.04.2020, para aquisição de testes rápidos para o COVID-19, no valor de
+RS 800.000,00, em função da relevância do objeto e do valor contratado.
+
+Fonte: http://www.comprasnet.se.gov.br. Consulta realizada em 13.04.2020.
+
+Em relação à Secretaria de Estado da Saúde, o total das onze contratações chega a R$ 10.316.167,77.
+Entretanto, nenhuma delas estava cadastrada no portal de transparência do Governo do Estado
+(http://www transparenciasergipe.se.gov.br/TRS/) até o dia 13.04.2020. Ressalta-se que três das dispensas
+foram publicadas no Diário Oficial do Estado ainda em março, o que evidencia a falta de tempestividade
+na atualização do portal, comprometendo a atuação da Controladoria-Geral da União e dos outros órgãos
+de controle no acompanhamento da execução da despesa pública.
+
+No tocante aos municípios, foram identificadas 52 contratações realizadas por 17 municípios diferentes. O
+quadro a seguir demonstra quais portais estavam com os dados atualizados:
+
+Quadro 1 — Relação de contratações constantes nos portais de transparência
+Ente Público Nº de Dispensas | Nº de Dispensas no Portal
+Estado de Sergipe |11 0
+Aracaju 27
+Arauá
+
+Barra dos Coqueiros
+Brejo Grande
+Campo do Brito
+Capela
+
+Carira
+
+Divina Pastora
+
+Ilha das Flores
+Itabaiana
+Ttabaianinha
+
+ 
+
+ 
+
+ 
+
+1»
+o
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mfmfof=|sfof=|-fofm
+miolololoinjojolnio
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https:/isei.cgu.goy.briseilcontrolador.pho?acan=decumento. imprimir. web&acao. origem=arvors. visualizar&id. documento=16106268infra siste... 6/8
+05/05/2021 SEI/CGU - 1462968 - Nota Técnica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Malhador 2 0
+Maruim 1 0
+Pinhão 1 0
+Riachão do Dantas |1 0
+Ribeirópolis 1 0
+São Cristóvão 2 0
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Consulta realizada em 13,04.2020 nos diversos portais de transparência de cada município constante do quadro.
+
+Apenas um processo de contratação por dispensa de licitação não foi localizado no portal de transparência
+da Prefeitura Municipal de Aracaju (https://transparencia.aracaju.se.gov.br/). Trata-se da Dispensa n.º
+25/2020, publicada no Diário Oficial do Município no dia 07.04.2020, que tem como objeto a contratação
+de 20 leitos do Hospital São José (CNPJ n.º 13.016.621/0001-05), no valor de R$ 2.160.000,00. Ainda em
+relação ao município de Aracaju, cumpre destacar que as informações que constam no Portal da
+Transparência, apesar de tempestivas, são incompletas e insuficientes. Não consta, por exemplo,
+o valor unitário dos bens ou serviços contratados, informação fundamental para averiguar se os preços
+estão compatíveis com aqueles praticados no mercado.
+
+Apesar de os portais de transparência de Capela e Itabaianinha estarem atualizados em relação às
+dispensas indicadas no Quadro 3, Anexo I, a única informação que consta no portal de cada um desses
+municípios é apenas a replicação do que foi publicado no respectivo diário oficial. Trata-se de uma
+informação insuficiente sob o ponto de vista dos órgãos de controle, já que não é possível saber as
+quantidades adquiridas e o valor unitário de cada item, por exemplo.
+
+Ressalta-se que a Lei n.º 8.666/93, em seu art. 26, parágrafo único, apresenta os elementos que devem
+constar nos processos de dispensa e inexigibilidade, naquilo que couber. Esses elementos incluem a
+caracterização da situação emergencial, calamitosa ou de grave e iminente risco à segurança pública que
+justifique a dispensa, quando for o caso; a razão da escolha do fornecedor ou executante; a justificativa do
+preço; e o documento de aprovação dos projetos de pesquisa aos quais os bens serão alocados. Estas
+mesmas informações devem, portanto, ser publicadas no portal de transparência, para garantir que os
+órgãos de controle e a sociedade em geral possam acompanhar a execução da despesa pública.
+
+Desta forma, apenas dois dos dezessete municípios para os quais foram identificadas contratações por
+dispensa de licitação entre 16.03.2020 e 13.04.2020 trazem informações que podem ajudar os órgãos de
+controle no monitoramento da aplicação dos recursos públicos.
+
+Pelo exposto, fica evidenciada a necessidade de buscar meios para assegurar que os municípios e o Estado
+de Sergipe atualizem tempestivamente todas as informações referentes à execução orçamentária e
+financeira dos órgãos e entidades da Administração Pública em seus portais de transparência.
+
+Esta necessidade é ainda mais imperativa tendo em vista a decretação de situação de emergência sanitária
+por meio da Portaria MS nº 188, de 03 de fevereiro de 2020, publicada em 04.02.2020, e da decretação do
+estado de calamidade pública no Estado de Sergipe, por meio do Decreto nº 40.571, de 08.04.2020, visto
+que, em decorrência disso, os municípios e o Estado de Sergipe já receberam e continuarão a receber um
+grande volume de recursos federais e que poderão, inclusive, recorrer às dispensas emergenciais para a
+contratação de bens e serviços.
+
+Cabe à Controladoria-Geral da União realizar monitoramento no sentido de assegurar que estas
+contratações se destinem somente às ações de enfrentamento ao COVID-19 e que, além disso, seja
+preservada a lisura nos processos e que os preços sejam os mais vantajosos para a Administração Pública.
+
+5. PROPOSTA DE ENCAMINHAMENTO
+
+Considerando o exposto, propõe-se, após apreciação superior, o encaminhamento das informações
+supramencionadas aos demais órgãos de controle, para conhecimento, a fim de que possam adotar as
+providências que entenderem cabíveis, no âmbito de suas respectivas competências.
+
+6. ANEXOS
+- Quadro 2 — Contratações da Secretaria de Estado da Saúde por dispensa de licitação
+- Quadro 3 — Contratações dos municípios sergipanos por dispensa de licitação
+
+Aracaju - SE, 16 de abril de 2020.
+
+https:/isei.cgu.goy.briseilcontrolador.pho?acan=decumento. imprimir, webã&acao. origem-=arvors. visualizarêid. documento=16106268infra siste...
+
+7I8
+05/05/2021 SEI/CGU - 1462968 - Nota Técnica
 
 José Leonardo Ribeiro Nascimento
 Auditor Federal de Finanças e Controle
 
 De acordo.
+
 Encaminhe-se conforme proposto.
 
 Claudio Canuto dos Santos
 SUPERINTENDENTE DA CGU-REGIONAL/SE
 
+ 
+
+   
+
 Documento assinado eletronicamente por JOSE LEONARDO RIBEIRO NASCIMENTO, Auditor Federal de
-Finanças e Controle, em 16/04/2020, às 13:15, conforme horário oficial de Brasília, com fundamento no
-art. 6º, $18, do Decreto nº 8.539, de 08 de outubro de 2015.
+CGU) Finanças e Controle, em 16/04/2020, às 13:15, conforme horário oficial de Brasília, com fundamento no
+art. 68, 818, do Decreto nº 8.539, de 08 de outubro de 2015.
+
+ 
 
 Documento assinado eletronicamente por CLAUDIO CANUTO DOS SANTOS, Superintendente da
 Controladoria Regional da União no Estado de Sergipe, em 16/04/2020, às 13:16, conforme horário
-oficial de Brasília, com fundamento no art. 6º, $1º, do Decreto nº 8.539, de 08 de outubro de 2015.
+oficial de Brasília, com fundamento no art. 6º, 81º, do Decreto nº 8.539, de 08 de outubro de 2015.
 
-   
-   
+ 
 
-ir
+  
+ 
 
-MES A autenticidade deste documento pode ser conferida no site https:/sei.cgu.gov.br/conferir
+es
+Ep A autenticidade deste documento pode ser conferida no site https://sei.cgu.gov.br/conferir
 
+El LS
 informando o código verificador 1462968 e o código CRC F90D930B
-Referência: Processo nº 00224.100044/2020-66] SEI nº 1462968
+
+Referência: Processo nº 00224.100044/2020-66 SEI nº 1462968
 
  
 
  
 
-htips:/seicgu gov briseilcontrolador php?acao= documento. imprimir. web&ação. origem=arvore. visualizaráid. documento=1610826&infra siste... 8/8
+https:/isei.cgu.goy.briseilcontrolador.pho?acan=decumento. imprimir. web&acao. origem=arvors. visualizar&id. documento=16106268infra siste... 8/8
 
