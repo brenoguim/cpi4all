@@ -193,5 +193,5 @@ for t in txts:
 
 with open("index.html", 'w') as outf:
     outf.write(pre_index)
-    outf.write("const data = {}\n".format(json.dumps(content)))
+    outf.write("const data = {}\n".format(json.dumps(content, indent=True)))
     outf.write(pos_index)
