@@ -1,4 +1,418 @@
-Brasília, 15 de junho de 2021.
+9
+
+ADVOCACIA-GERAL DA UNIÃO
+CONSULTORIA-GERAL DA UNIÃO
+CONSULTORIA JURÍDICA JUNTO AO MINISTÉRIO DAS RELAÇÕES EXTERIORES
+GABINETE DO CONSULTOR JURÍDICO
+
+ 
+
+NOTA JURÍDICA n. 00005/2021/GABCONJUR/CO: R-MRE /CGU/AGU
+
+ 
+
+NUP: 09041.000282/2021-76
+
+INTERESSADOS: SECRETÁRIO GERAL DAS RELAÇÕES EXTERIORES DO MINISTÉRIO DAS
+RELAÇÕES EXTERIORES
+
+ASSUNTOS: RELAÇÕES DIPLOMÁTICAS E OUTROS
+
+Senhor Secretário-Geral,
+
+1. Esta Consultoria Jurídica é instada a se pronunciar sobre o Memorando SG/282/JURI ADOC (fls. 01),
+assim lavrado:
+
+"À luz do direito internacional e da legislação pátria, muito agradeceria o obséquio de parecer
+acerca das obrigações do Estado brasileiro e do Itamaraty, em particular, de resguardar
+informações sigilosas produzidas ou obtidas no contexto da prestação de serviços consulares e da
+manutenção de relação diplomáticas com Estados estrangeiros e organizações internacionais,
+atividades precípuas deste Ministério" (fls. 1).
+
+2. Não consta documentação complementar ao memorando de referência.
+3. Isso posto, passo a me manifestar.
+4 Inicialmente, é importante recordar o marco constitucional, legal e regulamentar que conforma as
+
+relações diplomáticas e consulares no direito brasileiro.
+
+5. A Constituição Federal atribui à União a competência para "manter relações com Estados estrangeiros e
+participar de organizações internacionais" (art. 21, 1). Por sua vez, no âmbito próprio da União, o Texto Constitucional
+comete ao Presidente da República a competência privativa para "manter relações com Estados estrangeiros e acreditar
+seus representantes diplomáticos" (art. 84, VII).
+
+6. Na medida em que relações diplomáticas e consulares somente podem ser estabelecidas entre Estados,
+como dispõem a Convenção de Viena sobre Relações Diplomáticas ( Decreto nº 56.435/1965) (art. 2: " estabelecimento
+de relações diplomáticas entre Estados e o envio de Missões diplomáticas permanentes efetua-se por consentimento
+mútuo") e a Convenção de Viena sobre Relações Consulares (Decreto nº 61.078/1967) (art. 2 (1) "O estabelecimento de
+relações consulares entre Estados far-se-á por consentimento mútuo"), o seu marco jurídico claramente se enquadra na
+competência da União e, especificamente, na competência do Presidente da República.
+
+7. Do ponto de vista legal, a primeira e mais importante referência, é a Lei nº 13.844/2019, que estabelece a
+organização básica dos órgãos da Presidência da República e dos Ministérios. O art. 45, III, do referido diploma dispõe
+como área de competência própria do Ministério das Relações Exteriores: "relações diplomáticas e serviços consulares".
+Importante notar que tal texto vem sendo constantemente repetido nas diversas leis que dispõem sobre organização dos
+Ministérios.
+8. A mesma expressão "relações diplomáticas e serviços consulares", figura no Decreto nº 9.683/2019, que
+aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do
+Ministério das Relações Exteriores, em que são descritas as competências da pasta ministerial, especificamente no art. 1º,
+III, de seu Anexo I. O mesmo diploma estabelece uma série de regras para o funcionamento das relações diplomáticas e
+consulares, tais como a existência de missões diplomáticas permanentes e repartições consulares como órgãos do
+Ministério das Relações Exteriores no exterior (art. 2º, V, "a" e "b" e Seção V) e a competência da Secretaria-Geral das
+Relações Exteriores para supervisionar o serviço diplomático e consular (art. 8º,1 e art. 63, ID).
+
+9. Nesse contexto, e tomando tais referenciais normativos, resta claro que a competência para a manutenção
+de relações diplomáticas e consulares - nesta última se incluindo a prestação de serviços consulares - é cometida ao Poder
+Executivo Federal e, mais especificamente, ao Ministério das Relações Exteriores.
+
+10. Tomados esses pressupostos em conta, é importante entender como o direito internacional tem tratado a
+questão da proteção da informação sigilosa, especificamente no âmbito do direito diplomático e consular Em seguida,
+tratarei da mesma questão em face das organizações internacionais.
+
+Proteção da informação no direito diplomático e consular - e suas repercussões no direito interno
+
+11. Tradicionalmente, no direito internacional, a informação de posse de missões diplomáticas e das
+repartições consulares é fortemente protegida.
+
+12. O art. 24 da Convenção de Viena sobre Relações Diplomáticas é taxativo: "Os arquivos e documentos da
+Missão são invioláveis, em qualquer momento e onde quer que se encontrem".
+
+13. Já o art. 33 da Convenção de Viena sobre Relações Consulares dispõe de maneira similar: "Os arquivos e
+documentos consulares serão sempre invioláveis, onde quer que estejam".
+
+14. Note-se que as referidas convenções sequer estabelecem prazo para a inviolabilidade do arquivo.
+Também não prescrevem qualquer tipo de exceção ao regime de inviolabilidade.
+
+15. A Convenção de Viena sobre Relações Consulares traz, em seu bojo, uma definição de “arquivos
+consulares”, exposta no art. 1 (1) (k):
+
+“k) por "arquivos consulares", todos os papéis, documentos, correspondência, livros, filmes, fitas
+magnéticas e registros da repartição consular, bem como as cifras e os códigos, os fichários e os
+móveis destinados a protegê-los e conservá-los”.
+
+16. A doutrina maciça e a prática generalizada dos Estados reconhecem que tal definição é aplicável
+analogicamente aos arquivos diplomáticos. Como explica Eileen Denza:
+
+“A Convenção de Viena sobre Relações Consulares previu no Artigo I(I)(k) que “arquivos
+consulares” "inclui todos os papéis, documentos, correspondência, livros, filmes, fitas e registros
+da repartição consular, juntamente com as cifras e códigos, as fichas e qualquer artigo de
+mobiliário destinados à sua proteção ou guarda”. Na prática, essa definição extensa tem sido
+aplicada por analogia à Convenção de Viena sobre Relações Diplomáticas, com base em que,
+dadas as imunidades mais amplas geralmente concedidas às missões diplomáticas, seria absurdo
+que uma construção mais restrita do termo “arquivos” fosse aplicada aos arquivos diplomáticos”.
+
+E (DENZA, Eileen. Diplomatic Law: Commentary on the Vienna Convention on Diplomatic
+Relations. 4h ed. New York: Oxford University Press, 2016, p. 160).
+
+17. Importante perceber que os dispositivos de ambas as convenções não se restringem a proteger os arquivos
+e documentos em face do Estado que recebe a missão diplomática, ou seja, o Estado acreditado — ou o Estado receptor da
+repartição consular. Ele são expressos em referir-se a "onde quer que se encontrem" ou "onde quer que estejam".
+Ademais, o dispositivo não vincula o documento ao arquivo, de modo que eles podem se encontrar fisicamente separados.
+18. São elucidativos os comentários da Comissão de Direito Internacional, que elaborou o projeto da
+Convenção de Viena sobre Relações Diplomáticas, acerca do tema:
+
+“(1) Este artigo reproduz sem modificações o texto da cláusula correspondente no artigo 18 da
+minuta de 1957. Como a Comissão assinalou no comentário a sua minuta de 1957: “a
+inviolabilidade aplica-se a arquivos e documentos, independentemente do local em que estejam.
+No caso do local da missão, o próprio Estado acreditado é obrigado a respeitar a inviolabilidade e
+a impedir sua violação por outras partes.
+
+(2) Sugeriu-se que as palavras “e documentos” no texto do artigo deveriam ser apagadas, e que a
+frase, no comentário, que estatui que a inviolabilidade se aplica a arquivos e documentos,
+independentemente do local em quem estejam, era muito genérica. A Comissão não pode
+compartilhar essa visão. Os documentos da missão, ainda que separados dos arquivos, sejam
+pertencentes ou não ao arquivo, devem, como os próprios arquivos, ser invioláveis,
+independentemente de sua localização física (por exemplo, quando carregado pessoalmente por
+membro da missão). Foi por essa razão que se conferiu essa amplitude na Convenção Geral sobre
+
+Privilégios e Imunidades das Nações Unidas (artigo II, seção 42 (INTERNATIONAL LAW
+COMMISSION. Draft Articles on Diplomatic Intercourse and Immunities with
+commentaries. Yearbook of the International Law Commission, v. 2, 1958, p. 96).
+
+19. O trecho ainda confirma o sentido de que o dispositivo, pela sua própria estrutura — que não se refere a
+Estados acreditantes ou acreditados, Estados que enviam ou Estados receptores — contém uma nítida obrigação erga
+omnes partes. Ou seja, todos os Estados partes na Convenção de Viena sobre Relações Diplomáticas e na Convenção de
+Viena sobre Relações Consulares possuem um interesse legítimo em fazer cumpri-lo, uma vez que a obrigação de fazer
+cumprir a inviolabilidade dos arquivos e dos documentos concerne a todas as partes. E frise-se que estão vinculados pela
+referida Convenção uma parcela muito grande dos Estados. No caso, da Convenção de Viena sobre Relações
+Diplomáticas são 192 Estados partes (https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY &mtdsg no=III-
+3&chapter=3&clang= en); no caso da Convenção de Viena sobre Relações Consulares tratam-se de 180 Estados partes
+(https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY &mtdsg no=IlI-6&chapter=3&clang= en). Tais números
+significativos ainda não revelam o fato de que a doutrina internacionalista é consensual no sentido de considerar as
+convenções, ao menos no ponto da inviolabilidade dos arquivos e documentos, como possuindo caráter costumeiro.
+
+20. Sobre o caráter erga ommes partes do art. 24 da Convenção de Viena sobre Relações Diplomáticas — o
+que pode perfeitamente ser aplicado ao art. 33 da Convenção de Viena sobre Relações Consulares — no Caso Bancoult, a
+Suprema Corte britânica estabeleceu claramente, nas palavras de Lord Sumpton — trecho que reflete a posição majoritária
+dos membros daquele tribunal — tal natureza:
+
+“O que quer que possa estar envolvido nesse conceito, é claro que o artigo 24 não se refere apenas
+a responsabilidades do Estado acreditado, mas descreve a posição dos arquivos e dos documentos
+da missão erga omnes” 21 (UNITED KINGDOM SUPREME COURT, R (on the application of
+Bancoult No 3) (Appellant) v Secretary of State for Foreign and Commonwealth Affairs
+(Respondent), Judgment given on 8 February 2018).
+
+21. O caráter erga omnes partes do art. 24 significa, na prática, que qualquer arquivo ou documento que
+pertença a uma missão diplomática estrangeira deve ser protegido não só pelo Estado que a recebe, mas por todos os
+Estados partes na Convenção. Sob outra perspectiva, uma missão diplomática possui o direito de exigir que os demais
+Estados protejam a inviolabilidade de seus arquivos e documentos.
+
+22. Existe, no entanto, outro importante aspecto da Convenção de Viena sobre Relações Diplomáticas e da
+Convenção de Viena sobre Relações Consulares que possui não somente reflexo no princípio da inviolabilidade
+insculpido em seu art. 24 e 33, respectivamente, mas na legislação aplicável ao Serviço Exterior Brasileiro, o que remete
+à função de "resguardar informações sigilosas", indicada no memorando de referência que solicita o presente parecer.
+
+23. As cinco grandes funções de uma missão diplomática estão dispostas no art. 3 da Convenção de Viena
+sobre Relações Diplomáticas. Dentre elas, figura a função de informação, nos seguintes termos:
+
+“Artigo 3
+As funções de uma Missão diplomática consistem, entre outras, em:
+(.)
+d) inteirar-se por todos os meios lícitos das condições existentes e da evolução dos
+acontecimentos no Estado acreditado e informar a esse respeito o Governo do Estado acreditante”
+
+24. A função de informação também é contemplada na Convenção de Viena sobre Relações Consulares, nos
+seguintes termos, dispostos no art. 5(c):
+
+"ARTIGO 5º
+
+Funções Consulares
+
+As funções consulares consistem em:
+
+€.)
+
+c) informar-se, por todos os meios lícitos, das condições e da evolução da vida comercial,
+
+econômica, cultural e científica do Estado receptor, informar a respeito o governo do Estado que
+envia e fornecer dados às pessoas interessadas"
+
+25. A função de informação, constitui, portanto, peça fundamental da própria atividade diplomática e
+consular.
+26. No direito diplomático e consular, a inviolabilidade dos arquivos e dos documentos, mas também outras
+
+prerrogativas, como a liberdade de comunicação da missão diplomática e da repartição consular e a inviolabilidade de sua
+correspondência, são expressões claras da função de informação. Elas visam a garantir o fluxo de informação trocado
+entre a missão diplomática e o Estado que a envia.
+
+27. No plano nacional e infraconstitucional, a Lei 11.440/2006, que institui o Regime Jurídico dos Servidores
+do Serviço Exterior Brasileiro estabelece claramente a atividade de informação como inerente à atividade diplomática e
+consular, nos seguintes termos:
+
+“Art. 3º Aos servidores da Carreira de Diplomata incumbem atividades de natureza diplomática e
+consular, em seus aspectos específicos de representação, negociação, informação e proteção de
+interesses brasileiros no campo intemacional.”
+
+28. Além disso, a referida lei cria diversos deveres que se referem ou possuem impacto quanto à necessidade
+de resguardo ou proteção de informação — não necessariamente classificada - por parte do membro do serviço exterior. E
+o caso do art. 27, V, e do art. 29:
+
+“Art. 27. Além dos deveres previstos no Regime Jurídico Único dos Servidores Públicos Civis da
+União, constituem deveres específicos do servidor do Serviço Exterior Brasileiro:
+
+€.)
+
+V - solicitar, previamente, anuência da autoridade competente, na forma regulamentar, para
+manifestar-se publicamente sobre matéria relacionada com a formulação e execução da política
+exterior do Brasil.
+
+Art. 29. Além das proibições capituladas no Regime Jurídico Único dos Servidores Públicos Civis
+da União, ao servidor do Serviço Exterior Brasileiro é proibido:
+
+1- divulgar, sem anuência da autoridade competente, informação relevante para a política exterior
+do Brasil, a que tenha tido acesso em razão de desempenho de cargo no Serviço Exterior
+Brasileiro;
+
+€.)
+
+IV - valer-se abusivamente de imunidades ou privilégios de que goze em país estrangeiro; e
+
+V - utilizar, para fim ilícito, meio de comunicação de qualquer natureza do Ministério das
+Relações Exteriores.”
+
+29. Tal regime robusto de proteção da informação faz prontamente remeter à segunda parte do art. 5º,
+XXXIII, da CF/1988: “ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado”. Ou
+seja, o resguardo de informações sigilosas no âmbito diplomático e consular não é decorrência apenas da manutenção de
+relações diplomáticas e consulares, que está embasada, como já visto, nas competências do art. 21, I, e art. 84, VII, ambos
+da CF/1988, mas também do mencionado art. 5º, XXXTIL
+
+30. Não há qualquer dúvida de que as relações diplomáticas e consulares se inserem na dimensão de assuntos
+concernentes ao próprio Estado. Como já afirmado, relações diplomáticas e consulares se dão entre Estados.
+
+31. A Assembleia Geral da ONU já reconheceu a ligação estruturante entre as normas de direito diplomático
+e consular e as relações internacionais na Resolução 69/121, nos seguintes termos:
+
+“Convencidos de que o respeito pelos princípios e normas do direito internacional que regem as
+relações diplomáticas e consulares é um pré-requisito básico para a condução normal das relações
+entre os Estados e para o cumprimento dos propósitos e princípios da Carta das Nações Unidas”.
+
+[l (UNITED NATIONS GENERAL ASSEMBLY. A/RES/69/121, 18 December 2014).
+
+32. Não é despiciendo lembrar que tal resolução foi elaborada em virtude de provocação do Brasil, em
+virtude dos escândalos envolvendo vazamento de informações protegidas, durante o Governo da Presidenta Dilma
+Roussef, concernentes ao domínio diplomático. Assim, como lembram Duquet e Wouters:
+
+"Eventos como o escândalo do NSA têm sido um catalisador para a comunidade internacional a
+fim de lembrar aos outros Estados acreditados das obrigações do direito diplomático. Instigado
+pela representação brasileira em Nova York, o Sexto Comitê (Jurídico) preparou um relatório que
+levou à Resolução 69/121 da AGNU referida acima. Na Resolução, a Assembleia Geral declara
+que está 'preocupada com a falha no respeito à inviolabilidade das missões diplomáticas e
+consulares e seus representantes”, e, por esse motivo, recorda os princípios do sigilo dos arquivos e
+
+documentos dip lomáticos" [5] (DUQUET, Sanderijn and WOUTERS,
+Jan. Diplomacy, Secrecy and the Law. Leuven Centre for
+Global Governance Studies Working Paper No. 151 — March 2015, p. 10).
+
+33. Isso posto, as relações diplomáticas e consulares, como dimensões fundamentais das relações
+internacionais, são também alcançadas pelo art. 5º, XXXIII, cabendo apenas a definição, in casu, se uma informação de
+natureza diplomática ou consular se enquadra no conceito de “segurança do Estado”.
+
+34. O dispositivo que regulamenta, especificamente, o art. 5º, XXXIII, da CF/1988, é a Lei de Acesso à
+Informação (LAT) - Lei nº 12.527/2011, que reforça a compreensão de que há sigilos para além de seu escopo.
+
+35. Primeiramente, recorde-se o seu art. 22 que, ao estabelecer que outras hipóteses legais de sigilo não são
+excluídas pela lei, abre espaço para a garantia dos sigilos diplomático e consular, uma vez que as convenções que os
+regulam foram devidamente incorporadas ao direito brasileiro e têm, para todos os efeitos, força de lei no nosso
+ordenamento jurídico:
+
+"Art. 22. O disposto nesta Lei não exclui as demais hipóteses legais de sigilo e de segredo de
+justiça nem as hipóteses de segredo industrial decorrentes da exploração direta de atividade
+econômica pelo Estado ou por pessoa física ou entidade privada que tenha qualquer vínculo com o
+poder público".
+
+36. Ainda mais importante é o art. 36 da LAI, que não só exclui de seu âmbito sigilos decorrentes de tratados,
+mas exige que sejam atendidas as "normas e recomendações constantes desses instrumentos".
+
+"Art. 36. O tratamento de informação sigilosa resultante de tratados, acordos ou atos
+intemacionais atenderá às normas e recomendações constantes desses instrumentos".
+
+37. Mas aqui também recordo o art. 29, $ 1º, e o art. 37, II, da LAI, que igualmente reconhecem a
+peculiaridade da informação produzida em virtude do relacionamento diplomático e consular:
+
+“Art. 29. A classificação das informações será reavaliada pela autoridade classificadora ou por
+autoridade hierarquicamente superior, mediante provocação ou de ofício, nos termos e prazos
+previstos em regulamento, com vistas à sua desclassificação ou à redução do prazo de sigilo,
+observado o disposto no art. 24.
+
+$ 1º O regulamento a que se refere o caput deverá considerar as peculiaridades das informações
+produzidas no exterior por autoridades ou agentes públicos”.
+
+Art. 37. É instituído, no âmbito do Gabinete de Segurança Institucional da Presidência da
+República, o Núcleo de Segurança e Credenciamento (NSC), que tem por objetivos:
+
+€.)
+II - garantir a segurança de informações sigilosas, inclusive aquelas provenientes de países ou
+organizações internacionais com os quais a República Federativa do Brasil tenha firmado tratado,
+acordo, contrato ou qualquer outro ato internacional, sem prejuízo das atribuições do Ministério
+das Relações Exteriores e dos demais órgãos competentes.
+
+38. O memorando de referência também menciona resguardo da informação sigilosa no que tange
+à manutenção de relações com organizações internacionais. As bases jurídicas de tal relacionamento, ainda que não sejam
+normalmente enquadradas, do ponto de vista técnico, como relações diplomáticas, historicamente sempre se fundaram
+nestas últimas.
+
+Proteção da informação em tratados concernentes a organizações internacionais
+
+39. Do ponto de vista constitucional, fica evidente a ligação entre relações entre Estados e entre estes e
+organizações internacionais, na expressão contida no art. 21, I, que faz referência não somente a relações com Estados
+estrangeiros, mas também à participação em organizações internacionais.
+
+40. Na já referida Lei nº 13.844/2019, especificamente no dispositivo que trata das competências do
+Ministério das Relações Exteriores, são várias as referências explícitas ao relacionamento com organizações
+internacionais:
+
+"Art. 45. Constituem áreas de competência do Ministério das Relações Exteriores:
+
+1- assistência direta e imediata ao Presidente da República nas relações com Estados estrangeiros
+e com organizações internacionais;
+
+IV - participação em negociações comerciais, econômicas, financeiras, técnicas e culturais com
+Estados estrangeiros e com organizações internacionais, em articulação com os demais órgãos
+competentes;
+
+VI - apoio a delegações, a comitivas e a representações brasileiras em agências e organismos
+internacionais e multilaterais"
+
+41. O regime de inviolabilidade dos arquivos e documentos de organizações internacionais é consagrado
+convencionalmente, sendo uma referência constante em acordos sobre privilégios e imunidades, e acordos de sede que
+Estados mantêm com essas organizações.
+
+42. Cito, para ficar apenas em alguns exemplos,
+
+"Convenção sobre Privilégios e Imunidades das Nações Unidas, de 1946 (Decreto nº
+27.784/1950)
+Artigo II Bens, Fundos e Haveres
+
+Seção 4 — Os arquivos da Organização e, de um modo geral, todos os documentos a ela
+pertencentes ou em seu poder, serão invioláveis, seja qual for o local onde se encontrem",
+
+"Constituição da Organização das Nações Unidas para a Alimentação e a Agricultura, de 1945
+(Decreto nº 7.752/2012)
+
+ARTIGO XV STATUS JURÍDICO
+
+(...) 2. Cada País Membro e Membro Associado, na medida em que permitam seus preceitos
+constitucionais, compromete-se a conferir à Organização todas as imunidades e facilidades que
+concede às Missões diplomáticas, inclusive a inviolabilidade da sede e dos arquivos, imunidade
+de jurisdição e isenção de impostos".
+
+"Convenção sobre Privilégios e Imunidades das Agências Especializadas das Nações Unidas
+(Decreto nº 52.288/1963), de 1947.
+
+ARTIGO 3º Bens, Fundos e Ativo
+
+6º SEÇÃO
+
+Os arquivos das agências especializadas, e em geral todos os documentos a elas pertencentes ou
+por elas guardados, serão invioláveis, onde estiverem localizados".
+
+43. Dessa última convenção fazem parte importantes agências especializadas, tais como a Organização
+Mundial da Saúde (OMS), a Organização Internacional do Trabalho (OIT), a Organização das Nações Unidas para a
+Educação, a Ciência e a Cultura (UNESCO), a Organização da Aviação Civil Internacional (OACI), a União Postal
+Universal (UPU), a União Internacional de Telecomunicações (UIT), entre outras.
+
+44, Se a base normativa para garantir o sigilo decorrente da inviolabilidade dos documentos dessas
+organizações internacionais é diversa das Convenções de Viena sobre Relações Diplomáticas e sobre Relações
+Consulares, o dever de resguardar tais informações sigilosas não o é. Tanto para o Estado Brasileiro como para o membro
+do Serviço Exterior Brasileiro permanece o dever com base em instrumento com força de lei.
+
+45. Do ponto de vista puramente do direito internacional, tal qual o dever de resguardar a inviolabilidade do
+documento protegido pelas Convenções de Viena sobre Relações Diplomáticas e sobre Relações Consulares, está-se a
+tratar de típicas obrigações internacionais cujo cumprimento pode ser invocado por contrapartes - inclusive,
+eventualmente, em tribunais internacionais permanentes e arbitrais.
+
+Conclusões
+
+46. Levando em conta o que precede, pode-se concluir que a Constituição estabelece a competência privativa
+do Presidente da República para manter relações com Estados estrangeiros (art. 84, VII, da CF/1988), o que se estende
+para as organizações internacionais. Tais relações se dão sob o marco normativo da Convenção de Viena sobre Relações
+Diplomáticas e da Convenção de Viena sobre Relações Consulares e diversos outros tratados, como é o caso daqueles que
+envolvem organizações internacionais. As duas mencionadas Convenções de Viena estabelecem tanto um regime
+extremamente forte para a proteção do sigilo dos documentos da missão diplomática e da repartição consular, como
+elencam a função de informação como funções diplomáticas e consulares. Os acordos que instituem privilégios e
+imunidades a organizações internacionais, além de acordos de sede, usualmente estabelecem, de maneira também forte, a
+inviolabilidade do arquivo e do documento da respectiva organização, como dão exemplo alguns tratados acima
+mencionados. Do ponto de vista interno, a Lei 11.440/2006 tanto atribui ao diplomata a atividade de informação como
+estabelece deveres específicos para a proteção da informação, com possibilidade de consequências funcionais para o
+membro do serviço exterior que viola tais deveres. A Constituição, por outra banda, protege o sigilo da informação (art.
+5º, XXXIII), imprescindível à segurança do Estado, conceito que abarca, indubitavelmente, as relações diplomáticas e
+consulares, além das relações com organizações internacionais.
+
+47. Tal conjunto de normas demonstra claramente a existência de um regime forte de proteção da informação
+pelo direito internacional - com reflexos no ordenamento jurídico interno - o qual o Brasil, o Ministério das Relações
+Exteriores e os membros do Serviço Exterior Brasileiro estão significativamente vinculados. São diversas as normas que
+estabelecem a necessidade de resguardo de tal informação. Caso a necessidade de tal resguardo seja olvidada, a própria
+competência privativa do Presidente da República para se relacionar com Estados estrangeiros — e, por consequência, a
+função de informar — pode tornar-se esvaziada e, em última análise, levar o Brasil a envolver-se no cometimento de
+ilícitos internacionais — como a não garantia de inviolabilidade do arquivo e do documento diplomático e consular ou da
+organização internacional. Isso pode trazer consequências materiais e de imagem para o Estado. Como alguns dos
+tratados mencionados preveem mecanismos de solução de controvérsias ou pode-se conceber a incidência de alguma
+obrigação de arbitrar ou de recorrer a tribunal permanente sobre eles, o tema do desrespeito à inviolabilidade do
+documento pode ser judicializado na esfera internacional.
+
+48. Eram essas, Senhor Secretário-Geral, as observações que se faziam pertinentes ante o questionamento
+formulado, abstraídos os aspectos técnicos, de conveniência e oportunidade, que escapam às competências desta
+Consultoria Jurídica.
+Brasília, 15 de junho de 2021.
 
 (assinado eletronicamente)
 GEORGE RODRIGO BANDEIRA GALINDO
@@ -6,73 +420,55 @@ CONSULTOR JURÍDICO DO MINISTÉRIO DAS RELAÇÕES EXTERIORES
 
  
 
- 
-
-Atenção, a consulta ao processo eletrônico está disponível em hftp://sapiensagu.govbr mediante o
-fornecimento do Número Único de Protocolo (NUP) 09041000282202 176 e da chave de acesso 62871eld
+Atenção, a consulta ao processo eletrônico está disponível em http://sapiens.agu.gov.br mediante o
+fomecimento do Número Único de Protocolo (NUP) 09041000282202176 e da chave de acesso 62871eld
 
 Notas
 
-= No original: “The Vienna Convention on Consular Relations provided in Artide 11)
-(8) that ““consular archives” includes all the papers, documents, correspondence, books, films, tapes
-and registers of the consular post, together with the ciphers and codes, the canindexes and
-amp articde of funitwre intended for their protection or safekcoping.
-Mm practice this extensive definition has been applied by analogy to the Vienna Diplomatic Convention, on
-the basis that given the wider immunities gencrally given to diplomatie missions, it would be absurd for
-a narrower construction of the term “archives” to be applied to diplomatie archives than to consular archives "”
+12 No original: “The Viena Convention on Consular Relations provided in Article 1(1)
+(k) that ““consular archives” includes all the papers, documents, correspondence, books, films, tapes
+and registers of the consular post, together with the ciphers and codes, the card-indexes and
+any article of furniture intended for their protection or safekeeping”.
+In practice this extensive definition has been applied by analogy to the Vienna Diplomatic Convention, on
+the basis that given the wider immunities generally given to diplomatic missions, it would be absurd for
+a narrower construction of the term “archives” to be applied to diplomatic archives than to consular archives”
 
- 
-
- 
-
-2 No original: “(1) This article reproducos unchanged the text of the corresponding provision in article 18 of the
-1957 draft. As the Commission pointed out in the commentary to its 1957 draft:
-"The inviolability applies to archives and documents, regardless of the prenises in which they may be. As in the
-case of the pranises of the mission, the receiving State is obliged to respect the inviolabilipy itself and
-to prevent its infringement by other parties."(2) It was suggested that the words "and documents" in the text of
-me article should be | deleted, and that the  statment in
-the commentary that the inviolabiliy applies to archives and documents, regardios of
-the promise in which they may be, was too swecping. The commission cannot share this view.
-The mission!s documents, even though separated from the archives, and whether belonging to the archives or
+2.2No original: “(1) This article reproduces unchanged the text of the corresponding provision in article 18 of the
+1957 draft As the Commission pointed out in the commentary to its 1957 draft:
+“The inviolability applies to archives and documents, regardless of the premises in which they may be. As in the
+case of the premises of the mission, the receiving State is obliged to respect the inviolability itself and
+to prevent its infringement by other parties."(2) It was suggested that the words "and documents” in the text of
+the article should be deleted, and that the statement in
+the commentary that the inviolability applies to archives and documents, regardless of
+the premises in which they may be, was too sweeping. The commission cannot share this view.
+The mission's documents, even though separated from the archives, and whether belonging to the archives or
 not, must, like the archives themselves,
-be inviolable, irrespective of their plysical whercabous (e.g., while carried on the person of a member of
+be inviolable, irrespective of their physical whereabouts (e.g. while carried on the person of a member of
 a mission). It was for that reason that this extension was provided for in the General Convention on
-the Privileges and Immunities of the United Nations (article HI, section 4).
+the Privileges and Immunities of the United Nations (article I, section 4).”
 
-2 No original: “Whatever may be involved in that concept, it is clear that article 24 is
-not only concerned with duties of the receiving stato bu describes the status df
-a mission archives and documents erga ommes”
+3.2 No original: “Whatever may be involved in that concept, it is clear that article 24 is
 
- 
+not only concened with duties of the receiving state but describes the status of
+a mission s archives and documents erga omnes”
 
- 
-
-4.2 No original: "Convinced that respect for the principles and rules of international law goveming diplomatio and
-consular relations is a basic prerquisite for the normal conduct of relations among States and for
+4.2No original: "Convinced that respect for the principles and rules of international law governing diplomatic and
+consular relations is a basic prerequisite for the normal conduct of relations among States and for
 the fulfilment of the purposes and principles of the Charter of the United Nations”,
 
-5.2 No original: *. Events such as the NSA seandal have been a catalyser for the international community to remind
-fellow recciving States of the obligations of diplomatic law. Instigated by the Brazilian representation in New
-Tork, the Sixth (Legal) Committee prepared a report that led to the UNGA Resolution 69/121 referrad to above. In
-the Resolution, the General Assembly states it is 'concerned at the failure to respect the inviolability of diplomatio:
-and consular missions and representatives” and, for that reason, reealls the principles of the secreçy of diplomatie
-arehives and documents.”
+s.2No original: ”. Events such as the NSA scandal have been a catalyser for the international community to remind
+fellow receiving States of the obligations of diplomatic law. Instigated by the Brazilian representation in New
+York, the Sixth (Legal) Committee prepared a report that led to the UNGA Resolution 69/121 referred to above. In
+the Resolution, the General Assembly states it is 'concerned at the failure to respect the inviolability of diplomatic
+and consular missions and representatives' and, for that reason, recalls the principles of the secrecy of diplomatic
+archives and documents.”
 
  
 
 Documento assinado eletronicamente por GEORGE RODRIGO BANDEIRA GALINDO, de acordo com os normativos
 legais aplicáveis. A conferência da autenticidade do documento está disponível com o código 656851974 no endereço
-eletrônico http://sapiensagu.gov.br. Informações adicionais: Signatário (a): GEORGE RODRIGO BANDEIRA
+eletrônico http://sapiens.agu.gov.br. Informações adicionais: Signatário (a): GEORGE RODRIGO BANDEIRA
 GALINDO. Data e Hora: 15-06-2021 17:31. Número de Série: 5909594645345 151247. Emissor: AC SOLUTI Multipla.
 
  
-
- 
-
- 
-
-formulado, abstraídos os aspectos técnicos, de conveniência e oportunidade, que escapam às competências desta
-Consultoria Jurídica.
-
-    
 

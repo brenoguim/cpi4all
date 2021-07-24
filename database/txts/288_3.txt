@@ -1,32 +1,127 @@
-9-4. pdf. Acesso em: 26 mar. 2021.
+GOVERNO DO ESTADO DE MINAS GERAIS
+Secretaria de Estado de Saúde
 
-DIAS, Viviane Maria de Carvalho Hesselet.al Orientações sobre Diagnóstico,
-Tratamento e Isolamento de Pacientes com COVID-19. Journal of Infection
+Coordenação de Farmácia e Terapêutica
 
-Control. Disponível em: https:/fjic-abih.com.briindex.php/jc/artilfview/295/pdf.
+ 
 
-Acesso em: 25 mar. 2021
+Nota Técnica nº 4/SES/SUBPAS-SAF-CFT/2021
 
-Protocolo de Manejo Clhnico da covid-19 em adultos: Hospital Universitário Antônio
+PROCESSO Nº 1320.01.0031308/2021-37
 
-Pedro. Disponível em:
-http:/jwww2.ebserh. gov bridocuments/1322127/0/Protocolo+Manejo+Clnico+COVID/398ad117-
-0286-4730-991€-9c92954e46e4. Acesso em: 26 mar.2021.
+Nota Técnica sobre o tratamento da COVID-19 (doença provocada pelo
+novo corona vírus SARS-COV-2)
 
-“) Documento assinado eletronicamente por Grazielle Dias da Silva,
-Superintendente, em 16/04/2021, às 15:13, conforme horário ofícial de
-Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 47.222, de 26 de
-juho de 2017.
+Objetivo
+Apresentar os tratamentos atualmente recomendados por agências de
 
-“) Documento assinado eletronicamente por Samira do Nascimento Mateus
-Nunes Lyra, Coordenador(a), em 16/04/2021, às 17:59, conforme horário
-oficial de Brasfia, com fundamento no art. 68, 5 1º, do Decreto nº 47.222, de
-26 de juho de 2017.
+saúde e hospitais referência para o tratamento de pacientes com diagnóstico positivo
+para a COVID-19.
 
-“) Documento assinado eletronicamente por Tayanna Aparecida de Oliveira
+Introdução
 
-dos Santos, Empregado (a) Público (a), em 18/04/2021, às 07:53,
-, 818, do
+O Coronavírus é um vírus de RNA sentido positivo não segmentado e
+envelopado que pertence à família Coronaviridae, possui maior tendência a mutações
+e elevado poder de disseminação, vírus esse que causa a doença intitulada de Covid-
+19. A infecção pelo novo coronavírus (SARS-CoV-2) teve início em novembro de
+2019, causando um surto de doença respiratória. Inicialmente detectado na cidade
+de Wuhan, na China, em dois meses foram confirmados milhares de casos de Covid-
+19.
+
+Destacando-se pela rapidez de disseminação, a severidade dos sintomas
+e as dificuldades para contenção, em 11 de março de 2020, a Organização Mundial
+da Saúde (OMS) declarou pandemia pelo novo coronavírus. Desde então, todos os
+países estão empreendendo enormes esforços para conter o surto e reduzir a
+letalidade, e a sociedade cientifica debruçada em estudos para oferecer uma resposta
+rápida e segura à população mundial.
+
+Estudos conduzidos sobre a dinâmica de infecção, propõe que dois
+processos principais conduzam a patogênese da COVID-19. No início da infecção, a
+doença é causada principalmente pela replicação do coronavírus 2 da síndrome
+respiratória aguda grave (SARS-CoV-2). Mais tarde, no curso da infecção, a doença é
+provocada por uma resposta imune / inflamatória exagerada ao vírus que leva a
+danos nos tecidos. Embora COVID-19 seja principalmente uma doença pulmonar,
+dados emergentes indicam que podem ocorrer doenças
+cardíacas, dermatológicas, hematológicas, hepáticas, neurológicas, renais, e outras
+complicações. Eventos trombóticos também ocorrem em pacientes com COVID-19,
+como maior risco ocorrendo em pacientes criticamente enfermos.
+
+O National Institutes of Health (NIH) propõe que a infecção pelo SARS-
+Cov-2, de acordo com a presença de sintomas e sua gravidade pode ser agrupada
+da seguinte forma:
+
+a) Infecção assintomática ou pré-sintomática: teste positivo para SARS-CoV-2 por
+teste virológico (ou seja, um teste de amplificação de ácido nucleico ou um teste de
+antígeno), mas que não têm sintomas clássicos da COVID-19.
+
+b) Doença leve: obrigada a apresentar qualquer um dos vários sinais e sintomas de
+COVID-19 (por exemplo, febre, tosse, dor de garganta, mal-estar, dor de cabeça, dor
+muscular, náusea, vômito, diarreia, perda do paladar e cheiro), mas que não têm falta
+de ar, dispnéia ou imagens anormais do tórax.
+
+c) Doença moderada: constatações de evidências de doença respiratória inferior
+durante o período clínico, avaliação ou imagem e que apresentam saturação de
+oxigênio (SpO 2 ) =94% no ar ambiente ao nível do mar.
+d) Doença grave: apresenta obrigatoriamente SpO <94% no ar ambiente ao nível do
+mar, uma proporção de pressão arterial pressão para a fração de oxigênio inspirado
+(PaO 2 / FO 2) <300 mm Hg, frequência respiratória > 30 respirações / min ou
+infiltrados pulmonares> 50%.
+
+e) Doença crítica: pertencente à insuficiência respiratória, choque séptico e / ou
+múltiplos órgãos.
+
+Buscando uma breve resposta à infecção, diversas terapias vem sendo
+utilizadas, consideradas ou propostas para o tratamento da COVID-19, muitas
+carecendo de avaliação de efetividade e segurança.
+
+Discussão
+
+Desde o início da pandemia, devido a rapidez disseminação e o completo
+desconhecimento deste novo agente infeccioso, iniciaram-se vários estudos para
+pesquisa de medicamentos. A primeiras condutas terapêuticas se baseiam na
+
+farmacocinética de medicamentos já conhecidos e sintomas apresentados pelos
+infectados. Neste contexto várias drogas começaram a ser empregadas, a fim de se
+iniciar estudos que permitissem traçar linhas guias de tratamento.
+
+Infelizmente, para ser delimitar e indicar uma terapia segura e eficaz leva
+tempo, pois é necessário seguir todos os passos de uma pesquisa cientifica para que
+ela apresente resultados corretos.
+
+Até o momento, existe consenso entre a contraindicação de tratamento
+precoce e de pacientes sintomáticos que não necessitam de internação. Geralmente,
+o tratamento farmacológico não é recomendado para pacientes jovens e saudáveis
+com leve sintomas e sem condições comórbidas subjacentes.
+
+De acordo com o Manejo Clínico indicado pelo Ministério da Saúde,
+pacientes confirmados com diagnostico de Covid-19 devem:
+
+a) Realizar isolamento domiciliar por 14 dias a contar da data de início dos sintomas;
+
+b) Serem contactados pelas equipes de saúde da atenção primária a cada a cada 24h
+para pessoas com mais de 60 anos e portadores de condições clínicas de risco, e a
+cada 48h nos demais, preferencialmente por telefone. Caso seja necessário, realizar
+atendimento presencial, idealmente no domicílio.
+
+c) Manter repouso, alimentação balanceada e boa oferta de líquidos.
+d) Isolamento de contatos domiciliares por 14 dias.
+
+A Sociedade Brasileira de Infectologia, em seu informe nº 13 considera
+que o tratamento padrão para a COVID-19, consiste em:
+
+a) Casos leves a moderados: analgésicos e antipiréticos;
+
+b) Casos graves e críticos: além das medicações sintomáticas, oxigenioterapia,
+anticoagulante profilático (risco de complicações trombóticas), tratamento das
+doenças crônicas associadas (diabetes, hipertensão arterial, insuficiência cardíaca,
+doenças pulmonares crônicas, entre outras) e tratamento das complicações da
+doença.
+
+No quadro a seguir apresenta-se as principais recomendações para
+tratamento da Covid-19 encontradas nas bases de dados pesquisadas: Elsevier,
+Pubmed, Google Acadêmico, NIH, OPAS e WHO.
+
+Quadro 1 - Tratamento COVID-19
 
  
 
@@ -34,48 +129,301 @@ dos Santos, Empregado (a) Público (a), em 18/04/2021, às 07:53,
 
  
 
-seil a E
-assinatura conforme horário oficial de Brasília, com fundamento no art.
-
- 
-
- 
-
-Decreto nº 47,222, de 26 de juho de 2017.
-
-autenticidade deste documento pode ser conferida no site
-É http://seimg gov. br/seijcontrolador externo. php?
-
-acao=documento conferir&id orgao acesso extemo=0, informando o código
-ft verificador 27756147 e o código CRC 6782189.
-
-   
  
 
  
 
  
 
-Refarância: Processo nº 1320.01.0031308/2021-37 SEIn? 27756147
+Medicamento |Protocolo | Condição de uso
+npsbital Internado, Semi e UTI: Ceftriaxona 1g EV/2x dia +
+' : azitromicina 500mg VO ou EV/1x dia por 7 a 10 dias
+Einstein
+Hospital Caso de suspeita de sepse associação da Ceftriaxona 029
+Universitário | ao dia por 07 dias com a azitromicina 500 mg ao dia por
 
-MANEJO — CORONAVÍRUS  (COVID-19).  Abert Ehstein. Disponível
-em: https://medcalsuite.einstein.br/pratica-
+ 
+Antônio
 
-medica/Documentos%20Doencas%20 Epidemicas/Manejo-de-casos-suspeitos-de-
+05 dias OU Amoxicilina/clavulanato 01 g a cada 12 horas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pedro - por 07 dias com azitromicina 500 mg/dia por 05 dias pela
+Ebserh via endovenosa.
+
+Antibioticoterapia Recomendado para indivíduos com menos de 48 horas de
+Secretaria |admissão a prescrição de esquemas preconizados para o
+de Estado | tratamento hospitalar da pneumonia comunitária, como
+de Saúde | | antibiótico betalactâmico associado à macrolídeo (eg.
+do Ceará ceftriaxona + azitromicina) ou monoterapia com quinolona
+
+respiratória (eg. levofloxacina).
+Pacientes adultos com COVID-19 em ventilação mecânica,
+OPAS sugere-se o uso empírico de agentes antimicrobianos ou
+antibacterianos por 5 a 7 dias
+Pacientes que requerem oxigênio suplementar.
+Hospital Dexametasona 6mg EV 1x/dia por aproximadamente 10
+Albert dias (tempo depende da avaliação clínica). Dose
+Einstein equivalente (prednisona 40 mg, metilprednisolona 32mg,
+hidrocortisona 160 mg).
+Pacientes hospitalizados com COVID-19 que requerem
+NIH fornecimento de oxigênio através de dispositivo de alto
+fluxo não invasivo; e, Pacientes hospitalizados que
+requerem ventilação ou oxigenação invasiva.
+Indivíduos com diagnóstico confirmado de COVID-19,
+preferencialmente com mais de 7 dias do início dos
+
+Dexametasona |cacretaria | Sintomas, que apresentam doença grave ou crítica, com
+de Estado necessidade de suplementação de 02 ou suporte
+de Saúde ventilatório. a dexametasona, que deve ser utilizada na
+do Ceará posologia de 6 mg ao dia (VO ou EV), durante 7 a 10 dias.
+
+A medicação poderá ser substituída por outras drogas em
+doses equivalentes, como hidrocortisona (150 mg/d),
+metilprednisolona (32 mg/d) ou prednisona (40 mg/d).
+a srio Pacientes hospitalizados que necessitam de oxigênia ,
+Antônio complementar. Se a dexametasona não estiver disponível,
+Pedro - um corticosteroide alternativo, como prednisona
+Ebserh metilprednisolona ou hidrocortisona pode ser usada
+npopital Profilaxia de tromboembolismo venoso para o paciente
+Einstein internado ou ambulatorial;
+Pacientes com COVID-19 hospitalizados que experimentam
+rápida deterioração pulmonar, cardíaca ou neurológica,
+perda localizada súbita de perfusão periférica; Pacientes
+NIH com COVID-19 que ocorre a oxigenação por membrana
+extracorpórea ou terapia de substituição renal contínua, ou
+quem tem trombose de cateteres ou filtros
+extracorpóreos deve ser tratado com terapia
+antitrombótica.
+Antitrombóticos Indivíduos com quadro clínico ou fatores de risco que
+Secretaria | motivem o internamento hospitalar, pode-se indicar a anti-
+de Estado | coagulação em dose profilática, por período mínimo de 7 a
+de Saúde 14 dias. Usualmente, recomenda-se o uso de heparina de
+do Ceará baixo peso molecular. A heparina não fracionada também
+pode ser utilizada em casos selecionados.
+Os pacientes críticos com COVID-19 e alto risco de
+tromboembolismo, sem complicações renais e com baixo
+risco de sangramento, devem receber 1 mg/kg de
+
+OPAS enoxaparina por dia, por pelo menos 7 dias. Para
+pacientes críticos sem contraindicação a anticoagulantes, é
+recomendável o uso de profilaxia farmacológica, como
+heparina de baixo peso molecular (HBPM).
+
+Orientação
+
+As principais agências não se manifestaram quanto a um protocolo a ser
+seguido. A tempo informamos que as condutas relatadas se baseiam em estudos
+
+ 
+clínicos iniciais e que estão sendo revistos com celeridade pela comunidade cientifica
+brasileira e mundial, sendo assim é necessária uma revisão constante de
+protocolos, diretrizes e manejos clínicos para atualização das recomendações que
+podem ser alteradas conforme novas publicações.
+
+Para a utilização respaldada de um medicamento no SUS o ideal que
+dentre outras exigências que o medicamento tenha registro na ANVISA com
+indicação especificada, para uso off-label é necessária a publicação de recomendação
+especial da ANVISA especificando e autorizando este uso, tenha sido avaliado pela
+CONITEC com recomendação de incorporação no âmbito do SUS, conste na Relação
+Nacional de Medicamentos Essenciais (RENAME), seja pactuado entre os gestores
+das unidades federativas na Comissão Intergestores Tripartite (CIT), e conste em
+protocolo clínico e diretriz terapêutica de alguma doença especifica.
+
+Cabe frisar que durante a vigência da pandemia por COVID-19 existe
+uma série de orientações e procedimentos diferenciados, e as orientações podem ser
+alteradas conforme a evolução da pandemia e a descoberta de novas informações
+sobre a doença e seu tratamento.
+
+Orientamos que:
+
+a) seja respeitada a discricionariedade e soberania da relação médico-paciente com
+relação a utilização de medicamentos e cumprindo-se os requisitos previstos pelo
+Conselho Federal de Medicina e Ministério da Saúde.
+
+b) os posicionamentos do Estado de Minas Gerais sejam tomados sempre orientados
+na melhor evidência científica, mas também considerando os arranjos dos atores
+sociais neste processo.
+
+c) sendo de interesse institucional a publicação de um protocolo estadual para
+tratamento de Covid-19 recomendamos que seja criado um grupo de trabalho com
+SES (COES, SRAS, SAPS e CFT), FHEMIG, e sociedades médicas de pneumologia,
+medicina intensiva, infectologia para construção de um protocolo estadual.
+
+Referências
+
+FALAVIGNA, Maicon et al. Diretrizes para o tratamento farmacológico da COVID-19.
+Consenso da Associação de Medicina Intensiva Brasileira, da Sociedade Brasileira de
+Infectologia e da Sociedade Brasileira de Pneumologia e Tisiologia. Rev. bras. ter.
+intensiva, São Paulo, v. 32, n.2, p. 166-196, June 2020 . Available from
+<http://www.scielo.br/scielo.php?script=sci arttext&pid=50103-
+507X2020000200166&lng=en&nrm=iso>. Acesso em 26 mar. 2021.
+
+Manejo Clínico Pacientes com Covid-19. Secretaria de Estado de Saúde do Estado do
+Ceará. Disponível
+em: https://coronavirus .ceara.gov.br/profissional/manejoclinico/tratamento/. Acesso
+em: 07 abr. 2021.
+
+NOTA INFORMATIVA Nº 17/2020- SE/GAB/SE/MS. Orientações do Ministério da Saúde
+para Manuseio Medicamentoso Precoce de Pacientes com Diagnóstico da Covid-19.
+Disponível em https://www.gov.br/saude/pt-br/media/pdf/2021/marco/08/covid-
+05mar2021-11h37.pdf. Acesso em: 24 mar. 2021.
+
+GUIA PARA O CUIDADO DE PACIENTES ADULTOS CRÍTICOS COM CORONAVÍRUS
+
+(COVID-19) NAS AMÉRICAS. Disponível
+
+em: https://ris.paho.org/bitstream/handle/10665.2/52706/0PASBRAIMSEIHCOVID19200013 por.pdf?
+sequence=1&isAllowed=y. Acesso em: 24 mar. 2021.
+
+PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO
+PRIMÁRIA À SAUDE. Secretaria de Atenção Primária à Saúde (SAPS). Brasília, Maio -
+2020. Disponível em: http://cidadao .saude.al.gov.br/wp-
+content/uploads/2020/05/Protocolo COVID 19 Atencao Primaria.pdf. Acesso em: 25
+mar. 2021.
+
+ORIENTAÇÕES PARA MANEJO DE PACIENTES COM COVID-19. Ministério da Saúde.
+Disponível em: https ://portaldeboaspraticas. ff .fiocruz.br/wp-
+content/uploads/2020/06/Covid19-Orienta-es ManejoPacientes pdf. Acesso em: 25
+mar. 2021.
+
+BRAÚNA, Carina da Costaet. al Farmacoeconomia aplicada ao tratamento
+medicamentoso para a COVID-19 em um hospital campanha. Revista Eletrônica
+Acervo Saúde, vol. 13. Disponível
+em: https://acervomais.com.br/index.php/saude/article/view/5971/4191. Acesso em:
+26 mar. 2021.
+
+AMORIM, Michele Bruna Correia de,et al Aspectos farmacológicos, terapias
+propostas e cuidados farmacêuticos no contexto da Covid-19. Journal of Biology &
+Pharmacy and Agricultural Management, v. 17, n.2, abr/jun 2021. Disponível
+em: http://revista.uepb.edu.br/index php/biofarmyarticle/view/5 753/3495. Acesso em:
+25 mar. 2021.
+
+INFORME DA SOCIEDADE BRASILEIRA DE INFECTOLOGIA SOBRE O NOVO
+CORONAVÍRUS Nº 13: ESCLARECIMENTOS CIENTÍFICOS SOBRE ORIENTAÇÕES QUE
+PROPÕEM O USO UNIVERSAL DA CLOROQUINA OU HIDROXICLOROQUINA PARA O
+TRATAMENTO DA COVID-19. Disponível em: https:/finfectologia.org.br/wp-
+content/uploads/2020/07/informe-13-medicacoes-para-covid-19.pdf. Acesso em: 26
+mar. 2021.
+
+COVID-19 Treatment Guidelines Panel. Coronavirus Disease 2019 (COVID-19)
+Treatment Guidelines. National Institutes of Health. Disponível
+
+em: https:/files .covid19treatmentguidelines .nih.gov/guidelines/covidl9treatmentguidelines . pdf.
+Acesso em: 29 mar. 2021.
+
+CID 10: busca da Classificação Internacional de Doenças. Disponível
+em: https://pebmed.com.br/cid10/b34-doencas-por-virus-de-localizacao-nao-
+especificada/. Acesso em: 29 mar. 2021.
+
+MANEJO CORONAVÍRUS (COVID-19). Albert Einstein. Disponível
+em: https://medicals uite.einstein.br/pratica-
+medica/Documentos %2 0Doencas %20Epidemicas/Manejo-de-casos-suspeitos-de-
 sindrome-respiratoria-pelo-COVID-19.pdf. Acesso em: 25 mar.2021.
 
-SALEMME, Vinícius Costa et. al Análse dos fármacos disponíveis para o tratamento
+SALEMME, Vinicius Costa et. al. Análise dos fármacos disponíveis para o tratamento
 farmacológico de pacientes com Covid-19. International Journal of Health
-Management Review, v. 7, n 2 2021 Disponível em:
+Management Review, v. 7, n. 2, 2021. Disponível em:
 
-https:/www.jhmreview.org. Acesso em: 25 mar. 2021.
+https://www.ijhmreview.org. Acesso em: 25 mar. 2021.
 
-SMITH, Timet. al COVIDIS Drug Therapy Elsevier. Disponível em:
-
-Therapy 2020-8-28 pdf. Acesso em: 31 mar. 2021.
+SMITH, Tim et. al COVID-19 Drug Therapy. Elsevier. Disponível em:
+https://www.elsevier.com/. data/assets/pdf file/0007/988648/COVID-19-Drug-
+Therapy 2020-8-28.pdf. Acesso em: 31 mar. 2021.
 
 DIRETRIZES PARA DIAGNÓSTICO E TRATAMENTO DA COVID-19. Ministério da Saúde,
+Brasília 2020. Disponível em:
+https://saude.rs.gov.br/upload/arquivos/202004/14140600-2-ms-diretrizes-covid-v2-
+9-4.pdf. Acesso em: 26 mar. 2021.
 
-Brasília - 2020. Disponível em:
-OXBENO (DPU 47) EA NO a empre dO niveido mar. -
+DIAS, Viviane Maria de Carvalho Hesseletal. Orientações sobre Diagnóstico,
+Tratamento e Isolamento de Pacientes com COVID-19. Journal of Infection
+Control. Disponível em: https:/jic-abih.com.br/index.php/iic/article/view/295/pdf.
+Acesso em: 25 mar. 2021
+
+Protocolo de Manejo Clínico da covid-19 em adultos: Hospital Universitário Antônio
+
+Pedro. Disponível em:
+http:;//www2 .ebserh.gov.br/documents/1322127/0/Protocolo+Manejo+Clinico+COVID/398ad117-
+0a86-4730-9d1c-9c929f4e46e4. Acesso em: 26 mar.2021.
+
+ 
+
+Brasília, com fundamento no art. 6º, 5 1º, do Decreto nº 47.222, de 26 de
+julho de 2017.
+
+(a )jDocumento assinado eletronicamente por Samira do Nascimento Mateus
+seil E | Nunes Lyra, Coordenador(a), em 16/04/2021, às 17:59, conforme horário
+assinatura
+eletrônica
+
+(a | Documento assinado eletronicamente por Grazielle Dias da Silva,
+seil É Superintendente, em 16/04/2021, às 15:13, conforme horário oficial de
+ssinstura
+eletrônica
+
+ 
+
+ 
+
+oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+
+Documento assinado eletronicamente por Tayanna Aparecida de Oliveira
+dos Santos, Empregado (a) Público (a), em 18/04/2021, às 07:53,
+conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
+
+Decreto nº 47.222, de 26 de julho de 2017.
+
+El A autenticidade deste documento pode ser conferida no site
+http://sei mg.gov.br/sei/controlador externo. php?
+
+acao=documento conferir&id orgao acesso externo=0, informando o código
+[é verificador 27756147 e o código CRC 67821C89.
+
+ 
+
+ 
+
+     
+    
+
+eletrônica
+
+  
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 1320.01.0031308/2021-37 SEI nº 27756147
 

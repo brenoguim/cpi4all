@@ -1,21 +1,273 @@
-TC 017.777/2020-8, TC 025.298/2020-8, TC 026.139/2020-0, TC 033.679/2020-7, TC
-046.801/2020-0, TC 022.754/2020-2, TC 025.298/2020-8, TC 026.387/2020-4, TC 025.329/2020-0,
-TC 025.7922020-2, TC 028.094/2020-4, TC 047.615/2020-6, TC 033.579/2020-2, TC
-033.651/2020-5, TC 035.213/2020-5, TC 000.013/2021-8, TC 006.474/2021-7, TC 009.594/2021-3
+TCU
 
-e TC 013.178/2021-0,
-2) — Processos que envolvem possíveis imegularidades c/ou omissões do governo
+ng
 
-federal e do Ministério da Saúde na gestão da pandemia
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Aviso nº 733 - GP/TCU
+Brasília, 18 de maio de 2021.
+
+Senhor Presidente,
+
+Em atenção ao Oficio 98/2021 - CPIPANDEMIA, de 30/4/2021, relativo ao
+Requerimento nº 81/2021 (de autoria do Senador Eduardo Girão), autuado no TCU como
+Solicitação do Congresso Nacional nº TC-014.003/2021-0, encaminho a Vossa Excelência
+cópia de despacho exarado pelo Secretário-Geral de Controle Extemo, bem como, em meio
+
+digital (CD), dos processos a que se referem os itens 1, 2 e 3 do aludido Requerimento.
+
+A propósito, é necessário ressaltar que dois dos processos ora enviados
+(TC-014.575/2020-5 e TC-039.817/2020-2) contêm peças sigilosas ou restritas, as quais não
+são de livre acesso público, e que o compartilhamento destes autos com essa Comissão
+
+Parlamentar de Inquérito não enseja modificação de sua confidencialidade.
+
+Registro ainda que, com o envio da mencionada documentação, a Solicitação em
+
+tela fica considerada integralmente atendida.
+
+Atenciosamente,
+
+(Assinado eletronicamente)
+
+ANA ARRAES
+Presidente
+A Sua Excelência o Senhor o Cunha Bino Nel
+Senador OMAR AZIZ secretário de Comissão & Ea Espods
+Presidente da CPI da Pandemia COEN Cont dp
+Senado Federal . Tea out Aun
+Brasília — DF Cu.
+
+ 
+
+Tempra
+
+Para verificar as assinaturas, acesse www tcu.gov br/autenticidade, informando o código 68027871.
+TRIBUNAL DE CONTAS DA UNIÃO
+Secretaria-Geral de Controle Exteno
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MINUTA
+
+ 
+
+Aviso nº -GP/TCU
+
+Brasília, de maio de 2021.
+
+Senhor Presidente,
+
+Em atendimento ao Ofício 98/2021 - CPIPANDEMIA, de 30/4/2021, por meio do qual
+
+Vossa Excelência encaminhou cópia do Requerimento nº 81/2021, encaminho:
+
+1) Processos em que estão sendo apuradas possíveis irregularidades na aplicação
+
+e destinação dos recursos federais por estados, Distrito Federal e municípios em função da Covid-19:
+
+TC 009.577/2021-1, TC 025.298/2020-8, TC 000.098/2021-3, TC 008.618/2021-6, TC
+012.019/2021-6, TC 026.904/2020-9, TC 012,409/2021-9, TC 006.127/2021-5, TC 016.758/2020-0,
+TC 005.273/2021-8, TC 020.342/2020-9, TC 000.606/2021-9, TC 019.895/2020-8, TC
+039.440/2020-6, TC 006.174/2021-3, TC 046.539/2020-4, TC 039.333/2020-5, TC 002.632/2021-7,
+TC 039.647/2020-0, TC 009.396/2021-7, TC 006.789/2021-8, TC 006.681/2021-2, TC
+047.147/2020-2, TC 037.082/2020-5, TC 012.519/2021-9, TC 012.687/2021-9, TC 047.000/2020-1,
+TC 000.661/2021-0,TC 033.579/2020-2, TC 039.178/2020-0, TC 000.367/2021-4, TC
+033.651/2020-5, TC 008.944/2021-0, TC 006.046/2021-5, TC 011.546/2021-2, TC 029.311/2020-9,
+TC 021.407/2020-7, TC 021.408/2020-3, TC 024.060/2020-8, TC 024.061/2020-4, TC
+024.645/2020-6, TC 025.673/2020-3, TC 025.674/2020-0, TC 026.822/2020-2, TC 026.834/2020-0,
+TC 026.843/2020-0, TC 027.603/2020-2, TC 027.605/2020-5, TC 027.606/2020-1, TC
+027.607/2020-8, TC 027.994/2020-1, TC 027.995/2020-8, TC 028.105/2020-6, TC 029.594/2020-0,
+TC 033.108/2020-0, TC 033.110/2020-4, TC 033.115/2020-6, TC 033.118/2020-5, TC
+033.119/2020-1, TC 033.120/2020-0, TC 033.121/2020-6, TC 033.589/2020-8, TC 033.596/2020-4,
+TC 033.598/2020-7, TC 033.601/2020-8, TC 033.602/2020-4, TC 034.028/2020-0, TC
+036.775/2020-7, TC 036.776/2020-3, TC 039.538/2020-6, TC 039.539/2020-2, TC 044.994/2020-6,
+TC 045.000/2020-4, TC 046.924/2020-5, TC 047.792/2020-5, TC 047.793/2020-1, TC
+008.342/2021-0, TC 000.090/2021-2, TC 012.394/2021-1, TC 012.717/2021-5, TC 013.588/2021-4,
+TC 020.107/2020-0, TC 020.161/2020-4, TC 021.089/2020-5, TC 021.090/2020-3, TC
+021.150/2020-6, TC 021.917/2020-5, TC 024,249/2020-3, TC 025.155/2020-2, TC 025.448/2020-0,
+TC 025.810/2020-0, TC 028.029/2020-8, TC 033.079/2020-0, TC 033.818/2020-7, TC
+035.129/2020-4, TC 035.233/2020-6, TC 047.449/2020-9, TC 000.636/2021-5, TC 006.874/2021-5,
+TC 007.503/2021-0, TC 013.183/2021-4, TC 012.813/2021-4, TC 001.617/2021-4, TC
+006.526/2021-7, TC 017.777/2020-8, TC 025.298/2020-8, TC 026.139/2020-0, TC 033.679/2020-7,
+TC 046.801/2020-0, TC 022.754/2020-2, TC 025.298/2020-8, TC 026.387/2020-4, TC
+025.329/2020-0, TC 025.792/2020-2, TC 028.094/2020-4, TC 047.615/2020-6, TC 033.579/2020-2,
+
+ 
+
+Para verificar as assinaturas, acesse www tcu.gov.br/autenticidade, informando o código 88004308.
+TRIBUNAL DE CONTAS DA UNIÃO
+Secretaria-Geral de Controle Extemo
+
+Seo
+
+ 
+
+I - Processos em que estão sendo apuradas possíveis irregularidades na aplicação e
+destinação dos recursos federais por estados, Distrito Federal e municípios em função
+da Covid-19:
+
+TC 009.577/2021-1, TC 025.298/2020-8, TC 000.098/2021-3, TC: 008.618/2021- 6,
+TC 012.019/2021-6, TC 026.904/2020-9, TC 012.409/2021-9, TC 006.127/2021-- 5,
+TC 016.758/2020-0, TC 005.273/2021-8, TC 020.342/2020-9, TC 000.606/2021-9,
+TC 019.895/2020-8, TC 039.440/2020-6, TC 006.174/2021-3, TC 046.539/2020-4,
+TC 039.333/2020-5, TC 002.632/2021-7, TC 039.647/2020-0, TC 009.396/2021- 7,
+TC 006.789/2021-8, TC 006.681/2021-2, TC 047.147/2020-2, TC 037.082/2020-: 5,
+TC 012.519/2021-9, TC 012.687/2021-9, TC 047.000/2020-1, TC 000.661/2021-0,
+TC 033.579/2020-2, TC 039.178/2020-0, TC 000.367/2021-4, TC 033.651/2020- 5,
+TC 008.944/2021-0, TC 006.046/2021-5, TC 011.546/2021-2, TC 029.311/2020-: 9,
+TC 021.407/2020-7, TC 021.408/2020-3, TC 024.060/2020-8, TC 024.061/2020-. 4,
+TC 024.645/2020-6, TC 025.673/2020-3, TC 025.674/2020-0, TC 026.822/2020-: 2,
+TC 026.834/2020-0, TC 026.843/2020-0, TC 027.603/2020-2, TC 027.605/2020-5,
+TC 027.606/2020-1, TC 027.607/2020-8, TC 027.994/2020-1, TC 027.995/2020-8,
+TC 028.105/2020-6, TC 029.594/2020-0, TC 033.108/2020-0, TC 033.110/2020-4,
+TC 033.115/2020-6, TC 033.118/2020-5, TC 033.119/2020-1, TC 033.120/2020-0,
+TC 033.121/2020-6, TC 033.589/2020-8, TC 033.596/2020-4, TC 033.598/2020-7,
+TC 033.601/2020-8, TC 033.602/2020-4, TC 034.028/2020-0, TC 036.775/2020-7,
+TC 036.776/2020-3, TC 039.538/2020-6, TC 039.539/2020-2, TC 044.994/2020-6,
+TC 045.000/2020-4, TC 046.924/2020-5, TC 047.792/2020-5, TC 047.793/2020-1,
+TC 008.342/2021-0, TC 000.090/2021-2, TC 012.394/2021-1, TC 012.717/2021-5,
+TC 013.588/2021-4, TC 020.107/2020-0, TC 020.161/2020-4, TC 021.089/2020-5,
+TC 021.090/2020-3, TC 021.150/2020-6, TC 021.917/2020-5, TC 024.249/2020-3,
+TC 025.155/2020-2, TC 025.448/2020-0, TC 025.810/2020-0, TC 028.029/2020-8,
+TC 033.079/2020-0, TC 033.818/2020-7, TC 035.129/2020-4, TC 035.233/2020-6,
+TC 047.449/2020-9, TC 000.636/2021-5, TC 006.874/2021-5, TC 007.503/2021-0,
+TC 013.183/2021-4, TC 012.813/2021-4, TC 001.617/2021-4, TC 006.526/2021-7,
+TC 017.777/2020-8, TC 025.298/2020-8, TC 026.139/2020-0, TC 033.679/2020-7,
+TC 046.801/2020-0, TC 022.754/2020-2, TC 025.298/2020-8, TC 026.387/2020-4,
+TC 025.329/2020-0, TC 025.792/2020-2, TC 028.094/2020-4, TC 047.615/2020-6,
+TC 033.579/2020-2, TC 033.651/2020-5, TC 035.213/2020-5, TC 000.013/2021-8,
+TC 006.474/2021-7, TC 009.594/2021-3 e TC 013.178/2021-0.
+
+IX - Processos que envolvem possíveis irregularidades e/ou omissões do governo federal
+e do Ministério da Saúde na gestão da pandemia:
+
+TC 019.895/2020-8, TC 020.342/2020-9, TC 026.801/2020-5, TC 039.817/2020-2,
+TC 044.580/2020-7, TC 047.000/2020-1, TC 000.059/2021-8, TC 000.463/2021-3,
+TC 000.344/2021-4, TC 000.463/2021-3, TC 006.046/2021-5, TC 012.019/2021-6 e
+
+TC 020.437/2020-0.
+
+4. Além disso, em atendimento ao item III do mencionado requerimento, propõe-se o
+encaminhamento de cópia do TC 014.575/2020-5, que trata de acompanhamento com o objetivo de
+avaliar a estrutura de governança elaborada pelo Ministério da Saúde para o combate à crise gerada
+pelo coronavírus e os atos referentes à execução de despesas públicas, sob os aspectos da legalidade,
+legitimidade, economicidade, eficiência e efetividade.
+
+5. Por fim, é necessário ressaltar que as informações encaminhadas por meio do TC
+014,575/2020-5 são classificadas como reservadas, ou seja, não são de livre acesso público, uma vez
+que dizem respeito a procedimentos de fiscalização ainda em andamento, cabendo frisar que o
+
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 68004308.
+TRIBUNAL DE CONTAS DA UNIÃO
+Secretaria-Geral de Controle Externo
+
+ 
+
+TC 033.651/2020-5, TC 035.213/2020-5, TC 000.013/2021-8, TC 006.474/2021-7, TC
+009.594/2021-3 e TC 013.178/2021-0.
+
+2) Processos que envolvem possíveis irregularidades e/ou omissões do governo
+
+federal e do Ministério da Saúde na gestão da pandemia.
 
 TC 019.895/2020-8, TC 020.342/2020-9, TC 026.801/2020-5, TC 039.817/2020-2, TC
-044.580/2020-7, TC 047.000/2020-1, TE 000.059/2021-8, TC 000.463/2021-3, TC 000.344/2021-4,
+044.580/2020-7, TC 047.000/2020-1, TC 000.059/2021-8, TC 000.463/2021-3, TC 000.344/2021-4,
 TC 000.463/2021-3, TC 006.046/2021-5, TC 012.019/2021-6 e TC 020.437/2020-0.
 
 3) Relatório de auditoria produzido em razão de requerimento aprovado pela
-
 Comissão Técnica da Covid no Senado Federal.
-TC 014.575/2020-5,
+TC 014.575/2020-5.
+
+A propósito, é necessário ressaltar que as informações encaminhadas por meio do TC
+014.575/2020-5, são classificadas como reservadas, ou seja, não são de livre acesso público, uma vez
+que dizem respeito a procedimentos de fiscalização ainda em andamento, cabendo frisar que o
+compartilhamento de tais dados com essa Comissão Parlamentar de Inquérito não enseja modificação
+
+de sua confidencialidade.
+
+Atenciosamente,
+
+ANA ARRAES
+
+Presidente
+
+A Sua Excelência o Senhor
+
+Senador OSMAR AZIZ
+
+Presidente da Comissão Parlamentar de Inquérito (CPIPANDEMIA)
+
+A/C Secretaria Executiva da CPIPANDEMIA
+
+SENADO FEDERAL — COCETI | Anexo II, Ala Senador Alexandre Costa, Sala 15, Subsolo
+
+Brasília — DF
+
+ 
+
+Para verificar as assinaturas, acesse www tcu.gov.br/autenticidade, informando o código 88004308.
+Aviso nº =“GP/TCU
+Brasília, demaio de 2021.
+
+Senhor Presidente,
+
+Em atendimento ao Ofício 98/2021 - CPIPANDEMIA, de 30/4/2021, por meio do
+qual Vossa Excelência encaminhou cópia do Requerimento nº 81/2021, encaminho:
+
+1) Processos em que estão sendo apuradas possíveis irregularidades na aplicação
+e destinação dos recursos federais por estados, Distrito Federal e municípios em função da Covid-
+19:
+
+TC 009.5772021-1,TC  025.298/2020-8,TC  000.098/2021-3, TC 008.618/2021-6, TC
+012.019/2021-6, 026.904/2020-9, TC 012.409/2021-9, TC 006.127/2021-5, TC 016.758/2020-0, TC
+005.273/2021-8, TC 020.342/2020-9, TC 000.606/2021-9, TC 019.895/2020-8, TC 039.440/2020-6
+e TC 006.174/2021-3, TC 046.539/2020-4, TC 039.333/2020-5, TC 002.632/2021-7, TC
+039.647/2020-0, TC 009.396/2021-7, TC 006.789/2021-8, TC 006.681/2021-2, TC 047.147/2020-2,
+TC 037.082/2020-5, TC 012.519/2021-9, TC 012.687/2021-9, TC 047.000/2020-1, TC
+000.661/2021-0,TC 033.579/2020-2, TC 039.178/2020-0, TC 000.367/2021-4, TC 033.651/2020-5,
+TC 008.944/2021-0, TC 006.046/2021-5, TC 011.546/2021-2, TC 029.311/2020-9, TC
+021.407/2020-7, TC 021.408/2020-3, TC 024.060/2020-8, TC 024.061/2020-4, TC 024.645/2020-6,
+TC 025.673/2020-3, TC 025.674/2020-0, TC 026.822/2020-2, TC 026.834/2020-0, TC
+026.843/2020-0, TC 027.603/2020-2, TC 027.605/2020-5, TC 027.606/2020-1, TC 027.607/2020-8,
+TC 027.994/2020-1, TC 027.995/2020-8, TC 028.105/2020-6, TC 029.594/2020-0, TC
+033.108/2020-0, TC 033.110/2020-4, TC 033.115/2020-6, TC 033.118/2020-5, TC 033.119/2020-1,
+TC 033.120/2020-0, TC 033.121/2020-6, TC 033.589/2020-8, TC 033.596/2020-4, TC
+033.598/2020-7, TC 033.601/2020-8, TC 033.602/2020-4, TC 034.028/2020-0, TC 036.775/2020-7,
+TC 036.776/2020-3, TC 039.538/2020-6, TC 039.539/2020-2, TC 044.994/2020-6, TC
+045.000/2020-4, TC 046.924/2020-5, TC 047.792/2020-5, TC 047.793/2020-1, TC 008.342/2021-0,
+TC 000.090/2021-2, TC 012.3942021-1, TC 012.717/2021-5, TC 013.588/2021-4, TC
+020.107/2020-0, TC 020.161/2020-4, TC 021.089/2020-5, TC 021.090/2020-3, TC 021.150/2020-6,
+TC 021.917/2020-5, TC 024.249/2020-3, TC 025.155/2020-2, TC 025.448/2020-0, TC
+025.810/2020-0, TC 028.029/2020-8, TC 033.079/2020-0, TC 033.818/2020-7, TC 035.129/2020-4,
+TC 035.233/2020-6, TC 047.449/2020-9, TC 000.636/2021-5, TC 006.874/2021-5, TC
+007.503/2021-0, TC 013.183/2021-4, TC 012.813/2021-4, TC 001.617/2021-4, TC 006.526/2021-7,
+TC 017.777/2020-8, TC 025.298/2020-8, TC 026.139/2020-0, TC 033.679/2020-7, TC
+046.801/2020-0, TC 022.754/2020-2, TC 025.298/2020-8, TC 026.387/2020-4, TC 025.329/2020-0,
+TC 025.792/2020-2, TC 028.094/20204, TC 047.615/2020-6, TC 033.579/2020-2, TC
+033.651/2020-5, TC 035.213/2020-5, TC 000.013/2021-8, TC 006.474/2021-7, TC 009.594/2021-3
+
+e TC 013.178/2021-0.
+2) Processos que envolvem possíveis irregularidades e/ou omissões do governo
+
+federale do Ministério da Saúde na gestão da pandemia.
+
+TC 019.895/2020-8, TC 020.342/2020-9, TC 026.801/2020-5, TC 039.817/2020-2, TC
+044.580/2020-7, TC 047.000/2020-1, TC 000.059/2021-8, TC 000.463/2021-3, TC 000.344/2021-4,
+TC 000.463/2021-3, TC 006.046/2021-5, TC 012.019/2021-6 e TC 020.437/2020-0.
+
+3) Relatório de auditoria produzido em razão de requerimento aprovado pela
+Comissão Técnica da Covid no Senado Federal.
+
+TC 014.575/2020-5.
 
 Atenciosamente,
 

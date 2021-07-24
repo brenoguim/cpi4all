@@ -1,40 +1,653 @@
-&
-r
-da
+   
+
+GOVERNO DE SERGIPE |
+SECRETARIA DE ESTADO DA SAUDE
+
+NOTA EXPLICATIVA
+
+Ao tempo em que encaminha a essa digna Comissão Parlamentar de Inquérito-CPI os
+documentos que insirumentalizam a resposta ao Oficio nº598/202], que solicita
+informações referentes aos requerimentos nº 450/2021 e nº 395/2021] - CPIPANDEMIA
+(número de Leitos de UTI do Estado de Sergipe e sua respectiva taxa de ocupação nos
+anos de 2018, 2019, 2020 e 2021), compreende esta Secretaria de Estado da Saúde-SES
+importante prestar alguns esclarecimentos em relação aos números apresentados, a titulo
+
+de informação e contribuição.
+
+t Se torna relevante registrar que uma das fragilidades do SUS, inclusive no estado
+de Sergipe, se refere à questão do processamento de informações das unidades
+
+hospitalares pelos Sistemas Oficiais do Ministério da Saúde.
+2. Dessa maneira, vale registrar que ocorre uma distorção (para menor) da efetiva taxa
+
+de ocupação dos leitos de UTI quando se tomam por base os dados do SIH/SU!S.
+3. Isto dito, registra ainda a SES que, embora venha atuando na quebra do histórico de
+
+sub-informação dos Sistemas do SUS e reconstruindo a cultura de utilização do
+SIA/SIH em suas unidades próprias e conveniadas, o advento da Pandemia
+
+desacelerou esse processo.
+4. Essa desaceleração decorre, dentre outros fatores, do aumento significativo de
+
+trabalho administrativo nas Unidades e a queda do número de profissionais
+administrativo (marcadamente ocupada por profissionais de idade mais avançada
+
+que foram afastados, como também os portadores de comorbidades e gestante).
+5. Temos então que essa dificuldade de sub-utilização dos Sistemas de informações do
+
+Ministério da Saúde distorce também a real taxa de ocupação de leitos covid, se
+essa taxa for analisada tomando-se por base apenas os sistemas de informação do
+
+Ministério da Saúde.
+6. A dissonância entre esses números (que distorce a taxa de ocupação) decor
+
+ 
+
+vas
+
+seguintes razões:
+7. A primeira delas decorre da ação da SES em reservar leitos de UTI geral para
+
+pacientes covid dentro de sua rede própria, notadamente em seu Hospital
+
+Governador Jvão Alves Filho.
+
+ 
+
+ 
+
+ES CENTRO ADMINISTRATIVO DA SAUDE SENADOR GILVAN ROCHA — dE 79-3108.0614
+Aw. Augusto Franco nº 3150- Ponto Novo, Aracaju - SE, 49047-040
+
+ 
+10.
+
+nn.
+
+12.
+
+13.
+
+14.
+
+  
+
+sata.
+GOVERNO SERGIPE
+SECRETARIA DE ESTADO DA SAÚDE
+
+ 
+
+Com a pandemia explodindo e a adoção de medidas de isolamento domiciliar
+surtindo efeito. a SES verificou uma queda na ocupação de seus leitos de UTI de
+
+retaguarda para cirurgias eletivas e destinados aos traumas de causa externa.
+Visualizando isso, a SES destinou leitos de UTI do seu Hospital Governador loão
+
+Alves Filho para o atendimento a pacientes com Síndrome Respiratória Aguda
+Grave-SRAG (inclusive covid) lançando-os em seus mapas diários de leitos
+disponíveis para pacientes com covid (que era, à época. vista como uma espécie de
+
+agravo do gênero SRAG).
+Esses leitos. registre-se, embora abrigassem “pacientes covid”. não foram
+
+habilitados pelo Ministério da Saúde como “leitos covid”; e, portanto, não foram
+
+remunerados como tal pelo Ministério da Saúde.
+“Temos assim, em Sergipe, um número efetivo maior de “leitos-covid” do que
+
+aqueles registrados e remunerados pelo Ministério da Saúde.
+Outro ponto que merece destaque nessa questão é o fato de que existe um “delay
+
+entre o dia em que um leito de UTI covid está disponível ao Complexo Regulatório
+do Estado para ser utilizado por paciente covid e o dia de sua efetiva “habilitação”
+(leia-se: reconhecimento oficial de existência) pelo Ministério da Saúde: valendo
+lembrar que somente após esse “reconhecimento oficial de Existência” é que se
+torna possível o registro de sua utilização por paciente (internação covid) no
+
+Sistema SIH do Ministério da Saúde.
+Há, assim, uma diferença entre a data de efetiva entrada em operação de um leito
+
+covid, o seu cadastramento no CNES (que no estado de Sergipe ocorreu de forma
+imediata) e a sua efetiva “habilitação” (reconhecimento oficial) pelo Ministério da
+
+Saúde; tudo isso distorcendo o registro das suas taxas de ocupação,
+Graficamente, dentro do Cadastro Nacional de Estabelecimento de Saúde - CNES.
+
+a evolução do número de leitos de UTI no Estado foi a seguinte:
+
+  
+
+ 
+
+>9 CENTRO ADMINISTRATIVO DA SAÚDE SENADOR GILVAN ROCHA — E 79-3108.0614
+Av. Augusto Franco nº 3150- Ponto Novo, Aracaju - SE, 49047-040
+
+ 
+asa
+
+GOVERNO DE SERGIPE
+SECRETARIA DE ESTADO DA SAÚDE
+
+EVOLUÇÃO DE LEITOS UTI SERGIPE -CNES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2018-2021
+EL&
+535
+sm
+:-———+—.——————s
+” e pro nm
+*: 2020 2021
+mesipem UT] COVID-19 egoem UT] GERAL “si Total
+15. O gráfico acima compila os seguintes dados:
+SECRETARIA DE ESTADO DA SAUDE DE SERGIPE
+Leitos de UTI
+Quantidade Existente no CNES
+Especialidade 2018 | 2019 | 2020 | 2021
+UTEILADULTO COVID 19 a 17 He |
+UTI PEDIÁTRICA COVID 19 . - Tao.
+UTI COVID-19 - - 178 2
+UTI ADULTO - TIPO | . as 56 | 56 Mo
+UTI ADULTO - TIPO H 128 128 + 335 B8 À
+UTI ADULTO - TIPO HI s? 57 57 79 |
+UTI PEDIATRICA - TIPO | 2 2 2 2 |
+Doo — UTI PEDIATRICA - TIPO II IZ Yy molar
+UTI PEDIÁTRICA - TIPO Hi 3 3 3 9.
+UTI NEONATAL - TIPO E 16 | 16 16 16
+UTE NEONATAL - TIPO II 7 7 1 7
+= UTI NEONATAL - TIPO IH q | & 4 64
+UTI CORONARIANA TIPO Il - UCO TIPO II o oo
+UTI GERAL . 339 | 350 [357 389
+Total 1.339 [| 350 535 | 618.|
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: CNES
+
+16. Levando-se em conta apenas o número de leitos contidos nos Sistemas du
+
+ 
+
+Ministério da Saúde, as Taxas de Ocupação em Leito de UTI são as seguintes: E
+
+ 
+
+E: CENTRO ADMINISTRATIVO DA SAÚDE SENADOR GILVAN ROCHA —R 79-3108.0614
+Av. Augusto Franco nº 3150- Ponto Novo, Aracaju - SE, 49047-040
+
+ 
+«ao
+
+GOVERNO DE SERGIPE
+SECRETARIA DE ESTADO DA SAÚDE
+
+  
+
+UNIDADE FRATAMENTO INTENSIVO UTI - SUS
+
+ 
+
+ 
+
+TZ CENTRO ADMINISTRATIVO DA SAÚDE SENADOR GILVAN ROCHA — 48 79-3108 0614
+Av. Augusto Franco nº 3150- Ponto Novo, Aracaju - SE, 49047-040
+
+ 
+ 
 
 GOVERNO DE SERGIPE
 SECRETARIA DE ESTADO DA SAÚDE
 
  
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mês Leitos Mnbilitados Internações SUS Taxa de Oeu-
+pação
+jan/18 230 4.651 6%
+fev/18 230 4.066 59%
+mar/18 23) 4564 66% |
+abr/18 230 4.852 70% |
+mai/8 230 5.386 78%
+jun/18 230 3.491 | 51%
+jul/18 230 s.214 76%
+ago/18 230 5.265 76%
+sey/18 230 4.743 E
+out/18 230 5.111 74%
+nov/18 230 4.791 69%
+dez/18 230 4.154 60%
+jan/19 230 5.443 79%
+fev/i9 230 5.018 73%
+mar/19 230 5.350 78% 4
+abr/19 230 5.179 75%
+mai/19 230 5.593 81%
+junO 230 4.107 60%
+julÃ9 230 4.859 70%
+ago/19 230 5135 74%
+set/19 230 4.909 N%
+out/19 230 5.529 80% |
+nov/19 230 4.112 60%
+dez/19 230 3.872 56%
+jan/20 230 4.710 68%
+fev/20 230 4.348 63%
+mar/20 230 3.933 57%
+abr/20 274 4,556 55%
+| mai/20 284 3.998 47%,
+jun/20 289 4.046 47% .
+jul/20 279 5.246 63%
+ago/20 347 5.267 51%
+set/20 357 5.487 51%
+out'20 347 5.803 56%
+nov/20 335 5.873 58%,
+dez/20 347 5.605 54% :
+jan/21 347 5.270 HA% ii
+fev/21 347 6.034 58%
+mar/21 384 6.449 56%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= CENTRO ADMINISTRATIVO DA SAUDE SENADOR GILVAN ROCHA — 9 79-3108.0614
+
+Av. Augusto Franco nº 3150- Ponto Novo, Aracaju - SE, 49047-040
+
+pesso
+ 
+
+GOVERNO DE SERGIPE
+SECRETARIA DE ESTADO DA SAUDE
+
+17. Entretanto, para a regulação dos leitos covid e para instrumentalizar a tomada de
+decisões quanto às medidas de abertura e fechamento das atividades econômicas do
+estado, era necessário conhecer a real taxa de ocupação dos leitos covid (que não
+era possível ser colhida nos Sistemas do Ministério da Saúde) e em tempo real (o
+
+que também não se colhe no Sistema SIHD.
+18. Assim, foi necessária a criação e utilização de um Sistema de acompanhamento de
+
+utilização de Leitos covid que fosse alimentado em tempo real e que não possuisse
+o “delay” dos Sistemas de Informação do SUS (que podem levar mais de 90 dias
+para refletir a realidade de ocupação). Por tal razão, foram criados dois Sistemas
+Internos (da SES) de acompanhamento diário de ocupação desses leitos. lim
+gerenciado pela Central de Regulação de Leitos (CRI) do Complexo Regulatório
+do Estado de Sergipe e outro pelo Centro de Operações em Emergência (COE).
+vinculado ao Centro de Informações Estratégicas em Vigilância em Saúde
+
+CIEVS, da Diretoria de Vigilância em Saúde da SES/SE.
+19. Esses sistemas revelam a efetiva taxa de ocupação dos leitos Covid, que é a
+
+seguinte:
+
+INTERNAÇÕES HOSPITALARES SUS
+LEITOS DE UTI COVID 19
+Periodo: mar/20 a Mai/21
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mês Dias Leito UTI SUS Dias Internação UTI | Taxa Cu
+mar20 | 36 - 0%
+
+abr/20 645 A N%
+
+mai20 2.099 1.300 62%
+jun2o (0 4320 2.942 NE 68%
+
+jul/20 6.124 4.803 78%
+ago/20 6.41] 3.922 61%
+
+set/20 5.303 2.247 42%
+
+out/20 3.951 2.139 54%
+
+nov/20 3.810 1.578 41%
+
+dez/20 4.583 2.981 65%
+jan/21 5.792 3.644 63% |]
+fev/21 4.816 2.613 54%
+mar/21 6.101 4.979 82% a
+abr/21 6.870 6.509 95%
+mai/21 3.962 ! 3.773 1%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: COE/ CRI./ SES
+
+ 
+
+“SA CENTRO ADMINISTRATIVO DA SAUDE SENADOR GILVAN ROCHA —- E 79-3108.0614
+Av. Augusto Franco nº 3150- Ponto Novo, Aracaju - SE, 49047-040
+
+ 
+ 
+  
+
+uma
+
+ae
+GOVERNO DE SERGIPE
+SECRETARIA DE ESTADO DA SAÚDE
+
+20. Esses são os dados oficiais da SES e que lhe permitiu não somente acompanhar em
+tempo real a taxa de ocupação de seus leitos covid (na rede pública própria c
+privada credenciada) como também para verificar a ocupação da rede credenciada
+
+para fins de pagamento.
+2M. Vale ressaltar que todos os documentos pessoais que comprovam a eletiva
+
+internação dos pacientes nesses leitos está à disposição dessa CP] e dos demais
+órgãos de controle; com as cautelas necessárias em função da Lei Geral de Proteção
+de Dados (eis que se se referem a informações individuais de cada paciente
+
+internado e tratado).
+22. Por tais razões, quando comparados os dados segundo as Fontes do Ministério «i:
+
+Saúde e as Fontes da SES aparecem as seguintes realidades:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TAXA DE OCUPAÇÃO DOS LEITOS UTI COVID-I9
+Comparativo por Fonte de Dados
+MÊS/ANO FONTE
+SIH / CNES COF/CRL/SES | |
+mar/20 0% EO
+abr/20 0% 11%
+mai/20 4% 62% od
+— jum20 9% 68%
+jul/20 49%, 78% A
+ago/20 41% 61%
+set/20 54% 42%
+out20 69% 54% E
+nov/20 . 56% 41%
+dez/20 46% — 6%
+mol O 63% 63% ,
+! fev/21 63% 54% |
+Dr at/2 49% 32% o
+gbr/21 - 95% o
+— mail - FE
+C DE SENADOR GILVAN ROCHA —-% 79-3108.0614
+Bs CENTRO ao ato Prteo PSP Ponta Novo, Aracaju - SE, 49047-040 gi
+   
+
+GOVERNO DE SERGIPE
+SECRETARIA DE ESTADO DA SAÚDE
+
 Justamente para que se compreendam as razões das dissonâncias acima é que
 
 estes esclarecimentos se fazem necessários.
-Postas essas considerações. coloca-se essa Secretaria de Estado da Saúde à disposição
+Postas essas considerações, coloca-se essa Secretaria de Estado da Saúde à disposição
 
-para qualquer esclarecimento udicional que se fizer necessário.
-Aracaju/SE, em 21 de maio de 2001,
+para qualquer esclarecimento adicional que se fizer necessário.
+Aracaju/SE, em 21 de maio de 2021.
 
 Respeitosamente,
 
  
 
- 
+Cesar Vladimir-de Bomfim Rocha
+Diretor dé Gestão le Sistemas
 
-Cesar Vladimirde Bomfim Rocha
-Diretor dé Gestão He Sistemas
+a y x
+Maria Lucia Santos
 
-asas
-Maria Lucia Suntos
-
-Diretora de Aenção Especializada e Urgência
+Diretora de Atenção Especializada e Utgência
 
  
 
- 
-
-EI GENTRO ADMINISTRATIVO DA SAUDE SENADOR GILVAN ROCHA — 79-3108.0614
-Av. Augusto Franca nº 3150- Ponte Novo. Aracaju - SE, 48047-040 e
-
-  
+E CENTRO ADMINISTRATIVO DA SAÚDE SENADOR GILVAN ROCHA —-R 79-3108.0614
+Av. Augusto Franco nº 3150- Ponto Novo, Aracaju - SE, 42047-040
 

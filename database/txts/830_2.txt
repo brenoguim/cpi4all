@@ -1,14 +1,268 @@
- 
-
-teDieo Béani ig De ii Ddnitotenextemo
-
-cu UN RIDE GDE EAST AI YDUNIÃO 8 a
-SecretBionsidfizodoMalinçãesBaçãor Qmentaimental
+TRIBUNAL DE CONTAS DA UNIÃO 1
+Secretaria Geral de Controle Externo
+Secretaria de Macroavaliação Governamental
 
  
 
  
 
+TC 013.998/2021-8
+Tipo: Solicitação do Congresso Nacional
+Interessado: Senado Federal
+
+Assunto: informações orçamentárias e
+financeiras de recursos repassados pela União
+aos entes federativos
+
+Proposta: conhecimento e atendimento
+integral da solicitação.
+
+L INTRODUÇÃO
+
+Trata-se de solicitação formulada pelo Senador Alessandro Vieira, por meio do
+Requerimento 58/2021, encaminhado a esta Corte de Contas pela Presidência da Comissão
+Parlamentar de Inquérito (CPI) do Senado Federal, intitulada “CPI da Covid-19”, criada pelos
+Requerimentos 1371 e 1372, ambos de 2021. O documento de lavra do parlamentar federal solicita
+“ao Tribunal de Contas da União: discriminação de informações orçamentárias e financeiras de
+recursos repassados pela União aos entes federativos” (peça 2, p. 3).
+
+2. O referido documento deu origem ao TC 013.998/2021-8, o qual foi encaminhado à
+Secretaria-Geral de Controle Externo (Segecex) deste Tribunal, por determinação da Presidente do
+TCU, visando à adoção de providências pertinentes com a “absoluta prioridade que o caso requer”
+(peça 4).
+
+II. EXAME DE ADMISSIBILIDADE
+
+3. Consoante o art. 4º, inciso I, alínea “b”, da Resolução-TCU 215/2008, o art. 232, inciso
+HI, do Regimento Interno do TCU, e o art. 38, inciso II, da Lei 8.443/1992, os presidentes de
+comissões de inquérito, no âmbito do Congresso Nacional, detêm legitimidade para solicitar
+informações ao TCU, desde que os requerimentos sejam aprovados pelas respectivas comissões.
+
+4. Nesse rumo, o Requerimento 58/2021, de autoria do Senador Alessandro Vieira, foi
+aprovado pela sobredita comissão em 29/4/2021 e encaminhado a esta Corte de Contas, pelo
+presidente da CPI, Senador Omar Aziz, por meio do Ofício 96/2021 — CPIPANDEMIA (peça 2, p.
+
+1).
+
+5. Destarte, encontram-se satisfeitos os requisitos legais para o atendimento da solicitação
+de informações, que requisita a esta Corte de Contas a discriminação de informações orçamentárias
+e financeiras de recursos repassados pela União aos entes federativos, visando à prevenção e ao
+combate à pandemia de Covid-19.
+
+HI. INFORMAÇÕES SOLICITADAS
+
+6. Preliminarmente, convém registrar que as informações sobre a execução das despesas
+orçamentárias da União são registradas pelo Sistema Integrado de Administração Financeira do
+Governo Federal (Siafi), o qual consiste no principal instrumento utilizado para registro,
+acompanhamento e controle da execução orçamentária, financeira e patrimonial do ente federal.
+Dessa forma, o sobredito sistema é amplamente utilizado por órgãos da administração direta federal
+e por boa parte de entidades da administração indireta.
+
+7. Contudo, face a autonomia político-administrativa dos entes subnacionais, consagrada
+pela própria Carta Magna (art. 18, da Constituição Federal), a utilização do Siafi por parte dos estados,
+Distrito Federal e municípios não constitui uma obrigação. Nesse rumo, os entes federados adotam,
+a seu critério, diferentes sistemas de administração financeira, orçamentária e patrimonial, os quais
+
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 67951664.
+TRIBUNAL DE CONTAS DA UNIÃO 2
+Secretaria Geral de Controle Externo
+Secretaria de Macroavaliação Governamental
+
+ 
+
+ 
+
+não se comunicam de forma integral com o Siafi, ainda que alguns estados e municípios brasileiros
+tenham demonstrado interesse crescente na utilização do sistema estruturante análogo ao da União, o
+denominado Sistema Integrado de Administração Financeira para Estados e Municipios (Siafem).
+
+8. Nesse contexto, os dados a seguir apresentados referem-se exclusivamente à execução
+orçamentária e financeira da União, ou seja, compreende a autorização orçamentária e a execução da
+despesa do ponto de vista do ente federal, não abarcando a aplicação dos recursos pelos respectivos
+entes subnacionais.
+
+9. Quanto à metodologia, foram selecionados todos os créditos ordinários e adicionais
+autorizados em 2020 e 2021 (até 3/5/2021), gravados no Siafi como destinados ao combate à
+pandemia e a seus efeitos. Desses, foram extraídos apenas aqueles relacionados às transferências da
+União em favor de estados e municípios, agrupados nas seguintes modalidades de aplicação: 30 -
+Transferências a Estados e ao Distrito Federal; 31 - Transferências a Estados e ao Distrito Federal -
+
+Fundo a Fundo; 40 - Transferências a Municípios; e 41 - Transferências a Municípios - Fundo a
+Fundo.
+
+10. Superada a preliminar, deve-se dizer que, no exercício de 2020, consoante dados
+extraídos do sistema Tesouro Gerencial, do Siga Brasil (Portal do Senado Federal), do Sistema
+Integrado de Planejamento e Orçamento do Governo Federal (Siop), módulo gerencial, e do Portal
+Tesouro Transparente, foram alocados R$ 115,8 bilhões em dotações orçamentárias voltadas à
+transferência de recursos aos entes subnacionais, visando ao combate à pandemia. Desse montante,
+foram empenhados R$ 114,8 bilhões e efetivamente pagos R$ 113,5 bilhões, remanescendo ao final
+do exercício um saldo de despesas inscritas em restos a pagar (RAP) da ordem de R$ 1,4 bilhão.
+
+11. Em 2021, até 4 de maio, há autorização orçamentária da ordem de R$ 6,77 bilhões,
+visando ao combate à pandemia, dos quais R$ 2,30 bilhões já foram empenhados e R$ 2,26 bilhões
+pagos. Soma-se aos pagos a execução de restos a pagar inscritos ao final de 2020. Do total inscrito
+(R$ 1,4 bilhão), houve pagamento de cerca de R$ 1,09 bilhão, perfazendo o total de R$ 3,36 bilhões,
+a título de valores repassados aos entes subnacionais em 2021. A tabela seguinte consolida a execução
+desses valores por exercício.
+
+Tabela 1 — Execução das transferências de recursos pela União em favor dos entes
+subnacionais, visando ao combate à pandemia em 2020 e 2021 — valores correntes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ milhões
+DOTAÇÃO RAP PAGAMENTOS
+EXERCÍCIO ATUALIZADA DO eso co? TOTAIS NO
+(A) D) EXERCÍCIO
+(E) =(C) + (D)
+2020 115.935,8 114.833,00 113.460,2 . 113.460,2
+2021* 6.768,9 23037 22614 1.094,7 3.356,1
+TOTAL 122.704,7 117.136,7 115.721,55 1.094,7 116.816,2
+Fontes: Tesouro Gerencial, Siop, Siga Brasil e Tesouro Transparente. *Posição 4/5/2021.
+12. Da tabela acima, depreende-se que foram repassados entre 2020 e 2021 (até 4/5/2021)
+cerca de R$ 116,8 bilhões aos estados e municípios, visando ao combate à pandemia.
+13. Significativa parcela dessas despesas foi autorizada no bojo da Lei Complementar (LC)
+
+173/2020, por meio da qual foram destinados cerca de R$ 60,2 bilhões, visando ao auxílio financeiro
+aos entes subnacionais. Já a Lei 14.041/2020, proveniente da conversão da Medida Provisória (MPV)
+938/2020, estabeleceu o repasse de até R$ 16 bilhões, com a finalidade de compensar as perdas de
+arrecadação de estados, Distrito Federal e municípios, em decorrência dos efeitos da pandemia. Por
+fim, a Lei 14.017/2020, Lei Aldir Blanc, estabeleceu o repasse de R$ 3,0 bilhões em favor dos entes
+
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 67951664.
+TRIBUNAL DE CONTAS DA UNIÃO 3
+Secretaria Geral de Controle Externo
+Secretaria de Macroavaliação Governamental
+
+ 
+
+ 
+
+subnacionais, visando adoção de ações emergenciais destinadas ao setor cultural.
+
+14. Com efeito, os auxílios financeiros diretamente derivados de lei somam R$ 79,2 bilhões.
+Todos autorizados no exercício de 2020. Desse montante foram efetivamente repassados pela União
+cerca de R$ 78,2 bilhões.
+
+15. Os demais valores autorizados em 2020 e 2021 (R$ 43 bilhões) referem-se a
+programações alocadas nas seguintes funções orçamentárias: Saúde (R$ 40 bilhões), Assistência
+Social (R$ 2,8 bilhões); Educação (R$ 672,7 milhões); e Segurança Pública (R$ 17 milhões). Desses
+R$ 43 bilhões, cerca de R$ 38,6 bilhões foram efetivamente repassados aos entes subnacionais.
+
+ 
+
+16. A distribuição de recursos encontra-se no Anexo I da presente instrução. Não obstante, o
+gráfico a seguir ilustra a distribuição desses R$ 116,8 bilhões aos estados e seus respectivos
+
+municípios.
+Gráfico — Valores repassados pela União aos entes subnacionais em 2020 e 2021, consolidado
+por estado e Distrito Federal“
+
+R$ bilhões
+10 1a
+26 Gai
+40 49
+23
+283 26
+5,0
+1,1 14 23
+14 | 16
+
+ 
+
+4,2
+
+68
+
+Fontes: Tesouro Gerencial, Siop, Siga Brasil e Tesouro Transparente. Posição 4/5/2021 — Total: R$ 118,1 bilhões.
+*Não inclui R$ 744,3 milhões repassados aos entes subnacionais, a título de Pasep.
+
+17. Convém destacar que as diferentes autorizações de despesas apresentam distintos critérios
+de distribuição. Alguns estabelecidos em lei, como é o caso da LC 173 e das Leis 14.017 e 14.041,
+todas de 2020. Outros possuem maior discricionariedade quanto à distribuição dos recursos aos entes
+subnacionais. Por essa razão, o valor planejado (dotação atualizada) pode variar positiva ou
+negativamente durante o exercício financeiro.
+
+18. Por fim, vale destacar que as informações orçamentárias e financeiras pormenorizadas
+sobre transferências de recursos aos entes subnacionais encontram-se à peça 5, na forma de arquivo
+digital.
+
+Tv. CONCLUSÃO
+
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 67951664.
+TRIBUNAL DE CONTAS DA UNIÃO 4
+Secretaria Geral de Controle Externo
+Secretaria de Macroavaliação Governamental
+
+ 
+
+ 
+
+19. A presente Solicitação do Congresso Nacional, requerendo a discriminação de
+informações orçamentárias e financeiras de recursos repassados pela União aos entes federativos,
+deve ser conhecida, uma vez que se encontram atendidos os requisitos previstos no art. 38, inciso II
+da Lei 8.443/1992 c/c o art. 232, inciso III, do Regimento Interno do TCU e com o art. 4º, inciso I,
+alínea “b”, da Resolução-TCU 215/2008.
+
+20. Nesse sentido, propõe-se o atendimento da solicitação, por meio do encaminhamento da
+presente instrução, como também de arquivo digital, acostado aos autos deste processo à peça 5
+(arquivo digital anexo), contendo planilha, a qual apresenta informações consolidadas e detalhadas
+sobre a execução orçamentária e financeira atinente às dotações destinadas ao repasse de recursos da
+União em favor de estados, Distrito Federal e municípios. O mesmo arquivo ainda apresenta as fontes
+de informação, obtidas dos sistemas Tesouro Gerencial, Siop e Siga Brasil e do site Tesouro
+Transparente, ferramentas que apresentam a execução de despesas destinadas ao combate à Covid
+sob a perspectiva da aplicação dos recursos pela União.
+
+V. PROPOSTA DE ENCAMINHAMENTO
+
+21. Ante o exposto, submete-se à consideração superior a presente Solicitação do Congresso
+Nacional, formulada pelo Senador Alessandro Vieira, por meio do Requerimento 58/2021, e
+encaminhada a esta Corte de Contas pelo Presidente da “CPI Covid-19”, Senador Omar Aziz, por
+meio do Oficio 96/2021 — CPIPANDEMIA, propondo:
+
+a) conhecer da solicitação, com fundamento no art. 38, inciso II da Lei 8.443/1992, no
+art. 232, inciso III, do Regimento Interno do TCU e no art. 4º, inciso I, alínea “b”, da
+Resolução-TCU 215/2008;
+
+b) encaminhar a presente instrução complementada pelos arquivos acostados aos
+presentes autos à peça 5, ao Senador Omar Aziz, Presidente da Comissão Parlamentar de
+Inquérito, criada pelos Requerimentos 1371 e 1372, ambos de 2021;
+
+c) dar ciência da decisão que vier a ser adotada aos Senadores Omar Aziz e Alessandro
+Vieira, nos termos da minuta de aviso acostada à peça 6; e
+
+d) considerar a solicitação integralmente atendida e arquivar o presente processo, nos
+termos do art. 169, inciso V, do Regimento Interno do TCU e do art. 17, inciso I, da
+Resolução-TCU 215/2008.
+
+Semag/Assessoria, em 7 de maio de 2021.
+(Assinado eletronicamente)
+
+RAFAEL GOMES LIMA
+AUFC — Mat. 11106-6
+
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 67951664.
+ 
+
+TRIBUNAL DE CONTAS DA UNIÃO
+Secretaria Geral de Controle Externo
+
+Secretaria de Macroavaliação Governamental
+
+ 
+
+Anexo 1 — Total de repasses de recursos aos estados, Distrito Federal e municípios em 2020 e 2021, visando ao combate à pandemia e a
+
+seus efeitos
+
  
 
  
@@ -21,20 +275,6 @@ SecretBionsidfizodoMalinçãesBaçãor Qmentaimental
 
  
 
-BERMAMBSIDINICIPAIS DE SAO PAULO E 15.005,65
-TOCANTINS E 1.442,9
-ESNE ANOS GTADOIS DERERNBMBUCO - 2.880,5
-BIQUARNOS MUNICIPAIS DE TOCANTINS E 2.280,0
-PASEP E 744,3
-BOABESDISSAVBLADO ENS REDOSASTADOS - 2.249,5
-REGEPETENANESRERIDO A MUNICIPIOS 6869,4
-BOVERNO SENTA Sierra Sa Brasil soa ERA 2.282,9 3.052,8
-
- 
-
-EOMAMMPOS ME NIGIPAISIDO RIO DEZTANEIROrUalizacão/paine-de-monitoramentos-da gas gos-com- caia
-Rc iND so nsRsE-Dr/QvAlAXZic/opendoc him 2document=senado 2 Siga rasga jpelCidada og post OVSZAOw
-
  
 
  
@@ -61,6 +301,38 @@ Rc iND so nsRsE-Dr/QvAlAXZic/opendoc him 2document=senado 2 Siga rasga jpelCidad
 
  
 
+R$ milhões
+DOTAÇÃO TOTAL PAGO 2020 -
+ENTE FEDERATIVO FTONTEADA DO E Pai a PAGO >023 - EXERCÍCIO E RAP
+(A) (c) + (D)
+TOTAL 122.704,7 117.136,7 115.721,5 1.094,7 116.816,2
+
+ACRE - 1.085,0 1.045,7 14,2 1.059,8
+GOVERNO DO ESTADO ACRE - 8168 786,2 13,7 799,9
+GOVERNOS MUNICIPAIS DO ACRE - 268,2 266,8 0,4 267,2
+ALAGOAS - 23054 2.2564 29,9 2.286,3
+GOVERNO DO ESTADO ALAGOAS - 1.127,7 1.100,9 23,7 1.124,6
+GOVERNOS MUNICIPAIS DE ALAGOAS - 11777 1.155,5, 6,2 1.161,7
+AMAPA - 1.136,9 1.113,7 15,0 1.128,8
+GOVERNO DO ESTADO AMAPA - 851,0 832,0 13,9 845,8
+GOVERNOS MUNICIPAIS DO AMAPA - 285,9 2818 12 283,0
+AMAZONAS - 2.607,8 2.547,5 29,5 25771
+GOVERNO DO ESTADO AMAZONAS - 1.490,8 1.434,6 26,8 1.461,5
+GOVERNOS MUNICIPAIS DO AMAZONAS - 1.117,0 1.112,9 21 1.115,6
+BAHIA - 7.654,2 7.567,5 70,9 7.638,3
+GOVERNO DO ESTADO BAHIA - 3.605,5 3.5464 55,1 3.601,5
+GOVERNOS MUNICIPAIS DA BAHIA - 4.048,7 4.021,1 15,7 4.036,8
+CEARA - 4.920,9 4.866,0 50,4 4.916,4
+GOVERNO DO ESTADO CEARA - 2.301,3 2.255,4 44,6 2.300,0
+GOVERNOS MUNICIPAIS DO CEARA - 2.619,7 2.610,6 5,8 2.616,4
+
+ 
+
+Para verificar as assinaturas,
+
+acesse www.tcu.gov.br/autenticidade, informando o código 67951664.
+ 
+
  
 
  
@@ -91,51 +363,214 @@ Rc iND so nsRsE-Dr/QvAlAXZic/opendoc him 2document=senado 2 Siga rasga jpelCidad
 
  
 
-ANO AE E gi) ss
-WAIEHNRNOSSONICEAS DO RIO GRANDE DUNORIE = — Iute6 485,5 —
-RIO GRANDE DO SUL E 67630 6709,6
-TREO EO E TSE
-EOAERINDOSSOMO BEE DO RIO GRANDE DO SUL E 2.908,3 2.593,85
-RONDONIA E 13824 1.365
-TREO ONO GROSSO DO SUE E TI RR
-FANABNBRMSNICIPAIS DE RONDONIA . 115382 11.615,3
-RORAIMA E 973,6 959,5
-TEME ÇA UN CD AIRONANANAS CERAT - TAUA Es
-BANARNOS MUNICIPAIS DE RORAIMA - 4.889,8 4.266,65
-SANTA CATARINA E 4.188,5 4.145,1
+ 
 
-ERMEANO DU NT DAS AND RARN ANIS) a TEA TEA
-BANARIMOS MUNICIPAIS DE SANTA CATARINA - 2.868,2 2.858,2
-SERGIPE E 1.645,8 16238
-
-ERREANOOMAU NT DIS RSA; O E TRA
-EANARMOS MUNICIPAIS DE SERGIPE - 6.656,9 6.652,2
-SÃO PAULO E 21.124,7 20.872,3
-TOVE TS AO PR TESS RE
-
-, AGAMENTOS
-EXERCÍCU a? TOTAIS NO
-
-Para volcar as assinaturas, acesso vc govbriatantiidad, informando o céigo 67951664
+ 
 
  
 
  
 
-  
-    
+ 
 
-agRena, copia adiaudinar nina Ng do
-entes ru rasca o
-E
-a E Bad a Emo edera Ed no o Bs É
+ 
 
-d
-PR Mana RR EO o a a
+ 
 
-Dto E
-ALA taDEA
-à seu criterio, diferentes sistem RAD AGU LGÊ IES CEGA O Pafrimonial, OS quais
+ 
 
-Para verificar as assinaturas, acesse wwnw.tcu.gov br/autenticidade, informando o código 6795 1664.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TRIBUNAL DE CONTAS DA UNIÃO 6
+
+Secretaria Geral de Controle Externo
+
+Secretaria de Macroavaliação Governamental
+DISTRITO FEDERAL 1.367,7 1.342,6 18,8 1.361,4
+GOVERNO DO DISTRITO FEDERAL 1.367,7 1.342,6 18,8 1.361,4
+ESPIRITO SANTO 2.540,6 2.510,4 26,1 2.536,6
+GOVERNO DO ESTADO ESPIRITO SANTO 1.422,0 1.395,9 23,2 1.419,1
+GOVERNOS MUNICIPAIS DO ESPIRITO SANTO 1.118,6 1.114,5 3,0 1.117,5
+GOIAS 4.141,6 4.094,9 41,6 4.136,5
+GOVERNO DO ESTADO GOIAS 1.877,4 1.842,4 33,6 1.876,0
+GOVERNOS MUNICIPAIS DE GOIAS 2.264,2 2.252,5 8,0 2.260,5
+MARANHAO 4.051,2 3.994,2 48,2 4.042,4
+GOVERNO DO ESTADO MARANHÃO 1.891,1 1.848,6 38,7 1.887,3
+GOVERNOS MUNICIPAIS DO MARANHÃO 2.160,0 2.145,7 9,5 2.155,2
+MATO GROSSO 3.468,6 3.439,3 25,6 3464,9
+GOVERNO DO ESTADO MATO GROSSO 1.825,8 1.800,5 22,1 1.822,6
+GOVERNOS MUNICIPAIS DE MATO GROSSO 1.642,7 1.638,8 3,5 1.642,4
+MATO GROSSO DO SUL 1.995,3 1.973,5 20,6 1.994,1
+GOVERNO DO ESTADO MATO GROSSO DO SUL 935,9 916,2 19,3 935,5
+GOVERNOS MUNICIPAIS DE MATO GROSSO DO SUL 1.059,5 1.057,3 1,3 1.058,7,
+MINAS GERAIS 11.738,2 11.649,3 76,8 11.726,1
+GOVERNO DO ESTADO MINAS GERAIS 4441,3 4.377,8 57,4 4.435,2
+GOVERNOS MUNICIPAIS DE MINAS GERAIS 7.296,8 7.271,5 19,4 7.290,9
+PARA 4.559,8 4.466,6 50,3 4.516,9
+GOVERNO DO ESTADO PARA 2.484,0 2.401,2 44,3 2.445,5
+GOVERNOS MUNICIPAIS DO PARA 2.075,8 2.065,4 6,0 2.071,4
+PARAIBA 2.588,1 2.549,7 35,7 2.585,4
+GOVERNO DO ESTADO PARAIBA 1.190,2 1.162,2 26,1 1.188,2
+GOVERNOS MUNICIPAIS DA PARAIBA 1.397,9 1.387,5 9,6 1.397,1
+PARANA 6.230,9 6.172,2 51,4 6.223,5
+GOVERNO DO ESTADO PARANA 2.776,8 2.730,2 40,8 2.771,0
+GOVERNOS MUNICIPAIS DO PARANA 3454,1 3.442,0 10,5 3.452,5
+
+ 
+
+Para verificar as assinaturas,
+
+acesse www.tcu.gov.br/autenticidade, informando o código 67951664.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TRIBUNAL DE CONTAS DA UNIÃO 7
+
+Secretaria Geral de Controle Externo
+
+Secretaria de Macroavaliação Governamental
+PERNAMBUCO 5.025,6 4.968,4 44,6 5.013,0
+GOVERNO DO ESTADO PERNAMBUCO 2.610,1 2.568,9 36,1 2.604,9
+GOVERNOS MUNICIPAIS DE PERNAMBUCO 2415,5 2.399,5 8,5 2.408,1
+PIAUI 2.270,1 2.236,9 29,0 2.266,0
+GOVERNO DO ESTADO PIAUI 1.020,7 995,6 22,4 1.018,0
+GOVERNOS MUNICIPAIS DO PIAUI 1.249,5 1.241,3 6,7 1.248,0
+RIO DE JANEIRO 6.869,4 6.806,2 54,1 6.360,2
+GOVERNO DO ESTADO RIO DE JANEIRO 3.123,9 3.074,4 46,4 3.120,8
+GOVERNOS MUNICIPAIS DO RIO DE JANEIRO 3.745,5 3.731,8 7,7 3.739,5
+RIO GRANDE DO NORTE 2.314,1 2.274,3 29,3 2.303,6
+GOVERNO DO ESTADO RIO GRANDE DO NORTE 1.141,8 1.110,6 22,9 1.133,5
+GOVERNOS MUNICIPAIS DO RIO GRANDE DO NORTE 1.172,3 1.163,7 6,4 1.170,2
+RIO GRANDE DO SUL 6.763,0 6.709,6 48,9 6.758,5
+GOVERNO DO ESTADO RIO GRANDE DO SUL 3.062,7 3.018,4 40,8 3.059,3
+GOVERNOS MUNICIPAIS DO RIO GRANDE DO SUL 3.700,3 3.691,2 8,1 3.699,3
+RONDONIA 1.382,4 1.361,5 19,2 1.380,7
+GOVERNO DO ESTADO RONDONIA 865,2 846,3 18,0 864,3
+GOVERNOS MUNICIPAIS DE RONDONIA 517,2 515,2 1,1 516,3
+RORAIMA 973,6 959,5 13,5 973,0
+GOVERNO DO ESTADO RORAIMA 732,3 719,0 12,8 731,8
+GOVERNOS MUNICIPAIS DE RORAIMA 241,3 240,5 0,7 241,2
+SANTA CATARINA 4.188,5 4.145,1 41,1 4.186,2
+GOVERNO DO ESTADO SANTA CATARINA 1.827,3 1.792,9 34,0 1.826,8
+GOVERNOS MUNICIPAIS DE SANTA CATARINA 2.361,2 2.352,2 7,2 2.359,4
+SERGIPE 1.645,8 1.623,8 20,2 1.644,0
+GOVERNO DO ESTADO SERGIPE 991,5 972,6 17,4 990,1
+GOVERNOS MUNICIPAIS DE SERGIPE 654,3 651,2 2,8 654,0
+SÃO PAULO 21.124,7 20.872,3 170,6 21.043,0
+GOVERNO DO ESTADO SAO PAULO 10.119,2 9.905,2 146,8 10.051,9
+
+ 
+
+Para verificar as assinaturas,
+
+acesse www.tcu.gov.br/autenticidade, informando o código 67951664.
+TRIBUNAL DE CONTAS DA UNIÃO 8
+Secretaria Geral de Controle Externo
+Secretaria de Macroavaliação Governamental
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GOVERNOS MUNICIPAIS DE SAO PAULO - 11.005,5 10.967,2 23,9 10.991,0
+TOCANTINS o 1.442,9 1.422,6 19,1 1.441,7
+GOVERNO DO ESTADO TOCANTINS - 880,9 863,8 16,4 880,2
+GOVERNOS MUNICIPAIS DE TOCANTINS - 562,0 558,8 2,7 561,5
+PASEP E 744,3 744,3 0,0 744,3
+PASEP DISTRIBUIDO ENTRE OS ESTADOS - 443,6 443,6 0,0 443,6
+PASEP TRANSFERIDO A MUNICIPIOS - 300,7 300,7 0,0 300,7
+
+ 
+
+Fonte: Siop, Tesouro Transparente e Siga Brasil - Posição 4/5/2021.
+
+https://www.tesourotransparente.gov.br/visualizacao/painel-de-monitoramentos-dos-gastos-com-covid-19
+
+http://www9.senado.leg.br/QvAJAXZfc/opendoc.htm?document=senado%2 FSigaBrasilPainelCidadao.qvw&host=QVS%40www9&a no nymous=true&select=|bTem
+as,*000960*
+
+https://www1.siop. planejamento.gov.br/QvAJAXZfc/opendoc.htm?document=|AS%2 FExecucao Orcamentaria.qvw&host=0VS%40pqlk04&anonymous=true
+
+ 
+
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 67951 664.
 

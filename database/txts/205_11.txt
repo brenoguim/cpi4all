@@ -1,177 +1,540 @@
-SEUGOVBA - 0027520824 - Termo Aditivo
+SEI/GOVBA - 00027520824 - Termo Aditivo
+
+GOVERNO DO ESTADO DA BAHIA
+SECRETARIA DA SAÚDE - SESAB
 
  
 
-90027520824 e o código CRC FEFOAZOS.
+TERMO ADITIVO Nº018/2021 AO CONTRATO Nº 023/2018 QUE ENTRE
+SI CELEBRAM O ESTADO DA BAHIA POR INTERMÉDIO DA
+SECRETARIA DE SAÚDE DO ESTADO DA BAHIA — SESAB E A WHITE
+MARTINS GASES INDUSTRIAIS NE LTDA.
 
-ITAÇÕES
+O ESTADO DA BAHIA, por intermédio da Secretaria da Saúde do Estado da Bahia,
+SESAB/FESBA, CNPJ nº. 05.816.630/0001-52, situada à 4º Avenida Plataforma VI, Lado B,
+Centro Administrativo da Bahia - CAB, neste ato representado pelo seu titular Dr. Fábio Vilas-
+Boas Pinto, portador do documento de identidade nº 02532181-10, SSP/BA, inscrito no
+CPF/MF sob o nº384.411.955-87 devidamente autorizado pelo Decreto s/nº publicado no D.O.E.
+de 08 de janeiro de 2015, doravante denominado CONTRATANTE, e a Empresa WHITE
+MARTINS GASES INDUSTRIAIS NE LTDA, CNPJ nº. 24.380.578/0004-21, situada à Rod. BR
+101-Sul 3333, CEP: 54335-000, neste ato representada por sua bastante
+procuradora, Sra. Mariana Barreto Nunes Azevedo, brasileira, portadora de cédula de
+identidade nº 839758618, SSP/BA, inscrita no CPF/MF sob o nº 803.160.425-87 e Lívia Barros
+Ramos Moreira de Souza, brasileira, portadora de cédula de identidade nº33654506-X —
+SSP/SP, inscrita no CPF/MF sob o nº 057.003.664-01 doravante denominada
+apenas CONTRATADA, conforme Processo Administrativo nº 019.7441.2020.0125436-
 
-= ir =0, informando o código verificador
+22 celebram o presente termo aditivo, que se regerá pela Lei estadual nº 9.433/05, mediante as
+cláusulas e condições a seguir ajustadas:
+
+CLÁUSULA PRIMEIRA - DO OBJETO
+
+Constitui objeto do presente Termo Aditivo, a prorrogação de prazo do Contrato nº
+023/2018, referente à prestação de serviços de fornecimento ininterrupto de gases medicinais,
+incluindo a disponibilização de tanques criogênicos fixos, cilindros e locação de equipamentos
+para fornecimento de ar comprimido medicinal com manutenção preventiva e corretiva do
+sistema, às unidades hospitalares que compõem a Diretoria da Rede Própria, sob gestão desta
+Secretaria da Saúde do Estado da Bahia - SESAB, referentes aos lotes |, Il e IV, por um
+período de 12 (doze) meses, entre 04/04/2021 e 03/04/2022.
+
+CLÁUSULA SEGUNDA- DO PREÇO
+
+Estima-se para o contrato o valor R$ 275.320,11 (duzentos e setenta e cinco mil trezentos e
+vinte reais e onze centavos), perfazendo o valor global de R$ 3.303.841,32 (três milhões,
+trezentos e três mil oitocentos e quarenta e um reais e trinta e dois centavos). Vide anexo
+I.
+
+CLÁUSULA TERCEIRA — DA DOTAÇÃO ORÇAMENTÁRIA
+
+https://seibahia.ba.gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=298739408infra ...
+
+1/4
+31/03/2021
+
+As despesas decorrentes deste Termo Aditivo decorrerão dos recursos especificados na
+
+dotação orçamentária que segue:
+
+SEI/GOVBA - 00027520824 - Termo Aditivo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UNIDADE GESTORA | FONTE PROJETO/ATIVIDADE | ELEMENTO DE DESPESA
+33.90.30
+
+0003 - DGE 130/281 | 2641
+33.90.39
+
+ 
+
+ 
+
+CLÁUSULA QUARTA - DA RATIFICAÇÃO DAS CLÁUSULAS
+
+Ficam retificadas as cláusulas em desacordo com as modificações ora inseridas, bem assim
+
+ratificadas as demais, considerando o contrato principal e os aditivos posteriores.
+
+https://seibahia.ba.gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=298739408infra ...
+
+Salvador/BA de
+
+Dr. Fábio Vilas-Boas Pinto
+SECRETÁRIO
+CONTRATANTE
+
+de 2021.
+
+Sra. Mariana Barreto Nunes Azevedo
+WHITE MARTINS GASES INDUSTRIAIS NE LTDA
+
+CONTRATADA
+
+Sra. Lívia Barros Ramos Moreira de Souza
+WHITE MARTINS GASES INDUSTRIAIS NE LTDA
+
+CONTRATADA
+
+ANEXOI
+
+2J4
+31/03/2021 SEI/GOVBA - 00027520824 - Termo Aditivo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LOTE MM
+WHITE MARTINS
+ITEM Especificação Un. [Qtd. Mensal V. Unit. | V. Mensal
+01 Oxigênio Medicinal Gasoso mê 1.483 341 5.057,03
+02 Oxigênio Medicinal Líquido mê 188.300 0,2 135.576,00
+03 Oxido Nitroso Medicinal kg. 962 13,50 12.987,00
+04 Argônio 4,5 mê 20 25,54 510,80
+05 Nitrogênio 4.6 ou Superior mê 228 14,44 3.292,32
+06 Nitrogênio Comercial mê 85 1,66 141,10
+07 [Dióxido de Carbono 99% ou Superior kg. 261 3,18 2.395,98
+08 Ar Comprimido Medicinal Cilindro | mê 261 5,60 1.461,60
+TOTAL: 161.421,83)
+LOTE 02
+WHITE MARTINS
+ITEM Especificação Un. Qtd. Mensal| V. Unit. | V. Mensal
+01 Oxigênio IMedicinal Gasoso mê 1.910 3,00 5.730,00
+oz Oxigênio Medicinal Líquido mê 178.635 046 8217210
+03 Óxido Nitroso Medicinal kg. 1.010 12,97 13.099,70
+04 Argônio 4,5 mê , 13,20 92.40
+05 Nitrogênio 4.6 ou Superior mê EE 10,00 880,00
+06 Nitrogênio Comercial mê 35 1,40 49,00
+07 [Dióxido de Carbono 99% ou Superior kg. ER 8,50 824,50
+08 Ar Comprimido Medicinal mê 322 2,89 930,58
+TOTAL: 103.778,28
+LOTE 04
+WHITE MARTINS
+ITEM Especificação Un. Qtd. Mensal| V. Unit. | V. Mensal
+01 Locação de Central Tipo 2 un. 2 590,00 1.180,00
+02 Locação de Central Tipo 3 un. 1 1.200,00 1.200,00
+03 Locação de Central Tipo 4 un. 3 1.750,00 5.250,00
+04 Locação de Central Tipo 5 un. 1 2.490,00 2.490,00
+TOTAL: 10.120,00
+TOTAL GERAL MENSAL ATUALIZADO (LOTES 01 + 02 + 04): 275.320,11
+TOTAL GERAL ESTIMADO 12 MESES ATE 03/04/2022: 3.303.841,32]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Documento assinado eletronicamente por Mariana Barreto Nunes Azevedo, Representante Legal da
+Empresa, em 26/03/2021, às 12:06, conforme horário oficial de Brasília, com fundamento no art.
+13º, Incisos | e Il, do Decreto nº 15.805, de 30 de dezembro de 2014.
+
+   
+  
+
+seil a
+
+eletrônica
+
+    
+ 
+
+ 
+
+  
+
+seil a
+
+eletrônica
+
+  
+    
+ 
+
+Documento assinado eletronicamente por Lívia Barros Ramos de Souza, Representante Legal da
+Empresa, em 26/03/2021, às 12:14, conforme horário oficial de Brasília, com fundamento no art.
+13º, Incisos | e Il, do Decreto nº 15.805, de 30 de dezembro de 2014.
+
+ 
+
+ 
+
+ 
+
+eil Documento assinado eletronicamente por Fabio Vilas Boas Pinto, Secretário de Estado, em
+l Dedo E 30/03/2021, às 17:42, conforme horário oficial de Brasília, com fundamento no art. 138, Incisos | e II,
+[ eletrônica do Decreto nº 15.805, de 30 de dezembro de 2014.
+
+ 
+
+A autenticidade deste documento pode ser conferida no site
+
+https: //seibahia.ba.gov.br/sei/controlador externo.php?
+
+https://seibahia.ba.gov.br/seicontrolador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=298739408infra ... 3/4
+31/03/2021 SEI/GOVBA - 00027520824 - Termo Aditivo
+
+mm] acao=documento conferir&id orgao acesso externo=0, informando o código verificador
+00027520824 e o código CRC FEFOAZO8.
+
+  
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 019.7441.2020.0125436-22 SEI nº 00027520824
+
+ 
+
+https://seibahia.ba.gov.br/seicontrolador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=298739408infra ... 4/4
+ 
+
+ 
+
+8 LICITAÇÕES
 
 DIÁRIO OFICIAL
 
-República Federativa do Bras -Estado da Boa
+República Federativa do Brasil - Estado da Bahia
 
  
 
- 
-
-SAIVADOR, QUARTA-FERA, 31 DE MARÇO DE2021-ANOCV- Nº 2328
+SALVADOR, QUARTA-FEIRA, 31 DE MARÇO DE 2021- ANO CV - Nº 23.128
 
  
 
- 
+SECRETARIA DE INFRAESTRUTURA
+HIDRICA E SANEAMENTO
 
- 
+RESUMO DO 4º TERMO ADITIVO AO CONTRATO Nº 001/2017/DG/SIHS - PE Nº 002/2016
+- (SEINFRA)
 
-“SECRETARIA DE INFRAESTRUTURA
-HÍDRICA E SANEAMENTO
+PROCESSO SEI: 053.1668.2021.0000180-11
 
-RESUMO DO 4º TERMO ADITIVO AO CONTRATO Nº 0012017/DGISIHS - PE Nº 002/2016
--(SEINFRA)
-
-PROCESSO SEI: 053.1685.2021.0000180.41
-
-Cortratanto: SECRETARIA DE INFRAESTRUTURA HÍDRICA E SANEAMENTO - SIHS
+Contratante: SECRETARIA DE INFRAESTRUTURA HÍDRICA E SANEAMENTO - SIHS
 Contratado: TELEFÔNICA BRASIL S/A.
 
-OBJETO: Prostação do Sniço do Tolefonia Móvel Possoal por 12 (do20) meses, com iniio
-em 20/03/2021 o término em 28/09/2022. Proço o Valor Global Estimado: R$ 6.360,00 (Sais mil
-trezontos o sossenta mais). DOTAÇÃO ORÇAMENTÁRIA: Unidado Gestora: 001: Fonto de
-Recurso: 0.100.000000; Projotoltividado: 17.122 502.208; Elemento do Despesa: 3.3.9039.00
-- Boso Legal Art 140, Inciso 1 da Loi Estadual nº 0.453/05
+OBJETO: Prestação de Serviço de Telefonia Móvel Pessoal por 12 (doze) meses, com início
+em 29/03/2021 e término em 28/03/2022. Preço e Valor Global Estimado: R$ 6.360,00 (Seis mil
+trezentos e sessenta reais). DOTAÇÃO ORÇAMENTÁRIA: Unidade Gestora: 0001; Fonte de
+Recurso: 0.100.000000; Projeto/Atividade: 17.122.502.2018; Elemento de Despesa: 3.3.90.39.00
+- Base Legal: Art. 140, Inciso II da Lei Estadual nº 9.433/05.
 
-Data da assinatura, 26.03.2021 - Loonardo Góes Sia - Secretário
+Data da assinatura, 26.03.2021 - Leonardo Góes Silva - Secretário
+
+ 
 
 Companhia de Engenharia Hídrica e
 de Saneamento da Bahia - CERB
 
+ 
+
 SECRETARIA DE INFRAESTRUTURA HÍDRICA E SANEAMENTO - SIHS
+
 COMPANHIA DE ENGENHARIA HÍDRICA E DE SANEAMENTO DA BAHIA - CERB
 
-Extrato do Contrato nº OO7/2021 - Processos SEI nf” 039.0770.2020.0003034.06 o
-009.0234.2019.0040210-56. Partes: CERB o ELLU TERCEIRIZAÇÃO EIRELI. Objeto:
-Contratação de Serviços Torcolizados do Conservação o Limpeza, Fundamento: Loi 8493/05
-o pelas normas gorais da Loi nº 6.66610G o respectivas alorações, bem como pola logislação
-espocica Valor estimado anual R$467.687 16 Prazo: 12(dozo) mosos.
+Extrato de Contrato nº 007/2021 - Processos SEI nº 039.0770.2020.0003034-96 e
+009.0234.2019.0049219-56. Partes: CERB e ELLU TERCEIRIZAÇÃO EIRELI. Objeto:
+Contratação de Serviços Terceirizados de Conservação e Limpeza. Fundamento: Lei 9433/05
+e pelas normas gerais da Lei nº 8.666/93 e respectivas alterações, bem como pela legislação
+específica. Valor estimado anual: R$467.687,16. Prazo: 12(doze) meses.
 
 Empresa Baiana de Águas e
 Saneamento S.A. - EMBASA
 
-RESUMO DE EXTRATO DO CONTRATO Nº 480017297
-1-Contrato nº 480017207. 2-Contratante: Embasa. 3-Contratado: PJ Construções e Terrapa-
-nagem Ltda, CNP nº 03.174.004/0001-84. 4-Objeto: Execução das obras complementares do
-Sistoma do Esgotamento Sanitário do Lauro do Freitas. 5Valor R$ 133.200.000,00. 6-Prazo do
-Vigência: 1080 dias. 7-Data de Assinatura: 29/03/21. &.Ofigem: Liciação 1º 106/20 - EXM/DE.
-O.Recursos: FGTSIPróprios. Salvador, 30/08/21. Paulo Henrique Fatias Monteiro - Gorento da
-Unidado de Liclaçãos o Contratações -PLC.
+ 
 
-RESUMO DE EXTRATO DO CONTRATO Nº 480017315
-1-Contrato 1º 480017315. 2-Contratanto: Embasa. 3-Contratado: Ezze Seguros S/A, CNPJ
-1º 31.594 BABIODOT-24, 4.Objlo: Contratação do seguro de responsablidade civil (Director
-and Officer - DIO Liabilty Insurance), com abrangência nacional, para os administradores da
-embasa olitos pela assembleia geral o outros provistos. 5-Valor: R$ 200.000,00. 6Prazo do
-vigência: 12 Meses. 7-Data de Assinatura: 20/03/21. 8.0figem: Lictação pelo Rito Similar ao
-Pregão Eletrônico 1º 353/20 - DP O-Recursos: Próprios. Salvador, 30/03/21. Paulo Henrique
-Farias Monteiro - Gerente da Unidade de Lictações é Contratações - PLC.
+RESUMO DE EXTRATO DO CONTRATO Nº 460017297
+
+1-Contrato nº 460017297. 2-Contratante: Embasa. 3-Contratado: PJ Construções e Terrapla-
+nagem Ltda., CNPJ nº 03.174.004/0001-84. 4-Objeto: Execução das obras complementares do
+Sistema de Esgotamento Sanitário de Lauro de Freitas. 5-Valor: R$ 133.200.000,00. 6-Prazo de
+vigência: 1080 dias. 7-Data de Assinatura: 29/03/21. 8-Origem: Licitação nº 106/20 - EXM/DE.
+9-Recursos: FGTS/Próprios. Salvador, 30/03/21. Paulo Henrique Farias Monteiro - Gerente da
+Unidade de Licitações e Contratações - PLC.
+
+RESUMO DE EXTRATO DO CONTRATO Nº 460017315
+
+1-Contrato nº 460017315. 2-Contratante: Embasa. 3-Contratado: Ezze Seguros S/A, CNPJ
+nº 31.534.848/0001-24. 4-Objeto: Contratação de seguro de responsabilidade civil (Director
+and Officer - D&O Liability Insurance), com abrangência nacional, para os administradores da
+embasa eleitos pela assembleia geral e outros previstos. 5-Valor: R$ 200.000,00. 6-Prazo de
+vigência: 12 Meses. 7-Data de Assinatura: 29/03/21. 8-Origem: Licitação pelo Rito Similar ao
+Pregão Eletrônico nº 353/20 - DP 9-Recursos: Próprios. Salvador, 30/03/21. Paulo Henrique
+Farias Monteiro - Gerente da Unidade de Licitações e Contratações - PLC.
 
 RESUMO DE EXTRATO DO CONTRATO Nº 460017317
-A-Contrato nº 460017317. 2Contratanto: Embasa. 3Contratado: BOMBEMI COMERCIAL
-LTDA, CNPJ nº 27:343.071/0001-43. Objeto: Fornecimento DE PEÇAS MECÂNICAS PARA
-A CAPTAÇÃO DO SISTEMA ADUTOR DO SÃO FRANCISCO - SIAK DE IRECÊ. Valor: R$
-65.930,00. 6-Prazo do vigência: 30 dias. 7-Data do Assinatura: 20/03/2021. 8-Origem: Dispensa
-do Licitação Nº 1235012020 - UNIDI 9-Recursos: Próprios. Salvador, 3010312021. Paulo Henrique
-Farias Monteiro - Gorento da Unidado do Lictaçõos e Contratações - PLG.
+
+1-Contrato nº 460017317. 2-Contratante: Embasa. 3-Contratado: BOMBEMI COMERCIAL
+LTDA, CNPJ nº 27.343.071/0001-43. 4-Objeto: Fornecimento DE PEÇAS MECÂNICAS PARA
+A CAPTAÇÃO DO SISTEMA ADUTOR DO SÃO FRANCISCO - SIAA DE IRECÉ. 5-Valor: R$
+65.930,00. 6-Prazo de vigência: 30 dias. 7-Data de Assinatura: 29/03/2021. 8-Origem: Dispensa
+de Licitação Nº 12350/2020- UNI/DI 9-Recursos: Próprios. Salvador, 30/03/2021. Paulo Henrique
+Farias Monteiro - Gerente da Unidade de Licitações e Contratações - PLC.
 
  
 
-SECRETARIA DA SAUDE
+ 
 
-GABINETE DO SECRETÁRIO - GASEC|
-“patio bo
-
-DISPENSA EMERGENCIALNº017/2021CONTRATANTE: GOVERNO DO ESTADO DA BAHIA
+SECRETARIA DA SAÚDE
 
  
 
-EETE DT SECRETÁRIENASEC
-PROCESSO: OF B09000292MBrfh23.34. R
-EMERGENCIAL: 004/2021 - CONTRATANT!
-SECRETARIA DASAÚDE DO ESTADO DA 5;
-52 - CONTRATADO: VITALPLAST COM
-07.748 53900012. OBJETO: Aquisição d
-FISIOTERAPIA. VIGÊNCIA: 60 (sossonto dis
-VALOR GLOBAL: R$ 109.500,00 (conto o no
-Leiostadual no 9433/05, polas normas gerais
-como pola legislação especifica.
+GABINETE DO SECRETÁRIO - GASEC
 
-DATA DA ASSINATURA: 30/03/2021
+PROCESSO Nº019.7441.2020.0132379-83, RESUMO DO CONTRATO Nº 021/2021
+DISPENSA EMERGENCIALN*017/2021CONTRATANTE: GOVERNO DO ESTADO DA BAHIA
+através da SECRETARIA DA SAÚDE DO ESTADO DA BAHIA - SESAB/FESBA, CNPJ Nº
+05.816.630/0001-52 - CONTRATADO: SURYA LAVANDERIA E SERVIÇOS LTDA, CNPJ nº.
+12.784.295/0001-13. OBJETO: Constitui objeto do presente contrato a prestação de serviço de
+lavanderia hospitalar destinado ao Hospital Geral Menandro de Faria - HGMF. VIGÊNCIA: O
+prazo de vigência do contrato será de 180 (cento e oitenta) dias, a contar da data de assinatura,
+ou até que seja findo o procedimento licitatório em trâmite ou ocorra alteração na forma de
+gestão hospitalar da unidade objeto deste ajuste, culminando na sua saída da Rede Direta.
+REGIME DE EXECUÇÃO: Empreitada por Preço Unit: VALOR GLOBAL: R$ 278.388,00
+(duzentos e setenta e oito mil trezentos e oitenta e oito reais). Dotação Orçamentária: U.G:
+0003 P.A: 2641 E.D: 33.90.39.00 FONTE: 130. DATA DA ASSINATURA: 30/03/2021Dr. Fábio
+Vilas-Boas Pinto Secretário Estadual da Saúde.
+
+ 
+
+Assinado digitalmente pela EGBA - Empresa Gráfica da Bahia
+at
+
+de MBAs L08S
+
+GABINETE DO SECRETÁRIO - GASEC
+
+PROCESSO: 019.5030.2021.0034223-34. RESUMO DO CONTRATO: 006/2021 DISPENSA
+EMERGENCIAL: 004/2021 - CONTRATANTE: GOVERNO DO ESTADO DA BAHIA através da
+SECRETARIA DA SAÚDE DO ESTADO DA BAHIA - SESAB/FESBA, CNPJ Nº 05.816.630/0001-
+52 - CONTRATADO: VITALPLAST COM. DE PROD HOSPITALARES LTDA, CNPJ nº
+07.744.539/0001-02. OBJETO: Aquisição de 300 (trezentas) unidades de KIT EPAP PARA
+FISIOTERAPIA. VIGÊNCIA: 60 (sessenta) dias, a contar da data da assinatura do CONTRATO.
+VALOR GLOBAL: R$ 109.500,00 (cento e nove mil e quinhentos reais). Base legal: Lei Estadual
+Lei estadual no 9.433/05, pelas normas gerais da Lei no 8.666/93, e respectivas alterações, bem
+como pela legislação especifica.
+
+DATA DA ASSINATURA: 30/03/2021.
 
 FÁBIO VILAS-BOAS
 
 SECRETÁRIO ESTADUAL DA SAÚDE
 
-GABINETE DO SECRETÁRIO - GASEC|
-PROCESSO nº. 019.7441.2020.0125438.22.
-Nº. 023/2018 CONTRATANTE: ESTADO D/
-DO ESTADO DA BAHINFESBA, CNPJ N
-MARTINS GASES INDUSTRIAIS NE LTDA,
-objeto do presente Termo Aditivo, a prorrogé
-à prestação do serviços do fornecimento ini
-blização do tanques criogênicos fixos, clindr
-de ar comprimido medicinal com manutençã
-hospitalares que compõem a Diretoria da Re
-do Estado da Bahia -SESAB, referentes aos
-entro 04/04/2021 o 03/04/2022. VALOR MEN
-mi trezentos e vinte reais e onze centavos).
-trezentos e três mil oitocentos e quarenta «
-- FESBA P.A: 2641 Fonte: 130/261 ED: 33
-Fábio Vilas-Boas Pinto. Secretário Estadual é
+GABINETE DO SECRETÁRIO - GASEC
 
-  
+PROCESSO nº. 019.7441.2020.0125436-22 TERMO ADITIVO Nº 018/2021 AO CONTRATO
+Nº. 023/2018 CONTRATANTE: ESTADO DA BAHIA, através da SECRETARIA DA SAÚDE
+DO ESTADO DA BAHIA'FESBA, CNPJ Nº. 05.816.630/0001-52. CONTRATADO: WHITE
+MARTINS GASES INDUSTRIAIS NE LTDA, CNPJ nº. 24.380.578/0004-21 OBJETO: Constitui
+objeto do presente Termo Aditivo, a prorrogação de prazo do Contrato nº 023/2018, referente
+à prestação de serviços de fornecimento ininterrupto de gases medicinais, incluindo a disponi-
+bilização de tanques criogênicos fixos, cilindros e locação de equipamentos para fornecimento
+de ar comprimido medicinal com manutenção preventiva e corretiva do sistema, às unidades
+hospitalares que compõem a Diretoria da Rede Própria, sob gestão desta Secretaria da Saúde
+do Estado da Bahia - SESAB, referentes aos lotes |, Ile IV, por um período de 12 (doze) meses,
+entre 04/04/2021 e 03/04/2022. VALOR MENSAL: R$ 275.320,11 (duzentos e setenta e cinco
+mil trezentos e vinte reais e onze centavos). VALOR GLOBAL: R$ 3.303.841,32 (três milhões,
+trezentos e três mil oitocentos e quarenta e um reais e trinta e dois centavos). UG: 19.601
+- FESBA P.A: 2641 Fonte: 130/281 E.D: 33.90.30/33.90.39 Data de Assinatura: 30/03/2021
+Fábio Vilas-Boas Pinto. S ecretário Estadual de Saúde.
 
-GABINETE DO SECRETÁRIO - GASEC|
-PROCESSO Nº 043.4051.2021.0000420.63,
+GABINETE DO SECRETÁRIO - GASEC
 
-Nº 024/2018. CONTRATANTE: ESTADO Dj
-DO ESTADO DA BAHIA-SEABIFESBA, C
-GUARDSECURE - SEGURANÇA EMPRE
-OBJETO: Constiui objeto do presente Termo.
-Vigilância, Desarmado, 84hs. Dlumo e 02 (doi
-para aUPA de ESCADA. em Salvador-Ba. Av
-Aditivo Nº 0962019. PREÇO: Fica acroscide
-oltenta e seis mi, setecentos e vinte o dois f
-final da vigência do mesmo em 21/03/2022 «
-perfazendo um acrés cimo de, aproximadam
-0003-DG, PIA: 2000/2641, E.D.: 33.90.37 0 E
-Dr. Fábio Vilas-Boas Pinto. Secretário Estadu
+PROCESSO Nº 043.4031.2021.0000429-63. TERMO ADITIVO Nº. 030/2021 AO CONTRATO
+Nº 021/2018. CONTRATANTE: ESTADO DA BAHIA, através da SECRETARIA DA SAÚDE
+DO ESTADO DA BAHIA-SEAB/FESBA, CNPJ Nº. 05.816.630/0001-52. CONTRATADO:
+GUARDSECURE - SEGURANÇA EMPRESARIAL LTDA. CNPJ nº 42.035.097/0001-18.
+OBJETO: Constitui objeto do presente Termo Aditivo o acréscimo referente a 02 (dois) Postos de
+Vigilância, Desarmado, 84hs. Diurno e 02 (dois) Postos de Vigilância Desarmado 84 hs. Noturno
+para a UPA de ESCADA, em Salvador-Ba. Ademais, será alterada a Cláusula Primeira do Termo
+Aditivo Nº 096/2019. PREÇO: Fica acrescido ao contrato valor de R$ 386.722,56 (trezentos e
+oitenta e seis mil, setecentos e vinte e dois reais e cinquenta e seis centavos) estimado até o
+final da vigência do mesmo em 21/03/2022 e cujo valor mensal passará para R$ 2.106.007,01
+perfazendo um acréscimo de, aproximadamente, 1,55%. DOTAÇÃO ORÇAMENTÁRIA: UG:
+0003-DG, P/A: 2000/2641, E.D.: 33.90.37 e Fonte: 130; DATA DA ASSINATURA: 29/03/2021
+Dr. Fábio Vilas-Boas Pinto. Secretário Estadual da Saúde.
 
-SECRETARIADA SAÚDE DO ESTADO DA É
+SECRETARIA DA SAÚDE DO ESTADO DA BAHIA
+
 HOSPITAL GERAL DO ESTADO
 
-RESUMO DE CONTRATO (AUTORIZAÇÃO |
-4. AFM Nº. 19.077.0040212021 - Empresa:
-Data do assinatura: 30/03/2021; 2. AFM Nº
+RESUMO DE CONTRATO (AUTORIZAÇÃO DE FORNECIMENTO DE MATERIAL - AFM)
 
-Comércio Eieli - Valor R$ 119.400,00. Data
-do 2021. André Luciano Santana do Andrado
+1. AFM Nº. 19.077.00402/2021 - Empresa: Pluspharma Distribuição Eireli - Valor R$ 675,00.
+Data de assinatura: 30/03/2021; 2. AFM Nº. 19.077.00256/2021 - Empresa: Almeida Monteiro
+Comércio Eireli - Valor R$ 119.400,00. Data de assinatura: 30/03/2021. Salvador, 30 de março
+de 2021. André Luciano Santana de Andrade - Diretor Geral.
 
-SUPERINTENDÊNCIA DE VIGILÂNCIA E PF
-RESUMO DO 1º TERMO ADITIVO - CONTR/
+SUPERINTENDÊNCIA DE VIGILÂNCIA E PROTEÇÃO DA SAÚDE/SUVISA
+RESUMO DO 1º TERMO ADITIVO - CONTRATO Nº. 01/2019
 
-CONTRATO Nº. 01/2019 - CONTRATANTE:
-da Saúdo do Estado da Bahia, SESABIS
-SANITÁRIO APLICADO - IDISA - CNPJ: Of
-vigência por mais 18 meses a partir de 05.0
-conclusão do Curso de Especialização em ir
-contratado. PROCESSO SEI 019.12695.2021
+CONTRATO Nº. 01/2019 - CONTRATANTE: Governo do Estado da Bahia, através da Secretaria
+da Saúde do Estado da Bahia, SESAB/SUVISA - Contratada: INSTITUTO DE DIREITO
+SANITÁRIO APLICADO - IDISA - CNPJ: 00.290.168/0001-89- Objeto: Prorrogar o prazo de
+vigência por mais 18 meses a partir de 05.04.2021 e com término em 04.10.2022, visando a
+conclusão do Curso de Especialização em Direito Sanitário e Supressão de 8,52% do valor inicial
+contratado. PROCESSO SEI 019.12695.2021.0016951-70 - Data da assinatura: 29.03.2021.
 
 Fábio Vilas-Boas Pinto
+
 Secretário da Saúde
 
-  
+SECREATRIA DASAÚDE DO ESTADO DA BAHIA- SESAB
+NUCLEO REGIONAL DE SAÚDE CENTRO LESTE - NRS-CL
 
-doçura nte cimperir ce pgercorigem arroz isualizargid cecteremin=26RTSasOAIda 44
+ 
 
-   
+ 
+
+RESUMO DE AFM/APS
+AFM Nº RMNº VENCEDOR OBJETO VALOR
+TOTAL
+19.057.00001/2021 | 19.07479/2021 | MAQNETE TONER 7.427,00
+COMERCIO LEXMARCKT654X11L
+ESERVICOS
+EIRELI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 

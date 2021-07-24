@@ -1,57 +1,2251 @@
-GOVERNO DO ESTADO DO JBSTESTADO DO ESPÍRITO SANTO
-SECRETARIA DE ESTADO Di RIA DE ESTADO DA SAÚDE
-ANEXO | SESA- SECRETARIA ESTADUAL DE SAUDE
+ 
+
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+Considerando a solicitação constante no requerimento 00058/2021 CPI Pandemia
+
+encaminhado pelo Senado Federal, segue manifestação acerca da efetiva carência dos
+medicamentos e insumos que compõem o kit intubação no Estado do Espírito Santo:
+
+ 
+
+Os medicamentos do chamado “kit intubação” são aqueles medicamentos sedativos,
+anestésicos e bloqueadores neuromusculares utilizados para indução e manutenção
+da ventilação mecânica invasiva em pacientes hospitalizados com COVID-19.
+
+Desde julho de 2020, levantamentos semanais de situação de estoque vêm sendo
+realizados junto aos hospitais inseridos no Plano de Contingência Estadual, com o
+objetivo de apoiar os gestores e evitar o desabastecimento desses medicamentos
+
+em nível hospitalar.
+
+A realização desse levantamento se dá por meio do envio de um Formulário Google
+Forms a cada unidade hospitalar que compõe o Plano de Contingência Estadual. O
+direcionamento a essas unidades é realizado com apoio da Gerência de Gestão
+Hospitalar (GGH) e Gerência de Contratualização da Rede Complementar
+(GECORC), setores vinculados aos hospitais filantrópicos e OSS.
+
+Nesse levantamento cada unidade hospitalar se identifica e preenche para cada
+medicamento constante nesse “kit” seu Consumo Médio Mensal (CMM) e seu
+estoque atual. O envio desse formulário é realizado todas as segundas-feiras com
+prazo de retorno estipulado até a quarta-feira seguinte às 17h. A compilação desses
+dados é realizada pela Gerência de Assistência Farmacêutica (GEAF) nas quintas-
+feiras e o compilado final é enviado ao Ministério da Saúde via Conselho Nacional de
+Secretários de Saúde (CONASS).
+
+É importante ressaltar que o envio desses dados a partir dessa primeira semana de
+maio, possivelmente se consolidará via Coletakit que é um instrumento desenvolvido
+para coletar dados nacionais de forma periódica via Portal Coletakit. O
+monitoramento será realizado pelo Ministério da Saúde e compreenderá dados de
+consumo desses medicamentos, de todos os estabelecimentos de saúde públicos,
+filantrópicos e privados contratualizados. Os dados do relatório geral referente ao
+estoque do kit intubação abaixo, refere-se a todos esses hospitais.
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+Ao analisarmos isoladamente a rede própria verificamos uma situação crítica para
+cinco itens: atracúrio, cetamina, dexmedetomidina, diazepam e propofol, sendo estes
+
+também os itens mais críticos em relação ao abastecimento na rede hospitalar do
+ES.
+
+1. Relatório geral referente ao estoque do Kit de intubação.
+
+ 
+
+KIT INTUBAÇÃO” ES GERAL - ATUALIZADO EM 29/04/2021
+MEDICAMENTOS "KIT INTUBAÇÃO”
+
+ 
+
+ 
+
+ 
+
+|ATROPINA, SULFATO 0,25 MGIML (amp 1 ML) [ 11820 | 28741
+
+[EPINEFRINA 1MG/ML (amp 1 ml)
+[ETOMIDATO 2 MGIML (iramp. 10mi)
+
+ 
+
+HALOPERIDOL 5 MG/ML (amp. 1 ml)
+LIDOCAINA 20 MG/ML (2%) SEM VASOCONSTRICTOR (framp 20mi
+
+ 
+
+MORFINA, SULFATO 10 MG/ML (amp. 1 ml)
+NALOXONA, CLORIDRATO 0,4 MGIML (amp. 1 mi)
+NOREPINEFRINA, HEMITARTARATO 2MGIML (EQ. À 1MGIML DE NOREPINEFRINA) (amp. 4 mi
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUXAMETÓÔNIO, CLORETO 100 MG Framp
+CMM: CONSUMO MEDIO MENSAL
+
+ 
+
+2. Relatório dos hospitais de rede própria referente ao estoque do Kit de intubação.
+
+"KIT INTUBAÇÃO” ES REDE PROPRIA - ATUALIZADO EM 29/04/2021
+MEDICAMENTOS "KIT INTUBAÇÃO” CMM [ESTOQUE [TEMPO (dia:
+|ATRACÚRIO, BESILATO 10MG/ML (amp 2,5 ML) 38.121 35.634 28
+
+[ATROPINA, SULFATO 0,25 MG/ML (amp 1 ML) 2.867] 15.377 195
+
+CISATRACÚRIO, BESILATO 2MG/ML (amp 5 mi 133.369 126 0
+CISATRACÚRIO, BESILATO 2MG/ML (amp 10 ml 267 375 42
+
+DEXTROCETAMINA, CLORIDRATO 50MG/ML (10 ml 3.610 2.603] 22
+
+EPINEFRINA 1MG/ML (amp 1 mi) 7.525 33.015
+ETOMIDATO 2 MG/ML (framp. 10mi) 1.776 2.514
+FENTANILA, CITRATO 0,05 MG/ML (framp. 10 mi) 115.075 | 107.849
+[HALOPERIDOL 5 MG/ML (amp. 1 mi 6.683] 6.189]
+LIDOCAINA 20 MG/ML (2%) SEM VASOCONSTRICTOR (framp 20mi) 10.874 | 128.618
+[MIDAZOLAM 5 MG/ML (framp 10 ml 93.421 74.287
+MORFINA, SULFATO 10 MG/ML (amp. 1 mi) 21.126 | 30.366
+NALOXONA, CLORIDRATO 0,4 MG/ML (amp. 1 mi) 197 2.753,
+NOREPINEFRINA, HEMITARTARATO 2MG/ML (EQ. A IMG/ML DE NOREPINEFRINA) (amp. 4 mi) 72.489 | 172.429
+
+PROPOFOL 10 MG/ML (fr 100 mi) 1.103 2
+[ROCURÔNIO, BROMETO 10 MG/ML (amp 5 ml 9.422] 7.380
+|SUXAMETÔNIO, CLORETO 100 MG Framj 1.729 5.811
+CMM: CONSUMO MEDIO MENSAL
+
+ 
+
+A situação dos consumos desses medicamentos e o risco de desabastecimento já
+havia sido relatada através do envio dos ofícios SESA/GS/326 e 365/2021 do Senhor
+Secretário de Saúde ao Ministério da Saúde com solicitação de apoio frente à
+situação das unidades do Estado. Cabe ressaltar que a diferença frente os consumos
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+relatados nos ofícios acima citados e no quadro apresentado acima (“Kit intubação”
+
+ES rede própria), se devem ao aumento de casos observados entre os meses de
+
+março e abril.
+
+a) Atracúrio
+
+Considerando os itens que nesse momento possuem uma situação de estoque mais
+
+crítica é possível perceber que em relação ao medicamento “Atracúrio”, a
+
+apresentação de ampola 5mL possui uma situação mais crítica que a apresentação
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+de 2,5mL.
+KITINTUBAÇÃO - ES
+
+DATA CNES NOME DA INSTUIÇÃO: 46.603 9.334
+27/04/2021 | 2446030 [HOSPITAL MATERNIDADE SILVIO AVIDOS 0 0
+26/04/2021 | 2550687 [Hospital Roberto Arnizaut Silvares 0 0
+27/04/2021 | 11800 [HOSPITAL INFANTIL NOSSA SENHORA DA GLORIA 0 0
+2TI04/2021 | 2486199 [HOSPITAL ESTADUAL DOUTOR DÓRIO SILVA! 0 0
+27/04/2021 | 7530706 [Hospital Estadual de Vila Velha Dr. Nilton de Barros 0 0
+27/04/2021 | 2445956 |HospiTAL DR: ALCEU MELGAÇO FILHO 200 41
+27/04/2021 | 2547317 [HOSPITAL ESTADUAL SÃO JOSÉ DO CALÇADO 0 0
+28/04/2021 | 2675714 |HOSPITAL JOÃO SANTOS NEVES 200 0
+27/04/2021 | 2546957 |HOSPITAL ANTÔNIO BEZERRA DE FARIAS 0 0
+27/04/2021 | 2447894 |HOSPITAL UNIDADE INTEGRADA DE JERÔNIMO MONTEIRO 0 0
+26/04/2021 | 1257406 [HOSPITAL ESTADUAL DR: JAYME SANTOS NEVES E agr
+15/04/2021 | 7621442 [HOSPITAL ESTADUAL DE URGÊNCIA E EMERGÊNCIA 0 0
+26/04/2021 | 6559131 |HOSPITAL ESTADUAL CENTRAL 0 0
+26/04/2021 | 2447029 |Santa Casa de Misericordia de Guacui 700 300
+15/04/2021 | 2770326 |FUNDACAO HOSPITAL MATERNIDADE SAO CAMILO 2.500. 25
+15/04/2021 | 2485680 [Hospital Santa Casa de Misericórdia de Cachoeiro de Itapemirim 16.000 o
+15/04/2021 | 2448637 [SOCIEDADE PROVEDORA DA SANTA CASA DE MISERICORDIA DE COLATINA - HOSPITAL DR DILO BINDA| 0 0
+28/04/2021 | 2485680 |Hospital Santa Casa de Misericórdia de Cachoeiro de Itapemirim 16.000 0
+07/04/2021 | 6945368 |Hospital Evangélico de Cachoeiro de Itapemirim - Litoral Sul 550 0
+15/04/2021 | 2494442 |Hospital Evangélico de Vila Velha 146 ATT
+DB/04/2021 | 6945368 [HOSPITAL EVANGELICO DE ITAPEMIRIM 1.000) 0
+15/04/2021 | 2547821) [HOSPITAL EVANGELICO DECACHOEIRO DE ITAPEMIRIM 2.000 82
+OT/04/2021 | 2484943 |sociedade Beneficente São Camilo, Hospital São Marcos. 0 0
+07/04/2021 | 2448521 [HOSPITAL MATERNIDADE SÃO JOSE 2.000 0
+15/04/2021 | 245833 [Fundação Beneficente Rio Doce 700 250
+OT/04/2021 | 2547821 |HospiTaL EVANGELICO DE CACHOFIRO DE ITAPEMIRIM 1.000) 0
+13/04/2021 | 2465752 [HOSPITAL ESTADUAL DE ATENÇÃO CLÍNICA 0 0
+26/04/2021 | 11736] [Hospital Santa Rita de Cássia - AFECC 0 99
+28/04/2021 | 11746 [Hospital Santa Casa de Misericórdia de Vitória ES 1.500 2.575)
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+b) Cetamina
+
+Em relação ao medicamento “Cetamina” ressaltamos que 10 hospitais possuem
+registro de consumo, porém estão com estoque zerado ou menor que 30 dias,
+merecendo destaque o Hospital Jayme dos Santos Neves que possui maior registro
+
+de consumo desse item.
+
+27/04/2021
+
+2446030
+
+Kirintuaação-Es
+
+HOSPITAL MATERNIDADESILVIO AVIDOS
+
+ 
+
+ 
+
+2ejoa/2021
+
+[Hospital Robareo ArnizaueSilvaras
+
+ 
+
+27/04/2021
+
+11800)
+
+[HOSPITAL INFANTIL NOSSA SENHORA DAGLORIA
+
+ 
+
+2r/os/2021
+
+2456199
+
+HOSPITAL ESTADUAL DOUTOR DÓRIO SILVA
+
+ 
+
+27/04/2021
+
+7530706
+
+Hospital Estadual de Vila Velha Dr. Nilton de Barros
+
+ 
+
+27/082021
+
+2445956
+
+HOSPITAL DR. ALCEU MELGAÇO FILHO
+
+ 
+
+27/04/2021
+
+2547317
+
+[HOSPITAL ESTADUAL SÃO JOSÉ DO CALÇADO
+
+ 
+
+28/04/2021
+
+2675716
+
+[HOSPITAL JOÃO SANTOS NEVES
+
+ 
+
+ojosjroai
+
+2546957
+
+[HOSPITAL ANTÔNIO BEZERRA DE FARIAS
+
+ 
+
+27/082021
+
+2447894
+
+HOSPITAL UNIDADE INTEGRADA DE JERÔNIMO MONTEIRO
+
+elolo|olojo|o|R|s o]5
+
+ 
+
+2e/04 2021
+
+7257406
+
+[HOSPITAL ESTADUAL DR. JAYIMESANTOS NEVES!
+
+8
+3
+
+ 
+
+15/4/2021 [
+
+621447
+
+[HosprTAL ESTADUAL DE URGÊNCIA EMERGÊNCIA
+
+ 
+
+2ejoappoai
+
+ESSSISI
+
+HOSPITAL ESTADUAL CENTRAL
+
+ 
+
+26/04/2021
+
+2447029
+
+[Santa Caca de Misericordia de Guacu
+
+ 
+
+15/04/2021
+
+2770526
+
+[FUNDAÇÃO HOSPITAL MATERNIDADESAD CAMILO
+
+ 
+
+15/04/2021
+
+EEE
+
+[HospitalSanta Casa de Misericórdia de Cachoeira de Itapemirim.
+
+ 
+
+15/04/2021
+
+2448637
+
+[SOCIEDADE PROVEDORA DASANTA CASA DEMISERICORDIA DE COLATINA -HOSPITAL DRDILO BINDA,
+
+ 
+
+28/04/2021
+
+2425680
+
+[HospitalSanta Casa de Misericórdia da Cachoeiro de Itapemirim.
+
+ 
+
+Drjoaaoa1
+
+saszes
+
+Hospital Evangélico de Cachoeiro de Itapemirim - Litoral sul
+
+ 
+
+15/04/2021
+
+2asaaa2
+
+Hospital Evangélico de Via Velha
+
+ 
+
+DBjoaj2021
+
+45368
+
+HOSPITAL EVANGELICO DE ITAPEMIRIM
+
+ 
+
+15/04/2021
+
+2547821
+
+HOSPITAL EVANGELICO DE CACHOEIRO DEITAPEMIRIM
+
+ 
+
+Drjoapoa1
+
+aapa9as)
+
+[Sociedade Banaficanea S8o Camilo, Hospital São Marcos”
+
+ 
+
+Drjoapaoa1
+
+aaag521
+
+[HOSPITAL MATERNIDADESÃO JOSE
+
+ 
+
+15/08/2021
+
+aa5555
+
+[Fundação Beneficente Rio Doce
+
+ 
+
+Drjoajaoar
+
+2547821
+
+HOSPITAL EVANGELICO DE CACHOEIRO DEITAPEMIRIM
+
+ 
+
+23/04/2021
+
+2465752
+
+HOSPITAL ESTADUAL DE ATENÇÃO CLÍNICA.
+
+ 
+
+28/04,2021
+
+11738
+
+Hospital Santa Bira de Cássia  AFEOC
+
+ 
+
+28/04/2021
+
+11746
+
+Hospital Santa Casa de Misericârdia de Vitória ES
+
+ 
+
+2Bjo42021
+
+EXE
+
+Hospital Universitário Cassino Antônio Moraes
+
+ 
+
+ 
+
+25/04/2021
+
+2485729
+
+ 
+
+HOSPITAL INFANTIL FRANCISCO DE ASSIS
+
+ 
+
+ 
+
+ejojolojo|o|8]5 gjolojo/o|5|o|5]B/ojoja
+
+sjajojojojolsloojojojo/ojojo |a|g)ojojo)ilo/ojo/o|ojo/o|g)o|o]Z
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+c) Dexmedetomidina
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+
+SECRETARIA DE ESTADO DA SAÚDE
+
+A situação do medicamento “dexmedetomidina” é mais crítica, visto que praticamente
+
+todos os hospitais tem registro de consumo, e apenas 03 hospitais possuem estoque
+
+compatível para 30 dias, sendo: Hospital Maternidade Silvio Avidos, Hospital
+
+Estadual de Urgência e Emergência e Hospital Evangélico de Vila Velha.
+
+KITINTUBAÇÃO- ES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
   
-        
 
-NE MEDICAMENTOS PROCESSO
+ 
 
-o: Todos, Too Decumanto Tae
-TE | EI Vinde ineritos Pros hor
+ 
 
-etomidarl
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DATA CNES NOME DA INSTUIÇÃO 9,434
+27/04/2021 | 2446030 [HOSPITAL MATERNIDADESILVIO AvIDOS 280
+25/04/2021 | 2550687 [Hospital Roberto Amizaur Silvares õ
+27/04/2021 | 41800 [HOSPITAL INFANTIL NOSSA SENHORA DAGLORIA 15.
+27/04/2021 | 2486199 | HOSPITAL ESTADUAL DOUTOR DÓRIO SILVA 387! o |
+27/04/2021 | 7530706 [Hospital Estadual de Vila Velha Dr. Niltonde Barros D o |
+27/04/2021 | 2445956 |HOSPITAL DR: ALCEU MELGAÇO FILHO 500 o |
+27/04/2021 | 2547317 [HOSPITAL ESTADUAL SÃO JOSÉ DO CALÇADO. T5 50. ]
+28/04/2021 | 2675714 [HOSPITAL JOÃOSANTOS NEVES] D 100 |
+27/04/2021 | 2546957 |HOSPITAL ANTÔNIO BEZERRA DE FARIAS o o |
+27/04/2021 | 2447894 [HOSPITAL UNIDADE INTEGRADA DE JERÔNIMO MONTEIRO 0 0 |
+26/04/2021 | 7257406 |HOSPITALESTADUAL DR. JAYMESANTOS NEVES: 42.000 3894 |
+15/04/2021 | 7621442 [HOSPITAL ESTADUAL DE URGÊNCIA E EMERGÊNCIA 426 750 ]
+26/04/2021 | 6559131 [HOSPITAL ESTADUAL CENTRAL ER aus |
+26/04/2021 | 2447029 [Santa Casa de Misericordia de Guacui 0 o |
+15/04/2021 | 2770326. |FUNDACAO HOSPITAL MATERNIDADE SAO CAMILO. 200] 100 |
+15/04/2021 | 2485680 |Hospital Santa Casa de Misericôrdia de Cachoeiro de Itapemirim 5.000 8 |
+15/04/2021 | 2448637 |SOCIEDADEPROVEDORA DASANTA CASA DE MISERICORDIA DECOLATINA- HOSPITAL DR DILO BINDA 50 o |
+07/04/2021 | 6945368 [Hospital Evangélico de Cachoeiro de Itapemirim - Litoral Sul 150 ao |
+15/04/2021 | 2494447 [Hospital Evangélico de Vila Velha 126 am |
+08/04/2001 | 6945368 [HOSPITAL EVANGELICO DE ITAPEMIRIM 375] 128 |
+15/04/2021 | 2547821 | HOSPITAL EVANGELICO DECACHOEIRO DEITAPEMIRIM. 750. 2 |
+07/04/2021 | 2484943 [Sociedade Beneficente São Camilo, Hospital São Marcas 30 Bo |
+07/04/2021 | 2448521 [HOSPITAL MATERNIDADESÃO JOSÉ 300 10 |
+15/04/2021 | 245833 [Fundação Beneficente Rio Doce 10. 36. ]
+07/04/2021 | 2547821 [HOSPITAL EVANGELICO DE CACHOFIRO DE ITAPEMIRIM 375] 127 |
+13/04/2021 | 2465752 [HOSPITAL ESTADUAL DE ATENÇÃO CLÍNICA. o o |
+28/04/2024 | 11738 [Hospital Santa Ritade Cássia -APECC 1.283 1.290 |
+384 E
+28/04/2021 | 4044916 [Hospital Universitário Cassino Antônio Moraes. 180 15 |
+15/04/2021 | 2485729 [HOSPITAL INFANTIL FRANCISCO DE ASSIS E 0 1
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+d) Diazepam
+
+Em relação ao medicamento “diazepam”, observamos uma distribuição heterogênea
+
+dos estoques das unidades hospitalares. Em situação mais crítica em relação a esse
+
+medicamento destacamos os Hospitais Santa Casa de Cachoeiro de Itapemirim,
+
+Hospital Estadual Jayme dos Santos Neves e Hospital Dório Silva.
+
+KIT INTUBAÇÃO - ES.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18
+
+64.658 38.159
+21/02/2021 | 2426050) [HOSPITAL MATERNIDADE SILVIO AVIDOS E 900
+26/08/2024 | 2550687] [Hospital Roberto Amizaut Silvares, 370, A.TAO
+27/08/2021 | 11800  |HOSPITAL INFANTIL NOSSA SENHORA DA GLORIA 46 7%
+21/08/2023 | 2496199 HOSPITAL ESTADUAL DOUTOR DÓRIO SILVA 7.350 eg.
+27/08/2024 | 7530706 [Hospital Estadual de Vila Velha Dr. Nilton de Barros. E8T, 334,
+27/08/2021 | 2445956 [HOSPITAL DR. ALCEU MELGAÇO FILHO 300, 646
+27/04/2021 | 2547317 [HOSPITAL ESTADUAL SÃO JOSÉ DO CALÇADO 80 16
+28/08/2021 | 2675714 HOSPITAL JOÃO SANTOS NEVES 200 92
+27/08/2021 | 2546957 [HOSPITAL ANTÔNIO BEZERRA DE FARIAS 296, 466,
+27/08/2021 | 2447894 [HOSPITAL UNIDADE INTEGRADA DE JERÔNIMO MONTEIRO 230 175
+26/08/2023 | 7257AD6. [HOSPITAL ESTADUAL DR. JAYME SANTOS NEVES 41,000 ATA
+15/04/2021 | 762442 |HOSPITAL ESTADUAL DE URGÊNCIA E EMERGÊNCIA 250, 1.315
+26/08/2021 | 6559131 [HOSPITAL ESTADUAL CENTRAL Ta 3
+26/04/2021 | 2447029 [Santa Casa de Misericordia de Guacui 120 2.300
+15/08/2021 | 2770826 |FUNDACAO HOSPITAL MATERNIDADE SAO CAMILO 200, 40
+15/04/2021 | 2485680 [Hospital Santa Casa de Misericórdia de Cachoeiro de Itapemirim 10.000 800
+15/08/2021 | 2448657 |SOCIEDADE PROVEDORA DA SANTA CASA DE MISERICORDIA DE COLATINA - HOSPITALDRDILOBIND| TO 58
+07/04/2021 ico de Cachoeiro de Itapemirim 30 4
+15/08/2021 | 2494442 ico de Vils Velha 548, EZ
+08/04/2021 | 6945368 [HOSPITAL EVANGELICO DE ITAPEMIRIM 25 so
+15/08/2021 | 2547821 [HOSPITAL EVANGELICO DE CACHOEIRO DE ITAPEMIRIM 50 ATO
+07/02/2021 | 2484943 [Sociedade Beneficente São Camilo, Hospital São Marcos] 131 190
+07/04/2021 | 2448521 [HOSPITAL MATERNIDADE SÃO JOSE 100 100
+15/04/2021 | 245833 |Fundação Beneficente Rio Doce 200 141
+07/04/2021 | 2547821 [HOSPITAL EVANGELICO DE CACHOEIRO DE ITAPEMIRIM 25 90
+18/08/2024 | 2465752] HOSPITAL ESTADUAL DE ATENÇÃO CLÍNICA 87 364
+JE/04/2021 | 1N/58 | [Hospital Santa Rita de Cássia = AFECC 14101 851
+28/08/202A | 19745 [Hospital Santa Casa de Misericórdia de Vitória ES 21 3.955
+28/04/2021 | 4044016 [Hospital Universitário Cassino Antônio Moraes 102 260
+15/08/2021 | 2485729 [HOSPITAL INFANTIL FRANCISCO DE ASSIS 545, 0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+e) Propofol
+
+A situação do medicamento “propofol” se apresenta critica na maioria das unidades
+
+hospitalares, especialmente no Hospital Jayme dos Santos Neves que possui um
+
+consumo médio de 30.000 ampolas. Algumas unidades não possuem registro de
+
+consumo, no entanto possuem um considerável quantitativo desse medicamento em
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+estoque.
+KiTinTUBAÇÃO- Es
+DATA CNES NOMEDAINSTUIÇÃO
+
+27/04/2021 | 2446030 [HOSPITAL MATERNIDADESILVIO AVIDOS I
+26/04/2021 | 2550687 [Hospital Roberto Amizaut Silvares, |
+27/08/2021 | 11800 [HOSPITAL INFANTIL NOSSASENHORA DA GLORIA |
+27/04/2021 | 2486199 | HOSPITAL ESTADUAL DOUTOR DÓRIOSILVA. I
+27/04/2021 | 7530706. [Hospital Estadual de Vila Velha Dr. Niltonde Barros. |
+27/04/2071 | 2445955 [HOSPITAL DR. ALCEU MELGAÇO FILHO |
+27/08/2021 | 2547317 [HOSPITAL ESTADUAL SÃO JOSÉDO CALÇADO: |
+28/04/2021 | 2675714 [HOSPITAL JOÃO SANTOS NEVES io 20 |
+27/04/2021 | 2546957 [HOSPITAL ANTÔNIO BEZERRA DE FARIAS 341 655] |
+27/08/2021 | 2447894 [HOSPITAL UNIDADE INTEGRADA DE JERÔNIMO MONTEIRO 160 187 |
+26/02/2021 | 7257406 [HOSPITAL ESTADUAL DF. JAYMESANTOS NEVES 31.000 5208 |
+15/04/2021 | 7621442 [HOSPITAL ESTADUAL DE URGÊNCIA E EMERGÊNCIA. 0 2200 |
+26/04/2021 | 6559131 [HOSPITAL ESTADUAL CENTRAL 1.232 264 | |
+26/04/2021 | 2447025 [Santa Casa da Misericordia de Guacui To 480 |
+15/08/2021 | 2770326 |FUNDACAD HOSPITAL MATERNIDADESAO CAMILO. 3.000) 300 |
+15/04/2021 | 2485680 |Hospital Santa Casa de Misericórdia de Cachoeiro de ltapemirim. 20.000 0 |
+15/04/2021 | 2448637 [SOCIEDADE PROVEDORA DASANTA CASA DE MISERICORDIA DECOLATINA- HOSPITAL DR DILO BINDA 1.900 |
+O7/04/2021 | 6945368 [Hospital Evangélico de Cachoeiro de ltapemirim-Litoral Sul 3.000 180 |
+15/04/2021 | 2494442 [Hospital Evangélico de Vila Velha 548 A082 |
+08/04/2021 | 6945368 [HOSPITAL EVANGELICO DEITAPEMIRIM 3.000 42 |
+15/04/2021 | 2547821 |HOSPITAL EVANGELICO DECACHOEIRO DEITAPEMIRIM 800 50. |
+07/04/2021 | 2484943 |Sociadade Beneficente São Camilo, Hospital São Marcos 8 30 |
+07/04/2021 | 2448521 [HOSPITAL MATERNIDADESÃO JOSE, 4.000. 1000 |
+15/04/2021 | 245833 |Fundação Beneficente Rio Doce 600 23 |
+07/03/2021 | 2547821 |HOSPITAL EVANGELICO DECACHOEIRO DEITAPEMIRIM 3.000 Mo]
+13/04/2021 | 2465752 |HOSPITAL ESTADUAL DE ATENÇÃO CLÍNICA. D 0 |
+28/08/2071 | 11738  |HospitalSanta Rita de Cássia -AFEOC) 0 15327 |
+28/08/2021 | 11746  |HospitalSanta Casa de Misericórdia de Vitória ES 2.557. Za |
+28/04/2021 | 4044916 [Hospital Universitário Cassino Antônio Moraes 520 260 |
+15/04/2021 | 2485725 |HOSPITAL INFANTIL FRANCISCO DE ASSIS 5076 4.600 !
+
+ 
+
+ 
+
+Diante do agravamento da pandemia com aumento do número de casos de infecção
+
+e taxa de ocupação dos leitos de UTI em todo Brasil, a Secretaria de Estado da Saúde
+
+do Espírito Santo, vem atuando junto aos hospitais com ações de enfrentamento para
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+não haver desabastecimento de medicamentos e desassistência aos pacientes que
+
+necessitam de tratamento.
+
+Em virtude disso, foi intensificado o acompanhamento dos processos de compras
+dos hospitais e da Central de Compras da SESA e iniciados uma série de articulações
+
+nesse sentido, tais como:
+
+e Compras individuais dos hospitais da rede estadual de pequenos
+quantitativos em cada hospital, já que algumas atas vigentes não estão tendo
+os prazos de entrega cumpridos e que a possibilidade de compra ser exitosa
+é maior com quantitativos de compras menores e remanejamento dos
+estoques; ainda assim, nossos hospitais estão com grandes dificuldades de
+recebimento desses medicamentos, pois os fornecedores alegam
+desabastecimento e/ou entregas a menor do solicitado, sem previsão de
+entrega (Anexo II);
+
+e Compra centralizada a partir da Central de Compras da SESA (Anexo II);
+
+e Compra centralizada por meio do Sistema Estadual de Registro de Preço
+(Anexo II);
+
+e Articulação, em conjunto com CONASS, para execução de compra
+centralizada pelo Ministério da Saúde (MS);
+
+e Envio semanal de informação de consumo e estoque dos medicamentos ao
+MS para monitoramento e decisão quanto a distribuição;
+
+e Recebimento de medicamentos via MS: Entendemos que os quantitativos
+recebidos pelo MS estão muito aquém das nossas necessidades e das
+planilhas enviadas semanalmente, quando analisadas isoladamente.
+Conforme descrito pelo MS, são utilizados critérios para elaboração da pauta
+de distribuição aos estados e os considerados mais críticos são priorizados,
+conforme anexo |;
+
+* Remanejamento de estoques entre as unidades;
+
+e Abertura de processo emergencial de número 2021-0LL1F visando a
+aquisição de medicamentos do Kit Intubação, anticoagulantes e
+antimicrobianos utilizados no tratamento de pacientes com SARS-CoV-2 pelo
+período de 3 meses para garantir um adequado abastecimento das unidades
+hospitalares;
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+Ações coordenadas em conjunto com a Procuradoria-Geral do Estado do
+Espírito Santo que resultaram em 12 liminares favoráveis para garantir ao
+governo estadual o recebimento de medicamentos utilizados no tratamento
+de pacientes internados em infecção pelo novo coronavírus;
+
+Solicitação de execução das Atas disponíveis do MS (110 e 124), sendo
+adjudicado 10% do total disponível para o Estado do ES.
+
+Com relação as atas do MS 110 e 124, informamos que essa secretaria solicitou
+
+adesão, sendo homologado nos seguintes quantitativos:
+
+Processo 2021-8RXWF — Solicitação de execução da ARP para os medicamentos
+
+Atracúrio e Propofol — Empresa: Cristália.
+
+ 
+
+Lote
+
+QUANT. SESA Á
+
+AME | VALORUNTÁRIO | vhLOR TOTAL PORLOTE
+
+DESCRIÇÃO UMIDADE
+
+ 
+
+o
+
+ATRACÚRIO BESILATO, DOSAGEM 10
+
+u o : 1552 R$1242 R$ 19.275,84
+MS/ML, INDICAÇÃO SOLUÇÃO INJETÁVEL | ATPOIa 2,5 ml ú
+
+ 
+
+17
+
+ 
+
+Frasco ampola
+
+PROPOFOL 10 MG/ML (framp 20 ml) som
+
+a82 R$12,23 R$ 5.894,86
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ 25.170,70
+TOTAL
+
+ 
+
+ 
+
+Propofol — Empresa: União Química.
+
+Processo 2021-J7Q4G — Solicitação de execução da ARP para o medicamento
+
+ 
+
+tore
+
+QUANT sEsa À
+
+TÁRIe
+EXECUTAR VALOR UNITÁRIO | VALOR TOTAL POR LOTE
+
+Descrição UNIDADE
+
+ 
+
+17
+
+ 
+
+PROPOFOL 10 MG/ML framp 20 ml so R$12,23 R$978,40
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(6 978,80
+TOTAL n$
+
+ 
+
+ 
+
+Rocurônio — Empresa: Onco Prod.
+
+Processo 2021-H5XTK — Solicitação de execução da ARP para o medicamento
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+quant. sesa A
+1orE DESCRIÇÃO UNIDADE MNT. SESRÁ | WaLOR UNITÁRIO | VALOR TOTAL POR LOTE
+19 | ROCURÔNIO, BROMETO 10 MG/ML amp 5 ml 0 R$12,14 R$ 485,60
+R$ 485,60
+
+TOTAL
+
+ 
+
+ 
+
+Processo 2021-FR51J — Solicitação de execução da ARP para o medicamento
+
+Diazepam — Empresa: Teuto.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+ 
+
+Lore Descrição
+
+UNIDADE
+
+QUANT. SESAÁ
+
+E
+EXECUTAR VALOR UNITÁRIO | WALORTOTAL POR LOTE
+
+ 
+
+08 | DIAZEPAM SMG/ML
+
+ 
+
+ampola 2 ml
+
+ 
+
+ 
+
+3670 R$0,72 R5 2.642,40
+
+ 
+
+ 
+
+ 
+
+TOTAL
+
+R$ 2.642,40
+
+ 
+
+ 
+
+ 
+
+Grazielle Massariol Mori Nascimento
+Chefe de Núcleo Especial de Medicamentos
+Excepcionais e Básicos — NUMEB/GEAF
+
+Maria José Sartório
+Gerente Estadual de Assistência Farmacêutica —
+
+GEAF/SSAS
+
+Milena Lopes Francisco
+Bittencourt Rhein
+Farmacêutica — GGH/SSAS
+
+Nádia Mendonça Ferreira
+Gerente — GGH/SSAS
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+SESA - SECRETARIA ESTADUAL DE SAUDE
+
+MV 2000 - Sistema Controle de Estoque
+Relatório Entradas de Produtos - Estoque: AMBULATORIAIS.
+
+ANEXO |
+
+Página:1/8
+
+Emitido por: VICTORSOARES.
+
+Em: 05/05/2021 11:31
+
+Período de 01/07/2020 até 05/05/2021, Estoque: AMBULATORIAIS, Espécie: Todos, Classe: Todos, Sub. Classe: Todos, Fornecedor: Todos, Tipo Documento: Todos, Produto Mestre
+Todos. Produtos Considerados: Padronizados e Não-Padronizados, Reembolsáveis e Não-Reembolsáveis, Movimentados e Não-Movimentados, Próprios, Consignados e
+
+Reprocessados, Bloqueados e Não-Bloqueados para Compras Suprimentos e Terceiros, Patrimoniais e Não Patrimoniais.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Entrada: 06/07/2020
+Documento: 320833 Tipo: NF- FONTE 0000 MED AD DOADO ! Fomecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+Produto Unidade Quant Unitário VRoal SPL VLIPI S Desc Vi Desconto MIToll Lote Gta Custo médio
+552002 CISATRACURIO 2WGMAL FRASCO 1250000 45500 455000 000 5.687,50 20050135. 1250000
+FIA AMPOLA
+Resumo por EspécieDocumento. Espécie Total TotalProdutos: 568750
+333903202 MAT. FARMACOLOGICO 568750
+TotaldoDia: 5.687,50
+Total Acumulado: 5.687,50
+Entrada: 20/07/2020
+Documento: 155120 Tipo: NF- FONTE 0000 MED AD DOADO | Fomecedor: 1568 MS -LAB. QUIMICO FARMAC. DO EXE!
+Produto Unidade Quant Unitário ViRed IPI VLIPI %Desc ML Desconto MiTobl Loto Gta Custo médio
+550712 CLOROQUINA 150MG COMPRIMI 400000000 02100 02100 900 8.400,00 2006021 24.000,0000
+CPR DO 2006020 16.000,0000
+Resumo por EspécieDocumento. Espécie Total TotalProdutos: 8.400,00
+333903202 MAT. FARMACOLOGICO 840000
+TotaidoDia: 8.400,00
+Total Acumulado: 16.087,50
+Entrada: 22/07/2020
+Documento: 322225 Tipo: NF- FONTE 0000 MED AD DOADO ! Fomecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+Produto Unidade Quant Unitário ViRoM SPL VLIPI M Desc Vi Desconto MiTobi Lote Gtá Custo médio
+552000 ROCURONIO 10MGIML FRASCO 26500000 195000 195000 000 51.675,00 20060060 2.650,0000
+FRASCOAMPOLA AMPOLA
+Resumo por EspécieDocumento. Espéci Total TotalProdutos: 5167500
+323903202 MAT. FARMACOLOGICO 5187500
+TotaldoDia: 61.675,00
+Total Acumulado: 65.762,50
+
+ 
+
+“As Entradas de Produtos Refencia os Produtos ou Sentiços Recebidos de Forma Total ou Parcial de uma Nota Fiscal (Documento de Entrada)
+SESA - SECRETARIA ESTADUAL DE SAUDE - ES
+
+ 
+
+ 
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+SESA - SECRETARIA ESTADUAL DE SAUDE Página:2/8
+Mv2000 - Sistema Controle de Estoque Emitido por: VICTORSOARES.
+Em: 05/05/2021 11:31
+
+Relatório Entradas de Produtos - Estoque: AMBULATORIAIS
+
+ 
+
+Período de 01/07/2020 até 05/05/2021, Estoque: AMBULATORIAIS, Espécie: Todos, Classe: Todos, Sub. Classe: Todos, Fornecedor: Todos, Tipo Documento: Todos, Produto Mestre:
+Todos. Produtos Considerados: Padronizados e Não-Padronizados, Reembolsáveis e Não-Reembolsáveis, Movimentados e Não-Movimentados, Próprios, Consignados e
+Reprocessados, Bloqueados e Não-Bloqueados para Compras Suprimentos e Terceiros, Patrimoniais e Não Patrimoniais.
+
+Entrada: 06/08/2020
+
+Tipo: NF. FONTE 0000 MED AD DOADO | Fornecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+
+ 
+
+Documento: 324110
+Produto Unidade Quant Unitário MiRed SPL VLIPI % Desc Vi Desconto MiTotal Lote Qtd Custo médio
+552909 ROCURONIO 1OMGIML FRASCO 3500000 133750 133750 0,00 4.681,25 20060590 350,0000
+FRASCO AMPOLA AMPOLA
+552017 ATRACURIO 1OMGIML FRASCO 31750000 124200 124200 0,00 39.433,50 20060891 3.175,0000
+FIA AMPOLA
+Resumo por EspécieDocumento, Espécie Total Total Produtos: 4411475
+44114775
+
+333903202 MAT. FARMACOLOGICO.
+
+Tipo: NF- FONTE 0000 MED AD DOADO | Fornecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+
+Documento: 324068
+Qtd Gusto médio
+
+ 
+
+Produto Unidado Quant Unitário ViReal IPI VLIPI % Desc VI Desconto ViTotal Loto
+552920 FENTANILA 0,05 MGM FRASCO 50000000 75100 75100 0.00 37.550,00 20060786 5 000,0000
+SOL In. FIA AMPOLA
+Resumo por EspécielDocumento. Espécie Total Total Produtos: 37.550,00
+37.550,00
+
+333903202 MAT. FARMACOLOGICO.
+TotaldoDia: 81.654,75
+Total Acumulado: 147.427,25
+
+Entrada: 11/08/2020
+
+Documento: 324635 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+
+Tipo: NE: FONTE 0000 MED AD DOADO | Fomecedor: 1370
+Qtd Custo médio
+
+ 
+
+Produto Unidade Quant Unitário ViReal IPI VLIPI % Desc Vi Desconto ViTotal Lote
+552923 SUXAMETONIO 100MG FRASCO 2400000 149000 149000 0,00 3.576,00 20071060 240,0000
+FRASCO AMPOLA AMPOLA
+Resumo por EspécieDocumento Espécie Total Total Produtos: 3.576,00
+357600
+
+333903202 MAT. FARMACOLOGICO.
+TotaldoDia: 3.576,00
+Total Acumulado: 151.003,25
+
+Entrada: 17/08/2020
+
+* As Entradas de Produtos Refencia os Produtos ou Serviços Recebidos de Forma Total ou Parcial de uma Nota Fiscal (Documento de Entrada)
+SESA - SECRETARIA ESTADUAL DE SAUDE - ES
+
+ 
+
+ 
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+
+SECRETARIA DE ESTADO DA SAÚDE
+SESA - SECRETARIA ESTADUAL DE SAUDE Página:3/8
+Emitido por: VICTORSOARES
+Em: 05/05/2021 11:31
+
+Mv2000 - Sistema Controle de Estoque
+Relatório Entradas de Produtos - Estoque: AMBULATORIAIS
+
+Período de 01/07/2020 até 05/05/2021, Estoque: AMBULATORIAIS, Espécie: Todos, Classe: Todos, Sub. Classe: Todos, Fornecedor: Todos, Tipo Documento: Todos, Produto Mestre:
+Todos. Produtos Considerados: Padronizados e Não-Padronizados, Reembolsáveis e Não-Reembolsáveis, Movimentados e Não-Movimentados, Próprios, Consignados e
+Reprocessados, Bloqueados e Não-Bloqueados para Compras Suprimentos e Terceiros, Patrimoniais e Não Patrimoniais.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Entrada: 17/08/2020
+Documento: 325860 Tipo: NF. FONTE 0000 MED AD DOADO | Fornecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+Produto Unidade Quant Unitário MiRed SPL VLIPI % Desc Vi Desconto MiTotal Lote Qtd Custo médio
+552009 ROCURONIO 1OMGIML FRASCO 2600000 121767 121767 0,00 3.165,94 TOt9941 260,0000
+FRASCO AMPOLA AMPOLA
+Resumo por EspécielDocumento. Espécio Total TotalProdutos: 3.165,94
+333903202 MAT. FARMACOLOGICO. 3.165,94
+Documento: 325829 Tipo: NF FONTE 0000 MED AD DOADO | Fornecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+Produto Unidade Quant Unitário MiRedl IPI VLIPI %Desc Vi Desconto ViTolal Lote Qtd Custo médio
+552924 DEXMEDETOMIDINA | FRASCO 1950000 136795 196,7956 0,00 26.675,15 05214DK 195,0000
+AOOMCGIML FIA ML
+552023 SUXAMETONIO 100MG FRASCO 2400000 149000 14,900 0.00 3.576,00 20071253. 240,0000
+FRASCO AMPOLA AMPOLA
+Resumo por EspécielDocumento. Espécie Total Total Produtos: 30.251,15
+333903202 MAT. FARMACOLOGICO. 3025115
+TotaldoDia: 33.417,09
+Total Acumulado: 184.420,34
+Entrada: 10/09/2020
+Documento: 169/2020 Tipo: NF- FONTE 0000 MED AD DOADO | Fomecedor: 2843 MS SESA PARAIBA
+Produto Unidade Quant Unitário ViReal IPI VLIPI % Desc VI Desconto ViTotal Lote Qtd Custo médio
+550712 CLOROQUINA 150MG  COMPRIMI 40000000 02100 02100 0,00 840,00 19030139 4.000,0000
+CPR DO
+Resumo por EspécieDocumento Espécie Total Total Produtos: 840,00
+333903202 MAT. FARMACOLOGICO. 840,00
+Total do Dia: 840,00
+
+Total Acumulado: 185.260,34
+
+Entrada: 15/10/2020
+* As Entradas de Produtos Refencia os Produtos ou Serviços Recebidos de Forma Total ou Parcial de uma Nota Fiscal (Documento de Entrada)
+SESA - SECRETARIA ESTADUAL DE SAUDE - ES
+
+ 
+
+ 
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+SESA - SECRETARIA ESTADUAL DE SAUDE Página:4/8
+Mv2000 - Sistema Controle de Estoque Emitido por: VICTORSOARES.
+Em: 05/05/2021 11:31
+
+Relatório Entradas de Produtos - Estoque: AMBULATORIAIS
+
+ 
+
+Periodo de 01/07/2020 até 05/05/2021, Estoque: AMBULATORIAIS, Espécie: Todos, Classe: Todos, Sub. Classe: Todos, Fomecedor: Todos, Tipo Documento: Todos, Produto Mestre:
+Todos. Produtos Considerados: Padronizados e Não-Padronizados, Reembolsáveis e Não-Reembolsáveis, Movimentados e Não-Movimentados, Próprios, Consignados e
+
+Reprocessados, Bloqueados e Não-Bloqueados para Compras Suprimentos e Terceiros, Patrimoniais e Não Patrimoniais.
+
+Entrada: 15/10/2020
+CRISTALIA PROD. QUIMICOS FARMA(
+
+Tipo: NF-FONTE 0104 MED ADO REC E Fomecedor: 305
+Qtd Custo médio
+
+ 
+
+ 
+
+Documento: 2760169
+Produto Unidado Quant Unitário MiRed IPI VLIPI %Desc Vi Desconto WiTotal Lote
+552017 ATRACURIO 1OMGML FRASCO 48780000 124200 124200 0,00 60.584,76 20080335 2.250,0000
+FIA AMPOLA 20080336 2628.0000
+Resumo por EspécieDocumento Espécie Total Total Produtos: 60.584,76
+333903202 MAT. FARMACOLOGICO. 60.584,76
+TotaldoDia: 60.584,76
+Total Acumulado: — 245.845,10
+Entrada: 11/01/2021
+Documento: 12253752 Tipo: NF- FONTE 0000 MED AD DOADO | Fomecedor: 2843 MS SESA PARAIBA
+Produto Unidade Quant Unitário MiRed IPI VLIPI % Desc Vi Desconto ViTolal Loto Qtd Custo médio
+550712 CLOROQUINA 150MG COMPRIMI 40000000 00689 00689 0,00 275,44 19030139 4.000,0000
+CPR DO
+Resumo por EspécieDocumento Espécio Total Total Produtos: 275,44
+333903202 MAT. FARMACOLOGICO. 21544
+
+Total do Dia: 275,44
+Total Acumulado: 246.120,54
+
+Entrada: 16/03/2021
+MINISTÉRIO DA SAÚDE - DEP. DE LOG
+
+Tipo: NF FONTE 0000 MED AD DOADO | Fornecedor: 1370
+Qtd Custo médio
+
+ 
+
+Documento: 344662
+Produto Unidade Quent  Untário  ViResl SIP VLIP Desc Vi Desconto Tot Loto
+552017 ATRACURIO IOMGML FRASCO 31000000 148050 148050 000 45 895,50 20070123 1.325,0000
+FIA AMPOLA 20070081 4.775,0000
+Resumo por Espécieocumento Espécie Total TotalProdutos: 45.295,50
+333903202 MAT. FARMACOLOGICO 4589550
+
+MINISTÉRIO DA SAÚDE - DEP. DE LOG
+
+Tipo: NF: FONTE 0000 MED AD DOADO | Fomecedor: 1370
+VLIPI % Desc VI. Desconto
+
+Unidade Quant Unitário ViRea IPI
+* As Entradas de Produtos Refencia os Produtos ou Serviços Recebidos de Forma Total ou Parcial de uma Nota Fiscal (Documento de Entrada)
+
+SESA - SECRETARIA ESTADUAL DE SAUDE - ES
+
+Documento: 344660
+Produto
+
+ViTotal Lote Qtd Customédio
+
+ 
+
+ 
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+SESA - SECRETARIA ESTADUAL DE SAUDE Página:5/8
+Mv2000 - Sistema Controle de Estoque Emitido por: VICTORSOARES.
+Relatório Entradas de Produtos - Estoque: AMBULATORIAIS Em: 05/05/2021 11:31
+
+ 
+
+Período de 01/07/2020 até 05/05/2021, Estoque: AMBULATORIAIS, Espécie: Todos, Classe: Todos, Sub. Classe: Todos, Fornecedor: Todos, Tipo Documento: Todos, Produto Mestre:
+Todos. Produtos Considerados: Padronizados e Não-Padronizados, Reembolsáveis e Não-Reembolsáveis, Movimentados e Não-Movimentados, Próprios, Consignados e
+Reprocessados, Bloqueados e Não-Bloqueados para Compras Suprimentos e Terceiros, Patrimoniais e Não Patrimoniais.
+
+Entrada: 16/03/2021
+
+ 
+
+Documento: 344660 Tipo: NF. FONTE 0000 MED AD DOADO | Fornecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+Produto Unidade Quant Unitário MiRed SPL VLIPI % Desc Vi Desconto MiTotal Lote atá
+552076PROPOFOL IOMGIM FRASCO 1493000 84073 84023 0,00 125.446,55 16PE12 14.930,0000
+EMULSÃO lj. AMPOLA
+Resumo por EspécieDocumento Espécie Total Total Produtos: 125.446,55
+333903202 MAT. FARMACOLOGICO. 12544655,
+Total do Di
+
+ 
+
+Total Acumulado:
+
+Entrada: 22/03/2021
+
+ 
+
+Documento: 345252 Tipo: NF FONTE 0000 MED AD DOADO | Fornecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+Produto Unidade Quant Unitário MiRed IPI VLIPI % Desc Vi Desconto ViTotal Loto Qtd Gusto médio
+552978 MORFINA 10MG FRASCO 8400000 27354 27354 0,00 2.297,71 AOOBIAO2 840,0000
+AMPOLA AML AMPOLA
+Resumo por EspécieDocumento Espécio Total Total Produtos: 297,71
+333903202 MAT. FARMACOLOGICO. 229711
+Totaldo 229771
+
+ 
+
+Total Acumulado: 419.760,30
+
+Entrada: 30/03/2021
+
+ 
+
+Documento: 2913439 Tipo: NF- FONTE 0000 MED AD DOADO | Fomecedor: 1718 MS-CRISTÁLIA PROD QUÍMICO FARM
+Produto Unidade Quant Unitário ViReal IPI VLIPI % Desc VI Desconto ViTotal Lote Qtd Custo médio
+552080 MIDAZOLAM OMG FRASCO 16500000 64000 64000 [0 10.560,00 21020021 1.650,0000
+(SMGIML) FIA AMPOLA
+552083MIDAZOLAMSMG | FRASCO 8200000 3000 30000 0,00 2.460,00 21020030. 820,0000
+(SMGIML FIA AMPOLA
+552981 MIDAZOLAM 5MG FRASCO 8300000 30000 30000 0,00 2.490,00 21020048 830,0000
+CIMGIML) FIA AMPOLA
+Total Produtos: 15.510,00
+
+ 
+
+* As Entradas de Produtos Refencia os Produtos ou Serviços Recebidos de Forma Total ou Parcial de uma Nota Fiscal (Documento de Entrada)
+SESA - SECRETARIA ESTADUAL DE SAUDE - ES
+
+ 
+
+ 
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+Página:6/8
+
+Emitido por: VICTORSOARES.
+
+SESA - SECRETARIA ESTADUAL DE SAUDE
+Em: 05/05/2021 11:31
+
+Mv2000 - Sistema Controle de Estoque
+Relatório Entradas de Produtos - Estoque: AMBULATORIAIS
+
+Periodo de 01/07/2020 até 05/05/2021, Estoque: AMBULATORIAIS, Espécie: Todos, Classe: Todos, Sub. Classe: Todos, Fomecedor: Todos, Tipo Documento: Todos, Produto Mestre:
+Todos. Produtos Considerados: Padronizados e Não-Padronizados, Reembolsáveis e Não-Reembolsáveis, Movimentados e Não-Movimentados, Próprios, Consignados e
+
+Reprocessados, Bloqueados e Não-Bloqueados para Compras Suprimentos e Terceiros, Patrimoniais e Não Patrimoniais.
+
+ 
+
+ 
+
+Entrada: 30/03/2021
+Documento: 2913439 Tipo: NF- FONTE 0000 MED AD DOADO | Fomecedor: 1718 MS-CRISTÁLIA PROD QUÍMICO FARM
+Produto Uridado Quont  Untádo  ViRel SIP VIP GDesc Vi Desconto ViToll Lote atá
+Resumo po EspécieDocumento Espécie Es
+15.510,00
+
+333903202 MAT. FARMACOLOGICO.
+
+Documento: 292932 Tipo: NF- FONTE 0000 MED AD DOADO | Fomecedor: 1718 MS-CRISTÁLIA PROD QUÍMICO FARM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Produto Unidade Quant Unitário ViReal IPI VLIPI % Desc VI Desconto ViTolal Lote Qtd Gusto médio
+552017 ATRACURIO 1OMGML FRASCO 23500000 124200 124200 0,00 29.187,00 21020049 2.350,0000
+FIA AMPOLA
+552017 ATRACURIO 1OMGIML FRASCO 500000 180000 180000 0,00 900,00 2010060 50,000
+FIA AMPOLA
+Resumo por EspécielDocumento Espécie Total Total Produtos: 30.087,00
+333903202 MAT. FARMACOLOGICO. 30.087,00
+Total do Di 45.697,00
+Total Acumulado: 465.357,30
+Entrada: 01/04/2021
+Documento: 346764 Tipo: NF. FONTE 0000 MED AD DOADO | Fornecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+Produto Unidado Quant Unitário MiReal IPI VLIPI %Desc Vi Desconto MiTotal Lote Qtd Customédio
+552909 ROCURONIO 1OMGIML FRASCO 1460000 216427 216427 [0 3.159,84 UOOSTIO 146,0000
+FRASCO AMPOLA AMPOLA
+Resumo por EspécielDocumento. Espécie Total TotalProdutos: 3.159,84
+333903202 MAT. FARMACOLOGICO. 3159,84
+Documento: 2947123 Tipo: NF- FONTE 0000 MED AD DOADO | Fomecedor: 1718 MS-CRISTÁLIA PROD QUÍMICO FARM
+Produto Unidade Quant Unitário MiRed IPI VLIPI %Desc Vi Desconto ViTolal Loto Qtd Gusto médio
+552909 ROCURONIO 1OMGIML FRASCO 1500000 195000 19,500 0.00 2.925,00 21030005 150,0000
+FRASCO AMPOLA AMPOLA
+
+Total Produtos: 2.926,00
+
+* As Entradas de Produtos Refencia os Produtos ou Serviços Recebidos de Forma Total ou Parcial de uma Nota Fiscal (Documento de Entrada)
+SESA - SECRETARIA ESTADUAL DE SAUDE - ES
+
+ 
+
+ 
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+SESA - SECRETARIA ESTADUAL DE SAUDE Página: 7/8
+Mv2000 - Sistema Controle de Estoque Emitido por: VICTORSOARES.
+Relatório Entradas de Produtos - Estoque: AMBULATORIAIS Em: 05/05/2021 11:31
+
+ 
+
+Período de 01/07/2020 até 05/05/2021, Estoque: AMBULATORIAIS, Espécie: Todos, Classe: Todos, Sub. Classe: Todos, Fornecedor: Todos, Tipo Documento: Todos, Produto Mestre:
+Todos. Produtos Considerados: Padronizados e Não-Padronizados, Reembolsáveis e Não-Reembolsáveis, Movimentados e Não-Movimentados, Próprios, Consignados e
+Reprocessados, Bloqueados e Não-Bloqueados para Compras Suprimentos e Terceiros, Patrimoniais e Não Patrimoniais.
+
+Entrada: 01/04/2021
+
+ 
+
+Documento: 2947123 Tipo: NF- FONTE 0000 MED AD DOADO | Fomecedor: 1718 MS-CRISTÁLIA PROD QUÍMICO FARM
+Produto Uridado Quont  Untádo  ViRel SIP VIP GDesc Vi Desconto ViToll Lote atá
+Resumo po EspécieDocumento Espécie Es
+333903202 MAT. FARMACOLOGICO 252500
+TotaldoDia: 608484
+
+Total Acumulado: — 471.44214
+
+Entrada: 19/04/2021
+
+ 
+
+ 
+
+ 
+
+Documento: 349695 Tipo: NF- FONTE 0000 MED AD DOADO | Fornecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+Produto Unidado Quant Unitário ViReal IPI VLIPI % Desc VI Desconto ViTotal Loto Qtd Gusto médio
+552002 CISATRACURIO 2MG/ML FRASCO 203500000 227744  2ag74a 0.00 463.459,04 210216AU | 20.350,0000
+FIA AMPOLA
+Resumo por EspécielDocumento. Espécie Total Total Produtos: 469.459,04
+333903202 MAT. FARMACOLOGICO. 463.459,04
+Documento: 348644 Tipo: NF. FONTE 0000 MED AD DOADO | Fomecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+Produto Unidade Quant Unitário ViRed IPI VLIPI % Desc VI Desconto ViTotal Lote Qtd Custo médio
+552076PROPOFOL IOMGIM FRASCO 9415000 51248 51248 0.00 48.250,23 54210314 9.415,0000
+EMULSÃO ly AMPOLA
+552920 FENTANILA 0,05 MGIML FRASCO 190160000 44563 44563 9,00 84.740,56 O1E04151 19,016,0000
+SOL Inu. FIA, AMPOLA
+552086 MIDAZOLAM 1OMG | FRASCO 174500000 51242 — 54m2 0,00 89.417,99 11603011 17.450,0000
+(GMGIML) FIA AMPOLA
+Resumo por EspécielDocumento. Espécie Total Total Produtos: 222.408,78
+
+333903202 MAT. FARMACOLOGICO. 22240878
+
+TotaldoDia: — 685.867,62
+Total Acumulado: 1.157.309,96
+
+ 
+
+Entrada: 26/04/2021
+
+* As Entradas de Produtos Refencia os Produtos ou Serviços Recebidos de Forma Total ou Parcial de uma Nota Fiscal (Documento de Entrada)
+SESA - SECRETARIA ESTADUAL DE SAUDE - ES
+
+ 
+
+ 
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+SESA - SECRETARIA ESTADUAL DE SAUDE Página:8/8
+Mv2000 - Sistema Controle de Estoque Emitido por: VICTORSOARES.
+Relatório Entradas de Produtos - Estoque: AMBULATORIAIS Em: 05/05/2021 11:31
+
+ 
+
+Período de 01/07/2020 até 05/05/2021, Estoque: AMBULATORIAIS, Espécie: Todos, Classe: Todos, Sub. Classe: Todos, Fornecedor: Todos, Tipo Documento: Todos, Produto Mestre:
+Todos. Produtos Considerados: Padronizados e Não-Padronizados, Reembolsáveis e Não-Reembolsáveis, Movimentados e Não-Movimentados, Próprios, Consignados e
+Reprocessados, Bloqueados e Não-Bloqueados para Compras Suprimentos e Terceiros, Patrimoniais e Não Patrimoniais.
+
+ 
+
+Entrada: 26/04/2021
+
+ 
+
+Documento: 349284 Tipo: NF. FONTE 0000 MED AD DOADO | Fornecedor: 1370 MINISTÉRIO DA SAÚDE - DEP. DE LOG
+Produto Unidade Quant Unitário MiRed IPI VLIPI %Desc VI Desconto MiTotal Lote Qtd Custo médio
+549972 DIAZEPAM SMGINL AMP AMPOLA 302000000 08646 08646 0,00 26.110,14 751140223 200,0000
+2uL TSPCO133 30.000,00
+Resumo por EspécieDocumento Espécie Total Total Produtos: 26.110,14
+333903202 MAT. FARMACOLOGICO. 26.10,14
+TotaldoDia: 26.110,14
+
+Total Acumulado:  1.183420,10
+Entrada: 30/04/2021
+
+ 
+
+ 
+
+Documento: 2981 Tipo: NF-FONTE 0104 MED ADQ REC E Fomecedor: 3103 DIAGMASTER CIENTIFICA LTDA EPP
+Produto Unidade. Quant Unitário ViRedl IPI VLIPI % Desc Vi Desconto MiTotal Lote Qtd Custo médio
+552089 TESTE SARS-COV2 UNIDADE 300000000 281200  28,1200 000 843.600,00 QCO390036A 30.000,0000
+RAPIDAG
+552088 TESTE HUMASIS UNIDADE cmeeememer 281200 28,1200 000 6.186.400,00 COVGNPOGOS  30,000,0000
+COMD-19 AG CovGcM1008 — 67.800,00
+(ANTIGENO) SovecmrooT e
+Resumo por EspécieiDocumento Espécie Total TotalProdutos: 7.030.000,00
+333903036 MAT. HOSPITALARES 7.030.000,00
+
+Total do Dia: 7.030.000,00
+Total Acumulado: 821342010
+
+ 
+
+Resumo por EspecieTotal Espécie Total Total Geral: 8.213.420,10
+333903202 MAT. FARMAGOLOGICO 1.183.420,10. Total NFs: 2
+333903036 MAT. HOSPITALARES 7.930.000,00
+
+* As Entradas de Produtos Refencia os Produtos ou Serviços Recebidos de Forma Total ou Parcial de uma Nota Fiscal (Documento de Entrada)
+SESA - SECRETARIA ESTADUAL DE SAUDE - ES
+
+ 
+
+ 
+ 
+
+ 
+
+ANEXO II
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+Atas de Registro de Preço em vigência
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0162/2020
+
+ 
+
+ 
+
+ATADE UNIDADE
+MEDICAMENTOS |PROCESSO REGISTRO FORNECEDOR | GESTORA
+PREÇOS CONTRATO
+ARPN ) CENTRAL
+besilato de atracúrio|2020-56DON| 250020 CRISTÁLIA DE
+10g/mL ampola COMPRAS
+25mL ARPN? .
+2020-952F9| (Do CRISTÁLIA HRAS
+ARPNº
+88654834 | posando SINERGIA HINSG
+ARPNº
+Sulfato de atropina |2020-MKJTJ| 9612021 SINERGIA SERP
+0,25mg/mL ampola ARPNº
+imL 84987808 | piopo1g | — HOTTSILVA HDS
+ARPNº
+88654575 | 9195/2020 SINERGIA HDS
+o CENTRAL
+2020-S6DON | | A eronDo ONCOvIT DE
+COMPRAS
+dexmedetomidina CENTRAL
+100megimL I e
+eo PS | 2021-2135D | nssmonor ONCOVIT DE
+COMPRAS
+ARPNº
+2020-49L DG] nonsao! SINERGIA HRAS
+CENTRAL
+ARPNº :
+dextrocetamina  |2020-S6D9N] 4547/2020 GRISTÁLIA COMPRAS
+50mg/mL ampola
+40mL ARP Nº ) CENTRAL
+202121850 | psssodoi CRISTÁLIA DE
+COMPRAS
+ARPNº :
+88555518 RISTÁLIA HIN
+dextrocetamina 0040/2020 CRIS sG
+50mg/mL ampola o CENTRAL
+2mL 2020-LZWPJ] | SasonDo CRISTÁLIA DE
+COMPRAS
+diazepam 5mg/mL 2020- ARPNº
+ampola 2mL HG25M | 0014/2021 |  HOSPFARMA HRAS
+2020- ARPNº
+epinefrina tmgimL | scDD4 | 002/2021 | RIOCLARENSE HINSG
+ampola imL e A
+P eses4834 | (ARPN MÔNACO HDS
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+ 
+
+ARPNº
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+88598489 | 9sgp0op | RIOCLARENSE UNM
+etomidato 2mgimL 87760991 | ns saooo | HOSPITALARES HABF
+ampola Om | sog7898 orsoonio | HOSPITALARES HDS
+o CENTRAL
+fentanita 0,05mg/mL |2020-KMB14 1227/2020 CRISTÁLIA COMPRAS
 ampola 10mL
-ED! veria ou
+2020-9529 | nfya2no0 CRISTÁLIA HRAS
+2020-8778R | pous2000 SINERGIA HINSG
+87864584 | n3v9000 | — CRISTÁLIA SERP
+hatoperido! smgimt | 3775099 corso | HOSPITALARES HABF
+empola im | ,020:72929 os0020o1 SINERGIA SERP
+2020-D298D | 1)652020 SINERGIA HEAC
+88654575 | 019572090 SINERGIA HDS
+88555518 | (amparo | GOLDEN FARM HINSG
+were | 1942020 | — MÔNACO HABF
+88654796 | (aopooo | RIOCLARENSE HDS
+LL |2020-0D6EG] nosraooo | — MÔNACO UM
+2020-884RL | 9972090 SINERGIA HEAC
+88804836 | sa poDo | HOSPITALARES HRAS
+88110885 | oog4 pod) | GOLDEN FARM SERP
+a CENTRAL
+midazolam SmgimL 2020LZWPu 560 | UNIÃO QUÍMICA coltas
+ampola 10mL
+2020-952F9| nino | — GRISTÁLIA HRAS
+Bola Tea O 2020-56D9N| (5000 | GRISTÁLIA E
 
-tanifa 0,05mgknhidáto 2mg/mi E drou
+ 
 
-o! 7 T qt
+ 
 
-SãO pg me 2020-9289] PES ORISTAUAS? [D= BRAS | vicia au
+ 
 
-catea) BB6S4Bda | m Ei esa mo
+ 
 
-trair sms pato E bros
+COMPRAS
 
-2020-MK
-enie 9 rIdor Smg/m
+ 
 
-a Ls a
-'ampola 4mL
+ 
 
-17 | er
+ 
 
-ato
+ 
 
-z
+ 
+ 
 
-midaz
-4 nos) DOBRADA do Edo Ea
+ 
 
-2020-
-mg;
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
 
-u ai vihonterauron a
+ 
 
-19. | ROgkRNIO, aROnET
+ 
 
-diazerlam Smg/m
-mid; X
+ 
 
-mi
-antimicrobianos]
+ 
 
-L '
-ipiçços: |2880ASÓN] gsgpyngao
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o CENTRAL
+2021-2135D | oass pop CRISTÁLIA DE
+COMPRAS
+ARPNº :
+2020-F9L2H| posa poD1 CRISTÁLIA HRAS
+ARPNº :
+87518724 | oeopoDo | CRISTÁLIA HABF
+ARPNº
+2020-2929] na eadoo SOLUMED SERP
+naloxona 0,4mg/mL ARPNº
+polo tim 87760991 | nosernoo | HOSPITALARES HABF
+ARPNº
+2020-19LDG] noosiaos | HOSPITALARES HRAS
+o CENTRAL
+2020-JFB7T| ,osoa0po | RIOCLARENSE DE
+COMPRAS
+ARPN CENTRAL
+norepineírina | 2021-2135D | 03570021 SINERGIA DE
+2mg/mL ampola 4mL, COMPRAS
+2020-9529 | ARPNO | RIOCLARENSE HRAS
+0145/2020
+ARPNº
+2020-62H84| novoonoy | RIOCLARENSE HABF
+2020- ARPNº ESPÍRITO SENTEAL
+propofol 10mgimL | SCDFB | 065/2021 SANTO COMPRAS
+ampola 20mL ARPNº
+2020-4906] daaooo SINERGIA HRAS
+ARPNº
+88380688 | 9987/2020 UNIQUE HINSG
+rocurônio 10mg/mL ARPNº
+ampolasmL  |2020-0D6FG| nosso NSA UM
+ARPNº
+2020-49L DG] nongomos | — ONCO PROD HRAS
+ARPNº KO ni
+2020-0D6FG UNIÃO QUÍMICA UM
+suxametônio 100mg 0060/2020
+FA ARPNº A
+2020-49LDG| nonsiao! MÔNACO HRAS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Processos de aquisição de medicamento em andamento
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+SECRETARIA DE ESTADO DA SAÚDE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MEDICAMENTOS PROCESSO
+2021-K4KNL
+besilato de atracúrio 10g/mL ampola 2,5mL
+
+2021-0LL1F
+
+epinefrina img/mL ampola mL 2021-VTKM3
+etomidato 2mg/mL ampola 1OmL 2021-RHFNH
+2021-RROB9
+
+fentanila 0,05mg/mL ampola 10mL 2021-505T2
+2021-0LL1F
+
+haloperidol 5mg/mL ampola mL 2021-505T2
+2021-WWOR6
+
+midazolam 5mg/mL ampola 10mL 2021-5Q5T2
+2021-0LL1F
+
+morfina 10mg/mL ampola mL 2021-VTKM3
+naloxona 0,4mg/mL ampola imL 2021-505T2
+norepinefrina 2mg/mL ampola 4mL 2021-NTKM3
+2021-BO1FQ
+
+propofol 10mg/mL ampola 20mL 2021-RHENH
+2021-0LL1F
+
+2021-0LL1F
+
+rocurônio 10mg/mL ampola 5mL
+
+2021-RHFNH
+
+2021-0LL1F
+
+suxametônio 100mg FA
+
+2021-VTKM3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 

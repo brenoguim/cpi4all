@@ -1,10 +1,400 @@
-Enviar por Email
+e
+E
 
-a sa Ata por em presets ore e eat do destrói.
-Nome? = - E Teto:
-E [nt ==" |)
+Notificação de EAGs em Ensaios Clínicos com Medicamentos ou Produtos biológicos - NotivisaEC
+
+Dados da notificação
+
+1) País onde ocorreu o EA: BRASIL
+2) Notificação de evento adverso pa, 1:
+
+Ensaio clínico
+
+3) Número internacional do caso:
+
+COV-02-0025
+
+4) Número do relato:
+
+CoOv-02-0025
+
+Dados da pesquisa
+
+9) Num, expediente: 1925880201
+10) Numero do CE ou CEE: 47/2020
+
+11) Num. Protocolo clínico:
+
+COV-02-1B
+
+12) Mascaramento do estudo (Quem está cego neste estudo?);
+sue de pesquisa
+
+Coletor de dados
+
+Analista dos dados
+
+Avaliador de resultados
+
+Notificante de EAs
+
+13) Capítulo CID 10:
+
+Códigos para propósitos especiais
+
+14) Grupo CID 10:
+
+Designação provisória de novas doenças de etiologia incerta
+
+15) Categoria CID 10:
+
+Sindrome respiratória aguda grave [severe acute respiratory syndrome SARS]
+16) Sub-categorta CID 10:
+
+Síndrome respiratória aguda grave [Severe acute respiratory syndrome) [SARS], não especificada
+17) Indicação clínica:
+
+População do estudo: participantes saudáveis e/ou participantes com a doença clinicamente controlada, de ambos os
+gêneros, 18 anos de Idade ou mais, que trabalham como profissionais de saúde realizando atendimento em contato
+direto com pessoas com quadros possíveis ou confirmados de COVID-19. Definição da doença em estudo (COVID-19):
+doença causada pelo coronavirus SARS-CoV-2, que apresenta um quadro clínico que varia de Infecções assintomáticas a
+
+quadros respiratórios graves.
+
+18) Severidade/ Intensidade da doença em estudo:
+
+Não aplicável (Significa que é inapropriado utilizar uma gradação (ex. funções menstruais).)
+19) Fase de desenvolvimento do produto:
+
+NI
+
+Dados do notificante (recomendamos notificante não-cego)
+
+Recomendar mos que o otfcante seja o contato capaz de esclarecer as circunstâncias do evento acverso também
+possa informar em qual grupo o sujeito da pesquisa foi alocado.
+
+20) O patrocinador no Brasil sabe qual a alocação de cada sujeito de pesquisa?
+Não
+
+ 
+21)CPF do notificante:
+35271274888
+22) Nome:
+FERNANDA LIMA DE CAMPOS OLIVEIRA
+23) Categoria de notificante:
+Órgão do governo patrocinador
+25) Razão social da empresa:
+INSTITUTO BUTANTAN
+26) E-mail para contato (Comercial):
+fernanda.camposCbutantan.gov.br
+27) E-mail para contato:
+fernanda.camposQbutantan.gov.br
+28) Telefone (Comercial):
+(11)372346972
+29) Telefone:
+(11) 3723-6972
+a
+Dados do sujeito de pesquisa
+39) Sexo:
+Masculino
+31) Idade:
+| 328nos
+32) Data de Nascimento:
+-21/09/1988
+33) Faixa Etária:
+30 a 39 anos
+K 34) Código do sujeito de pesquisa:
+117245
+35) Inictais:
+
+36) Alocação:
+Experimental “
+
+.37) Descrição do procedimento de intervenção: Os participantes elegíveis para o estudo recebem a dose
+de 0,5 mL do produto em investigação ou placebo pela via
+s intramuscular, preferencialmente no
+músculo deftoide do braço. O esquema de imunização é de
+duas doses com um intervalo de duas semanas.
+Forma farmacêutica: suspensão injetável | Via de
+administração: intramuscular
+
+38) Tipo da notificação do evento adverso:
+
+Inicial
+39) Sequência de notificação: la.
+49) Fatores e outras comorbidades: Outra
+
+41) O voluntário tem ou teve doença ou condição Sim
+clínica concomitante?
+Comorbidades mi
+Condições) Doenças concomitantes
+
+42) sub-categoria CID10 (2):
+Asma não especificada
+
+43) Data de início (2):
+
+45) sub-categoria CID1O (3):
+
+Hipertensão secundária, não especificada
+
+46) Data de início (3):
+
+47) Data de término (3):
+
+48) sub-categoria CID1O (4):
+
+Cirurgia profilática não especificada
+
+49) Data da Início (4):
+
+S1) sub-categoria CID1O (5):
+
+Ruptura atual da cartilagem da articulação do joelho
+52) Data de início (5):
+
+Dados do Centro de Pesquisa
+
+54) Instituição Mantenedora do centro de pesquisa:
+
+Universidade de São Paulo
+56) SERVIÇO/SUB-UNIDADE:
+
+57) Telefone do investigador principal:
+
+58) Investigador principal:
+
+59) Número de sujeitos previstos no centro:
+60) Número de sujeitos admitidos no centro:
+
+Dados do Evento Aciverso —
+
+61) Evento Adverso:
+62) código MedDRA:
+
+63) WHOART para o EA:
+MORTE SÚBITA
+
+65) Data de Início do EA:
+66) Data de tármino do EA:
+67) Narrativa:
+
+2001
+
+21/09/2020 A
+30/10/2020 g
+
+2017
+
+2014
+
+»
+Centro de Pesquisas Clínicas do Instituto Central do
+Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo (ICHC-FMUSP)
+
+(11) 3061-8395
+
+Esper Georges Kallás
+
+ss :
+
+538
+
+Morte
+10011906
+
+29/10/2020 ,
+29/10/2020
+
+Evento adverso grave “Óbito” relatado pelo Centro de
+
+Pesquisa 30 Instituto Butantan no dia 30/10/2020.
+
+o centro classificou o evento adverso como
+
+sendo. “improvável” e” “não esperado” com o
+produto sob: investigação centro. con er
+evento adverso como endo grave der
+critérios ” "óbito” e "c
 
  
 
-ED tnviar era
+   
+ 
+
+clinicamente significativo".
+
+Segue relato do centro: "AO REALIZARMOS O CONTATO |
+DE SEGURANÇA CDS O PARCEIRO DO PARTICIPANTE NOS
+INFORMOU QUE O MESMO HAVIA FALECIDO NA NOITE
+ANTERIOR, POR MENSAGEM DE WATSAPP, AINDA NÃO
+
+FOI APERIaADO CONTATO VERBAL POIS O PARCEIRO .
+68) Gravidade do EA:
+
+69) Data de conhecimento do Evento adverso:
+|| 70) Causa do EA na opinião do investigador:
+
+71) Tipo de evento adverso: g
+
+Inesperado
+
+Lagal onde houve atendimento do evento adverso
+
+78) Foi atendido com recursos providos pelo
+patrocinador?
+
+79) Alguma ação foi necessária?
+92) Evolução em relação no EA:
+Monte.
+
+| 93) Foi necessária a quebra do código de
+mascaramento?
+
+| 7 Produto A
+94) Descrição Medicamento A:
+
+vacina adsorvida COVID-19 (inativada) ou placebo
+95) Dose do Medicamento A:
+96) forma farmacêutica:
+Suspensão
+
+97) via de administração:
+
+Intramuscuiar
+98) Fabricante do Medicamento A:
+
+Sinovac Lifesclençes C9 LTD.
+
+ 
+ 
+
+AINDA NÃO NOS AUTORIZOU CONTATÁ-LO. |
+ENCONTRA-SE NO IML E HOJE FOI LIBERADO O
+ATESTADO DE ÓBITO, NO QUAL CONSTA CAUSA MORTIS
+AINDA À ESCLARECER. DOSE 1º DOSE DA VACINA EM 21
+DE SETEMBRO DE 2020, 2º DOSE DA VACINA EM 05 DE
+OUTUBRO DE 2020, APRESENTOU APENAS F
+
+LOCAIS LEVES, SI1 REALIZADA EM 23 DE OUTUBRO, SEM
+NENHUMA INTERCORRENCIA RELEVANTE. CONDICOES
+PRE EXISTENTES: ASMA BRONQUICA SEM CRISE HA 2
+ANOS, HIPERTENSÃO DO JALECO BRANCO,
+COLECISTECTOMIA EM 2017, ROTURA DO LIGAMENTO
+DO JOELHO ESQUERDO EM 2014, ARTROSCOPIA NO
+JOELHO EM 2014. MEDICACOES CONCOMITANTES: WHEY
+PROTEIN, RELVAR”
+
+Tratamento do evento adverso: não informado.
+
+Medicação concomitante: Reivar (Fluticasone + Vilanterol):
+1 comprimido por dia, Via oral, sem maiores informações
+de dose, desde 2018.
+
+Whey Protein (Albumina): 219 por dia, via oral, desde
+2015.
+
+ 
+
+ 
+
+Em 21/09/2020, o paciente sentiu dor no local de
+administração e se recuperou do evento na mesma data.
+Em 05/10/2020 o paciente sentiu dor no local da
+administração e se recuperou do evento em 06/10/2020.
+
+Avaliação, médica do evento adverso “óbito” pelo
+patrocinador: com base nas informações fornecidas pelo
+centrô de pesquisa clínica, o patrocinador concorda que o
+evento adverso tem causalidade "Improvavelmente”
+relacionado ao produto sob Investigação ou placebo e é
+“inesperado”. Sem comentários ou informações adicionais.
+Óbito
+
+30/10/2020
+
+Outras Causas
+
+Não
+
+Não
+
+9,5mL
+Butiding 1, Nºz1 Tianfu Street, Zhongguancun Science and Technology Park, Daxing Biological Pharmaceutical Industry
+Base, Daxing District, Beijing, P.R-C..
+
+99) Lote(s) do produto A:
+
+não disponível
+
+100) Categoria de Produto: Vacina
+
+102) Data de Início do uso (A): 21/09/2020
+
+103) Data de término do uso (A): 05/10/2020
+
+104) Causalidade OMS (A): Improvável
+
+105) O evento voltou a ocorrer? .
+
+Não
+106) O sujeito de pesquisa fez/faz uso de outros Sim... [Aguarde recarregar a tela]
+produtos/medicamentos?
+
+Produto 8 7
+
+107) Medicamento B:
+
+whey protein - albumina
+108) Dose do Medicamento B: 21 gola É.
+
+109) forma farmacêntica (8):
+Pó
+
+110) via de administração (B):
+
+Oral
+
+115) Data ds início do uso (B): 2015
+
+Produto €
+
+119) Medicamento €:
+
+Reviar (fluticazone-+vilanterol)
+
+121) forma farmacêutica (C):
+
+Comprimido
+
+122) via de administração (C): -
+
+di “
+
+125) Data de início do uso (€): 2018
+
+Termo de responsabilidade E
+
+Assumo civil e criminalmente sobre a veracidade das informações apresentadas. Comprometo-me a manter o cadastro
+atualizado,
+
+145) Assumo civil e ériminalmenta, inteira responsabilidade pelos dados apresentados:
+Femanda Lima de Campos Oliveira -
+
+146) Data de envio da notificação:
+
+06/11/2020 É
+
+Criação : 06/11/2020 19:39:56
+
+Atualização : 06/11/2020 20:14:55
+Enviar por Email
+Caso queira enviar essa ficha por
+
+Nome:? |
+
+Email:*
+
+email preencha o nome e email do destinatário.
 

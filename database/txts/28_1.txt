@@ -1,40 +1,802 @@
-! agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da
+TRANSLATION FROM ENGLISH ORIGINAL VERSION
 
+MINISTÉRIO DA SAUDE DA RÚSSIA
+
+OCentro Nacional de Pesquisa em Epidemiologia e Microbiologia nomeado em
+homenagem ao acadêmico honorário N.F. Gamaleya do Ministério da saude da
+Rússia (NICEM Gamaleya)
+
+123098, Moscou, rua Gamaleya, 18 Tel. 8 499-193-30-01
+Fax: 8 499-193-61-83
+
+bttp://www gamaleya.org
+E-mail: info O gamaleya.org
+
+3 de maio de 2021
+
+Para Antônio Barra Torres, Diretor-Presidente
+Agência Nacional de Vigilância Sanitária (ANVISA)
+
+Seguindo a carta da União Química datada de 28 de abril de 2021, o Instituto
+Federal Estatal NF Gamaleya - Centro Nacional de Pesquisa em Epidemiologia e
+Microbiologia do Ministério da Saúde da Federação Russa (“Centro Gamaleya”)
+gostaria de responder com a presente às alegações da ANVISA sobre as vacinas
+Sputnik V que foram divulgadas ao público ao longo da semana de 26 de abril,
+especificamente durante a reunião pública da ANVISA em 26 de abril e a coletiva de
+imprensa da ANVISA em 29 de abril, que causaram danos significativos à reputação
+do Centro Gamaleya e da vacina Sputnik V.
+
+1. “Adenovírus replicante detectado em todos os lotes da vacina Sputnik
+apresentados ao componente II (Ad5): provável recombinação. Componente 1
+(Ad26) não é avaliado para adenovirus replicante” (Apresentação em reunião
+
+pública da ANVISA em 26/04/2021).
+
+“Os dados que avaliamos mostram a presença de vírus replicantes” (Gustavo
+Mendes, gerente geral de medicamentos e produtos biológicos da ANVISA
+durante coletiva de imprensa em 29 de abril de 2021).
+
+Resposta do Centro Gamaleya
+e A ANVISA não pôde realizar testes dos lotes da Sputnik V para a presença de
+RCA porque nenhum frasco foi fornecido à ANVISA. Em entrevista coletiva
+no dia 29 de abril, a ANVISA corrigiu sua posição dizendo que não havia feito
+seus próprios testes e não havia encontrado nenhum RCA, mas estava
+
+preocupada com o limite regulatório teórico russo para esse parâmetro.
+TRANSLATION FROM ENGLISH ORIGINAL VERSION
+
+De fato, o Centro Gamaleya já havia comunicado a ausência de RCAs na
+vacina Sputnik V à ANVISA em seu ofício de 26 de março de 2021, que diz
+claramente: “Além disso, gostaríamos de informar que durante o lançamento
+da vacina produto no site central e no site da empresa contratada Generium,
+nem um único lote contendo RCA foi registrado” (consulte a carta no Apêndice
+81.
+
+Os controles de qualidade duplos existentes que são realizados pelo Centro
+Gamaleya e pelo Laboratório Nacional Estatal da Federação Russa
+(Roszdravnadzor, roszdravnadzor.gov.ru, uma instituição independente como
+a ANVISA) não detectaram nenhuma presença de RCA na vacina Sputnik V
+(favor consultar a respectiva carta de Roszdravnadzor no Apêndice * 2). O
+controle para RCA é realizado não apenas para o produto acabado, mas também
+em etapas da produção diferentes, incluindo a semente viral e o concentrado de
+vacina. De agora em diante, os mesmos procedimentos de controle de
+qualidade duplo continuarão a garantir que a Sputnik V consista apenas em
+lotes onde o RCA não é detectado.
+
+Apêndice * 3 contém os protocolos de lote que confirmam a ausência de RCAs
+na vacina Sputnik V. Para evitar dúvidas, a coluna “Número de adenovírus
+competentes para replicação por dose”, seção 4 “Resultados dos testes de
+controle” de protocolos de lote faz referência a um limite teórico, enquanto os
+resultados reais dos testes de RCA são fornecidos na coluna “Número médio
+
+de placas em duas iterações”.
+
+Um artigo na revista Science
+(https://www.sciencemag.org/news/2021/04/russias-covid-19- | vacina-safe-
+brazils-veto-sputnik-v-sparks-judiciais-ameaça-e) lança luz sobre a fonte do
+mal-entendido da ANVISA:
+
+o Artigo cita o entendimento correto de Jorge Kalil de que os rígidos
+duplos controles de qualidade do Instituto Gamaleya e de
+Roszdravnadzor confirmaram que nenhum RCA foi detectado. “O
+imunologista Jorge Kalil, especialista em vacinas da Universidade
+Federal de São Paulo, São Paulo, e membro do Conselho de
+Monitoramento de Dados e Segurança do Instituto Nacional de Saúde
+dos Estados Unidos, discorda da interpretação da ANVISA. Ele acredita
+que os documentos de controle de qualidade russos estão na verdade se
+
+referindo à sensibilidade do teste”. E isso é correto e consistente com a
+TRANSLATION FROM ENGLISH ORIGINAL VERSION
+
+carta de 26 de março à ANVISA que confirma que não foi detectado
+nenhum RCA. Os controles de qualidade na Rússia que mostram “menos
+do que o limite de controle de qualidade” significam “não detectado”.
+
+o No mesmo artigo, Gustavo Mendes mostra seu entendimento incorreto
+dos relatórios de Gamaleya. “Mendes disse à Science que não é o caso e
+que, se fosse, Gamaleya teria reportado “não detectado”. Esta afirmação
+é incorreta e altamente antiprofissional, pois mostra que Mendes nem
+mesmo verificou com o Instituto Gamaleya o significado dos relatórios
+antes de tirar suas conclusões errôneas e levá-los ao público, provocando
+danos significativos com base em uma interpretação incorreta.
+
+e Asnormas em vigor para determinar as quantidades de RCA na vacina Sputnik
+V estão em total conformidade com as recomendações do FDA. De acordo com
+os regulamentos do FDA existentes, de 33 RCA (com base em uma dose
+intratumoral de 10 * 12 partículas) a 1000 RCA (com base em uma dose
+intravenosa máxima de 3x10 ” 13 partículas) podem entrar no corpo humano.
+
+2. “El não é eliminado na vacina Sputnik V”,
+
+Resposta do Centro Gamaleya
+
+e A tecnologia de produção começa com a clonagem do gene-alvo (neste caso, o
+gene S) em um plasmídeo com um fragmento do genoma AdS já sem a região
+El. Ou seja, a região El não existe inicialmente e os genes-alvo são clonados
+no local de sua deleção. A tecnologia dos vetores com o El deletado é
+conhecida há vinte anos, e em sua essência não permite “esquecer” a remoção
+do El. É impossível esquecer de deletar algo que originalmente não existe na
+tecnologia.
+A documentação fornecida à ANVISA afirma claramente que o El foi excluído
+da Sputnik V. Por exemplo, o Documento de Desenvolvimento Farmacêutico
+
+mostra O seguinte:
+
+Table 2, Results of whole genome sequencing of 1-10 passages ofTAdS-S-CoV2
+E VTV E lb E E São
+
+3
+
+Passage
+
+ 
+TRANSLATION FROM ENGLISH ORIGINAL VERSION
+
+3. Durante a coletiva de imprensa no dia 29 de abril. o Sr. Mendes mostrou um vídeo
+do encontro online ocorrido no dia 23 de março entre os funcionários da ANVISA
+e do desenvolvedor da vacina:
+
+Pergunta da ANVISA: Acho que já fiz isso, mas de qualquer forma precisamos
+entender: uma vez que você detectou a ocorrência de RCA em sua produção, por
+que você não voltou atrás no desenvolvimento, escolhendo um outro substrato
+celular que tenha plasmídeos construidos de tal forma que permitem a existência
+de poucos lados de homologia e que geralmente não permitem uma
+recombinação entre o adenovirus e as células? E quando você considerou
+continuar com esse desenvolvimento, qual foi a avaliação de risco realizada para
+realmente avaliar o risco da presença dessas particulas na vacina? Porque vai
+ser administrado em pessoas saudáveis. Então, qual a justificativa que você tem
+para prosseguir com esse desenvolvimento de uma vacina que será usada
+yeralmente em pessoas saudáveis? Isso é algo que deve ser abordado nesta
+avaliação de risco e queremos saber os detalhes sobre isso.
+Resposta de Gamaleya (traduzido do russo): 12:00 “Eles disseram que usaram
+para a produção da vacina uma linhagem celular caracterizada que pode ter suas
+falhas e você está obviamente certo em afirmar que poderíamos ter voltado, dado
+um passo para trás e começar a usar uma substância diferente, mas dizem que
+esse processo demoraria muito. Então, eles optaram por usar a mesma
+
+substância que usam desde o início... ”
+
+Resposta do Centro Gamaleya:
+
+e Ficamos lisonjeados com a decisão da ANVISA de gravar as negociações. O
+videoclipe em questão foi muito editado e não confirma de forma alguma a
+existência de RCA na vacina Sputnik V. A resposta do Centro Gamaleya no
+vídeo refere-se aos tópicos teóricos e fundamentais do desenvolvimento de
+vacinas usando células HEK293. E, especificamente, por causa dessas
+possibilidades teóricas, há controles de qualidade duplos para garantir que
+nenhum RCA seja detectado em qualquer lote de Sputnik V. Na verdade, é
+porque o Centro Gamaleya tem sido consistente que nenhum RCA é detectado
+em lotes de vacina Sputnik V que a ANVISA tem que usar um clipe que não
+mostra nada. Em vez disso, eles deveriam ter mostrado a carta datada de 26 de
+março de 2021 do Centro Gamaleya afirmando que não há RCA em nenhum
+
+lote da vacina Sputnik V produzida.
+TRANSLATION FROM ENGLISH ORIGINAL VERSION
+
+Pedimos, por gentileza, à ANVISA que confirme que nesta carta, bem como em
+correspondência anterior (incluindo a carta de 26 de março (Anexo 1), a carta com as
+respostas do Centro Gamaleya à ANVISA datada de 29 de abril), recebeu a posição
+tanto do Centro Gamaleya como a do regulador russo independente Roszdravnadzor
+de que, por meio de amplo controle de qualidade nenhum RCA foi detectado na
+vacina Sputnik V. Favor reconhecer também que a ANVISA baseou suas declarações
+sobre esse assunto em suposições incorretas, conforme descrito nesta carta e nos
+respectivos documentos de suporte. Acreditamos que tais declarações poderiam ter
+sido evitadas se a ANVISA seguisse um procedimento padrão e verificasse suas
+suposições e conclusões com o Centro Gamaleya antes de fazer quaisquer declarações
+
+públicas.
+
+ 
+
+Alexander Vasilievich Pronin
+Vice-Diretor do Instituto Federal N. F. Gamaleya, Centro Nacional de Pesquisa de
+
+Epidemiologia e Microbiologia do Ministério da Saúde da Federação da Rússia
+Anexo Nº 1
+Carta oficial do centro Gamaleya
+de 26 de Março de 2021.
+MINISTÉRIO DA SAUDE DA RÚSSIA
+
+OCentro Nacional de Pesquisa em Epidemiologia e Microbiologia nomeado em
+homenagem ao acadêmico honorário N.F. Gamaleya do Ministério da saude da
+Rússia (FGBU “NICEM Gamaleya” Minzdrava Rossii)
+
+123098, Moscou, rua Gamaleya, 18 Tel. 8 499-193-30-01
+
+26.03.2021 No Fax: 8 499-193-61-83
+Em de http://www gamaleya.org
+
+E-mail: info € gamaleya.org
+
+A QUEM INTERESSAR POSSA
+
+O Centro Nacional de Pesquisa em Epidemiologia e Microbiologia nomeado
+em homenagem ao acadêmico honorário N.F. Gamaleya informa a norma de
+admissão RCA (Replication-competente adenovirus) para a vacina Gam-Covid-Vac
+não é superior a 100 RCA por dose. Ao mesmo tempo, esse valor foi acordado pelas
+autoridades regulatórias russas e a segurança da preparação da vacina com tal valor
+de tolerância de RCA é confirmada por estudos pré-clínicos e clínicos realizados e
+também é confirmada no processo da vacinação em massa da população. Além disso,
+gostaríamos de informar que no curso de produção de vacina no local do Centro e nas
+
+instalações em regime de contrato da JSC «Generium», nenhum lote contendo RCA
+
+foi registrado.
+
+Diretor do Centro Nacional de Pesquisa em Epidemiologia e Microbiologia nomeado
+
+em homenagem ao acadêmico honorário N.F. Gamaleya do Ministério da saude da
 Rússia
+
+fassinatura/
+
+A. L. Gintsburg
+
+Selo : Ministério da saude da Rússia / Centro Nacional de Pesquisa em Epidemiologia
+
+e Microbiologia nomeado em homenagem ao acadêmico honorário N.F, Gamaleya
+
+do Ministério da saude da Rússia (FGBU “NICEM Gamaleya” Minzdrava Rossii) *
+OGRN 1027739443555 / ilegível
+Ministério da saude da Federação Russa SRL “VACINA HUMANA”
+
+SERVIÇO FEDERAL DE
+SUPERVISÃO NA SAÚDE Fresnenskaya nad. 6
+ed. 1, 7º andar, local
+(ROSZDRAVNADZOR) Moscou, 123112
+
+Slavianskaya pL., 4, ed.1, Moscou, 109074
+Tel.: (4956984538; 698 15 74
+03.05.2021 Ne 02-24306/21
+Ao Ne BH-14/05.21 de 03.05.2021
+
+Sobre a consideração do recurso
+
+O Serviço federal de supervisão na saúde, dentro de sua competência, considerou o recurso
+da SRL “Vacina Humana” no qual se trata do controle de qualidade do medicamento Gam-
+COVID-Vac Vacina vetorial combinada para a prevenção da infecção por coronavírus
+causada pelo vírus SARS-CoV-2" (doravante - "Gam-COVID-Vak") e relata o seguinte :
+
+De acordo com as regras de emissão de autorização de introdução na circulação civil de uma
+série ou lote de medicamento imunobiológico, emissão de parecer sobre a conformidade de
+série ou lote de medicamento imunobiológico com os requisitos estabelecidos ao seu registo
+estatal, aprovadas pelo Governo da Federação Russa em 26 de novembro de 2019 Ne1510
+"Sobre o procedimento para a introdução de medicamentos para uso médico na circulação
+civil", a Instituição Orçamentária do Estado Federal “Centro de Informação e Metodologia
+para Exame, Contabilidade e Análise dy Circulação de Medicamentos” de Roszdravnadzor
+realiza testes de qualidade de medicamentos imunobiológicos.
+
+De acordo com os resultados do teste sobre o indicador "Segurança específica" pelo método
+"Reação de formação de placa na cultura de células AS49" de cento e quarenta e cinco séries
+do segundo componente do medicamento "Gam-COVID-Vac" introduzido na circulação civil
+no território da Federação Russa, nenhum adenovírus competente de replicação (replication-
+
+competent adenovirus) foi detectado.
+
+Além disso, gostariamos de informar que em 30 de abril de 2021, o Ministério da Saúde da
+Rússia aprovou uma alteração aos documentos contidos no dossiê de registro para o
+medicamento registrado Gam-COVID-Vac, de acordo com a qual o indicador de segurança
+específica não excede 50 adenovírus competente de replicação por dose.
+
+Gerente interino D.V. Parkhomenko
+Anexo Nº 3
+
+Três protocolos de lote selecionados, confirmando a
+ausência de quaisquer RCAs em todos os lotes.
+Agência Medgamal, FSBI NE Gamaleya NRCEM do Ministério da Saúde da Rússia | — SOP.15.650.01-F.01 ]
+
+Divisão: Departamento de controle biológico e de processo Páginal de |
+
+Tipo de documento: Folha de teste de controlen” 1 08.01 -18.01.2021
+Gam-COVID-Vac. COMPONENTE II de segurança específico do parâmetro de teste de controle
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.  Datadotestedecontrole 08 dejaneiro  de2021
+2. Informações sobre o material de teste
+2.1. Fundo: o O
+Niúme .
+ro do Nº de lote Fabricado por Uso pretendido Quantidade
+item a ser testada
+1 11-011220 CISC LEKKO Controle de liberação 3 amostras
+2 T1-010121 | CISCLEKKO Controle de liberação 3 amostras
+3 11-020120 CISC LEKKO * Controle de liberação | 3 amostras
+4 |II- 030121 —  CISCLEKKO | | Controle de liberação 3 amostras
+[5 1040120 — CISCLEKKO | Controle deliberação | 3amostras
+6. ZB00121 | GENERIUM JSC | * Controle de liberação | 3 amostras
+7 ZB00221 GENERIUM JSC | Controle de liberação | 3 amostras
+8 487031220 BIOCAD | Controle de liberação 3 amostras
+La o 1
+1 | o | E
+2.2. Condições de armazenamento o . o
+De acordo com a documentação regulatória Condições reais de | Conformidade
+armazenamento 1
+Máx -18º C -20ºC | Sim / Não
+
+ 
+
+[2a8ºC o |  GimnNão
+
+3 Protocolo de teste de controle
+3.1 Equipamento de teste de controle
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Equipamento Número de série. Status doado O uso
+Incubadora de CO 2 200260003 im) Não
+| Caixa laminar classe II / tipo AZ 221.120.00.3652 Sim) Não
+| Dosimetro de volume variável de 20-200 mL. 39282545 | im) Não
+| Dosimetro de volume variável de 100-1000 mL. “39382220 im) Não
+32 Reagentes e materiais auxiliares usados em testes de controle
+. número de referência Número do
+Material reagente / auxiliar número de OL lote Usar antes
+| 'número de registro
+Placas de cultura de 60 mm com monocamada de células * Passagem nº *
+AS549 (10 pos) | o 15 |
+Meio de cultura DMEM 1x (sem soro) | No. 128 IL - | 140121
+Cubra meio cultural DMEM 2x (OVER) (para AS49) No. 129 | - | 14.01.21
+Cubra a solução de ágar a 2% a No. 130 - 14.01.21
+Corante vermelho neutro 100x No. 97 - | 06.04.21
+pPmonira de controle positivo Ad5-RCA, título 3,0 - 10 *PFU . 040320 03.2021
+pipetas sorológicas, 5 mL, estéreis, graduadas, embaladas . 27520061 | 01.10.2023
+| individualmente o o |
+
+ 
+
+ 
+
+ 
+
+tuvar de carimbo CAD
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ Agência Medgamal, FSBINF Gamaleya NRCEM do Ministério da Saúde da Rússia | SOP.15.650.01-F.01 |
+| Divisão: Departamento de controle biológico e de processo | Página? de 11
+| Tipo de documento: Folha de teste de controle nº 1 01.2021 j
+| Gam-COVID-Vac. COMPONENTE II de segurança específico do parâmetro de teste de controle
+a Sorológicas, 10 mL, estéreis, graduadas, embaladas | . 0329004 | 28.10.2023
+“Tubos Falcon, 50 mL | - 41922390 | 28.09.2025
+| Tubos Eppendorf, 1,5 mL o | o JI9I482M | 28.07.2028
+33 Preparação da caixa para o trabalho o
+= : | A limpeza está concluída | Não
+| Controle de preparação de caixa | O tratamento UV está concluído Sim ) Não
+34 Preparação de reagentes o o
+Núme |
+ro do Requisitos SOP
+| item o o Requisito atendido
+| í Aqueça o meio cultural DMEM 1x (sem soro), cubra o meio DMEM 2x (OVER) a E) Não
+(37,0 1,0)ºC . . 1
+2 | Derreta a solução de ágar a 2% da cobertura | o Giminão
+3 | Prepare tubos de 1,5 mL o o im)Não |]
+35 Procedimento E .
+| Núme Requisitos SOP Requisito atendido
+ro do
+item 1
+E A monocamada celular nos placas de cultura deve ser de 70 a 90% (homogênea, sem Sim) Não
+o 'buracos' e agregados celulares) o o o
+|a51 Preparação de uma série de diluições de 10x de amostras de controle
+1 Para cada lote analisado, deixe os frascos com o material de teste em temperatura Gim) Não
+| ambiente. Combine o conteúdo. Ss
+2 Prepare oito tubos de 1,5 mL para cada amostra de teste, rotule cada dois tubos da Não
+maneira seguinte: (10 !) diluição; (10 ? ) diluição; (10 * ) diluição; (10 4) diluição
+3 Prepare quatro diluições de 10x de cada amostra de teste em duas iterações de Sim) Não
+diluição de 10! a 10 4 (150 pl de amostra +1350 pl de meio sem soro)
+3.5.2 Preparando uma amostra de controle positivo o
+1 Prepare tantos tubos de 1,5 mL quanto corresponder à ordem de titulação do PCS. Gm) Não
+Rotule de acordo. o | |
+2 | Prepare diluições de 10x de PCS de 10! a 10 * (primeira diluição: 20 pl de PCS + Sm Não
+| 180 ul de meio sem soro; então - 150 ul de amostra + 1350 ul de meio sem soro)
+EXE) Transferência de diluições (de PCS e amostras de teste) para placas de cultura
+a TRotule os placas de cultura com uma monocamada de células da maneira seguinte:
+€- - controle de monocamada
+PCS - 107
+PCs -10*
+PCS -10* im) Não
+Para cada amostra de teste:
+Experiência 1? (duas placas)
+Experiência 10 ? (duas placas)
+Experiência 10 4 (duas placas)
+2 Adicionar 1 mi de meio de crescimento sem soro à placa de controle em Gimy Não
+L monocamada (controle negativo) o
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+[Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da Rússia | — SOP.15.650.01-F 01 |
+
+Divisão: Departamento de controle biológico e de processo l Página3 de 11
+[ Tipo de documento: Folha de teste de controlenº 1 [08.01 -18.01.2021
+| Gam-COVID-Vac. COMPONENTE II de segurança específico do parâmetro de teste de controle
+
+ 
+
+ 
+
+Núme | Requisitos soP | Requisito atendido
+ro do
+
+| item o
+
+|3 Adicione a amostra de teste começando pela maior diluição. Agite o conteúdo do
+
+tubo (diluição 104) da primeira iteração e adicione 1 mL ao prato cultural. Da mesma Sim) Não
+forma, adicione a segunda diluição de iteração.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[4 Da mesma forma, adicione as diluições 10 3e 102. o im) Não
+[5 Da mesma forma, adicione cada amostra de teste de acordo com os itens 3-4 Não
+6 Agite o conteúdo do tubo (diluição 10”), adicione 1 ao prato d . Da a
+Lo sema forma, adicione e des or Se 107. ml ao e eultura. D Não
+
+| 7 Incubar as placas em uma incubadora de CO; a (37 1) º € em uma atmosfera com E
+
+(5,0 + 0,5)% de CO» por 4-6 horas. Sim) Não
+| | |Começaem 42º; Termina 17”? O no o
+|8 Prepare um meio de cobertura.
+
+Para 10 placas: adicione 25 mL de meio de cultura de cobertura DMEM 2x (OVER) Kim )Não
+
+e 25 mL de solução de ágar 2% em um tubo estéril de 50 mL. Misture
+cuidadosamente o conteúdo com uma pipeta evitando a formação de bolhas.
+
+9 Remova o meio de diluição das placas. Transfira o meio de cobertura para as placas
+da maneira seguinte:
+
+placas com controle negativo— placas com diluições de amostras de teste, Gim) Não
+começando com a diluição mais baixa— placas com controle positivo.
+
+Despeje lentamente, ao longo da parede, 5 mL de meio de cobertura em cada prato. |
+
+10 Incubar as placas em uma incubadora de CO; a (37,0 + 1,0)º € com (5,0 + 0,5)% de im) Não
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— |COrporddias. o |
+Executivo O o [assinatura] | Goldovskaya P.P. |
+Data: 08.01.2021 |
+11 Adicione 5 mL de meio a cada uma das placas de acordo com os itens 7-8. Incubar as |
+
+placas em uma incubadora de CO» a (37,0 + 1,0) º C com (5,0 + 0,5)% de CO 2 por im) Não
+Lo |3 dias. O = . |
+Executivo | [assinatura) | Goldovskaya P.P. |
+Data: 11.01.2021 o E
+12 | Adicione 5 mL de meio a cada uma das placas de acordo com os itens 7-8. Incubar as
+
+placas em uma incubadora de CO; a (37,0 + 1,0) º € com (5,0 + 0,5)% de CO 2 por Sim) Não
+
+|2-3 dias. o
+Executivo | E assinatura] |Goldovskaya PP.
+
+ 
+
+Data: 14.01.2021 o o o
+3.5.4 Coloração de monocamada de células com corante vermelho neutro
+
+1 Prepare meio nutricional de cobertura tingida. .
+Misture em um tubo de 50 mL 15 mL de meio de cobertura DMEM 2x, 13,2 mL de Não
+
+| solução de ágar 2% e 1,8 mL de solução de corante vermelho neutro.
+2 | Adicione 3 mL de meio de cobertura tingido a cada prato * Sim) Não
+
+3 Incubar as placas em uma incubadora de CO; a (37 + 1)º € com (5,0 + 0,5)% de CO im) Não
+2 por 24 horas. Os resultados devem ser registrados nos dias 9-10. q
+Executivo | lassinatura) 4 Goldovskaya P.P.
+
+| Data: 17.01.2021 .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+[Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da Rússia | SOP.15.650.01-F.01 |
+visão: Departamento de controle biológico e de processo “Páginas de 11|
+| Tipo de documento: Folha de teste de controle n” 1 [08.01 18.01.2021 |
+| Gam-COVID-Vac. COMPONENTE II de segurança específico do parâmetro de teste de controle |
+
+ 
+
+ 
+
+ 
+
+ 
+
+Núme Requisitos SOP
+ro do
+
+| item o
+[355 Registrando os resultados o o o |
+1 Os resultados do controle devem ser registrados, desde que não haja degeneração da monocamada celular |
+| | a placa de Petri com o controle negativo.
+
+2 Ao tíngir em vermelho neutro, a monocamada de células vivas torna-se avermelhada enquanto as placas
+aparecem como manchas redondas não coradas. As placas devem ser contadas visualmente nas diluições
+das amostras onde não se fundem. Insira os resultados na Tabela 1.1. |
+
+3 Os resultados dos testes de controle devem ser registrados se apenas placas individuais forem observáveis |
+em placas de PCS com dilução de 10”, com seu número aumentando proporcionalmente nas diluições
+
+| subsequentes ( 10% and 107). E
+3.5,6 Procedimento de cálculo (Excel pode ser usado para cálculos)
+
+ 
+
+ 
+
+Requisito atendido |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Calcule a média aritmética dos resultados para
+
+cada diluição Ni; Ni+ 4 - número de RCA para cada diluição 2 -
+
+número de iterações
+
+ 
+
+|
+1 Determine o número médio de placas (em 2 von. º |
+placas) para cada diluição. o [pe Shit ” 2 . |
+2 Determine o número de partículas adenovirais | onde Ni = [(niavx 10*)/V]x0,5, onde |
+recombinantes (RCA) para cada diluição em —|n;av - o número médio de áreas de placa em 2 placas; |
+que as placas foram detectadas a - diluição do medicamento, mL; |
+V - volume de solução adicionado por placa, mL; |
+
+0,5 - volume de uma dose de vacina, ml. o
+
+3 Na= (N; + Niss) /2, onde
+
+ 
+
+ 
+ 
+
+[vigência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da Rússia
+
+SOP.15.650.01-F.01
+
+ 
 
 Divisão: Departamento de controle biológico e de processo
 
- 
-
-   
-
-Página de 9|
-L 180128012021 |
-apecífico do parâmetro de teste de controte IL.
+Página5 de 11
 
  
 
- 
- 
+| Tipo de documento: Folha de teste de controle nº 1
+
+Gam-COVID-Vac. COMPONENTE II de segurança específico do parâmetro de teste de controle
 
  
 
  
 
- 
-
-    
- 
-  
-
- 
-
-   
-    
+08.01 -18.01.2021
 
  
 
  
+
+ 
+
+ 
+
+4, Resultados do teste de controle
+
+Data de registro de resultados: 18.01.2021
+
+Tabela 1.1 Registro de resultados.
 
  
 
@@ -60,7 +822,17 @@ apecífico do parâmetro de teste de controte IL.
 
  
 
-   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -74,38 +846,13 @@ apecífico do parâmetro de teste de controte IL.
 
  
 
-Preparando a amostra Número de placas Número médio de | Númera de adenovirus
-de teste elacade oe pjaca de cultura | + PIRcAS em duas competentes para
-cultura a iterações replicação por dose
-Controle negativo - - - |
-Amostra de controle positivo E |
-Diluição 10?
-Diluição 10 à =
-Diluição 10?
-1. Lote 11-050121 Pharmstandard-UfaVITA OJSC
-|Diluição 10 ? I 0
-Dilvição 10 2 o Menos de 50 / dose
-Diluição 10 4 ] 0 8 Lo |
-2. Lote II-06012] Pharmstandard-Ufa VITA OJSC
-Diluição 102 o o
-Diluição 10º o º o Menos de 50 / dose
-Diluição 10 * L o L 0
-3. Lote 11-070121 Pharmstandard-UfaVITA OJSC
-Diluição 10? 9 0
-Diluição 10 > º 0 º Menos de 50 / dose
-| Diluição 104 o 9
-4, Lote 1]-30120 BINNOPHARM o |
-Diluição 102 o [0 |
-Diluição 10? L o 4 9 Menos de 50 / dose
-Diluição 104 l Í o 1
-5. Lote ZR00521 JSCGENERIUM |
-Diluição 10? | 9 l o |
-|Diluição 10? 0º | o º Menos de 50 / dose
-[Diluição 104 Ls Í o E
-6. Lote 11-040120 CJSC LEKKO .
-|Diluição 10 2 [ o o
-0 | 9. | 9 Menos de 50 / duse
-o 8 - 1
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -115,6 +862,1333 @@ o 8 - 1
 
  
 
-tugar de carimbo CAD
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Preparando a amostra | Número de placas Número médio de | Número de adenovírus |
+de teste 1º placa de 2 placa de cultura placas em duas competentes para
+cultura iterações replicação por dose
+Controle negativo o - - - |
+Amostra de controle positivo
+Diluição 10 7 > 200 - o
+Diluição 10 4 16 | -
+Diluição 10 * 2 E - ||
+1. Lote 11-011220 CJSC LEKKO
+Diluição 10 ? 0 0
+Diluição 10 2 ' 0 0 0 Menos de 50 / dose
+Diluição 10 + 0 | o
+| 2 Lote 11-010120 CJSC LEKKO o
+| Diluição 10 2 L 0 [Lo 0
+| Diluição 10 à o | o o Menos de 50 / dose
+Diluição 10 4 0 | 0
+3 Lote 11020120 CJSC LEKKO o
+Diluição 10 | 0 0
+Diluição 10 * o e o o Menos de 50 / dose
+Diluição 10 + [o 0
+| 4. Lote 11-030120 CJSC LEKKO
+Diluição 10 2 o 0
+Diluição 10 * 0. o o Menos de 50 / dose
+Diluição 10 + o 0
+5. Lote I1-040120 CJSC LEKKO o
+Diluição 10 2 0 . 0
+Diluição 10? o 0 0 Menos de 50 / dose
+Diluição 10 + 0 0 =
+6. Lote ZB00121 JSC GENERIUM o
+Diluição 10 2 0 0º
+| Diluição 10% 0 r 0 o 0 Menos de 50 / dose
+Diluição 104 0 Lo 0
+[7 Lote ZB00221 JSC GENERIUM . o
+Diluição 10 2 0 L 0
+Diluição 10 * o 0 + 0 + 0 Menos de 50 / dose
+Diluição 10 4 o 0
+8. Lote 487031220 BIOCAD
+Diluição 10 2 0 0
+Diluição 10 0 0 0 Menos de 50 / dose
+| Diluição 10 4 o o do
+Estimativa
+
+lugar de carimbo CAD
+ 
+
+[Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da
+
+ 
+
+ 
+
+Rússia o “| SOP.15.650.01-F.01
+| Divisão: Departamento de controle biológico c de processo o | Páginal de 12
+Tipo de documento: Folha de teste de controlenº? 2 | 11.01-21.01.2021 |
+
+ 
+
+Gam-COVID-Vac. Componente de segurança específico do parâmetro de teste de controle II.
+
+ 
+
+1, Data do teste de controle 11 de janeiro de 2021
+2. Informações sobre o material de teste
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1. Fundo:
+Núme :
+ro do Nº de lote Fabricado por Uso pretendido Quantidade a ser
+item testada
+1 |moz L BINNOPHARM Controle deliberação | 3amostras |
+2 |m2012 1] BINNOPHARM | | Controle de liberação 3 amostras
+3  |mo1121 | | Pharmstandard-UfaVITA OJSC | Controle de liberação 3 amostras
+4 [T-020121 — Pharmstandard-UfaVITA OJSC Controle de liberação | 3 amostras
+[5 [030121 Pharmstandard-UfaVITA OJSC Controle de liberação | 3 amostras
+6 | J-040121 Pharmstandard-UfaVITA OJSC Controle de liberação 3 amostras
+7 | ZB00321 E GENERIUM J SC Controle de liberação 3 amostras
+8 | ZB00421 GENERIUM JSC Controle de liberação 3 amostras
+9 [pos 11-050120 CISC LEKKO o Controle de liberação 3 amostras
+10 — |11-060121 o CISC LEKKO Controle de liberação 3amostras |
+2.2. Condições de armazenamento
+— De acordo com a documentação regulatória Condições reais de | Conformidade
+armazenamento |
+Máx -18º C MC | Sim / Não |
+228ºC do - | C Sm/Não
+
+ 
+
+ 
+
+3, Protocolo de teste de controle
+3.1 Equipamento de teste de controle
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Equipamento Número de série. | Status do eguipamento O uso é
+o CU aprovado
+[Incubadora de CO 2 200260003 | C Sm / Não
+Unidade de fluxo laminar classe 1 / tipo AZ |221.12000.3652 | C Sim / Não |
+| Dosímetro de volume variável de 20-200 mL. | 39282545 | C Sm / Não =
+| Dosímetro de volume variável de 100-. 1000 mL. 39382220 | C Sim / Não
+3.2 Reagentes e materiais auxiliares usados em testes de controle o
+Reagente / material auxiliar número de Número do Validade
+referência /número lote
+de OL /número de
+registro
+Placas de cultura de 60 mm com monocamada de células * Passagem nº *
+A549 (10 pes) | = 16 |
+Meio de cultura DMEM 1x (sem soro) ' N 128 | - 14.01.21 |
+| Cubra meio cultural DMEM 2x (OVER) (para. 549) N 129 | - 14.01.21 |
+[Cubra a solução de ágar a 2% o E NI3O Jd - L 14.01.21 |
+[ Corante vermelho neutro 100x N97 | - 06.04.21
+Amostra de controle positivo Ad5-RCA, título 3,0 10? - | 040320 01.10.2023
+PFU/mL Lo
+pipetas sorológicas, 5 mL, estéreis, graduadas, embaladas - 27520061 08.10.2023
+| individualmente o
+
+ 
+
+lugar de carimbo CAD
+[Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da
+
+ 
+
+ 
+
+ 
+
+Rússia SOP.15.650.01-F.0L o
+Divisão: Departamento de controle biológico e de processo Doo Página2 de 12
+Tipo de documento: Folha de teste de controlen? 2 Jd 11.01-21.01.2021
+
+ 
+
+Gam-COVID-Vac, Componente de segurança específico do parâmetro de teste de controle II.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pipetas sorológicas, 10 mL, estéreis, graduadas, - [ 0032004 | 140121
+embaladas individualmente o | º
+| Tubos Falcon, 50 mL | - | J1922390 || 280925
+| Tubos Eppendorf, 1,5 mL. o o - | JISIA82M | 280728
+3.3 Preparação da caixa para o trabalho
+é , A limpeza está concluída C Sm / Não
+Controle d de
+ontrole de preparação de caixa O tratamento UV está concluído Sim / Não
+3.4 Preparação de reagentes o o
+| Núme Requisitos SOP O requisito é atendido
+ro do
+pitem | |
+1 Aqueça o meio cultural DMEM 1x (sem soro), cubra o meio DMEM 2x | =
+| (OVER) a (37,0 1,0)º C o [ Ca /'Não
+2 Derreta a solução de ágar a 2% da cobertura o | ( Sm/Não
+3 Prepare tubos de 1,5 mL o o Sim / Não
+3.5 Procedimento o o o
+Núm Requisitos SOP O requisito é atendido
+ero
+do
+item
+
+ 
+
+1 A monocamada celular nos placas de cultura deve ser de 70 a 90% (homogênea, CB [Não
+—  |sem buracos' e agregados celulares) J
+3.5.1 Preparação de uma série de diluições de 10x de amostras de controle
+1 Para cada lote analisado, deixe os frascos com o material de teste em a
+
+- mi E Ni
+temperatura ambiente. Combine o conteúdo. Cm ão
+2 Prepare oito tubos de 1,5 mL para cada amostra de teste, rotule cada dois tubos
+
+ 
+
+da maneira seguinte: (10! ) diluição; (10 ? ) diluição; (10 ? ) diluição; (10 43 CSim / Não
+| diluição o o o o o
+3 Prepare quatro diluições de 10x de cada amostra de teste em duas iterações de CBn / Não
+
+| diluição de 107 to 104(150 pu de amostra + 1350 pl de meio sem soro)
+
+3.5.2 Preparando uma amostra de controle positivo |
+1 Prepare tantos tubos de 1,5 mL quanto corresponder à ordem de titulação do
+
+PCS. Rotule de acordo. o Cm ! Não
+2 Prepare diluições de 10x de PCS de 10! a 10 * (primeira diluição: 20 gl de PCS
++ 180 ul de meio sem soro; então - 150 uu de amostra + 1350 pl de meio sem CB / Não
+soro) o
+
+| 3.5.3 Transferência de diluições (de PCS e amostras de teste) para placas de cultura no
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da |
+| Rússia o | SOP.15.650.01-F.01
+| Divisão: Departamento de controle biológico e de processo | o Página3 de 12
+Tipo de documento: Folha de teste de controle nº 2 1 11.01-21.01.2021
+Gam-COVID-Vac. Componente de segurança específico do parâmetro de teste de controle II.
+Núm | Requisitos SOP O requisito é atendido |
+ero |
+do
+item |
+1 Rotule os placas de cultura com uma monocamada de células da maneira |
+seguinte:
+€-- controle de monocamada
+PCS -107 |
++
+Dos : o 3 C5da / Não |
+Para cada amostra de teste:
+Experiência !º2 (duas placas)
+Experiência 10 ? (duas placas)
+Lo | Experiência 104 (duas placas) o |
+2 Adicionar 1 mi de meio de crescimento sem soro à placa de controle em CE / Não |
+monocamada (controle negativo) o |
+3 Adicione a amostra de teste começando pela maior diluição. Agite o conteúdo |
+do tubo (diluição 107) da primeira iteração e adicione 1 mL ao prato cultural Da | (S)n/ Não
+mesma forma, adicione a segunda diluição de iteração.
+4 Da mesma forma, adicione as diluições 10 3e 102, L « Sim / Não |
+5 | Da mesma forma, adicione cada amostra de teste de acordo com os itens 3-4 CS / Não |
+6 Agite o conteúdo do tubo (diluição 10º), adicione 1 mL ao prato de cultura. Da Cm / Não |
+mesma forma, adicione as diluições 10% Se 107. |
+7 Incubar as placas em uma incbedoade co 2 à (37 + 1) º C com (5, O + 0,5)% de CO 2 |
+por 4-6 horas. Cm / Não
+| Começa às 11 * . Termina-se às 16 É o o |
+8 Prepare um meio de cobertura.
+Para 10 placas: adicione 25 mL de meio de cultura de cobertura DMEM 2x Cm / Não
+(OVER) e 25 mL de solução de ágar 2% em um tubo estéril de 50 ml. Misture |
+cuidadosamente o conteúdo com uma pipeta evitando a formação de bolhas. L o |
+9 Remova o meio de diluição das placas. Transfira o meio de cobertura para as |
+placas da maneira seguinte:
+placas com controle negativo placas com diluições de amostras de teste, Cm / Não
+começando com a diluição mais baixa— placas com controle positivo.
+Despeje lentamente, ao longo da parede, 5 mL de meio de cobertura em cada
+prato. | o JJ
+[10 Incubar as placas em uma incubadora de CO; a (37,04 1,0)º C com (5,0 + CBa / Não
+0,5)% de CO 2 por 3 dias. o | o
+| [assinatura] | Goidovskaya P.P.
+u “Adicione 5 mL de meio a cada uma das placas de acordo com os itens 7- 8.
+Incubar as placas em uma incubadora de CO; a (37,0 1,0) º € com (5,0 + C Sm / Não
+0,5)% de CO » por 3 dias. o o
+Executivo | [assinatura] | — Goldovskaya PP.
+| Data 14.01. 2021 |
+12 Adicione 5 mL de meio a cada uma das placas de acordo com os itens 7- 8.
+Incubar as placas em uma incubadora de CO; a (37,0 + 1,0) º € com (5,0 + CSm ! Não
+0,5)% de CO 2 por 2-3 dias. o l
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da
+
+| Rússia o o SOP.15.650,01-F.01
+
+| Divisão: Departamento de controle biológico e de processo | Páginas de 12.
+| Tipo de documento: Folha de teste de controlenº 2 11.01-21.01.2021
+
+| Gam-COVID-Vac. Componente de segurança específico do parâmetro de teste de controle II.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Núm Requisitos SOP [o requisito é atendido ]
+ero
+do |
+item o o o Do
+Executivo o | “[assinatura) | Goldovskaya P.P.
+| Data 17.01.2021
+3 5.4 Coloração de monocamada de células com corante vermelho neutro
+1 Prepare meio nutricional de cobertura tingida. |
+Misture em um tubo de 50 mL 15 mL de meio de cobertura DMEM 2x, 13,2mL | SJn/ Não
+* | de solução de ágar 2% c 1,8 mL de solução de corante vermelho neutro. |
+|z | Adicione 3 mL de meio de cobertura tingido a cada prato | Sim / Não
+3 Incubar as placas em uma incubadora de CO2 a (37 + 1) º C com (5,0 + 0,5)% Cm / Não
+— |de CO por 24 horas. Os resultados devem ser registrados nos dias 9-10. |
+| Executivo | [assinatura] | o Goldovskaya P.P. o
+
+ 
+
+| Data 20.01.2021
+3.5.5 Registrando os resultados
+
+ 
+
+ 
+
+IB: | Os resultados do controle devem ser registrados, desde que não haja degeneração da monocamada celular
+* | ma placa de Petri com o controle negativo.
+2 [Ao tingir em vermelho neutro, a monocamada de células vivas toma-se avermelhada enquanto as placas
+
+aparecem como manchas redondas não coradas. As placas devem ser contadas visualmente nas diluições
+das amostras onde não se fundem. Insira os resultados na Tabela 1.1.
+
+Os resultados dos testes de controle devem ser registrados se apenas placas individuais forem observáveis
+em placas de PCS com dilução de 10º, com seu número aumentando proporcionalmente nas diluições
+
+| subsequentes (10%e 107),
+35, 61 Procedimento de cálculo (Excel pode ser usado para cálculos)
+1
+
+ 
+
+3
+
+ 
+
+Determine o número médio de placas (em 2 |niav=nii+Ni2
+placas) para cada diluição. 1
+Determine o número de partículas onde Ni = [(n;avx 10º)/ V]x 0,5, onde
+adenovirais recombinantes (RCA) para cada |n ; av - número médio em 2 placas; a - diluição do
+diluição em que as placas foram detectadas | medicamento, mL;
+Y - volume de solução adicionado por placa, mL;
+
+LL | 0,5 - volume de uma dose de vacina, mL.
+
+3 Calcule a média aritmética dos resultados | No = (Ni + Nisi) /2, onde
+para cada diluição Ni; N;+1 - número de RCA para cada diluição 2 - Número
+| de iterações
+
+ 
+
+M|
+
+ 
+
+ 
+
+ 
+ 
+
+[Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rússia | SOP.15.650.01-F.01
+Divisão: Departamento de controle biológico e de processo 1 Páginas de 12
+Tipo de documento: Folha de teste de controlen” 2 11.01-21.01.2021
+Gam-COVID-Vac. Componente de segurança específico do parâmetro de teste de controle 1I.
+4. Resultados do teste de controle
+Data de registro de resultados 21.01.2021
+Tabela 1.1 Registro de resultados
+Preparando a amostra | = tssero de placas | Número médio de . Número de adenovirus ;
+“ as m duas ompetentes para replic:
+de teste cultura € |2e placa decultura * iterações ? por dose pisação
+| Controle negativo E - - -
+Amostra de controle positivo
+Diluição 10 ? > 200 -
+Diluição 10 * 12 o - - -
+Diluição 10 * 1 | - o
+1. Lote: 1-10121 | |BINNOPHARM
+Diluição 10 2 | 0 0
+Diluição 10 à o º 0 Menos de 50 / dose
+Diluição 10 0 0
+2. Lote: 11-20121 BINNOPHARM o
+Diluição 102 0 [o
+Diluição 10 2 0 | 0 0 Menos de 50 / dose
+Diluição 10 + 0 0
+3, Lote I1-010120 Pharmstandard-UfaVITA OJSC. |
+Diluição 10 ? 0 o 1
+Diluição 10? o 0 o Menos de 50 / dose
+Diluição 10 + 0 o
+4. Lote I1-020120 Pharmstandard-UfaVITA OJSC
+|Diluição 10 ? 0 [ 0 ]
+Diluição 10 * [o 0 0 Menos de 50 / dose
+| Diluição 10 + | 0 0 o .
+| 5. Lote 11-030120 Pharmstandard-UfaVITA OJSC
+Diluição 10 2 0 0
+Diluição 10? | 0 0 0 Menos de 50 / dose
+Diluição 10 4 | 0 I 0
+6. Lote I1-040120 Pharmstandard-UfaVITA OJSC
+Diluição 10 2 0 0
+Diluição 10? | [E 0 | 0 Menos de 50 / dose
+[Diluição 10 4 0 0 |
+[7.LoteZB00321 | GENERIUM JSC
+Diluição 10 2 o | 0
+Diluição 10? 0 | 0 o Menos de 50 / dose
+Diluição 10 + 0 | 0
+8. Lote ZB00421 GENERIUM JSC
+Diluição 10 2 | 0 o
+Diluição 10 > 0 0 0 Menos de 50 / dose
+Diluição 10 4 0 | o
+9. Lote I1-050121 CJSC LEKKO
+
+ 
+
+ 
+
+ 
+
+lugar de carimbo CAD
+
+ 
+ 
+
+[ Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da
+
+| Rússia
+
+| Divisão: Departamento de controle biológico e de processo
+
+| Tipo de documento: Folha de teste de controle nº
+Gam-COVID-Vac. Componente de segurança específico do parâmetro. de teste de controle II.
+
+2
+
+SOP.15.650.01-F.01 E
+Página6 de 12
+11.01-21,01.2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Diluição 10? 0 0
+Diluição 10 * 0º o Menos de 50 / dose
+Diluição 104 o | o
+10. Lote I1-060121 CJSC LEKKO
+Diluição 10? | o 0
+Diluição 10 * o 0 Menos de 50/ dose
+| Diluição 10 + o o
+
+ 
+
+ 
+
+Estimativa
+
+lugar de carimbo CAD
+ 
+
+[Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da
+
+ 
+
+ 
+
+Rússia o o SOP.15.650.01-F.01
+Divisão: Departamento de controle biológico e de processo E Página] de 9
+Tipo de documento: Folha de teste de controlen” 3 18.01-28.01.2021
+
+ 
+
+ 
+
+ 
+
+Gam-COVID-Vac. Componente de segurança À especifi ico do parâmetro de teste de controle II.
+
+1, Data do teste de controle 18 de janeiro de 2021
+2. Informações sobre o material de teste
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1. Fundo:
+Núme E
+to do Nº de lote Fabricado por Uso pretendido Quantidade
+item a ser testada
+1 T1-050121 | Pharmstandard-UfaVITA OJSC 1 Controle de liberação 3 amostras
+2 TI-060121 | Pharmstandard-UfaVITA OJSC | * Controle de liberação 3 amostras
+E 1070121 | Pharmstandard-UfaVITA OJSC Controle de liberação | 3 amostras |
+4 IL 30121 E BINNOPHARM [Controle de liberação 3 amostras
+5 ZB00521 GENERIUM JSC | Controle de liberação 3 amostras
+6 11-070121 CISC LERKO | Controle de liberação 3 amostras
+J o
+pp | o 1
+(9 — — | E
+o (o o E | o
+2.2. Condições de armazenamento
+De acordo com a documentação regulatória Condições reais de Conformidade
+o o o armazenamento
+Máx -18º C o E -20ºC Sim/Não |
+(2asºc o - | Gmnão
+3, Protocolo de teste de controle
+3.1 Equipamento de teste de controle o o
+Equipamento Número de série. Status tea O O uso
+Incubadora de CO 2 [200260003 Sã
+Caixa laminar classe  / tipo AZ [221.120.00.3652 o
+Dosímetro de volume variável de 20-200 mL. 1 39282545
+Dosimetro de volume variável de 100-1000 mL. | 39382220
+3.2 Reagentes e materiais auxiliares usados em testes de controle o .
+Material reagente / auxiliar número de referência | Número do | Validade
+número de OL lote
+número de registro
+| Placas de cultura de 60 mm com monocamada de células * Passagem nº ,
+| AS49 (10 pes) 18
+| Meio de cultura DMEM 1x (sem soro) Do Nº2 | - 11.02.21
+Cubra meio cultural DMEM 2x (OVER) (para AS49) Nº4 - | 14.02.21
+Cubra a solução de ágar a 2% Nº5 = | 17.02.21
+Corante vermelho neutro 100x | Nº97 06.04.21 |
+Amostra de controle positivo Ad5-RCA, título 3,0 10º PEU - 040320 03.2021
+fmL
+[pipetas sorológicas, 5 mL, estéreis, graduadas, embaladas - 27520061 01.10.23
+[individualmente .
+
+ 
+
+lugar de carimbo CAD
+ 
+
+Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rússia SOP.15.650.01-F.01 |
+Divisão: Departamento de c: e controle biológico e de processo o | Página2 de 9
+Tipo de documento: Folha de teste de controlen” 3 | 18.01-28.01,2021
+
+Gam-COVID-Vac. Componente de segurança específico do parâmetro de teste de controle II.
+
+pipetas sorológicas, 10 mL, estéreis, graduadas, embaladas - | 0329004 28.10.23
+
+I
+individualmente |
+|
+|
+
+ 
+
+- J1922390 28.09.25
+- JI9I482M | 28.07.28 |
+
+— —ES.
+
+A limpeza está concluída ||| Sim/ Não
+
+trole d ão de caí A lmpesa esa comento
+Controle de preparação de caixa |O tratamento UV está concluído é im ) Não
+
+Tubos Falcon, 50 mL
+| Tubos Eppendorf, 1,5 mL
+
+ 
+
+ 
+
+ 
+
+3.3 Preparação da caixa para o trabalho
+
+3.4 Preparação de reagentes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Núme Requisitos SOP O requisito é
+rodo atendido
+item | = o o |
+l Aqueça o meio cultural DMEM 1x (sem soro), cubra o meio DMEM 2x (OVER) a im) Não
+GC o
+2 | Derreta a solução de ágar a 2% da cobertura Sim) Não
+3 |Preparetubos de 1,5 mL o Gim)Não |
+3.5 Procedimento o o
+Núme Requisitos SOP O requisito é
+ro do atendido
+item o o o o
+1 A monocamada celular nos placas de cultura deve ser de 70 a 90% (homogênea, sem Gim) Não
+
+| “buracos' e agregados celulares)
+
+[3 3.5.1 Preparação de uma série de diluições de 10x de amostras de controle
+f
+
+|!
+
+ 
+
+ 
+
+ 
+
+Para cada lote analisado, deixe os frascos com o material de teste em temperatura im) Não
+* | ambiente. Combine o contetdo.
+2 Prepare oito tubos de 1,5 mL para cada amostra de teste, rotule cada dois tubos da im) Não
+maneira seguinte: (10 !) diluição; (10 * 23 diluição; (10 *) diluição; (10 4) diluição
+[3 Prepare quatro diluições de 10x de cada amostra de teste em duas iterações de Sim) Não
+
+ 
+
+diluição de 107! to 10º (150 ul de amostra + 1350 ul de meio sem soro)
+| 3.5.2 Preparando uma amostra de controle positivo
+
+ 
+
+ 
+
+| 1 Prepare tantos tubos de 1,5 mL quanto corresponder à ordem de titulação do PCS. im) Não
+L Rotule de acordo.
+2 Prepare diluições de 10x de PCS de 101 a 10 * (primeira diluição: 20 ulde PCS + Simy Não
+
+180 ql de meio sem soro; então - 150 ul de amostra + 1350 ul de meio sem soro)
+[3.5.3 Transferência de diluições (de PCS e amostras de teste) para placas de cultura
+
+| 1 Rotule os placas de cultura com uma monocamada de células da maneira seguinte:
+€- - controle de monocamada
+
+PCS - 107
+
+PCS - 101
+
+PCS-10º (im) Não
+Para cada amostra de teste:
+Experiência 1º? (duas placas)
+Experiência 10 ? (duas placas)
+| Experiência 10 4 (duas placas)
+
+2 Adicionar 1 ml de meio de crescimento sem soro à placa de controle em my Não
+| monocamada (controle negativo)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+[Agência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da
+
+| Rússia | sopas esoorro1
+
+ 
+
+ 
+
+ 
+
+ 
+
+| Divisão: Departamento de controle biológico e de processo Página3 de 9
+| Tipo de documento: Folha de teste de controle nº 3. 18.01-28.01.2021
+
+Gam-COVID-Vac. Componente de segurança específico do parâmetro de teste de controle II.
+
+ 
+
+ 
+
+[ Núme | Requisitos SOP O requisito é
+
+ro do | atendido |
+| item
+| o = a |
+
+3 Adicione a amostra de teste começando pela maior diluição. Agite o conteúdo do |
+| os
+
+(diluição 10 Sm) Nã
+ão
+
+4) tubo da primeira iteração, adicione 1 ml na placa de cultura. Da mesma forma,
+o adicione a segunda diluição de iteração.
+[4 Da mesma forma, adicione as diluições 10 ? e 10 2. |
+[5 Da mesma forma, adicione cada amostra de teste de acordo com os itens 3-4 | Sim) Não
+6 |
+|
+
+ 
+
+Agite o conteúdo do tubo (diluição 10), adicione 1 mL na placa de cultura. Da
+mesma forma, adicione as diluições 10 * e 107. o
+Incubar as placas em uma incubadora de CO; a (37 + 1) º € em uma atmosfera com
+
+ 
+
+ 
+
+(5,0 + 0,5)% de CO; por 4-6 horas. Não
+[| Começaàs 12º; Termina-se às 170 o
+8 | Prepare um meio de cobertura.
+
+Para 10 placas: adicione 25 mL de meio de cultura de cobertura DMEM 2x (OVER) Eim) Não
+e 25 mL de solução de ágar 2% em um tubo estéril de 50 mL. Misture
+cuidadosamente o conteúdo com uma pipeta evitando a formação de bolhas.
+
+9 Remova o meio de diluição das placas. Transfira o meio de cobertura para as placas |
+da maneira seguinte: |
+placas com controle negativo— placas com diluições de amostras de teste, |
+| começando com a diluição mais baixa placas com controle positivo.
+
+Despeje lentamente, ao longo da parede, 5 mL de meio de cobertura em cada prato.
+
+10 Incubar as placas em uma incubadora de CO» a (37,0 1,0) º C com (5,0 + 0,5)% de Sim) Não
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CO » por 3 dias. o o
+| Executivo o — [assinatura] | Goldovskaya P.P.
+| Data 18.01.2021 |
+H Adicione 5 mL de meio a cada uma das placas de acordo com os itens 7-8. Incubar as
+placas em uma incubadora de CO2 a (37,0 + 1,0) º € com (5,0 + 0,5)% de CO 2 por 3 Gim) Não
+dias,
+Executivo — fessinatura) [ Goldovskaya PP.
+Data 21.01.2021 . o E
+12 Adicione 5 mL de meio a cada uma das placas de acordo com os itens 7-8. Incubar as
+placas em uma incubadora de COZ a (37,0 + 1,0) º C com (5,0 + 0,5% de CO 2 por Não
+2-3 dias. o o | .
+Executivo o o [assinatura] | Goldovskaya P.P. |
+
+ 
+
+ 
+
+Data 24.01.2021 o o E
+3,5.4 Coloração de monocamada de células com corante vermelho neutro
+
+1 Prepare meio nutricional de cobertura tingida.
+Misture em um tubo de 50 mL 15 mL de meio de cobertura DMEM 2x, 13.2 mL de Sim) Não
+
+solução de ágar 2% e 1,8 ml. de solução de corante vermelho neutro.
+2 Adicione 3 mL de meio de cobertura tingido a cada prato Não |
+
+E Incubar as placas em uma incubadora de CO; a (37 + 1) º C com (5,0 + 0,5)% de CO Em Não
+2 por 24 horas. Os resultados devem ser registrados nos dias 9-10.
+
+ 
+
+ 
+
+ 
+
+|
+[assinatura] | Goldovskaya P.P, |
+
+ 
+
+| Executivo .
+| Data 27.01.2021 o
+
+ 
+
+ 
+ 
+
+! M4gência Medgamal, FSBI NF Gamaleya NRCEM do Ministério da Saúde da |
+Rússia SOP.15.650.01-F.01
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Divisão: Departamento de controle biológico e de processo Páginas de 9
+Tipo de documento: Folha de teste de controlenº 3 18.01-28.01.2021
+Gam-COVID-Vac. Componente de segurança específico do parâmetro de teste de controle II.
+4. Resultados do trabalho de controle
+Data de registro de resultados: 28.01.2021
+Tabela 1.1 Registro de resultados o
+Preparando a amostra Número de placas Número médio de | Número de adenovírus
+de teste 1º placa de 2a placa de cultura placas em duas competentes para
+cultura iterações replicação por dose |
+Controle negativo | - - - |
+Amostra de controle positivo |
+Diluição 10 7 > 200 | -
+Diluição 10 4 20 Loo
+Diluição 10 ? 2 | Loo
+L Lote 11-050121 Pharmstandard-Ufa VITA OJSC
+Diluição 10 2 0 o
+Diluição 10 ? 0 o 0 Menos de 50 / dose
+Diluição 10 + 0 0 |
+2. Lote I1-060121 Pharmstandard-UfaVITA OJSC
+Diluição 10 2 o o | |
+Diluição 10 * o o a 0 Menos de 50 / dose
+Diluição 10 + L 0 o + |
+3. Lote I1-070121 Pharmstandard-Ufa VITA OJSC
+Diluição 10 ? 0 o
+Diluição 10º 0 0 0 Menos de 50/ dose
+Diluição 10 4 o 0 | |
+4. Lote 11-30120 BINNOPHARM .
+Diluição 10 ? 0º 0 1
+Diluição 10 * l 0 | o 0 Menos de 50 / dose
+Diluição 10 4 0 0
+5. Lote ZB00521 JSC GENERIUM |
+Diluição 10 ? 0 1 0
+Diluição 10 0 | 0 0 Menos de 50 / dose
+Diluição 10 + 0 l 0
+6. Lote 11-040120 CJSC LEKKO
+Diluição 10 2 0 0
+Diluição 10 | o | 0 0 Menos de 50 / dose
+| Diluição 10 + | 0 0 J
+
+ 
+
+Estimativa
+
 lugar de carimbo CAD
 

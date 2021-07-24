@@ -1,6 +1,444 @@
-2RORNISSE NA ALDNOAISAWODLINEI)) 2002 GINOSISNAGIS LO REUNDS) n28)
+AIUEDOO SODA LD DOZE DS COLLHIREES À | AEBADOSS SOB SS BVCSESAR DA A)
 
-Relativo a NF nº 238 de TELESCA REPRESENTAÇÕES MATERIAS HOSPITALARES EIREL
+ 
+
+ 
+
+TERIÓS DE ECO DIAGNOSTICA LTDA FILIAL OS PRODUTOS CONSTANTES DA NOTA FISCAL INDICADA AO LADO
+DATA DE RECEBIMENTO IDENTIFICAÇÃO E ASSINATURA DO RECEBEDOR.
+
+t49/L0lzo
+
+ 
+
+NF-e
+| N. 000022755
+
+SERIE 1
+DE£O
+
+ 
+
+ 
+
+ 
+
+Identificação do emitente DANFE
+ECO DIAGNOSTICA LTDA - FI DOCUMENTO AUXILIAR DA
+LIAL NOTA FISCAL ELETRÔNICA
+AV AMARANTE RIBEIRO DE CASTRO, S$1 O-ENTRADA [)
+OLIVEIRA Cepsso200.000 1SaíDa
+CORINTOIMG
+
+DIAGNÓSTICA N. 000022755
+Fone: 5136832026 ERIEA
+
+FOLHA 0:01
+
+ 
+
+ONE
+
+CHAVE DE ACESSO DA NF-E
+3120 1014 6331 5400 0206 5500 1000 0227 5511 0025 7152
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Consulta de autenticidade no portal nacional da NF-e
+wwwnfe.fizenda.gov.br/portal ou no site da SEFAZ Autorizada |
+
+ 
+
+ 
+
+NATUREZA DA OPERAÇÃO
+VENDA DE MERC.N CONT
+
+PROTOCOLO DE AUTORIZAÇÃO DE USO
+131203854001 748 08/10/2020 15:24:56-03:00
+
+ 
+
+ 
+
+ 
+
+INSCRIÇÃO ESTADUAL.
+0018737390147
+
+INSCESTADUAL DO SUBST:TRIB.
+
+ 
+
+rr ]
+14.633,154/0002-06 |
+
+ 
+
+ 
+
+DESTINATARIO/REMETENTE
+
+ 
+
+NOMEIRAZÃO SOCIAL.
+MANAUS SECRETARIA MUNICIPAL DE SAUDE
+
+CNPICPF
+
+ 
+
+04.461,836/0001-44
+
+DATA DE EMISSÃO
+08/10/2020
+
+ 
+
+ENDEREÇO
+AV MARIO YPIRANGA, 1695
+
+BAIRRO DISTRITO
+PARQUE DEZ
+
+Er
+69057-002.
+
+DATA ENTRADAISAÍDA |
+
+ 
+
+ 
+
+MUNICIPIO
+MANAUS
+
+FONEIPAX.
+9298842871
+
+ur
+AM
+
+ 
+
+ 
+
+INSCRIÇÃO ESTADUAL MORA ENTRADASAÍDA
+
+ 
+
+ 
+
+ 
+
+FATURA
+
+ 
+
+001 |
+07/11/2020
+350.000,00 |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CALCULO DO IMPOSTO
+
+ 
+
+BASE DE CALCULO DO ICMS
+450.000,00
+
+VALOR DO ICMS.
+31.500,00
+
+BASE DE CALCULO DO ICMS SUBSTITUIÇÃO
+0.00
+
+ 
+
+ 
+
+VALOR DO ICH SUBSTITUIÇÃO
+0,00
+
+VALOR TOTAL DOS PRODUTOS
+450.000,00
+
+ 
+
+ 
+
+VALOR DO FRETE VALOR DO SEGURO
+0,00 0,00
+
+DESCONTO
+0,00
+
+ 
+
+ 
+
+ 
+
+OUTRAS DESPESAS ACESSÓRIAS.
+0,00
+
+VALOR DO IP
+0,00
+
+VALOR TOTAL DA NOTA
+450.000,00
+
+ 
+
+ 
+
+ 
+
+TRANSPORTADOR VOLUMES TRANSPORTADOS
+
+ 
+
+RAZÃO SOCUL.
+TRANSCOURIER LTDA. - ME
+
+FRETE POR CONTA
+EMITENTE
+
+ 
+
+ 
+
+cópico axtT
+
+PLACA DO VEÍCULO |tr Oxrsicer
+
+03.220.264/0001-49
+
+ 
+
+ 
+
+ 
+
+ENDEREÇO
+AN. JOSE CLETO, 1010
+
+|munario
+BELO HORIZONTE
+
+vr
+MG
+
+INSCRIÇÃO ESTADUAL
+0021724210084
+
+ 
+
+ 
+
+ 
+
+QUANTIDADE Jesrrar
+7 ex
+
+MARCA
+
+ 
+
+NUMERAÇÃO PESO BRUTO
+
+89,090
+
+PESO LIQUIDO
+89,090
+
+ 
+
+ 
+
+ 
+
+DADOS DO PRODUTO / SERVIÇO
+
+ 
+
+(COD. PROD [DESCRIÇÃO DO PROD.ISERV.
+[TR.0079CS0 | COVID-I9 IGGAGM ECO TESTE KIT C/ 4
+so O TESTES. [Lote : 202009032 Valid:
+23/09/2021]
+
+[Ncmist
+30021590
+
+cror
+6107
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+QUANT.
+250,0
+
+ 
+
+(UNITÁRIO |UTOTAL |BCICMS
+1.800,00 450.000,) 450.000,
+00004 0
+
+[vicus  |uiri
+31.500,00 0,01
+
+A.icus
+7.00%
+
+pi
+0.00%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CALCULO DO ISSQN.
+
+ 
+
+INSCRIÇÃO MUNICIPAL [xaLOR TOTAL DOS SERVIÇOS
+
+8907 |
+
+ 
+
+BASE DE CÁLCULO DO ISSQN.
+
+[VALOR DO ISSQN ]
+
+ 
+
+ 
+
+DADOS ADICIONAIS
+
+ 
+
+INFORMAÇÕES COMPLEMENTARES
+PIS/COFINS MODALIDADE NAO.CUMULATIVA, REDUCAO A 0% CONFORME DECRETO N. 6.426/2008
+Protocolo: 131203854001748
+
+NOTA DE EMPENHO Nº 2020NE03922. DADOS
+
+ 
+
+   
+ 
+
+ 
+
+ativo no Fundo de Combate a Pobreza - FCP da UF de destino: R$ O, Valor do ICMS
+Interestadual para a UF de destino: R$ 49500.00. Valor do ICMS Interestadual para a UF
+
+jo oe R$ 0
+L70S
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+MNA. 4204
+
+ 
+
+DESCO
+
+ 
+
+  
+ 
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM hitp://siged.manaus.am.gov.br/cadastrousuarioexterno/ve:
+
+RESERVADO AO FISCO
+
+ 
+
+ 
+
+icacao.aspx INFORMANDO O CÓDIGO: 35995177
+SELADO O ADA LDDOLS DSG COLLINS À | AEBADOSS SOB SS BVSSESAR DITAS)
+
+Relativo a NF nº 22755 de ECO DIAGNOSTICA LTDA
 
  
 
@@ -10,30 +448,16 @@ Atesto que o(s) material(is) constante(s) no
 presente documento foilforam aceito(s) e
 recebido(s)
 
-Em 10/06/2020
+Em 14/10/2020
 
-Qua
+— Qu
 
 Daniela Martine Santos
 Chefe do Departamento de Logistica
 
-   
-
  
 
  
-
-ATESTADO
-
-Atesto quê o(s) materials) constante(s) no
-presente documento follfaram aceito(s) e
-
-Em 10/06/2020
-
-  
-
-(do Napoleão Artini Filho
-Gereníte de Planejamento em Logistica
 
  
 
@@ -43,19 +467,1556 @@ ATESTADO
 
 Atesto que o(s) material(is) constante(s) no
 presente documento foilforam aceito(s) e
+recebido(s)
+
+Em 14/10/2020
+
+Ricardo Cardoso Militão
+Chefe de Divisão do Almoxarifado
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foiforam aceito(s) e
+recebido(s)
+
+Em 34/10/2020
+
+/ memo
+Raimundo Napoleão Artini Filho
+Administrador Hospitalar
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM hitp://siged.manaus.am.gov.br/cadastrousuarioexternojverificacao.aspx INFORMANDO O CÓDIGO: 35995177
+ABLE O DAR LOLA POLLHIEES À | AEBADOSS 20065 DEDO IS OAK DITA E)
+
+RECEBEMOS DE FOUERENO CON ART: MEGNGOS ERELE EP OS PROGUTOS CONSTANTES DA MOTA FICALNONCADA AO LADO, NF-e
+1 ndré Faizsdbzo
+iz h % Nº, 000.006.748
+
+DATA, CEBI Tc IDENTIFICAÇÃO E ASSINATURA DO RECEBELOR
+Pego Asgier A Se Série c01
+DSMSEMSA
+DANFE Controle do Fisco
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGUEIREDO COM. ART. MEDICOS EIRELE-EPP Documen o Auxiliar da
+BOULEVAR SA PEIXOTO, 107 - Nota Fiscal Eletrônica
+MANAUS-AM 69.070-160 O- Entrada
+Chave do A
+HOUEREDO 1- Saída À "Eh 420 1108 9973 8800 0183 5500 1000 0067 4810 0003 6212
+(em sMeAsTA Nº. 000.006.748
+combcesçã O Consulta de autenticidade no portal nacional da NF-e
+financeiro.figueiredocomercioBgmail.co | Série 001 Pag. 1/1 wwyw.nfe,fazenda.gov.br/portal ou no site da Sefaz Autorizadora
+Natureza da Operação Protocolo de Autorização do Uso
+VENDA DE MERCADORIAS 113201623851952 26/11/2020 16:40:00
+Inscrição Estadual Inscrição Estadual Substiuição Tributária Licença SEMSA CNPJ
+042130484 06.997.366/0001-63
+DESTINATÁRIO / REMETENTE
+Nome Razão Social Nome Fantasia CNPUCPF Data da Emissão
+SECRETARIA MUNICIPAL DE SAUDE SEMSA 04.461.836/0001-44 26/11/2020
+Endereço Ponto de Referência BairoDistrio CEP Data da Saida / Entrada
+RUA RECIFE, 1695 ADRIANOPOLIS 69057-001
+Município FonelFar ur — | Licença SEMSA Inscrição Estadual Hora da Saida
+MANAUS (92) 3236-8092] AM ISENTO
+FATURAS.
+Número Vencimento Valor [Número Vencimento Valor [Número Vencimento Valor
+oo3sz1-aa — |26112/2020 600.000,00]
+cAtcuo Do mosto
+Base do Cóltulo do CMS | Valordo ICMS Base de Cóledo ICMS Subst. | Valordo ICHS Subsivição | Valordo ICMS Desonerado Valor Total dos Produtos
+0.00 0,00 0.00 0.00 0,00 600.000,00
+Valordo Frete Desconto Valor do Seguro Outras Despesas Acessórios | Valor Total do IPI Valor Total da Nota
+0.00 0.00 0,00 0,00 0,00 600.000,00
+TRANSPORTADORNOLUMES TRANSPORTADOS
+Razão Espocial Frete por Conta Placa do Veiculo ur CNPJ
+9- SEMFRETE
+Endereço Município ur Inscrição Estadual
+Quantidade Espécie Marca Numeração Peso Bruto Peso Liquido
+30000 | voL DIVERSAS 30.000,000 30.000,000
+DADOS DOS PRODUTOS.
+Valor Desconto Valor | &
+Código | Descrição dos Produtos eme | nemsm | csr |crop| toe | vatidade | Unid | Quantidade] Unitário | sBonit Prom] Toe | em
+
+ 
+
+TESTE RÁPIDO COVID-1S, FINALIDADE: TESTE
+RÁPIDO UTILIZADO PARA TRIAGEM DA INFECÇÃO
+PELO VÍRUS DA SÍNDROME RESPIRATÓRIA
+[AGUDA GRAVE DO CORONAVÍRUS 2 (SARS-COV-
+2), SOMENTE USO DIAGNÓSTICO IN VITRO,
+AMOSTRA: SORO, PLASMA E SANGUE TOTAL,
+DESCRIÇÃO. TESTE RÁPIDO QUALITATIVO PARA À
+DETECÇÃO DE ANTICORPOS ESPECÍFICOS IGM E
+IGG ANTISARS-COV-2 POR
+IMUNOCROMATOGRAFIA DE FLUXO LATERAL, CY
+TEMPERATURA DE ARMAZENAMENTO ENTRE ZA
+30C, APLICAÇÃO MANUAL, EMBALAGEM
+CONTENDO DADOS DE IDENTIFICAÇÃO DO
+PRODUTO, DATA DE FABRICAÇÃO É PRAZO DE
+VALIDADE, UNIDADE DE FORNECIMENTO: TESTE.
+MARCA: WAMA j
+
+001950 3002.1590 | 040 | 5405 UN | 30000000] 2000) 600.000,00]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DADOS ADICIONA!
+Informações Complementares Reservado ao Fisco
+
+PEDIDO: CÓDIGO: 00235 CARGA: OP: 09-EMPENHO
+ENTREGA TOTAL DO EMPENHO 2020NE04710, PROC.: 2020/01637/0141 2101005432
+EMPRESA ISENTO DE PIS E COFINS DE ACORDO COM O Nº DE PROCESSO 1001813-19.20 3.4.01.3200
+
+ 
+
+- VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM hitp://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 3500BBES
+ABLE SADIA LIDOS POLLHIEES À | AEBADOSS 20065 DEDO ISOAR DT O)
+
+Relativo a NF nº 6748 de FIGUEIREDO COMERCIO DE ARTIGOS MEDICOS - EIRELI
+
+ 
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foilforam aceito(s) e
+recebido(s)
+
+Em 2/12/2020
+
+ 
+
+Daniela Martine Santos
+Chefe do Departamento de Logistica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foilforam aceito(s) e
+recebido(s)
+
+Em 2/12/2020
+
+Ricardo Cardoso Militão
+Chefe de Divisão do Almoxarifado
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foilforam aceito(s) é
+recebido(s)
+
+2/12)
+
+  
+ 
+   
+
+Raimundo Napoleão Artini Filho
+Admiristrador Hospitalar
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM hitp://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 3500BBES
+Dc a o a A a a
+
+ 
+
+ 
+
+RECEBEMOS DE FIGUEIREDO COM. ART 'MEDICOS EIRELE-EPP OS PRODUTOS CONSTANTES DA NOTA FISCAL INDICADA AO LADO. NF-e
+DATA DE RECEBIMENTO IDENTIFICAÇÃO E ASSINATURA DO RECEBEDOR 5 E . He DOd DOR 786;
+- em E Série 001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E DANFE Controla do Fisco -
+FIGUEIREDO COM. ART, MEDICOS EIRELE-EPP. | q cumento Ausiiai da |,
+. BOULEVAR SA PEIXOTO, 107 - Nota Fiscal Eletrônica |
+MANAUS-AM -69.070-160 O- Entrada” 1” onmadoAcdeso -
+arandos É 1- Saída 1320 1106 9973 6800/0163 5500 1000 0057 2510 0003 6980
+obixesnao Nº. 000.006.725 Consulta de autenticidade no portal nacional da NF-e
+financeiro fiqueiredocomercioagmailco | Série 001 pág. 111 wmv. nfe.fazenda gov.briportal ou no site da Sefaz Autorizadora
+Natureza da Operação. - Protocolo de Autorização de Uso
+VENDA DE MERCADORIAS A 113201621249255 23/11/2020 16:25:15
+Inscrição Estadual Inscrição Estadual Substituição Toibutária Liconça SEMSA CNPJ
+042130484 á 06.997,366/0001-63
+DESTINATÁRIO / REMETENTE E
+Nome Razão Social g , Nome Fantasia CNPJ Dota da Emissão
+SECRETARIA MUNICIPAL DE SAUDE: * SEMSA 04.461.836/0001-44 23/11/2020
+“Endereço - “| Ponto de Referência BairaDistrto- [oro Dei da Saida / Entrada
+RUA RECIFE. 1695 - 5 ADRIANÓPOLIS *- 89.057-001
+Município FonelFax Ur | Licença SEMSA Inscrição Estadual Hora da Saida
+MANAUS -| (92) 3236.8092 AM ISENTO
+FATURAS
+Número Vencimento, Valor [Número Vencimento Valor | Número Vaio
+003598-AYA. 23/12/2020. 331.100,00] * E :
+CÁLCULO DO IMPOSTO E É É
+Boso do Cálculo do icms | ValordoicHs Basa do Cóle.do ICMS Subst.. | Valor do ICMS Substituição . "| Velordo ICMS Desonerado — Valor Total dos Piodutos
+0,00 0.00 0.00 | - 0.00 : 0.00 331.100,00
+Vilârdo Fioto Descomo Valor do Soguro Outras Despesas Acossórias” | Valor Total do te! Valor Total a Nota
+0.00 = 900 0.00 0.00 9,00 331.100,00
+TRANSPORTADORNOLUMES TRANSPORTADOS
+| Razão Especial : Frete por Conta Placa do Veicuio ur CNJ
+9- SEMFRETE
+Endoroço Município = Jur * | inscrição Estaduar
+Quantidade Espócio Marca Numeração Peso Bruto Peso Liquido
+16555 | voL DIVERSAS ut 16.555,000 16.555,000
+DADOS DOS PRODUTOS" * . a E
+E E Valor Desconto Var | &
+Código | Descrição dos Produtos mc | ncmsH | csT | crop] Loto | Validado | Unia | Quantidade] Unitário | ssbônit Prom]: Totar | tem
+TESTE RÁPIDO COVID-19, FINALIDADE: TESTE — ;
+RÁPIDO UTILIZADO PARA TRIAGEM DA INFECÇÃO
+PELO VÍRUS DA SINDROME RESPIRATÓRIA
+AGUDA GRAVE DO CORONAVÍRUS.2(SARS-COV-
+2), SOMENTE USO DIAGNÓSTICO IN VITRO,
+Ê AMOSTRA: SORO, PLASMA E SANGUE TOTAL, :
+|. |DESCRIÇÃO. TESTE RÁPIDO QUALITATIVO PARA A É
+oo 1950 -) DETECÇÃO DE ANTICONEOS ESPECÍFICOS IGM E 3002150 | 040 | 5405 UN | 15555000) 2000] 331.100,60
+
+IGG ANTISARS-COV.2 POR
+IMUNOCROMATOGRAFIA DE FLUXO LATERAL, C/
+TEMPERATURA DE ARMAZENAMENTO ENTRE 2 A
+30ºC, APLICAÇÃO MANUAL, EMBALAGEM
+CONTENDO DADOS DE IDENTIFICAÇÃO DO
+PRODUTO, DATA DE FABRICAÇÃO É PRAZO DE
+| VALIDADE. UNIDADE DE FORNECIMENTO. TESTE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O
+h
+DADOS ApIcioNAs À si I
+
+Intormacõos' Comolemenisros fim TO “Roservado ao Fisco o 1 E A
+
+PEDIDO: CÓDIGO: 00235 CARGA: OP: 09 EMPENHO
+
+ENTREGA TOTAL DO EMBENHO 2020NGG:EES PROC aozonean ia ogossas EnITDO NO DI: 11 iodo :
+
+EMPRESA ISENTO DE PIS E COFINS DE ACO! : U
+
+IDO COM O Nº DE PROCESSO 1001813-19.2019.4.01.3200  —
+
+SEMSA
+
+ 
+
+ 
+
+ 
+
+iged.manaus.am.gov.br/cadastrousuarioexterno/ver
+
+ 
+
+acao aspx INFORMANDO O CÓDIGO: 36010E10
+
+     
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http:
+AULA USO SADIA LDDOLD 094 POLLHIES À | AUBADOSS 2 00D PS DEDO IL UR DITO)
+
+Relativo a NFnº 6725 de FIGUEIREDO COMERCIO DE ARTIGOS MEDICOS - EIRELI
+
+ 
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foilforam aceito(s) e
+recebido(s)
+
+Em 23/11/2020
+
+Quote
+
+Daniela Martine Santos
+Chefe do Departamento de Logistica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATESTADO
+
+Atesto que o(s) materiallis) constante(s) no
+presente documento foilforam aceito(s) e
+recebido(s)
+
+Em 23/11/2020
+
+   
+      
+
+Ricardo Cardoso ão
+Chefe de Divisão do Almoxarifado
+
+iu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foilforam aceito(s) e
+recebido(s)
+
+Em 23/11/2020
+
+E Napoleão Artini Filho
+
+Administrador Hospitalar
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao aspx INFORMANDO O CÓDIGO: 38010E10
+
+ 
+CMLEO O ADA LDDOLD 094 POLLHIEES À | AEBADOSS POD 5 DEDO SL SUR DITA)
+
+ 
+
+- RECEBEMOS DE FIGUEIREDO COM, ART: MÉDICOS EIRELE-EPP OS PRODUTOS CONSTANTES DA NOTA FISCAL INDICADA AO LADO: i NF-e
+
+ 
+
+DATA DE RECEBIMENTO. IDENTIFICAÇÃO E ASSINATURA DO RECEBEDOR Ne. 000,006:728
+
+Série 001
+eee |
+
+FIGUEIREDO COM. ART. MEDICOS EIRELE-EPP Documento Auxiliar da |] | | | | || |
+
+BOULEVAR SA PEIXOTO, 107. Nota Fiscal Eletrônica
+FERE) MANAUS-AM “69070-160 O- Entrada ã NUTS DO ABES Ea
+1- Saida 1320 1106 8973 6600 0163 5500 1000 0067-2610 0003 5995
+
+mrieraviro (92) 3345-1574 ê
+tortas Nº. 000,006.726 ” Consulta de autenticidade no portal nacional da NF-e
+financelro figueiredocomercio(agmail.co - | “Série 001. "pág. 111 www.nfe.fazenda.gov.briportal ou no site da Sefaz Autórizadora
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nolureza da Operação Protocolo de Autorização de Uso *
+VENDA DE MERCADORIAS. 113201621249206 zaniucnão, 16:25:27
+
+Inscrição Estadual ” Inscrição Estad Substituição Tributária Licença SEMSA. [CNPJ : Z
+042130484 . E 06.987.366/0001-63
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DESTINATÁRIO / REMETENTE E
+Nome Razão Social . * | Nomo Fantasia CNPJICPF Data da Emissão
+SECRETARIA MUNICIPAL DE SAUDE SEMSA 04.481.836/0001-44 23/11/2020
+Enderoço Ponto de Referência Beiro/Distrto cer “Dita da Saida 7 Entrado
+RUA RECIFE, 1695 É E -ADRIANOPOLIS 89.057-D01
+Minicípio + Fone/Fax ur [Licença SEMSA Inscrição Estadual Hora da Saida
+MANAUS (92) 3236-8092 AM * |. ISENTO
+FATURAS, T
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Número Vencimento .- E Valor [Número Vencimento Valor | Númiero Vencimonto Vaio]
+OO3S99-A/A 23/12/2020 + 68.900,00] Z
+CALCULO DO IMPOSTO.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| Bast de Cálculo do ICMS | Vitor do cs Base de Cále.do ICMS Subst. -| Valor do ICMS Substituição | Valor do ICS Desorieado Valor Totalidos Produtos
+0,00 0,00 0,00 0,00 0,00 68.900,00
+
+ 
+
+Valor do Froto Desconto Valor do Seguro Outras Despesas Acessórios “. | Valor Toto IPI Vajor Total da Nora
+0,00 , 0,00 0,00 0,00 + 0,00 68.900,00
+
+TRANSPORTADORNVOLUMES TRANSPORTADOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Razão Especial Fe por Gotta 7-7 | Blicado Voto DF [oe
+- Ê 9- SEMFRETE x - é,
+Endereço munlepio ur Trscição Estar
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quantidado Espécie Marca Numeração Peso Bruto Peso Liatido
+3445 | VOL DIVERSAS E 3.445,000 3.445,000'
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DADOS DOS PRODUTOS
+ê Valor Desconto. Valor” Ta
+Código '| Descrição dos Produtos “PMc | nemsh: | CsT |Crop| Lote. | Validade | Unia | Quantidade] Unitário | aBonit Total. tem
+
+TESTE RÁPIDO COVID-1S, FINALIDADE: TESTE
+RÁPIDO UTILIZADO PARA TRIAGEM DA INFECÇÃO
+PELO VÍRUS DA SÍNDROME RESPIRATÓRIA
+AGUDA GRAVE DO CORONAVIRUS 2 (SARS-COV-
+2), SOMENTE USO DIAGNÓSTICO IN VITRO,
+AMOSTRA: SORO, PLASMA E SANGUE TOTAL,
+DESCRIÇÃO: TESTE RÁPIDO QUALITATIVO PARA A
+DETECÇÃO DE ANTICORPOS ESPECÍFICOS IGM E
+IGG ANTISARS-COV.2 POR =.
+IMUNOCROMATOGRAFIA DE FLUXO LATERAL, CY
+TEMPERATURA DE ARMAZENAMENTO ENTRE 2 A
+3076, APLICAÇÃO MANUAL, EMBALAGEM
+CONTENDO DADOS DE IDENTEICAÇÃO DO +
+FRODUTO, DATA DE FABRICAÇÃO E PRAZO DE
+
+VALIDADE, UNIDADE DE FORNECIMENTO:
+TESTE MARCA: WAMA
+
+ 
+
+ 
+
+ooigão 3002.15.90 | 640 | 5405 “| cs | un | 3445000)" “ã000] 68.900,00] :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JADOS ADICIONAIS Ê Ê
+
+ 
+
+maia Cons p= A
+
+PEDIDO: CÓDIGO: 00235 CARGA: OP: 09-EMPENHO
+
+ENTREGA TOTAL DO EMPENHO 2020NE04599, PROC: 2020101837/0141 2/01005544; EMITIDO NO DIA: 1771112020
+EMPRESA ISENTO DE PIS E COFINS DE ACORDO COM O Nº DE PROCESSO 1001813-19.2019.4.01.3200
+
+SEMSA
+
+ 
+
+ 
+
+ 
+
+ 
+
+acao aspx INFORMANDO O CÓDIGO: 36010E10
+
+ 
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/vei
+
+ 
+CALADO SAIDA LDDOLD 094 POLLHIEES À | AEBADOSS 2 M0D SS DEDO SL AURDITAO)
+
+Relativo a NFnº 6726 de FIGUEIREDO COMERCIO DE ARTIGOS MEDICOS - EIRELI
+
+ 
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foilforam aceito(s) e
+recebido(s)
+
+K 23/11/2020
+
+Daniela Martine Santos
+Chefe do Departamento de Logistica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foilforam aceito(s) e
+recebido(s)
+
+Em 23/11/2020
+
+ 
+
+Ricardo Cardoso Militão
+Chefe de Divisão do Almoxarifado
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foilforam aceito(s) e
+recebido(s)
+
+Em 23/11/2020
+
+ 
+
+Raimundó Napoleão Artini Filho
+Administrador Hospitalar
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao aspx INFORMANDO O CÓDIGO: 38010E10
+
+ 
+2R02M06S3004420DOB3Z0QVODUMEEIY | 200200683/00625 VDG3S294KBHib22)
+
+    
+ 
+
+DT VLISTA MINA COS SERPA IA PR SER FE ) 7 NEe
+FSLN ININUADA ADLADO MLS ES> - Oo-90
+à W E Nº 238
+
+5 |
+|
+PIDE GER TENTAR DU TRIO RT As e TOPA TOTALMITA
+| SECRETARIA MUNICIPAL DE, E | R$ 2.200.000,00. SÉRIE 0
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+ 
+
+      
+
+ 
+
+ 
+
+    
+ 
+
+ 
+
+( DANFE Il irao)
+| xmmestocrações mpeg
+MATERIAIS HOSPITALAR EIRELI, a q
+ME [1] [ SEM OM ES 2200 O 550 O 0002 15 Si ara | h
+
+ 
+  
+
+ 
+
+Constilta de auten
+Saio o ses fan
+
+ 
+
+ 
+
+FOLHA
+
+ 
+
+    
+
+ 
+
+ 
+
+| S102- VENDA DE MERCADORIA ADQUIRIDA OU RECEBIDA DE TER ] 113201492637134 10/06/2020 | |
+PINSCRIÇA ESTADUAL TF INGCRIÇÃO ESTADUAL DOSUNST FRA " ent
+| 053702692 09.158.222/0001-01 .
+
+  
+
+ 
+
+   
+   
+   
+
+   
+  
+
+PE DATADNi
+À Uss61sAGUODIAS 10/06/2020
+
+a
+“ À$9057002 |.
+
+f HORA DA ENTRADA SAÍDA
+
+ 
+
+BURRO DISTRITO,
+
+       
+
+ 
+
+ 
+
+          
+
+     
+
+ 
+
+ 
+
+VALE TOTAL DOS PRODUTOS
+2.200,000,00
+
+    
+
+E poaeenemo nes *
+2.200.000,00 :
+
+É 96 UAM
+
+fre arm Pruneroso;
+ua à ua
+
+  
+  
+ 
+ 
+ 
+
+ 
+
+  
+
+  
+ 
+
+ERA Tas
+
+  
+       
+
+ 
+
+VIRSCRIÇÃO ESTADUAL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ES LR TEMS MRE
+
+ 
+
+tems PI
+
+ 
+
+ 
+
+      
+
+UE O
+
+ESTE E AN SICORD
+
+   
+
+eso isso ndo
+
+ 
+
+eum sto? UND 1800 198 1
+
+     
+
+ema re
+
+ 
+
+        
+
+   
+
+TAN DE CALETRO DO Ia
+va Loo
+
+ 
+
+CIRO TT
+0,00
+
+ 
+ 
+
+       
+
+BESTNADO NOTINO.
+
+ 
+
+ 
+
+pars
+
+ 
+
+ 
+
+oo E a nd RSS Mc om
+
+|
+| |
+
+ 
+
+ 
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 35020278
+
+ 
+2R02M06S3004420DOB3Z0QVODUMEEIY | 200200683/00625 VDG3S29ARBHib23)
+
+Relativo a NFnº 238 de TELESCA REPRESENTAÇÕES MATERIAS HOSPITALARES EIREL
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foilforam aceito(s) e
+recebido(s)
 
 Em 10/06/2020
 
-Klinger do Nascimento Sobrinho
+uso
+
+Daniela Martine Santos
+Chefe do Departamento de Logistica
+
+ 
+
+  
+
+ATESTADO
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foilforam aceito(s) e
+
+Em 10/06/2020
+
+  
+ 
+
+do Napoleão Artini Filho
+Gereríte de Planejamento em Logistica
+
+ 
+
+ 
+
+ATESTADO
+
+Atesto que o(s) material(is) constante(s) no
+presente documento foi/foram aceito(s) e
+
+Em 10/06/2020
+
+,
+
+Klinger da Nascimento Sobrinho
 Chefe de Divisão de Medicamento
 
  
 
- 
-
- 
-
-10
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 35020278
 
  
 

@@ -1,25 +1,540 @@
-2ajosizoz1 SEUGOVPE - 13923640 - GOVPE - Olido
+24/05/2021 SEIIGOVPE - 13923640 - GOVPE - Ofício
 
-Quadro 2 Despesas com enfrentamento à pandemia em comparação zos recursos recebidos a título de auxíão federal vinculados com o
-combate à pandemia.
+GOVERNO BO ESTADO
 
-DESPESASCOMID. es RECEITA AUX. FEDERAL VINCULADA À COVID SAIDO
+ease AOS PERNAMBUCO
 
-[R$1.017.485.245,20 | R$930.616.211,80 486 869.033,40
+MAIS TRABALHO, MAIS FUTURO,
 
-   
+ 
+
+OFÍCIO Nº 237/2021- GPA/GCI/GAB-SES
+
+Data da assinatura eletrônica.
+
+A Sua Excelência o Senhor,
+
+Paulo Henrique Saraiva Câmara
+Governador do Estado
+
+Gabinete do Governador
+
+Praça da República, S/N, - Bairro Santo Antônio, Recife/PE - CEP 50010-928
+
+Assunto: Solicitação de informações — Requerimento nº 446/2021-CPIPANDEMIA / Oficio nº 669/2021 - CPIPANDEMIA
+
+Excelentíssimo Governador,
+
+Cumprimentando-o cordialmente, em atenção ao Ofício em epígrafe, que solicita subsídios para responder ao
+Requerimento nº 446-CPIPANDEMIA, esta Secretaria Estadual de Saúde (SES/PE) vem expor o que segue.
+
+O Item a) do citado requerimento questiona “qual o valor total recebido de fontes extemas ao orçamento do tesouro
+com destinação específica para combate à pandemia? Detalhar o nome da fonte, a origem do recurso, o valor recebido mês a mês a
+
+partir do início da vigência do decreto que reconhece estado de calamidade pública em razão da pandemia provocada pelo
+Coronavírus SARS-COV-2”.
+
+Preliminarmente, é importante esclarecer que os repasses de Recursos Federais destinados exclusivamente ao
+combate à pandemia do CORONAVÍRUS (COVID-19) ao Estado de Pernambuco foram iniciados a partir de março de 2020, por meio
+da publicação de Portarias no Diário Oficial da União.
+
+Como forma de orientar os entes da Federação quanto à contabilização e ao tratamento fiscal dos recursos recebidos
+e aplicados no enfrentamento do Coronavírus, foi emitida pelo Ministério da Economia a Nota Técnica SEI Nº 12774/2020/ME.
+
+Conforme a Nota Técnica menciona, em seu item 13, há a recomendação da criação de “um detalhamento na
+classificação por fonte de recursos que permita identificar a destinação do recurso ao enfrentamento à pandemia, possibilitando
+também o controle das despesas utilizadas nesse enfrentamento”.
+
+Dessa forma, foram criados, no âmbito do Governo do Estado de Pernambuco, os detalhamentos da fonte 0144 —
+Recursos do SUS Exclusive Convênios- Adm. Direta, conforme códigos a seguir.
+
+Fonte detalhada exclusiva COVID:
+
+. 0144530002 - RECURSOS DESTINADOS AO TRATAMENTO DE CASOS DO CORONAVÍRUS - COVID19;
+. 0144530003 - RECURSOS FUNDO A FUNDO SUS BLOCO INVESTIMENTO PARA COVID19.
+
+Além disso, o Estado de Pernambuco recebeu recursos na forma de auxílio financeiro e em ações de enfrentamento
+ao Coronavírus SARS-CoV-2 (Covid-19) através da Lei Complementar nº 173, de 27 de maio de 2020. A execução das despesas
+ocorreu a partir da Fonte 164 - RECURSOS DA LC 173/2020.
+
+https://sei.pe.gov.br/sei/controlador.php?acao=documento. imprimir web&acao. origem=arvore visualizar&id documento=16688246&infra siste...
+
+1/7
+24/05/2021 SEIIGOVPE - 13923640 - GOVPE - Ofício
+
+Dito isso, encaminhamos a planilha Valores Recebidos - Fontes Externas, Anexo |
+(https://drive.google.com/file/d/1Z2Z23ng78h6g2]50uksyHd1Y Pdeg5SekQ/view?usp=sharing), em atendimento ao item a).
+
+O Item b), por sua vez, indaga “qual o valor total gasto em cada fonte de recurso detalhada no item (a) por item de
+despesa? Detalhar o objeto da despesa, o nome do fornecedor, CNP), órgão que realizou a despesa, o nº do processo licitatório,
+dispensa ou inexigibilidade, conforme o caso, o número da nota de empenho e quantitativos adquiridos unitários e totais”.
+
+Em resposta, encaminhamos a planilha Detalhamento da despesa - Fontes detalhadas, Anexo II
+(https://docs.google. com/spreadsheets/d/1RFyvFSrEAhiXEByFUA4zBntxDCDNW5gPw9ROGVyEl4w/edit?usp=sharing) .
+
+Já o Item c) do requerimento pergunta se “existem programações orçamentárias específicas ou marcadores no
+orçamento que identifiquem tais gastos? Em caso positivo, enviar as informações pertinentes em planilha eletrônica ou PDF”.
+
+Os decretos anuais de programação financeira, para o exercício de 2020, Decreto nº 48.551, de 17 de janeiro de
+2020 e, para o exercício de 2021, o Decreto nº 50.064, de 13 de Janeiro de 2021, estabelecem o atributo de sistema Ficha
+Financeira e em sua composição a Despesa Gerencial com o respectivo Detalhamento como campos marcadores para identificar o
+objeto da despesa orçamentária programada, os quais permeiam, além da Programação Financeira, as etapas de empenhamento,
+liquidação e pagamento.
+
+Oportuno destacar que o Governo de Pernambuco, em 2020, estabeleceu a criação de Despesa Gerencial e
+Detalhamento específicos para o controle da despesa no combate à Pandemia, a saber:
+
+1: Despesa Gerencial: EXECUTIVA / Detalhamento da Despesa Gerencial: CORONAVÍRUS (COVID-19)
+2: Despesa Gerencial: EXECUTIVA / Detalhamento da Despesa Gerencial: SERVIÇO SAÚDE-UPE (COVID-19)
+
+A única exceção do não uso dos marcadores acima descritos foi a utilização do recurso da fonte "0164000000-
+Recursos", da LC 173/2020, art. 5º, Inciso | - Aplicação SUS e SUAS" que foram integralmente aplicados na folha de pagamento dos
+servidores especificamente mobilizados para atuarem no combate ao Covid-19 (grupo de despesa-1) na Secretaria Estadual de
+Saúde, ficando a própria fonte de recurso como marcador.
+
+Por fim, tais informações são de caráter público e podem ser acessadas diretamente no Portal da Transparência do
+Governo de Pemambuco através do endereço (http://web.transparencia.pe.gov.br/fiscalizacao-e-controle%20/covid-19/).
+
+O Item d) requer informações sobre se “os recursos recebidos da União Federal foram mantidos em conta bancária
+separada para melhor controle do seu uso? Envie todas as movimentações bancárias desde o início da pandemia”.
+
+Neste ponto, aduzimos que os recursos recebidos da União foram mantidos em conta única, seguindo o disposto no
+& 1º, inciso Il, Art. 3º da PORTARIA GM/MS N 3.992, DE 28 DE DEZEMBRO DE 2017, que diz que “os recursos que compõem cada
+Bloco de Financiamento serão transferidos, fundo a fundo, de forma regular e automática, em conta corrente específica e única
+para cada Bloco, mantidas em instituições financeiras oficiais federais e movimentadas conforme disposto no Decreto nº 7.507, de
+27 de junho de 2011”.
+
+Em complemento, encaminhamos os extratos bancários na pasta Extratos Bancários, Anexo III (
+https://drive.google.com/drive/folders/12t0fJQTyJQnUCcPs9-X-Pr-DX6PE11ZBc?usp=sharing), especificados por fonte.
+
+O Item e) questiona se “há Demonstrativo do Fluxo de caixa de cada uma das fontes detalhadas no item (a)
+demonstrando entradas, saídas e saldos? Enviar demonstrativo juntamente com os respectivos extratos bancários”.
+
+Esclarecemos que há Demonstrativo do Fluxo de Caixa das fontes detalhadas 0144530002, 0144530003 e
+0164000000 e os mesmos seguem no Anexo IV Fluxo de Caixa - Fontes detalhadas e 0164 LC 173/2020 (
+https://drive.google.com/file/d/12B s6J0Q5Xf9jegmxIfQv33kyod2yAG /view?usp=sharing) .
+
+O Item f) indaga se “algum saldo de alguma das fontes detalhadas no item (a) foi incorporado à conta única do
+tesouro? Especifique”.
+
+Quanto a isto, informamos que não há saldo, de nenhuma fonte detalhada no Item a), que foi incorporado à conta
+única do tesouro.
+
+https://sei.pe.gov. brisei/controlador. php?acao=documento. imprimir web&acao. origem=arvore visualizar&id documento=16688246&infra siste...
+
+ 
+
+217
+24/05/2021 SEIIGOVPE - 13923640 - GOVPE - Ofício
+
+O Item g) requer que se “faça um comparativo entre os valores gastos com recursos do tesouro estadual/municipal
+versus os gastos realizados com recursos de fontes externas, principalmente da União Federal, recebidos exclusivamente para
+aplicação na calamidade pública”.
+
+Face a este item, acostamos planilha comparativa que ilustra a diferença de gastos entre as Fontes Internas — Tesouro
+Estadual e Fontes Externas — Recursos Federais, Anexo VW - Comparativo COVID TESOURO X SUS
+(https://drive.google.com/file/d/1ED73yvtPTncs5Tbg7tEz-LeksQI8-UX/view?usp=sharing).
+
+O Item h) questiona se “foi contratada alguma operação de crédito interna ou externa para obtenção de recursos
+para combate à pandemia? Enviar toda a documentação pertinente”.
+
+Aqui citamos a Operação de Crédito FINISA/Caixa (CT 0495.607-99) e o Acordo de Empréstimo AE-8135-BR celebrado
+junto ao Banco Internacional para a Reconstrução e Desenvolvimento (BIRD) para financiamento do Projeto Pernambuco Rural
+Sustentável (PRS).
+
+o Contrato de financiamento FINISA nº 0495.607-99 (Anexo VILA -
+https: //drive .google.com/file/d/1AjXezQpQM6 ZsxOu4wrAmbwcDWB8aP2w/view?usp=sharing ), assinado entre o Estado de
+Pernambuco e a Caixa Econômica Federal em Dezembro/2017 no valor de R$ 340 milhões, teve seu 1º Termo Aditivo (Anexo VI B -
+https: //drive.google.com/file/d/17tVw8rmQfQvg1 wZn64hD88PrgacyROsD/view?usp=sharing ) assinado em junho de 2019 para
+reorganização do Anexo com as ações elegíveis para recebimento dos recursos.
+
+Em março de 2020 estava em tramitação o 2º Termo Aditivo ao Contrato de financiamento FINISA nº 0495.607-99
+para outra reorganização das ações elegíveis ao recebimento dos recursos (Anexo VIC -
+https://drive.google.com/file/d/1FISUGLSFpmywnXtnGIjkHjBrVEn jCVR/view?usp=sharing ); quando, como esforço para o
+enfrentamento da Pandemia COVID-19, foi solicitada à CAIXA, oportunamente, a inclusão da Ação 4553 (Construção, Ampliação,
+Reforma e Equipagem de Unidades de Saúde), remanejando o montante de R$ 68 milhões oriundos de outras rubricas antes
+existentes no Contrato (Anexo VI. D - https://drive.google.com/file/d/1LIfVYxjA97p33hK-58HKgB6ZXV Heofg/view?usp=sharing ), o
+que foi prontamente enquadrado pela CAIXA (Anexo VI E - https://drive.google.com/file/d/1gB3TROsEi-
+[RR IdtiDVTTWiKnpo3JL-Aiew?usp=sharing ), permitindo o início da execução das despesas.
+
+Tal movimentação se deu no âmbito do aditivo em negociação, para que fosse possível a utilização de recursos da
+operação de crédito - caso necessária a complementação do esforço que o Tesouro estadual já vinha realizando no enfrentamento
+à Pandemia. Dessa forma, o 2º Termo Aditivo ao FINISA (Anexo VLF E
+https://drive.google.com/file/d/10KPESewTY as jviZtHakN7XJ4]rosOW/view?usp=sharing ), que incluiu a Ação 4553 no escopo
+do financiamento, foi assinado em junho de 2020.
+
+Até o momento, para a Ação 4553, foi liberado o valor de R$ 12.917.716,21 e prestado contas R$ 10.598.271,67,
+conforme Planilha de memória de Prestação de Contas (Anexo VI G -
+https://drive. google .com/file/d/1RkflYimcTvhFEITKwmVNAS OwRGmEIfKF/view?usp=sharing ).
+
+Hoje, existe um novo pleito junto à CAIXA (Anexo VIH -
+https://drive.google.com/file/d/1mPYxO7cdkEnvU8ziYKCDp zJAUrXZUOo/view?usp=sharing ) para tramitação de um novo aditivo
+ao contrato, que solicita - dentre outras alterações - a diminuição do valor do financiamento da ação 4553 para o valor liberado de
+R$ 12.917.716,21.
+
+Tal pleito se fundamenta no fato de que o esforço do Tesouro Estadual tem sido suficiente para fazer frente às
+despesas de enfrentamento à pandemia apresentadas, as quais são majoritariamente despesas correntes, não financiáveis por
+operação de crédito.
+
+Já o Acordo de Empréstimo AE-8135-BR (Anexo VI | - https://drive.google.com/file/d/LInMPgPrPnkH-
+
+1CBXIpKRTjSrBktrklYd/view?usp=sharing )celebrado junto ao Banco Internacional para a Reconstrução e Desenvolvimento (BIRD)
+para financiamento do Projeto Pernambuco Rural Sustentável (PRS) foi assinado em 18 de junho de 2012.
+
+O projeto é vinculado à Secretaria de Desenvolvimento Agrário (SDA) e implementado através do Programa Estadual
+de Apoio ao Pequeno Produtor Rural - ProRural (com uma unidade técnica central localizada em Recife e 11 unidades territoriais). O
+objetivo de desenvolvimento do projeto (Project Development Objective — PDO) é promover iniciativas de negócios rurais e a
+expansão do acesso à água e à infraestrutura complementar em apoio ao arcabouço de gestão por resultados do mutuário. Os
+investimentos e atividades do projeto estão sendo implementados de acordo com os seus componentes, a saber: Componente 1 —
+Inclusão Econômica na Área Rural; Componente 2 — Infraestrutura Rural Complementar; Componente 3 — Gestão, Supervisão,
+Monitoramento e Avaliação do Projeto.
+
+Cabe destacar que após a última reestruturação (ANEXO VI J - https://drive.google.com/file/d/1InMPgPrPnkH-
+1CBXIpKRTjSrBktrklYd /view?usp=sharing ), concluída em junho de 2020, foi acrescentado um novo componente voltado para o
+contingenciamento da COVID-19, o Componente de Resposta Emergencial (Contingent Emergency Response Component — CERC),
+com o objetivo de apoiar Pernambuco a administrar a pandemia e mitigar os efeitos sociais advindos da crise sanitária.
 
   
 
-Notas do Quadro 2: Período dos dados: Mar/20 à Mar/21. A coluna “DESPESA COVID! considera todas as despesas
-realizadas no enfrentamento à Covid com marcadores de “SERVIÇO SAÚDE-UPE (COVID-19)! e “CORONAVÍRUS (COVID-19)* no
-campo de detalhamentos da despesa gerencial de todas as fontes de recursos e com recursos da fonte de recursos “0164000000-
-Recursos da LC 173/2020, Art. 58, Inciso | - Aplicação SUS e SUAS". A coluna “RECEITA DE TRANSF. FEDERAL VINCULADA À COVID
-considera as receitas de transferências da União vinculadas para aplicação no combate à pandemia (SUS — Portarias/Emendas e LC.
-173/2020 - Art.58, Inciso |).
+Os recursos obtidos no escopo do CERC para as ações emergenciais de enfrentamento à pandemia de COVID-19
+foram aplicados na aquisição de equipamentos médicos hospitalares (EMHs) e equipamentos de proteção individual (EPIs), não
+havendo contração de serviços de terceiros, contratação de OSS ou contração de pessoal com esses recursos. Encaminhamos o
+Mapa de Aquisição e Distribuicao COVID EMH e EPIs (ANEXO VI K -
+https://drive.google.com/file/d/1H3vPeGOR7 mkOVMY2hStCjs8QeOMSI10I/view?usp=sharing ).
 
-Neste Ínterim, tendo prestado as Informações pertinentes sobre o que lhe foi solicitado, esta Secretaria Estadual de
-Saúde se mantém à disposição para prestar os esclarecimentos ulterlores que se fizerem necessários e, na oportunidade, renova
+https://sei.pe.gov. br/sei/controlador. php?acao=documento. imprimir web&acao. origem=arvore visualizar&id documento=16688246&infra siste...
+
+ 
+
+3/7
+24/05/2021 SEIIGOVPE - 13923640 - GOVPE - Ofício
+
+O Item i) indaga se “foi firmado algum termo de cooperação ou acordo com alguma instituição nacional ou
+internacional para combate à COVID-19? Algum tipo de benefício pecuniário ou vantagem de qualquer natureza estão contidas no
+documento? Envie a documentação pertinente”.
+
+Quanto a este item, informamos que há o 106º Termo de Cooperação Técnica que foi assinado em 03 de setembro
+de 2019, entre a União Federal por intermédio do Ministério da Saúde (MS), o Estado de Pernambuco por Intermédio da Secretaria
+Estadual de Saúde (SES-PE) e a Organização Pan-Americana da Saúde/ Organização Mundial da Saúde (OPAS/OMS), com o objeto
+de firmar Cooperação Técnica entre a Secretaria, a Organização e o Ministério para o desenvolvimento das atividades do projeto
+“Qualificação do Modelo de Atenção à Saúde do Estado de Pemambuco”, com vigência de 5 (cinco) anos, contados a partir da
+assinatura.
+
+Em conjunto ao Termo de Cooperação Técnica 106, foi celebrado entre a Organização Pan-Americana da
+Saúde/Organização Mundial da Saúde, a Secretaria Estadual de Saúde de Pernambuco e o Ministério da Saúde, o 1º Termo de
+Ajuste ao TC 106º com o objetivo de inserção de metas e recursos ao Termo de Cooperação Técnica nº106, firmado entre as partes,
+para o desenvolvimento das atividades do projeto, assinado em 03 de setembro de 2019, com vigência a partir desta, limitada à
+vigência do Termo de Cooperação Técnica a que está vinculado.
+
+Considerando a Lei federal nº 13.979 de 6 de fevereiro de 2020, que dispõe sobre as medidas para enfrentamento da
+emergência de saúde pública de importância internacional decorrente do Coronavírus responsável pelo surto de 2019 e o Decreto
+do Executivo nº 48.833/2020 que declara a situação anormal, caracterizada como “Estado de Calamidade Pública”, no âmbito do
+Estado de Pernambuco, em virtude da emergência de saúde pública de importância intemacional decorrente do Coronavírus, foram
+tomadas providências para ampliar as ações no âmbito do combate à pandemia em Pernambuco.
+
+Ante o exposto acima, foi celebrado entre a Organização Pan-Americana da Saúde/Organização Mundial da Saúde, a
+Secretaria Estadual de Saúde de Pernambuco e o Ministério da Saúde, o 1º Termo de Rerratificação ao 1º Termo de Ajuste ao 106º
+Termo de Cooperação Técnica, assinado em 08 de outubro de 2020, com o objetivo de inserir metas e ampliar os recursos
+necessários à garantia da Cooperação Técnica entre a Secretaria, a Organização e o Ministério para o desenvolvimento das
+atividades do projeto vinculado ao presente termo, ajustar o plano de trabalho do 1º Termo de Ajuste (Anexo VII -
+
+https://drive.google.com/drive/folders/103jdREc03Cv8039zwmiDmrBBuXPHky1m?usp=sharing ) e retificar o CNPJ da SES/PE na
+documentação legal do 1º TA e do TC 106.
+
+O 1º Termo de Rerratificação teve por objeto atualizar o Plano de Trabalho do Termo de Ajuste, no que tange à
+ampliação dos valores destinados aos Resultados Esperados e sua distribuição por elemento de despesa. Além disso, acrescentar
+novas ações relativas ao enfrentamento do Coronavírus ao Resultado Esperado 3, alterando sua descrição para: Capacidade
+institucional de análise e gestão da informação e de resposta às emergências em saúde pública fortalecidas.
+
+Dentro do Resultado Esperado 3, foram desenvolvidas ações de pesquisa, diagnóstico, monitoramento,
+planejamento e ações de intervenções com visitas técnicas e construção de relatório de monitoramento para enfrentamento a
+COVID-19, no Estado de Pemambuco, dentre elas foram desenvolvidas no arquipélago de Fernando de Noronha, através da
+coordenação das ações de enfrentamento da COVID-19 e o estudo de Coorte “Incidência e Prevalência da Covid-19 no Arquipélago
+de Fernando de Noronha”, em que realizou-se 5 (cinco) fases para o monitoramento da incidência e prevalência da COVID-19 (a
+quinta fase em andamento neste momento), tendo em vista se tratar da única ilha oceânica brasileira, a qual dista mais de 500 km
+da costa, com ausência de unidades de alta complexidade e que há necessidade de remoção para Recife de todos os caso de
+gravidade impondo situações de risco para os ilhéus e alto custo para a gestão de saúde, pois cada remoção no salva aéreo sai
+entre 40 e 65 mil reais dependendo da modalidade de resgate.
+
+  
+
+Desde o início da pandemia, a equipe do Termo de Cooperação junto com a administração da ilha vem discutindo as
+estratégias para enfrentamento na perspectiva de compreender a situação epidemiológica e na definição das medidas de controle
+efetivo da Covid-19 adotadas em Fernando de Noronha.
+
+A pesquisa, em suas 5 (cinco) fases, fez o estudo da Incidência e prevalência através do exame RT-PCR e dosagem da
+presença de anticorpos pelo exame sorológico de 900 moradores da ilha e aplicação de questionários, tornando-se o único estudo
+do tipo coorte com amostra populacional em curso no Brasil.
+
+Essa atuação do 106º TC OPAS/SES-PE foi importante para concluirmos o ano de 2020 com apenas uma remoção
+aérea e nenhum óbito por COVID-19 no Arquipélago de Fernando de Noronha. Além do desenvolvimento e confecção de todos os
+protocolos que foram estabelecidos ao longo de 2020, visando a reabertura da ilha para o retorno dos moradores após o período
+de lockdown e o reinício das atividades de turismo a partir de outubro de 2020, atividade essa que é a vocação natural da ilha e
+atividade econômica principal de seus moradores, mas que essa reabertura necessitava de protocolos e acompanhamento do
+controle da doença, durante o seu início e desdobramentos, o que foi devidamente realizado pelo 106º TC OPAS/SES-PE.
+
+Através do 1º Termo de ajuste e do seu 1º Termo de Rerratificação, foram alocados para o desenvolvimento das
+ações de qualificação do modelo de atenção à saúde do estado de Pernambuco recursos totais da ordem de R$ 6.100.000,00 que
+ainda estão em execução. Tendo sido executados com as ações da COVID-19 no Estado de Pernambuco pelo 106º TC, até o
+presente momento, o total de R$ 688.497,13, recursos totalmente provenientes do tesouro estadual.
+
+Ressaltamos que não houve aporte para o 106º Termo de Cooperação de recursos financeiros, de qualquer monta
+oriundos da rubrica federal, para o combate à COVID-19.
+i) Houve doações em dinheiro ou de material ou mesmo cessão de uso de bens móveis ou imóveis? Especifique;
+
+https://sei.pe.gov.br/sei/controlador.php?acao=documento. imprimir web&acao. origem=arvore visualizar&id documento=16688246&infra siste... 4/7
+
+ 
+24/05/2021 SEIIGOVPE - 13923640 - GOVPE - Ofício
+
+Atinente a este questionamento, ressaltamos que, nos primeiros meses do ano de 2021, o Estado de Pernambuco
+recebeu o quantitativo de 60.000 unidades de testes rápidos de antígeno (Ag-TDRs) para COVID-19, doados pela OPAS, as quais
+foram distribuídas às unidades hospitalares da rede estadual, para utilização em pacientes sintomáticos que necessitavam do
+diagnóstico de COVID-19, ou sua exclusão, para tomada de decisão oportuna, como por exemplo a definição de conduta médica ou
+de tipo de leito para internação. Foi recebido também 2.496 testes rápidos in vitro. Posteriormente, o Estado recebeu outra
+doação da OPAS, com o quantitativo de mais 5.000 unidades dos referidos testes, entregues ao Distrito Estadual de Fernando de
+Noronha
+
+Informamos também, o recebimento de 17.240 kits (cada um com 20 reações) de testes rápido sorológico enviados
+pelo Ministério da Saúde, e 886 kits (cada um com 10 testes) rápido antígeno (IGM/IGG) da EBRAM Produtos Laboratoriais,
+conforme consta no histórico de recebimentos da ALCLOG.
+
+Acrescentando a estas doações, indicamos ainda que, em parceria com a entidade sem fins lucrativos Porto Social,
+foi lançada a Campanha PE SOLIDÁRIO, em 25/03/2020, buscando arrecadar doações e custear de forma célere bens, insumos e
+serviços para atender a rede pública de saúde e auxiliar pessoas em situação de vulnerabilidade, no combate à disseminação do
+Coronavírus no Estado de Pernambuco.
+
+Ainda, encaminhamos os comprovantes de recebimento das doações de Testes Rápidos feitas pela empresa
+UNILEVER, o registro das doações recebidas de donativos e o mapa geral histórico de recebimento de itens, com a identificação dos
+doadores que permitiram a identificação (os doadores que não permitiram, estão apontados como SES/PE ou Secretaria Estadual
+de Saúde de Pernambuco no campo correspondente).
+
+Por fim, toda a documentação pertinente a este item está na pasta Anexo VII] Doações -
+https://drive.google.com/drive/folders/16vIGbm7zn502Lgwv6uTGSOm-uAj7CVnz?usp=sharing., a fim de comprovar o que está
+sendo narrado.
+
+O Item k) requer “quais Leis foram aprovadas ou decretos foram expedidos contendo medidas de ordem econômico-
+financeira durante a pandemia, como reparcelamento de dívidas e renúncia de receita? Envie a publicação destes normativos e as
+informações quantitativas sobre esses dados, com o respectivo impacto nas contas públicas”.
+
+Atinente a este ponto, destacamos as seguintes legislações aprovadas contendo medidas de ordem econômico-
+financeira durante a pandemia: Lei Complementar Nº 424, de 23 de março de 2020; Lei Complementar Nº 436, de 9 de novembro
+de 2020; Lei Complementar Nº 440, de 10 de dezembro de 2020; Lei Complementar Nº 448, de 26 de março de 2021; Lei
+Complementar Nº 449, de 26 de março de 2021 e Lei Complementar Nº 451, de 23 de abril de 2021, com as devidas
+considerações.
+
+1. Lei Complementar Nº 424, de 23 de março de 2020
+
+A primeira alteração feita pelo Estado de Pemambuco em relação ao Programa Especial de Recuperação de Créditos
+Tributários — PERC, foi com a publicação da Lei Complementar 424, de 23 de março de 2020 — LC 424/20, que alterou a LC 393/18,
+onde prorroga o fato gerador da infração do período de 31 de março de 2019 para 31 de julho de 2019 e alterou também o início
+do recolhimento que antes era até o dia do 30 de novembro de 2019 para 30 de abril de 2020.
+
+A LC 393/18 tinha um objetivo pontual onde alcançava somente o crédito tributário originado do estorno do
+benefício fiscal do crédito presumido, decorrente da penalidade pela prática de condutas que importavam na impossibilidade de
+utilização dos incentivos previstos nos seguintes programas: PRODEPE, instituído através da Lei nº 11.675, de 11 de outubro de
+1999, e Comércio Atacadista - Alimentos, Materiais de Limpeza, Higiene Pessoal e outros, instituído através da Lei nº 14.721, de 4
+de julho de 2012.
+
+2. Lei Complementar Nº 436, de 9 de novembro de 2020
+
+Na sequência, publicamos a LC 436, de 09 de novembro de 2020, onde altera a Lei Complementar nº 362, de 22 de
+junho de 2017. Com esta alteração, excetuamos a vedação à concessão de um novo PERC amplo, durante um período de 10 (dez)
+anos, quando motivado por estado de calamidade pública declarado pelo Estado de Pernambuco em decorrência da pandemia da
+Covid-19.
+
+3. Lei Complementar Nº 440, de 10 de dezembro de 2020
+
+Após a publicação da LC 436/20, o estado de Pernambuco publicou a LC 440, de 10 de dezembro de 2020, para
+redução de multa e juros de crédito tributário relativo ao ICMS, cujo fato gerador tenha ocorrido no período de março a junho de
+2020, e restabelecimento de parcelamentos perdidos relativos ao ICMS e ao IPVA e reparcelamento de parcelamento perdido
+relativo ao ICD com parcela vencida no período de 1º de abril a 31 de julho de 2020.
+
+ 
+
+https://sei. pe.gov.br/sei/controlador.php?acao=documento. imprimir web&acao. origem=arvore visualizar&id documento=16688246&infra siste...
+
+517
+24/05/2021 SEIIGOVPE - 13923640 - GOVPE - Ofício
+
+4. Lei Complementar Nº 448, de 26 de março de 2021
+
+A Lei Complementar 448, de 26/03/2021, concedeu remissão e anistia de créditos tributários referentes ao ICMS nas
+operações com oxigênio medicinal, referentes aos fatos geradores ocorridos no período de 1º a 27 de janeiro de 2021.
+
+Não se trata de uma dispensa comum de créditos tributários. Na realidade, a referida Lei Complementar é uma das
+etapas de desoneração previstas para as operações e correspondentes prestações de serviço de transporte com o produto oxigênio
+medicinal, realizadas em razão da situação de emergência de saúde pública de importância internacional, decorrente do
+coronavírus, e autorizada pelo Convênio ICMS 2/2021, de 21 de janeiro de 2021.
+
+5. Lei Complementar Nº 449, de 26 de março de 2021
+
+A LC 449/21 concedeu redução de multa e juros relativos ao crédito tributário do ICMS, constituído ou não, cujo fato
+gerador tenha ocorrido até 31 de agosto de 2020, nos termos do Convênio ICMS 87/2020.
+
+6. Lei Complementar Nº 451, de 23 de abril de 2021
+
+A LC 451/21, concedeu redução de multa e juros de crédito tributário e parcelamento, relativos ao ICMS devido por
+estabelecimento benefi jo do Proind, referente ao valor de recolhimento mínimo anual para o ano de 2020, vencido em 31 de
+janeiro ou em 5 de fevereiro de 2021.
+
+ 
+
+A íntegra das publicações encontra-se na pasta Anexo IX Leis -
+https://drive.google.com/drive/folders/106)KcWiUwWhzp1iVDzsXP-iMNS2nQHD7?usp=sharing .
+
+1) Em qual medida as transferências recebidas da União Federal à título de combate à pandemia aliviaram a
+frustração de receitas nesse período? O Enviar planilha evidenciando o di it ou superávit na conta única do tesouro decorrente
+da participação dos recursos transferidos;
+
+ 
+
+As receitas transferidas pela União para Pernambuco a título de combate à pandemia objetivando, especificamente,
+aliviar as frustrações das receitas estaduais se configuraram insuficientes.
+
+O Quadro 1 demonstra a comparação da receita prevista e realizada em 2020 de ICMS e de FPE, principais receitas
+estaduais que correspondem a 86,91% da Receita Corrente Líquida. No demonstrativo, evidencia-se que as receitas transferidas
+pela União referidas no requerimento - coluna “AUXÍLIO FEDERAL (B)” — foram inferiores à frustração das receitas em destaque —
+coluna “VARIAÇÃO 2020 PREVISÃO LOA X REALIZADA (A)”, resultando em um déficit de R$66,45 milhões.
+
+Na mesma direção, o Quadro 2 sinaliza que as receitas transferidas pela União para Pernambuco a título de combate
+à pandemia exclusivas para aplicação no enfrentamento se demonstraram insuficientes para cobrir todas as despesas realizadas
+pelo Estado. O gasto foi 52,3% maior do que as receitas recebidas, apontando uma necessidade de aporte adicional de recursos
+estaduais na ordem de R$ 486,9 milhões.
+
+Quadro 1: Receita Prevista para 2020 em comparação à Receita Realizada 2020.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VARIAÇÃO
+
+E 2020 (D)/
+
+VARIAÇÃO 2020 E E
+RECEITA | PREVISÃO LOA 2020 | REALIZADA 2020 (0) | previsão LOAX | PREVISÃO | AUXÍLIO FEDERAL | capo (A.B) REL
+REALIZADA (A) LOAX (8) 2020
+REALIZADA (%)
+
+(%)
+
+ICMS | R$18.407.864.400,00 | R$17.277.441.458,30 | |. 410 45204170] 914% | R$1.077.577.764,32 | quo 945.177,38 || 0343%
+FPE | R$6.896.151.100,00 | R$6.395.842.839,00 |) -R$500.308.261,00 |) 7,25% | R$486.704:734,56 | 111. 03.526,44 || 2348%
+TOTAL | R$25.304,015,500,00 | R$23,673.284.297,30 | 1, (.5 75, 202,70| “944% | R$1.564282498,88 | 1 o 703 92 |) 8591%
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notas do Quadro 1: Valores das receitas previstas e realizadas foram extraídas do Balanço Geral do Estado de
+Pemambuco. Foram considerados apenas os valores de livre aplicação (LC 173/2020 - Art. 58, II, "a") e a compensação do FPE (Lei
+14.041/2020), pois eles tiveram o propósito de compensar frustrações de receitas. Os valores vinculados ao COVID não foram
+considerados, pois foram integralmente utilizados nas despesas relacionadas ao enfrentamento da pandemia (Art. 5º, |, "a" da LC
+173/2020, Receitas do SUS - Portarias e Emendas).
+
+https://sei.pe.gov. brisei/controlador. php?acao=documento. imprimir web&acao. origem=arvore visualizar&id documento=16688246&infra siste...
+
+ 
+
+6/7
+24/05/2021 SEI/GOVPE - 13923640 - GOVPE - Ofício
+
+Quadro 2: Despesas com enfrentamento à pandemia em comparação aos recursos recebidos a título de auxílio federal vinculados com o
+combate à pandemia.
+
+DESPESAS COVID || RECEITA AUX. FEDERAL VINCULADA À COVID SALDO
+R$1.417.485.245,20 | R$930.616.211,80 -R$486.869.033,40
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notas do Quadro 2: Período dos dados: Mar/20 a Mar/21. A coluna “DESPESA COVID” considera todas as despesas
+realizadas no enfrentamento à Covid com marcadores de “SERVIÇO SAÚDE-UPE (COVID-19)” e “CORONAVÍRUS (COVID-19)” no
+campo de detalhamentos da despesa gerencial de todas as fontes de recursos e com recursos da fonte de recursos “0164000000-
+Recursos da LC 173/2020, Art. 5º, Inciso | - Aplicação SUS e SUAS”. A coluna “RECEITA DE TRANSF. FEDERAL VINCULADA À COVID”
+considera as receitas de transferências da União vinculadas para aplicação no combate à pandemia (SUS — Portarias/Emendas e LC
+173/2020- Art.5£, Inciso |).
+
+Neste ínterim, tendo prestado as informações pertinentes sobre o que lhe foi solicitado, esta Secretaria Estadual de
+Saúde se mantém à disposição para prestar os esclarecimentos ulteriores que se fizerem necessários e, na oportunidade, renova
 protestos de elevada consideração.
 
 Cordialmente,
@@ -28,35 +543,25 @@ André Longo Araújo de Melo
 Secretário Estadual de Saúde de Pernambuco
 SES/PE
 
-   
-  
- 
+——
+seil =
+sumas
 
 Documento assinado eletronicamente por Andre Longo Araujo de Melo, em 24/05/2021, às 22:04, conforme horário oficial de
 Recife, com fundamento no art. 108, do Decreto nº 45.157, de 23 de outubro de 2017.
 
-são
+   
+   
 
-  
+[E]
 
- 
+& A autenticidade deste documento pode ser conferida no site http://sei.pe.pov.br/sei/controlador externo.php?
+acao=documento conferir&id orgao acesso externo=0, informando o código verificador 13923640 e o código CRC 0E536581.
 
- 
-
-PE êat A autenticidade deste documento pode ser conferida no site htin://seine.gov.br/sei/controlador externoghp?
-Se locumento conferrBid orgoo acesso extemo=0 informando o código verificador 13923640 e o código CRC 0E536581
-jo
 SECRETARIA ESTADUAL DE SAÚDE DE PERNAMBUCO
+Rua Dona Maria Augusta Nogueira, 519, - Bairro Bongi, Recife/PE - CEP 50751-530, Telefone: (81)3184-0000
 
-Rua Dona Maria Augusta Nogueira, 519, - Balrro Bong), Recife/PE - CEP 50751-530, Telefone: (81)3184-0000
-
- 
-
- 
+https://sei. pe.gov.br/sei/controlador php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=16688246&infra siste... 7/7
 
  
-
-Htips/iseipe.gov.briseicontralador php?acao=documento, imprimir. vebBacao. origem-arvore. visualizarêid documento=166882468inira siste.
-
-m
 

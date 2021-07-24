@@ -1,58 +1,669 @@
-ESTADO DE SANTA CATARINA
-SECRETARIA DE ESTADO DA SAÚDE .
-COORDENAÇÃO DO FUNDO ESTADUAL DE SAÚDE
+   
+
+Mar ESTADO DE SANTA CATARINA |
+Rg SECRETARIA DE ESTADO DA SAÚDE o
+E COORDENAÇÃO DO FUNDO ESTADUAL DE SAÚDE
+
+INFORMAÇÃO COFES nº 027/2021 Florianópolis, 18 de maio de 2021
+
+Referência: SES 72451/2021. Lista de todos os
+pagamentos efetuados pela Secretaria de
+Estado da Saúde de Santa Catarina com
+recursos federais relacionados com o combate
+a COVID-19. Instruções para manuseio e
+consulta dos dados em planilha eletrônica.
+
+Tratam-se de diversas solicitações advindas da Comissão Parlamentar de Inquérito
+instaurada pelo Senado Federal com os objetivos de investigar e apurar supostas omissões e
+irregularidades cometidas no combate a pandemia do coronavírus.
+
+Dentre os questionamentos formulados, têm-se o pedido de informações acerca da
+destinação dada, pelo Governo do Estado, aos recursos federais que recebeu a partir do início da
+pandemia, até o momento.
+
+Pois bem. A princípio, esclarece-se que pela grande quantidade de pagamentos
+executados, seria inviável anexar todos os documentos relativos a todos os pagamentos em um
+único só arquivo, especialmente nos prazos que são, ffequentemente, impostos. Desta maneira,
+compilou-se todos os dados dos pagamentos efetuados no complemento 515 (que identifica todas
+as despesas realizadas em função do coronavírus), separando, posteriormente, as fontes de
+recursos federais, listando-as por completo em planilha eletrônica devidamente formatada para
+melhor compreensão e manuseio.
+
+E
+5
+g
+s
+>
+5
+Zz
+ú
+9
+2
+$
+o
+o
+8
+q
+2
+S
+5
+8
+s
+a
+tú
+&
+8
+g
+g
+5
+o
+o
+E
 
  
 
- 
+A partir desta planilha, pode-se ter uma visão geral de cada pagamento, ordenando-o
+conforme a preferência. Posteriormente, com base nos dados disponibilizados, pode-se realizar
+consulta pública no Portal da Transparência do Poder Executivo de Santa Catarina ou no Sistema
+de Gestão de Processos Eletrônicos, mantido pela Secretaria de Estado da Administração.
 
-* Documento Não Conversível
+Nestes locais, poderão ser verificados os processos e notas de empenho e de
+pagamento, constando neles todas as demais informações relativas, como: o contrato, as
+movimentações de todos os processos em si, incluindo a identificação dos servidores que as
+fizeram e o inteiro teor delas, as notas de empenho, as notas fiscais e demais títulos, as notas de
+liquidação e as ordens bancárias, etc.
 
- 
+sgpe.sea.sc.gov.br/portal-externo e i
 
-€ 5 € à peeseesescamçpeol esmefrecenei idade 44 1 netos
-AMENEOS-REIcATIVOS AO ENFRENTAMENTO A PANDEMIA DE
-CORONAVI ID-19) FEITOS PELA SES EM FONTES DE RECURSOS FEDERAIS -
-» ems ope ATÉ 10-05-2005 —
+o
+5
+q
 
- 
+o
+8
+e
+s
+s
+2
+o
+8
+q
+o
+8
+g
+8
+a
+5
+s
+S
+£
+a
+dá
+e
+B
+5
+2
+a
+2
+E
+2
+E
+5
+8
+Ss
+8
+Y
+16
+q
+8
+8
+q
+18
+S
+3
+E
+5
+q
+ty
+Zz
+ú
+E
+S
+s
+£
+g
+<
+z
+<
 
- 
- 
-  
+O
+E
+<
+à
+<
+o
 
-Nometdó'átquivo: PAGAMENTOS RELATIVOS AO ENERENTAMENTO A PANDEMIA DE
-CORONAVÍRUS4LQMID-19) FETOSPELA SES EMFÔNTES.DE RECURSOS FEDERAIS avi -
-Sua mATÉ 10.05.2021 x18x,
+ã
+o
+8
+P
+a
+g
+%
+E
+>
+a
 
- 
+     
 
- 
+Para realizar esta consulta no Sistema de Gestão de Processos Eletrônicos, preparou-se
+breve manual, o qual segue em anexo, com o passo a passo.
 
-9 corterenci de documentos [on Ta cap bro na ee
-E Entrar ENIO erNTB/05/2021.
-O aum E semeines Ur
-
-  
-
-    
-
-Bye
-
- 
-
-HEE===
-
-Figura 3 — Visualização da aba "Documentos” do processo SES 43128/2020. No caso, está se
-conforme nome da peça selecionada. Pode-se navegar pelas “Peças”, com a visualização de ca
-conforme a imagem. Também constam os botões de impressão e download no canto
-
-vreve manuai, O quai segue em anexo, com o passo a passo.
 Respeitosamente,
+
+ 
+
+nico e foi assinado utilizando Assinatui
+pressa, acesse o si
+
+ar a autenticidade desta cópia ii
 
 Cláudia Patrícia Magina Gimenes
 Coordenadora do Fundo Estadual de Saúde
 
-O original desto documento é eletrônico e foi assinado utilzandt
-Para verificar a autenticidade desta cópia impressa, acesso o si
+ 
+
+s
+õ
+o
+£
+E
+5
+E
+3
+3
+8
+8
+2
+%
+8
+
+   
+  
+
+ 
+
+deêt. ESTADO DE SANTA CATARINA .
+fSE SECRETARIA DE ESTADO DA SAÚDE
+
+COORDENAÇÃO DO FUNDO ESTADUAL DE SAÚDE
+
+ANEXO DA INFORMAÇÃO COFES nº 027/2021
+
+1) Ao abrir a planilha eletrônica, será exibida a lista de todos os pagamentos feitos pela Secretaria de Estado da Saúde de
+Santa Catarina relacionados com o enfrentamento a pandemia de coronavírus, nos quais foram utilizados recursos federais.
+Para o presente exemplo, estará se utilizando o Microsoft Excel 2016, porém, há plena compatibilidade com versões mais
+antigas ou com os editores de planilhas eletrônicas da suíte Libre Office e BrOffice.
+
+2) As colunas exibidas serão as seguintes, na ordem em que se apresentam na planilha da esquerda para a direita:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[o uÃ
+Coluna a , ê ê » »
+coluna Descrição resumida de seu significado e das informações que nela se encontrarão
+Nº Indica o número do documento denominado “Preparação de Pagamento" gerada no Sistema Integrado de Gestão e
+A Pagament | Planejamento Fiscal (SIGEF), o programa utilizado no âmbito do Poder Executivo Estadual para toda a execução
+o financeira.
+Obs do
+B Pagament | O texto que foi escrito no campo “Observações” da Preparação de Pagamento, pelo servidor que a gerou. Costuma
+o trazer informações básicas sobre o que está sendo pago a partir dali.
+c Data do
+Pgto A data em que o pagamento foi realizado.
+Nº
+D Empenho | O número da nota de empenho emitida em favor do credor relativa a despesa, conforme art.61 da Lei 4.620/1964.
+E Histdo |O texto que foi escrito no campo “Histórico” da Nota de Empenho, pelo servidor que o gerou. Costuma trazer
+Empenho | informações básicas sobre o que está sendo empenhado.
+Nº
+F Processo | O número do processo gerado no Sistema de Gestão de Processos Eletrônicos (SGPe) onde se deu o empenho.
+EMPENH | Costuma ser o mesmo processo onde ocorreu toda a contratação. Dentro do processo, estará disponível inclusive a
+o nota de empenho, podendo ser visualizada na íntegra diretamente no navegador ou baixada a partir dali.
+Nº da O número da nota de liquidação, feita conforme o art. 63 da Lei 4.320/1964. A partir dela é feita a Preparação de
+G Liquidaçã | Pagamento, o último estágio antes da efetiva transmissão do pagamento, com a remessa da Ordem Bancária à
+o instituição financeira.
+Obs da
+H Liquidaçã | O texto que foi escrito no campo “Observações” da Nota de Liquidação, pelo servidor que a gerou. Costuma trazer
+o informações básicas sobre o que está sendo liquidado e será pago
+
+ 
+
+ 
+
+ 
+
+|sguo soa seg belpartal.axtamo a informa a processo SES 00072451/2021 o código ENQUATSM.
+
+     
+
+a Digital SGP-o por CLÁUDIA PATRÍCIA MAGINA GIMENES am 18/05/2021 às 15:51:09, conforma Dacrato Estadual nº 49, do 21 da loverciro da 2019.
+
+a autanticidado
+
+  
+
+O iginal dasto dacumanto é
+
+q
+q
+  
+
+sad
+
+ 
+
+ 
+
+ESTADO DE SANTA CATARINA |
+SECRETARIA DE ESTADO DA SAUDE ,
+COORDENAÇÃO DO FUNDO ESTADUAL DE SAUDE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O número do processo gerado no Sistema de Gestão de Processos Eletrônicos (SGPe) onde se deu o pagamento.
+Nº É nele que estará a nota fiscal ou o título emitido pelo credor, relativo ao serviço ou fornecimento prestado, a
+Processo | certificação de despesa e o ateste pelo gestor ou fiscal do contrato, a nota de liquidação, a preparação de
+PGTO pagamento e a ordem bancária, que consagra o pagamento em si.
+Nº da
+J Ordem
+Bancária | O número da Ordem Bancária por qual se deu o pagamento identificado na linha correspondente.
+K Valor
+Pago (R$) | O valor líquido efetivamente pago ao credor, sempre mostrado em Reais (R$).
+Fonte de |A fonte de recursos em que se deu o empenho e pagamento. No caso, todas as fontes indicadas comportam
+Recursos | recursos advindos da União.
+M CNPJ O número da inscrição no Cadastro Nacional de Pessoas Jurídicas da pessoa para qual o empenho e pagamento
+Credor | destinaram-se.
+Razão
+N Social
+Credor |A razão social ou nome da pessoa para qual o empenho e pagamento destinaram-se.
+
+ 
+
+ 
+
+3) Considerando todas as definições expostas no Item 2, passa-se a detalhar os passos a serem tomados para caso se deseje
+verificar, na íntegra, os documentos de um pagamento efetuado.
+
+3.1 — Manuseio da planilha
+
+Ao abrir a planilha, recomenda-se que a primeira ação a ser realizada pelo usuário seja expandir a “Barra de fórmulas”,
+clicando na seta para baixo no canto direito. Desta forma, ao clicar-se em uma célula, será possível ler nesse campo todo o
+seu conteúdo. Isso se faz necessário pois os campos de histórico e observações dos empenhos, notas de liquidação e
+preparação de pagamentos possuem muita informação, e se ela fosse exibida inteira na célula, a formatação e o manuseio
+seriam prejudicados. Vide exemplo na figura 1:
+
+ 
+
+|sguo soa seg belpartal.axtamo a informa a processo SES 00072451/2021 o código ENQUATSM.
+
+   
+
+a Digital SGP-o por CLÁUDIA PATRÍCIA MAGINA GIMENES am 18/05/2021 às 15:51:09, conforma Dacrato Estadual nº 49, do 21 da loverciro da 2019.
+
+  
+
+O iginal dasto dacumanto é
+
+q
+A
+ESTADO DE SANTA CATARINA |
+SECRETARIA DE ESTADO DA SAUDE ,
+COORDENAÇÃO DO FUNDO ESTADUAL DE SAUDE
+
+ 
+
+E E =] ECOsE
+
+ 
+
+  
+ 
+
+ 
+
+[SIR o E ED (esmas
+Bo em ça E e fal [Er o 4
+fia - x 8 Gueirar Texto funomerizomeme | Geri - E | E x
+Da Era o E IE RE om 27
+cuia NIs-[:. B-A- : E. dg om 66 48 | Fumitação Fama conto Esto de | Irei Buin Fonts Guia Lucia é
+- e “| condicional = Tabela” Cólula o - > - limpar aFilrar Solecinnar =
+doa de Testei 1 ron = Jummamene = name = estes cóção A
++ -[: de || Or 372/2020 - p3t 38645/2020 - REF, AQUISIÇÃO DE MÁSCARA FACIAL SEM VISEIRA P/ GESER - UBS: 2) AQUISIÇÃO REFERENTE AO COVID 19; 2) PAGANIENIO EM 07 (56 1E) DIAS. => O
+e Pe D E E e H , 3
+ESTADO DE SANTA CATARINA
+
+SECRETARIA DE ESTADO DA SAÚDE
+
+PAGAMENTOS RELATIVOS AO ENFRENTAMENTO A PANDEMIA DE CORONAVÍRUS (COVID-19) FEITOS, PELA SES, EM
+
+Última atualização: 10/05/2021
+
+ 
+
+Ab/U8/2020 | 2UONEUI2526 or 3/2/2020 - PSEs SUÍSES 38655/2020
+24/04/2030 [POJONEMANOT7  |[NUARAaAR/o0D0 — [Ses 250342020)
+27/04/2020 |2020NE010077] | |NTAÇ:4518/2020) | [SES23034/2020]
+04/05/2020 2020NE 011120 (AF: 7565/2020 | FjSES 3650/2020)
+06/05/2020/2020NED1007A |NºAF:6699/2020  |ses 35679/2020
+07/05/2020 PODONENIZ58A | [Nº AFTGS1/2070) NÍSES 5872972020
+12/05/2020 |2020NE012526 | |O 572/2020 - PSE5 3dSES 38655/2020]
+A/Us/2020|202ONHVOSS2 [ne No: 0235/2020 PÁSES 33652/2020
+62/06/2020 POONENI2027 | [or Na: 442/2020 DSEjSEs 4289672020
+04/05/2020 [2020NC014753) [CONTRATO Nº 251/20 SES 4450/2020)
+Ub/00/2020 [2U20NEUHAAUI (ar: 030/2020 — p5(5E548797/2020)
+
+UB/06/2020|2020NED1252b [Or 3/2/2020 - b5tS SÍ SES 3865/2020)
+08/06/2020 [2020NEN12526 — [OFaT>/2020) PSESadSEs a8655/2020)
+15/06/2020 |2020NE015265 [CONTORME AT Ne: 10/SES 583552020
+14/00/2020 |UJONEDISS/D [OFA18/2020 - P5ES SÁ SES 54104/2020
+17/05/2020 |2070NEMI206% [OF AnO/2n20= PSES a Ses 5410472020)
+17/05/2020 |2020NEDI3970 | [Or 418/2020 - PSES 34 SES 34104/2020
+17/06/2020 |2020NEDI3978 [OF 426/2020 - PSES 3QSES 34104/2020
+
+creoviD | E
+
+ 
+
+Figura 1 — Após selecionar a célula E9 e clicar na pequena seta circulada em vermelho e apontada na imagem, pode-se
+visualizar seu conteúdo inteiro na barra de fórmulas, não exibido na célula em si.
+
+ 
+
+O original deste documento é eletrônico e foi assinado ublizando Assinatura Digltal SGP-o por CLÁUDIA PATRÍCIA MAGINA GIMENES em 18/05/2021 às 15:51:09, conforme Decieto Estadual nº 29, de 21 de fevereiro de 2015,
+
+Para valicar a autanticidada dasta cópia impressa, acessa o sita hips:lpartalsqpo soa so.gcv bxiportalextarmo a informa o procasso SES 00072451/2021 q a código ENQUS7SM.
+
+q
+q
+ 
+
+Salienta-se que a planilha é extensa também horizontalmente, como se pode ver pela barra de rolagem inferior na Figura 1,
+pelo que se fez necessária a remessa do arquivo em formato de planilha eletrônica, não sendo possível uma conversão
+fidedigna em PDF.
+
+Cada coluna possui um filtro, que pode ser utilizado ao gosto do visualizador. No exemplo da Figura 1, está ativado o filtro na
+coluna C — Data do Pgto, tendo sido feita a ordenação dos pagamentos do mais antigo para o mais recente. Podem-se realizar
+outras filtragens, como, por exemplo, por ordem do Valor pago na coluna K. Ainda, pode-se selecionar a exibição somente de
+algumas linhas que atendam ao conteúdo da coluna filtrada, muito útil para ver somente os pagamentos feitos em um
+determinado ano ou em uma só fonte de recursos, por exemplo.
+
+ 
+
+3.2 — Consultando um processo
+
+Caso, a partir das informações constantes na planilha, verifique-se a necessidade de consultar os documentos propriamente
+ditos — a nota de empenho, a nota fiscal, a nota de liquidação, a ordem bancária, etc — utilizaremos os números de processos
+constantes nas colunas F e |.
+
+ 
+
+A coluna F traz o número do processo de empenho, onde se encontrará a nota de empenho e o instrumento que gerou a
+despesa — o contrato em si, a ordem de fornecimento, a autorização de fornecimento, etc. Tomaremos como exemplo a linha 9
+da Figura 1. O número do processo de empenho é o “SES 38655/2020”.
+
+ 
+
+jl SGP-o por CLÁUDIA PATRÍCIA MAGINA GIMENES am 18/05/2021 às 15:51:09, conforme Decreto Estadual nº 29, da21 da favaraito da 2015.
+
+|sguo soa seg belpartal.axtamo a informa a processo SES 00072451/2021 o código ENQUATSM.
+
+Já no processo de pagamento, encontraremos a nota fiscal ou título emitido pelo credor, a nota de liquidação e a ordem
+bancária. Ainda no exemplo da linha 9, o número do processo de pagamento é o “SES 43128/2020”.
+
+ 
+
+Para que se consultem esses dois processos, os seguintes passos serão adotados:
+a) Acessar o Portal Extemo SGPe, por meio do seguinte link: https://portal. sgpe.sea.sc.gov.br/portal-externo/inicio
+b) Clicar em “Consulta de Processos”, no canto esquerdo do Portal.
+c) Preencher os campos em branco com o número do processo informado. O primeiro campo é preenchido com a sigla -
+nos nossos exemplos, “SES”. O segundo campo é preenchido com o número do processo em si naquele ano, sendo os
+números antes da barra: “38655” e “43128”, respectivamente conforme os exemplos. Por fim, o ano de cadastro do
+
+cuanto é eleránico a foi assinado utlizan
+car a autantcidada desta cópia imprassa, acessa o
+
+ 
+
+ 
+
+ 
+ 
+
+processo, o número após a barra: “2020” em ambos os casos. Então, basta clicar em “Consultar” — os zeros a esquerda
+serão automaticamente preenchidos. (Figura 2)
+
+d) Será aberta uma tela já na aba “Dados Básicos” do processo. Seu número, setor de abertura, informações básicas e
+resumidas sobre seu assunto, as tramitações, dentre outros. Para acessar o processo em si, basta clicar na aba
+“Documentos”.
+
+e) Ao clicar na aba “Documentos”, o usuário acessará a pasta digital, com todos os documentos constantes naquele
+processo. A sua esquerda ficará a lista desses documentos, por ordem cronológica de inserção nos autos. A direita, a
+visualização do documento selecionado. A partir daí, basta navegar pelos documentos acostados, buscando as
+informações desejadas. É possível fazer o download ou mesmo imprimir todo o processo ou somente alguns
+documentos desejados. (Figura 3)
+
+ 
+
+ 
+
+jl SGP-o por CLÁUDIA PATRÍCIA MAGINA GIMENES am 18/05/2021 às 15:51:09, conforme Decreto Estadual nº 29, da21 da favaraito da 2015.
+
+|sguo soa seg belpartal.axtamo a informa a processo SES 00072451/2021 o código ENQUATSM.
+
+ 
+
+car a autantcidada desta cópia imprassa, acessa o
+
+ 
+ESTADO DE SANTA CATARINA |
+SECRETARIA DE ESTADO DA SAUDE ,
+COORDENAÇÃO DO FUNDO ESTADUAL DE SAUDE
+
+ 
+
+E Penal de processos Ciguats-30 x + o = nox
+
+e C 6 podalsgueseasegor bry/portal-ederno/alendimento “0:
+
+Cai INA Portal Externo SGPe
+
+ 
+
+3) Acessar sistema SGPe
+Consulta de Processos
+
+ft Início O SGP.o é uma solução para gerenciamento de processos administrativos em formato digital que permite a autuação o tramitação tanto do processos físicos
+(papel) quanto digitais bem como a inclusão de peças processuais e o gerenciamento de documentos.
+
+| EB consulta de processos Número Dados
+
+É) Conferência de documentos
+
+ 
+
+NºProcesso  SES Q | ooos3128 || zozo
+
+ 
+
+ 
+
+ 
+
+[E Entrar
+
+ 
+
+O ajuda
+
+  
+
+ED > ses messes
+
+Figura 2 — Consulta de processos — preenchimento dos campos antes de clicar em “Consultar”
+
+O original deste documento é eletrônico e foi assinado ublizando Assinatura Digltal SGP-o por CLÁUDIA PATRÍCIA MAGINA GIMENES em 18/05/2021 às 15:51:09, conforme Decieto Estadual nº 29, de 21 de fevereiro de 2015,
+Para valicar a autanticidada dasta cópia impressa, acessa o sita hips:lpartalsqpo soa so.gcv bxiportalextarmo a informa o procasso SES 00072451/2021 q a código ENQUS7SM.
+
+q
+co
+  
+
+ag ESTADO DE SANTA CATARINA
+fe SECRETARIA DE ESTADO DA SAUDE ,
+COORDENAÇÃO DO FUNDO ESTADUAL DE SAUDE
+
+ 
+
+E Ponal de Processos Digitis sc x +
+
+e C 6 pordalsguesmasego tu poral-edermo processo /4dt? 1d Shb-8145-a269-232b Ola sb
+
+ 
+
+CATARINA
+
+3) Acessar sistema SGPe
+
+ff Início
+EB Consulta de processos
+
+É) Conferência de documentos
+
+[E Entrar
+
+O ajuda
+
+SANTASS, portal Externo SGPe
+
+Dados Básicos Documentos
+
+Processo SES 0004342612020
+Peças
+
+TE sepcionartodos
+
+OM) autuação
+OAB cua
+ema n
+OAL DANE
+
+(DOS sicer
+
+(9T]S too0o- ses-ceroRNUNEI para
+
+sesgrarma!
+ES netos
+
+(EIS T0008- SES-GEAFUNLI para
+
+sESSEAF-NCO
+(OT) 2omosmansar
+
+(DM) tomo. ses-gearINcO para
+
+sesgecorcosr
+(DIS Arquivamento
+
+ 
+
+ASSINADO DIGUALNLNIL POR:
+
+  
+
+O CARLOS DRENTANO JUNICR.
+mapa
+
+Gedigo venicacor: HHOKas28 1
+
+D Qtiv) 1%
+
+cameraçao
+
+  
+ 
+
+— + Zoomaomético v
+
+Fortal da Nora Fiscal E strénica - Autarização ce Leo
+
+Serie
+
+Tipo de Emissão
+1- Norma
+
+CNP do Ementa
+62.641. 328;043.77
+
+ 
+
+ 
+
+e Dn/»
+
+Figura 3 — Visualização da aba “Documentos” do processo SES 43128/2020. No caso, está se visualizando o “DANFE”,
+conforme nome da peça selecionada. Pode-se navegar pelas “Peças”, com a visualização de cada uma sendo apresentada
+
+conforme a imagem. Também constam os botões de impressão e download no canto superior direito.
+
+O original deste documento é eletrônico e foi assinado ublizando Assinatura Digltal SGP-o por CLÁUDIA PATRÍCIA MAGINA GIMENES em 18/05/2021 às 15:51:09, conforme Decieto Estadual nº 29, de 21 de fevereiro de 2015,
+Para valicar a autanticidada dasta cópia impressa, acessa o sita hips:lpartalsqpo soa so.gcv bxiportalextarmo a informa o procasso SES 00072451/2021 q a código ENQUS7SM.
+
+q
+o
+Documento Não Conversivel
+
+Descrição: PAGAMENTOS RELATIVOS AO ENFRENTAMENTO A PANDEMIA DE
+CORONAVÍRUS (COVID-19) FEITOS PELA SES EM FONTES DE RECURSOS FEDERAIS -
+ATÉ 10.05.2021.
+
+Nome do arquivo: PAGAMENTOS RELATIVOS AO ENFRENTAMENTO A PANDEMIA DE
+CORONAVÍRUS (COVID-19) FEITOS PELA SES EM FONTES DE RECURSOS FEDERAIS -
+ATÉ 10.05.2021 .xIsx
+
+Emitido em 18/05/2021.
+
+60
 

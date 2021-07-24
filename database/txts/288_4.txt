@@ -1,89 +1,2659 @@
-pares 2094
-. Agência Nacional
+ 
+  
+  
 
-ie de Vigilância Sanitária
-a cesso em: 30 abril 2021
-httns://pebmed, com.brideficiencia-de-vitamina-d-e-covid-19-o-que-na
+GOVERNO DO ESTADO DE MINAS GERAIS
 
-eLigho (O (E [O endprgia
+Secretaria de Estado de Saúde
 
-RUXCOMD
+Nota Técnica nº 5ISESISUBPAS-SAF-CFT/2021
+
+PROCESSO Nº 1320.01.0031308/2021-37
+
+Nota técnica informativa sobre as pesquisas, tratamentos experimentais e o
+horizonte tecnológico do tratamento da COVID-19 (doença provocada pelo
+novo corona vírus SARS-COV-2)
+
+INTRODUÇÃO
+
+Desde o início da pandemia, a comunidade científica mundial têm se
+esforçado para buscar vacinas ou tratamentos mais eficazes para a Covid-19.
+Mediante o atual cenário, a Coordenação de Farmácia, Terapêutica e Cuidado emite
+esta nota acerca das principais pesquisas e tratamentos experimentais para
+tratamento da COVID-19 (doença provocada pelo novo corona vírus SARS-COV-2).
+
+OBJETIVO
+
+Esclarecer e orientar sobre os principais tratamentos
+experimentais e o horizonte tecnológico do tratamento da COVID-19
+(doença provocada pelo novo corona vírus SARS-COV-2), considerando o
+andamento das pesquisas e as recentes publicações científicas.
+
+PRINCIPAIS TESTES CLÍNICOS EM ANDAMENTO REALIZADOS COM
+MEDICAMENTOS PARA TRATAMENTO DE COVID-19 (DOENÇA PROVOCADA
+PELO NOVO CORONA VÍRUS SARS-COV-2)
+
+Os testes clínicos, em geral, dividem-se em quatro fases, nas quais
+ampliam-se gradativamente tanto o número de pacientes quanto a complexidade da
+pesquisa. Dado o longo processo requerido para o desenvolvimento de uma nova
+substância e consequentemente um novo medicamento, a principal estratégia
+adotada por cientistas e instituições de pesquisa para enfrentar a COVID-19 tem sido
+a de testar a eficácia de medicamentos já conhecidos e utilizados para outras
+doenças. Essa estratégia, chamada de reposicionamento de fármacos, tem por
+objetivo reduzir substancialmente o tempo necessário para os ensaios clínicos, assim
+como os custos, dado que essas drogas já foram avaliadas do ponto de vista da sua
+toxicidade e restaria apenas avaliar sua efetividade no combate à COVID-19.
+
+Com base nessas informações, foi realizada busca por revisões
+sistemáticas com o intuito de avaliar os principais tratamentos experimentais para a
+COVID-19 com evidências científicas. As evidências apresentadas a seguir são
+provenientes das bases: PubMed (Medline), The Cochrane Library, Embase e Lilacs.
+Além disso, procedeu-se a pesquisa na base de dados em meio eletrônico da FDA,
+OPAS, NIH, Anvisa, Registro Brasileiro de Ensaios Clínicos (ReBEC) e Ministério da
+Saúde.
+
+1, Dexametasona
+
+Dexametasona é um corticosteroide (esteróide) e possui efeitos anti
+inflamatórios e imunosupressores. O medicamento tem sido usado por muitos anos
+para tratar várias condições de saúde, como doenças autoimunes e reações
+alérgicas.
+
+A Universidade de Oxford divulgou os resultados do estudo realizado no
+Reino Unido randomizado da RECOVERY (Randomised Evaluation of COVID-19
+Therapy). Os dados divulgados indicam que pacientes com COVID-19 sob ventilação
+mecânica podem se beneficiar da terapia com dexametasona. Entretanto, apesar da
+descoberta representar um avanço importante, é preciso cautela. Apenas os
+pacientes sob ventilação mecânica obtiveram ganhos com a terapia. Nos pacientes
+com COVID-19 que não necessitavam de oxigênio, não houve sinais de recuperação
+com o uso do medicamento.
+
+Em suas diretrizes de tratamento para COVID-19, o National Institutes of
+Health recomenda usando apenas dexametasona em pacientes com COVID-19 que
+estejam em um ventilador ou recebendo oxigênio suplementar.
+
+Embora seja uma evidência com potencial robustez metodológica, o uso
+seguro da dexametasona em pacientes com COVID-19 em oxigenoterapia, necessita
+de mais evidências similares.
+
+2. Remdesivir
+
+Remdesivir é um antiviral administrado por perfusão intravenosa (IV). Foi
+demonstrado anteriormente que o medicamento tem algum efeito contra SARS,
+MERS e Ebola em modelos celulares e animais. O fármaco bloqueia a tradução do
+RNA que permite que o Sars-CoV-2 faça cópias de simesmo.
+
+Em um estudo in vitro (estudos realizados em uma placa de Petri ou tubo
+de ensaio em vez de em animais ou humanos), o remdesivir evitou que as células
+humanas fossem infectadas com SARS-CoV-2 (o vírus que causa o COVID-19).
+
+Dados preliminares publicados no The New England Journal of Medicine,
+sugeriram que o medicamento pode reduzir o tempo de recuperação de pessoas
+hospitalzadas com COVID-19 de 15 para 11 dias — isso em comparação com um
+placebo. A taxa de mortalidade no grupo remdesivir (7%) também foi menor do que
+no grupo placebo (12%), embora isso não fosse estatisticamente significativo (o que
+significa que pode ter acontecido por acaso). Os pacientes que precisavam de
+oxigênio viram os maiores benefícios. Embora essas descobertas iniciais apoiem o
+uso de remdesivir para pacientes hospitalizados com COVID-19, estes pesquisadores
+concluíram que o tratamento apenas com remdesivir provavelmente não é suficiente,
+uma vez que apesar de receberem o medicamento não houve uma alteração
+significativa na taxa de mortalidade.
+
+O remdesivir também está sendo estudado em combinação com outros
+medicamentos. Os primeiros resultados relataram que os pacientes com COVID-19
+hospitalzados que receberam remdesivir e baricitinibe se recuperaram cerca de 1 dia
+mais rápido do que aqueles que receberam apenas remdesivir. Os dados completos
+ainda não foram compartilhados.
+
+No entanto, o efeito do remdesivir foi recentemente questionado em um
+artigo não revisado por pares do estudo SOLIDARITY, encabeçado pela Organização
+Mundial da Saúde (OMS). No relatório, entre 405 hospitais em 30 países, 2.750
+adultos foram incluídos em estudos com o remdesivir. O remdesivir e as outras
+drogas testadas não demonstraram uma redução definitiva na mortalidade, de
+acordo com a análise inicial.
+
+O remdesivir foi o primeiro medicamento a obter autorização de
+emergência do FDA (Food and Drug Administration), a agência reguladora dos
+Estados Unidos, para uso no tratamento da COVID-19. Não signífica que o FDA
+aprovou remdesivir para o tratamento da doença, mas foi autorizado para uso
+experimental no tratamento de COVID-19 nos Estados Unidos. A intenção foi tornar
+mais fácil para os médicos obterem remdesivir para pacientes hospitalizados com
+sintomas graves do coronavírus. Em 28 de agosto de 2020, o FDA atualizou e
+permitiu que o remdesivir pudesse ser usado por todos os pacientes hospitalizados
+com COVID-19, não apenas aqueles com sintomas graves.
+
+Em suma, os pesquisadores afirmam que estudos maiores são
+necessários para confirmar os resultados obtidos com remdesivir.
+
+3. Lopinavir /Ritonavir
+
+A combinação de dois antivirais chamados lopinavir e ritonavir é um
+medicamento utilizado para o tratamento do HIV. Estudos in vitro com esses agentes
+antivirais sugerem que eles podem ter alguma atividade contra SARS e MERS
+(infecções causadas por outros coronavírus), uma vez que impediram a replicação
+do vírus. Entretanto, os dados para a utilização com ensaios clínicos deste
+medicamento para tratamento da COVID-19 ainda são limitados.
+
+Em um estudo randomizado com 199 pessoas hospitalzadas com
+COVID-19, não houve diferença entre usar lopinavir / ritonavir e não usá-lo em
+termos de quanto tempo os pacientes apresentaram melhoras. Outro
+pequeno estudo com 127 pessoas com sintomas leves de COVID-19 analisou
+lopinavir / ritonavir sozinho em comparação com lopinavir / ritonavir em combinação
+com interferon beta-lb e ribavirina. Eles descobriram que o grupo que recebeu os
+três medicamentos melhorou mais cedo e eliminou o vírus mais rápido (7 dias) do
+que o grupo que recebeu apenas lopinavir / ritonavir (12 dias).
+
+Em juho, a Organização Mundial da Saúde suspendeu os testes em
+pacientes hospitalzados para COVID-19. Mas, não descartaram estudos para
+avaliarem se o medicamento poderia ajudar pacientes em estado leve ou moderado
+para evitar que fossem hospitalzados ou ainda para evitar a contaminação com o
+vírus.
+
+4. Favipiravir
+
+O favipiravir é um medicamento antiviral aprovado no Japão e na China
+para a influenza. Estudos in vitro demonstraram que altas doses de favipiravir foram
+capazes de impedir que as células humanas fossem infectadas com SARS-CoV-2.
+
+Um estudo publicado no portal ScienceDirect indicou que a droga permite
+uma eliminação viral mais rápida e melhor alteração na imagem do tórax dos
+pacientes.
+
+Dois estudos na China analisaram a eficácia terapêutica do favipiravir em
+comparação com outros antivirais. Em um estudo com 240 pacientes na China com
+sintomas leves de COVID-19, 71% dos pacientes que receberam favipiravir se
+recuperaram após 7 dias, em comparação com 56% que receberam
+umifenovir. Outro pequeno estudo na China analisou 80 pacientes com sintomas
+leves de COVID-19 e viu que o favipiravir ajudou a eliminar o vírus mais rápido do que
+o lopinavir/ritonavir (4 dias contra 11 dias, respectivamente). Os pacientes que
+tomaram favipiravir também mostraram recuperação dos pulmões com base nas
+imagens do tórax. Os primeiros ensaios clínicos nos Estados Unidos para o favipir avir
+foram recentemente aprovados para começar em Boston.
+
+Neste estudo caso-controle, aberto e não randomizado, o favipiravir
+mostrou efeitos de tratamento significativamente melhores na COVID-19 em termos
+de progressão da doença e eliminação viral. Os resultados contribuirão para o
+estabelecimento de diretrizes para o tratamento no combate ao SARS-CoV-2
+
+5. Umifenovir
+
+O umifenovir é um medicamento utilizado para tratamento contra a
+influenza e também está sendo testado para a COVID-19.
+
+Nos testes para uso no tratamento da COVID-19 não foi tão eficaz
+quanto o favipiravir para ajudar na recuperação dos pacientes em um estudo na
+China. Outro estudo com 81 pacientes analisou quanto tempo levou desde o início
+dos sintomas até o teste negativo para o coronavírus, e descobriu que não havia
+diferença entre as pessoas que tomaram umifenovir e as que não o fizeram. No
+entanto, parece ser melhor do que o lopinavir / ritonavir para ajudar os pacientes
+com COVID-19 a eliminar o vírus. Em um pequeno estudo com 50 pessoas, o vírus
+não foi detectado em nenhum paciente que recebeu umifenovir após 14 dias. O vírus
+ainda estava presente em quase metade dos pacientes que receberam lopinavir /
+ritonavir.
+
+A monoterapia com umifenovir não apresenta eficácia para tratamento
+de pacientes com COVID-19. Estudos prospectivos, randomizados e controlados,
+multicêntricos e com maior número de pacientes são necessários para chegarmos a
+conclusões definitivas quanto ao benefício do Umifenovir como monoterpia ou
+associado a outros fármacos na COVID-19.
+
+6. Galidesivir
+
+Galidesivir é um novo medicamento que está sendo desenvolvido para
+uma variedade de infecções virais. Sua atuação inibe o processo de reprodução do
+vírus, e, por isso, está sendo testado em pacientes com ebola, zika, febre amarela e
+o novo coronavírus.
+
+Os ensaios clínicos para galidesivir estão começando no Brasil. O
+medicamento segue em fase de testes e ainda não foi aprovado para uso humano.
+
+7. Tocilizumabe
+
+Tocilzumabe é um medicamento antirreumático modificador da doença
+(DMARD) aprovado para artrite reumatoide e artrite idiopática juvenil (ambas são
+doenças inflamatórias). Ele age bloqueando a interleucina-6 (IL-6), uma proteína
+envolvida em nossas respostas imunológicas naturais. A IL-6 normalmente sinalza a
+outras células para ativar o sistema imunológico, mas ativação excessiva pode
+causar problemas. Um possível problema sério com um sistema imunológico
+hiperativo é uma alta quantidade de citocinas, um problema potencialmente fatal em
+que o sistema imunológico fica descontrolado e a inflamação fica fora de controle,
+também conhecido como tempestade de citocinas.
+
+Com COVID-19, as pessoas podem ter aumento exarcerbado de
+citocinas, pois seus corpos continuam a intensificar o sistema imunológico para lutar
+contra a infecção. Ao bloquear a IL-6, o tocilizumabe ajuda a acalmar o sistema
+imunológico e acredita-se que também ajude a controlar o aumento das citocinas.
+
+Um estudo da França relatou que as pessoas que receberam
+tocilizumabe tinham menor probabilidade em necessitar de ventilação mecânica ou
+irem à óbito. Outro estudo da Itália descobriu que aqueles que receberam
+tocilizumabe tiveram uma taxa de mortalidade mais baixa, embora aproximadamente
+a mesma porcentagem de pacientes de ambos os grupos precisassem de
+ventiladores.
+
+Por outro lado, o tocilizumabe não ajudou os pacientes com COVID-19
+com pneumonia em estágio inicial. Além disso, o estudo de fase 3 Convacta, do
+próprio fabricante, também evidenciou que o tocilizumabe não ajudou em pacientes
+com COVID-19 hospitalizados com pneumonia grave.
+
+Em suma, apenas poucos ensaios clínicos sugerem alguma melhora
+clínica dos pacientes, todavia esses benefícios ainda precisam ser avaliados de forma
+mais criteriosa.
+
+8. Sarilumabe
+
+Sarilumabe, que funciona de forma semelhante ao tocilzumabe, também
+está sendo testado para COVID-19. Os primeiros resultados não foram
+promissores. Eles mostraram que os pacientes com sintomas graves que receberam
+doses de sarilumabe tiveram pior desempenho em comparação com o placebo, mas
+os pacientes que apresentaram sintomas ainda mais graves (críticos) melhoraram em
+comparação com o placebo. Os fabricantes estão agora reduzindo seus estudos
+para incluir apenas pacientes COVID-19 em estado crítico.
+
+9. Acalabrutinibe
+
+Uma droga conhecida como acalabrutinibe, que age como bloqueadora
+da proteína tirosina quinase de Bruton (BTK) e é utilizada para tratar vários tipos de
+câncer no sangue, se mostrou benéfica no tratamento de um pequeno grupo de
+pacientes com COVID-19. A descoberta foi publicada no Science Immunology por
+pesquisadores do Centro de Pesquisa do Câncer do Instituto Nacional do Câncer,
+nos Estados Unidos.
+
+A BTK desempenha um papel importante no sistema imunológico, pois
+influencia na produção de proteínas chamadas citocinas, que atuam como
+mensageiras químicas e ajudam a estimular e direcionar a resposta imune do corpo.
+Em alguns pacientes com a COVID-19, uma grande quantidade de citocinas é liberada
+no corpo de uma só vez, fazendo com que o sistema imunológico tenha uma reação
+exagerada e prejudique o organismo ao invés de ajudá-lo.
+
+O intuito dos pesquisadores era testar a eficácia da droga inibidora da
+BTK justamente na redução dessa resposta imune hiperativa. Para isso, eles
+selecionaram 19 pacientes diagnosticados com COVID-19 e que precisaram ficar
+hospitalzados. Todos apresentaram baixos níveis de oxigênio no sangue e evidências
+de inflamação no organismo. Entre os voluntários, 11 eram considerados de estado
+moderado, tendo recebido oxigenação suplementar por dois dias, e oito, mais
+graves, precisaram ficar ao menos um dia e meio com um respirador.
+
+De acordo com os cientistas, dos 11 pacientes com quadros moderados
+da COVID-19 que receberam o remédio, oito voltaram a respirar sozinhos e
+receberam alta após menos de uma semana de tratamento. Já dentre as pessoas
+com quadros mais graves, quatro conseguiram sair dos ventiladores, dois receberam
+alta hospitalar e dois vieram a óbito.
+
+Os especialistas ressaltam que, embora os inibidores da BTK sejam
+aprovados para tratar certos tipos de câncer, eles não são aprovados para combater
+o novo coronavírus. O intuito deste estudo é estimular novas pesquisas com a
+droga.
+
+10. Tofacitinibe
+
+A avaliação do potencial do tofacitinibe, a parti de um estudo
+independente de fase 2, está em curso na Itália. Trata-se de um inibidor oral da janus
+quinase, uma proteína importante nos processos inflamatórios característicos de
+algumas doenças autoimunes, como artrite reumatoide.
+
+A hipótese é que essa ação também poderia mitigar a inflamação
+sistêmica e do alvéolo pulmonar dos pacientes com pneumonia associada ao novo
+coronavírus. Para avaliar tal possibilidade, a indústria farmacêutica Pfizer está
+dialogando com universidades sobre estudos adicionais envolvendo tofacitinibe e
+outros moduladores imunológicos que fazem parte portfólio do laboratório.
+
+11. Baricitinibe
+
+O medicamento baricitinibe, usado no tratamento da artrite reumatoide,
+pode bloquear a entrada do novo coronavírus e reduzir a mortalidade em pacientes
+com COVID-19 moderado a grave, concluiu investigação translacional realizada por
+uma equipa internacional coordenada por investigadores do Instituto Karolinska, na
+Suécia.
+
+No estudo, já publicado na revista Science Advances, 83 pacientes
+hospitalzados com pneumonia COVID-19, em Itália e na Espanha, foram tratados
+com baricitinibe, além do tratamento padrão. Dos 83 pacientes, 17% sofreram um
+resultado adverso que resultou em morte ou ventilação mecânica invasiva. Em
+
+comparação com 35% no grupo de controle que recebeu apenas o tratamento
+padrão. Os pacientes tinham uma idade média de 81 anos.
+
+12. Hidroxicloroquina e cloroquina
+
+Hidroxicloroquina e cloroquina são dois medicamentos que têm sido
+usados por muitas décadas para tratar a malária e doenças auto-imunes como a
+
+artrite reumatóide e o lúpus.
+
+Logo no início da pandemia da COVID-19, pesquisadores revelaram que
+ambas as drogas poderiam impedir o novo coronavírus de se replicar nas células. Em
+dois estudos realizados na França e na China, mostraram resultados promissores
+contra a COVID-19.
+
+Entretanto, estudos mais detalhados mostraram que a hidroxicloroguina
+ea cloroquina não fizeram diferença.
+
+Ensaios clínicos randomizados descobriram que Hidroxicloroquina não
+ajudou as pessoas com COVID-19 a melhorar nem impediu que pessoas saudáveis
+contraíssem o coronavírus. Outro ensaio clínico randomizado descobriu que os
+medicamentos não reduziram a gravidade da doença. Com isso, a Organização
+Mundial da Saúde e instituições internacionais de saúde suspenderam os ensaios que
+investigavam a droga como tratamento para COVID-19, e o FDA revogou
+sua aprovação de emergência.
+
+13. Azitromicina
+
+Azitromicina é um antibiótico comumente usado para tratar infecções
+bacterianas, como bronquite e pneumonia. Foi demonstrado que tem
+alguma atividade in vitro contra vírus como influenza A e Zika, mas não funcionou
+contra o coronavírus que causa a MERS.
+
+Um grupo de pesquisa analisou a azitromicina em combinação com
+hidroxicloroquina para COVID-19. Eles relataram que 93% dos pacientes eliminaram o
+vírus após 8 dias, mas não havia grupo de controle, então não sabemos se as
+pessoas teriam eliminado o vírus por conta própria sem os medicamentos. Os
+pesquisadores ainda ressaltam que existem preocupações sobre os efeitos colaterais
+potencialmente graves ao usar azitromicina e hidroxicloroquina juntas.
+
+No estudo da Recovery foram inscritos mais de 20.000 pacientes, em
+176 hospitais do NHS no Reino Unido. Um total de 2.582 pacientes foram
+randomizados para azitromicina e comparados com 5.182 pacientes randomizados
+para suporte clínico usual. Uma análise preliminar não mostrou nenhuma diferença
+significativa no desfecho primário de mortalidade em 28 dias. Também não houve
+evidências de efeitos benéficos sobre o risco de progressão para ventilação mecânica
+ou tempo de internação hospitalar.
+
+14. Oseltamivir
+
+Oseltamivir é um medicamento antiviral usado para influenza (gripe). Os
+resultados de um hospital em Wuhan, China, não foram promissores. Dos 138
+pacientes hospitalizados, 124 receberam oseltamivir junto com outros
+medicamentos. Ao final do estudo, 85 pacientes (62%) ainda estavam hospitalizados
+e 6 haviam morrido. Considerando a qualidade limitada deste estudo e a confiança
+muito baixa em seus resultados, a eficácia e a segurança dessa intervenção para
+pacientes com infecção por SARS-CoV-2 ainda são consideradas incertas.
+
+No entanto, há ensaios clínicos e três protocolos registrados em
+andamento que propõem a avaliação dos efeitos do oseltamivir nos pacientes com
+infecção pela COVID-19.
+
+15. Colchicina
+
+Colchicina é um medicamento usado para a gota. Ele atua na ativação de
+processos anti-inflamatórios e interferindo nas células envolvidas na inflamação. Os
+pesquisadores acreditam que a colchicina pode funcionar de forma semelhante ao
+tocilizumabe em pacientes com COVID-19, pois pode ser útil se o sistema
+imunológico se tornar muito ativado e ocorrer uma tempestade de citocinas. Um
+grande ensaio clínico está verificando se a colchicina, quando administrada logo após
+o diagnóstico de COVID-19, pode diminuir as chances de hospitalização e morte.
+Além disso, um estudo com 105 pacientes na Grécia descobriu que os
+pacientes hospitalzados que receberam colchicina pareciam ter um desempenho
+melhor do que aqueles que não receberam. Um paciente no grupo da colchicina
+piorou no hospital (por exemplo, precisou de ventilação ou morreu) em comparação
+com 7 pacientes no grupo que não recebeu colchicina. Outros testes de laboratório
+também foram feitos, mas nenhuma diferença foi observada. Mais dados são
+necessários para confirmar esses achados.
+
+16. Ivermectina
+
+Ivermectina é um medicamento oral usado para tratar infecções
+causadas por parasitas. Também está disponível como loção ou creme para tratar
+piolhos e rosácea. Um estudo in vitro recente descobriu que a ivermectina pode
+impedir a replicação do SARS-CoV-2. Os pesquisadores australianos relataram que a
+ivermectina bloqueou os vírus responsáveis pela COVID-19 em culturas de células,
+mas eles usaram uma dosagem muito alta para isso. O que pode ter efeitos
+colaterais perigosos em seres humanos.
+
+Por conta disso, a EMA (European Medicines Agency ) ressaltou que não
+há evidência que apoiem o uso indiscriminado da ivermectina para tratamento
+da COVID-19. Ela poderá ser utilizada em ensaios clínicos controlados, desde que
+bem desenhados. O FDA também emitiu uma nota alertando sobre os riscos e
+evidenciou que administrar o medicamento ivermectina destinado à animais de
+estimação nos humanos corresponde à um risco potencial, uma vez que as
+preparações de ivermectina para animais são diferentes das aprovadas para uso
+humano.
+
+A Organização Mundial da Saúde (OMS) também se manifestou sobre o
+uso da ivermectina na COVID-19 e declarou que o medicamento só deve ser usado
+para tratar o novo coronavírus em ensaios clínicos, em ambiente controlado.
+
+Ainda não há evidências robustas para que a droga seja utilzada no
+tratamento da COVID-19. Entretanto, considerando os resultados in vitro, vários
+ensaios clínicos estão em andamento para verificar se realmente o medicamento é
+eficaz e avaliar uma dose segura de ivermectina para combater o coronavírus.
+
+17. Nitazoxanida
+
+A nitazoxanida é um agente antiparasitário. Recentemente descobriu-se
+que a nitazoxanida, também. possui atividade antiviral de amplo espectro. Seu uso
+para o tratamento de infecções virais tem sido investigado, sobretudo para infecções
+respiratórias por influenza.
+
+Estudos in vitro e em modelos animais demonstraram que a nitazoxanida
+inibe a replicação viral de coronavírus canino, murino, bovino e entérico humano.
+Similarmente, estudo in vitro com MERS-CoV, observou-se que o medicamento foi
+capaz de inibir a replicação viral, tanto em forma de nitazoxanida ou seu metabólito
+ativo, a tiazoxanida. Neste mesmo estudo, observou-se que a concentração inibitória
+máxima foi semelhante à observada para o vírus da influenza. Com base em estudos
+animais, observou-se que a nitazoxanida também reduziu níveis plasmáticos de
+citocinas inflamatórias, incluindo IL-6.
+
+Não foram localizados estudos clínicos que tenham avaliado o uso da
+nitazoxanida em pacientes com infecções por SARS-CoV, MERS-CoV e SARS-CoV-2,
+de modo que as evidências são indiretas, provenientes de estudos em infecções
+respiratórias por influenza, estudos in vitro e pré-clnicos com outros tipos de
+coronavírus.
+
+Atualmente, existem estudos em andamento com o objetivo de avaliar a
+eficácia e a segurança da nitazoxanida em pacientes com COVID-19.
+
+OUTROS TRATAMENTOS
+
+Além dos tratamentos medicamentosos, outras terapias também estão
+sendo testadas para o tratamento da COVID-19, a saber:
+
+1. ACE-2 Recombinante
+
+Para conseguir entrar nas células, o novo coronavírus deve primeiro
+desbloqueá-las , que ocorre após se prender a uma proteína humana chamada ACE-
+2.
+
+A partir disso, os cientistas criaram proteínas ACE-2 artificiais que atuam
+como iscas, atraindo o coronavírus para longe das células vulneráveis. As proteínas
+ACE-2 recombinantes mostraram resultados promissores em experimentos com
+células. Entretanto, ainda não foram testadas em animais ou pessoas.
+
+2. Anticorpos monoclonais
+
+Cerca de um século atrás, os médicos filtraram plasma do sangue de
+pacientes com gripe recuperados. O chamado plasma convalescente, rico em
+anticorpos, ajudava as pessoas com gripe a lutar contra a doença. Neste momento,
+os pesquisadores estão testando a mesma estratégia no combate à COVID-19.
+Utilizando o plasma de pessoas que foram infectadas pelo coronavírus e se
+recuperaram.
+
+O plasma convalescente de pacientes recuperados da COVID-19 contém
+uma mistura de diferentes anticorpos. Uma parte dessas moléculas, apontam os
+cientistas, pode atacar o coronavírus, mas muitas são direcionadas a outros
+patógenos.
+
+Com isso, os pesquisadores passaram a analisar o plasma em busca
+de anticorpos mais potentes contra COVID-19. Em seguida, fabricaram cópias
+sintéticas dessas moléculas, conhecidas como anticorpos monoclonais.
+
+Dezenas de anticorpos monoclonais encontrados apresentaram
+resultados promissores contra COVID-19 em estudos pré-clínico. Agora, empresas e
+universidades estão desenvolvendo testes clínicos.
+
+3. Interferons
+
+Os interferons são moléculas que as nossas células produzem
+naturalmente em resposta aos vírus. Eles têm efeitos profundos no sistema
+imunológico, estimulando-o a atacar os invasores e também controlar danos nos
+próprios tecidos do corpo.
+
+Cientistas descobriram que o coronavírus parece conter a ação do
+interferon. Com isso, os pesquisadores estudam se um aumento desse interferon
+poderia ajudar as pessoas a se tornarem mais resistentes à COVID-19, especialmente
+no início da infecção. Estudos iniciais produziram resultados satisfatórios que levaram
+a ensaios clínicos.
+
+4. Sistemas de filtragem de sangue
+
+O FDA concedeu autorização de uso emergencial para dispositivos que
+filtram citocinas do sangue na tentativa de esfriar tempestades de citocinas. Uma
+série de estudos sobre sistemas de filtração de sangue estão em andamento no
+momento, mas cientistas alertam que esses dispositivos podem apresentar riscos.
+
+5. Células-tronco
+
+Alguns tipos de células-tronco podem secretar moléculas anti
+inflamatórias. No momento, dezenas de testes clínicos estão em andamento para ver
+se eles podem ajudar os pacientes com COVID-19.
+
+6. Vitamina D
+
+A vitamina D é um hormônio esteroide responsável pela regulação dos
+níveis corporais de cálcio e sódio e da mineralzação óssea. Também exerce
+importante papel no controle de diversas patologias, como doenças autoimunes e
+imunossupressão.
+
+Um estudo realzado na Espanha pela Universidade de Barcelona
+estabeleceu uma conexão entre o suprimento de vitamina D e a redução de 80% nas
+admissões em terapia intensiva e redução de 60% nas mortes de COVID-19. Mas
+logo depois de ser publicado, tornou-se alvo de críticas porque não seguiu métodos
+robustos o suficiente para apontar as conclusões colocadas e consequentemente
+foi retirado dos meios eletrônicos da revista científica.
+
+Posteriormente, uma análise divulgada na National Health and Nutrition
+Examination Survey mostrou que quase 40% da amostra apresentava níveis de
+vitamina D abaixo de 20ng/ml e estavam mais relacionados à pessoas obesas e com
+diabetes tipo 1 e 2. Outro estudo realizado na França com 77 pacientes idosos e
+diagnosticados com COVID-19, evidenciou que aqueles que consumiam
+rotineiramente suplementação de vitamina D antes de serem infectados,
+apresentaram quadros mais leves em comparação com aqueles que tomaram
+vitamina D logo após o diagnóstico. Um estudo espanhol piloto randomizado com 76
+pacientes hospitalizados com COVID-19, que receberam altas doses de vitamina D
+durante a internação, apresentaram menor incidência de internação em unidade
+fechada. Em um hospital italiano o estudo mostrou uma ligação de baixos níveis de
+vitamina D com um risco aumentado de desenvolvimento de pneumonia por SARS
+CoV-2. Porém, idade, sexo e comorbidades apresentaram-se como maiores fatores
+de risco para mortalidade do que a deficiência de vitamina D. Outro estudo realizado
+por pesquisadores da University of Chicago observou uma grande conexão de
+deficiência de vitamina D com maiores chances de testagem positiva para COVID-19.
+
+Em contrapartida, um estudo brasileiro, publicado no Journal of the
+American Medical Association (JAMA) em fevereiro de 2021, demonstrou que altas
+doses de vitamina D administrada no momento da internação hospitalar não
+melhorou a evolução de pacientes com COVID-19 moderada ou grave. De acordo
+com os pesquisadores, estudos anteriores in vitro ou com animais mostraram que a
+vitamina D e seus metabólitos, em determinadas situações, podem ter efeito anti
+inflamatório, antimicrobiano e modulador da resposta imune. Decidiram então
+investigar se uma dose alta da substância poderia ter efeito protetor no contexto de
+uma infecção viral aguda, seja reduzindo a inflamação ou diminuindo a carga viral.
+Apesar de altas doses de vitamina D não estarem relacionadas com o potencial
+protetivo, o mesmo grupo de pesquisa trabalha atualmente em um estudo que tem
+como objetivo avaliar se indivíduos com níveis suficientes de vitamina D circulantes no
+sangue lidam melhor com a infecção pelo SARS-CoV-2 do que aqueles com níveis
+insuficientes do nutriente.
+
+Os estudos até o momento não apontam uma conclusão assertiva que
+possa correlacionar efetivamente a deficiência de vitamina D com casos graves de
+COVID-19. Porém, níveis adequados de vitamina D são essenciais para a saúde
+óssea, desempenho adequado do sistema imune e regulação do crescimento,
+sistema cardiovascular, músculos, metabolismo e insulina.
+
+QUIMIOPROFILAXIA, PROFILAXIA OU TRATAMENTO PRECOCE
+
+Não há evidências robustas o suficiente para que seja indicado
+tratamento profilático ou preventivo a contaminação por Covid-19. No entanto, as
+evidências iniciais de alguns medicamentos aqui apresentadas sugerem benefício.
+
+Os dados e evidências dos estudos demonstram que alguns dos
+medicamentos indicados acima têm potencial de reduzir o risco de morte de pessoas
+contaminadas por Covid-19. Porém, são necessários estudos com metodologia
+específica para profilaxia, com registro de dados detalhados do início do tratamento e
+o acompanhamento do sujeito por um período suficiente para indicar a relação direta
+entre profilaxia e não contaminação ou redução dos riscos.
+
+Cabe ao médico assistente avaliar o cenário epidemiológico associado a
+história clinica individual de cada paciente identificando os riscos e benefícios de
+prescrever tratamento profilático ou frente a sintomas gripais genéricos.
+
+Destacamos a importância de se discutir com o paciente as
+possibilidades de tratamento e seus riscos, e de fornecer o termo de consentimento
+livre e esclarecido para assinatura do paciente.
+
+POSICIO NAMENTO DA FDA E OS TRATAMENTOS PARA A COVID-19
+
+Atualmente, não há tratamentos aprovados pelo FDA para
+coronavírus. O FDA criou recentemente um novo programa de emergência,
+o Coronavirus Treatment Acceleration Program (CTAP), com o objetivo de acelerar a
+pesquisa para o desenvolvimento de tratamentos COVID-19.
+
+Por enquanto, nos EUA o tratamento para pacientes com sintomas leves
+é isolar-se em casa. Os pacientes hospitalzados recebem cuidados de suporte (como
+oxigênio), inscrevem-se em ensaios clínicos e recebem medicamentos off-label com
+base nas diretrizes do hospital e no julgamento clínico de seus médicos.
+
+PESQUISAS NO BRASIL PARA COVID-19
+
+O Brasil integra o restrito grupo de países que mais publicaram estudos
+sobre a COVID-19 desde o início da pandemia do novo coronavírus. O número da
+produção brasileira fica em torno da 112 posição no ranking mundial. As informações
+constam em levantamento feito pela Agência USP de Gestão da Informação
+Acadêmica, a pedido da pró-reitoria de pesquisa. Utilizou-se a plataforma Dimensions,
+uma base de dados internacional com atualização diária.
+
+Entre os pesquisadores residentes no Brasil, os dois que mais publicaram
+artigos trabalham na Fundação Oswaldo Cruz (Fiocruz) e entre as instituições
+brasileiras a USP teve a maior produção científica.
+
+Com o objetivo de dar celeridade à disponibilização de medicamentos que
+possam auxiliar no alívio dos efeitos individuais e coletivos da pandemia da COVID-19,
+a Anvisa instituiu o Comitê de Avaliação de Estudos Clínicos, Registro e Pós-registro
+de medicamentos para prevenção ou tratamento da COVID-19. Esse Comitê analisa,
+dentre outras atribuições, os pedidos de anuência de estudos clínicos com
+medicamentos para prevenção e tratamento da COVID-19, de forma prioritária, no
+prazo médio de 72 horas após a submissão formal do protocolo. O painel com
+informações sobre ensaios clínicos com medicamentos e produtos biológicos permite
+acompanhar o andamento da análise dos pedidos de autorização de estudos clínicos
+para vacinas e tratamentos contra COVID-19. Pelo painel é possível verificar a
+situação atual de cada estudo clínico submetido à Anvisa.
+
+O painel apresenta a porcentagem relativa ao status de cada etapa da
+análise, iniciando pelo envio dos documentos pelas empresas e trazendo as demais
+etapas de análise pelo Comitê COVID-19.
+
+Segue em anexo (27861594), o painel com a lista de ensaios clínicos com
+medicamentos para prevenção ou tratamento da COVID-19 aprovados pela
+ANVISA atualizados até 26 de março de 2021.
+
+CONSIDERAÇÕES FINAIS
+
+Apesar da existência de estudos com medicamentos promissores, não
+existe nenhum medicamento que tenha demonstrado eficácia e segurança com
+resultados conclusivos para o tratamento da COVID-19.
+
+Estudos estão em andamento e quaisquer medicamentos utilzados com
+o objetivo de tratamento devem ser administrados sob protocolo clínico mediante
+aplicação de termo de consentimento livre e esclarecido. E é imprescindível que a
+conduta clínica seja pautada pelo preceito de não maleficência. Assim sendo, é
+contraindicado o uso destes medicamentos em ambiente domiciliar, sendo
+importante salientar que a automedicação pode representar mais um risco a este
+paciente.
+
+Por fim, cabe frisar que durante a vigência da pandemia por COVID-19
+existe uma série de orientações e procedimentos diferenciados, e as orientações
+podem ser alteradas conforme a evolução da pandemia e a descoberta de novas
+informações sobre a doença e seu tratamento.
+
+REFERÊNCIAS:
+
+Recovery Collaborative Group- Dexamethasone in Hospitalized Patients with Covid-19- N Engl
+J Med 2021; 384:693-704 - Fev, 2021.
+
+).H. Beigel et al. - Remdesivir for the Treatment of Covid-19 — Final Report - N Engl) Med
+2020;383:1813-26 n englj med 383;19 nejm.org November 5, 2020
+Andre C. Kalil et al - Baricitinib plus Remdesivir for Hospitalized Adults with Covid-19 March
+4, 2021 N Engl) Med 2021; 384:795-807
 
  
 
-ovo! Acesso
+RECOVERY Collaborative Group. Lopinavir-ritonavir in patients admitted to hospital with
+COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial. The Lancet.
+2020 October 05.
 
-    
+WHO Solidarity Trial Consortium* - Repurposed Antiviral Drugs for Covid-19 — Interim WHO
+Solidarity Trial Results - The New England Journal of Medicine 384;6 nejm.org February 11,
+2021
+
+Brasil MINISTÉRIO DA SAÚDE - Nota técnica Favipiravir para tratamento de pacientes com
+Covid-19 Agosto/2020
+
+Pilkington V, Pepperrell T, Hill A. A review of the safety of favipiravir - a potential treatment
+in the COVID19 pandemic? Vol. 6, Journal of virus eradication. Mediscript; p. 45-51; 2020.
+
+Wang M, Cao R, Zhang L, Yang X, Liu), Xu M, et al. Remdesivir and chloroquine effectively
+inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res [Internet].
+2020
+
+Lian, N., Xie, H., Lin, S., Huang, )., Zhao, )., & Lin, Q. (2020). Umifenovir treatment is not
+associated with improved outcomes in patients with coronavirus disease 2019: A
+retrospective study. Clinical Microbiology and Infection.
+
+Cai Q, Yang M, Liu D, Chen J, Shu D et al. Experimental Treatment with Favipiravir for
+COVID-19: An Open-Label Control Study. Engineering, 18 March 2020.
+
+Ataei M, Hosseinjani H. Molecular Mechanisms of Galidesivir as a Potential Antiviral
+Treatment for COVID-19 . ] Pharm Care; 8(3): 150-151; 2020.
+
+Randomised Evaluation of COVID-19 Therapy - Disponível
+em:<https://www.recoverytrial. net/news/low-cost-dex amethasone-reduces-death-by-up-to-
+one-third-in-hospitalised-patients-with-severe-respiratory-complications-of-covid-19- Acesso
+em 26 março 2021.
+
+Stone JH, Frigault MJ, Serling-Boyd NJ, et al. Efficacy of tocilizumab in patients hospitalized
+with COVID-19. N Engl Med. 2020;383(24):2333-2344,
+
+Hermine O, Mariette X, Tharaux PL, et al. Effect of tocilizumab vs usual care in adults
+hospitalized with COVID-19 and moderate or severe pneumonia: a randomized clinical trial.
+JAMA Intern Med. 2021;181(1):32 -40. 108.
+
+François-Xavier Lescure, Hitoshi Honda, Robert A Fowler, Jennifer Sloane Lazar, Genming
+Shi, Peter Wung, Naimish Patel, Owen Hagino , on behalf of the Sarilumab COVID-19 Global
+Study Group*- Sarilumab in patients admitted to hospital with severe or critical COVID-19:
+a randomised, double-blind, placebocontrolled, phase 3 trial - Lancet Respir Med 2021
+Published Online March 4, 2021.
+
+BRASIL. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Insumos
+Estratégicos em Saúde Departamento de Assistência Farmacêutica e Insumos Estratégicos.
+Nota Informativa No. 6/2020 - DAF/ SCTIE/MS.
+
+BRASIL. Ministério da Saúde MINISTÉRIO DA SAÚDE - Secretaria de Ciência, Tecnologia,
+Inovação e Insumos Estratégicos em Saúde- DIRETRIZES PARA DIAGNÓSTICO E
+TRATAMENTO DA COVID-19.
+
+FDA. FACT SHEET FOR HEALTH CARE PROVIDERS EMERGENCY USE AUTHORIZATION (EUA)
+OF CHLOROQUINE PHOSPHATE SUPPLIED FROM THE STRATEGIC NATIONAL STOCKPILE FOR
+TREATMENT OF COVID-19 IN CERTAIN HOSPITALZED PATIENTS
+<https://www ..fda.gov/media/136535/download> Acessado em: 08 abril 2021.
 
  
 
- 
+FDA - FDA Approves Malaria Drugs to Treat COVID-19, Despite Little Proof They Work
+<https://www.usnews.com/news/health-news/articles/2020-03-31/fda-approves-malaria-
+drugs-to-treat-covid-19-despite-little-proof-they-work> Acessado em: 08 abril 2021.
+Gautret P, Lagier JC, Parola P, Hoang VT, Meddeb L, Mailhe M, et al. Hydroxychloroquine
+and azithromvycin as a treatment of COVID-19: results of an open-label non-randomized
+clinical trial. Int J Antimicrob Agents. 2020 Mar;105949.
 
- 
+Touret F, de Lamballerie X. Of chloroquine and COVID-19. Antiviral Res. 2020
+Mar;177:104762.
 
- 
+Chatre C, Roubille F, Vernhet H, Jorgensen €, Pers Y-M. Cardiac Complications Attributed to
+Chloroquine and Hydroxychloroquine: A Systematic Review of the Literature. Drug Saf.
+2018 Oct;41(10):919-31.
 
- 
+EMA advises against use of ivermectin for the prevention or treatment of COVID-19 outside
+randomised clinical trials Share. https://www.ema.europa.eu/en/news/ema-advises-against-
+use-ivermectin-prevention-treatment-covid-19-outside-randomised-clinical-trials Acessado
+em: 06 abril 2021.
 
- 
+Stein C, Falavigna M, Pagano CGM, Gráf DD, Matuoka )Y, Oliveira Jr HA, Medeiros FC, Brito
+GV, Marra LP, Parreira PCL, Bagattini AM, Pachito DV, Riera R, Colpani V. Associação
+hidroxicloroquina/cloroquina e azitromicina para Covid-19. Revisão sistemática rápida.
+OSELTAMIVIR NO TRATAMENTO DA COVID-19 Disponível em:
+https://oxfordbrazilebm.com/index.php/2020/05/27/oseltamivir-no-tratamento-da-covid-19-
+revisao-sistematica-rapida/. Acessado em: 31 março 2021.
 
- 
+Kutlu Ô, Metin A. A case of exacerbation of psoriasis after oseltamivir and
+hydroxychloroquine in a patient with COVID-19: Will cases of psoriasis increase after COVID-
+19 pandemic? Dermatologic therapy. 2020
 
- 
+Matuoka JY, Oliveira Jr HA, Medeiros FC, Brito GV, Marra LP, Parreira PCL, Bagattini AM,
+Pachito DV, Riera R. Nitazoxanida para o tratamento de COVID-19. Revisão sistemática
+rápida. Disponível em: https://oxfordbrazilebm.com/index.php/2020/04/22/nitazoxanida-
+para-tratamento-de-covid-19/. Acessado em 09 abril 2021.
 
- 
+Rubin R. Sorting Out Whether Vitamin D Deficiency Raises COVID-19 Risk.JAMA.
+2021:325(4):329-330.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Referénãa a É 320.06 Na JDEISEIy
-rapiaa Aispponhai é dino
-vir ESP BdE | Restos
-
-ds.
-Rubin R-Só reRgreaeNnethei Ane
-2021;325
-Fon portal arvisa gov.br/consulta-de-ensalos-clinicos-autorizados
-Murai gontizcigkzykslEftect of a Single High Dose of Vitamin D3 on Hospital Length of Stay in
+Murai lgor H. et al - Effect of a Single High Dose of Vitamin D3 on Hospital Length of Stay in
 Patients With Moderate to Severe COVID-19 -JAMA. 2021;325(11):1053-1060.
 
 Site visitados:
 
-  
-
-efRgiRaises COVID/L9-Risfél
-
-  
- 
-
- 
-
-. - Acesso em:
+e https://www medrxiv.org/content/10.1101/2020.10.15.20209817vl - Acesso em:
 30 março 2021
 
-Acesso em: 06 abril 2021
-Acesso em: 07 abril 2021
-Acesso em: 06 abril 2021
-Acesso em: 26 março 2021
-Acesso em: 26
+e https:/fwww.cnbc.com/2020/11/19/coronavirus-who-tells-doctors-dont-use-gileads-
+remdesivir-splitting-with-fda. html Acesso em: 06 abril 2021
 
+e https:/Awww.nbcnews.com/health/health-news/massive-who-remdesivir-study-
+suggests-no-covid-19-benefit-doctors-n1243730 Acesso em: 07 abril 2021
+
+* https://jwww.correiobraziliense.com.br/ciencia-e-saude/2020/10/4882680-nem-
+cloroquina-nem-remdesivir-sao-capazes-de-salvar-vidas-da-covid-19-afirma-estudo-da-
+oms.html Acesso em: 06 abril 2021
+
+e https:/Aweverthonmachado .github.io/covid trials/ Acesso em: 26 março 2021
+
+e https:/fwww.ipea.gov.br/cts/pt/central-de-conteudo/artigos/artigos/198-quais-sao-as-
+pesquisas-emandamento-para-prevencao-e-tratamento-da-covid-20 Acesso em: 26
 março 2021
 
-. Acesso em: 29
-TREATMENT UF COVID-LS IN CERTAIN HUSPITALIZEU PAMENIS
+e https:/Awww.goodrx.com/blog/coronavirus-treatments-on-the-way/ Acesso em: 29
+
+ 
+
+ 
+março 2021
+e https:/Awww.sanarmed.com/os-15-tratamentos-para-covid-19-mais-comentados
+Acesso em: 06 abril 2021
+
+e https:/Awww.recoverytriaLnet/ Acesso em: 30 abril 2021
+
+* https://pebmed.com.br/deficiencia-de-vitamina-d-e-covid-19-o-que-ha-de-novo/ Acesso
+em: 13 abril 2021
+
+* https:/fwww.endocrino.org.br/nota-de-esclarecimento-vitamina-d-e-covid-19/ Acesso
+em: 13 abril 2021
+
+ 
+
+ 
+
+Documento assinado eletronicamente por Grazielle Dias da Silva,
+Superintendente, em 16/04/2021, às 15:13, conforme horário oficial de
+Brasília, com fundamento no art. 6º, $ 1º, do Decreto nº 47.222, de 26 de
+julho de 2017.
+
+   
+
+:
+eletrônica
+
+    
+ 
+
+ 
+
+Documento assinado eletronicamente por Samira do Nascimento Mateus
+Nunes Lyra, Coordenador(a), em 16/04/2021, às 17:59, conforme horário
+oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 47.222, de
+
+26 de julho de 2017.
+
+ 
+
+   
+
+ser
+
+eletrônica
+
+  
+
+ 
+
+ 
+
+Documento assinado eletronicamente por Luciana Cassia Oliveira Barbosa,
+Servidor (a) Público (a), em 16/04/2021, às 18:14, conforme horário oficial
+de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 47.222, de 26 de
+julho de 2017.
+
+   
+
+seil
+
+eletrônica
+
+  
+
+ 
+
+A autenticidade deste documento pode ser conferida no site
+
+http://sei mg.gov.br/seifcontrolador externo. php?
+
+acao=documento conferir&id orgao acesso externo=0, informando o código
+verificador 27860490 e o código CRC 125AE813.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 1320.01.0031308/2021-37 SEInº 27860490
+a Agência Nacional
+“pe de Vigilância Sanitária
+
+Lista dos Ensaios Clínicos com medicamentos para prevenção ou tratamento da COVID-19 autorizados pela Anvisa
+
+ 
+
+Registro em Previsão de Países
+Protocolo Empresa Medicamento Fase Título do estudo base de dados término! participantes!
+1. COALIZÃO | EMS S/A — — Sulfato de 3 ESTUDO ABERTO, CONTROLADO, DE USO DE NCT04322123 30 de agosto de Brasil
+Hidroxicloroquina HIDROXICLOROQUINA E AZITROMICINA PARA PREVENÇÃO DE 2020
+— — Azitromicina di- COMPLICAÇÕES EM PACIENTES COM INFECÇÃO PELO NOVO
+hidratada CORONAVÍRUS (COVID-19): UM ESTUDO RANDOMIZADO E
+CONTROLADO. VERSÃO 4 — 13 DE MAIO DE 2020
+2. COALIZÃO II EMS S/A — — Sulfato de 3 AVALIAÇÃO DA SEGURANÇA E EFICÁCIA CLÍNICA DA NCT04321278 30 de agosto de Brasil
+Hidroxicloroquina HIDROXICLOROQUINA ASSOCIADA À AZITROMICINA EM 2020
+Azitromicina di- PACIENTES COM PNEUMONIA CAUSADA POR INFECÇÃO PELO
+hidratada VÍRUS SARS-COV2. VERSÃO 5.0 — 13 DE MAIO DE 2020
+3. ALIANÇA COVID-19 | ACHE — — Dexametasona 3 ESTUDO ABERTO, CONTROLADO, RANDOMIZADO DE USO DE NCT04327401 30 de agosto de Brasil
+BRASIL III LABORATÓRIOS (DECADRON?) DEXAMETASONA EM PACIENTES COM SÍNDROME DO 2020
+FARMACÊUTICOS DESCONFORTO RESPIRATÓRIO AGUDO ASSOCIADA AO COVID-
+S.A. 19: CODEX TRIAL. VERSÃO 3.0 — 17 DE ABRIL DE 2020
+4. COALIZÃO V EMS S/A — — Sulfato de 3 RBR-3cbs3w Brasil
+hidroxicloroquina ESTUDO CLÍNICO RANDOMIZADO, PRAGMÁTICO, DUPLO- Plataforma
+CEGO, CONTROLADO POR PLACEBO, AVALIANDO Brasil:
+HIDROXICLOROQUINA PARA PREVENÇÃO DE HOSPITALIZAÇÃO | http://www.ens
+E COMPLICAÇÕES RESPIRATÓRIAS EM PACIENTES aiosclinicos.gov.
+AMBULATORIAIS COM DIAGNÓSTICO CONFIRMADO OU br/rg/?q=RBR-
+PROVÁVEL DE COVID-19. VERSÃO 3 DE 27 DE ABRIL DE 2020 3cbs3w
+5. BCX4430-108 PPD DO BRASIL — — Galidesivir 1b UM ESTUDO DE FASE 1B, DUPLO-CEGO, CONTROLADO POR NCT03891420 31 de maio de Brasil
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+SUPORTE A
+
+PESQUISA CLÍNICA
+LTDA
+
+PLACEBO, DE VARIAÇÃO DE DOSE PARA AVALIAR A
+SEGURANÇA, FARMACOCINÉTICA, E EFEITOS ANTI-VIRAIS DE
+GALIDESIVIR ADMINISTRADO VIA INFUSÃO INTRAVENOSA AOS
+PARTICIPANTES COM FEBRE AMARELA OU COVID-19. VERSÃO
+4.0 DE 25 DE MARÇO DE 2020
+
+2021
+
+Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+6. NITFQMO3200R FARMOQUÍMICA —
+
+s/a
+7. | FCANCELADO A EUROFARMA -
+PEDIDO* LABORATÓRIOS
+S.A. -
+8. | EFC16844 SANOFI MEDLEY |—
+FARMACÊUTICA
+LTDA.
+9. | covoos ASTRAZENECA DO |—
+BRASIL LTDA
+10. | CALAVI ASTRAZENECA DO |—
+BRASIL LTDA
+11. | I4V-MC-KHAA ELI LILLY DO -
+BRASIL LTDA
+
+Nitazoxanida
+(Virannita”)
+
+Sulfato de
+Hidroxicloroquina
+Azitromicina di-
+hidratada
+
+Sarilumabe
+(KEVZARA?)
+
+ChAdOx1 nCoV-19
+
+Acalabrutinibe
+(CALQUENCE?)
+
+Baricitinibe
+(OLUMIANTS)
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+ENSAIO CLÍNICO DE CONCEITO, MULTICÊNTRICO, PARALELO,
+RANDOMIZADO E DUPLO-CEGO PARA AVALIAÇÃO DA EFICÁCIA
+E TOLERABILIDADE DO MEDICAMENTO VIRANNITA
+(NITAZOXANIDA 600 MG) EM RELAÇÃO AO PLACEBO NO
+TRATAMENTO DE PARTICIPANTES DA PESQUISA COM COVID-
+19 HOSPITALIZADOS EM ESTADO MODERADO. EMENDA 1.0 DE
+24 DE ABRIL DE 2020
+
+NOVO ESQUEMA TERAPÊUTICO PARA FALÊNCIA RESPIRATÓRIA
+AGUDA ASSOCIADA A PNEUMONIA EM INDIVÍDUOS
+INFECTADOS PELO SARS-COV-2. VERSÃO 3.0 DE 06 DE MAIO DE
+2020.
+
+UM ESTUDO ADAPTATIVO, FASE 3, RANDOMIZADO, DUPLO-
+CEGO, CONTROLADO POR PLACEBO, PARA AVALIAR A EFICÁCIA
+E SEGURANÇA DO SARILUMABE EM PACIENTES
+HOSPITALIZADOS COM COVID19. PROTOCOLO EMENDADO 03
+DE 29-ABR-2020
+
+ 
+
+ESTUDO CONTROLADO RANDOMIZADO DE FASE Ill PARA
+DETERMINAR A SEGURANÇA, EFICÁCIA E IMUNOGENICIDADE
+DA VACINA CHADOX1 NCOV-19 NÃO REPLICANTE. VERSÃO 1.0
+DE 27 DE MAIO DE 2020
+
+ESTUDO DE FASE 2, ABERTO, RANDOMIZADO DA EFICÁCIA E
+SEGURANÇA DE ACALABRUTINIBE COM MELHORES CUIDADOS
+DE SUPORTE VERSUS MELHORES CUIDADOS DE SUPORTE EM
+PARTICIPANTES DA PESQUISA HOSPITALIZADOS COM COVID-
+19. VERSÃO 3.0 DE 28 DE ABRIL DE 2020.
+
+ESTUDO DE FASE 3, RANDOMIZADO, DUPLO-CEGO,
+CONTROLADO POR PLACEBO, DE GRUPOS PARALELOS DE
+
+NCT04348409
+
+Não disponível
+
+NCT04327388
+
+ISRCTN8995 142
+
+4
+
+NCT04346199
+
+EudraCT 2020-
+001517-21
+NCT04421027
+
+30 de junho de
+2020
+
+Agosto de 2020
+
+31 de outubro de
+2021
+
+30 de novembro
+de 2020
+
+1 de setembro
+2020
+
+Brasil
+
+Brasil
+
+Brasil,
+Argentina,
+Canada, Chile,
+França,
+Inglaterra,
+Israel, Itália,
+Japão, Russia,
+Espanha
+
+Brasil
+
+Brasil, França,
+Itália, Espanha
+
+Brasil, Estados
+Unidos,
+Argentina,
+
+Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+12. | 214094
+OSCAR
+
+13. | ABX464-401
+
+14. D1690C00081 -
+DARE 19
+
+15. | WA42511
+REMDACTA
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+GLAXOSMITHKLIN
+E BRASILLTDA
+
+PAREXEL
+Internacional
+Pesquisas Clínicas
+Ltda.
+
+Soc.Benef.Isr.Bras.
+Hospital Albert
+Einstein
+
+PPD DO BRASIL
+SUPORTE A
+PESQUISA CLÍNICA
+LTDA
+
+Otilimabe
+
+ABX464
+
+Dapaglifozina /
+Propanediol
+(FORXIGAS)
+
+Tocilizumabe
+(ACTEMRAS) +
+Remdesivir
+
+2/3
+
+BARICITINIBE EM PACIENTES COM INFECÇÃO POR COVID-19.
+PROTOCOLO EMENDA A VERSÃO DE 27DE MAIO DE 2020
+
+UM ESTUDO RANDOMIZADO, DUPLO-CEGO, CONTROLADO
+POR PLACEBO, PARA AVALIAR A EFICÁCIA E SEGURANÇA DO
+OTILIMABE IV EM PACIENTES COM DOENÇA PULMONAR
+GRAVE RELACIONADA AO COVID-19. EMENDA 1.0 DE 18 DE
+MAIO DE 2020
+
+ESTUDO DE FASE 2/3, RANDOMIZADO, DUPLO-CEGO,
+CONTROLADO POR PLACEBO, PARA AVALIAR A EFICÁCIA E A
+SEGURANÇA DE ABX464 NO TRATAMENTO DE INFLAMAÇÃO E
+NA PREVENÇÃO DE INSUFICIÊNCIA RESPIRATÓRIA AGUDA
+ASSOCIADA À COVID-19 EM PACIENTES COM > 65 ANOS DE
+IDADE E EM PACIENTES COM > 18 ANOS DE IDADE COM PELO
+MENOS UM FATOR DE RISCO ADICIONAL QUE FORAM
+INFECTADOS POR SARS-COV-2. (ESTUDO MIR-AGE). VERSÃO
+1.2 DE 11 DE MAIO DE 2020
+
+ESTUDO DE FASE III, INTERNACIONAL, MULTICÊNTRICO,
+RANDOMIZADO, DUPLO-CEGO, CONTROLADO POR PLACEBO,
+QUE AVALIA A EFICÁCIA E A SEGURANÇA DE DAPAGLIFLOZINA
+NA INSUFICIÊNCIA RESPIRATÓRIA EM PACIENTES COM COVID-
+19. VERSÃO 3.0 DE 20/05/2020
+
+ESTUDO DE FASE II, RANDOMIZADO, DUPLO-CEGO,
+MULTICÊNTRICO PARA AVALIAR A EFICÁCIA E A SEGURANÇA
+DO REMDESIVIR COM PLACEBO EM PACIENTES
+HOSPITALIZADOS COM PNEUMONIA GRAVE PELA COVID-19.
+VERSÃO 2, 21 DE MAIO DE 2020
+
+NCT04376684
+
+NCT04393038
+
+NCT04350593
+
+NCT04409262
+
+21 de dezembro
+de 2020
+
+30 de abril de
+2021
+
+Dezembro de
+
+2020
+
+31 de julho de
+2020
+
+Inglaterra,
+Itália, México,
+Rússia,
+Espanha,
+Reino Unido
+
+Brasil, Estados
+Unidos,
+Espanha,
+Reino Unido
+
+Brasil, França
+
+Brasil, Estados
+Unidos
+
+Brasil, Estados
+Unidos
+
+Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+16.
+
+17.
+
+19.
+
+20.
+
+CINC424]12301
+RUXCOVID
+
+NITFQMOS200R
+*CANCELADO A
+PEDIDO*
+
+ML42528
+
+ANG3777-ALI-201
+
+B-2660-204
+
+NOVARTIS
+BIOCIENCIAS S.A
+
+FARMOQUÍMICA
+s/a
+
+PPD DO BRASIL
+SUPORTE A
+PESQUISA CLÍNICA
+LTDA
+
+CTI CLINICAL
+BRASIL SERVICOS
+DE PESQUISAS
+CLINICAS e
+COMERCIO LTDA
+
+Worldwide Clinical
+Research
+Monitoramento de
+Pesquisas Clínicas
+do Brasil Ltda
+
+Ruxolitinibe (JAKAVIº)
+
+Nitazoxanida
+(VIRANNITAS)
+
+Tocilizumabe
+(ACTEMRAS)
+
+ANG-3777
+(REFANALIN)
+
+BLD-2660
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+ESTUDO DE FASE 3, RANDOMIZADO, DUPLO-CEGO,
+CONTROLADO COM PLACEBO, MULTICÊNTRICO PARA
+AVALIAR A EFICÁCIA E A SEGURANÇA DE RUXOLITINIBE EM
+PACIENTES COM TEMPESTADE DE CITOCINAS ASSOCIADA À
+COVID-19 (RUXCOVID). VERSÃO 01 DE 20/MAI/2020
+
+ENSAIO CLÍNICO DE PROVA DE CONCEITO, MULTICÊNTRICO,
+PARALELO, RANDOMIZADO E DUPLO-CEGO PARA
+
+AVALIAÇÃO DA SEGURANÇA E EFICÁCIA DA NITAZOXANIDA 600
+
+MG, ADMINISTRADA TRÊS VEZES AO DIA,
+
+EM RELAÇÃO AO PLACEBO NO TRATAMENTO DE
+PARTICIPANTES DA PESQUISA COM COVID-19
+HOSPITALIZADOS EM ESTADO NÃO CRÍTICO. VERSÃO 1.0
+DATADA DE 03 DE JUNHO DE 2020
+
+ESTUDO DE FASE II, RANDOMIZADO, DUPLO-CEGO,
+MULTICÊNTRICO PARA AVALIAR A EFICÁCIA E A SEGURANÇA
+DO REMDESIVIR COM PLACEBO EM PACIENTES
+HOSPITALIZADOS COM PNEUMONIA GRAVE PELA COVID-19.
+VERSÃO 2, 21 DE MAIO DE 2020
+
+ESTUDO DE FASE 2, MULTICÊNTRICO, PROSPECTIVO,
+RANDOMIZADO, DUPLO-CEGO, CONTROLADO POR PLACEBO,
+PARA AVALIAR A SEGURANÇA E A EFICÁCIA DE ANG-3777 EM
+
+PACIENTES HOSPITALIZADOS COM PNEUMONIA POR COVID-19
+CONFIRMADA. VERSÃO 2.0 DE 01)UN2020
+
+UM ESTUDO DE FASE 2, RANDOMIZADO, DUPLO-CEGO E
+CONTROLADO POR PLACEBO PARA AVALIAR A SEGURANÇA E
+ATIVIDADE ANTIVIRAL DE BLD-2660 EM PACIENTES
+HOSPITALIZADOS COM DIAGNÓSTICO RECENTE DE COVID-19
+EM COMPARAÇÃO COM O PADRÃO DE CUIDADOS. VERSÃO 3.0
+DE 08 DE MAIO DE 2020
+
+NCTO4362137
+
+NCT04423861
+
+NCT04372186
+
+NCT04459676
+
+NCTO4334460
+
+23 de outubro de
+2020
+
+Agosto de 2020
+
+5 de outubro de
+2020
+
+Outubro de 2020
+
+Setembro de
+2020
+
+Brasil, Estados
+Unidos,
+Inglaterra,
+Itália, Rússia,
+Espanha,
+Reino Unido
+
+Brasil
+
+Brasil, Estados
+Unidos,
+Quênia,
+México, Peru,
+África do Sul
+
+Brasil
+
+Brasil, Estados
+Unidos
+
+Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+Ccov-02-IB
+
+D822FC00005
+
+KPL-301-C203
+
+PTC299-VIR-015-
+covi9
+
+PDY16879
+
+MS200569-0026
+
+INSTITUTO
+BUTANTAN
+
+ASTRAZENECA DO
+BRASILLTDA
+
+PAREXEL
+International
+
+Pesquisas Clínicas
+Ltda.
+
+PTC
+FARMACEUTICA
+DO BRASIL LTDA.
+
+SANOFI MEDLEY
+FARMACÊUTICA
+LTDA.
+
+MERCK S/A
+
+Antígeno do vírus
+inativado SARS-Co V-02
+
+Acalabrutinibe
+(Calquence?)
+
+MAVRILIMUMABE
+(KPL-301)
+
+PTC299
+
+SAR443122
+
+M5049; MSC2584939A
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+1B
+
+2/3
+
+2/3
+
+1B
+
+ENSAIO CLÍNICO FASE Ill DUPLO-CEGO, RANDOMIZADO, NCTO4456595
+CONTROLADO COM PLACEBO PARA AVALIAÇÃO DE EFICÁCIA E
+SEGURANÇA EM PROFISSIONAIS DA SAÚDE DA VACINA
+ADSORVIDA COVID-19 (INATIVADA) PRODUZIDA PELA
+SINOVAC. VERSÃO 2.0 DE 24 DE AGOSTO DE 2020
+
+ESTUDO ABERTO, DE MÚLTIPLAS DOSES PARA AVALIAR A NCT04497948
+FARMACOCINÉTICA, E A SEGURANÇA E TOLERABILIDADE DE
+SUSPENSÃO DE ACALABRUTINIBE ADMINISTRADA VIA TUBO
+NASOGÁSTRICO, COADMINISTRADO COM UM INIBIDOR DA
+BOMBA DE PRÓTONS, EM PARTICIPANTES HOSPITALIZADOS
+COM COVID-19. VERSÃO 1.0 DE 20 DE MAIO DE 2020
+
+UM ESTUDO DE FASE 2/3, RANDOMIZADO, DUPLO-CEGO, NCT04447469
+CONTROLADO POR PLACEBO PARA AVALIAR A EFICÁCIA E À
+SEGURANÇA DO TRATAMENTO COM MAVRILIMUMASBE (KPL-
+301) EM PARTICIPANTES ADULTOS HOSPITALIZADOS COM
+PNEUMONIA E HIPERINFLAMAÇÃO SEVERAS CAUSADAS PELA
+COVID-19. VERSÃO 14 DE MAIO DE 2020
+
+AVALIAÇÃO DA EFICÁCIA E SEGURANÇA DO PTC299 EM NCT04439071
+PARTICIPANTES HOSPITALIZADOS COM COVID-19 (FITE19).
+VERSÃO 3.0 DATADA EM 05-JUN-2020
+
+ESTUDO FASE 1B, RANDOMIZADO,DUPLO-CEGO E EudraCT 2020-
+CONTROLADO POR PLACEBO PARA AVALIAR A SEGURANÇAE O | 002104-39
+EFEITO IMUNOMODULADOR DO INIBIDOR DE RIPK1 NCT04469621
+
+SAR443122 EM PACIENTES HOSPITALIZADOS COM COVID-19
+GRAVE - PDY 16879. VERSÃO 1.0 DE 03-JUN-2020
+
+ESTUDO DE FASE Il, RANDOMIZADO, DUPLO-CEGO, NCT04448756
+CONTROLADO POR PLACEBO PARA AVALIAR A SEGURANÇA E A
+EFICÁCIA DE M5049 EM PARTICIPANTES HOSPITALIZADOS COM
+PNEUMONIA POR COVID19. VERSÃO 1.0 DE 26 DE MAIO DE
+2020
+
+Outubro de 2021
+
+Abril de 2021
+
+Janeiro de 2021
+
+Janeiro de 2021
+
+13 de novembro
+de 2020
+
+Brasil
+
+Brasile
+Estados
+Unidos
+
+Brasile
+Estados
+Unidos
+
+Brasil, Estados
+Unidos e
+Espanha
+
+Brasil
+
+Brasile
+Estados
+Unidos
+
+Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+27.
+
+29.
+
+30.
+
+31.
+
+32.
+
+c4591001 WYETH INDÚSTRIA
+FARMACÊUTICA
+LTDA
+
+APL9-COV-201 WCT Serviços de
+Pesquisa Clínica
+LTDA.
+
+GA42469 PRODUTOS ROCHE
+QUÍMICOS E
+FARMACÊUTICOS
+S.A.
+
+AT-03A-001 QUINTILES BRASIL
+LTDA
+
+BIO101-CLOS PPD DO BRASIL
+SUPORTE A
+PESQUISA CLÍNICA
+LTDA
+
+CDFV890D12201 NOVARTIS
+BIOCIENCIAS S.A
+
+Vacinas BNT162 com
+RNA anti-viral para
+imunização ativa
+contra COVID-19 (PF-
+07302048)
+
+APL-9
+
+ASTEGOLIMABE /
+UTTR1147A
+
+AT-527
+
+20-
+HYDROXYECDYSONE
+(BIO101)
+
+DFV890
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+1/2/
+
+1/2
+
+ESTUDO DE FASE 1/2/3, RANDOMIZADO, CONTROLADO POR
+PLACEBO, CEGO PARA O OBSERVADOR E DE DETERMINAÇÃO
+DE DOSE PARA AVALIAR A SEGURANÇA, TOLERABILIDADE,
+IMUNOGENICIDADE E EFICÁCIA DE VACINAS CANDIDATAS COM
+SARS-COV-2 RNA CONTRA A COVID-19 EM ADULTOS
+SAUDÁVEIS. EMENDA 6, DATADA DE 08 DE SETEMBRO DE
+2020.
+
+ESTUDO RANDOMIZADO, DUPLO CEGO, CONTROLADO POR
+VEÍCULO, MULTICÊNTRICO, GRUPO PARALELO, DE APL-9 EM
+SÍNDROME DO DESCONFORTO RESPIRATÓRIO AGUDO, LEVE A
+MODERADA, DEVIDO À COVID-19. EMENDA 1 — 07/MAIO/2020
+
+ESTUDO DE FASE Il, RANDOMIZADO, DUPLO-CEGO,
+CONTROLADO POR PLACEBO, MULTICÊNTRICO PARA AVALIAR
+A SEGURANÇA E A EFICÁCIA DE MSTT1041A OU UTTR1147A
+EM PACIENTES COM PNEUMONIA GRAVE CAUSADA POR
+COVID-19. VERSÃO 2 DE 27 DE MAIO DE 2020
+
+ESTUDO DE FASE 2, RANDOMIZADO, DUPLO-CEGO E
+CONTROLADO POR PLACEBO PARA AVALIAR A SEGURANÇA E A
+EFICÁCIA DE AT527 EM PARTICIPANTES COM COVID-19
+MODERADA. VERSÃO 5.0, DE 22-JUN-2020
+
+ESTUDO DE FASE 2 A3, RANDOMIZADO, DUPLO-CEGO,
+MULTICÊNTRICO E DE DESENHO ADAPTATIVO PARA AVALIAR À
+SEGURANÇA, EFICÁCIA, FARMACOCINÉTICA E
+FARMACODINÂMICA DO BIO101 NA PREVENÇÃO DA
+DETERIORAÇÃO RESPIRATÓRIA EM PACIENTES
+HOSPITALIZADOS POR PNEUMONIA RELACIONADA À COVID-
+19, EM ESTÁGIO GRAVE. VERSÃO 7.0, 17 DE JULHO DE 2020
+
+ESTUDO DE FASE 2, RANDOMIZADO, CONTROLADO, ABERTO,
+MULTICÊNTRICO PARA AVALIAR A EFICÁCIA E SEGURANÇA DE
+DFV890 PARA O TRATAMENTO DE PACIENTES INFECTADOS
+COM SARS-COV2 QUE APRESENTAM PNEUMONIA
+
+NCT04368728
+
+NCT04402060
+
+NCTO4386616
+
+NCTO4396106
+
+EudraCT 2020-
+001498-63
+
+NCT04472728
+
+NCTO4382053
+
+28 de junho de
+2021
+
+Novembro de
+2020
+
+27 de outubro de
+
+2020
+
+Janeiro de 2021
+
+Setembro de
+2021
+
+30 de novembro
+de 2020
+
+Brasile
+Estados
+Unidos
+
+Brasile
+Estados
+Unidos
+
+Brasil, Estados
+Unidos e
+
+Espanha
+
+Brasile
+Estados
+Unidos
+
+Brasil, Bélgica
+França, Reino
+Unido e
+Estados
+Unidos
+
+Brasil,
+Dinamarca,
+Alemanha,
+Hungria,
+
+Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+33.
+
+35.
+
+36.
+
+37.
+
+HGEN003-06
+
+ARO 20 014 001
+
+VAC31518COV300
+
+1
+
+ACT-CS-006
+
+REPAVID-19
+
+CTI CLINICAL
+BRASIL SERVICOS
+DE PESQUISAS
+CLINICAS e
+COMERCIO LTDA
+
+SOCIEDADE
+BENEFICENTE
+ISRAELITA
+BRASILEIRA
+ALBERT EINSTEIN
+
+JANSSEN-CILAG
+FARMACÊUTICA
+LTDA
+
+TIAGO MD DA
+SILVA
+CONSULTORIA EM
+SAUDE LTDA
+
+AVANTI -
+INSTITUTO DE
+
+PESQUISA CLÍNICA
+LTDA.
+
+Lenzilumabe
+
+Tofacitinibe
+
+VAC31518
+(Ad26.COV2.S,
+Ad26.COVS.1,
+JNJ78436735)
+
+GLENZOCIMABE
+
+REPARIXINA (DF1681Y)
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+DECORRENTE DA COVID-19 E COMPROMETIMENTO DA
+FUNÇÃO RESPIRATÓRIA. VERSÃO 01 DE 22/JUN/2020.
+
+UM ESTUDO DE FASE 3, RANDOMIZADO, CONTROLADO POR
+
+PLACEBO DE LENZILUMABE EM PACIENTES HOSPITALIZADOS
+
+COM PNEUMONIA POR COVID-19 GRAVE E CRÍTICA. VERSÃO
+3.0 DE 05 DE JUNHO DE 2020.
+
+UM ESTUDO MULTICENTRICO, RANDOMIZADO, DUPLO CEGO,
+PLACEBO CONTROLADO, DE GRUPOS PARALELOS, COM
+TOFACITINIBE EM PARTICIPANTES HOSPITALIZADOS COM
+PNEUMONIA POR COVID-19. VERSÃO 2.0 DE 24 DE AGOSTO DE
+2020.
+
+ESTUDO DE FASE 3, RANDOMIZADO, DUPLO-CEGO,
+CONTROLADO POR PLACEBO, PARA AVALIAR A EFICÁCIA E À
+SEGURANÇA DE AD26.COV2.S PARA A PREVENÇÃO DE COVID-
+19 MEDIADA PELO SARS-COV-2 EM ADULTOS DE 18 ANOS DE
+IDADE E MAIS VELHOS (ENSEMBLE). VERSÃO 22 DE JULHO DE
+2020
+
+ESTUDO RANDOMIZADO, DUPLO CEGO, MULTICÊNTRICO,
+CONTROLADO POR PLACEBO, DE GRUPOS PARALELOS, DE
+DOSE FIXA, EXPLORATÓRIO DE EFICÁCIA E SEGURANÇA DE
+GLENZOCIMABE NA SINDROME DA ANGÚSTIA RESPIRATÓRIA
+AGUDA RELACIONADA AO SARS-COV-2. VERSÃO 3.0, 7 DE
+AGOSTO DE 2020.
+
+ESTUDO MULTICÊNTRICO CONTROLADO E RANDOMIZADO DE
+FASE 2 SOBRE A EFICÁCIA E SEGURANÇA DA REPARIXINA NO
+TRATAMENTO DE PACIENTES HOSPITALIZADOS COM
+PNEUMONIA POR COVID-19. VERSÃO Nº 1.7 DE 02 DE
+SETEMBRO DE 2020.
+
+NCTO4351152
+
+NCTO4469114
+
+NCT04505722
+
+EudraCT 2020-
+002733-15
+
+EudraCT 2020-
+001645-40
+
+Setembro de
+2020
+
+31 de janeiro de
+2021
+
+10 de março de
+2023
+
+Não informado
+
+Não informado
+
+Países Baixos,
+Rússia e
+Espanha
+
+Brasile
+Estados
+Unidos
+
+Brasil
+
+Brasil, Estados
+Unidos, Chile,
+Colômbia,
+México, Peru,
+Filipinas,
+África do Sul e
+Ucrânia
+
+Brasil
+
+Brasil e Itália
+
+Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+38. | TL-895-202 PAREXEL — —TL-895, MSC2488205B | 1/2 ESTUDO DE FASE 1/2, DUPLO-CEGO, RANDOMIZADO, NCT04419623 | Julhode2021 | Brasile
+International ou M7583 CONTROLADO POR PLACEBO, DO TL-895 COM O TRATAMENTO Estados
+Pesquisas Clínicas PADRÃO DISPONÍVEL VERSUS TRATAMENTO PADRÃO Unidos
+Ltda. DISPONÍVEL PARA TRATAMENTO DE COVID19 EM
+PARTICIPANTES COM CÂNCER. EMENDA 4, 12 DE MAIO DE
+2020.
+39. | R10933-10987- PAREXEL — — REGN10933+REGN109 | 1/2/ UM PROTOCOLO MESTRE PARA AVALIAR A SEGURANÇA, NCTO4426695 | 25 dejaneirode | Brasile
+cov-2066 International 87 3 | TOLERABILIDADE E EFICÁCIA DE ANTICORPOS MONOCLONAIS 2021 Estados
+Pesquisas Clínicas ANTISPIKE(S) PARA SARS-COV-2 PARA O TRATAMENTO DE Unidos
+Ltda. SUJEITOS HOSPITALIZADOS COM COVID-19. EMENDA 4 DE 11
+DE JULHO DE 2020.
+40. | R10933-10987- PAREXEL — — REGN10933+REGN109 | 1/2/ UM PROTOCOLO MESTRE PARA AVALIAR A SEGURANÇA, NCT04425629 | 19 de dezembro | Brasile
+cov-2067 International 87 3 | TOLERABILIDADE E EFICÁCIA DE ANTICORPOS MONOCLONAIS de 2020 Estados
+Pesquisas Clínicas ANTISPIKE(S) PARA SARS-COV-2 PARA O TRATAMENTO DE Unidos
+Ltda. SUJEITOS AMBULATORIAS COM COVID-19.EMENDA 4 DE 11 DE
+
+JULHO DE 2020
+
+41. | CSL312 COMID-19 OR ÉRCIO DE - (estao O 2 ESTUDO DE FASE 2, MULTICÊNTRICO, DUPLO-CEGO, NcTO4409509 Deremio de oie
+PRODUTOS RANDOMIZADO, CONTROLADO POR PLACEBO PARA AVALIAR O Unidos
+FARMACÊUTICOS CSL312 NA DOENÇA DO CORONAVÍRUS 2019 (COVID-19).
+LTDA PROTOCOLO EMENDA 1, DATADA DE 11 DE JULHO DE 2020.
+42. | NITFQMOS200R | FARMOQUÍMICA — — Nitazoxanida 2 ENSAIO CLÍNICO, PROSPECTIVO, RANDOMIZADO, DUPLO- | NCTO4435314 Brasil
+*CANCELADOA | S/A CEGO, PARALELO, CONTROLADO POR PLACEBO PARA
+PEDIDO* AVALIAÇÃO DA SEGURANÇA E EFICÁCIA DA NITAZOXANIDA 600
+MG, ADMINISTRADA TRÊS VEZES AO DIA, NA PREVENÇÃO DO
+QUADRO VIRAL DA COVID-19 EM PESSOAS CONTACTANTES
+DIRETAS DE COMUNIDADE VULNERÁVEL. VERSÃO 1.0 DATADA
+DE21 DE JULHO DE 2020.
+43. | 6C2006 CTICLINICAL - — Iibidor de alfal- 2 ESTUDO MULTICÊNTRICO, RANDOMIZADO, DUPLO-CEGO, | NCTO4547140 | Setembrode | Brasil
+BRASILSERVICOS proteinase (humano) CONTROLADO POR PLACEBO, DE GRUPOS PARALELOS PARA 2021
+DE PESQUISAS líquido AVALIAR A SEGURANÇA E A EFICÁCIA DO INIBIDOR DE ALFAI-
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+! https://clinicaltrials.gov Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+CLINICAS e
+COMERCIO LTDA
+
+44. FIS-001-2020 MEDPACE DO
+BRASIL PESQUISA
+CLINICA LTDA
+
+45. | ABC-201 ACTIVA-CRO DO
+
+BRASIL SERVIÇOS
+DE PESQUISAS
+CLÍNICAS LTDA
+
+46. NITFQMO7200R FARMOQUÍMICA
+
+*CANCELADO A S/A
+PEDIDO*
+
+47. ILIAD-7 Coorte RESOLUTION LATIN
+Brasil AMERICA PESQUISA
+
+CLINICA LTDA
+
+48. | BTK-COV-202BR Synova Pesquisa
+Científica Ltda.
+
+losmapimod / FTX-
+1821/ GW856553X
+
+Opaganib (ABC294640)
+
+Nitazoxanida
+
+Interleucina 7 (IL-7)
+humana recombinante
+
+MALEATO DE
+ABIVERTINIB
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+2/3
+
+PROTEINASE (HUMANO) LÍQUIDO MAIS TRATAMENTO MÉDICO
+PADRÃO (SMT) VERSUS PLACEBO MAIS SMT EM
+PARTICIPANTES HOSPITALIZADOS COM COVID-19. VERSÃO 2.0
+DE 02 DE JULHO DE 2020
+
+ESTUDO DE FASE 3, RANDOMIZADO, DUPLO CEGO E
+CONTROLADO POR PLACEBO DA SEGURANÇA E EFICÁCIA DE
+LOSMAPIMOD EM SUJEITOS ADULTOS QUE APRESENTAM
+COVID-19 (ESTUDO LOSVID). VERSÃO 2.1, DATADO 10-JUL-
+2020.
+
+OPAGANIB, UM INIBIDOR DA ESFINGOSINA QUINASE-2 (SK2)
+EM PNEUMONIA POR COVID-19: UM ESTUDO DE FASE 2/3,
+RANDOMIZADO, DUPLO-CEGO, CONTROLADO POR PLACEBO
+EM SUJEITOS ADULTOS HOSPITALIZADOS COM PNEUMONIA
+GRAVE POR SARS-COV-2 POSITIVO. PROTOCOLO ABC-201
+VERSÃO 1.1 15 DE JUNHO DE 2020.
+
+ENSAIO CLÍNICO, PROSPECTIVO, RANDOMIZADO, DUPLO-
+CEGO, PARALELO, CONTROLADO POR PLACEBO PARA
+AVALIAÇÃO DA SEGURANÇA E EFICÁCIA DA NITAZOXANIDA 600
+MG, ADMINISTRADA TRÊS VEZES AO DIA, NO TRATAMENTO DE
+PARTICIPANTES ADULTOS DIAGNOSTICADOS COM COVID-19
+COM SINTOMAS LEVES EM CONDIÇÃO
+DOMICILIAR/AMBULATORIAL ATENDIDOS NO SISTEMA DE
+SAÚDE PÚBLICO DO MUNICÍPIO DE MESQUITA —RJ. VERSÃO 1.0
+DATADA DE 16 DE JUNHO DE 2020
+
+INTERLEUCINA-7 RECOMBINANTE (CYT107) PARA
+MELHORAR OS RESULTADOS CLÍNICOS EM PACIENTES
+LINFOPÊNICOS COM INFECÇÃO POR COVID-19. VERSÃO 1.0 —
+06 DE JULHO DE 2020
+
+ENSAIO CLÍNICO FASE 2, RANDOMIZADO, DUPLOCEGO,
+PLACEBO-CONTROLADO PARA AVALIAR A SEGURANÇA E
+
+NCTO04511819
+
+NCT04467840
+
+NCT04441398
+
+Não disponível
+
+NCTO4528667
+
+Novembro de Brasil, Estados
+2020 Unidos e
+
+México
+
+Fevereiro de 2021 | Brasil, Israel,
+México e
+Rússia
+
+Não atualizado Brasil
+
+Brasil, França,
+Reino Unido,
+Estados
+Unidos
+
+Maio de 2021 Brasil,
+Estados
+Unidos
+
+Última atualização 26/03/2021
+= Agência Nacional
++ de Vigilância Sanitária
+
+49.
+
+51.
+
+52.
+
+53.
+
+55.
+
+BGB-DXP593-102
+
+998
+
+R10933-10987-
+Cov-2069
+
+PO-COV-III-20
+
+cov-01-04
+
+4482-001
+
+VIR-7831-5001
+(GSK 214367)
+
+PHARMACEUTICAL
+RESEARCH
+ASSOCIATES LTDA
+
+BIOTEST
+FARMACÊUTICA
+LTDA
+
+PAREXEL
+International
+Pesquisas Clínicas
+Ltda
+
+AVANTI -
+INSTITUTO DE
+PESQUISA CLINICA
+LTDA.
+
+AMGEN
+BIOTECNOLOGIA
+DO BRASIL LTDA.
+
+MERCK SHARP &
+DOHME
+FARMACEUTICA
+LTDA
+
+I3 Latin America
+Brasil Serviços de
+
+BGB-DXP593
+
+Trimodulina IgM
+Concentrada (BT588)
+
+REGN10933+REGN10987
+
+Brometo de
+Azoximero (IP-0002) -
+Polyoxidonium?
+
+Apremilaste (CC-
+10004), Zilucoplan,
+Lanadelumabe
+
+Mk-4482 / EIDD-2801
+
+VIR-7831
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+2/3
+
+2/3
+
+EFICÁCIA DO STI-5656 (MALEATO DE ABIVERTINIBE) EM
+PARTICIPANTES HOSPITALIZADOS DEVIDO À COVID-19.
+
+UM ESTUDO FASE 2, RANDOMIZADO, DUPLO-CEGO, CONTROLADO POR
+PLACEBO PARA AVALIAR A EFICÁCIA E SEGURANÇA DO ANTICORPO
+NEUTRALIZANTE BGBDXP593 DE SARS-COV-2 EM PACIENTES COM
+COVID-19 LEVE A MODERADA. EMENDA 1.0, DATADA DE 03 DE
+SETEMBRO DE 2020.
+
+ESTUDO DE FASE II, RANDOMIZADO, CONTROLADO POR PLACEBO,
+DUPLO-CEGO, MULTICÊNTRICO, PARA INVESTIGAR A EFICÁCIA E A
+SEGURANÇA DA TRIMODULINA (BT588) COMO TERAPIA ADICIONAL AO
+PADRÃO DE TRATAMENTO EM PARTICIPANTES ADULTOS COM COVID-
+19 GRAVE. V1.0 DE 06 DE JUNHO DE 2020
+
+ESTUDO DE FASE 3, RANDOMIZADO, DUPLO-CEGO, CONTROLADO POR
+PLACEBO PARA AVALIAR A EFICÁCIA E A SEGURANÇA DE ANTICORPOS
+MONOCLONAIS ANTI-SPIKE DO SARS-COV-2 NA PREVENÇÃO DE
+INFECÇÃO POR SARS-COV-2 EM CONTATOS DOMICILIARES DE
+INDIVÍDUOS INFECTADOS COM SARS-COV-2
+
+ESTUDO CLÍNICO MULTICÊNTRICO, ADAPTÁVEL, RANDOMIZADO,
+DUPLO-CEGO, CONTROLADO POR PLACEBO, COMPARATIVO, DA
+SEGURANÇA EFICÁCIA DE POLYOXIDONIUMG, LIOFILIZADO PARA
+INJEÇÃO E APLICAÇÃO TÓPICA, 6 MG (NPO PETROVAX PHARM LLC,
+RÚSSIA) EM PACIENTES COM DOENÇA CAUSADA PELO CORONAVÍRUS
+(COVID-19). VERSÃO 1.4, DATADA DE 30 DE JUNHO DE 2020
+
+ESTUDO DE PLATAFORMA DE ALIANÇA DA INDÚSTRIA PARA AVALIAR À
+SEGURANÇA E EFICÁCIA DE VÁRIOS AGENTES CANDIDATOS PARA O
+TRATAMENTO DA COVID-19 EM PACIENTES HOSPITALIZADOS.
+EMENDA 1 AO PROTOCOLO, DE 27 DE AGOSTO DE 2020.
+
+UM ESTUDO CLÍNICO FASE 2/3 RANDOMIZADO, CONTROLADO POR
+PLACEBO, DUPLO CEGO PARA AVALIAR A EFICÁCIA, SEGURANÇA E
+FARMACOCINÉTICA DE MK4482 EM PACIENTES ADULTOS
+HOSPITALIZADOS COM COVID-19. 4482-001-00 DE 14/SET/2020
+
+ESTUDO RANDOMIZADO, MULTICÊNTRICO, DUPLO-CEGO,
+CONTROLADO POR PLACEBO PARA AVALIAR A SEGURANÇA E À
+EFICÁCIA DO ANTICORPO MONOCLONAL VIR-7831 NO TRATAMENTO
+
+NCTO4551898
+
+NCTO4576728
+
+NCTO4452318
+
+NCTO4381377
+
+NCTO4590586
+
+NCT04575584
+
+NCT04545060
+
+28 de Fevereiro
+de 2021
+
+Março de 2021
+
+15 de Agosto de
+2021
+
+Abril de 2021
+
+13 de julho de
+2021
+
+18 de outubro de
+2021
+
+Julho de 2021
+
+Brasil
+
+Brasil
+
+Brasil,
+Estados
+Unidos
+
+Brasil,
+Rússia
+
+Brasil
+
+Brasil, Estados
+Unidos e
+Israel
+
+Brasil, Estados
+Unidos,
+
+Última atualização 26/03/2021
+= Agência Nacional
++ de Vigilância Sanitária
+
+56. | 4482-002
+
+57. IFX-1-P2.9
+
+58. 1434-0009
+
+59. CMAS825F12201
+
+60. | COALIZÃO COVID-
+19 BRASIL IX RE
+
+61. C-935788-061
+
+Pesquisa Clínica
+ltda
+
+MERCK SHARP &
+DOHME
+FARMACEUTICA
+LTDA
+
+PAREXEL
+International
+Pesquisas Clínicas
+Ltda.
+
+BOEHRINGER
+INGELHEIM DO
+
+BRASIL QUÍMICA E
+FARMACÊUTICA
+LTDA.
+
+NOVARTIS
+BIOCIENCIAS S.A
+
+BLANVER
+
+FARMOQUIMICA E
+FARMACÊUTICA
+S.A.
+
+WCT Serviços de
+Pesquisa Clínica
+LTDA.
+
+Mk-4482 / EIDD-2801
+
+IFX-1
+
+BI1764198
+
+MAS825
+
+Sulfato de atazanavir /
+Dicloridrato de
+daclatasvir / Sofosbuvir
+
+Fostamatinib
+(R935788)
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+2/3
+
+2/3
+
+2/3
+
+PRECOCE DA DOENÇA POR CORONAVÍRUS 2019 (COVID-19) EM
+PACIENTES NÃO HOSPITALIZADOS. VERSÃO ORIGINAL 27 JULHO 2020.
+
+UM ESTUDO CLÍNICO FASE 2/3 RANDOMIZADO, CONTROLADO POR
+PLACEBO, DUPLO CEGO PARA AVALIAR A EFICÁCIA, SEGURANÇA E
+FARMACOCINETICA DE MK4482 EM PACIENTES ADULTOS NÃO
+HOSPITALIZADOS COM COVID-19. 4482-002-00 DE 14/SET/2020
+
+UM ESTUDO PRAGMÁTICO, ADAPTATIVO, RANDOMIZADO,
+CONTROLADO, MULTICÊNTRICO, DE FASE II/III DE IFX-1 EM
+PARTICIPANTES COM PNEUMONIA SEVERA POR COVID19 — “PANAMO”
+VERSÃO 2.0, 30 DE JULHO DE 2020
+
+EFICÁCIA E SEGURANÇA DE BI 764198 NA PREVENÇÃO/PROGRESSÃO
+DA ARDS E DE COM! PLICAÇÕES RELACIONADAS À ARDS SECUN! DÁRIAS
+À COVID-19 (ACTION ON COVID-19). VERSÃO 1.0, DE 18 DE
+SETEMBRO DE 2020.
+
+ESTUDO DE FASE 2, RANDOMIZADO, CONTROLADO COM PLACEBO,
+CEGO AO PARTICIPANTE E AO INVESTIGADOR, MULTICÊNTRICO PARA
+AVALIAR A EFICÁCIA E A SEGURANÇA DE MAS825 PARA O
+TRATAMENTO DE PACIENTES INFECTADOS POR SARS-COV-2 COM
+PNEUMONIA DECORRENTE DA COVID-19 E COMPROMETIMENTO DA
+FUNÇÃO RESPIRATÓRIA. VERSÃO 01 DE 03/JUL/2020.
+
+ANTIVIRAIS PARA PACIENTES ADULTOS HOSPITALIZADOS COM
+INFECÇÃO POR SARS-COV-2: ESTUDO RANDOMIZADO, FASE 2/3,
+MULTICÊNTRICO, CONTROLADO POR PLACEBO, DUPLO CEGO,
+ADAPTATIVO, COM MULTI-BRAÇOS E ESTÁGIOS. VERSÃO: 2.0 — 30 DE
+OUTUBRO DE 2020
+
+UM ESTUDO DUPLO-CEGO, RANDOMIZADO, PLACEBO-CONTROLADO,
+DE DESENHO ADAPTATIVO, MULTICÊNTRICO, DE FASE 3 PARA
+AVALIAR À EFICÁCIA E SEGURANÇA DE FOSTAMATINIB EM
+INDIVÍDUOS COM COVID-19. EMENDA 1 VERSÃO 2.0 DATADO 17 DE
+NOVEMBER DE 2020.
+
+NCT04575597
+
+NCTO4333420
+
+NCT04604184
+
+NCTO4382651
+
+NCT04468087
+
+NCT04629703
+
+14 de outubro de
+2021
+
+31 de agosto de
+2021
+
+5 de maio de
+2021
+
+9 de abril de 2021
+
+30 de abril de
+2021
+
+Outubro de 2021
+
+Canadá, Chile,
+Peru,
+Espanha,
+Reino Unido
+
+Brasil, Estados
+Unidos, Israel
+e Reino Unido
+
+Brasil,
+Alemanha e
+Holanda
+
+Brasile
+Estados
+Unidos
+
+Brasile
+Estados
+Unidos
+
+Brasil
+
+Brasil
+
+Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+62. MPZ-II-02 QUINTILES BRASIL |—
+
+LTDA
+
+Meplazumabe
+
+63. CT-P593.2 CELLTRION
+HEALTHCARE
+DISTRIBUICAO DE
+PRODUTOS
+FARMACEUTICOS
+
+DOS BRASIL LTDA
+
+CT-P59
+
+WYETH INDÚSTRIA |—
+FARMACÊUTICA
+LTDA
+
+64. C4611001 PF-07304814
+
+65. TD-0903-0188 PHARMACEUTICAL |—
+RESEARCH
+
+ASSOCIATES LTDA
+
+TD-0903
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+2/3
+
+1b
+
+ESTUDO CLÍNICO MULTICÊNTRICO, CONTÍNUO, RANDOMIZADO, EM
+CARÁTER CEGO PARA TERCEIROS PARA AVALIAR A SEGURANÇA E A
+EFICÁCIA DE MEPLAZUMABE EM ADIÇÃO AO PADRÃO DE TRATAMENTO
+PARA O TRATAMENTO DA COVID-19 EM ADULTOS HOSPITALIZADOS.
+EMENDA 1 AO PROTOCOLO ORIGINAL — 24-NOV-2020
+
+NCTO4586153
+
+EUCTR2020-
+
+003369-20-HU
+
+ESTUDO DE FASE 2/3 RANDOMIZADO, CONTROLADO POR PLACEBO,
+DUPLO-CEGO, DE GRUPOS PARALELOS PARA AVALIAR A EFICÁCIA E A
+SEGURANÇA DE CT-P59 EM COMBINAÇÃO COM O PADRÃO DE
+CUIDADOS EM PACIENTES AMBULATORIAIS COM INFECÇÃO POR
+CORONAVÍRUS RELACIONADO A SÍNDROME RESPIRATÓRIA AGUDA
+GRAVE (SARS-COV-2). VERSÃO 3.1 DE 19 DE OUTUBRO DE 2020
+
+UM ESTUDO DE FASE 1B, EM 2 PARTES, DUPLO-CEGO, ABERTO PARA O
+PATROCINADOR, CONTROLADO POR PLACEBO PARA AVALIAR A
+SEGURANÇA, TOLERABILIDADE E FARMACOCINÉTICA, DA PF-07304814
+EM INFUSÕES INTRAVENOSAS ÚNICA E CONTÍNUA, CRESCENTE (EM 24
+HORAS, PARTE 1) E ESTENDIDAS E CONTÍNUAS (EM 120 HORAS,
+PARTE 2) EM PACIENTES INTERNADOS COM COVID-19. EMENDA 4,
+DATADA DE 15 DE DEZEMBRO DE 2020
+
+NCTO4535167
+
+NCT04402866
+
+UM ESTUDO DE FASE 2, RANDOMIZADO, DUPLO-CEGO, CONTROLADO
+COM PLACEBO, GRUPO PARALELO, MULTICÊNTRICO DE UM INIBIDOR
+DE PAN-JANUS CINASE INALADO, TD-0903, PARA TRATAR LESÃO
+PULMONAR AGUDA SINTOMÁTICA ASSOCIADA A COVID-19. EMENDA 4,
+DE 18 DE SETEMBRO DE 2020.
+
+30 de setembro | Brasil
+de 2021
+
+Brasil,
+República
+Tcheca,
+França,
+Hungria,
+Índia,
+Irlanda,
+Itália,
+República da
+Coréia,
+Romênia,
+África do Sul,
+Espanha e
+Reino Unido
+
+5 de julho de Brasil e
+2021 Estados
+Unidos
+
+Abril de 2021 Brasil, Estados
+Unidos,
+Finlândia,
+República da
+Moldávia,
+Romênia,
+Ucrânia e
+Reino Unido.
+
+Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+66. CNMZnAg.202 ICLPHARMA —
+TREINAMENTOS E
+ASSESSORIA LTDA
+
+67. ACTIV-2/A5401 PPD DO BRASIL —
+SUPORTE A
+PESQUISA CLINICA
+LTDA
+
+68. SCTAO1-B301 Covance Brasil -
+Serviços e
+Pesquisas
+Farmacêuticas
+Ltda
+
+69. | VAC31518COV200 | JANSSEN-CILAG  |-
+4 FARMACÊUTICA
+LTDA.
+
+70. VAC31518COV300 | JANSSEN-CILAG —
+
+9 FARMACÊUTICA
+LTDA.
+71. JH-COR-003 AZIDUS BRASIL -
+PESQUISA
+CIENTIFICA E
+
+Zinco catiônico e Prata
+catiônica
+
+BRII-196; BRII-198
+
+SCTAO1 - Anticorpo
+monoclonal de
+
+proteína de pico anti-
+SARSCoV- 2
+recombinante
+
+VAC31518
+(Ad26.COV2.S,
+Ad26.COVS.1,
+JNJ78436735)
+
+VAC31518
+(Ad26.COV2.S,
+Ad26.COVS.1,
+JNJ78436735)
+
+Novaferon
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+2
+
+2/3
+
+2/3
+
+ESTUDO MULTICÊNTRICO, RANDOMIZADO, DUPLO-CEGO E NCT04610138
+CONTROLADO POR PLACEBO PARA AVALIAÇÃO DA EFICÁCIA E DO
+SEGURANÇA DA SOLUÇÃO LÍQUIDA CONTENDO ZNAG NO
+TRATAMENTO DE PARTICIPANTES DIAGNOSTICADOS COM COVID-19
+COM SINTOMAS AGUDOS E NÃO HOSPITALIZADOS. VERSÃO 1.0 DE 29
+DE JANEIRO DE 2021
+
+NCT04518410
+ESTUDO DE UMA PLATAFORMA ADAPTATIVA DE TRATAMENTO PARA
+
+PACIENTES AMBULATORIAIS COM COVID-19 (ADAPT OUT COVID).
+VERSÃO 2.0 DE 23 DE NOVEMBRO DE 2020.
+
+UM ESTUDO MULTICÊNTRICO, ADAPTATIVO, RANDOMIZADO, DUPLO NCTO4644185
+
+CEGO, CONTROLADO POR PLACEBO, DE FASE II/III PARA AVALIAR A
+EFICÁCIA E A SEGURANÇA DO ANTICORPO MONOCLONAL SCTAO1
+CONTRA SARS-COV-2 EM PACIENTES HOSPITALIZADOS COM COVID-19
+GRAVE. V3.0 — 07/JANEIRO/2021.
+
+ESTUDO DE FASE 2, RANDOMIZADO, DUPLO-CEGO, CONTROLADO POR | NCT04765384
+
+PLACEBO PARA AVALIAR A SEGURANÇA, REATOGENICIDADE E
+IMUNOGENICIDADE DE AD26.COV2.S EM PARTICIPANTES DA
+PESQUISA GRÁVIDAS SAUDÁVEIS. PROTOCOLO CLÍNICO, DE 07 DE
+DEZEMBRO DE 2020.
+
+NCT04614948
+
+ENSAIO CLÍNICO DE FASE 3, RANDOMIZADO, DUPLO-
+CEGO,CONTROLADO POR PLACEBO PARA AVALIAR A EFICÁCIA E
+SEGURANÇA DE AD26.COV2.S PARA A PREVENÇÃO DE COVID-19
+MEDIADO POR SARSCOV-2 EM ADULTOS COM 18 ANOS OU MAIS.
+
+(ENSEMBLE 2) EMENDA 3 AO PROTOCOLO, DATADA DE 18 DE
+DEZEMBRO DE 2020.
+
+NOVATION-1: ESTUDO FASE IILRANDOMIZADO, DUPLO-CEGO, NCTO4669015
+CONTROLADO POR PLACEBO PARA AVALIAR A SEGURANÇA E EFICÁCIA
+DO NOVAFERON AEROSSOLIZADO + SOC VS. PLACEBO + SOC EM
+
+Agosto de 2021 | Brasil
+
+Dezembro de Brasil, Estados
+2021 Unidos e
+Porto Rico
+
+10 de outubro de | Brasil,
+2021 Argentina,
+Chile,
+Colômbia,
+México, Peru
+
+20 de junho de Brasil, Estados
+2023 Unidos, África
+do Sul,
+Espanha e
+Reino Unido
+
+11 de maio de Brasil, Estados
+
+2023 Unidos,
+Bélgica,
+Colômbia,
+França,
+Alemanha,
+Filipinas,
+África do Sul,
+Espanha e
+Reino Unido
+
+Agosto de 2021 | Brasil
+
+Última atualização 26/03/2021
+= Agência Nacional
+“pe de Vigilância Sanitária
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.
+
+BHC-RIB-5401-GL
+
+BGE-175-201
+
+IGZ-1
+
+SAS-01-IB
+
+C4591015
+
+DESENVOLVIMENT
+O LTDA
+
+BLINDÚSTRIA
+OTICA LTDA
+
+Clinipace
+Pesquisas Clínicas
+do Brasil Limitada
+
+Instituto Galzu de
+Pesquisa, Ensino,
+Ciência e
+Tecnologia
+Aplicada
+
+INSTITUTO
+BUTANTAN
+
+WYETH INDÚSTRIA
+FARMACÊUTICA
+LTDA
+
+Ribavirina
+
+Asapipranto (AGE-175)
+
+AZVUDINE
+
+Soro anti-SARS-CoV-2
+
+Vacinas BNT162 com
+RNA anti-viral para
+imunização ativa
+contra COVID-19 (PF-
+07302048)
+
+Fonte: http://portal.anvisa.gov.br/consulta-de-ensaios-clinicos-autorizados
+
+1 https://clinicaltrials.gov
+
+2/3
+
+2/3
+
+PARTICIPANTES ADULTOS HOSPITALIZADOS COM COVID-19
+MODERADA A GRAVE. VERSÃO 2 DE 10 DE FEVEREIRO DE 2021.
+
+ESTUDO ABERTO PARA AVALIAR A SEGURANÇA E EFICÁCIA DE
+VIRAZOLEG (RIBAVIRINA PARA SOLUÇÃO PARA INALAÇÃO, USP) EM
+PARTICIPANTES ADULTOS HOSPITALIZADOS COM DESCONFORTO
+RESPIRATÓRIO DEVIDO À COVID-19. VERSÃO 2.0 DE 25 DE
+NOVEMBRO DE 2020
+
+ESTUDO MULTICÊNTRICO, RANDOMIZADO, DUPLO-CEGO,
+CONTROLADO COM PLACEBO, DE FASE 2 PARA INVESTIGAR A
+
+EFICÁCIA E A SEGURANÇA DE ASAPIPRANTO EM PACIENTES
+HOSPITALIZADOS DE MAIS DE SESSENTA ANOS DE IDADE COM
+
+COVID-19.VERSÃO 1.0 DE 04 DE DEZEMBRO DE 2020.
+
+AVALIAÇÃO DA SEGURANÇA E EFICÁCIA CLÍNICA DO AZVUDINE EM
+PACIENTES INFECTADOS PELO VÍRUS SARS-COV-2: ESTUDO DE FASE
+IL, RANDOMIZADO, DUPLO-CEGO, CONTROLADO POR
+PLACEBO.VERSÃO 1.0 DE 14 DE SETEMBRO DE 2020.
+
+ENSAIO CLÍNICO FASE I/II PARA ESCALONAMENTO DE DOSE E
+AVALIAÇÃO DE SEGURANÇA E RESPOSTA CLÍNICA DO SORO ANTI-
+SARS-COV-2 PRODUZIDO PELO INSTITUTO BUTANTAN - SOROCOV.
+
+VERSÃO 1.0 — 10-MAR-2021.
+
+ESTUDO CLÍNICO DE FASE 2/3, CONTROLADO POR PLACEBO,
+RANDOMIZADO, CEGO PARA O OBSERVADOR, PARA AVALIAR A
+SEGURANÇA, TOLERABILIDADE E IMUNOGENICIDADE DE UMA VACINA
+CANDIDATA COM RNA DE SARS-COV-2 (BNT162B2) CONTRA A COVID-
+19 EM MULHERES GRÁVIDAS COM 18 ANOS DE IDADE OU MAIS.
+EMENDA 1, DATADA DE 28 DE JANEIRO DE 2021
+
+NCTO4551768
+
+NCT04705597
+
+NCT04668235
+
+Não disponível
+
+NCTO4754594
+
+Julho de 2021
+
+Abril de 2022
+
+Outubro de 2021
+
+27 de junho de
+2022
+
+Brasil e Grécia
+
+Brasile
+Estados
+Unidos
+
+Brasil
+
+Brasil
+
+Brasile
+Estados
+Unidos
+
+Última atualização 26/03/2021
 

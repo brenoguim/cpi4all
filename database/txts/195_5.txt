@@ -1,23 +1,1671 @@
+ 
+
+Tribunal Regional Federal da 5º Região
+PJe - Processo Judicial Eletrônico
+Consulta Processual
+
+ 
+
+Número: 0802509-54.2021.4.05.0000
+
+Classe: INQUÉRITO POLICIAL
+
+10/05/2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Partes
+Tipo Nome
+INDICIADO APURAR
+AUTORIDADE DELEGACIA DA POLÍCIA FEDERAL - PARAÍBA
+AUTORIDADE MINISTÉRIO PÚBLICO FEDERAL
+Documentos
+ld. Data/Hora |Documento Tipo
+4050000,2494386 1onar2o21 Certidão de Intimação Certidão de Intimação
+OCO nda oo Notificação em tramitação direta Notificação em tramitação direta
+4050000.2490710 10mB12021 PRR5 REGIAO-MANIFESTACAO-5765- Notificação à Polícia Federal
+5: ZUZTpt
+pe Poa Notificação em tramitação direta Notificação em tramitação direta
+Ss ET
+4050000.2488638 Oooo/2021 Solicita dilação de prazo Notificação ao Ministério Público
+5 15 2
+4050000.2488616/ 09/03/2021 Encaminha IPL para Registro, Distribuição e Petição Inicial
+6 10:37 pedido de Novo Prazo a PPH.
+4050000.2488616 09/9/2021 2020.0110553-Autos Principais-até fls. 15- Documento de Comprovação
+7 :37 ZUZLUSU
+4050000.2488616/09/03/2021 2020.0110553-Apenso 1 -até fls. 48-2021.03.09- Documento de Comprovação
+8 10:37 otimizado 1
+
+ 
+
+ 
+TRIBUNAL REGIONAL FEDERAL DA 5º REGIÃO
+PROCESSO: 0802509-54.2021.4.05.0000 - INQUÉRITO POLICIAL
+
+Polo ativo Polo passivo
+DELEGACIA DA POLÍCIA APURAR INDICIADO
+FEDERAL - PARAÍBA AUTORIDADE
+MINISTÉRIO PÚBLICO
+FEDERAL AUTORIDADE
+
+Outros participantes
+Sem registros
+
+CERTIDÃO
+
+CERTIFICO que, em 12/03/2021 10:12, o(a) DELEGACIA DA POLÍCIA FEDERAL - PARAÍBA foi
+intimado(a) do expediente registrado em 10/03/2021 15:26.
+
+1 - Esta Certidão é válida para todos os efeitos legais, havendo sido expedida através do Sistema Processo
+Judicial Eletrônico - PJe.
+
+2 - A autenticidade desta Certidão poderá ser confirmada no endereço
+https://pje.trf5 jus.br/pje/Processo/ConsultaDocumento/listView.seam , através do código de autenticação
+nº 21031015260549000000024864233 .
+
+3 - Esta Certidão foi emitida gratuitamente em 12/03/2021 10:12 - Tribunal Regional Federal 5º Região.
+
+Processo: 0802509-54.2021.4.05.0000
+Data e hora da inclusão: 12/03/2021 10:12:37
+Identificador: 4050000.24943865
+
+14
+PROCESSO: 0802509-54.2021.4.05.0000 - INQUÉRITO POLICIAL
+Notificação ao Ministério Público
+DOCUMENTO:
+
+De ordem do DPF Arthur, encaminho os presentes autos com solicitação de dilação de prazo.
+
+Processo: 0802509-54.2021.4.05.0000
+Data e hora da inclusão: 10/03/2021 15:26:05
+Identificador: 4050000.24907101
+
+14
+PRRSº REGIAO-MANIFESTAÇÃO-5765/2021
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA REGIONAL DA REPÚBLICA DA 5º REGIÃO
+
+INQUÉRITO 0802509542021 4050000/PB :
+E OUTROS. :
+E OUTROS.
+
+INDICIADO: APURAR; AUTORIDADE: DELEGACIA DA POLÍCIA FEDERAL -
+PARAÍBA; AUTORIDADE: MINISTERIO PUBLICO FEDERAL 8
+
+O Ministério Público Federal, no uso de suas atribuições legais, por seu a
+representante in fine assinado, tendo em vista o Termo de Remessa (Id. 4050000.24886385),
+datado de 09 de março de 2021, com solicitação da prorrogação do prazo de permanência do
+presente inquérito na esfera policial, objetivando dar continuidade às diligências já iniciadas,
+vem manifestar-se favoravelmente ao pedido de dilação, por 90 (noventa dias) dias,
+formulado por aquela autoridade para a conclusão das investigações encetadas.
+
+Recife, 10 de março de 2021.
+
+JOAQUIM JOSE DE BARROS DIAS
+PROCURADOR REGIONAL DA REPÚBLICA
+
+ 
+
+ 
+
+Processo: 0802509-54.2021.4.05.0000
+Assinado eletronicamente por:
+JOAQUIM JOSE DE BARROS DIAS - Procurador
+
+21031015260482900000024864232
+Data e hora da assinatura: 10/03/2021 15:22:47
+
+Identificador: 4050000.24907100
+Para conferência da autenticidade do documento: hups://pje.trf5.jus.br/pje/Processo/ConsultaDocumente
+
    
 
-Procedimento 1.24.002.0001 19/2020
+ 
+
+141
+PROCESSO: 0802509-54.2021.4.05.0000 - INQUÉRITO POLICIAL
+Notificação ao Ministério Público
+DOCUMENTO:
+
+De ordem do DPF Arthur, encaminho os presentes autos com solicitação de dilação de prazo.
+
+Processo: 0802509-54.2021.4.05.0000
+Data e hora da inclusão: 09/03/2021 10:53:40
+Identificador: 4050000.24886386
+
+14
+De ordem do DPF Arthur, encamimho os presentes autos com solicitação de dilação de prazo.
+
+Processo: 0802509-54.2021.4.05.0000
+Assinado eletronicamente por:
+HORACIO SEGUNDO MEDEIROS ARNAUD - Procurador
+Data e hora da assinatura:09/03/2021 10:53:40
+Identificador: 4050000.24886385
+
+Para conferência da autenticidade do documento: hit;
 
  
 
-27, Documento 15, Página 5
+21030910504111300000024843551
+
+  
+
+141
 
  
 
-ndntia ENE
+t/pje/Processo/ConsultaDocumento/li
+ 
 
-PRRS>0001 7954202658
-2020. 0110955
+POLÍCIA FEDERAL
+TERMO DE REMESSA
+
+Faço a remessa dos autos à Procuradoria da República na 5º Região.
+
+21030910350879300000024843332
+
+Processo: 0802509-54.2021.4.05.0000
+Assinado eletronicamente por:
+FELIPE FREITAS DE MEDEIROS - Procurador
+
+ 
+
+Data e hora da assinatura:09/03/2021 10:37:27
+Identificador: 4050000.24886166
+Para conferência da autenticidade do documento: hit;
+
+rs. 1/1
+
+  
+
+ 
+F1. 1
+DPF/PAT/PB
+2020.0110553
+
+   
+
+a
+POLÍCIA FEDERAL
+DELEGACIA DE POLÍCIA FEDERAL EM PATOS - DPE/PAT/PB
+
+PORTARIA
+
+IPLnº.2020.0110553
+
+MARCELO PESSOA DE AQUINO FRANCA FILHO, Delegado(a)
+de Polícia Federal, designado para atuar no presente caso, no uso de
+suas atribuições previstas no art. 144 $1º, incisos I e IV, da
+Constituição Federal, no art. 4º e seguintes do Código de Processo
+Pemale na Leinº 12.830/2013;
+
+CONSIDERANDO os termos do Ofício nº 23/2020, protocolado no
+SEI sob o nº 08375005953/2020-70 (em 03/11/2020), e no ePol sob o
+número único em questão;
+
+RESOLVE
+
+Instaurar Inquérito Policial para apurar possível(is) o corrência(s) prevista(s) no(s) Art. 1º, 1 - - Decreto Lei 201/1967 -
+Responsabilidade dos prefeitos e vereadores e Art. 89 - Lei 8.666/1993 - Lei Geral de Licitações e Contratos, além de outras que
+porventura forem constatadas no curso da investigação, em decorrência dos fatos abaixo.
+
+RESUMO DO(s) FATO(s) INVESTIGADO(s):
+
+Trata-se de Requisição Ministerial de instauração de Inquérito Policial, lastreada em denúncia apresentada pelos Vereadores
+FRANCISCO SÉRGIO LOPES SILVA, FRANCISCO DE ASSIS CLEMENTINO e CLÁUDIO ARAÚJO DA SILVA, segundo a
+qual a Prefeitura Municipal de COREMAS/PB teria realizado, de form irregular e com possível sobrepreço, a contratação direta da
+empresa FRANCISCO MARCULINO DA SILVA- EPP - MI MANUTENÇÕES (CNPJ 26 931.037/0001-27), com recursos do
+SUS, por neio da Dispensa de Licitação 015/2020 e do Contrato 064/2020, para prestação de serviço de manutenção preventiva e
+corretiva das redes de água fluvial e das redes de abastecimento de água potável para o consumo humano e animal do Município.
+Valor a apurar: R$ 0,00 (Zero Real)
+
+Diante disso, determino que sejam adotadas as seguintes providências:
+1. Comunique-se o órgão do Ministério Público Federal na 5º Região acerca da instauração do presente IPL;
+
+2. Disponibilize-se nos autos principais:o DESPACHO Nº 93/2020 e forme-se apenso com os autos da Notícia de Fato — NF
+124.002.000119/2020-27;
+
+3. Expeça-se tarefa ao NO para identificação de todos os pagamentos realizados à empresa FRANCISCO MARCULINO DA
+SILVA- EPP - MT MANUTENÇÕES (CNPJ 26.931037/0001-27) pela prefeitura de COREMAS/PB, nos anos de 2018 a
+2020, indicando, em forma de tabela, o pagamento, o objeto do contrato, o ntimero do empenho, a licitação e a origem dos
+recursos. Os dados devem ser agrupados por licitação;
+
+4. Intime-se a Prefeitura de Coremas/PB para encaminhar cópia da integra do procedimento de Dispensa de Licitação 015/2020
+(contratação da empresa FRANCISCO MARCULINO DA SILVA- EPP - MT MANUTENÇÕES para prestação de serviço
+de manutenção preventiva e corretiva das redes de água fluvial e das redes de abastecimento de água potável para o consumo
+humano e animal) assim como do respectivo contrato e de todos os documentos relativos à execução contratual (empenhos,
+
+1/15
+Fl. 2
+DPF/PAT/PB
+2020.0110553
+
+comprovantes de pagamento, notas ficais, recibos, etc.);
+
+5. Aguarde-se em cartório a realização das diligências, observado o termo final do prazo de duração do IPL em sede policial,
+quando deverão os autos ser remetidos ao MPF com solicitação de dilação de prazo para continuidade das apurações.
+
+CUMPRA-SE.
+
+Patos/PB, 11 de janeiro de 2021.
+
+ 
+
+Documento eletrônico assinado em 11/01/2021, às 19h19, por MARCELO PESSOA DE AQUINO FRANCA FILHO, Delegado de
+Policia Federal, na forma do artigo 1º, inciso II, da Lei 11.419, de 19 de dezembro de 2006. A autenticidade deste do cumento pode
+
+ser conferida no site https://servicos dpf gov br/assinatura/app/assinatura, informando o seguinte código verificador:
+70737b4f lc Ida6d6 8b1296 82107b338f9d526830
+
+ 
+
+2/15
+Fl. 3
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+POLÍCIA FEDERAL
+
+DELEGACIA DE POLÍCIA FEDERAL EM PATOS - DPF/PAT/PB
+Endereço: Rua Alfredo Lustosa Cabral, 238 - Nova Brasília - CEP: 58706-550 - Patos/PB
+
+Oficio nº 308643/2021 - DPF/PAT/PB
+Patos /PB, 27 de janeiro de 2021.
+
+Ao(Ã) Senhor(a)
+
+Prefeito Municipal
+
+Coremas/PB
+
+R. Cap. Antônio Leite - Centro, Coremas - PB, 58770-000
+Fone( 83) 3433-1074
+
+Assunto: Informações (solicita)
+Referência: 2020.0110553-DPF/PAT/PB | (favor mencionar na resposta)
+
+Senhor(a) Prefeito,
+
+Em cumprimento à determinação de MARCELO PESSOA DE AQUINO FRANCA FILHO |,
+Delegado(a) de Polícia Federal e visando instruir os autos do caso IPL 2020.0110553-DPF/PAT/PB |,
+solicito a Vossa Senhoria encaminhar cópia da íntegra do procedimento de Dispensa de Licitação
+015/2020 (contratação da empresa FRANCISCO MARCULINO DA SILVA- EPP - MT MANUTENÇÕES
+para prestação de serviço de manutenção preventiva e corretiva das redes de água fluvial e das redes de
+abastecimento de água potável para o consumo humano e animal) assim como do respectivo contrato e de
+todos os documentos relativos à execução contratual comprovantes de pagamento, notas ficais, recibos,
+etc.).
+
+Atenciosamente,
+
+ 
+
+Documento eletrônico assinado em 27/01/2021, às 06h24, por DANILO LOPES DE MESQUITA, Escrivao de Policia Federal, na
+forma do artigo 1º, inciso HI, da Lei 11419, de 19 de dezembro de 2006. A autenticidade deste documento pode ser conferida no
+site https://servicos .dpf.gov br/assinatura/app/assinatura, informando o seguinte código verificador:
+bf09cf1263f9b6fbe465caa72693C53204ce97b8
+
+3/15
+Fi. 4
+PRRS-00017953/2020>2,
+2020.0110553
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+
+Ilmo. Sr. DELEGADO DE POLÍCIA FEDERAL DA SUPERINTENDÊNCIA
+REGIONAL NO ESTADO DA PARAÍBA
+
+ 
+
+NF n.º : 1.24.002.000119/2020-27
+Referência : Notícia de Fato
+Origem : Ministério Público Federal
+
+DESPACHO Nº 93/ 2020 (Eletrônico)
+
+Trata-se de Notícia de Fato nº 1.24.002.000119/2020-27, instaurada
+para apurar para apurar supostas irregularidades praticadas pela Prefeitura Municipal de
+Coremas/PB, sob a gestão da Prefeita Francisca das Chagas Andrade de Oliveira, no
+âmbito do procedimento de Dispensa de Licitação n. 015/2020 (Contrato n. 064/2020).
+Ref.: Processo TC 09705/20-TCE/PB, sob o argumento de que o objeto da contratação direta
+estaria relacionada ao combate da Pandemia do Novo Coronavírus (Covid- 19), mediante a
+utilização de recursos repassados pelo Sistema Único de Saúde ao Fundo Municipal de Saúde.
+
+Por se tratarem de irregularidades praticadas, em tese, por Prefeita,
+uma vez que a Sra. Francisca das Chagas Andrade de Oliveira foi eleita no último pleito
+municipal”, gozando, portanto, de privilégio de foro por prerrogativa de função, e por se tratar
+de recursos federais é que os documentos que instruem esta Notícia de Fato foram
+encaminhados a esta Procuradoria Regional da República da 5º Região.
+
+Em suma, consta dos autos em epígrafe que a Prefeitura Municipal de
+Coremas/PB teria realizado a contratação direta da empresa FRANCISCO MARCULINO DA
+SILVA- EPP - MT MANUTENÇÕES (CNPJ 26.931.037/0001-27), mediante Dispensa de
+Licitação (n.º 015/2020), com fundamento na Lei Municipal n.º 01/2020, que instituiu
+medidas temporárias e emergenciais para viabilizar o combate à COVID-19.
+
+A contratação teve por objetivo a realização de manutenção preventiva
+e corretiva das redes de água fluvial e das redes de abastecimento de água potável para o
+
+"http://www justicaeleitoral jus.br/arquivos/tre-pb-resultado-de-votacao-eleitos-20] 6rybena pdf?
+file=http://www justicaeleitoral,jus br/arquivos/tre-pb-resultado-de-votacao-eleitos-2016/at download/file
+
+1
+
+ 
+
+B7FBE:
 
  
 
  
 
-WRP
+ento.
+
+ 
+
+415
+Fl. 5
+PRRS-00017953/2020>2,
+2020.0110553
+
+ 
+
+ds
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+
+ 
+
+consumo humano e animal pertencentes ao Município, custeada com repasses do SUS ao
+Fundo Municipal de Saúde.
+
+Contudo, o Tribunal de Contas do Estado da Paraíba asseverou que a
+contratação deste serviço não poderia ser objeto de dispensa de licitação sob os fundamentos
+propostos, uma vez que se trata de serviço de manutenção regular desta infraestrutura, com
+periodicidade previsível, consoante seguinte trecho do Relatório TC 30476/20 (Processo TC
+09705/20):
+
+“3- FATO DENUNCIADO
+
+Trata os autos de denúncia apresentada a esta Corte pelos Srs. Francisco
+Sérgio Lopes Silva, Francisco de Assis Cláudio Araújo da Silva, Vereadores
+do Município de Coremas, em face da Sra. Francisca das Chagas Andrade de
+Oliveira, Prefeita do Município de Coremas, no tacante à ilegalidade na
+contratação direta de pessoa jurídica para prestação de serviços de mão-de-
+obra especializada na manutenção preventiva e corretiva das redes de água
+Tuvial e redes de abastecimento de água potável para o consumo humano e
+animal (Pertencentes a este Município), com o fornecimento de todos
+materiais necessários que por ventura forem usados ficam por conta da
+Prefeitura de Coremas/PB.
+
+Segundo os denunciantes o objetivo da gestora é fugir da realização do
+procedimento licitatório na modalidade pregão presencial ou eletrônico, que
+garantisse uma ampla e irrestrita competitividade.
+
+(.)
+
+Como é cediço, a fim de facilitar e a assistir o enfrentamento ao surto do
+coronavírus no país, o Estado brasileiro, dentre outras medidas previstas na
+Lei nº 13.979/2020, estabeleceu uma nova hipótese de dispensa de licitação
+para contratações voltadas ao enfrentamento da situação emergencial.
+
+Assim fora redigido o art. 4º, do referido diploma, in verbis:
+
+Art 4º. É dispensável a licitação o para aquisição o de bens, serviços,
+inclusive de engenharia, e insumos destinados ao enfrentamento da
+emergência de saúde pública de importância internacional decorrente do
+coronavírus de que trata esta Lei.
+
+A dispensa de licitação, objeto da presente denúncia, embora tenha como
+fundamento a legislação acima citada (conforme informações do Tramita),
+objetivando a contratação direta da pessoa jurídica para prestação de
+serviços de mão-de-obra especializada na manutenção preventiva e
+corretiva das redes de água fluvial e redes de abastecimento de água
+potável para o consumo humano e animal (Pertencentes a este Municipio),
+segundo ocorreu como afirmam os denunciantes na presente denúncia, esta
+
+ 
+
+5/15
+Fl. 6
+PRRS-00017953/2020>2,
+2020.0110553
+
+  
+
+MINISTÉRIO PÚBLICO FEDERAL
+
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+
+ 
+
+auditoria verificou que a dispensa ocorreu com fundamento no art. 24, IV da
+Lei de Licitações conforme se constata no termo de ratificação da referida
+dispensa extraído do portal de transparência (ver imagens ilustradas abaixo).
+
+(.)
+
+Vale ressaltar que o Plenário do Tribunal de Contas da União, ao dispor
+sobre a contratação com fundamento no art. 24, IV, da Lei de Licitações, já
+proferiu a decisão entendendo que para haver essa caracterização é
+necessário existir “urgência concreta e efetiva do atendimento a situação
+decorrente do estado emergencial ou calamitoso, visando afastar risco de
+danos a bens ou à saúde ou à vida das pessoas” e que o “risco, além de
+concreto e efetivamente provável, se mostre iminente e especialmente
+gravoso” (Decisão nº 347/1994).
+
+Acrescente-se a isso, como condição indispensável para a legalidade da
+contratação direta com base nesse dispositivo, a necessária demonstração de
+impossibilidade de providenciar a contratação necessária por meio de
+licitação, sob pena de a demora na realização do procedimento tornar
+inviável a satisfação da necessidade administrativa.
+
+Esse aspecto, aliás, deve restar devidamente demonstrado nos autos do
+processo administrativo que orienta a contratação. Se a satisfação da
+necessidade puder aguardar o prazo de realização de procedimento
+licitatório, então, não se justifica alegar situação emergencial ou de
+calamidade para viabilizar a contratação direta.
+
+Essa auditoria entende que embora o serviço de manutenção preventiva e
+corretiva das redes de água fluvial e redes de abastecimento de água potável
+seja necessário à higienização e, portanto, indispensável ao Covid-19, trata-
+se, pois, de serviço comum, rotineiro e que já faz parte do cronograma de
+constatações da edilidade em todos os exercícios, independentemente de
+pandemia, ou seja, não se enquadram na situação de imprevisão e urgência
+de maneira que não se possa providenciar a contratação necessária por meio
+de licitação.
+
+Ademais, fazendo uma consulta no SAGRES ON LINE acerca da
+contratação do Sr. Francisco Marculino da Silva pela Prefeitura de Coremas
+para o serviço similar no ano anterior (ver planilha abaixo), causou
+estranheza a esta auditoria o alto valor de R$ 52.291,20 contratado no
+exercício de 2020, durante a situação emergencial, quando comparado com
+os valores de 2019 descritos abaixo, tendo, inclusive, o fornecedor recebido
+ajudas financeiras como pessoa carente.
+
+(.)
+
+5. CONCLUSÃO:
+
+ 
+
+ocumento .
+
+ 
+
+ 
+
+6/15
+Fl. 7
+
+PRRS*-00017953/2020-5
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+Ante o exposto, esta auditoria conclui pela PROCEDÊNCIA da presente
+
+denúncia, tendo em vista o descumprimento da Lei nº 8.666/1993 e da Lei nº
+13.979/20.
+
+ 
+
+Ademais, este Órgão Técnico sugere a Concessão de Medida Cautelar para
+suspender a Dispensa de Licitação nº 15/2020 objeto da presente denúncia
+na fase em que se encontrar.”
+
+Nessa senda, a Auditoria do TCE/PB constatou, em análise ao Portal
+Transparência da Prefeitura de Coremas/PB?, que, apesar de cadastrado naquele Tribunal de
+Contas como dispensa de licitação com base na Lei Nacional 13.979, de 06 de fevereiro de
+2020, editada para dispor sobre as medidas para enfrentamento da emergência de saúde
+pública de importância internacional decorrente do coronavírus, o procedimento foi pautado
+na regra geral do art. 24, inciso IV da Lei 8.666/93, que trata das contratações.
+
+Assim, em razão dos fatos noticiados a esta Procuradoria Regional da
+República da 5º Região, os quais fornecem indícios da prática de crime capitulado no art. 89
+da Lei nº 8.666/93, remeto a Vossa Senhoria a Notícia de Fato em tela, a fim de que seja,
+incontinenti, procedida à instauração do competente inquérito policial.
+
+Ante ao até então apurado, requer este representante do Parquet
+Federal a realização das diligências a seguir indicadas, dentre outras que essa digna
+Autoridade Policial considerar importantes:
+
+a) Oitiva da Prefeita de Coremas/PB, Sra. Francisca das Chagas
+Andrade de Oliveira, para que a mesma possa se manifestar acerca
+dos fatos aqui relatados;
+
+b) Oitiva do Secretário de Saúde da Prefeitura de Coremas/PB, Sr.
+Edilson Pereira de Oliveira, para que o mesmo possa se manifestar
+acerca dos fatos aqui relatados;
+
+c) Oitiva do Representante da empresa FRANCISCO MARCULINO
+DA SILVA — EPP - MT MANUTENÇÕES (CNPJ: 26.931.037/0001-
+27), Sr. Francisco Marculino da Silva (CPF nº 424.380.554-72), para
+que o mesmo possa se manifestar acerca dos fatos aqui relatados;
+
+   
+
+rt. 89. Dispensar ou
+à dispensa ou à inexigibilidade:
+
+Pena- detenção, de 3 (três) a 5 (cinco) anos, e multa.
+
+Parágrafo único. Na mesma pena incorre aquele que, tendo comprovadamente concorrido para a consumação da ilegalidade,
+beneficiou-se da dispensa ou inexigibilidade ilegal, para celebrar contrato com o Poder Público.
+
+2020.0110553
+
+ 
+
+7/15
+Fl. 8
+PRRS-00017953/2020=;
+2020.0110553
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+d) Ofício ao Município de Coremas/PB, solicitando informações
+atualizadas, com documentação comprobatória, sobre as
+irregularidades apontadas no Processo TC nº 09705/20, do Tribunal de
+Contas do Estado da Paraíba.
+
+Recife, 29 de outubro de 2020.
+
+JOAQUIM JOSÉ DE BARROS DIAS
+
+Procurador Regional da República
+JJBD/JBB
+/desp2020
+
+ 
+
+B7FBE:
+
+ 
+
+ento.
+
+ 
+
+ 
+
+815
+Fl. 9
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+POLÍCIA FEDERAL
+DELEGACIA DE POLÍCIA FEDERAL EM PATOS - DPF/PAT/PB
+Endereço: Rua Alfredo Lustosa Cabral, 238 - Nova Brasília - CEP: 58706-550 - Patos /PB
+
+TERMO DE APENSAMENTO
+2020.0110553-DPF/PAT/PB
+
+Ao(s)27/012021 , nesta DPF/PAT/PB , em cumprimento ao despacho exarado a Portaria de Instauração, faço o
+APENSAMENTO aos autos principais do(a) IPL 2020.0110553-DPF/PAT/PB , Notícia de Fato - NF 1.24.002.000119/2020-27.
+
+ 
+
+Documento eletrônico assinado em 27/01/2021, às 06h28, por DANILO LOPES DE MESQUITA, Escrivao de Policia Federal, na
+forma do artigo 1º, inciso HI, da Lei 11419, de 19 de dezembro de 2006. A autenticidade deste documento pode ser conferida no
+site https://servicos .dpf.gov br/assinatura/app/assinatura, informando o seguinte código verificador:
+97098c3e96c4cab3083€345b4dfc3 c2d7a06 cas
+
+ 
+
+9/15
+ri. 10
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+POLÍCIA FEDERAL
+DELEGACIA DE POLÍCIA FEDERAL EM PATOS - DPF/PAT/PB
+Endereço: Rua Alfredo Lustosa Cabral, 238 - Nova Brasília - CEP: 58706-550 - Patos /PB
+
+Ofício nº 308627/2021 - DPF/PAT/PB
+Patos /PB,27 de janeiro de 2021.
+
+A Sua Excelência o(a) Senhor(a)
+Procurador Regional da República
+JOAQUIM JOSÉ DE BARROS DIAS
+Recife/PE
+
+Assunto: Instauração de Inquérito Policial (comunica)
+Referência: 2020.0110553-DPF/PAT/PB | (favor mencionar na resposta)
+
+Senhor(a) Procurador(a),
+
+Em cumprimento à determinação de MARCELO PESSOA DE AQUINO FRANCA FILHO |,
+Delegado(a) de Polícia Federal, comunico a Vossa Excelência que, em resposta OFÍCIO Nº
+23/2020/GAB/JJBD/PRR-5º REGIÃO, protocolado sob o nº 08375.005953/2020-70 , foi instaurado o
+Inquérito Policial: IPL 2020.0110553-DPF/PAT/PB - ePol , visando apurar: Trata-se de Requisição
+
+Ministerial de instauração de Inquérito Policial, lastreada em denúncia apresentada pelos Vereadores
+FRANCISCO SERGIO LOPES SILVA, FRANCISCO DE ASSIS CLEMENTINO e CLÁUDIO ARAUJO
+
+DA SILVA, segundo a qual a Prefeitura Municipal de COREMAS/PB teria realizado, de forma irregular e
+com possível sobrepreço, a contratação direta da empresa FRANCISCO MARCULINO DA SILVA- EPP -
+MT MANUTENÇÕES (CNPJ 26.931.037/0001-27), com recursos do SUS, por meio da Dispensa de
+Licitação 015/2020 e do Contrato 064/2020, para prestação de serviço de manutenção preventiva e
+corretiva das redes de água fluvial e das redes de abastecimento de água potável para o consumo humano
+e animal do Município.
+
+Atenciosamente,
+
+ 
+
+Documento eletrônico assinado em 27/01/2021, às 06h32, por DANILO LOPES DE MESQUITA, Escrivao de Policia Federal, na
+forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A autenticidade deste documento pode ser conferida no
+
+site https://servicos .dpf.gov br/assinatura/app/assinatura, informando o seguinte código verificador:
+5919feSfdbaS38ea36 709882efba9086472619e0
+
+10/15
+r1. 1
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+POLÍCIA FEDERAL
+DELEGACIA DE POLÍCIA FEDERAL EM PATOS - DPF/PAT/PB
+Endereço: Rua Alfredo Lustosa Cabral, 238 - Nova Brasília - CEP: 58706-550 - Patos /PB
+
+CERTIDÃO Nº 308631/2021
+2020.0110553-DPF/PAT/PB
+
+Patos /PB, 27 de janeiro de 2021.
+
+CERTIFICO que conuniquei a PRR 5º através do protocolo eletrônico 1271/2021.
+CERTIFICO que expedi Tarefa 68530 ao N.O.
+
+ 
+
+Documento eletrônico assinado em 27/01/2021, às 06h37, por DANILO LOPES DE MESQUITA, Escrivao de Policia Federal, na
+forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A autenticidade deste documento pode ser conferida no
+
+site https://servicos .dpf.gov br/assinatura/app/assinatura, informando o seguinte código verificador:
+7773$66 8da83 194 1c89c Idde840efcad2ess6b2f
+
+ 
+
+11/15
+Fi. 12
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+POLÍCIA FEDERAL
+TERMO DE REMESSA
+
+Faço a remessa dos autos ao Ministério Público Federal em Sousa/PB.
+
+ 
+
+Documento eletrônico assinado em 05/03/2021, às 11hll, por FELIPE FREITAS DE MEDEIROS, Escrivao de Policia Federal, na
+forma do artigo 1º, inciso HI, da Lei 11419, de 19 de dezembro de 2006. A autenticidade deste documento pode ser conferida no
+site https://servicos .dpf.gov br/assinatura/app/assinatura, informando o seguinte código verificador:
+6bff17c81af 4120 ca6 6d2cebc5754c75aa4f9453
+
+ 
+
+12/15
+ 
+
+Processo Judicial Eletrônico
+Justiça Federal na Paraíba
+
+Sua Petição foi finalizada com sucesso.
+
+Número do Processo: 0800215-61.2021.4.05.8202
+
+Informações do Processo
+
+Fl.
+
+13
+
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Distribuído em:
+Protocolado por:
+
+Jurisdição Classe Judicial Valor da Causa
+SOUSA INQUÉRITO POLICIAL 0,00
+Assunto Descrição Lei
+DIREITO PENAL ICrimes Contra as Finanças
+Públicas|Má-gestão praticada por Prefeitos e
+Vereadores
+DIREITO PENAL ICrimes Previstos na
+Legislação ExtravaganteJCrimes da Lei de
+licitações]
+Complemento Valor
+Ano 2020
+Delegacia ou origem DPF/PAT/PB
+NºIPL 2020.0110553 - DPF/PAT/PB
+AUTORIDADE
+
+POLÍCIA FEDERAL DA PARAÍBA
+MINISTÉRIO PÚBLICO FEDERAL
+
+INDICIADO
+APURAR
+
+1
+
+13/15
+ri. 14
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+POLÍCIA FEDERAL
+
+DELEGACIA DE POLÍCIA FEDERAL EM PATOS - DPF/PAT/PB
+Endereço: Rua Alfredo Lustosa Cabral, 238 - Nova Brasília - CEP: 58706-550 - Patos /PB
+
+CERTIDÃO Nº 985276/2021
+2020.0110553-DPF/PAT/PB
+
+Patos /PB, 9 de março de 2021.
+
+CERTIFICO que na movimentação de remessa dos autos via PJe, equivocadamente, este subscritor carregou os autos
+movimentando para o Procuradoria da República em Sousa'PB, quando o a movimentação correta deveria ter sido para Procuradoria
+da República da 5º Região. Logo, por tal motivo, deve-se desconsiderar a movimentação extema - Protocolo PJe 0800215-
+
+61.20214.05.8202 (fls.13) bem como seu prosseguimento via PJe perante o MPF em Sousa/PM solicitando-se assim o
+encerramento desse processo.
+
+ 
+
+Documento eletrônico assinado em 09/03/2021, às 10h16, por FELIPE FREITAS DE MEDEIROS, Escrivao de Policia Federal, na
+forma do artigo 1º, inciso HI, da Lei 11419, de 19 de dezembro de 2006. A autenticidade deste documento pode ser conferida no
+site https://servicos .dpf.gov br/assinatura/app/assinatura, informando o seguinte código verificador:
+f159b72b13d787b1593f3c63c6fealead26bfd77
+
+14/15
+Fi. 15
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+POLÍCIA FEDERAL
+TERMO DE REMESSA
+
+Faço a remessa dos autos à Procuradoria da República na 5º Região.
+
+ 
+
+Documento eletrônico assinado em 09/03/2021, às 10h22, por FELIPE FREITAS DE MEDEIROS, Escrivao de Policia Federal, na
+forma do artigo 1º, inciso HI, da Lei 11419, de 19 de dezembro de 2006. A autenticidade deste documento pode ser conferida no
+site https://servicos .dpf.gov br/assinatura/app/assinatura, informando o seguinte código verificador:
+21c1a09834ecc80cbceaal 69693872b70 8af 7513
+
+ 
+
+FELIPE FREITAS DE MEDEIROS - Procurador 21030910354779800000024843338
+Data e hora da assinatura:09/03/2021 10:37:27
+
+Identificador: 4050000.24886167
+
+Para conferência da autenticidade do documento: hit;
+
+Processo: 0802509-54.2021.4.05.0000
+Assinado eletronicamente por:
+
+15/15
+
+ 
+
+ 
+ 
+
+2020.0110553
+
+ 
+
+ne
+POLÍCIA FEDERAL
+DELEGACIA DE POLÍCIA FEDERAL EM PATOS - DPF/PAT/PB
+Endereço: Rua Alfredo Lustosa Cabral, 238 - Nova Brasília - CEP: 58706-550 - Patos /PB
+
+TERMO DE APENSAMENTO
+2020.0110553-DPF/PAT/PB
+
+Ao(s) 27/01/2021 , nesta DPF/PAT/PB , em cumprimento ao despacho exarado a Portaria de Instauração, faço o
+APENSAMENTO aos autos principais do(a) IPL 2020.0110553-DPF/PAT/PB , Notícia de Fato - NF 124.002.000119/2020-27.
+
+ 
+
+Documento eletrônico assinado em 27/01/2021, às 06h27, por DANILO LOPES DE MESQUITA, Escrivao de Policia Federal, na
+forma do artigo 1º, inciso HI, da Lei 11419, de 19 de dezembro de 2006. A autenticidade deste documento pode ser conferida no
+site https://servicos .dpf.gov br/assinatura/app/assinatura, informando o seguinte código verificador:
+27c3ced10f5350f2f8c772ed736056 ISb81c41d7
+
+ 
+
+1/48
+ 
+
+ 
+
+o
+
+10553
+
+PROCURADORIA REGIONAL DA REPÚBLICA DA 5º REGIÃO
+CRIMINAL
+Data de Autuação: 04/06/2020
+
+ 
+
+ 
+
+Notícia de Fato - NF
+
+ 
+
+1.24.002.000119/2020-27
+
+Volume |
+
+Resumo:
+
+Apurar supostas irregularidades praticadas pela Prefeitura Municipal de Coremas/PB, sob a gestão da Prefeita
+FRANCISCA DAS CHAGAS ANDRADE DE OLIVEIRA, quanto à Dispensa de Licitação n. 015/2020 e ao
+Contrato n. 064/2020, objetivando a prestação de serviço de mão-de-obra especializada. Ref.: Processo TC
+09705/20-TCE/PB.
+
+Partes:
+
+INTERESSADO - JOAO PESSOA TRIBUNAL DE CONTAS DO ESTADO DA PARAIBA
+REPRESENTANTE - MARIA NEUMA ARAÚJO ALVES
+
+Distribuição:
+
+PRM-SOUSA - Encerrada em 23/07/2020 - PRM-SS - 2º Ofício
+Grupo temático principal:
+
+5º Câmara - Combate à Corrupção
+Tema:
+
+10011 - Improbidade Administrativa (Atos Administrativos/DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS
+
+DE DIREITO PÚBLICO)
+Observação:
+
+Município(s):
+COREMAS - PB
+
+Movimentado para:
+27/07/2020 - PRR5º REGIÃO/GABPRR2-JJBD - JOAQUIM JOSE DE BARROS DIAS
+
+2/48
+
+ 
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1, Página 1
+
+ 
+
+ 
+
+F1.3
+DPF/PAT/PB
+2020.0110553
+
+Vora”
+TRIBUNAL DE CONTAS DO ESTADO
+
+2º CÂMARA
+Rua Profº Geraldo Von Sohsten, nº 147 - Jaguaribe — 58015-190 - João Pessoa-PB
+Fone: (83) 3208-3405
+Home Page:www.tce.pb.gov.br - E-mail: 2camlltce.pb.gov.br
+
+OFÍCIO Nº 0163/2020-SEC.2º.
+João Pessoa, 21 de maio de 2020.
+
+A Sua Excelência o Senhor
+
+SÉRGIO RODRIGO PIMENTEL DE CASTRO PINTO
+Procurador do Ministério Público Federal na Paraíba
+Av. Presidente Epitácio Pessoa, 1800 - Expedicionários
+NESTA
+
+Senhor Procurador,
+
+Em cumprimento à determinação do Excelentíssimo Senhor
+Conselheiro André Carlo Torres Pontes, levamos ao conhecimento de Vossa
+Excelência que tramita nesta Corte de Contas o Processo TC 09705/20, que trata
+de denúncia subscrita pelos Senhores FRANCISCO SÉRGIO LOPES SILVA,
+FRANCISCO DE ASSIS CLEMENTINO e CLÁUDIO ARAÚJO DA SILVA
+(Vereadores) em face da Prefeitura Municipal de Coremas, sob a gestão da
+Prefeita, Senhora FRANCISCA DAS CHAGAS ANDRADE DE OLIVEIRA, sobre
+irregularidades na Dispensa de Licitação 015/2020 e no Contrato 064/2020,
+materializado para a prestação de serviço de mão-de-obra especializada (enquanto
+perdurar a vigência do Decreto Municipal 001/2020, que instituiu as medidas
+temporárias e emergenciais - COVID/19, datado de 17/03/2020, e o Decreto
+Municipal que alterou o Decreto Municipal 001/2020, datado de 20/03/2020), na
+manutenção preventiva e corretiva das redes de água fluvial e das redes de
+abastecimento de água potável para o consumo humano e animal (pertencentes ao
+Município), com o fornecimento de todos materiais necessários que por ventura
+forem usados por conta da Prefeitura de Coremas/PB., cujo inteiro teor do
+mencionado Processo pode ser acessado no endereço eletrônico
+https://tramita.tce.pb.gov.br, na forma abaixo prevista:
+
+1. “Consulta Processo ou Documento”
+
+2. Clicar em “Listagem de Processos”
+
+3. Digitar o número do processo na caixa: “Número de
+Protocolo”
+
+4. Clicar em procurar
+
+5. Nesta tela, clicar em “ Autos Eletrônicos”
+
+Respeitosamente,
+
+Ofício 00163/20 - 2º Câmara. Proc. 09705/20. Data: 21/05/2020 12:13. Responsável: Maria Neuma A. Alves.
+Impresso por mneuma em 22/05/2020 18:01. Validação: F278.37C3.8ECE.B3CC.405F.BBAE.3998.D5AF.
+
+79
+
+79
+
+3/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1, Página 2
+
+ 
+
+ 
+
+Assinado em 21 de Maio de 2020
+
+ 
+
+15] Assinado Eletronicamente
+
+ 
+
+Eh
+
+ 
+
+conforme LC 18/92, alterada pela LC 91j2009 6
+pelo Regimento Interno, allerato pele
+RATC 18/2008
+
+ 
+
+Maria Neuma Araújo Alves
+Mat. 3701875 .
+SECRETÁRIO DE CÂMARA
+
+rm. 4
+DPF/PAT/PB
+2020.0110553
+
+Ofício 00163/20 - 2º Câmara. Proc. 09705/20. Data: 21/05/2020 12:13. Responsável: Maria Neuma A. Alves.
+Impresso por mneuma em 22/05/2020 18:01. Validação: F278.37C3.8ECE.B3CC.405F.BBAE.3998.D5AF.
+
+80
+
+80
+
+4/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 1
+
+ 
+
+ 
+
+ 
+
+/PB
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+Origem: Prefeitura Municipal de Coremas
+
+Natureza: Denúncia
+
+Denunciantes: Francisco Sérgio Lopes Silva / Francisco de Assis Clementino / Cláudio Araújo da Silva
+Denunciada: Prefeitura Municipal de Coremas
+
+Responsável: Francisca das Chagas Andrade de Oliveira (Prefeita)
+
+Interessado: Edilson Pereira de Oliveira (Secretário Municipal de Saúde)
+
+Interessada: Empresa Francisco Marculino da Silva-EPP (MT Manutenções)
+
+Representante: Francisco Marculino da Silva
+
+Relator: Conselheiro André Carlo Torres Pontes
+
+DENÚNCIA. MEDIDA CAUTELAR. Prefeitura de Coremas.
+Dispensa de Licitação 015/2020 e Contrato 064/2020. Prestação de
+serviço de mão-de-obra especializada (enquanto perdurar a vigência do
+Decreto Municipal 001/2020, que instituiu as medidas temporárias e
+emergenciais - COVID/19, datado de 17/03/2020, e o Decreto Municipal
+que alterou o Decreto Municipal 001/2020, datado de 20/03/2020), na
+manutenção preventiva e corretiva das redes de água fluvial e das redes
+de abastecimento de água potável para o consumo humano e animal
+(pertencentes ao Município), com o fornecimento de todos materiais
+necessários que por ventura forem usados por conta da Prefeitura de
+Coremas/PB, conforme planilha de custo. Serviços comuns e genéricos.
+Descumprimento da Lei 13.979/20. Recursos do Sistema Único de Saúde
+Transferidos ao Município. Recursos Federais. Medida Cautelar
+parcialmente concedida para alertar a Prefeitura e o Fundo Municipal de
+Saúde de Coremas sobre os fatos constantes da denúncia, do relatório da
+Auditoria e desta decisão, e a necessidade da certificação da correlação
+dos serviços com o combate ao COVID-19. Citação dos interessados.
+Comunicação ao Ministério Público Federal, à Controladoria Geral da
+União, ao Tribunal de Contas da União e à Promotoria de Justiça com
+atuação em Coremas. Submissão à Segunda Câmara, nos termos do art.
+18, IV, “b”, do Regimento Interno do TCE/PB.
+
+DECISÃO SINGULAR DS?2 - TC 00057/20
+
+47
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 5148
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 2
+
+ 
+
+ 
+
+1. 6
+DPF/PAT/PB
+2020.0110553
+
+ 
+ 
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+RELATÓRIO
+
+Cuida-se de denúncia subscrita pelos Senhores FRANCISCO SÉRGIO LOPES SILVA,
+FRANCISCO DE ASSIS CLEMENTINO e CLÁUDIO ARAÚJO DA SILVA (Vereadores) em face da
+Prefeitura Municipal de Coremas, sob a gestão da Prefeita, Senhora FRANCISCA DAS CHAGAS
+ANDRADE DE OLIVEIRA, sobre irregularidades na Dispensa de Licitação 015/2020 e no Contrato
+064/2020, materializado para a prestação de serviço de mão-de-obra especializada (enquanto perdurar a
+vigência do Decreto Municipal 001/2020, que instituiu as medidas temporárias e emergenciais -
+COVID/19, datado de 17/03/2020, e o Decreto Municipal que alterou o Decreto Municipal 001/2020,
+datado de 20/03/2020), na manutenção preventiva e corretiva das redes de água fluvial e das redes de
+abastecimento de água potável para o consumo humano e animal (pertencentes ao Município), com o
+fornecimento de todos materiais necessários que por ventura forem usados por conta da Prefeitura de
+Coremas/PB, conforme planilha de custo, celebrado com a empresa FRANCISCO MARCULINO DA
+SILVA-EPP - MT MANUTENÇÕES (CNPJ 26.931.037/0001-27), representada pelo seu proprietário,
+Senhor FRANCISCO MARCULINO DA SILVA (CPF 424.380.554-72), assinado em 30/03/2020, com
+vigência para pagamento até 31/12/2020, no valor total de R$52.291,20.
+
+Em síntese, os denunciantes alegaram que a Prefeitura se utilizou de dispensas de licitação
+para contratar os serviços sobre o falso e irregular argumento de combate ao COVID-19 e, ao final,
+requereram a concessão de medida cautelar para suspensão do procedimento (fls. 02/28).
+
+A Ouvidoria posicionou-se pela recepção e processamento da denúncia (fls. 30/32).
+
+A Auditoria analisou os elementos e lavrou relatório às fls. 35/43, com as seguintes
+conclusões:
+
+“Ante o exposto, esta Auditoria conclui pela PROCEDÊNCIA da presente denúncia,
+tendo em vista o descumprimento da Lei nº 8.666/1993 e da Lei nº 13.979/20.
+
+Ademais, este Órgão Técnico sugere a Concessão de Medida Cautelar para suspender a
+Dispensa de Licitação nº 15/2020 objeto da presente denuncia na fase em que se encontrar”.
+
+É o relatório. Decido.
+
+48
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 6/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 3
+
+ 
+
+ 
+
+F1. 7
+DPF/PAT/PB
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+A Auditoria analisou a matéria da seguinte forma (fls. 35/43):
+
+ 
+
+Documento: | 30476/20
+
+FRANCISCO SERGIO LOPES SILVA, FRANCISCO DE
+ASSIS CLEMENTINO E CLÁUDIO ARAUJO DA SILVA
+
+Jurisdicionado: | PREFEITURA MUNICIPAL DE COREMAS
+
+Denúncia referente a Crimes de Improbidade
+Assunto | Administrativa e Criminal decorrente da dispensa de
+licitação n. 15/2020
+
+Contratação direta da pessoa jurídica Francisco Marculino
+da SilvalEPP (MT  Manutenções), CNPJ Nº
+26.931.0370001-27, para prestar serviços de mão-de-obra
+especializada: (Enquanto perdura a vigência do Decreto
+Municipal Nº 001/2020, que instituiu as medidas
+temporárias e emergenciais - COVID/9, datado de
+17/03/2020, e o Decreto Municipal que alterou o Decreto
+Municipal Nº 001/2020, datado de 20/03/2020) na
+manutenção preventiva e corretiva das redes de água
+fluvial e redes abastecimento de água potável para o
+consumo humano e animal (Pertencentes a este
+Município). com o fomecimento de todos materiais
+necessários que por ventura forem usados ficam por conta
+da Prefeitura de Coremas/PB, conforme planilha de custo.
+
+ 
+
+Denunciantes:
+
+ 
+
+ 
+
+ 
+
+Objeto
+
+ 
+
+ 
+
+ 
+
+RELATÓRIO INICIAL
+
+4. INTRODUÇÃO
+
+Trata-se de denúncia com pedido de liminar formulada pelos Srs. Francisco
+Sérgio Lopes Silva, Francisco de Assis Clementino e Cláudio Araújo da Silva,
+Vereadores do Município de Coremas, em face da dispensa de licitação promovida
+pela Sra. Francisca das Chagas Andrade de Oliveira, Prefeita do Município de
+Coremas, que tem por objeto a coniratação direta da pessoa juridica Francisco
+Marculino da Silva-EPP (MT Manutenções), CNPJ Nº 26.931.0370001-27, para
+
+So
+
+49
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+
+Impresso por meuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D.
+
+7/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 4
+
+ 
+
+ 
+
+ 
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+prestação de serviços de mão-de-obra especializada (Enquanto perdura a vigência
+do Decreto Municipal Nº 001/2020, que instituiu as medidas temporárias e
+emergenciais - COVID/19, datado de 17/03/2020, e o Decreto Municipal que alterou
+o Decreto Municipal Nº 001/2020, datado de 20/03/2020) na manutenção preventiva
+e corretiva das redes de água fluvial e redes abastecimento de água potável para o
+consumo humano e animal (Periencentes a este Municipio), com o fomecimento de
+todos materiais necessários que por ventura forem usados ficam por conta da
+
+Prefeitura de Coremas/PB, conforme planilha de custo
+2. EXAME DE ADMISSIBILIDADE
+
+A presente Representação preenche os requisitos de. admissibilidade
+constantes no art. 171 do Regimento Interno do TCE/PE, uma vez que a matéria é
+de competência do Tribunal, refere-se a responsável sujeito a sua jurisdição, está
+redigida em linguagem clara e objetiva, contém nome legível, qualificação e
+endereço do representante e encontra-se acompanhada de documentação
+
+relacionada ao fato denunciado.
+
+Além disso, na forma do art. 169 do Regimento Interno desta Corie de
+Contas, qualquer cidadão, partido político, associação, sindicato ou membro de
+Ministério Público é parte legitima para denunciar irregularidades ou ilegalidades
+perante o Tribunal de Contas do Estado. Dessa forma, a representação deverá ser
+
+apurada.
+
+Quanto à possibilidade de concessão de medida cautelar, há previsão no
+Regimento Interno do Tribunal de Contas do Estado da Paraiba conforme podemos
+
+observar no art. 195, 81º, nos seguintes termos:
+
+“Ar. 195. No início ou no curso de qualquer
+apuração, o Tribunal, de oficio ou a requerimento
+do Ministério Público junto ao Tribunal de Contas
+poderá solicitar a quem de direito. cautelarmente,
+nos termos do art. 44 da Lei Complementar nº 18,
+de 13 de julho de 1993, o afastamento temporânio
+do responsável, se existirem indícios suficientes de
+
+50
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 848
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 5
+
+ 
+
+ 
+
+ 
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+que, prosseguindo no exercício de suas funções,
+possa retardar ou dificultar a realização de
+auditoria ou inspeção, causar novos danos ao
+Erário ou inviabilizar o seu ressarcimento.
+
+$ 7º. Poderá, ainda, o Relator ou o Tribunal
+determinar, cautelarmente, em processos
+sujeitos à sua apreciação ou julgamento, a
+suspensão de procedimentos ou execução de
+despesas, até decisão final, se existentes indícios
+de irregularidades que, como perigo da demora,
+possa causar danos ao erário”.
+
+3 — FATO DENUNCIADO
+
+Trata os autos de denúncia apresentada a esta Corte pelos Srs. Francisco
+Sérgio Lopes Silva, Francisco de Assis Clementino e Cláudio Araújo da Silva,
+Vereadores do Município de Coremas, em face da Sra. Francisca das Chagas
+Andrade de Oliveira, Prefeita do Município de Coremas, no tocante a ilegalidade na
+a contratação direta da pessoa juridica para prestação de serviços de mão-de-obra
+especializada na manutenção preventiva e corretiva das redes de água fluvial e
+redes abastecimento de água potável para o consumo humano e animal
+(Pertencentes a este Município), com o fornecimento de todos materiais necessários
+que por ventura forem usados ficam por conta da Prefeitura de Coremas/PB.
+
+Alegam os denuncianies que a referida contratação pela prefeitura municipal
+não atende ao disposio no art. 4 da Lei n 13.979/20, uma vez que não são
+destinados ao combate da Covid-19.
+
+Segundo os denunciantes o objetivo da gestora é fugir da realização do
+procedimento licitatório na modalidade pregão presencial ou eletrônico, que
+
+garantisse uma-ampla e irrestrita competitividade.
+
+Diante do fato narrado, pedem os denunciantes que se investigue práticas
+executadas pela Prefeitura Municipal de Coremas no tocante à referida contratação,
+bem como a expedição de medida cautelar para a suspensão imediata da dispensa
+de licitação n. 15/2020.
+
+51
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 9/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 6
+
+ 
+
+ 
+
+ri. 10
+DPF/PAT/PB
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+Como é cediço, a fim de facilitar e a assistir o enfrentamento ao surto do
+coronavirus no pais, o Estado brasileiro, dentre outras medidas previstas na Lei nº
+13.979/2020, estabeleceu uma. nova hipótese de dispensa de licitação para
+
+contratações voltadas ao enfrentamento da situação emergencial.
+Assim fora redigido o art. 4º, caput, do referido diploma, in verbis:
+
+Art 4º - É dispensável a licitação para aquisição de
+bem, serviços, inclusive de engenharia, e insumos
+destinados ao enfrentamento da emergência de
+saúde pública de imporiância intemacional
+
+decorrenie do coronavirus de que trata esta Lei.
+
+À dispensa de licitação, objeto da presente denuncia, embora tenha como
+fundamento a legislação acima citada (conforme informações do Tramita),
+objetivando a contratação direta da pessoa jurídica para prestação de serviços de
+mão-de-obra especializada na manutenção preventiva e corretiva das redes de água
+fluvial e redes abastecimento de água potável para o consumo humano e animal
+(Pertencentes a este Municipio), segundo afirmam os denunciantes na presente
+denúncia, esta auditoria verificou que a dispensa ocorreu com fundamento no art.
+24, IV da Lei de Licitações conforme se constata no termo de ratificação da referida
+dispensa extraido do portal de transparência (ver imagens ilustradas abaixo ).
+
+DISPENSA-015-2020 - Manutenção preventiva e corretiva das redes de água Muvial e
+redes abastecimento de água potável para o consumo humano e animal (COVID/19).
+
+TERMO DE RATIFICAÇÃO DE DISPENSA DE LICITAÇÃO Nº ors/2020
+LULU AeFAÇÕES big Rtálum FNE! 4 cuesbnaço e ceetora cio Mises ipes msm
+
+  
+   
+ 
+  
+  
+  
+
+  
+ 
+ 
+ 
+ 
+
+dTida) cursos. Diruito:
+nfbiicias lemporarias « emespentãm - COND:
+Samadodo ma manumação premrtres
+
+Prestar aaneço a (rquário percduca a vigência ão Decruto: ir
+
+2070) e 0 Decteto turcipat
+
+ 
+
+mera ce due moço e apra atuarem
+ps sense free traem tr ea por conta
+Musso 14 OA) 24, da Les Federas dê EGEGAO q de
+
+geesencertem a ento dfuneigao), com O
+
+sra parana
+
+  
+ 
+
+Cimenuura
+
+   
+
+  
+ 
+
+e tua Cocertas/PU Pusigus-s a cumpris das Corisuis PD
+
+ 
+
+rg o
+
+52
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 10/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 7
+
+ 
+
+ 
+
+30
+rm. 1
+
+DPF/PAT/PB
+
+   
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+  
+
+Vale ressaltar que o Plenário do Tribunal de Contas da União, ao dispor sobre
+contratação com fundamento no art. 24, IV, da Lei de Licitações, já proferiu decisão
+entendendo que para haver essa caracterização é necessário existir “urgência
+concreta e efetiva do atendimento a situação decorrente do estado emergencial ou
+calamitoso. visando afastar risco de danos a bens ou à saúde ou à vida de pessoas”
+e que “o risco, além de concreto e efetivamente provável, se mostre iminente e
+especialmente gravoso" (Decisão nº 347/1994).
+
+Acrescente-se a isso, como condição indispensável para a legalidade da
+contratação direta com base nesse dispositivo, a necessária demonstração de
+impossibilidade de providenciar a contratação necessária por meio de
+licitação, sob pena de a demora na realização do procedimento tornar inviável
+
+a satisfação da necessidade administrativa.
+
+Esse aspecio, aliás, deve restar devidamente demonstrado nos autos do
+processo administrativo que orienta a contratação. Se a satisfação da necessidade
+puder aguardar o prazo de realização de procedimento licitatório, então, não se
+justifica alegar situação emergencial ou de calamidade para viabilizar a
+
+contratação direta.
+
+Esta auditoria entende que embera o serviço de manutenção preventiva e
+corretiva das redes de água fluvial e redes abastecimento de água potável seja
+necessário à higienização e, portanto, indispensável ao combate a Covid-19, trata-
+se, pois, de serviço comum, rotineiro e que já faz parte do cronograma: de
+contratações da edilidade-em todos os exercicios, independentemente de pandemia,
+ou seja, não se enquadram na situação de imprevisão e urgência de maneira
+
+que não se possa providenciar a contratação necessária por meio de licitação.
+
+53
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 11/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 8
+
+ 
+
+ 
+
+Processo TC 09705/20
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Documento TC 30476/20
+
+r1. 12
+DPF/PAT/PB
+
+Bão
+
+2020.0110553
+
+Ademais, fazendo uma consulta no SAGRES ON LINE acerca da contratação
+
+do Sr. Francisco Marculino da Silva pela Prefeitura de Coremas para serviço similar
+
+no ano anterior (ver planilha abaixo), causou estranheza a esta auditoria o alto valor
+
+de R$ 52.291,20 contratado no exerci
+
+ 
+
+ 
+
+jo de 2020, durante a situação emergencial,
+
+quando comparado com os valores de 2019 descritos abaixo, tendo, inclusive, o
+
+fornecedor recebido ajudas financeiras como pessoa carente .
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -26,7 +1674,7 @@ WRP
  
 
   
-    
+   
 
  
 
@@ -34,137 +1682,3383 @@ WRP
 
  
 
-REGIÃO
-Assin 3IMINAL
-06/2020
-R$ MINIST) -ICO FEDERAL
-A - PROCUMANISRÉRIO BÚDENTOORERERÓBLICA - 5º REGIÃO
-
-ineidestadotia Pr pribrentesdeiociausta
-
-e pd A
-
-RI é a
-pm REA ei?
-
-os 14, ONCEHSAGE Marculino da Silva eta nº 424380.554-72), para
-
-RR qa PR gpa '
-
  
-     
-
-OOG9DIBADAIRDréSAGaL Esta vidbdata didádadadenaca soe
+ 
 
  
 
-    
-    
  
-  
 
  
 
-  
+ 
 
-    
+ 
 
-  
-    
+ 
+
+ 
+
+ 
+
+ 
+
+ne do Valor
+Empenho. Mis CPEMCNPI Fornecedor. Empenhado Histórico
+REFERENTE A SERVIÇOS
+PRESTADOS NA MANUTENÇÃO DO
+ABASTECIMENTO DE AGUA DO
+MUNICIPIO DE COREMAS-PE.
+FRANCISCO CORRESPONDENTE AO MÊS DE
+MARCULINO DA NOVEMBRO DE 19. CONFORME
+OuIZsa3 LZ-Dezenbro | OMMAIROSSAT | SILVA R$ 215000 | CONSTA NOTA FISCAL EM ANEXO:
+REFERENTE A SERVIÇOS
+PRESTADOS NA MANUTENÇÃO DO
+ABASTECIMENTO DE AGUA DO
+MUNICIPIO DE COREMAS-PB,
+FRANCISCO CORRESPONDENTE AO MÊS DE
+MARCULINO DA DEZEMBRO DE 2019: CONFORME
+tebi2o0a [2-Dezenbro | OMM24IHOSSATO | SILVA R5 2is00o | CONSTA NOTA FISCAL EM ANEXO
+REFERENTE A PRESTAÇÃO DE
+SERVIÇO NA COORDENAÇÃO DOS
+TRABALHOS DE ABASTECIMENTO:
+FRANCISCO DE AGUA DO MUNICIPIO DE
+MARCULINO DA COREMAS-PB. CONFORME CONSTA
+UBOTLOS | iT-Julho ODNAAInOSSAT | SILVA RS ADS0S3 | NOTA FISCAL EM ANEXO.
+“| REFERENTE AU
+FINANCEIRA DESTI»
+PESSOA CARENTE DESTE
+FRANCISCO MUNICIPIO PARA TRATAMENTO DE
+MARCULINO DA SAÚDE, CONFORME CONSTA
+OMOBINE | ig-abeil DARIA | SILVA RS S600M | RECIBO EM ANEXO.
+REFERENTE A UMA AJUDA
+FINANCEIRA DESTINADA &
+PESSOA CARENTE DESTE
+FRANCISCO MUNICIPIO PARA TRATAMENTO DE
+MARCULINO DA SAUDE. CONFORME CONSTA
+ODÓDIOT | UlMuça ODMI4IRÓSSATO | SILVA R5 AMO | RECIBO EM ANEXO.
+REFERENTE À UMA AJUDA
+FINANCEIRA DESTINADA A
+PESSDA CARENTE DESTE
+FRANCISCO MUNICIPIO PARA TRATAMENTO DE
+MARCULINO DA SAÚDE, CONFORME CONSTA
+UbmERT |mi-Fevercio | onMDamossAm | SILVA RS SOW0O | RECIRO EM ANEXO.
+í “| REFERENTE A UMA AJUDA
+FINANCEIRA DESTINADA A
+PESSOA CARENTE DESTE
+FRANCISCO MUNICIPIO PARA TRATAMENTO DE
+MARCULINO DA SAÚDE, CONFORME CONSTA
+Começo | Wi-Janeiro OMMBAIROSSAD | SILVA R$ 45000 | RECIBO EM ANEXO
+
+ 
+
+ 
+
+54
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D.
+
+12/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 9
+
+ 
+
+ 
+
+950
+
+ri. 13
+DPF/PAT/PB
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+À titulo de informação, no atual exercício de 2020, constam empenhos em
+nome do Sr. Francisco Marculino da Silva referentes aos serviços no abastecimento
+
+e manutenção de água no Municipio de Coremas, conforme planilha abaixo.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nedo Valor.
+Empenho: mês CPE/ENEI Fornecedor | Empenhado Hisórico
+REFERENTE AOS SERVIÇOS PRESTADOS NO
+FRANCISCO ABASTECIMENTO E MANUTENÇÃO DE ÁGUA DO
+MARCULINO DA MUNICIPIO DE COREMAS. CONFORME NOTA
+Oonsãaz | ha-nbril donazasdassar | suva R$ 260,00 | FISCAL EMANEHO
+REFERENTE AOS SERVIÇOS PRESTADOS NO
+FRANCISCO ABASTECIMENTO E MANUTENÇÃO DE ÁGUA DO
+MARCULINO DA MUNICIPIO DE COREMAS, CONFORME NOTA.
+Oonzszr |Ga-maço | conszassossaz2 | suva R$ 5.305,00 | FISCAL EM ANEXO
+REFERENTE ADS SERVIÇOS PRESTADOS NO
+FRANCISCO ABASTECIMENTO E MANUTENÇÃO DE ÁGUA DO
+MARCULINO DA MUNICIPIO DE COREMAS, CONFORME NOTA
+001877 | d2-Fevereiro | Gon4zansassas2 | Suva R$ 5.305,00. | FISCAL EM ANEXO
+REFERENTE AOS SERVIÇOS PRESTADOS NO
+FRANCISCO ABASTECIMENTO E MANUTENÇÃO DE ÁGUA DO
+MARCULINO DA MUNICIPIO DE COREMAS, CONFORME NOTA
+0000760 |Qi-janeiro | podazassossar2 | sva R$ 5.305,00 | FISCAL EMANEXO
+REFERENTE A PRESTAÇÃO DE SERVIÇO NA
+REALIZAÇÃO DE SOLDAGENS NA MANUTENÇÃO
+FRANCISCO DO ABASTECIMENTO DE AGUA DO MUNICIPIO
+MARCULINO DA DE COREMAS-PB. CONFORME OTA FISCAL EM
+OO0D08O | al-Janeiro | DOn4zaz5055472 | SILVA R$ 43000 | ANEXO.
+
+ 
+
+Ressalta-se, ainda, que em 23/04/2020, esta Corte de Contas emitiu o
+ALERTA TC Nº 00598/20 a gestora municipal nós seguintes termos: “Emitir ALERTA
+ao órgão jurisdicionado Prefeitura Municipal de Coremas, sob a responsabilidade da
+Prefeita FRANCISCA DAS CHAGAS ANDRADE DE OLIVEIRA, no sentido de que
+adote medidas de prevenção ow correção, conforme o caso, à luz do Manual de
+Orientação aos Gestores quanto ao Estado de Calamidade Pública, disponível em
+
+(httpsice.pb.gov.bripublicacoes/cartilhas-manuais-e-orientacoes) ou aplicativo de
+celular NOSSO TCE PE, e, em especial, observe que a dispensa de licitação, com
+base em estado de calamidade pública decorrente da pandemia do
+CORONAVÍRUS (COVID-19), para contratar aquisição de bens. prestação de
+
+serviços e execução de obras, precisa ter relação direta e específica com tal
+situação calamitosa e cumprir as formalidades legais, ao tempo em que a
+
+55
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 19/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 10
+
+ 
+
+ 
+
+Bo
+
+ri. 14
+DPF/PAT/PB
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+contratação eneralizada ode desaguar em atos assíveis de
+
+ 
+
+responsabilidade nas esferas administrativa, civil e penal."
+
+5. CONCLUSÃO
+
+Ante o exposto, esta Auditoria conclui pela PROCEDÊNCIA da presente
+denúncia, tendo em vista o descumprimento da Lei nº 8.666/1993 e da Lei nº
+13.979/20.
+
+Ademais, este Órgão Técnico sugere a Concessão de Medida Cautelar para
+suspender a Dispensa de Licitação nº 15/2020 objeto da presente denuncia na
+
+fase em que se encontrar.
+
+Andou bem a Auditoria. É na Constituição Federal que se encontra a moldura jurídica
+básica do controle da gestão pública brasileira. Merece destaque desde já o fato de que a destinação de
+todos os dinheiros do erário, por essa qualidade e origem, exige providências que assegurem da melhor
+forma possível o seu bom emprego, evitando quaisquer desvios de finalidade.
+
+Assim, a despesa pública deve obedecer a sérios critérios na sua realização e
+comprovação, respeitando não apenas a cronologia das fases de sua execução, mas também todos os
+demais princípios constitucionais que norteiam a pública gestão, sob pena de responsabilidade da
+autoridade competente.
+
+Por sua vez, a licitação, nos termos constitucionais e legais, tem dupla finalidade: tanto é
+procedimento administrativo tendente a conceder à pública administração melhores condições (de
+técnica e de preço) nos contratos que celebrar, quanto e precipuamente se revela como instituto de
+concretude do regime democrático, pois visa, também, facultar à sociedade a oportunidade de participar
+dos negócios públicos.
+
+Por ser um procedimento que só garante a eficiência na Administração, visto que sempre
+objetiva as propostas mais vantajosas, a licitação, quando não realizada ou realizada em desacordo com
+a norma jurídica, longe de configurar mera informalidade, constitui séria ameaça aos princípios
+administrativos da legalidade, impessoalidade e moralidade, além de profundo desacato ao regime
+democrático, pois retira de boa parcela da atividade econômica a faculdade de negociar com a pública
+administração.
+
+56
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 14/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 11
+
+ 
+
+ 
+
+Bif2o
+
+ri. 15
+DPF/PAT/PB
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+No ponto, a Auditoria constatou que, apesar de cadastrado neste Tribunal de Contas como
+dispensa de licitação com base na Lei Nacional 13.979, de 06 de fevereiro de 2020, editada para dispor
+sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional
+decorrente do coronavírus, o procedimento foi pautado na regra geral do art. 24, inciso IV da Lei
+8.666/93, que trata das contratações em situação de emergência.
+
+Esta evidência se encontra no Portal da Transparência da própria Prefeitura:
+
+DISPENSA-015-2020 - Manutenção preventiva e corretiva das redes de água fluvial e redes !
+
+abastecimento de água potável para o consumo humano e animal (COVID/19).
+
+TERMO DE RATIFICAÇÃO DE DISPENSA DE LICITAÇÃO Nº 015/2020
+
+A Prefeita Constiucional do Município de Coremas!PEB, no uso de suas atribuições legais, Resolve: Ratifcar na qualidade de Gestora do Município de
+Coremas/PB, com base nos pareceres da Procuradoria, nos autos deste processo a empresa abaixo: Pessoa Jurídica: Francisco Marculino da Silva-EPP [MT
+Manutenções), CNPJ nº 28.931.0370001-27PB, com o valor total de R$ 17.430,40, por cada mês, perfazendo o valor total de R$ 52.291,20, pelos 03 (Trós)
+meses, Direito a: Prestar serviços de mão-de-obra especializada (Enquanto perdura a vigência do Decrato Municipal Nº 001/2020, que insiiuiu as medidas
+temporárias e emergenciais - COVID/19, datado de 17/03/2020, e o Decreto Municipal que alterou o Decreto Municipal Nº 001/2020, datado de 20/03/2020) na
+manutenção preventiva e corretiva das redes de água fuvial e redes abastecimento de água potável pera o consumo humano e animal (Pertencentem a este
+Município), com o fomecimento de todos materiais necessários que por ventura forem usados ficam por conta da Prefeitura de CoremasiPB, com forma
+planilha de custo. Fundamentação Legal: Cm aro nono doi 24, a Li ade 1º 3 € de acordo com o Decreto Municipal, ainda visando
+minimizar os problemas causados ao municipio de Coremas!PB. Publique-se e cumpra-se. Coremas - PE, 26 de março de 2020. Francisca das C. A. de Oliveira
+- Prefeita
+
+E também no preâmbulo do contrato (fls. 8/12):
+
+4 PREFEITURA MUNICIPAL DE COREMAS/PB, CNPJ Nº 08,959,/056/000] Bd, com
+IPB, CEP Nº
+-DOO, meste ato representado pela à Senhora Franvisca das Chagas Andrade de
+ora do CPE Nº 219.953, 464.20, RO, Nº 306.280 - 2 Via,
+residente e domiciliada a Rua Izidro de Paula Leite. 20, Bairro: Pombalzinho, Cidade;
+Coremas PB, CEP Nº 58770-000, doravante denominado de CONTRATANTE e do
+oulto lodo a pessoa jurídica: FRANCISCO MARCULINO DA SILVA-EPP (MT
+ves, UNE q" 26,938 estabelecida na Rua Máximo Augusto
+Fertandes. Nº 1539. Bairro: Cemro Cálio da Boa Visa CEP nm 70000. Cidade
+Coremas/PB. representada neste ato pelo seu proprietário o Se. Francisco M
+Silva, CPE Nº 424380.554-72, doravante denominada de CONTRATADA,
+
+: suas alterações, mendidas as
+
+sede a Rum Capitão Antônio Leite, Nº 65, Bairro: Centro, Cidade; Corer
+5H.
+
+Olive
+
+ 
+
+ 
+
+   
+
+mt, (Prefeita), poi
+
       
-  
-     
 
-ENCpaSo lescumprimento 3e daLein”
-hor Superintende ni A GEN io, do Tribunal,
-AoA GY É,
-ida
-pad aa GeE O
-a apurar para apur "QNT A uIdA. das. DESSbASm E cê O. CINE SL HE
-mm da gda oportunidade, renovo a V.Sº. votos de PIO e ad inta
-pao ide
-PÓ
-SUA io
-RR
-
- 
    
 
-an E
+Mamute
 
-aa ku ERR
-gb lee o
-Ro dios penhora dio nt qglimamta
+ 
 
-Pi É
+   
 
-DE
+ 
 
-dida vez que a Sra.
+areulino da
 
-ábiiaa' dpotaRegi
-Tebas Asa ge!
+ 
 
-    
-      
+ato
+
+  
  
   
 
-    
+ 
+
+cláusulas e condições que se enunciam a seguir está as
+
+57
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 415/48
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 12
+
+ 
+
+ 
+
+ 
+
+ri. 16
+DPF/PAT/PB
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+Essa constatação seria uma mera formalidade, mas o procedimento foi mais além, previu
+a contratação comum e genérica de serviço de encanador e de ajudante de encanador, conforme
+especificação da mão-de-obra a ser empregada (fl. 10):
+
+CLÁUSULA TERCEIRA (DESPESAS): Ficam por conta da CONTRATADA para
+
+fo dos serviços contratados as seguimes despesas:
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+' di CUSTO DOS SERVIÇOS MENSAL
+ev/202
+RE Valor
+Valor | k a Valor Valor
+z | eis otal
+Códioo | uni. | Profissional (bigea)| Tempo (horas) prevista | cumanal | Mensal atas
+SINAPI semanal pó cuba mensalale
+emula para cada | para cada
+E 1 tmabios
+1 | DisS td 266240 | 5.324.80
+
+ 
+
+ 
+
+10 | si40
+
+ 
+
+  
+
+PARÁGRAFO PRIMEIRO (MÃO-DE-OBRA): No preço apresentado pela
+CONTRATADA, já deverão estar incluídos os custos com impostos, mão-de-obra e
+
+encargos, que venham incidir sobre os preços.
+
+Sem embargo à importância e necessidade desses profissionais, é bem verdade que no
+combate ao COVID-19 as autoridades especializadas orientam para a necessidade de cuidar de outros
+vetores relacionados à saúde, mas não há qualquer justificativa nos procedimentos efetuados, ao menos
+neste sentido.
+
+A Lei 13.979/20, já anunciada, flexibilizou as contratações nessa época de combate à
+pandemia, mas não dispensou a necessidade de correlação entre o enfrentamento da emergência e a
+aquisição dos bens, serviços, inclusive de engenharia, e insumos. Eis os dispositivos da lei, atrelados ao
+caso em análise:
+
+Art 4º É dispensável a licitação para aquisição de bens, serviços, inclusive de
+engenharia, e insumos destinados ao enfrentamento da emergência de saúde pública de importância
+internacional decorrente do coronavirus de que trata esta Lei. (Redação dada pela Medida Provisória
+nº926, de 2020)
+
+$1º.4 dispensa de licitação a que se refere o caput deste artigo é temporária e aplica-
+se apenas enquanto perdurar a emergência de saúde pública de importância internacional decorrente
+
+do coronavírus.
+
+bBoo
+
+58
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 16/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 13
+
+ 
+
+ 
+
+Fl.
+DPF/PAT/PB
+
+17
+
+ 
+
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+$ 2º Todas as contratações ou aquisições realizadas com fulcro nesta Lei serão
+
+imediatamente disponibilizadas em sítio oficial específico na rede mundial de computadores
+
+(internet), contendo, no que couber, além das informações previstas no $ 3º do art. 8º da Lei nº 12.527,
+
+de 18 de novembro de 2011, o nome do contratado, o número de sua inscrição na Receita Federal do
+
+Brasil, o prazo contratual, o valor e o respectivo processo de contratação ou aquisição.
+
+6)
+
+Art. 4º E. Nas contratações para aquisição de bens, serviços e insumos necessários ao
+
+enfrentamento da emergência que trata esta Lei, será admitida a apresentação de termo de referência
+
+simplificado ou de projeto básico simplificado. (Incluído pela Medida Provisória nº 926, de 2020)
+
+6)
+
+Art. 4ºG. Nos casos de licitação na modalidade pregão, eletrônico ou presencial, cujo
+
+objeto seja a aquisição de bens, serviços e insumos necessários ao enfrentamento da emergência de
+
+que trata esta Lei, os prazos dos procedimentos licitatórios serão reduzidos pela metade. (Incluído pela
+
+Medida Provisória nº 926, de 2020)
+6.)
+
+Reprise-se, a lei, a todo tempo, exige o sincronismo entre as ações de enfrentamento da
+
+emergência e a aquisição de bens, serviços e insumos por dispensa de licitação, inclusive quando se
+
+optar pelo pregão com prazo reduzido.
+
+Observe-se haver o Decreto 001/2020, pelo qual o Município de Coremas declarou a
+
+situação de emergência, consignado a dispensa de licitação apenas para aquisição de bens, serviços e
+
+insumos de saúde destinados aos mesmos objetivos da Lei 13.979/20, o que é natural (fls. 3/4):
+
+DECRETA:
+
+Art. 1º. Fica declarada SITUAÇÃO DE EMERGÊNCIA em Saúde Pública no Município de
+Coremas, em razão de pandemia de-doença infecciosa, viral respiratório (COVID-19), causada pelo
+agente novo Coronavirus, por um período de 90 (noventa) dias, podendo ser renovado por igual
+
+período.
+
+Art. 2º. Em razão do Estado de Emergência que trata este Decreto, fica autorizado a adoção de
+todas as medidas administrativas necessárias à imediata resposta pelo Poder Público Municipal à
+
+situação vigente.
+
+Art. 3º Fica dispensada a licitação para aquisição, bens, serviços e insumos de saúde
+destinados ao enfrentamento da emergência de saúde pública de importância internacional decorrente
+
+do Coronavirus de que trata este Decreto, nos termo do art. 4º da Lei Federal n.º 13.979/2020.
+
+Parágrafo único. Fica a cargo da Secretaria Municipal de Saúde, com recurso próprios do
+
+município, a reali
+
+ 
+
+jo dos procedimentos necessários para a aquisição: de insumos, bem como a
+
+elaboração dos critérios para sua distribuição, para todos os Órgãos que compõem a estrutura da
+
+Prefeitura de Coremas, visando cumprir as medidas constantes neste Decreto.
+
+59
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+
+Impresso por meuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D.
+
+17/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 14
+
+ 
+
+ 
+
+ 
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+O mesmo decreto criou um Comitê de Crise, composto pela Prefeita, Vice-Prefeito e
+pelos Secretários de todas as Pastas, com a incumbência de efetuar a gestão e acompanhamento da
+
+situação do Estado de Emergência Municipal:
+
+4 DIÁRIO OFICIAL
+
+PREFEITURA MUNICIPAL DE COREMAS + PODER EXECUTIVO + EDIÇÃO EXTRA
+
+Leinº 00 O de Março de 1983 = Coremas, Terça-feira, 17 de Março de 2020
+
    
 
  
 
-g N
+ 
 
-META pp: orar portaliransp SER e Rise ocfistada rali dec tra
-Dist ni ua PRB A fee EA et RR ai ia e
-is epgrno o rms E aa e ga Has GA poravel
+   
+   
+  
 
  
 
-Proty Ni
+ 
+
+Art. 5º. Para acompanhamento da situação do Estado de Emergência Municipal
+fica instituído o ( que serã composto pela Prefeita, Vice-Prefeito e pelos Secretários
+
+Municipais de todas as Pastas.
+
+Parágrafo Primeiro. A coordenação do Comitê de Crise ficará a cargo da Prefeita do Município
+de Coremas.
+
+ 
+   
+
+egundo. Compete ao: Comitê de Crise
+disseminação do COVID-19 (Coronavi
+
+ 
+ 
+
+a extensão do municipio
+
+Mas não há notícia no procedimento de dispensa de licitação apresentado a este Tribunal
+de Contas (Documento TC 28767/20) de ter havido pronunciamento do Comitê de Crise sobre tão
+importante ato de gestão condizente à contratação de serviços para os objetivos já declinados, muito
+menos do Conselho Municipal de Saúde.
+
+No ponto, a Auditoria observou que o fornecedor FRANCISCO MARCULINO DA
+SILVA recebeu R$5.305,00, pelos semelhantes serviços aqui em análise, em cada um dos meses de
+janeiro, fevereiro e março de 2020 (fl. 41):
+
+ 
+
+REFERENTE AOS SERVIÇOS PRESTADOS NO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FRANÉISCO ABASTECIMENTO E MANUTENÇÃO DE ÁGUA DO
+MARCULINO DA MUNICIPIO DE COREMAS, CONFORME NOTA
+Oboaa? |Oamarço | DnaMM380s5a7> | SILVA R$ 5.305,00 | FISCALEM ANEXO
+REFERENTE AOS SERVIÇOS PRESTADOS NO
+FRANCISCO ABASTECIMENTO E MANUTENÇÃO DE ÁGUA DO
+MARCULINO DA MUNICIPIO DE COREMAS, CONFORME NOTA
+0001677 | d2-Feverelro | DODAD43S0SSATA | SILVA R$ 5.305,00 | FISCALEM ANEXO
+REFERENTE AOS SERVIÇOS PRESTADOS NO
+FRANCISCO ABASTECIMENTO E MANUTENÇÃO DE ÁGUA DO
+MARCULINO DA MUNICIPIO DE COREMAS, CONFORME NOTA
+Ooonz6a |Or-janeiro | O00a2438055472 | SILVA R$ 5.305,00 | FISCALEM ANEXO
+
+ 
+
+60
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 18/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 15
+
+ 
+
+ 
+
+r1. 19
+DPF/PAT/PB
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+Após a celebração do contrato, em 30/03/2020, consta no Portal da Transparência da
+Prefeitura a indicação de apenas um pagamento de R$4.680,60, pelo Fundo Municipal de Saúde, sob a
+gestão do Senhor EDILSON PEREIRA DE OLIVEIRA, custeado com recursos de “Transferências
+
+Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Custeio das Ações e
+Serviços”:
+
+ 
+
+ 
+
+Detalhamento do Empenho
+
+ 
+
+Prefeitura Municipal de Coremas
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nado tolas cus do aupeiiuçRs) 0,00
+
+ 
+
+ 
+
+   
+
+Valor total dna liquidaçães n9 4.600,60
+
+ 
+
+ 
+
+ne cos FONTE DESTINAÇÃO DE Recensdo coma E
+
+   
+
+so
+
+61
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 19/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 16
+
+ 
+
+ 
+
+fg20
+
+r1. 20
+DPF/PAT/PB
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+Tratando-se de recursos federais, vejamos a dicção da Constituição Federal de 1988:
+
+Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio
+
+do Tribunal de Contas da União, ao qual compete:
+
+VI - fiscalizar a aplicação de quaisquer recursos repassados pela União mediante
+convênio, acordo, ajuste ou outros instrumentos congêneres, a Estado, ao Distrito Federal ou a
+
+Município;
+
+Outrossim, qualquer Tribunal de Contas, no âmbito do controle externo, deve examinar
+diversos aspectos - contábil, financeiro, orçamentário, operacional e patrimonial - da gestão dos órgãos
+e entidades sob sua jurisdição, cotejando a legalidade, legitimidade, economicidade, aplicação das
+subvenções e renúncia de receitas (CF, art. 71).
+
+Desde 5 de maio de 2000, com a entrada em vigor da Lei Complementar Nacional 101 —
+a conhecida “Lei de Responsabilidade da Gestão Fiscal” — alguns itens daqueles aspectos de gestão
+passaram a compor um subconjunto específico e consequentemente designado de “gestão fiscal”.
+
+Esta mesma lei outorgou aos Tribunais de Contas competência para alertar órgãos e
+entidades públicas no sentido didático de prevenir a ocorrência de irregularidades durante a execução
+orçamentária, sublinhando a figura do controle concomitante da Administração Pública. Vejamos o
+dispositivo:
+
+Art. 59...
+
+$1º Os Tribunais de Contas alertarão os Poderes ou órgãos referidos no art. 20 quando
+
+constatarem:
+
+V - fatos que comprometam os custos ou os resultados dos programas ou indícios de
+
+irregularidades na gestão orçamentária.
+
+Assim, este Tribunal de Contas do Estado pode alertar seus jurisdicionados quando
+identificar fatos que comprometam os custos ou os resultados dos programas ou indícios de
+irregularidades na gestão orçamentária, mesmo que os recursos sejam de origem federal, dado o alerta
+não ter conteúdo de julgamento, mas de orientação pedagógico-preventiva.
+
+62
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. >0/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 17
+
+ 
+
+ 
+
+ 
+
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+Sobre a cautelar, os Tribunais de Contas têm competência para editar medidas cautelares
+(tutela de urgência) com o objetivo de impedir lesão ao erário e garantir a efetividade de suas decisões,
+desde que presentes os requisitos exigidos para a adoção de tais medidas, quais sejam, a fumaça do bom
+direito (fumus boni juris) e o perigo na demora (periculum in mora). O primeiro, caracterizado na
+verossimilhança da pretensão de direito material e, o segundo, caracterizado na possibilidade da
+ocorrência de dano irreparável ou de difícil reparação. Este é o entendimento do Supremo Tribunal
+Federal — STF:
+
+“PROCEDIMENTO LICITATÓRIO. IMPUGNAÇÃO. COMPETÊNCIA DO TCU.
+CAUTELARES. CONTRADITÓRIO. AUSÊNCIA DE INSTRUÇÃO.
+
+1. Os participantes de licitação têm direito à fiel observância do procedimento
+estabelecido na lei e podem impugná-lo administrativa ou judicialmente. Preliminar de ilegitimidade
+
+ativa rejeitada.
+
+2- lmexistência de direito líquido e certo. O Tribunal de Contas da União tem
+competência para fiscalizar procedimentos de licitação, determinar suspensão cautelar (artigos 4º e
+113, $1ºe 2º da Lei nº 8.666/93), examinar editais de licitação publicados e, nos termos do art. 276 do
+seu Regimento Interno, possui legitimidade para a expedição de medidas cautelares para prevenir
+lesão ao erário e garantir a efetividade de suas decisões.
+
+3- 4 decisão encontra-se fundamentada nos documentos acostados aos autos da
+
+Representação e na legislação aplicável.
+
+4- Violação ao contraditório e falta de instrução não caracterizadas. Denegada a ordem.
+(STF — Pleno - MS 24.510/DF, Rel. Min. Ellen Grace, Diário da Justiça, 19 mar. 2004, p. 18).”
+
+Nessa cognição sumária, vislumbra-se a presença de ambos os requisitos a atrair a
+emissão de alerta para a Prefeitura de Coremas no sentido de observar a Lei Nacional 13.979, de 06 de
+fevereiro de 2020, editada para dispor sobre as medidas para enfrentamento da emergência de saúde
+pública de importância internacional decorrente do coronavírus, na citada contratação, cuja desenvoltura
+processual ordinária, sem a adoção da medida excepcional, pode desaguar na perpetuação da ilegalidade
+de difícil reparação, tendo em vista a natureza continuada da avença, sem prejuízo das comunicações
+aos órgãos federais sediados neste Estado, em razão da origem dos recursos ser de transferência da
+União.
+
+83
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. 51/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 18
+
+ 
+
+ 
+
+o fdoo
+Fl. 22
+DPF/PAT/PB
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+Ressalte-se ser preciso garantir a continuidade dos serviços de manutenção preventiva e
+corretiva das redes de água fluvial e das redes de abastecimento de água potável para o consumo humano
+e animal, destinados ao enfrentamento da emergência de saúde pública de importância internacional
+decorrente do coronavírus, mas esse liame deve ser atestado de forma técnico-científica e aprovado pelo
+Comitê de Crise, previsto no Decreto Municipal de Coremas 001/2020, e pelo Conselho Municipal de
+Saúde.
+
+O alerta para prevenção de ilegalidades, através de medidas para certificar a correlação
+serviço/enfrentamento COVID-19, e o zelo pela continuidade dos serviços são orientações de cunho
+razoável e proporcional. Afinal, todos estão passíveis à enfermidade e em Coremas, especificamente, já
+houve a constatação de casos de contaminação, conforme página eletrônica ofícial do Estado da Paraíba:
+
+EA
+
+[PIE Dados Epidemiológicos Covid-19 Paraíba
+
+[East]
+
+ 
+
+Municípios paraibanos com casos confirmados por COVID-19
+
+1451
+
+casos confirmados
+
+ 
+
+Em todo, caso, sublinhe-se, a orientação deste Tribunal de Contas dar-se-á em nível de
+alerta, posto ser dos órgãos federais a jurisdição sobre os recursos.
+
+64
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. >9148
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 19
+
+ 
+
+ 
+
+6520
+
+ 
+
+2020.0110553
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+Ante o exposto, decido, acolhendo parcialmente os pedidos, no sentido de:
+
+1) CAUTELARMENTE, ALERTAR a Prefeitura Municipal de Coremas, sob a gestão
+da Prefeita, Senhora FRANCISCA DAS CHAGAS ANDRADE DE OLIVEIRA, e o Fundo Municipal
+de Saúde, gerido pelo Senhor EDILSON PEREIRA DE OLIVEIRA para que:
+
+1.1) CERTIFIQUE que os serviços de manutenção preventiva e corretiva das redes de
+água fluvial e das redes de abastecimento de água potável para o consumo humano e
+animal, objeto da Dispensa de Licitação 015/2020 e do Contrato 064/2020, celebrado com
+a empresa FRANCISCO MARCULINO DA SILVA-EPP - MT MANUTENÇÕES
+(CNPJ 26.931.037/0001-27), com endereço na rua Máximo Augusto Fernandes, 159,
+Centro, Coremas/PB, CEP 58770-000, representada pelo seu proprietário, Senhor
+FRANCISCO MARCULINO DA SILVA (CPF 424.380.554-72), assinado em
+30/03/2020, com vigência para pagamento até 31/12/2020, no valor total de R$52.291,20,
+guardam direta relação com o enfrentamento da emergência de saúde pública de
+importância internacional decorrente do coronavírus (COVID-19), devidamente atestada
+de forma técnico-científica e aprovada pelo Comitê de Crise, previsto no Decreto
+Municipal de Coremas 001/2020, e pelo Conselho Municipal de Saúde;
+
+1.2) A ADOÇÃO de tais medidas não pode afetar, em hipótese alguma, a continuidade
+dos serviços.
+
+2) ENCAMINHAR os autos à Segunda Câmara para CITAR, com o objetivo de lhes
+
+oportunizar a apresentação de defesa sobre a denúncia e os fatos constatados pela Auditoria:
+
+2.1) a Prefeita de Coremas, Senhora FRANCISCA DAS CHAGAS ANDRADE DE
+OLIVEIRA;
+
+2.2) o Secretário Municipal de Saúde, Senhor EDILSON PEREIRA DE OLIVEIRA;
+
+2.3) a empresa FRANCISCO MARCULINO DA SILVA-EPP - MT MANUTENÇÕES
+(CNPJ 26.931.037/0001-27) e o seu representante legal, Senhor FRANCISCO
+MARCULINO DA SILVA (CPF 424.380.554-72), no endereço rua Máximo Augusto
+Fernandes, 159, Centro, Coremas/PB, CEP 58770-000; e
+
+65
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. >9148
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 20
+
+ 
+
+ 
+
+fifzo
+
+ 
+
+TRIBUNAL DE CONTAS DO ESTADO
+2º CÂMARA
+
+Processo TC 09705/20
+Documento TC 30476/20
+
+3) DAR CIÊNCIA do conteúdo da denúncia, do relatório da Auditoria e desta decisão
+ao Ministério Público Federal, à Controladoria Geral da União e ao Tribunal de Contas da União, através
+
+de suas unidades neste Estado, bem como à Promotoria de Justiça com atuação em Coremas.
+
+Registre-se, publique-se e cumpra-se.
+João Pessoa (PB), 15 de maio de 2020.
+TCE - Gabinete do Relator.
+
+Conselheiro André Carlo Torres Pontes
+
+66
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+Impresso por mneuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D. >4/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 1.1, Página 21
+
+ 
+
+ 
+
+Fl. 25
+DPF/PAT/PB
+
+67
+
+2020.0110553
+
+Assinado 15 de Maio de 2020 às 06:40
+
+| Assinado Eletronicamente
+
+] conforme LG 18/93, alterada pela LC 91/2009 €
+: pelo Regimento interno, alterado pela
+RATC 18/2009
+
+ 
+
+Cons. André Carlo Torres Pontes
+RELATOR
+
+67
+Decisão Singular DS2-TC 00057/20 - Decisão Sin... Proc. 09705/20. Data: 15/05/2020 14:00. Responsável: Cons. André C. T. Pontes.
+
+Impresso por meuma em 22/05/2020 18:09. Validação: 65E4.E0AE.8C39.B65C.C9F2.703B.DED6.8F4D.
+
+25/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 2, Página 1
+
+ 
+
+ 
+
+26
+T/PB
+2020.0110553
+
+PRM-SSA-PB-00002739/2020
 
    
  
-   
 
-Gota
-
- 
+DPF.
 
  
 
-n
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA DA REPÚBLICA NO MUNICÍPIO DE SOUSA-PB
+
+CATEGORIA DO FEITO: ( X) DOCUMENTO () OUTROS
+PR-PB-00018531/2020
+
+CERTIDÃO DE PESQUISA DE CORRELATOS
+
+Certifico que, nesta data, deu entrada no Setor Jurídico desta Procuradoria da República em
+Sousa o documento supra.
+
+Procedi pesquisa no Sistema Único com os parâmetros abaixo discriminados e constatei:
+
+Para verificar a autenticidade acesse
+
+Chave D009834F.11D295D8. 8D6DAI3CE. DAE3BC2B
+
+(X) não existir procedimento ou ação tramitando nesta PRM com o mesmo objeto.
+
+() existir(em) procedimento(s), documento(s), processo(s) e/ou IPL(s), com o mesmo objeto
+ou objeto semelhante.
+
+Descrição: Trata-se do ofício nº 0163/2020 - SEC.2º-TCE/PB, referente ao Processo TC
+09705/20, que trata de denúncia subscrita pelos Senhores FRANCISCO SÉRGIO LOPES
+SILVA, FRANCISCO DE ASSIS CLEMENTINO e CLÁUDIO ARAÚJO DA SILVA
+
+(Vereadores) em face da Prefeitura Municipal de Coremas, sob a gestão da Prefeita, Senhora
+FRANCISCA DAS CHAGAS ANDRADE DE OLIVEIRA, sobre irregularidades na Dispensa
+de Licitação 015/2020 e no Contrato 064/2020, materializado para a prestação de serviço de
+
+em 27/05/2020 01:14.
+
+mão-de-obra especializada.
+Faço-a conclusa ao 2º Ofício.
+
+Sousa/PB, 26/05/2020.
+
+Setor Jurídico/PRM-Sousa
+
+(assinado digitalmente)
+
+9
+8
+E
+õ
+É
+ã
+õ
+9
 3
-i
-
-é
-é;
-il
-E
-F
-F
-E
-é
-E
-it
+á
+q
+õ
+g
+g
+a
+A
+R
+<
+5
+â
+8
+Ê
+vi
 ê
-ai
-sé
-sé
-3
+Ê
+q
+A
+0
+&
+õ
+4
+q
+q
+g
+q
+4
 
-esa Rua Frei Matias Téves, 65 — Paissandu (antiga Rua Sport Clube do Recife) - CEP 50.070-450 ê
-PABX (81) 2121-9800 - 3081-9999 Home Page: htffwwrmpreSmpfgovbr
-Protocolo Eletrônico: hi «protocolo.mpf.mp.br
-
-S na,
-
-2NGSOB1OS687 9 BONONOg2ABA SE
-
-7 CRS RORERRD ER nest SO. T. Pontes BM
-09, Vidação: CREA AUX BOREISDO DEAR. amas
+Parâmetros utilizados: Dispensa de Licitação 015/2020 e no Contrato 064/2020. Coremas/PB.
 
  
+
+a
+ã
+ê
+z
+a
+a
+x
+a
+o
+a
+ã
+a
+5
+à
+a
+a
+õ
+5
+u
+º
+à
+q
+É
+E
+q
+o
+EG
+A
+Bm
+õ
+á
+E
+õ
+õ
+o
+q
+ú
+&
+A
+a
+
+nEED:/ 5
+
+Página 1 del
+
+26/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 3, Página 1
+
+ 
+
+ 
+
+ 
+
+/PB
+2020.0110553
+
+PRM-SSA-PB-00002809/2020
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA DA REPÚBLICA NO MUNICÍPIO DE SOUSA-PB
+GABINETE DE PROCURADOR DE PRM/SOUSA
+
+Despacho nº 720/2020
+Referência: PR-PB-00018531/2020
+Assunto: SOLICITAÇÕES DIVERSAS
+
+Autue-se como notícia de fato vinculada à 5º CCR. Livre distribuição.
+
+Para verificar a autenticidade acesse
+
+Chave 987D2864.925A9EDB. 811CFCB8. FAB466A4
+
+Sousa, 1 de junho de 2020.
+
+FELIPE TORRES VASCONCELOS
+PROCURADOR DA REPÚBLICA
+
+9
+8
+E
+õ
+É
+ã
+õ
+9
+3
+á
+q
+õ
+g
+g
+a
+A
+R
+<
+5
+â
+8
+Ê
+vi
+ê
+Ê
+q
+A
+0
+&
+õ
+4
+q
+q
+g
+q
+4
+
+ 
+
+q
+q
+q
+q
+3
+E
+õ
+q
+ê
+a
+a
+õ
+z
+ê
+õ
+q
+a
+E
+q
+a
+a
+x
+õ
+a
+a
+a
+a
+u
+º
+à
+q
+É
+E
+q
+o
+EG
+A
+Bm
+õ
+á
+E
+õ
+õ
+o
+q
+ú
+&
+A
+a
+
+nEED:/ 5
+
+Página 1 del
+
+27/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 4, Página 1
+
+ 
+
+ 
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+
+ri. 28
+DPF/PAT/PB
+2020.0110553
+
+PROCURADORIA DA REPÚBLICA NO MUNICÍPIO DE SOUSA-PB
+
+SETOR JURIDICO DA PRM/SOUSA
+
+ 
+
+Expediente:
+
+(Gerado automaticamente pelo sistema)
+
+NF - 1.24.002.000119/2020-27
+
+Os presentes autos foram distribuídos conforme descrição a seguir:
+
+Ofício Titular:
+Grupo de Distribuição:
+
+Forma de Execução:
+
+Vínculo:
+Responsável:
+
+Ofício Responsável:
+Forma de Execução:
+Usuário:
+
+Data:
+
+Titularidade da Distribuição
+
+PRM-SS - 2º Ofício
+AA - 5º CCR
+
+Automática
+
+Conclusão da Distribuição
+
+Titular
+
+FELIPE TORRES VASCONCELOS
+PRM-SS - 2º Ofício
+
+Automática
+
+JOSE EVERARDO FERREIRA MIRANDA
+
+04/06/2020 17:22:16
+
+28/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 5, Página 1
+
+ 
+
+ 
+
+ri. 29
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA DA REPÚBLICA NO MUNICÍPIO DE SOUSA-PB
+SJUR/PRM-PB - SETOR JURIDICO DA PRM/SOUSA
+
+ 
+
+(Gerado automaticamente pelo Sistema Único)
+
+Expediente:
+1.24.002.000119/2020-27
+
+Remetente:
+SJUR/PRM-PB - SJUR/PRM-PB - SETOR JURIDICO DA PRM/SOUSA
+
+Destinatário:
+GABPRM2-FTV - GABPRM?2-FTV - FELIPE TORRES VASCONCELOS
+
+Usuário:
+JOSE EVERARDO FERREIRA MIRANDA
+
+Data:
+04/06/2020 17:23:07
+
+Observação:
+
+Conclusão automática para o Ofício Titular - PRM-SOUSA/GABPRM2-FTV - Chefia da
+Unidade: FELIPE TORRES VASCONCELOS - Ofício da Distribuição: PRM-SS - 2º Ofício -
+GABPRM2-FTV
+
+29/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 6, Página 1
+
+ 
+
+ 
+
+30
+T/PB
+
+   
+ 
+
+DPF.
+
+ 
+
+2020.0110553
+
+PRM-SSA-PB-00003763/2020
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA DA REPÚBLICA NO MUNICÍPIO DE SOUSA-PB
+
+Notícia de Fato nº 1.24.002.000119/2020-27
+
+DECLÍNIO DE ATRIBUIÇÃO
+
+Trata-se de Notícia de Fato autuada para apurar supostas irregularidades
+praticadas pela Prefeitura Municipal de Coremas/PB, sob a gestão da Prefeita Francisca das
+Chagas Andrade de Oliveira, no âmbito do procedimento de Dispensa de Licitação n.
+015/2020 (Contrato n. 064/2020). Ref.: Processo TC 09705/20-TCE/PB.
+
+Em síntese, consta dos autos que a Prefeitura Municipal de Coremas/PB teria
+realizado a contratação direta da empresa FRANCISCO MARCULINO DA SILVA-EPP -
+MT MANUTENÇÕES (CNPJ 26.931.037/0001-27), mediante dispensa de licitação (n.º
+015/2020), com fundamento na Lei Municipal n.º 01/2020, que instituiu medidas temporárias e
+emergenciais para viabilizar o combate à COVID-19.
+
+A contratação teve por objetivo a realização de manutenção preventiva e
+
+corretiva das redes de água fluvial e das redes de abastecimento de água potável para o
+consumo humano e animal pertencentes ao Município, custeada com repasses do SUS ao
+
+Fundo Municipal de Saúde.
+
+Todavia, o Tribunal de Contas do Estado da Paraíba asseverou que a
+contratação deste serviço não poderia ser objeto de dispensa de licitação sob os fundamentos
+propostos, uma vez que se trata de serviço de manutenção regular desta infraestrutura, com
+periodicidade previsível. Desta maneira, não haveria excepcionalidade ou vinculação ao
+combate à COVID-19 que justificasse a contratação direta.
+
+ 
+
+Rua Francisco Vieira Da Costa, 30, Maria Raquel - Cep
+
+PROCURADORIA DA
+M P F REPÚBLICA NO 58804725 - Sousa-PB
+ao MUNICÍPIO DE Telefone: (83)35223977
+Ministério Público Federal | CTIS PR .
+Email: Admprmss(Oprpb.mpf.gov.br
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página 1 de2
+
+Para verificar a autenticidade acesse
+
+Chave 63D27245.6E4B051D.251F4CB6.6F4F1767
+
+9
+8
+E
+õ
+É
+ã
+õ
+9
+3
+á
+q
+õ
+g
+g
+a
+A
+R
+E
+5
+â
+8
+Ê
+vi
+ê
+Ê
+q
+A
+0
+&
+õ
+4
+q
+q
+g
+q
+4
+
+ 
+
+q
+q
+q
+E
+õ
+q
+ê
+a
+a
+õ
+z
+ê
+õ
+q
+a
+E
+q
+a
+a
+x
+õ
+a
+a
+a
+a
+u
+º
+à
+a
+m
+s
+Mi
+a
+A
+o
+o
+q
+ú
+o
+!
+q
+"A
+u
+u
+o
+õ
+E
+õ
+õ
+o
+q
+ú
+&
+A
+a
+
+nEED:/ 5
+
+30/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 6, Página 2
+
+ 
+
+ 
+
+71.31
+DPF/PAT/PB
+2020.0110553
+
+Sendo assim, há necessidade de se analisar acerca da configuração ou não do
+crime do art. 89 da Lei n.º 8.666/93, em face de gestora municipal em exercício.
+
+É o relato essencial.
+
+Os elementos dos autos apontam para a necessidade de análise de possível
+conduta delitiva de agente com prerrogativa de foro no Tribunal Regional Federal da 5º
+Região, sendo a Procuradoria Regional da República na 5º Região o órgão com atribuição
+para realizar essa análise.
+
+Ante o exposto, promovo o declínio de atribuições em favor da Procuradoria
+Regional da República na 5º Região, órgão que detém atribuição para atuar no presente feito
+relativamente à esfera criminal.
+
+Remetam-se os presentes autos à Procuradoria Regional da República na 5º
+
+Para verificar a autenticidade acesse
+
+ 
+
+ 
+
+Região.
+
+Fica dispensada a homologação pela 5º Câmara de Coordenação e Revisão, S
+tendo em vista que o presente declínio de atribuições ocorre no âmbito do Ministério Público ã
+Federal. é
+8
+Sousa, data de validação no Sistema. sa
+a
+Si
+RE
+Sã
+FELIPE TORRES VASCONCELOS SE
+as
+Procurador da República E &
+a
+as
+
+8
+as
+SE
+ZE
+áó
+G.
+ao
+58
+nú
+SE
+E
+88
+E
+aê
+ão
+as
+Ea
+“E
+E
+a
+sê
+Gui
+o É
+om
+Sa
+o
+06
+ua
+Ag
+E&
+df
+E
+
+ê
+PROCURADORIA DA Rua Francisco Vieira Da Costa 30, maria Raquel - Cep g É
+M P F REPÚBLICA NO — Sousa E
+ao MUNICÍPIO DE Telefone: (83)35223977 a
+Ministério Público Federal | GT TSA PB . ae
+
+Email: Admprmss(Oprpb.mpf.gov.br
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página 2 de2
+
+31/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 7, Página 1
+
+ 
+
+ 
+
+71. 32
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA DA REPÚBLICA NO MUNICÍPIO DE SOUSA-PB
+GABPRM2-FTV - GABINETE DE PROCURADOR DE PRM/SOUSA
+
+ 
+
+(Gerado automaticamente pelo Sistema Único )
+
+Expediente:
+1.24.002.000119/2020-27
+
+Remetente:
+GABPRM?-FTV - GABPRM2-FTV - FELIPE TORRES VASCONCELOS
+
+Destinatário:
+SJUR/PRM-PB - SJUR/PRM-PB - SETOR JURIDICO DA PRM/SOUSA
+
+Usuário:
+FELIPE TORRES VASCONCELOS
+
+Data:
+21/07/2020 18:51:27
+
+922/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 8, Página 1
+
+ 
+
+ 
+
+r1. 33
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA DA REPÚBLICA NO MUNICÍPIO DE SOUSA-PB
+SJUR/PRM-PB - SETOR JURIDICO DA PRM/SOUSA
+
+ 
+
+(Gerado automaticamente pelo Sistema Único )
+
+Expediente:
+1.24.002.000119/2020-27
+
+Remetente:
+SJUR/PRM-PB - SJUR/PRM-PB - SETOR JURIDICO DA PRM/SOUSA
+
+Destinatário:
+CG/PRRSº - CG/PRR5º - CHEFIA DE GABINETE - PRR 5º REGIÃO
+
+Usuário:
+RAIMUNDO ITAMAR MENDES DE FREITAS
+
+Data:
+23/07/2020 12:05:50
+
+Observação:
+EM DECLÍNIO DE ATRIBUIÇÃO
+
+33/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 9, Página 1
+
+ 
+
+ 
+
+r1. 34
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA REGIONAL DA REPÚBLICA DA 5º REGIÃO
+CG/PRR5" - CHEFIA DE GABINETE - PRR 5º REGIÃO
+
+ 
+
+(Gerado automaticamente pelo Sistema Único )
+
+Expediente:
+1.24.002.000119/2020-27
+
+Remetente:
+CG/PRRSº - CG/PRRSº - CHEFIA DE GABINETE - PRR 5º REGIÃO
+
+Destinatário:
+ASSJUR/PRRSº - ASSJUR/PRR$º - ASSESSORIA JURIDICA - PRR/5º REGIÃO
+
+Usuário:
+MARIA DA CONCEICAO MONTE DE SOUZA SIMOES
+
+Data:
+23/07/2020 14:13:19
+
+24/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 10, Página 1
+
+ 
+
+ 
+
+Fi. 35
+DPF/PAT/PB
+2020.0110553
+
+  
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA REGIONAL DA REPÚBLICA DA 5º REGIÃO
+GABINETE DO PROCURADOR-CHEFE REGIONAL
+ASSESSORIA JURÍDICA
+
+ 
+
+INFORMAÇÃO
+
+Sugere-se, por cautela, o encaminhamento do presente auto ex-
+trajudicial ao PRR Joaquim José de Barros Dias, em razão da sua atua-
+ção na NF nº 1.24.002.000135/2020-10!, para análise de possível cor-
+
+relação entre os autos.
+
+Recife (PE), 24 de julho de 2020.
+
+Para verificar a autenticidade acesse
+
+Chave A352CDEC. 4B3C9691. BEADOBC7. 12DE357B
+
+KALIU MARCELO SOUZA
+ASSESSOR JURÍDICO DA PRR5à REGIÃO
+
+9
+8
+E
+õ
+É
+ã
+õ
+9
+3
+á
+q
+õ
+g
+g
+a
+A
+R
+<
+5
+â
+8
+Ê
+vi
+ê
+Ê
+q
+A
+0
+&
+õ
+4
+q
+q
+g
+q
+4
+4
+
+ 
+
+é
+ê
+8
+É
+E
+E
+5
+É
+á
+á
+$
+s
+É
+é
+é
+-
+E
+é
+á
+:
+;
+Ê
+a
+z
+é
+É
+0
+:
+:
+E
+á
+E
+5
+5
+g
+g
+:
+É
+:
+ê
+
+nEtD:/
+
+1 Apura supostas irregularidades na aquisição de equipamentos e medicamentos por meio das Dis-
+pensas de Licitação nº. 10/2020, nº 11/2020 e nº 12/2020, sob o argumento de combate à Pande-
+mia do Novo Coronavírus (Covid-19) no Município de Coremas/PB.
+
+35/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 11, Página 1
+
+ 
+
+ 
+
+36
+/PB
+2020.0110553
+
+PRR5º-00011302/2020
+
+  
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA REGIONAL DA REPÚBLICA DA 5º REGIÃO
+GABINETE PROCURADOR CHEFE REGIONAL
+
+Despacho nº 4877/2020
+Referência: 1.24.002.000119/2020-27
+
+Assunto: Distribuir.
+
+1. Recebido hoje.
+
+Para verificar a autenticidade acesse
+
+Chave BADO5SF20.DB3ABC9C. E53620F5.93F2458C
+
+2. Com base na informação retro, encaminhe-se ao PRR Joaquim José de
+Barros Dias para análise de possível prevenção.
+
+em 27/07/2020 18:34.
+
+Recife, 27 de julho de 2020.
+
+ISABEL GUIMARÃES DA CAMARA LIMA
+PROCURADORA-CHEFE REGIONAL SUBSTITUTA
+
+9
+8
+E
+õ
+É
+ã
+õ
+9
+3
+á
+q
+õ
+g
+g
+a
+A
+R
+<
+5
+â
+8
+Ê
+vi
+ê
+Ê
+q
+A
+0
+&
+õ
+4
+q
+q
+g
+q
+4
+
+ 
+
+é
+É
+Í
+ô
+«
+g
+q
+g
+&
+é
+É
+8
+á
+g
+á
+á
+é
+4
+ã
+Ê
+4
+3
+E
+é
+a
+a
+ã
+É
+5
+â
+E
+E
+ê
+9
+g
+g
+é
+â
+
+nEED:/ 5
+
+Página 1 del
+
+26/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 12, Página 1
+
+ 
+
+ 
+
+r1. 37
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA REGIONAL DA REPÚBLICA DA 5º REGIÃO
+GABPCR/PRRS' - GABINETE PROCURADOR CHEFE REGIONAL - PRR/5º REGIÃO
+
+ 
+
+(Gerado automaticamente pelo Sistema Único )
+
+Expediente:
+1.24.002.000119/2020-27
+
+Remetente:
+GABPCR/PRRS*º - GABPCR/PRRS* - MARCELO ALVES DIAS DE SOUZA
+
+Destinatário:
+CG/PRRSº - CG/PRR5º - CHEFIA DE GABINETE - PRR 5º REGIÃO
+
+Usuário:
+VICTOR DE ALBUQUERQUE MELO CAMPELO
+
+Data:
+27/07/2020 19:21:01
+
+927/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 13, Página 1
+
+ 
+
+ 
+
+r1. 38
+DPF/PAT/PB
+2020.0110553
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA REGIONAL DA REPÚBLICA DA 5º REGIÃO
+CG/PRR5" - CHEFIA DE GABINETE - PRR 5º REGIÃO
+
+ 
+
+(Gerado automaticamente pelo Sistema Único )
+
+Expediente:
+1.24.002.000119/2020-27
+
+Remetente:
+CG/PRRSº - CG/PRRSº - CHEFIA DE GABINETE - PRR 5º REGIÃO
+
+Destinatário:
+GABPRR2-JJBD - GABPRR2-JJBD - JOAQUIM JOSE DE BARROS DIAS
+
+Usuário:
+MARIA DA CONCEICAO MONTE DE SOUZA SIMOES
+
+Data:
+27/07/2020 19:51:22
+
+928/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 14, Página 1
+
+ 
+
+ 
+
+ 
+  
+
+PRRS-00017953/2020>5;
+2020
+
+   
+
+jo E
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+
+Ilmo. Sr. DELEGADO DE POLÍCIA FEDERAL DA SUPERINTENDÊNCIA
+REGIONAL NO ESTADO DA PARAÍBA
+
+ 
+
+ 
+
+NF n.º : 1.24.002.000119/2020-27
+Referência : Notícia de Fato
+Origem : Ministério Público Federal
+
+DESPACHO Nº 93/ 2020 (Eletrônico)
+
+Trata-se de Notícia de Fato nº 1.24.002.000119/2020-27, instaurada
+para apurar para apurar supostas irregularidades praticadas pela Prefeitura Municipal de
+Coremas/PB, sob a gestão da Prefeita Francisca das Chagas Andrade de Oliveira, no
+âmbito do procedimento de Dispensa de Licitação n. 015/2020 (Contrato n. 064/2020).
+Ref.: Processo TC 09705/20-TCE/PB, sob o argumento de que o objeto da contratação direta
+estaria relacionada ao combate da Pandemia do Novo Coronavírus (Covid- 19), mediante a
+utilização de recursos repassados pelo Sistema Único de Saúde ao Fundo Municipal de Saúde.
+
+Por se tratarem de irregularidades praticadas, em tese, por Prefeita,
+uma vez que a Sra. Francisca das Chagas Andrade de Oliveira foi eleita no último pleito
+municipal”, gozando, portanto, de privilégio de foro por prerrogativa de função, e por se tratar
+de recursos federais é que os documentos que instruem esta Notícia de Fato foram
+encaminhados a esta Procuradoria Regional da República da 5º Região.
+
+Em suma, consta dos autos em epígrafe que a Prefeitura Municipal de
+Coremas/PB teria realizado a contratação direta da empresa FRANCISCO MARCULINO DA
+SILVA- EPP - MT MANUTENÇÕES (CNPJ 26.931.037/0001-27), mediante Dispensa de
+Licitação (n.º 015/2020), com fundamento na Lei Municipal n.º 01/2020, que instituiu
+medidas temporárias e emergenciais para viabilizar o combate à COVID-19.
+
+A contratação teve por objetivo a realização de manutenção preventiva
+e corretiva das redes de água fluvial e das redes de abastecimento de água potável para o
+
+"http:/fyrwrw justicaeleitoral jus.br/arquivos/tre-pb-resultado-de-votacao-eleitos-201 6/rybena pdf?
+file=http://www justicaeleitoral jus. br/arquivos/tre-pb-resultado-de-votacao-eleitos-2016/at download/file
+
+1
+
+39/48
+
+Para verificar a autenticidade acesse
+
+Chave B7FBE4E5.5A657848.EFCB733E. 0DB720AD
+
+9
+8
+E
+õ
+É
+ã
+õ
+9
+3
+á
+q
+õ
+g
+g
+a
+A
+R
++
+5
+â
+8
+Ê
+vi
+ê
+Ê
+q
+A
+0
+&
+õ
+4
+q
+q
+g
+q
+4
+
+ 
+
+q
+q
+3
+&
+E
+õ
+5
+a
+a
+a
+8
+&
+ú
+ã
+ã
+a
+â
+a
+a
+8
+5
+ã
+5
+a
+2
+8
+s
+u
+8
+Bs
+q
+&
+E
+5
+o
+g
+ã
+a
+8
+4
+E
+5
+8
+o
+g
+q
+É
+á
+&
+
+nEED: 7/6
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 14, Página 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+
+consumo humano e animal pertencentes ao Município, custeada com repasses do SUS ao
+Fundo Municipal de Saúde.
+
+ 
+
+Contudo, o Tribunal de Contas do Estado da Paraíba asseverou que a
+contratação deste serviço não poderia ser objeto de dispensa de licitação sob os fundamentos
+propostos, uma vez que se trata de serviço de manutenção regular desta infraestrutura, com
+periodicidade previsível, consoante seguinte trecho do Relatório TC 30476/20 (Processo TC
+09705/20):
+
+“3- FATO DENUNCIADO
+
+Trata os autos de denúncia apresentada a esta Corte pelos Srs. Francisco
+Sérgio Lopes Silva, Francisco de Assis Cláudio Araújo da Silva, Vereadores
+do Município de Coremas, em face da Sra. Francisca das Chagas Andrade de
+Oliveira, Prefeita do Município de Coremas, no tacante à ilegalidade na
+contratação direta de pessoa jurídica para prestação de serviços de mão-de-
+obra especializada na manutenção preventiva e corretiva das redes de água
+Tuvial e redes de abastecimento de água potável para o consumo humano e
+animal (Pertencentes a este Município), com o fornecimento de todos
+materiais necessários que por ventura forem usados ficam por conta da
+Prefeitura de Coremas/PB.
+
+Segundo os denunciantes o objetivo da gestora é fugir da realização do
+procedimento licitatório na modalidade pregão presencial ou eletrônico, que
+garantisse uma ampla e irrestrita competitividade.
+
+(.)
+
+Como é cediço, a fim de facilitar e a assistir o enfrentamento ao surto do
+coronavírus no país, o Estado brasileiro, dentre outras medidas previstas na
+Lei nº 13.979/2020, estabeleceu uma nova hipótese de dispensa de licitação
+para contratações voltadas ao enfrentamento da situação emergencial.
+
+Assim fora redigido o art. 4º, do referido diploma, in verbis:
+
+Art 4º. É dispensável a licitação o para aquisição o de bens, serviços,
+inclusive de engenharia, e insumos destinados ao enfrentamento da
+emergência de saúde pública de importância internacional decorrente do
+coronavírus de que trata esta Lei.
+
+A dispensa de licitação, objeto da presente denúncia, embora tenha como
+fundamento a legislação acima citada (conforme informações do Tramita),
+objetivando a contratação direta da pessoa jurídica para prestação de
+serviços de mão-de-obra especializada na manutenção preventiva e
+corretiva das redes de água fluvial e redes de abastecimento de água
+potável para o consumo humano e animal (Pertencentes a este Municipio),
+segundo ocorreu como afirmam os denunciantes na presente denúncia, esta
+
+40/48
+
+Para verificar a autenticidade acesse
+
+Chave B7FBE4E5.5A657848.EFCB733E. 0DB720AD
+
+9
+8
+E
+õ
+É
+ã
+õ
+9
+3
+á
+q
+õ
+g
+g
+a
+A
+R
++
+5
+â
+8
+Ê
+vi
+ê
+Ê
+q
+A
+0
+&
+õ
+4
+q
+q
+g
+q
+4
+4
+
+ 
+
+q
+q
+3
+&
+E
+õ
+5
+a
+a
+a
+8
+&
+ú
+ã
+ã
+a
+â
+a
+a
+8
+5
+ã
+5
+a
+2
+8
+s
+u
+8
+Bs
+q
+&
+E
+5
+o
+g
+ã
+a
+8
+4
+E
+5
+8
+o
+g
+q
+É
+á
+&
+
+http:
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 14, Página 3
+
+ 
+
+ 
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+
+auditoria verificou que a dispensa ocorreu com fundamento no art. 24, IV da
+Lei de Licitações conforme se constata no termo de ratificação da referida
+dispensa extraído do portal de transparência (ver imagens ilustradas abaixo).
+
+(.)
+
+ 
+
+Vale ressaltar que o Plenário do Tribunal de Contas da União, ao dispor
+sobre a contratação com fundamento no art. 24, IV, da Lei de Licitações, já
+proferiu a decisão entendendo que para haver essa caracterização é
+necessário existir “urgência concreta e efetiva do atendimento a situação
+decorrente do estado emergencial ou calamitoso, visando afastar risco de
+danos a bens ou à saúde ou à vida das pessoas” e que o “risco, além de
+concreto e efetivamente provável, se mostre iminente e especialmente
+gravoso” (Decisão nº 347/1994).
+
+Acrescente-se a isso, como condição indispensável para a legalidade da
+contratação direta com base nesse dispositivo, a necessária demonstração de
+impossibilidade de providenciar a contratação necessária por meio de
+licitação, sob pena de a demora na realização do procedimento tornar
+inviável a satisfação da necessidade administrativa.
+
+Esse aspecto, aliás, deve restar devidamente demonstrado nos autos do
+processo administrativo que orienta a contratação. Se a satisfação da
+necessidade puder aguardar o prazo de realização de procedimento
+licitatório, então, não se justifica alegar situação emergencial ou de
+calamidade para viabilizar a contratação direta.
+
+Essa auditoria entende que embora o serviço de manutenção preventiva e
+corretiva das redes de água fluvial e redes de abastecimento de água potável
+seja necessário à higienização e, portanto, indispensável ao Covid-19, trata-
+se, pois, de serviço comum, rotineiro e que já faz parte do cronograma de
+constatações da edilidade em todos os exercícios, independentemente de
+pandemia, ou seja, não se enquadram na situação de imprevisão e urgência
+de maneira que não se possa providenciar a contratação necessária por meio
+de licitação.
+
+Ademais, fazendo uma consulta no SAGRES ON LINE acerca da
+contratação do Sr. Francisco Marculino da Silva pela Prefeitura de Coremas
+para o serviço similar no ano anterior (ver planilha abaixo), causou
+estranheza a esta auditoria o alto valor de R$ 52.291,20 contratado no
+exercício de 2020, durante a situação emergencial, quando comparado com
+os valores de 2019 descritos abaixo, tendo, inclusive, o fornecedor recebido
+ajudas financeiras como pessoa carente.
+
+(.)
+
+5. CONCLUSÃO:
+
+ 
+
+41/48
+
+Para verificar a autenticidade acesse
+
+Chave B7FBE4E5.5A657848.EFCB733E. 0DB720AD
+
+“transparencia.mpf.mp.br/validacaodocumento.
+
+ 
+
+Assinado com login e senha por JOAQUIM JOSE DE BARROS DIAS, em 29/10/2020 18:07.
+netp://
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 14, Página 4
+
+ 
+
+ 
+
+Fr
+PRRS-O0RI7:
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+Ante o exposto, esta auditoria conclui pela PROCEDÊNCIA da presente
+
+denúncia, tendo em vista o descumprimento da Lei nº 8.666/1993 e da Lei nº
+13.979/20.
+
+ 
+
+Ademais, este Órgão Técnico sugere a Concessão de Medida Cautelar para
+suspender a Dispensa de Licitação nº 15/2020 objeto da presente denúncia
+na fase em que se encontrar.”
+
+Nessa senda, a Auditoria do TCE/PB constatou, em análise ao Portal
+Transparência da Prefeitura de Coremas/PB?, que, apesar de cadastrado naquele Tribunal de
+Contas como dispensa de licitação com base na Lei Nacional 13.979, de 06 de fevereiro de
+2020, editada para dispor sobre as medidas para enfrentamento da emergência de saúde
+pública de importância internacional decorrente do coronavírus, o procedimento foi pautado
+na regra geral do art. 24, inciso IV da Lei 8.666/93, que trata das contratações.
+
+Assim, em razão dos fatos noticiados a esta Procuradoria Regional da
+República da 5º Região, os quais fornecem indícios da prática de crime capitulado no art. 89
+da Lei nº 8.666/93, remeto a Vossa Senhoria a Notícia de Fato em tela, a fim de que seja,
+incontinenti, procedida à instauração do competente inquérito policial.
+
+Ante ao até então apurado, requer este representante do Parquet
+Federal a realização das diligências a seguir indicadas, dentre outras que essa digna
+Autoridade Policial considerar importantes:
+
+a) Oitiva da Prefeita de Coremas/PB, Sra. Francisca das Chagas
+Andrade de Oliveira, para que a mesma possa se manifestar acerca
+dos fatos aqui relatados;
+
+b) Oitiva do Secretário de Saúde da Prefeitura de Coremas/PB, Sr.
+Edilson Pereira de Oliveira, para que o mesmo possa se manifestar
+acerca dos fatos aqui relatados;
+
+c) Oitiva do Representante da empresa FRANCISCO MARCULINO
+DA SILVA — EPP - MT MANUTENÇÕES (CNPJ: 26.931.037/0001-
+27), Sr. Francisco Marculino da Silva (CPF nº 424.380.554-72), para
+que o mesmo possa se manifestar acerca dos fatos aqui relatados;
+
+ 
+ 
+   
+
+2Art. 89. Dispensar ou
+à dispensa ou à inexigibi
+Pena- detenção, de 3 (três) a 5 (cinco) anos, e multa.
+
+Parágrafo único. Na mesma pena incorre aquele que, tendo comprovadamente concorrido para a consumação da ilegalidade,
+beneficiou-se da dispensa ou inexigibilidade ilegal, para celebrar contrato com o Poder Público.
+
+ 
+
+4o/4g
+
+Para verificar a autenticidade acesse
+
+Chave B7FBE4E5.5A657848.EFCB733E. 0DB720AD
+
+Assinado com login e senha por JOAQUIM JOSE DE BARROS DIAS, em 29/10/2020 18:07.
+
+http://www.transparencia.mpf.mp.br/validacaodocumento.
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 14, Página 5
+
+ 
+
+ 
+
+ 
+   
+
+jo E
+
+MINISTÉRIO PÚBLICO FEDERAL
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+d) Ofício ao Município de Coremas/PB, solicitando informações
+atualizadas, com documentação comprobatória, sobre as
+irregularidades apontadas no Processo TC nº 09705/20, do Tribunal de
+Contas do Estado da Paraíba.
+
+ 
+
+Recife, 29 de outubro de 2020.
+
+JOAQUIM JOSÉ DE BARROS DIAS
+
+Procurador Regional da República
+JJBD/JBB
+/desp2020
+
+Para verificar a autenticidade acesse
+
+Chave B7FBE4E5.5A657848.EFCB733E. 0DB720AD
+
+9
+8
+E
+õ
+É
+ã
+õ
+9
+3
+á
+q
+õ
+g
+g
+a
+A
+R
++
+5
+â
+8
+Ê
+vi
+ê
+Ê
+q
+A
+0
+&
+õ
+4
+q
+q
+g
+q
+4
+
+ 
+
+q
+q
+3
+&
+E
+õ
+5
+a
+a
+a
+8
+&
+ú
+ã
+ã
+a
+â
+a
+a
+8
+5
+ã
+5
+a
+2
+8
+s
+u
+8
+Bs
+q
+&
+E
+5
+o
+g
+ã
+a
+8
+4
+E
+5
+8
+o
+g
+q
+É
+á
+&
+
+nEED: 7/6
+
+43/48
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 15, Página 1
+
+ 
+
+ 
+
+Fl.
+PRRSº-00017954/20%
+
+ 
+
+2020.0110553
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+
+OFÍCIO N.º 23/2020/GAB/JJBD/PRR-5º REGIÃO
+
+Recife, 29 de outubro de 2020.
+
+Ilmo. Sr.
+
+Doutor GUSTAVO PAULO LEITE DE SOUZA
+
+DD. Superintendente da Polícia Federal na Paraíba
+
+Rua Aviador Mário Vieira de Melo, Rodovia BR 230 km 16,5, Bairro João Agripino,
+CEP. 58034-045 - João Pessoa/PB
+
+E-mail: gab.srpb)dpf.gov.br
+
+Referência: Notícia de Fato n.º 1.24.002.000119/2020-27 : Município de Campo
+Redondo/RN
+
+Senhor Superintendente:
+
+Trata-se de Notícia de Fato nº 1.24.002.000119/2020-27, instaurada
+para apurar para apurar supostas irregularidades praticadas pela Prefeitura Municipal de
+Coremas/PB, sob a gestão da Prefeita Francisca das Chagas Andrade de Oliveira, no
+âmbito do procedimento de Dispensa de Licitação n. 015/2020 (Contrato n. 064/2020).
+Ref.: Processo TC 09705/20-TCE/PB, sob o argumento de que o objeto da contratação
+direta estaria relacionada ao combate da Pandemia do Novo Coronavírus (Covid- 19),
+mediante a utilização de recursos repassados pelo Sistema Único de Saúde ao Fundo
+Municipal de Saúde.
+
+Por se tratarem de irregularidades praticadas, em tese, por Prefeita,
+uma vez que a Sra. Francisca das Chagas Andrade de Oliveira foi eleita no último pleito
+municipal”, gozando, portanto, de privilégio de foro por prerrogativa de função, e por se tratar
+de recursos federais é que os documentos que instruem esta Notícia de Fato foram
+encaminhados a esta Procuradoria Regional da República da 5º Região.
+
+ 
+
+ 
+
+Rua Frei Matias Téves, 65 — Paissandu (antiga Rua Sport Clube do Recife) — CEP 50.070-450
+PABX (81) 2121-9800 — 3081-9999 Home Page: http//www.prr5 .mpf.gov.br
+
+Protocolo Eletrônico: http://www.protocolo.mpf.mp.br
+
+44/48
+
+Para verificar a autenticidade acesse
+
+CA871B46.E0605907
+
+    
+
+ 
+
+Chave 0D8266B1.DA4AS.
+
+9
+8
+E
+õ
+É
+ã
+õ
+9
+3
+á
+q
+õ
+g
+g
+a
+A
+R
++
+5
+â
+8
+Ê
+vi
+ê
+Ê
+q
+A
+0
+&
+õ
+4
+q
+q
+g
+q
+4
+
+ 
+
+q
+q
+3
+&
+E
+õ
+5
+a
+a
+a
+8
+&
+ú
+ã
+ã
+a
+â
+a
+a
+8
+5
+ã
+5
+a
+2
+8
+s
+u
+8
+Bs
+q
+&
+E
+5
+o
+g
+ã
+a
+8
+4
+E
+5
+8
+o
+g
+q
+É
+á
+&
+
+nEED: 7/6
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 15, Página 2
+
+ 
+
+ 
+
+Fl.
+PRRSº-00017954/2020:
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+
+ 
+
+Em suma, consta dos autos em epígrafe que a Prefeitura Municipal de
+Coremas/PB teria realizado a contratação direta da empresa FRANCISCO MARCULINO DA
+SILVA- EPP - MT MANUTENÇÕES (CNPJ 26.931.037/0001-27), mediante Dispensa de
+Licitação (n.º 015/2020), com fundamento na Lei Municipal n.º 01/2020, que instituiu
+medidas temporárias e emergenciais para viabilizar o combate à COVID-19.
+
+A contratação teve por objetivo a realização de manutenção preventiva
+e corretiva das redes de água fluvial e das redes de abastecimento de água potável para o
+consumo humano e animal pertencentes ao Município, custeada com repasses do SUS ao
+Fundo Municipal de Saúde.
+
+Contudo, o Tribunal de Contas do Estado da Paraíba asseverou que a
+contratação deste serviço não poderia ser objeto de dispensa de licitação sob os fundamentos
+propostos, uma vez que se trata de serviço de manutenção regular desta infraestrutura, com
+periodicidade previsível, consoante seguinte trecho do Relatório TC 30476/20 (Processo TC
+09705/20):
+
+“3- FATO DENUNCIADO
+
+Trata os autos de denúncia apresentada a esta Corte pelos Srs. Francisco
+Sérgio Lopes Silva, Francisco de Assis Cláudio Araújo da Silva, Vereadores
+do Município de Coremas, em face da Sra. Francisca das Chagas Andrade de
+Oliveira, Prefeita do Município de Coremas, no tacante à ilegalidade na
+contratação direta de pessoa jurídica para prestação de serviços de mão-de-
+obra especializada na manutenção preventiva e corretiva das redes de água
+fluvial e redes de abastecimento de água potável para o consumo humano e
+animal (Pertencentes a este Município), com o fornecimento de todos
+materiais necessários que por ventura forem usados ficam por conta da
+Prefeitura de Coremas/PB.
+
+Segundo os denunciantes o objetivo da gestora é fugir da realização do
+procedimento licitatório na modalidade pregão presencial ou eletrônico, que
+garantisse uma ampla e irrestrita competitividade.
+
+(.)
+
+Como é cediço, a fim de facilitar e a assistir o enfrentamento ao surto do
+coronavírus no país, o Estado brasileiro, dentre outras medidas previstas na
+Lei nº 13.979/2020, estabeleceu uma nova hipótese de dispensa de licitação
+para contratações voltadas ao enfrentamento da situação emergencial.
+
+Assim fora redigido o art. 4º, do referido diploma, in verbis:
+
+ 
+
+Rua Frei Matias Téves, 65 — Paissandu (antiga Rua Sport Clube do Recife) — CEP 50.070-450
+PABX (81) 2121-9800 — 3081-9999 Home Page: http//www.prr5 .mpf.gov.br
+
+Protocolo Eletrônico: http://www.protocolo.mpf.mp.br
+
+  
+
+45/48
+
+Para verificar a autenticidade acesse
+
+Chave 0D8266B1.DA4ASAIF.CAB71B46.E0605907
+
+Assinado com login e senha por JOAQUIM JOSE DE BARROS DIAS, em 29/10/2020 18:11.
+
+http://www.transparencia.mpf.mp.br/validacaodocumento.
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 15, Página 3
+
+ 
+
+ 
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃ!
+
+ 
+
+ 
+
+Art. 4º. É dispensável a licitação o para aquisição o de bens, serviços,
+inclusive de engenharia, e insumos destinados ao enfrentamento da
+emergência de saúde pública de importância internacional decorrente do
+coronavírus de que trata esta Lei.
+
+A dispensa de licitação, objeto da presente denúncia, embora tenha como
+fundamento a legislação acima citada (conforme informações do Tramita),
+objetivando a contratação direta da pessoa jurídica para prestação de
+serviços de mão-de-obra especializada na manutenção preventiva e
+corretiva das redes de água fluvial e redes de abastecimento de água
+potável para o consumo humano e animal (Pertencentes a este Município),
+segundo ocorreu como afirmam os denunciantes na presente denúncia, esta
+auditoria verificou que a dispensa ocorreu com fundamento no art. 24, IV da
+Lei de Licitações conforme se constata no termo de ratificação da referida
+dispensa extraído do portal de transparência (ver imagens ilustradas abaixo).
+
+(.)
+
+Vale ressaltar que o Plenário do Tribunal de Contas da União, ao dispor
+sobre a contratação com fundamento no art. 24, IV, da Lei de Licitações, já
+proferiu a decisão entendendo que para haver essa caracterização é
+necessário existir “urgência concreta e efetiva do atendimento a situação
+decorrente do estado emergencial ou calamitoso, visando afastar risco de
+danos a bens ou à saúde ou à vida das pessoas” e que o “risco, além de
+concreto e efetivamente provável, se mostre iminente e especialmente
+gravoso” (Decisão nº 347/1994).
+
+Acrescente-se a isso, como condição indispensável para a legalidade da
+contratação direta com base nesse dispositivo, a necessária demonstração de
+impossibilidade de providenciar a contratação necessária por meio de
+licitação, sob pena de a demora na realização do procedimento tornar
+inviável a satisfação da necessidade administrativa.
+
+Esse aspecto, aliás, deve restar devidamente demonstrado nos autos do
+processo administrativo que orienta a contratação. Se a satisfação da
+necessidade puder aguardar o prazo de realização de procedimento
+licitatório, então, não se justifica alegar situação emergencial ou de
+calamidade para viabilizar a contratação direta.
+
+Essa auditoria entende que embora o serviço de manutenção preventiva e
+corretiva das redes de água fluvial e redes de abastecimento de água potável
+seja necessário à higienização e, portanto, indispensável ao Covid-19, trata-
+
+ 
+
+Rua Frei Matias Téves, 65 — Paissandu (antiga Rua Sport Clube do Recife) — CEP 50.070-450
+PABX (81) 2121-9800 — 3081-9999 Home Page: http//www.prr5 .mpf.gov.br
+
+Protocolo Eletrônico: http://www.protocolo.mpf.mp.br
+
+ 
+
+46/48
+
+Para verificar a autenticidade acesse
+
+Chave 0D8266B1.DA4ASAIF.CAB71B46.E0605907
+
+“transparencia.mpf.mp.br/validacaodocumento.
+
+ 
+
+Assinado com login e senha por JOAQUIM JOSE DE BARROS DIAS, em 29/10/2020 18:11.
+
+netp://
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 15, Página 4
+
+ 
+
+ 
+
+ri. 47
+PRR5º-00017954/20202n7/P5
+2020.011055
+
+  
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+
+ 
+
+se, pois, de serviço comum, rotineiro e que já faz parte do cronograma de
+constatações da edilidade em todos os exercícios, independentemente de
+pandemia, ou seja, não se enquadram na situação de imprevisão e urgência
+de maneira que não se possa providenciar a contratação necessária por meio
+de licitação.
+
+Ademais, fazendo uma consulta no SAGRES ON LINE acerca da
+contratação do Sr. Francisco Marculino da Silva pela Prefeitura de Coremas
+para o serviço similar no ano anterior (ver planilha abaixo), causou
+estranheza a esta auditoria o alto valor de R$ 52.291,20 contratado no
+exercício de 2020, durante a situação emergencial, quando comparado com
+os valores de 2019 descritos abaixo, tendo, inclusive, o fornecedor recebido
+ajudas financeiras como pessoa carente.
+
+(.)
+
+5. CONCLUSÃO:
+
+Ante o exposto, esta auditoria conclui pela PROCEDÊNCIA da presente
+denúncia, tendo em vista o descumprimento da Lei nº 8.666/1993 e da Lei nº
+13.979/20.
+
+Ademais, este Órgão Técnico sugere a Concessão de Medida Cautelar para
+suspender a Dispensa de Licitação nº 15/2020 objeto da presente denúncia
+na fase em que se encontrar.”
+
+Nessa senda, a Auditoria do TCE/PB constatou, em análise ao Portal
+Transparência da Prefeitura de Coremas/PB?, que, apesar de cadastrado naquele Tribunal de
+Contas como dispensa de licitação com base na Lei Nacional 13.979, de 06 de fevereiro de
+2020, editada para dispor sobre as medidas para enfrentamento da emergência de saúde
+pública de importância internacional decorrente do coronavírus, o procedimento foi pautado
+na regra geral do art. 24, inciso IV da Lei 8.666/93, que trata das contratações.
+
+Assim, em razão dos fatos noticiados a esta Procuradoria Regional da
+República da 5º Região, os quais fornecem indícios da prática de crime capitulado no art. 89
+da Lei nº 8.666/93º, remeto a Vossa Senhoria a Notícia de Fato em tela, a fim de que seja,
+incontinenti, procedida à instauração do competente inquérito policial.
+
+    
+
+/hwrwrw portaltransparencia. gov br/licitacoes/consulta?ordenarPor=dataR esultadoCompra& direcao=desc
+2Art. 89. Dispensar ou inexigir licitação fora das hipóteses previstas em lei, ou deixar de observar as formalidades pertinentes
+à dispensa ou à inexigibilidade:
+
+Pena- detenção, de 3 (três) a 5 (cinco) anos, e multa.
+
+Parágrafo único. Na mesma pena incorre aquele que, tendo comprovadamente concorrido para a consumação da ilegalidade,
+beneficiou-se da dispensa ou inexigibilidade ilegal, para celebrar contrato com o Poder Público.
+
+ 
+
+Rua Frei Matias Téves, 65 — Paissandu (antiga Rua Sport Clube do Recife) — CEP 50.070-450
+PABX (81) 2121-9800 — 3081-9999 Home Page: http//www.prr5 .mpf.gov.br
+
+Protocolo Eletrônico: http://www.protocolo.mpf.mp.br
+
+3
+
+47/48
+
+. Para verificar a autenticidade acesse
+
+Chave 0D8266B1.DA4ASALF.CA$71B46.E0605907
+
+ 
+
+9
+8
+E
+õ
+É
+ã
+õ
+9
+3
+á
+q
+õ
+g
+g
+a
+A
+R
++
+5
+â
+8
+Ê
+vi
+ê
+Ê
+q
+A
+0
+&
+õ
+4
+q
+q
+g
+q
+4
+4
+
+ 
+
+q
+q
+3
+&
+E
+õ
+5
+a
+a
+a
+8
+&
+ú
+ã
+ã
+a
+â
+a
+a
+8
+5
+ã
+5
+a
+2
+8
+s
+u
+8
+Bs
+q
+&
+E
+5
+o
+g
+ã
+a
+8
+4
+E
+5
+8
+o
+g
+q
+É
+á
+&
+
+http:
+ 
+
+ 
+
+Procedimento 1.24.002.000119/2020-27, Documento 15, Página 5
+
+ 
+
+ 
+
+r1. 48
+PRR5º-00017954/20202n7/P5
+
+ 
+ 
+
+ 
+
+MINISTÉRIO PÚBLICO FEDERAL .
+PROCURADORIA REGIONAL DA REPÚBLICA - 5º REGIÃO
+
+ 
+
+Ante ao até então apurado, requer este representante do Parquet
+Federal a realização das diligências a seguir indicadas, dentre outras que essa digna
+Autoridade Policial considerar importantes:
+
+a) Oitiva da Prefeita de Coremas/PB, Sra. Francisca das Chagas
+Andrade de Oliveira, para que a mesma possa se manifestar acerca
+dos fatos aqui relatados;
+
+b) Oitiva do Secretário de Saúde da Prefeitura de Coremas/PB, Sr.
+Edilson Pereira de Oliveira, para que o mesmo possa se manifestar
+acerca dos fatos aqui relatados;
+
+Para verificar a autenticidade acesse
+
+c) Oitiva do Representante da empresa FRANCISCO MARCULINO
+DA SILVA — EPP - MT MANUTENÇÕES (CNPJ: 26.931.037/0001-
+27), Sr. Francisco Marculino da Silva (CPF nº 424.380.554-72), para
+que o mesmo possa se manifestar acerca dos fatos aqui relatados;
+
+d) Ofício ao Município de Coremas/PB, solicitando informações
+atualizadas, com documentação comprobatória, sobre as
+irregularidades apontadas no Processo TC nº 09705/20, do Tribunal de
+Contas do Estado da Paraíba.
+
+Chave 0D8266B1.DA4ASAIF.CAB71B46.E0605907
+
+Na oportunidade, renovo a V.S'. votos de apreço e distinta
+consideração.
+
+JOAQUIM JOSÉ DE BARROS DIAS
+Procurador Regional da República
+
+JJBDjbb
+
+transparencia.mpf.mp.br/validacaodocumento.
+
+ 
+
+ 
+
+Rua Frei Matias Téves, 65 — Paissandu (antiga Rua Sport Clube do Recife) — CEP 50.070-450
+PABX (81) 2121-9800 — 3081-9999 Home Page: http//www.prr5 .mpf.gov.br
+
+Protocolo Eletrônico: http://www.protocolo.mpf.mp.br
+
+Processo: 0802509-54.2021.4.05.0000
+Assinado eletronicamente por:
+
+FELIPE FREITAS DE MEDEIROS - Procurador 21030910354779800000024843334
+Data e hora da assinatura:09/03/2021 10:37:27
+
+Identificador: 4050000.24886168
+
+Para conferência da autenticidade do documento: hups://pje.trf5.jus br/pje/Processo/ConsultaDocumento/listView.seam. 48/48
+
+Assinado com login e senha por JOAQUIM JOSE DE BARROS DIAS, em 29/10/2020 18:11.
+
+http://ww
 
