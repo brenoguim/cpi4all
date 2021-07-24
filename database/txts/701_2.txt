@@ -1,30 +1,807 @@
-  
-  
-   
-   
  
+
+MORTALIDADE POR COVID-19 E QUEDA DO EMPREGO NO
+BRASIL E NO MUNDO
+
+EO SEDE Marcos Hecksher
+
+Produto editorial: Nota Técnica — Disoc
+
+Cidade: Brasília
+
+ei i ER Instituto de Pesquisa Econômica Aplicada (Ipea)
+Ano: 2021
+
+Edição El
+
+O Ipea informa que este texto não foi objeto de padronização, revisão textual ou diagramação pelo
+Editorial e será substituído pela sua versão final uma vez que o processo de editoração seja concluído.
+
  
+MORTALIDADE POR COVID-19 É QUEDA DO
+EMPREGO NO BRASIL E NO MUNDO
+
+EQUIPE TÉCNICA
+
+Marcos Hecksher
+
+Assessor especializado da Diretoria de Estudos e Políticas Sociais (Disoc) do Ipea.
+E-mail: marcos.hecksher O ipea.gov.br.
+
+SINOPSE
+
+Para situar no contexto mundial a intensidade relativa de danos causados pela covid-19
+no Brasil, esta nota compara alguns indicadores, ressaltando suas principais limitações e
+vantagens. O Brasil registrou, em proporção de sua população total, mais mortes por
+covid-19 em 2020 do que 89,3% dos demais 178 países com dados compilados pela
+Organização Mundial de Saúde (OMS). Quando a comparação desses registros é ajustada
+à distribuição populacional por faixa etária e sexo em cada país, o resultado brasileiro se
+torna pior que os de 94,9% dos mesmos 178 países. Com base em dados de nível de
+ocupação compilados pela Organização Internacional do Trabalho (OIT), o Brasil
+registrou queda do indicador mais intensa do que as de 84,1% dos demais 63 países
+analisados entre os três últimos trimestres de 2019 e de 2020.
+
  
- 
- 
- 
- 
- 
- 
-   
-  
-   
-  
-  
-  
+
   
 
-3 CONCLUSÃO
+ 
 
-Tao Brasil registrou, em proporção de sua população total, mais mortes por covid-19 em
+Palavras-chave:
+Mortalidade. Covid-19. Nível de ocupação. Comparação internacional.
+1. INTRODUÇÃO: POR QUE COMPARAR PAÍSE
+APESAR DAS LIMITAÇÕES
+
+O ano de 2020 foi marcado pelo alastramento global do vírus sars-cov-2, o que resultou
+em um aumento no número total de mortes de pessoas na maioria dos países. Todas as
+economias nacionais foram afetadas de algum modo e quase todas registraram quedas no
+nível de emprego de suas populações. Não há dúvida de que o Brasil foi fortemente
+impactado em perdas de vidas humanas e em deterioração de seu mercado de trabalho. O
+objetivo desta nota é comparar as perdas experimentadas em 2020 nessas duas dimensões
+pelos habitantes dos diversos países com dados disponíveis, de modo a situar a gravidade
+das perdas brasileiras perante as do resto do mundo.
+
+Compreender onde as perdas foram maiores ou menores é um passo necessário —
+ainda que não suficiente — para reconhecer as circunstâncias que levaram a diferentes
+resultados. Diante de informação comparável sobre a variedade do que se observou em
+diferentes contextos, as ações individuais e coletivas ganham potencial para serem
+
+ 
+
+ 
+
+melhoradas, reforçadas ou substituídas por novas estratégias
+Comparações internacionais são quase sempre sujeitas a diferenças entre os
+métodos de apuração dos indicadores em cada país e os padrões de erro cometidos. Se já
+
+ 
+
+ 
+
+ão é simples confrontar dados de duas fontes diferentes sobre o mercado de trabalho
+brasileiro, por exemplo, o desafio só aumenta quando isso é feito com vários países.
+Apesar disso, é necessário lidar com os dados disponíveis e buscar a melhor forma de
+compreender o que eles informam dadas as limitações de cada tipo de comparação.
+
+No caso dos efeitos da pandemia de covid-19, há ainda outras ressalvas a fazer.
+Embora seja um fenômeno de alcance mundial, seus choques não se iniciaram
+simultaneamente em todas as partes do globo terrestre, nem encontraram condições iguais
+em cada uma delas. A doença do novo coronavírus foi batizada com o ano de 2019 em
+que foi identificada, mas ganhou o mundo em 2020. No Brasil, as primeiras mortes
+atribuídas à covid-19 foram registradas em março de 2020, e ocorreu em diferentes
+momentos em cada país.
+
+Nas áreas mais populosas do Brasil, sob as estações do ano típicas do hemisfério
+Sul, o vírus começou a ceifar vidas entre o fim de um verão e o início de um outono.
+Mesmo dentro do Brasil, cujo território chega a alcançar a linha do Equador, as estações
+não são homogêneas e seus impactos sazonais são variados, seja na saúde ou na economia.
+No mundo, então, a diversidade é bem maior. Além disso, a propagação é afetada pela
+maneira como as pessoas transitam e interagem em redes que conectam umas às outras
+de formas muito distintas em escalas locais e globais. As consequências, por sua vez,
+dependem de características das populações e dos múltiplos recursos de que dispõem para
+reagir ao vírus, em muitas dimensões — memória imunológica, condições econômicas e
+sanitárias, sistemas de saúde com profissionais e infraestrutura em quantidades e
+qualidades variadas, canais de coordenação das ações etc.
+
+As condições variam muito. Assim mesmo, os resultados devem ser e são
+sistematicamente comparados de várias maneiras. Não há uma única forma correta de
+comparar. O importante é compreender o que cada tipo de comparação informa ou não.
+Esta nota reúne algumas comparações possíveis, procurando indicar suas principais
+limitações e vantagens, sempre no intuito de situar no mundo a intensidade relativa dos
+danos sanitários causados pela covid-19 no Brasil e de seus prováveis reflexos no
+mercado de trabalho. Averiguar qualquer nexo causal entre as duas dimensões, no
+entanto, vai além do escopo pretendido.
+
+   
+
+ 
+
+   
+
+ 
+
+ 
+
+   
+
+ 
+
+  
+
+ 
+
+ 
+2. INDICADORES SELECIONADOS E
+COMPARAÇÕES INTERNACIONAIS
+
+A marca mais grave e evidente da pandemia em curso é sua capacidade de provocar
+mortes. Contabilizar óbitos por covid-19, no entanto, envolve procedimentos de
+diagnóstico, testagem e registro das causas de morte com padrões, níveis de qualidade e
+confiabilidade que podem variar bastante entre países e dentro de cada país.
+
+De modo geral, a identificação da causa tende a ser mais acurada entre os casos
+graves, especialmente aqueles que resultam em mortes, do que entre os casos mais leves,
+que incluem até mesmo infecções assintomáticas despercebidas pelas próprias pessoas
+infectadas. Isso torna consensual a expectativa de subestimação dos casos de covid-19
+registrados em todo o mundo, em maiores proporções nos países que menos testam suas
+populações, sobretudo nos que mais concentram os testes em pacientes sintomáticos e
+que baseiam grande parte dos registros em testes de menor qualidade.
+
+A contabilização total de cas quer será destacada nesta breve nota. Mesmo o
+número de mortes registradas por covid-19, que tende a ser menos subestimado do que o
+de casos, depende muito de um conjunto complexo e variável de práticas adotadas pelos
+sistemas de saúde e informação mantidos em cada país.
+
+Alguns indicadores têm sido citados com maior frequência no debate público, mas
+é importante qualificar o que cada um deles informa. A imprensa tem dado muito
+destaque, desde maio de 2020, ao fato de o país estar entre aqueles com maior número
+absoluto de mortes e casos registrados de covid-19. Os Estados Unidos lideram esses
+“rankings”, enquanto Índia e Brasil se revezam na segunda e na terceira po: ao longo
+de vários meses. Números absolutos, no entanto, são muito afetados pelo tamanho das
+populações nacionais. A brasileira é a sexta maior do mundo e alguns dos países mais
+populosos estão entre os mais questionados sobre a qualidade dos números que reportam.
+
+Para evitar ao menos que o tamanho de cada população afete as comparações, um
+indicador muito usado é o número acumulado de mortes por 100 mil habitantes.! Entre
+179 países com algum registro de morte por covid-19 em 2020 na compilação da
+Organização Mundial da Saúde (OMS), o Brasil aparece com a 20º maior proporção de
+sua população vitimada.? Dos demais 178 países com algum registro, 159 (ou 89,3%)
+tiveram menos mortes por 100 mil habitantes que o Brasil.
+
+O debate público muitas vezes dá maior destaque aos países com indicador pior
+que o brasileiro. Ainda que sejam minoritários (10,7% dos países com algum registro em
+2020), o grupo inclui vários países mais desenvolvidos, como Bélgica, Itália, Reino
+Unido, Espanha, Estados Unidos e França. Todos esses países, mais adiantados em suas
+transições demográficas, têm em comum o fato de terem proporções de idosos em suas
+populações maiores que as encontradas no Brasil e no mundo, o que se vê no gráfico 1.
+Como o risco de morrer de covid-19 é muito mais alto entre as pessoas mais velhas, a
+distribuição etária de cada população é determinante para os óbitos por 100 mil
+habitantes, que indicam o risco de uma pessoa qualquer da população ter morrido.
+
+   
+
+  
+
+ 
+
+ 
+ 
+
+! Demógrafos e epidemiologistas costumam preferir apresentar óbitos por 100 mil habitantes, conforme
+convencionado em seus campos de estudo, enquanto alguns sites com compilações atualizadas
+diariamente mostram a taxa por milhão de habitantes, como o Worldometer
+
+(https://www.worldometers.info/coronavirus).
+? WHO Coronavirus (COVID-19) Dashboard: https://covid19.who.int/table. Acesso em 01/01/2021.
+
+4
+Gráfico 1
+Percentual da população com 60 anos ou mais em 2020
+
+35%
+29,8%
+30% 5,6% 26,3% 268%
+24,4% !
+25% 22,9%
+20%
+5 14,0%
+
+15% — 135%
+10%
+5%
+0%
+
+Mundo Brasil EUA ReinoUnido Bélgica Espanha — França ttália
+
+Fonte: Organização das Nações Unidas (ONU).
+
+Existem várias formas de obter uma comparação que desconte as diferenças
+demográficas. Uma delas é comparar o total de mortes observadas em cada país ao
+número que seria esperado se, com suas respectivas pirâmides populacionais, todos os
+países enfrentassem a mesma proporção de mortes em cada grupo de faixa etária e sexo.
+Seria possível tomar como referência, por exemplo, as taxas de mortalidade específicas
+
+   
+
+ 
+
+por faixa etária e sexo observadas em todo o mundo, o que teria a vantagem de oferecer
+
+ 
+
+uma referência “neutra”. Em compensação, essas taxas mundiais são uma média que
+mistura os vieses nos registros de todos os países, com maior peso para os mais populosos.
+
+Optou-se aqui por um ajuste que toma como referência as taxas de mortalidade
+específicas brasileiras, cujos potenciais vieses podem ser mais facilmente discutidos no
+país. Afinal, o objetivo é simplesmente poder localizar o Brasil entre os demais países.
+Trata-se de um ajuste básico, dependente apenas da comparabilidade de dados
+populacionais disponíveis para todos os países, os quais servem de base a quase todas as
+outras estatísticas, mais sujeitas a diferenças em métodos de estimação. A Organização
+das Nações Unidas (ONU) publicou em 2019 suas últimas projeções” para 1º de julho de
+2020 das quantidades de pessoas em cada faixa etária e sexo que descrevem as pirâmides
+populacionais de todos os 179 países com algum registro de morte por covid-19 na
+compilação da OMS e de outros 17 países sem nenhum registro, desconsiderados nesta
+análise. Para o Brasil, o exercício utilizou a pirâmide populacional de 1º de julho de 2020
+projetada pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em 2018.º
+
+Os numeradores para as taxas específicas de mortalidade por covid-19 em cada
+faixa etária e sexo em 2020 no Brasil foram obtidos a partir dos dados de Cartórios de
+Registro Civil disponibilizados pelo Portal da Transparência. O gráfico 2 apresenta essas
+mortes em proporção da população projetada pelo IBGE e evidencia por que as pirâmides
+populacionais são tão decisivas para as taxas brutas de mortalidade. Afinal, para pessoas
+de 90 anos ou mais, o risco de contrair e morrer de covid-19 é aproximadamente mil vezes
+maior que o observado entre crianças e adolescentes. Secundariamente, o risco entre os
+homens é maior do que entre as mulheres.
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+3 World Population Prospects (ONU, 2019): https://population.un.org/wpp/. Acesso em 01/01/2021.
+
+* Butão, Camboja, Coreia do Norte, Granada, Ilhas Salomão, Laos, Micronésia, Mongólia, Nova
+Caledônia, Quiribati, Samoa, São Vicente e Granadinas, Seychelles, Timor-Leste, Tonga, Turcomenistão
+e Vanuatu.
+
+* Projeções da População (IBGE, 2018): https://www.ibge.gov br/estatisticas/sociais/populacao/9109-
+projecao-da-populacao.html?=&t=resultados. Acesso em 01/01/2021.
+
+$ Portal da Transparência — Registro Civil: https:/transparencia registrocivilorg.br/dados-covid-
+download. Acesso em 01/01/2021.
+
+ 
+Gráfico 2
+Taxas específicas de mortalidade por covid-19 no Brasil em 2020
+(por 100 mil habitantes em cada faixa etária e sexo)
+90 ou mais vm dos E
+
+80a 89 ass assi 1560
+
+E
+
+70a 79 o ua
+
+60a 69 28 m
+
+E
+50459 Sa
+40949 1%
+30239 |
+
+20a 29
+
+10a 19
+
+Até 9
+Qualqueridade ds
+
+o 500 1.000 1.500 2.000 2.500 3.000
+
+Média Homens Mulheres
+
+Fonte: Elaboração própria com dados do Portal da Transparência e do IBGE.
+
+Conforme o método de ajuste indireto descrito por Szklo e Nieto (2019, p. 271-
+273), essas taxas foram multiplicadas pela população em cada faixa etária, sexo e país
+para estimar o número esperado de mortes por covid-19 em cada país caso todos eles
+tivessem o mesmo padrão de mortalidade brasileiro. Em seguida, dividiu-se o número
+total de mortes por covid-19 de fato registradas em cada país pelo número esperado com
+taxas brasileiras.” A tabela 1 mostra os resultados, expressos em porcentagem, para todos
+os 179 países compilados e o mundo.
+
+Dentro do mesmo conjunto de 179 países em que o Brasil apresentou a 20º maior
+taxa bruta de mortalidade por 100 mil habitantes, o país p: a ter a 10º pior posição no
+ranking ajustado à composição demográfica (tabela 1). Em 169 dos demais 178 países
+(94,9% do total), o total de mortes registradas por covid-19 foi menor do que se esperaria
+com o padrão de mortalidade brasileiro.
+
+Após o ajuste à distribuição populacional por faixa etária e sexo, sete dos nove
+países com indicador pior que o brasileiro passam a ser latino-americanos, com destaque
+para Peru (142,8%) e México (133,9%). Esses valores indicam que as mortes registradas
+nesses dois países em 2020 superaram, respectivamente, em 42,8% e 33,9% as que
+ocorreriam se ambos tivessem replicado as taxas brasileiras em cada grupo de idade e
+sexo. No extremo oposto, o Vietnã registrou apenas 0,05% das mortes que teria com o
+padrão brasileiro, ou seja, o risco de morrer de covid-19 no Brasil foi 2 mil vezes maior
+que no Vietnã segundo os registros dos dois países. No mundo todo, o risco foi 27,9% do
+observado no Brasil, isto é, o risco brasileiro foi 3,6 vezes a média global.
+
+ 
+
+     
+ 
+
+ 
+
+” Lima et al. (2021) e Silva, Jardim e Lotufo (2021) aplicam outros métodos de ajuste à demografia ao
+comparar diferentes áreas do Brasil.
+tabela 1
+Mortes por covid-19 observadas em 2020 em relação às esperadas com o padrão
+brasileiro de mortalidade por idade e sexo (%)
+
+ 
+
+    
+
+   
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+1-Peru 142,8% 61 - Israel 35,6% 120 — Martinica 6,1%
+2-México 13,9% 62.- Portugal 352% 121-Congo 60%
+
+14,1% 37% 122 - Camarões 60%
+
+112, 1% 33,1% 123 Antígua e Barbuda 59%
+
+LIL5% 318% 124 — Curaçao 59%
+
+LILA% 66 - Eslováquia 31,5% 125 - Finlândia 5,6%
+7 - Macedônia do Norte 103,4% 67 - Rússia 314% 126 - Nonuega 54%
+8-Coló 102,4% 68 - Turgl 312% 127-Mali 53%
+9-tã 101,3% 69 - República Dominicana 30,5% 128 — Lesoto 53%
+10 - BRASIL 100,0% 70 - Suriname 30,4% 129 - Angola 50%
+11 - Bélgica 99,6% 71 - Guiana 30,4% 130 - Libéria 49%
+12- Argentina 98,6% 72- Líbano 29,7% 131 - Venezuela 49%
+13- África do Sul 95,6% 73 - Porto Rico 29,7% 132 - Etiópia 49%
+14- Iraque 93,1% 74 - Marrocos 29,3% 133 - República Centro-Africana 47%
+15 - Armêni 89,6% 75 - Malta 289% 134 - Nicarágua 4,5%
+16 - Jordânia 89,3% MUNDO 21,9% 135 — Haiti 43%
+17 - Palestina 88,8% 76- El Salvador 2% 136 Reunião 42%
+18 - Bósnia e Herzegovina 86,0% 77 - Canadá 263% 137 Botswana 4,1%
+19 - Montenegro 85,9% 78 - Sérvia 253% 138 - Uruguai 31%
+20-Chile 80,1% 79 - São Tomé e Prínci 23,6% 139- Mala 31%
+21 - Eslovênia 79,5% 80 - Guadalupe 230% 140 — Uzbequistão 31%
+2-Omã 18,9% 81 - Grécia 230% 141 - Serra Leoa 32%
+23-Guam 78,8% 82 - Catar 29% 142 - Comores 32%
+24 - Moldávia 44% 83 - Namíbia 27% 143 - Gana 31%
+25-EUA 11,2% 84 - Guiné Equatorial 2,5% 144 — Madagascar 29%
+26 - República Tcheca 70,1% 85 - Mauritâni: 2,1% 145 — Somáli 28%
+27 - Reino Unido 66,4% 86 - Cazaquistão 20,9% 146 - Santa Lúcia 27%
+28 - Bulg 66,0% 87 - Alemanha 20,6% 147 - Togo 27%
+29 - Hungria 65,3% 88 - Afeganistão 203% 148 — Tajiquistão 25%
+30 - Honduras 632% 89- Letô 20,1% 149 — Austrália 2,5%
+31 - Luxemburgo 59,7% 90 - Maldivas 19,7% 150 - Uganda 25%
+32 -Ntália 59,4% 91 - Emirados Árabes 19,6% 151 - Chade 2,5%
+33 - Espanha 59,3% 19,2% 152 - Ruanda 22%
+34 - Bahamas 59,0% 17,6% 153 - Guiné 22%
+35 - Croácia 56,3% 16,2% 154 - Nigéria 22%
+36 - Guatemala 55,7% 14,9% 155 - Congo 22%
+37 - França 54,7% 96 - has Virgens Americanas 14,1% 156 — Malási 22%
+38 - Romênia 52,9% 97 - Dinamarca 134% 157 - Moçambique 19%
+39 - Geórgia 50,9% 98 - Indonésia 133% 158 - Costa do Marfim 17%
+40 - Paraguai 50,4% 99 - Djibuti 12,9% 159 - Sudão do Sul 17%
+41 - Polônia 50,3% 100 - Nepal 123% 160 - Níger 16%
+42 - Séc 50,1% 01 - Bielorrússia 120% 161 — Barbados 16%
+43 - Bahrein 49,8% 102 - Jamaica 119% 162 - Burkina Faso 16%
+
+49,5% 112% 163 - Coreia do Sul 13%
+
+49,2% 10,8% 164 - Brunei LI%
+46 - Polinésia Francesa 49,1% 105 - Paquistão 10,4% 165 — Japão LI%
+47 - Suíça 48,1% 106 - Argélia 9,8% 166 Benim LI%
+48 - Maiote 412% 107 - Sudão 92% 167 - Sti Lanka 10%
+49 - Costa Rica 44,9% 108 - Trinidad e Tobago 92% 09%
+50 - Guiana Francesa 44,8% 109 - Zâmbia 90% 0,8%
+51-Líbia 44,1% HO - Mianmar 81% 170 - Singapura 0,42%
+52 - Quirguistão 43,6% m-si 8,5% mI-F 0,40%
+53 - Kuwait 42,9% H12- Chipre 84% 172 - Nova Zelândia 0,37%
+54 - Cabo Verde 40,4% 113 - Zimbabwe 83% 173 China 0,33%
+55 - Áustria 40,1% 114 - Guiné-Bissau 83% 174 - Papua-Nova Guiné 0,27%
+56 - Holanda 39,7% 115 - Bangladesh 81% 175 — Entrei: 021%
+57- Aruba 38,8% 16 - Senegal 81% 176 Tanzânia 0,13%
+58 - Arábia Saudita 38,4% 17 - Gabão 19% 177 = Tailândia 0,08%
+59 - Azerbaijão 38,2% 118 - Têmen 68% 178 = Burundi 0,07%
+60 - Irlanda 36,4% LIS - Islândia 62% 179 — Vietnã 0,05%
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaboração própria com dados do Portal da Transparência, IBGE, OMS e ONU.
+ 
+
+A tabela 2 mostra o mesmo Indicador da tabela 1, porém para grupos de pai
+conforme classificados na base da ONU. Ela evidencia que a América Latina foi a região
+com o pior indicador ajustado de mortes por covid-19. A América Central, que na
+classificação utilizada inclui o México, é a única sub-região com indicador pior que o
+brasileiro. Quando a análise se restringe aos grupos que contêm o Brasil, o país registra
+mortalidade ajustada mais alta que a média e a mediana de seus pares. O indicador
+brasileiro é pior que os de 66,7% dos 12 demais países sul-americanos e pior que os de
+80,0% dos 35 demais países latino-americanos listados na tabela 1.
+
+Tabela 2
+
+Mortes por covid-19 observadas em 2020 em relação às esperadas com o padrão
+brasileiro de mortalidade por idade e sexo (%)
+
+ 
+
+ 
+
+ 
+
+América Latina 94,9%
+América Central* 113,5%
+América do Sul 97,9%
+Caribe 12,5%
+
+América do Norte* 66,2%
+
+Europa 44,8%
+
+África 14,0%
+
+Ásia 9,3%
+
+Oceania 2,5%
+
+Mundo 27,9%
+
+Mundo exclusive Brasil 25,6%
+
+América Latina exclusive Brasil 89,5%
+
+América do Sul exclusive Brasil 90,6%,
+
+ 
+
+ 
+
+Fonte: Elaboração própria com dados do Portal da Transparência, IBGE, OMS e ONU.
+* México incluído na América Central, não na América do Norte, conforme padrão das estatísticas populacionais da
+
+ONU.
+Para ajudar a compreender por que, após o ajuste, nenhum dos seis países
+desenvolvidos destacados no gráfico 1 mantém indicador pior que o brasileiro, a tabela 3
+recorre a dados da proporção de mortes por faixas etárias em cada um deles e no Brasil
+em 2020, compilados pelo projeto COVerAGE-DB.º A tabela apresenta os dados
+agregados em apenas duas grandes faixas etárias, o que ressalta o papel do ajuste. O Brasil
+registrou mortalidade mais alta que as dos seis outros países entre pessoas de até 59 anos
+de idade e mais alta que as de cinco deles entre pessoas
+cinco países, portanto, só o maior percentual de idosos explica o fato de suas mortalidades
+brutas por 100 mil habitantes serem mais altas que a brasileira — dada a faixa etária de
+uma pessoa, o risco de morrer de covid-19 foi sempre mais alto no Brasil. No caso
+específico da Bélgica, sua mortalidade de idosos é mais alta, mas a de não idosos é muito
+mais baixa que a brasileira, a ponto de fazer com que as taxas ajustadas dos dois países
+(tabela 1) sejam quase iguais.
+
+ 
+
+ 
+
+8 COVerAGE-DB: https://osL.io/mpwjq/. Acesso em 15/03/2021. Para contomar diferenças de totais entre
+as bases, as proporções por idade e sexo da COVerAGE-DB foram aplicadas aos totais da OMS.
+
+8
+Tabela 3
+
+Taxas específicas de mortalidade por covid-19 em 2020
+(mortes de covid-19 por 100 mil habitantes por faixa etária e país)
+
+ 
+
+ 
+
+ 
+
+Média Até 59 anos 60 anos ou mais
+Brasil 91,2 22,8 509,8
+França 98,4 6,7 348,4
+EUA 101,4 16,0 389,6
+Espanha 107,9 71 390,7
+Reino Unido 108,3 8,6 417,1
+Bélgica 168,5 71 637,6
+
+ 
+
+ 
+
+Fonte: Elaboração própria com dados da COVer AGE-DB, IBGE e ONU.
+
+Outros fatores influem no risco a que cada pessoa está exposta e também poderiam
+ser descontados em análises alternativas, mas os principais estão relacionados aos
+recursos individuais e coletivos disponíveis para enfrentar a pandemia. Estes não estão
+descontados e devem explicar parte importante da variação encontrada na tabela 1. São,
+em geral, fatores sobre os quais — ao contrário do que ocorre à idade das pessoas — existe
+certa margem para agir, embora em muitos casos sejam pouco alteráveis em curto prazo.
+
+ 
+
+Finalmente, para comparar impactos de 2020 no mercado de trabalho, foram
+utilizados dados compilados pela Organização Internacional do Trabalho (OIT)!º sobre
+63 países e, para o Brasil, os microdados da Pesquisa Nacional por Amostra de Domicílios
+(PNAD) Contínua, do IBGE.
+
+O indicador adotado foi a variação, em pontos percentuais (p.p.), do nível de
+ocupação (o percentual de pessoas ocupadas na população de 15 anos ou mais). A
+variação observada foi aquela entre as médias dos três últimos trimestres de 2019 e
+2020." O gráfico 3 mostra os níveis de ocupação nesses mesmos nove meses de 2019 e
+2020 e ordena os países pelo valor final. Já o gráfico 4 ordena os países pela variação
+entre os dois períodos, na qual devem incidir os efeitos da pandemia.
+
+ 
+
+Ainda em 2019, pré-pandemia, entre os 64 países analisados, o Brasil tinha o 25º
+menor nível de ocupação, com 55,8% de sua população em idade de trabalhar ocupada.
+Um ano depois, o Brasil passou a ter a 16º menor taxa (48,8%). Com isso, o nível de
+ocupação pós-pandemia no Brasil passa a ser mais baixo que os de 76,2% dos 63 demais
+países da compilação.
+
+ 
+
+ 
+
+2 A World Obesity Federation (2021), por exemplo, destaca a incidência nacional de obesidade como um
+dos fatores associados à mortalidade por covid-19. Sua base compilada
+
+(https://data.worldobesity .org/tables/prevalence-of-adult-overweight-obesity-2/) aponta o Brasil com
+20,7% de adultos obesos, percentual maior que os de 57,2% dos demais 194 países com dados. Acesso
+em 19/03/2021.
+
+1º Employment-to-population ratio (OIT):
+
+https://www.ilo.org/shinyapps/bulkexplorer5 1 /?lang=en&segment=indicator&:id=EMP DWAP SEX A
+GE RT Q. Acesso em 01/01/2021.
+
+1! Esses períodos de análise foram escolhidos porque, em todos os 64 países com dados de ocupação
+analisados, os primeiros registros de infecção pelo sars-cov-2 ocorreram ao longo do primeiro trimestre
+de 2020. Assim, a comparação é sempre entre antes e depois do primeiro registro nacional de covid-19.
+
+ 
+
+9
+Gráfico 3
+Nível da ocupação nos três últimos trimestres de 2019 e de 2020 (%)
+90
+
+80
+
+70 e
+
+ 
+
+60 55,8 a a
+e “co s º . “case tosa
+
+50 ho.
+
+ 
+
+40
+
+30
+
+20
+
+10
+
+ 
+
+abr-dez/2020 e abr-dez/2019
+
+Fontes: OIT e Pnad Contínua/IBGE.
+
+Gráfico 4
+Variação do nível da ocupação entre os três últimos trimestres de 2019 e de 2020
+
+(p.p.)
+
+  
+
+-8 70
+
+Fontes: OIT e Pnad Contínua/IBGE.
+
+O Brasil registrou a 11º pior queda do indicador (-7,0 p.p.) entre os 64 países
+analisados. Isso significa que a variação no país foi mais negativa que as de 84,1% dos
+demais países com dados compilados. O único país do grupo que aumentou em alguma
+medida seu nível de ocupação foi a Mongólia (+1,0 p.p.), enquanto a variação mediana
+foi uma queda de 1,6 p.p.
+
+10
+Yale ressalvar que o Impacto no mercado de trabalho também não foi homogêneo
+entre faixas etárias, sexos, níveis de escolaridade e muitos outros fatores que poderiam
+ensejar comparações ajustadas à composição sociodemográfica dos países. Em particular,
+os trabalhadores mais afetados pela pandemia foram os informais, que respondem por
+maiores proporções das populações ocupadas nos países menos desenvolvidos, como
+aqueles com as maiores quedas de ocupação no gráfico 3.
+
+O gráfico 4 localiza 62países com dados disponíveis em duas dimensões: óbitos
+por 100 mil habitantes (sem ajuste à distribuição por sexo e faixa etária) e variação do
+nível de ocupação. Como a ocupação não está corrigida pela pirâmide populacional,
+optou-se por apresentá-la junto à mortalidade também sem essa padronização, pois
+populações mais envelhecidas poderiam ser especialmente afetadas nas duas dimensões
+Nesse grupo de 40 países, o Brasil se situa pior que a maioria em cada um desses doi
+indicadores. Apenas dois países analisados têm resultados piores que os brasileiros nas
+duas dimensões ao mesmo tempo: Peru e Argentina.
+
+A mera observação simultânea desses dados brutos não é suficiente para apontar
+qualquer relação causal entre os dois indicadores. De todo modo, é relevante notar que,
+se existe alguma correlação entre ambos, ao menos nesse grupo, ela é negativa: países
+com maior mortalidade por covid-19, em geral, tiveram também maiores quedas na
+ocupação. !?
+
+Como última ressalva, cabe notar que o indicador de queda da ocupação provém
+da Pnad Contínua e sua acurácia pode ter sido afetada pelas dificuldades encontradas pelo
+IBGE desde a necessária substituição de coleta presencial por telefônica, realizada em
+março de 2020 como resposta à pandemia. Há evidências de fatores que podem ter
+contribuído tanto para a superestimação!? como para a subestimação!* da queda do
+emprego na pesquisa, e o resultado conjunto desses fatores segue em estudo.
+
+Os indicadores de ocupação de todos os demais países considerados também
+provêm de pesquisas sobre o mercado de trabalho, cuja acurácia pode igualmente ter sido
+afetada pelas condições excepcionais de coleta. É possível que as novas condições
+restritas de acesso aos entrevistados tenham levado as pesquisas a subestimar em alguns
+países e a superestimar em outros os reais efeitos da pandemia sobre a proporção de
+pessoas com trabalho. O nível de ocupação brasileiro abaixo de 50% no segundo trimestre
+de 2020, contudo, é corroborado por outra pesquisa do IBGE, a Pnad Covid-19, não
+influenciada pelo citado fator de superestimação da queda do emprego, mas sim pelo fator
+de subestimação.
+
+ 
+
+     
+
+     
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 Deaton (2021, p.11) apresenta um gráfico similar relacionando países com maior mortalidade por
+covid-19 a maiores quedas projetadas de produto interno bruto (PIB) per capita em 2020.
+
+3 A Pnad Contínua busca visitar os mesmos domicílios por cinco trimestres consecutivos, substituindo
+cerca de um quinto da amostra a cada trimestre. Corseuil e Russo (2021) observam que as pessoas
+incorporadas à amostra desde o início da coleta telefônica apresentam, em cada trimestre, taxa de
+emprego formal inferior à daquelas que permanecem na amostra desde antes da pandemia.
+
+4 Entre as pessoas que já faziam parte da amostra antes da pandemia, a probabilidade de voltar a ser
+entrevistado caiu desde o início da coleta telefônica, mas caiu mais para quem estava originalmente fora
+do mercado de trabalho e menos para quem tinha trabalho. Ver: Hecksher, M. Inaudíveis: quem deixou de
+ser coberto pelas pesquisas telefônicas e diferenças em relação aos registros administrativos. Webinário
+do Centro de Estudos de Riqueza e Estratificação Social (Ceres):
+https://www.youtube.com/watch?v=vVF6a9jRcbUHt=3Iml4s.
+
+ 
+
+11
+Gráfico 5
+Taxa bruta de mortalidade por covid-19 em 2020 versus variação do nível de ocupação entre os três últimos trimestres de 2019 e 2020
+
+ 
+
+ 
+
+    
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+5
+Tailândia
+Uapão o
+Croácia
+Nova (me Polônia a
+z ob a Holanda Luxemburgo lúngria
+> uíça ino Uni ant o
+L | Dinamarca —Letônia Ei Apstria El gi RBS eReca Ntália Eslovênia. Bélgica
+Finlândia 2 Lituânia nadie cia
+5 - o Estováqui Pod au GE Bulgária º o
+a Ê Estônia O — Olrlanda Espanha o
+8 v IndonÉtia Paraguai PB,
+3 Rials Õ O Turquia O o O Macedônia do Norte
+Palestha
+e “Istamaar eres GGnA...
+5 África do Sul
+5
+So anta Lúci? Canadá o rija Montenegro
+a º Brasil México
+& Equador o
+3 o o a
+o jo Argentina
+$ po” Costa Rica come VS
+2 o o 0º
+2 ao
+E
+5
+o doi
+s Filipinas
+o o
+8 Geórgia
+2 o Peru
+Ss o
+2
+E
+8
+o
+S Bolívia
+s o
+E
+Ss 20
+o 20 40 60 so 100 120 140 160 180
+
+Mortes de covid-19 por 100 mil habitantes em 2020
+Fonte: Elaboração própria com dados de OMS, OIT e Pnad Contínua/IBGE.
+
+12
+3. CONCLUSÃO
+
+O Brasil registrou, em proporção de sua população total, mais mortes por covid-19 em
 2020 do que 89,3% dos demais 178 países com dados compilados pela OMS. Quando a
 comparação desses registros é ajustada à distribuição populacional por faixa etária e sexo
-em cada país, o resultado brasileiro se toma pior que os de 94,9% dos mesmos 178 p:
+em cada país, o resultado brasileiro se torna pior que os de 94,9% dos mesmos 178 países.
 
 Em um conjunto de 64 países com dados de nível de ocupação analisados, o Brasil
 registrou queda do indicador mais intensa que as de 84,1% dos demais 63 países entre os
@@ -32,18 +809,15 @@ três últimos trimestres de 2019 e 2020. O nível de ocupação final é mais b
 76,2% dos países no mesmo conjunto de 63.
 
 Os indicadores analisados nesta nota apontam que os impactos conhecidos da
-
 pandemia de covid-19 em 2020 no Brasil foram fortes, não apenas em comparação às
-
 séries históricas do próprio país, mas também no contexto internacional. Nos períodos
 analisados, o Brasil e outros países latino-americanos estão entre os mais atingidos do
 mundo em perdas de vidas e de empregos. Países da Oceania, da Ásia e da Escandinávia
-
 figuram entre os menos atingidos nas duas dimensões em 2020.
 
 Mais uma vez, é importante destacar que todas as comparações internacionais têm
 limitações e as apresentadas nesta nota, por suas peculiaridades, requerem notas de
-cautela adicionais. A pandemia de covid-l9 segue em curso e tem atacado diferentes
+cautela adicionais. A pandemia de covid-19 segue em curso e tem atacado diferentes
 partes do mundo em sucessivas ondas, que crescem e diminuem em momentos distintos
 conforme a localidade. As comparações desta nota referem-se a períodos iniciados e
 terminados nas mesmas datas em todos os países, sem distinguir quando a pandemia
@@ -54,19 +828,29 @@ com indicadores que possam contribuir na formulação de diagnósticos e ações
 
 REFERÊNCIAS
 
-FonCorseuil, C. H.; Russo, F. A redução no número de entrevistas na PNAD Contínua durante
+Corseuil, C. H.; Russo, F. A redução no número de entrevistas na PNAD Contínua durante
 a pandemia e sua influência para a evolução do emprego formal. Ipea, Carta de
 Conjuntura, n. 50, Nota de Conjuntura n. 22, 1º trimestre de 2021.
+
 Deaton, A. COVID-19 and global income inequality. NBER Working Paper 28392. Feb.
 2021.
-EBergLima, E.: Gayawan, E.: Baptista, E.: Queiroz, B. Spatial pattem of COVID-19 deaths and
-BABA ntections in small areas of Brazil. PLoS ONE 16(2) e0246808, Feb. 2021.
 
-Silva, G. A.; Jardim, B.: Lotufo, P. Mortalidade por covid-19 no brasil ajustada por idade:
-[mais alta na Região Norte. SciELO Preprints 1874. Fev. 2021.
-8) szxo, M.: Nieto, J. Epidemiology: Beyond the Basics. 4th ed. Jones & Bartlett Learning,
+Lima, E.; Gayawan, E.; Baptista, E.; Queiroz, B. Spatial pattern of COVID-19 deaths and
+infections in small areas of Brazil. PLoS ONE 16(2) e0246808, Feb. 2021.
+
+Silva, G. A.; Jardim, B.; Lotufo, P. Mortalidade por covid-19 no brasil ajustada por idade:
+mais alta na Região Norte. SciELO Preprints 1874. Fev. 2021.
+
+Szklo, M.; Nieto, J. Epidemiology: Beyond the Basics. 4th ed. Jones & Bartlett Learning,
+2019.
+
+World Obesity Federation. COVID-19 and Obesity: The 2021 Atlas. WOF, 2021.
 
  
 
-  
+ 
+
+ 
+
+13
 

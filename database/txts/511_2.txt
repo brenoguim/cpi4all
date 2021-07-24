@@ -1,86 +1,985 @@
-2021.18911.18923.0.005955 (VOLUME 1) -2021.01637,00687.9091413 (Folha 13)
+ 
 
-pa Manaus
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00667.9.031413 (Folha 1)
+
+Manaus
+
+Prefeitura
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+“Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 9842-7824
 
  
 
-ASSESSORA TÉENICA DE GARINETE DA SECRETÁRIA - STENGA
-Asnhda Mário praga Moe, 1695, atanápli-cEP GS 7m
-Teco: (02 tacar
+Ofício nº 1361/2021-ASTECGA/GABIN/SEMSA
+Manaus, 20 de maio de 2021.
 
-APRE | VALOR | GUAM:
+Ao Excelentíssimo Senhor
 
-NE | NOMECREDOR | DATA | MEDICAMENTO MARCA | SENTA- | UNIÁ- | IDADE | VALOR | ANEXO
-ção | RIO
+Tadeu de Souza Silva
 
-souCI- | TOTAL
+Secretário Municipal Chefe da Casa Civil
+Avenida Brasil, 2971 — Compensa |
+Manaus - AM
+
+Senhor Secretário,
+
+Acusamos o recebimento do Ofício nº 592/2021-CONSTEC/CASA CIVIL, de 4 de maio
+de 2021, que encaminha o Ofício nº 456/2021-CPIPANDEMIA, oriundo do Senado
+Federal, para que a Prefeitura Municipal de Manaus responda ao Requerimento 192-
+2021/CPIPANDEMIA, do Senador Marcos Rogério, solicitando informações sobre os
+
+protocolos e medicamentos utilizados no tratamento de pacientes com Covid-19.
+
+Em resposta, encaminhamos Relatório Informativo elaborado pela Assessoria Técnica
+de Gabinete desta SEMSA, apresentando informações acerca da presente demanda,
+ao tempo em que nos colocamos à disposição para os esclarecimentos adicionais que
+
+se fizerem necessários.
+
+Respeitosamente,
+
+(assinatura digital)
+Shádia Hussami Hauache Fraxe
+Secretária Municipal de Saúde
+
+DOCUMENTO ASSINADO DIGITALMENTE POR: SHADIA HUSSAMI HAUACHE FRAXE EM 21/05/2021 11:55:22
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 82297F5C
+ 
+
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00867.9.031413 (Folha 2)
+
+Es Manaus
+
+Prefeitura
+
+ 
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
+RELATÓRIO INFORMATIVO ASS. GABIN/SEMSA
+
+DATA DO DOCUMENTO: DATA DE ABERTURA:
+30/04/2021 04/05/2021
+a SITUAÇÃO (MOTIVO DA PRAZO PREVISTO DE
+DEPARTAMENTO ATUAL: TRAMITAÇÃO); TÉRMINO:
+DELOG EM ANDAMENTO -
+TIPO DOCUMENTAL: NÚMERO DE ORIGEM:
+OFÍCIO 456/2021-CPIPANDEMIA
+REFERÊNCIA: RESPOSTA AO: RESPONDIDO POR:
+CLASSIFICAÇÃO ARQUIVÍSTICA: GRAU DE ACESSO: TIPO DE SUPORTE:
+
+00.00.02.01 - CONTROLE DE CORRESPONDÊNCIAS E ,
+INFORMAÇÕES OFICIAIS DOS GABINETES (PROTOCOLO - PÚBLICO DIGITAL
+RECEBIDO E EXPEDIDO)
+
+REQUERENTE:
+SENADO FEDERAL
+
+PROCEDÊNCIA:
+
+ASSUNTO:
+
+OFICIO Nº 456/2021-CPIPANDEMIA - SOLICITAÇÃO DE INFORMAÇÕES - REQUERIMENTO Nº
+192/2021/CPIPANDEMIA, NO PRAZO DE 05 (CINCO) DIAS.
+
+OBSERVAÇÕES FINAIS:
+
+ESTE DOCUMENTO ESTÁ JUNTADO AO PROCESSO 2021.18911.18923.0.005355 (VOLUME 1), POR ANEXAÇÃO
+DESPACHO Nº AC263/2021-ASS. GABIN/SEMSA
+CONTEXTUALIZAÇÃO DA DEMANDA
+Trata-se de resposta ao Ofício 456/2021 -CPIPANDEMIA, do Senado Federal, da lavra
+do Senador Omar Aziz, para responder ao Requerimento 192-2021/CPIPANDEMIA, do
+Senador Marcos Rogério, que solicitou a esta SEMSA documentos e informações,
+
+relativos à pandemia de COVID-19, pelo que juntamos relatório informativo
+consolidado, bem como minuta de ofício a ser enviada ao órgão demandante.
+
+1. DAS INFORMAÇÕES
+1.1 Em atendimento ao Requerimento 192-2021/CPIPANDEMIA
+“(...) requisitando cópia integral dos documentos abaixo discriminados:
+
+1. Os protocolos medicamentosos (Em formato PDF)
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00867.9.031413 (Folha 3)
+
+Es Manaus
+
+Prefeitura
+
+ 
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
+2. Osmedicamentos adquiridos (Em formato PDF)
+
+3. As datas das Aquisições (Em formato PDF)
+
+4. As Notas Fiscais dos medicamentos adquiridos (Em arquivo XML)
+
+5. O percentual de Eficácia de cada medicamento utilizado, considerando o
+percentual de pacientes tratados e recuperados ((Em formato PDF)
+
+(Senador Marcos Rogério)
+
+(1) protocolos medicamentosos e (5) o percentual de Eficácia de cada medicamento
+utilizado, considerando o percentual de pacientes tratados e recuperados (Em
+formato PDF)
+
+(1) Quando a Covid-19 surgiu em dezembro de 2020, na China, não havia vacina nem
+tratamento eficaz específico para esta infecção respiratória viral, de rápida
+disseminação e risco de vida. Ensaios clínicos foram planejados e investigados, além
+de outros que estão em andamento para investigar se os medicamentos usados para
+influenza, HIV e outros vírus e também anti-helmínticos (ivermectina, nitazoxanida,
+niclosamida) e antimaláricos (cloroguina, hidroxicloroquina) mostrariam na atividade
+antiviral em ensaios in vitro seriam eficazes e seguros para Covid-19. Não obstante a
+ausência de evidências da eficácia clínica, esses medicamentos são amplamente
+utilizados fora dos ensaios clínicos (off label) para profilaxia e tratamento dessa
+infecção viral, não apenas no Brasil mas em todo o mundo.
+
+É sabido que qualquer nova doença depende de pesquisas para o alcance do melhor
+tratamento e do medicamento adequado. Embora não tenhamos participado da
+gestão desde o início da pandemia, uma vez que assumimos a pasta há menos de 5
+meses, há registros de que, desde o início da pandemia, a SEMSA vem ampliando a
+oferta de medicamentos com a finalidade de disponibilizar opções aos profissionais
+médicos, frente ao combate da patologia em tela, visando ao atendimento de
+usuários que são acolhidos nas Unidades de Saúde, e acometidos por síndromes gripais
+e/ou COVID-19, permitindo a adoção de medidas estratégicas assistenciais em tempo
+oportuno, em especial da COVID-19.
+
+A SEMSA MANAUS não dispõe de protocolo farmacológico instituído como padrão,
+mas os medicamentos abaixo relacionados são disponibilizados para serem utilizados
+conforme escolha e prescrição médical desde 2020. Os esclarecimentos acerca da
+terapia medicamentosa proposta por cada médico, vem sendo explicitados
+diretamente ao paciente de forma clara e objetiva, e alinhada à vontade e
+autorização do mesmo.
+
+1 NOTA: A prescrição de medicamentos em âmbito hospitalar e ambulatorial é ato médico e de
+responsabilidade do médico que a faz. Conforme o artigo 1º da Resolução do CFM nº 1627/2001, a
+definição de ato médico é todo procedimento técnico-profissional praticado por médico legalmente
+habilitado. O risco e/ou o benefício da terapêutica médica adotada devem ser previamente avaliados
+pelo profissional que está prescrevendo.
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
+
+ 
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00867.9.031413 (Folha 4)
+
+Es Manaus
+
+Prefeitura
+
+ 
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
+Em abril de 2020, início da pandemia, o vice-presidente do Conselho Federal de
+Medicina afirmou não ser proibido prescrever hidroxicloroquina, sendo necessária as
+cautelas para o uso indiscriminado, já que se tratava de um medicamento antes
+conhecido somente para tratar malária, lúpus e artrite, e passou a fazer parte do
+vocabulário do brasileiro depois que o uso começou a ser apoiado como possível luz
+no fim do túnel em meio ao cenário de incertezas da pandemia do novo coronavírus.
+
+Existe uma expressão chamada “off label”, que quer dizer fora da bula. É uma prática
+no mundo da medicina, na qual, inicialmente, um determinado remédio é pesquisado
+para atender determinada doença e, na sequência, identifica-se que ele serve ou
+pode servir para outras. Hidroxicloroquina e Ivermectina, por exemplo, não
+apresentam tais especificações. É lógico que, pelo conhecimento que se tem dos
+riscos da medicação, de acordo com cada paciente, qualquer droga será usada ou
+não. Se é um paciente que tem cardiopatia ou outras doenças mais graves,
+provavelmente ele não vai usar. É uma questão de uso do bom senso, como todos os
+médicos fazem em várias situações.
+
+Dessa forma, uma vez que estamos diante de uma doença com pouco
+conhecimento, e ainda que não se encontre evidências científicas comprovadas de
+sua melhora com determinados medicamentos, é facultativo ao médico, diante de
+um cenário de emergência e dentro da razoabilidade, prescrever a medicação,
+desde que informe para o seu paciente que aquele remédio não tem evidência
+científica.
+
+É um recurso possível, cabendo, também, e imperativamente, falar sobre os riscos e
+benefícios com a prescrição, de forma clara. Nesse momento, o médico e seu
+paciente assumem uma pactuação de que vão fazer algo que não tem uma
+evidência comprovada, como se fosse um risco compartilhado. No período crítico da
+pandemia, o próprio Conselho Federal de Medicina elencou hipóteses para prescrição
+de cloroguina e hidroxicloroguina, por exemplo, no tratamento da Covid-19
+
+e Caso de paciente com sintomas leves, em início de quadro clínico, em que
+tenham sido descartadas outras viroses (como influenza, HINI, dengue) e
+exista diagnóstico confirmado de Covid-19;
+
+e Paciente com sintomas importantes, mas ainda sem necessidade de cuidados
+intensivos, com ou sem recomendação de internação;
+
+e Paciente crítico recebendo cuidados intensivos, incluindo ventilação
+mecânica;
+
+e Emtodos os casos, cabe ao médico assistente prescrever a droga e o paciente
+ou familiar compartilhar da decisão.
+
+A Administração Pública precisa dispor de alternativas farmacológicas com a mesma
+velocidade imposta pelo vírus, desdobrando-se para combater um inimigo silencioso
+e invisível, bem como das infecções subsequentes à contaminação, e, assim sendo,
+minimamente disponibilizar o que a comunidade médica vinha e vem utilizando,
+nacional e internacionalmente, e foi o que fez o município de Manaus, nesse regime
+de exceção sanitária. Abaixo, o elenco de medicamentos disponibilizados para
+escolha médica:
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
+
+ 
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00867.9.031413 (Folha 5)
+
+Es Manaus
+
+Prefeitura
+
+ 
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
+QUADRO 01: MEDICAMENTOS DISPONIBILIZADOS COMO ALTERNATIVAS DE TRATAMENTO PARA
+AS SÍNDROMES GRIPAIS, MEDIANTE PRESCRIÇÃO MÉDICA.
+ITEM MEDICAMENTOS
+
+ÁCIDO ACETILSALICÍLICO,100mg comprimido
+
+ 
+
+1
+
+2 AMOXICILINA, 500mg Cápsula
+
+3 AMOXICILINA, S0Omg/mL Suspensão oral
+
+4 AMOXICILINA + CLAVULANATO, (50 + 12,5) mg/mL Pó para suspensão oral
+5 AMOXICILINA + CLAVULANATO, (500 + 125) mg Comprimido revestido.
+ó AZITROMICINA, 40mg/mL Pó para suspensão oral
+
+7 AZITROMICINA, 500mg Comprimido
+
+8 BUDESONIDA, 32mcg/dose Aerossol nasal
+
+9 BUDESONIDA, 5Omcg/dose Aerossol nasal
+
+10 BUDESONIDA, 64mcg/dose Aerossol nasal
+
+n CLARITROMICINA 500mg comprimido revestido
+
+12 CLARITROMICINA, 50mg/mL Granulado para suspensão oral
+
+13 CLORETO DE SÓDIO, 0,9% Solução nasal
+
+14 DEXAMETASONA, 4 mg Comprimido
+
+15 DIPIRONA SÓDICA, 500mg Comprimido
+
+16 DIPIRONA SÓDICA, 500mg/mL Solução oral
+
+17 HIDROXICLOROQUINA (SULFATO), 200 mg, comprimido revestido
+18 IBUPROFENO, 300mg comprimido
+
+19 IBUPROFENO, 50mg/mL Solução oral
+
+20 IVERMECTINA, 6mg comprimido
+
+21 LORATADINA, 10mg comprimido
+
+22 LORATADINA, Img/mL Xarope
+
+23 MIKANIA GLOMERATA (GUACO), 117,6mg/ml xarope
+
+24 OSELTAMIVIR, FOSFATO, 30mg Cápsula
+
+25 OSELTAMIVIR, FOSFATO, 45mg Cápsula
+
+26 OSELTAMIVIR, FOSFATO, 75mg Cápsula
+
+27 PARACETAMOL, 200mg/mL solução oral
+
+28 PARACETAMOL, 500mg Comprimido
+
+29 PREDNISONA, 20mg Comprimido
+
+30 PREDNISONA, 5mg Comprimido
+
+31 PREDNISOLONA (FOSFATO SÓDICO), 3mg/mL Solução oral
+
+32 SAIS PARA REIDRATAÇÃO ORAL, NaCl 3,5g + Glicose 20g + Citrato Na 2,99 +
+
+Kcal 1,5g Pó p/ Solução Oral
+
+33 SALBUTAMOL (SULFATO), 100ug/dose Spray oral
+FONTE: DRA/SEMSA
+
+(5) Em relação ao percentual de usuários tratados x curados, atendidos nas Unidades
+de Saúde, informamos que todos os usuários foram inseridos no E-SUS Notifica e
+acompanhados pelo serviço de telemonitoramento local, porém não houve
+acompanhamento da cura especificamente pelo tratamento farmacológico
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
+
+ 
+ 
+
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00867.9.031413 (Folha 6)
+
+Es Manaus
+
+Prefeitura
+
+ 
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+
+Telefone: (92) 98842-7824
+
+recebido, mas tão somente monitorado como ação de vigilância epidemiológica da
+
+evolução de cura ou de óbito.
+
+Em relação aos itens 2,3 e 4:
+
+(2) Os medicamentos adquiridos (Em formato PDF)
+(3) As datas das Aquisições (Em formato PDF)
+(4) As Notas Fiscais dos medicamentos adquiridos (Em arquivo XML)
+
+QUADRO 02: MEDICAMENTOS ADQUIRIDOS PELA SEMSA MANAUS
+
+APRE- | VALOR E
+NE | NOMECREDOR | DATA MEDICAMENTO | MARCA | SENTA- | UNITÁ- | conci.
+ção RIO NAN
+CEFTRIAXONA
+SÓDICA,
+Concentração: Ig,
+q o Forma . < 2
+x 8 Farmacêutica: pó 5 o 5
+& |UNIHOSPALAR | & para solução é E c 8
+Z LTDA 8 injetável ê o a a
+S & | intramuscular (IM), z 2 a
+q Unidade de É
+Fomecimento:
+frasco ampola +
+diluente.
+METRONIDAZOL,
+Concentração:
+5mg/ml, Forma
+o Farmacêutica: a
+q S solução injetável, É 5 19
+& | DISTRIBUIDORA | & | Característica(s) a s 2 8
+Z |MODERNALIDA E Adicional(is): [a] B g a
+g S sistema fechado, < E
+q Unidade de tu
+Fomecimento:
+embalagem com
+100ml.
+CIPROFLOXACINO
+(CLORIDRATO),
+o Concentração: =&
+3 WN, S 2mg/ml, Forma | EE o 8
+B | comercio & Farmacêutica: | 25 | B 3 e
+Z IMP. E REP. 8 | solução injetável | O 2 2 <
+S LTDA, 8 Unidade de zé 5 a
+q Fomecimento: TO
+
+frasco ou bolsa de
+100ml,
+
+VALOR
+
+TOTAL ANEXO
+
+R$
+29.282,00
+o
+
+02
+
+R$
+5.300,00
+
+os
+
+R$
+14.400,00
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00867.9.031413 (Folha 7)
+
+Es Manaus
+
+Prefeitura
+
+ 
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
+QUAN-
+NE NOME CREDOR DATA MEDICAMENTO MARCA E União DADE ra LCR ANEXO
+ção RIO a - | TOTAL
+MIDAZOLAM o
+o (CLORIDRATO), | é
+5 WN, 2 Concentração: s « o
+& | comendo | & | SmsimLfoma | SO | 3 a 8 48
+2 | mer | 8 | fomocévico: | 82 | É | 4 8 ÉS |
+á LIDA S | sluçãoinetóvel | 33 & e q
+2 ' 8 Unidade de &
+Fomecimento: 9
+ampola 3mL,
+SUXAMETÔNIO q
+o o c (ioREIOL. S z 2
+z onceniração: O
+ê WN 8 500mg, Forma z ê Ê & 8
+2 COMERCIO q gm. DA 54 q G o ea 19
+G IMP. E REP. 8 Farmacêutica: Pó | g= & - q LAN os
+8 LIDA S para solução oo o & =
+2 : 8 | injetável, Unidade | 1 Q 8
+de Fornecimento: | 5 r
+Frasco-ampola.
+TRAMADOL —
+< (CLORIDRATO), z
+5 WN, Q Concentração:50 | do
+2 | COMERCIO & mam foma | EO | 3 8 g 25
+2 | mperee | 8 | famocévica: | 94 | É o | GS &2 04
+2 LTDA = solução injetável, of < & 15
+2 : 8 Unidade de Lo
+Fomecimento: 5
+ampola 2 mL,
+HALOPERIDOL, «
+g o Concentração: U
+8 | VIMEDCOM.E | É mg/ml, Forma 5 o « 8
+2 REP. DE PROD. aq Farmacêutica: a 8 2 o os 05
+& | HOSPITALARES 8 solução injetável, 0 E 2 S “o
+Ss LTDA-EPP S Unidade de 1á <
+q Fomecimento: s
+ampola ImL,
+AZITROMICINA,
+a Concentração: o
+3 S 500 mg, Forma o 2 o 8
+Q& | DECARESCOM. aq Farmacêutica: a E N. As
+15 ii o 5 S Es 06
+É LTDA o comprimido, ú E g 3 S
+aq a Unidade de o õ 2
+q Fomecimento: Q
+comprimido.
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
+
+ 
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00867.9.031413 (Folha 8)
+
+Es Manaus
+
+Prefeitura
+
+ 
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
+QUAN-
+APRE- | VALOR | TIDADE | VALOR
+NE NOME CREDOR DATA MEDICAMENTO MARCA | SENTA- | UNITÁ- ANEXO
+ção RIO SOLICI- | TOTAL
 TADA
+LEVODOPA +
+BENSERAZIDA
+(CLORIDRATO),
+Concentração:
+100mg + 25mg,
+= Q Forma s
+Q q B s
+3 8 Farmacêutica: E & Sã
+& | AGLONCOM, S comprimido 5 E S g £8 07
+£ | EREP.LIDA = pm õ 2 > S “a
+2 = . convencional x 5 x q sS
+2 -— birranhurado (BD), Õ -
+Unidade de
+Fomecimento:
+comprimido
+convencional
+birranhurado (BD).
+AMITRIPTILINA
+n (CLORIDRATO),
+OS | ESPIRITO SANTO o Concentração: S o
+g q B o S
+5 | DISTRIBUIDORA | S 25mg, Forma o E o 8 S
+& | DEPRODUTOS | É Farmacêutica: 2 a S S Es og
+2 HOSPITALARES 3 comprimido, - E e 2 s
+2 EIRELI S Unidade de OQ o -
+Fomecimento:
+comprimido.
+BUPROPIONA
+(CLORIDRATO),
+o Concentração: o
+& | ESPIRITO SANTO Q 150mg, Forma ú « e
+E | DISTRBUDORA | q Farmegéulica: q É K 8 “8
+q : = 5
+Z | DEFRODUIOS | E | comprimidoou | d plo lg é O
+9 HOSPITALARES = imid E é o a
+ag EIRELI ES comprimido & aq
+a revestido de
+liberação
+controlada
+HALOPERIDOL,
+E o Concentração: o
+E) INOVAMED g 5mg, Forma L BS o 8
+& | COMERCIODE | S Farmacêutica: E E 3 & £8 10
+& | MEDICAMENTO - comprimido, 2 ê a 8 a
+S SLTDA S Unidade de 6 S é q s
+a Fomecimento: o
+comprimido.
+FLUOXETINA
+o (CLORIDRATO),
+S | MAPEMIBRASIL | Q O), o o
+2 MATERIAIS Ss Concentração: o 9 5 8 s
+& | MÉDICOSE S Pora. foma . 5 8 S Ss | £8) mn
+& |oDontoLÓGIC| S a mpsUla OU E E g e é
+2 OS LTDA 2 cápsula ou - R
+aq
+comprimido
+revestido.
 
-To possyerioz
-»coronavitus.
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
 
  
- 
- 
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00867.9.031413 (Folha 9)
+
+Es Manaus
+
+Prefeitura
 
  
 
- 
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
+QUAN-
+NE NOME CREDOR DATA MEDICAMENTO MARCA EEE União DADE ra LCR ANEXO
+ão. ” | SOUCI- | TOTAL
+ção RIO NAN
+LEVODOPA +
+BENSERAZIDA
+e (CLORIDRATO),
+g Q Concentração: uu < co o 8
+& | UNI HOSPITALAR É 100mo + 2mo. õ 2 < 8 48 | p
+é MDA F Farmacêutica: 2 S 2 8 Q
+S o cápsula (HBS), —
+Unidade de
+Fomecimento:
+cápsula (HBS).
+LEVODOPA +
+BENSERAZIDA
+(CLORIDRATO),
+o Concentração: o
+s S 100 mg + 25 mg, uu Q 8
+5 2 Forma L E S >
+g UNI HOSDTALAR q Farmacêutica: 8 a = E es 12
+2 F comprimido x E x 2 E
+2 S dispersível, Ó
+Unidade de
+Fomecimento:
+comprimido
+dispersível.
+LEVODOPA +
+BENSERAZIDA
+(CLORIDRATO),
+Concentração:
+200mg + 50mg,
+Forma
+a Farmacêutica: o
+& S comprimido com us e 19 8
+€& | UNI HOSPITALAR aq camada tripla e õ E & 8 48 12
+£ LTDA a liberação Õ Ê a s “s
+q 3 modificada dupla o S a a s
+q (DR), Unidade de O
+Fomecimento:
+comprimido com
+camada tripla e
+liberação
+modificada dupla
+(DR).
+CLORPROMAZINA
+(CLORIDRATO),
+o - Concentração: o
+5 COMERCIO DE 8 25mg, Forma 5 ê q 8
+8 PRODUTOS q Farmacêutica: É E s 8 o 13
+ZH 8 comprimido 2 e a q “a
+a SPITALARES 5 tia : x E x q 18
+a LTDA 8 revestido, Unidade O 8
+a de Fornecimento:
+comprimido
+revestido
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
 
  
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00667.9.031413 (Folha 10)
+
+Es Manaus
+
+Prefeitura
 
  
 
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
  
 
-g o
-g aNão
-ã 8 aa
-E 2.
-2|8 s além
-Sença
+APRE PV ALR ADE VALOR
+NE NOME CREDOR DATA MEDICAMENTO MARCA | SENTA- | UNITÁ- ANEXO
+cão RIO | SOUCI- | TOTAL
+TADA
+DIAZEPAM, «
+Rn Concentração: Ss o
+5 W.N. q 5mg, Forma 55 ê o e 8
+2 COMERCIO q Farmacêutica: 5 É E E S Ss a sS 14
+Z IMP. EREP. 8 comprimido, 529, é 2 8 Éo
+a LTDA. 8 Unidade de Zo o o -
+“ Fomecimento: a Q
+comprimido.
+NORTRIPTILINA
+o o (CLORIDRATO), <
+K ES Concentração: > D 8
+& 5 Q ]
+8 UNI HOSPITALAR q 25mg, Forma < 2 S 8 Es 15
+Zz LTDA S Farmacêutica: 6 - a 2 “q
+ES 3 cápsula, Unidade g Õ a a
+q de Fornecimento: mu
+cápsula.
+CLONAZEPAM,
+e ARAUJO - Conceniração: 2,5 e
+E comido E pomíme É giga
+fi | PRODUTOS S lução ora. 5 8 a Ss | BS | 16
+É | HOSPALARES | S aa ora» 2 É 2 o &
+ag LTDA S Unidade de E
+a Fomecimento:
+frasco 20 mL,
+FENOBARBITAL, «
+q - Concentração: Vo
+5 W.N, ga 40mg/ml, Forma | ZO o o 8
+2 COMERCIO S Farmacêutica: SU 9 q 8 ae 17
+Z IMP. E REP, 8 solução oral, o e g 3 “o
+a LTDA. 8 Unidade de < O x
+q Fomecimento: Z>
+frasco 20mL.
+FENOBARBITAL, «
+q - Concentração: Jo o
+9 WN, s 100mg, Forma zo 2 o g 8
+2 COMERCIO a Farmacêutica: a X = S s AS 18
+Z | IMP.EREP. 8 comprimido, Sã | É & Ss | &8
+a LTDA. q Unidade de £o 5 e “ S
+q Fomecimento: Z> Q
+is 5
+comprimido.
+VALPROATO DE
+co SÓDIO,
+q DIMASTER q Concentração: 6 o
+8 COMERCIO DE Q 50mg/mL, Forma Q = 8 o 8
+U PRODUTOS 3 Farmacêutica: 5 ê 5 8 es 19
+a | HOSPITALARES Ss xarope, Unidade o E & = á
+S LTDA — de Fornecimento: Iz
 
-Ê
-Les
+frasco com 100mL
++ dosador.
 
-8 & Neg riscome
-— 8 l|édigo-e-seu
-8 ” sEqêmenar
-5 rásigsio Ha
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
 
+ 
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00667.9.031413 (Folha 11)
+
+Es Manaus
+
+Prefeitura
+
+ 
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
+APRE. | VALOR | SUAN-
+NE NOME CREDOR DATA MEDICAMENTO MARCA | SENTA- | UNITÁ- ELE o ANEXO
+ção RIO ”
+TADA
+CARBONATO DE
+
+< LÍTIO, « o
+q q Concentração: v o 8
+8 8 300 mg, Forma ê E B 8 q
+B UNI nOsda LAR 5 Farmacêutica: 5 5 o g £8 20
+a 3 comprimido, x E & e
+S = Unidade de = O o 19
+
+Fomecimento:
+
+comprimido.
+
+DIAZEPAM,
+
+5 - Concentração: < o
+8 . a 10mg, Forma ê 2 o e 8
+2 M BRASÃO DA q Farmacêutica: < E S 8 28 2
+Z SILVA - ME 8 comprimido, z Ê 2 e ea 8
+s s Unidade de $g G -
+“ Fomecimento: o Q
+
+comprimido.
+
+BIPERIDENO
+
+o (CLORIDRATO), o
+8 DIMASTER q Concentração: < ú o o
+& | COMERCODE | & 2mg, Forma z E & 8 .s
+5 PRODUTOS 3 Farmacêutica: 5 5 o S “a 22
+a | HOSPITALARES | E comprimido, z E 2 & &
+2 LTDA S Unidade de Ó
+
+Fomecimento:
+
+comprimido
+
+CLORPROMAZINA
+
+o (CLORIDRATO), o
+8 DIMASTER q Concentração: < ú o
+8 COMERCIO DE Q 100mg, Forma < E & 8 8
+tg PRODUTOS 3 Farmacêutica: 5 5 S S és 23
+a | HOSPITALARES | E comprimido, = E & S á
+2 LTDA 8 Unidade de o Ó
+
+Fomecimento:
+
+comprimido.
+
+FENITOÍNA
+
+5 [SÓDICA), o
+S | ULTRAFARMA | G Concentração: 8 o
+& | comérciODE | & 100mg, Forma o E o 8 S
+B PRODUTOS 3 Farmacêutica: 2 5 S 8 & 2 24
+& | FARMACÊUTICO | E comprimido, E E & & 5
+8 SLTDA S Unidade de Ó
+
+Fomecimento:
+
+comprimido.
+
+AMITRIPTILINA
+o [CLORIDRATO), o
+8 ESPIRITO SANTO q Concentração: õ e 8
+g DISTRIBUIDORA S 25mg, Forma o E o Ss S
+E | DEPRODUTOS | & Farmacêutica: 2 a S S gs | 2
+a HOSPITALARES e comprimido, - E & 19 a
+S EIRELI -— Unidade de Ó o -
+
+Fomecimento:
+
+comprimido.
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
+
+ 
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00667.9.031413 (Folha 12)
+
+Es Manaus
+
+Prefeitura
+
+ 
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
+CABRERA LR DADE VALOR
+NE | NOMECREDOR | DATA MEDICAMENTO | MARCA | SENTA- | UNITÁ- ANEXO
+ã SOLICI- | TOTAL
+ção RO ADA
+
+ 
+
+CARBAMAZEPINA,
+Concentração: 20
+mg/ml, Forma
+Farmac, A
+Administração
+Pública precisa
+dispor de
+altemativas
+farmacológicas
+com a mesma
+velocidade
+imposta pelo vírus,
+desdobrando-se
+para combater um
+inimigo silencioso e
+invisível, bem
+como das
+infecções
+subsequentes à
+contaminação, e,
+assim sendo
+minimamente
+disponibilizar o que
+a comunidade
+médica vinha e
+vem utilizando,
+nacional e
+internacionalment
+e,efoio quefezo
+município de
+Manaus, nesse
+regime de
+exceção sanitária.
+êutica: xarope ou
+suspensão oral,
+Unidade de
+Fomecimento:
+frasco 100 mL
+VALPROATO DE
+SÓDIO,
+Concentração:
+576 mg (equivale a
+500 mg de ácido
+valpróico), Forma
+Farmacêutica:
+comprimido,
+Unidade de
+Fomecimento:
+comprimido.
+
+COMERCIAL
+CIRÚRGICA
+RIOCLARENSE
+LTDA
+
+2021NE00925
+15/03/2021
+SANVAL
+Frasco
+R$9,33
+5.000
+R$
+46.650,00
+mp
+a
+
+ABBOT
+LABORATÓRIOS
+DO BRASIL
+
+27
+
+2021NE01002
+16/03/2021
+DEPAKENE 500 MG
+Comprimido
+R$0,37
+400.000
+R$
+148.000,00
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
+
+ 
+ 
+
+2021.18911.18928.0.005355 (VOLUME 1) - 2021.01637.00667.9.031413 (Folha 13)
+
+Es Manaus
+
+Prefeitura
+
+ 
+
+ASSESSORIA TÉCNICA DE GABINETE DA SECRETÁRIA - ASTECGA
+Avenida Mário Ypiranga Monteiro, 1695, Adrianópolis - CEP 69057-001
+Telefone: (92) 98842-7824
+
+ 
+
+APRE PV ALR ADE VALOR
+NE NOME CREDOR DATA MEDICAMENTO MARCA | SENTA- | UNITÁ- ANEXO
+z SOLICI- | TOTAL
+ção RIO TADA
+CARBAMAZEPINA,
+o) Concentração: o
+mo | MAPEMI-BRASIL q 200mg, Forma D 9 8
+2 MATERIAIS 2 9. o É = :
+2 q Farmacêutica: E = S e os
+z MÉDICOS E J comprimido. 5 a o S Es 28
+& |ODONTOLÓGIC| S To : É E g a g
+3 OS LIDA s Unidade de o — e
+q Fomecimento: Q
+comprimido.
+LEVODOPA +
+BENSERAZIDA
+(CLORIDRATO),
+o Concentração:
+> G 100 mg + 25 mg, 8
+a q w o
+& |UNIHOSPIALAR | É Forma | E E & 8 .E
+ç LTDA J Farmacêutica: Q 5 = Q “o 29
+Z õ as O E a S
+a s comprimido x 5 x q q
+2 S dispersível, Ó
+Unidade de
+Fomecimento:
+comprimido
+dispersível.
+FLUOXETINA
+— . º (CLORIDRATO),
+8 RR q Concentração: o n e 8
+g q 20mg, Forma o B o 8 S
+a E o
+E | MÍDCOSE | 5 | ramacêuico: | E B 2 8 é&8 8
+a ODONTOLÓ- S cápsula ou . [e E a e e
+8 GICOS LTDA Ss comprimido
+revestido.
+8
+a
 o
-
-£
-
-é Bitacos
-
-edalfa
-
-  
-        
-  
-    
-
-fádege
-mesma
-lencioso
-
-awgiiá sendo,
-
-Ed e
-
+TOTAL) GQ
+q
 o
-ê
-$
-14020000
-G
-pi
+e
+&
 
-Se ip ttimenros inroildae Va los BidesSdo ramo
-rio sap dem derme istoriar Einse fSEMACOlógico
+FONTE; DELOG SEMSA
 
-DOCUMENTO ASSINADO DIGITALMENTE POR: SHADIA HUSSAM HAUACHE FRAXE EM 2105/2021 11:55:20
-VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM htp-!siged manaus am gov bricadastrousuarioexternoNerlicaçao asp INFORMANDO O CÓDIGO: SO6SSCDS
+As aquisições estão abaixo listadas e os documentos estão disponíveis no drive
+denominado ANEXOS REQ.192-2021 CPIPANDEMIA:
+
+https://drive.google.com/drive/folders/17smkZC HoxiGCDccFmlITPZSAF9aOuvL92usp=sharing
 
  
+
+Manaus, 19 de maio de 2021.
+
+É o que temos a informar.
+
+mi
+
+Aline Rosa M. Freire'Costa Lucilene Vasgoncelos B. de Souza
+Assessoria de Gabinete — SEMSA Assessoria de Gabinete — SEMSA
+
+VERIFIQUE A AUTENCIDADE DESTE DOCUMENTO EM http://siged.manaus.am.gov.br/cadastrousuarioexterno/verificacao.aspx INFORMANDO O CÓDIGO: 60688CD3
 
