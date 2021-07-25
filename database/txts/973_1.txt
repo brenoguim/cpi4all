@@ -41,7 +41,7 @@ Para responder esta mensagem, favor enviar e-mail para o endereço: afepa Oitama
 Senado Federal sec.cpipandemia O senado.leg.br
 
 Este documento poder ser certificado através do endereço:
-https://certificador.itamaraty.gov.br/validador?hash=6d05400fdde4647e9a9fe627654a4bebab7b77c0
+https://certificador.itamaraty. gov .br/validador?hash=6d05400fdde4647e9a9fe627654a4bebab7b77c0
 Para responder esta mensagem, favor enviar e-mail para o endereço: afepa Oitamaraty.gov.br
 
 2
