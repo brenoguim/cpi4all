@@ -51,9 +51,14 @@ pre_index =  """
 </head>
 <body>
 
-<h2>Procurar nos documentos da CPI</h2>
+<h2>CPI4All - Pesquisa textual nos <a href="https://legis.senado.leg.br/comissoes/docsRecCPI?codcol=2441">documentos coletados pela CPI da COVID</a></h2>
+
+Os documentos coletados pela CPI estão em formato PDF, muitas vezes gerados pela digitalização de documentos em papel, o que impede a pesquisa textual.
+Nesse projeto, baixamos esses documentos e aplicamos reconhecimento de imagem para extrair o texto de cada documento.
 
 <input type="text" id="myInput" placeholder="Filtrar por..." title="Digite um termo para procurar">
+
+<p id="status_label">Carregando arquivos...</p>
 
 <ul id="myUL">
 </ul>
@@ -153,6 +158,8 @@ function collapse(id, visible_id) {
     const filter = input.value.toUpperCase();
     tbody.innerHTML = generateDocumentLines(data[id]["txt"], filter, id, visible_id)
 }
+
+document.getElementById("status_label").innerHTML = "Arquivos carregados: " + data.length;
 
 </script>
 
