@@ -63,6 +63,10 @@ Nesse projeto, baixamos esses documentos e aplicamos reconhecimento de imagem pa
 <ul id="myUL">
 </ul>
 
+<script> data = [] </script>
+"""
+
+pos_index = """
 <script>
 function generateDocumentLines(lines, filter, cid, visible_id) {
     var linetxt = ""
@@ -88,10 +92,6 @@ function generateDocumentLines(lines, filter, cid, visible_id) {
     return linetxt
 }
 
-
-"""
-
-pos_index = """
 function myFunction(input) {
     const filter = input.value;
 
@@ -180,14 +180,13 @@ def get_sub_id(filename):
 txts = [os.path.join(txts_dir, t) for t in os.listdir(txts_dir)]
 txts = sorted(txts, key=lambda k: get_base_id(k)*100 + get_sub_id(k))
 
+res_files = []
+
 for t in txts:
     c = dict() 
 
     with open(t, 'r') as txtf:
         lines = txtf.readlines()
-        # Do not add huge files. Need to decide how to efficiently serve them later
-        if len(lines) > 50000:
-            continue
         c["txt"] = lines
 
     base_id = get_base_id(t)
@@ -202,7 +201,22 @@ for t in txts:
 
     content.append(c)
 
+    if len(content) > 100:
+        res_name = "resource{}.json".format(len(res_files))
+        with open(res_name, "w") as resf:
+            resf.write("data = data.concat({});\n".format(json.dumps(content, indent=True)))
+            res_files.append(res_name)
+            content = []
+
+if len(content) > 0:
+    res_name = "resource{}.json".format(len(res_files))
+    with open(res_name, "w") as resf:
+        resf.write("data = data.concat({});\n".format(json.dumps(content, indent=True)))
+        res_files.append(res_name)
+
 with open("index.html", 'w') as outf:
     outf.write(pre_index)
-    outf.write("const data = {}\n".format(json.dumps(content, indent=True)))
+    for res_file in res_files:
+        outf.write('<script type="text/javascript" src="./{}"></script>\n'.format(res_file))
     outf.write(pos_index)
+
