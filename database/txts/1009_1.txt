@@ -1,4 +1,510 @@
-10.
+Nota sobre o uso da cloroquina / hidroxicloroquina para o tratamento da COVID-19
+
+Uma das razões para o impressionante impacto da pandemia da COVID-19 na saúde
+mundial é a inexistência, até o presente momento, de vacinas ou antivirais específicos
+aprovados para prevenir ou tratar a enfermidade, cuja letalidade real ainda nos é incerta,
+pois depende grandemente da disponibilidade de testagem ampla e da qualidade do serviço
+de saúde.
+
+Diante das enormes dificuldades para se desenvolver, em período curto, fármacos e
+vacinas específicas para tratá-la e preveni-la, a atenção se volta para fármacos já existentes
+e com segurança atestada pelo largo uso. Alguns estudos demonstraram que fármacos já
+usados para outras doenças têm atividade in vitro contra o SARS-CoV-2, agente etiológico
+da Covid-19. Os estudos foram feitos em laboratório em culturas de células (células
+genéricas do tipo Vero, obtidas a partir do rim de macacos), em ambiente que não
+corresponde ao que ocorre no organismo humano. Isso aconteceu com a cloroquina (CQ)
+e a hidroxicloroquina (HCQ), fármacos amplamente utilizados, de baixo custo, com registro
+em todos os países, e cujo reposicionamento no uso para outras doenças prescindiria de
+estudos iniciais de segurança de fase |, realizado em pessoas sadias!-*.
+
+Maisonasse et aí.º realizaram o primeiro estudo de HCQ para SARS CoV-2, combinada ou
+não com azitromicina, em células do trato respiratório e em modelo animal (utilizando
+camundongos transgênicos e primatas não humanos). Esses autores confirmaram o efeito
+antiviral da HCQ em células genéricas do tipo Vero. Contudo, ao avaliar a ação da HCQ
+em células do trato respiratório humano, o mesmo efeito não foi encontrado. Os autores
+também testaram a ação do fármaco isolado ou em combinação com azitromicina, em todas
+as fases do COVID-19 em animais (fase profilática, fase inicial, fase intermediária, e fase
+grave) e não observaram redução da carga viral, dos sintomas nem do comprometimento
+pulmonar em nenhum caso, concluindo que testes em humanos com COVID-19 seriam
+
+dispensáveis.
+
+A falta de atividade in vitro da HCQ em células do trato respiratório humano? é explicada
+pela necessidade de receptores específicos para entrada dos vírus na célula. Esses
+receptores não são encontrados em células genéricas do tipo Vero, nas quais a atividade
+inibitória de HCQ havia inicialmente sido demonstrada. Hoffmann e colaboradores”
+confirmaram que a entrada do SARS-CoV2 nas células respiratórias ocorre através de
+mecanismo distinto daquele que é inibido pela HCQ.
+
+Inúmeros estudos demostraram que a CQ é capaz de inibir, in vitro, a replicação dos vírus
+da raiva, da poliomielite, das hepatites A e C, influenza A e B, enterovírus EV-AT1,
+Chikungunya (CHIKV), dengue, zika, vírus de Lassa, Hendra e Nipanh, da febre hemorrágica
+da Crimeia-Congo, vírus Ebola, imunodeficiência humana (HIV), coronavírus da síndrome
+respiratória aguda grave (SARS-CoV) e vírus herpes simplex %%º, Em geral, são
+necessárias doses mais elevadas do que as utilizadas para o tratamento da malária,
+indicação tradicional para o uso da CQ. No entanto, nenhum estudo in vivo confirmou a
+eficácia da CQ para o tratamento de qualquer uma dessas viroses, motivo pelo qual ela
+permanece utilizada, com a eficácia e segurança, apenas para o tratamento da malária,
+principalmente por Plasmodium vivax, uma das mais importantes espécies causadoras da
+doença no homem.
+
+A CQ não impediu a infecção por influenza em ensaios clínicos randomizados?!32 nem
+apresentou atividade contra os vírus ebola, CHIKV, influenza e Nipah em modelos
+animais:3-37, Em um modelo de infecção por CHIKV em primatas não-humanos, o
+tratamento com CQ agravou a febre, retardou a resposta imune celular e se associou com
+depuração viral incompleta?”. Um estudo clínico mostrou que o uso de CQ não se associou
+à melhora do curso da infeção por CHIKVº8, nem à diminuição da frequência de artralgia
+crônica após a infecção*”. A CQ não é recomendada para o tratamento de pacientes com
+infecção pelo HIV3-43.
+
+A CQ apresenta efeito modesto na redução da carga viral de hepatite C, quando associada
+a interferon peguilado e 44-48 não sendo um fármaco indicado para o tratamento dessa
+infecção.
+
+A HCQ, análogo da CQ, mas com perfil mais favorável de segurança renal e ocular, é
+utilizada para o tratamento de doenças autoimunes em função de seu efeito
+imunomodulador, tendo se mostrada ativa contra SARS-CoV-2 em experimentos in vitro,
+em doses menores que CQ*. Uma revisão sistemática de 86 artigos envolvendo 127
+pacientes mostrou equilíbrio de toxicidade cardiológica com os dois fármacos (CQ e HCQ),
+embora a toxicidade ocular seja maior em pacientes em uso prolongado de CQ?”.
+
+Os estudos com pacientes com COVID-19 utilizando CQ e HCQ são elencados abaixo,
+conforme gravidade dos pacientes envolvidos.
+
+Na abordagem clínica das doenças infecciosas, a fase da doença pode influenciar o
+resultado da ação e influir na indicação de um agente antimicrobiano. No entanto, não há
+razão para se postular a ausência completa da ação em fases mais avançadas, e/ou que
+ela seja exclusiva nas fases iniciais e leves de uma doença infecciosa. Seria como não
+recomendarmos a administração de antibióticos em pacientes com sepse grave, na UTI.
+Em princípio, a ação de um antimicrobiano será tanto melhor quanto menos microrganismos
+existirem e, quanto mais imediato for o início do tratamento de uma doença infecciosa,
+melhor se espera que seja o resultado.
+
+A questão em debate se refere à ação de CQ/HCQ como antiviral, em que se pretende
+diminuir a quantidade de vírus, reduzindo, assim, as complicações graves da evolução da
+infecção.
+
+PACIENTES GRAVES COM COVID-19
+
+1. Um primeiro estudo, realizado na China, evoca uma “aparente” eficácia do fosfato de CQ
+em pessoas com pneumonia por COVID-19 sem, contudo, apresentar qualquer dado
+sobre as características das populações avaliadas (idade, sexo, peso, doenças
+anteriores e outros) e a segurança do fármaco (mortalidade, eventos adversos, incluindo
+os graves)??. O trabalho é considerado uma evidência anedótica, ou seja, sem força
+científica, um relato contado superficialmente pelos autores.
+
+2. Um estudo realizado em Marselha, na França,*º baseou a sua análise do efeito de HCQ
+somente na detecção de vírus na secreção respiratória de 42 pacientes. O estudo
+descreve a ausência de vírus 5 dias após o início do tratamento no grupo de (6) pacientes
+tratados com CQ e azitromicina (57,1% de redução no grupo tratado só com CQ e 12,5%
+no controle). No entanto, não foram descritos os desfechos clínicos (se o paciente
+continuou hospitalizado, em UTI ou em uso de ventilação mecânica). Os grupos de
+pacientes tratados e não-tratados (que incluiu pacientes que recusaram o protocolo!) não
+eram comparáveis. Os que receberam a medicação haviam sido tratados no hospital dos
+autores e os demais (controles), em outros hospitais. Esse foi o estudo citado, em
+coletiva de imprensa, pelo presidente americano Donald Trump, levando ao aumento
+expressivo do número de prescrições da medicação para pacientes com COVID-19 nos
+EUA e no resto do mundo. Entretanto, devido às inúmeras críticas recebidas”, a própria
+revista que havia publicado o artigo, desculpou-se por tê-lo publicado, afirmando que ele
+não atingia os padrões técnicos mínimos necessários e prometeu investigar o trabalho.
+Entre os problemas, os autores haviam retirado da análise, sem qualquer justificativa, 6
+pacientes que haviam recebido HCQ (de um total de 26), três dos quais haviam falecido
+e um que havia sido encaminhado para a UTI. Além disso, em nenhum outro estudo
+publicado posteriormente, observou-se negativação total do vírus no dia 5 após o uso do
+fármaco.
+
+- Molina et al.8!, em Paris, também na França, buscaram, sem sucesso, repetir o estudo
+descrito acima. Assim, prospectivamente prescreveram para 11 pacientes hospitalizados
+o esquema de HCQ e azitromicina descrito no estudo citado no item 2. Nos primeiros
+cinco dias de tratamento, um paciente morreu, dois foram transferidos para a UTI e outro
+descontinuou o tratamento no quarto dia devido a um prolongamento do intervalo QT.
+Os swabs nasofaríngeos de 8 pacientes foram positivos para SARS-CoV2 nos dias 5 a
+6 após o início do tratamento. Assim, embora com um número pequeno de pacientes
+avaliados e sem um grupo controle, esses achados são diametralmente opostos aos
+descritos pelo grupo de Marselha, não tendo sido demonstrada ação antiviral ou
+benefício clínico do uso da combinação de HCQ e azitromicina.
+
+- Em outro estudo realizado na China não foi encontrada diferença na taxa de “cura
+virológica' (desaparecimento do vírus no sangue ou em secreções), nem nos resultados
+clínicos (duração da hospitalização, normalização da temperatura, progressão
+radiológica).
+
+. Chorin ef al. relataram alterações cardíacas em 84 pacientes hospitalizados com
+COVID-19 em tratamento com HCQ e azitromicina. Dado o que se conhece de seus
+efeitos colaterais, o maior temor do uso de CQ e HCQ em pacientes com COVID-19 é a
+possibilidade de ocorrerem arritmias cardíacas e/ou morte cardíaca súbita.
+
+. Um estudo prospectivo, realizado em Manaus (Borba et a/.*), foi o primeiro ensaio clínico
+randomizado controlado do mundo a utilizar CQ para o tratamento de COVID-19. Nele,
+avaliou-se duas doses diferentes de CQ, segundo metodologia bem estabelecida para a
+determinação de dose ideal de medicação. O estudo mostrou que a dose mais alta de
+CQ (previamente reconhecida como segura em protocolos clínicos para outras
+doenças**-S7) não deve ser recomendada para o tratamento de pacientes graves com
+COVID-19 devido a potenciais riscos à segurança (eventos adversos graves e riscos
+cardíacos foram associados à alta mortalidade). O estudo serviu de referência para o
+FDA e para o NIH recomendarem que doses mais elevadas não sejam utilizadas em
+qualquer situação, incluindo protocolos de pesquisas. Nesse estudo também não se
+verificou cura virológica até o quinto dia de tratamento, corroborando o achado de outros
+estudos.
+
+. Geleris et al.%8, em estudo unicamente observacional envolvendo 1446 pacientes com
+COVID-19 hospitalizados, mostraram que a administração de HCQ não foi associada à
+redução de morte ou de intubação.
+
+. Rosenberg et al. *º em um estudo observacional com 1438 pacientes hospitalizados,
+mostraram que o tratamento com HCQ, azitromicina ou ambos não foi associado à
+mudança significativa na taxa de mortalidade intra-hospitalar. Embora mostre um
+desfecho importante, esse estudo, como todo estudo observacional, apresenta
+limitações importantes. No entanto, a exemplo do estudo de Geleris et a/.58 suas
+conclusões não foram alteradas após ajustes estatísticos para levar em consideração os
+potenciais vieses de indicação de tratamento, por se tratar de estudo observacional.
+
+. Mahévas et aí, *º em estudo observacional envolvendo 181 pacientes, não encontraram
+redução na necessidade de internação em UTI, uso de oxigênio ou ventilação invasiva
+em pacientes hospitalizados em uso de HCQ. Alguns pacientes em uso de HCQ tiveram
+modificações eletrocardiográficas que exigiram a interrupção do tratamento, mesmo com
+doses mais baixas da medicação.
+
+PACIENTES NÃO-GRAVES COM COVID-19
+
+1. Estudo clínico randomizado realizado na China com 150 pacientes com casos leves a
+moderados de COVID-19, utilizando altas doses e um tratamento prolongado com HCQ
+(dose diária de 1200 mg por três dias, seguida de dose de manutenção de 800 mg por
+dia durante duas ou três semanas), não mostrou melhor evolução dos pacientes tratados
+quando comparado aos não tratados. A frequência de eventos adversos foi maior em
+pacientes tratados com HCQ%".
+
+2. Gautret et a/.%2 realizaram um estudo observacional não comparativo, com 80 pacientes
+com infeção leve, tratados com a combinação de HCQ/azitromicina. Os autores
+observaram que um dos pacientes faleceu e outro necessitou de transferência para
+unidade de terapia intensiva. Os demais apresentaram melhora. O estudo não incluiu
+grupo controle, não sendo, portanto, possível apresentar conclusões.
+
+3. Million et aí. avaliaram prospectivamente o tratamento em fase inicial da doença com
+HCQ/azitromicina em 1061 pacientes com COVID-19 observando bons resultados
+clínicos e cura virológica. Foi avaliada a negativação virológica em secreções
+respiratórias, o que sabidamente ocorre na quase totalidade dos pacientes,
+independentemente de tratamento. Resultados clínicos ruins foram observados em 46
+pacientes; 8 morreram e 5 ainda estavam internados ao fim do estudo. O estudo não
+teve grupo controle ou comparação com controle histórico, e não permite conclusões
+satisfatórias sobre a eficácia do tratamento.
+
+USO PROFILÁTICO
+
+1. Um estudo retrospectivo rastreou 14.520 indivíduos em uso contínuo de HCQ para várias
+condições, incluindo artritre rematoide, lúpus, gota, doença de Behget, prevenção de
+pericardite e febre familiar do Mediterrâneo. A incidência de infecção por SARS CoV-2
+nessa população foi igual à da população geral, indicando que a HCQ não tem ação
+profilática º4.
+
+2. Uma pequena série de casos (17 casos) evidenciou que HCQ administrado cronicamente
+em pacientes reumáticos não impediu a infecção por SARS-CoV-28, sugerindo ausência
+de ação profilática da HCQ.
+
+3. Em outro estudo, realizado com 66 pacientes em uso contínuo de HCQ (em média de
+14,2 meses), nenhum desenvolveu sintomas sugestivos de infecção por SARS-CoV-2.
+Segundo o próprio autor, o estudo tem limitações, como o pequeno tamanho da amostra,
+e a provável ausência de exposição a casos de COVID-19 nos sujeitos entrevistados.
+Não há um grupo controle comparativo*e.
+
+4. Monti et aí, &” avaliaram o desenvolvimento de COVID-19 em 320 pacientes em uso de
+fármacos anti-reumáticos. Quatro pacientes foram casos confirmados de COVID-19 e
+outros quatro relataram sintomas altamente sugestivos de COVID-19. Dos 8 pacientes,
+5 faziam uso de HCQ. Segundo os autores, os achados não permitem conclusões sobre
+a taxa de incidência de infecção por SARS-CoV-2 em pacientes com doenças
+reumáticas, nem sobre o impacto clínico do imunocomprometimento na COVID-19. No
+entanto, ressaltam os autores, sua experiência preliminar indica que pacientes com
+artrite reumatóide crônica não parecem estar sob risco aumentado de complicações
+respiratórias ou com maior risco de morrer por SARS-CoV-2.
+5. Em outro estudo, 51 de 80 pacientes com lúpus eritematoso sistêmico tiveram COVID-
+19 e a frequência de internação de pacientes com lúpus em uso de HCQ não diferiu da
+de não usuários do fármacos.
+
+Vários artigos encontram-se disponíveis somente em repositórios de preprinis. Tais
+plataformas se tornaram populares, nos últimos anos, por corresponderem a uma forma de
+compartilhar rapidamente dados de uma pesquisa e obter retorno (opiniões, sugestões e
+críticas) de cientistas e não cientistas. É importante mencionar que inexiste, nesses casos,
+a revisão técnico-científica feita por profissionais especializados no assunto (revisão por
+pares) em revistas indexadas. Por essa razão, tais plataformas anunciam claramente nas
+suas páginas iniciais:
+
+“Cuidado: Os preprints são relatórios preliminares de trabalho que não foram
+certificados pela revisão por pares. Eles não devem ser invocados para orientar a
+prática clínica ou comportamento relacionado à saúde e não devem ser relatados
+na mídia como informação estabelecida”.
+
+Ou seja, nenhum artigo pré-publicado nessas plataformas deve servir de referência para
+recomendar ou não um fármaco, por exemplo. Em uma publicação definitiva em revista
+científica, após a revisão pelos pares, indicados pelo editor da revista, os autores precisam
+explicar em detalhes os métodos científicos que utilizaram e, se isso não for convincente,
+o artigo não é publicado. Revistas do mais alto prestígio e impacto chegam a rejeitar 95%
+dos trabalhos que recebem para publicação. Nem sempre um artigo publicado no preprint
+consegue passar pelo crivo de outros cientistas que fazem o julgamento criterioso, segundo
+normas internacionais centenárias que regem a boa ciência.
+
+Os artigos em preprint, não revisados por pares e disponíveis apenas nos
+repositórios específicos, são elencados abaixo por estado de gravidade da doença.
+
+PACIENTES GRAVES COM COVID-19
+
+1. Estudo realizado na China”, em pesquisa randomizada (tratamento escolhido por
+'sorteio', o que é mais confiável do ponto de vista científico, pois retira a decisão do uso
+da medicação do médico, que pode intencional ou inconscientemente tender à escolha
+da medicação para pessoas menos graves, para 'ajudar' a provar sua hipótese) mostra
+o desaparecimento da febre, tosse e melhora da pneumonia em pacientes tratados com
+HCQ. O estudo não foi cego, avaliou um número pequeno de pacientes, não determinou
+mortalidade e segurança da utilização do medicamento, teve desvios significativos do
+protocolo inicial, os fatores de risco para eventos adversos graves foram critério de
+exclusão, os desfechos analisados foram subjetivos, e os métodos de análise estatística
+questionáveis.
+
+2. Análise realizada por Carlucci et a/.?º em estudo observacional prospectivo envolvendo
+932 pacientes sugeriu que a adição do sulfato de zinco ao tratamento com HCQ e
+azitromicina aumentou a frequência de pacientes recebendo alta, reduziu a necessidade
+de ventilação e de admissão em UTI em relação aos que receberam HCQ e azitromicina.
+O estudo não possui um grupo comparativo sem HCQ.
+
+3. Huang et al.”!, em estudo observacional, avaliaram retrospectivamente 197 pacientes
+tratados com CQ e 176 incluídos como controle histórico, sem uso de CQ, O tempo médio
+para atingir RNA viral indetectável e a duração da febre foram mais curtos no grupo CQ
+do que no grupo de controle histórico.
+
+CON
+4. Yu et al”? avaliaram retrospectivamente 568 pacientes com COVID-19, 48 dos quais
+receberam HCQ. O estudo indica redução da mortalidade e de um marcador inflamatório.
+Curiosamente, o tempo de permanência do grupo tratado com HCQ no hospital foi duas
+vezes maior.
+
+5. Davido et a!.73 avaliaram, em estudo retrospectivo envolvendo 132 pacientes, o efeito
+da combinação de HCQ e azitromicina em pacientes com COVID-19 hospitalizados.
+Observou-se atraso médio de dois dias na transferência para UTI em pacientes que
+receberam o tratamento. A metodologia é questionável e com importantes vieses, posto
+que os grupos não são equivalentes, sendo o grupo controle constituído por pacientes
+submetidos a diferentes tratamentos, incluindo o tratamento com HCQ/azitromicina.
+
+Artigos em preprint, não revisados por pares, em pacientes com a forma leve ou
+moderada
+
+PACIENTES NÃO-GRAVES COM COVID-19
+
+1. Estudo brasileiro, com 412 pacientes com sintomas de resfriado comum atendidos por
+telemedicina e que receberam HCQ/azitromicina. Outros 224 pacientes recusaram o
+tratamento e foram considerados como controles. Nenhum paciente realizou exame para
+o diagnóstico de COVID-19. Os dois grupos apresentavam diferenças epidemiológicas
+significativas já no início do estudo, não houve análise estatística, o grupo controle foi
+composto por indivíduos que recusaram a medicação e problemas éticos de aprovação
+do estudo em data posterior ao recrutamento de pacientes resultaram em seu
+encerramento 74. Embora não haja declaração de conflitos de interesses, o estudo foi
+patrocinado e executado por empresa de Medicina de Grupo em São Paulo, cuja
+mortalidade intra-hospitalar por COVID-19 foi muito elevada no início da epidemia. O
+estudo circulou apenas em forma de .pdf (e não está disponível nem em repositório de
+preprints). Não obstante, a enorme divulgação e grande repercussão que teve mostra
+como a cultura social brasileira desconsidera a ciência. A empresa fez o esforço de
+construção deste trabalho, nas condições descritas acima, às pressas e, não obstante
+tantas e tão gritantes limitações, o estudo alcançou a mídia de forma impactante como
+se desse sustento ao uso seguro e eficaz do fármaco.
+
+2. Novales et a!.?º sugeriram, em estudo observacional com 166 pacientes, que o
+tratamento com HCQ aumentou a sobrevida quando os pacientes foram admitidos nos
+estágios iniciais da doença. Os grupos tiveram diferenças significativas no início do
+estudo. O grupo que não recebeu tratamento era mais velho e os marcadores
+inflamatórios eram mais elevados nos que não usaram HCQ, apontando para um
+possível agravamento e potencial maior mortalidade nesse grupo. O estudo ainda não
+foi revisado por pares e encontra-se apenas em repositório de preprints.
+
+Com o conjunto de dados apresentados até o presente momento na literatura e em
+repositórios de preprints, pode-se tecer algumas considerações. Antes, entretanto, uma
+reflexão histórica crítica dos acontecimentos que sucederam ao primeiro relato de ensaio
+
+clínico, se impõe.
+
+O primeiro trabalho em humanos, realizado pelo grupo de Marselha, é de extrema
+fragilidade metodológica e científica e pode ser considerado quase um anti-modelo de
+desenho de ensaio clínico. Não obstante, uma divulgação intempestiva e sensacionalista
+dos dados preliminares reportados no artigo (que tinha como um dos autores o editor da
+revista que o aceitou no prazo recorde de um dia) foi feita pelo líder do grupo e pelos
+presidentes dos EUA e do Brasil. Isso gerou subprodutos nefastos ao clima de serenidade
+e cientificismo que deve embasar qualquer ação médica e sustentar medidas de
+enfrentamento de uma epidemia, tanto no nível do comportamento da população quanto
+das comunidades médico-científicas. Repertoria-se:
+
+a) a expectativa de parte da mídia e da população de que já existe uma solução
+para o risco de infecção para aqueles que, motivados pelo negacionismo oficial,
+sentem-se atraídos a desrespeitar regras de quarentenamento e do distanciamento
+social;
+
+b) a sensação injustificada de segurança de profissionais de saúde que, inquietos
+com a ausência de recursos terapêuticos e ansiosos em ajudar seus pacientes,
+assistiram às instituições oficiais liberarem o uso do fármaco, primeiro em ensaios
+clínicos, depois para pacientes graves e, finalmente, para todos, mesmo nas fases
+iniciais da doença, apesar da ausência de evidências científicas de sua eficácia e
+segurança, sem serem devida e suficientemente informados da validade da ação;
+
+c) a dificuldade do desenho de estudos randomizados duplo cegos com grupos
+controle placebo (que alguns passaram até a considerar antiéticos em função do
+descrito em 'a' e 'b9), não permitindo a avalição acurada da eficácia e da segurança
+do fármaco;
+
+d) a polarização ou ideologização das posturas em relação ao uso de CQ/HCQ em
+grupos pro (“de direita”) e contra (“de esquerda”) o seu uso indiscriminado antes
+que estudos cientificamente robustos possam afirmar as vantagens ou condenar o
+seu uso como recurso terapêutico em definitivo.
+
+Além disso, é preciso ter cuidado com o julgamento clínico individual. Em uma doença nova,
+cuja letalidade é ainda incerta, médicos de todo o mundo atendem centenas de pessoas e
+usam medicações por compaixão, ou seja, ainda sem evidências. Esses profissionais têm
+a melhor das intenções, especialmente porque sabem que não é possível aguardar estudos
+clínicos formais para salvar pessoas. À medida que sua experiência aumenta é natural que
+melhore a sua capacidade de antever e tratar complicações, observando, então, diminuição
+da letalidade entre seus pacientes. Isso, por sua vez, leva muitos profissionais a atribuir a
+uma dada ação a responsabilidade pelo sucesso. Isso é comum na história da medicina.
+Por exemplo, quando cirurgiões-barbeiros usavam a sangria para tratar várias doenças.
+Faziam em todos, e tinham a impressão de que havia melhora, motivo pelo qual a sangria
+era feita de forma indiscriminada. Hoje é fácil pensar em outras possibilidades de
+tratamento, porque temos ao nosso alcance um grande arsenal de opções. À época, sem
+antibióticos, a sangria era uma forma de ação, o que dava ao paciente a sensação de estar
+sendo cuidado. Muitos, no entanto, morriam justamente porque precisavam de mais volume
+de sangue e, quando esse lhes era extraído, evoluíam para a morte.
+
+No início da pandemia, a incerteza e a ausência de opções justificavam o uso exploratório
+de CQ/HCQ. Desde então, surgiram dados in vitro, modelos animais e, mais importante,
+inúmeros estudos observacionais, todos com resultados semelhantes. Se no início havia
+incerteza e plausibilidade biológica, essas não mais existem. Não há dados in vitro ou em
+modelos animais que sugiram que HCQ possa ser eficaz. Nenhum estudo observacional
+publicado sugeriu claro benefício. Pelo contrário, vários indicaram potenciais malefícios.
+Assim, hoje, em vista de algumas claras certezas, não é mais ético fazer uso rotineiro da
+medicação, fora de estudos clínicos. Todas as sociedades profissionais, nacionais e
+internacionais, são unânimes em não recomendar o uso de CQ/HCQ para o tratamento de
+COVID-19, exceto em pesquisas clínicas aprovadas por comitês de ética e mediante
+assinatura de termo de consentimento livre e esclarecido. Cumpre ressaltar que na
+Alemanha, país com a menor letalidade por COVID-19, a HCQ fez parte de forma limitada
+de seus protocolos de tratamento. Lá se investiu no aparelhamento tecnológico de suas
+UTIs, contando com profissionais altamente qualificados'4-7º.
+
+Há estudos que comparam a letalidade antes e após a introdução da HCQ na rotina de
+tratamento de diferentes Centros. Essa é uma análise falaciosa, pois desconsidera a curva
+de aprendizado da equipe de saúde. Profissionais mais treinados fornecem melhores
+cuidados aos seus pacientes. Por exemplo, no Hospital das Clínicas da USP, em São Paulo,
+a letalidade diminuiu após a retirada da HCQ da rotina de tratamento. Por outro lado,
+Manaus, cidade em que o Conselho Regional de Medicina do Amazonas recomendou o
+uso de HCQ nas fases iniciais da doença desde o início da epidemia, é a capital que
+acumula mais mortes proporcionais por COVID-19 em todo o Brasil.
+
+Esses dados, em seu conjunto, devem nos levar a refletir sobre a ausência de impacto da
+HCQ no enfrentamento da epidemia. Medidas como intervenção oportuna, posição de
+pronação do paciente, uso de oxigênio suplementar sob ventilação não-invasiva, uso
+oportuno de anticoagulantes, corticosteroides e de antibioticoterapia são o grande
+diferencial na abordagem terapêutica desses pacientes de COVID-19. Tudo isso foi graças
+à intensa troca de informações entre especialistas do mundo inteiro, uma lenta, porém
+frutífera curva de aprendizado coletivo que permitiu que a letalidade da Covid-19 seja hoje
+muito menor do que no início da epidemia, quando nada se sabia sobre a dinâmica da
+doença.
+
+Como conclusões parciais, cabe, entretanto, já salientar que:
+
+e Não há evidências científicas favoráveis que sustentem o uso de CQ/HCQ em qualquer
+dose ou estádio da COVID-19, quer no nível individual quer no de políticas públicas;
+
+e por outro lado, há estudos que demonstram que o uso de CQ/HCQ para o tratamento de
+Covid-19 pode estar associado à maior frequência de eventos adversos graves e com
+maior letalidade;
+
+e o uso de CQ/HCQ deve ser restrito a protocolos de pesquisa aprovados por comitês de
+ética em pesquisa;
+
+Antes de abordar as duas últimas conclusões desta nota, transcrevemos (de forma
+adaptada), trecho extraído do “COVID-19: Manifesto do Colegiado dos Professores
+Titulares da Faculdade de Medicina da USP” publicado no site da FMUSP, em 17/04/2020.
+
+“Outro ponto do juramento médico é o de consolar sempre. Muitas vezes,
+medicamentos ou outras ações não medicamentosas, apesar de não trazerem
+benefício comprovado, podem significar aos pacientes, sensação de alívio do
+sofrimento. Esse é o momento em que a ciência nos deixa, para que a arte se
+imponha. Trata-se de momento sublime da relação médico-paciente. Momento
+íntimo, onde a privacidade é fundamenta...
+
+Ao contrário do que se apregoa, as nossas convicções sólidas em princípios
+científicos não implicam contraposição às ações espirituais. Nesse momento,
+manifestamos nossa compaixão, e nossos mais profundos sentimentos, aos
+familiares dos mais de mil brasileiros mortos (à época). Ao mesmo tempo,
+compartilhamos esperança com aqueles que estão em sofrimento nas enfermarias
+e terapias intensivas, para que consigam superar esta fase e que se recuperem.
+Que todas as crenças unam suas preces. Dentro dos princípios de apoio mútuo a
+todos que sofrem, seja nos hospitais ou nos isolamentos em domicílio”.
+
+e o uso da CQ/HCQ deve ter o consentimento formal do paciente ou de seu responsável
+legal;
+
+e por óbvio, a prescrição de um tratamento sem comprovação científica de eficácia, mas
+com demonstração de risco de efeitos colaterais graves, poderá fazer com que o
+prescritor incorra em dano a preceitos legais ou éticos.
+A discussão em torno do uso, no Brasil, de um fármaco não recomendado para COVID-19
+por todas as sociedades científicas internacionais nos tem levado a vivenciar o epicentro
+da doença, em escala mundial, impossibilitando a discussão necessária que devem ter os
+poderes federal, estadual e municipal. A aparente saída de dois ministros da saúde por
+conta do imbróglio, em meio à crise, tem atrasado processos de compra, ordenamento de
+despesas, diálogo com CONASS e CONASEMS, fortalecimento do SUS e planejamento
+concreto da economia do país.
+
+É preciso igualmente que se avaliem os conflitos de interesse ligados a essa recomendação
+quase que impositiva. Empresas que produzem HCQ têm tido alto retorno financeiro, em
+tempos de carestia econômica para vários setores da economia. Sem uma clara separação
+entre benefício real para a população e benefícios exclusivos do setor produtivo do fármaco,
+o debate encontra forte viés, que merece investigação por parte das autoridades.
+
+Não se deve opor, em meio ao desespero da população, à prescrição de substâncias com
+efeito placebo, ou seja, que fazem um paciente se sentir bem, mesmo sem qualquer ação
+farmacêutica comprovada, como é o caso de vitaminas, o gás ozônio ou, mesmo, a
+homeopatia. Mas quando a substância que se pretende utilizar com essa finalidade está
+fortemente associada a eventos adversos graves e conhecidos, especialmente na
+população-alvo da COVID-19, mais idosa, em sua maioria com cardiopatias, e portanto
+mais sujeita a arritmias fatais, cabe ao médico, amparado pela ciência, advertir e lutar para
+que não tenhamos mais mortes iatrogênicas desnecessárias. O vírus está autorizado a
+matar, por sua natureza não regida pela justiça dos homens, mas não o médico, ainda que
+pretensamente agindo em boa fé.
+
+Às conclusões dos estudos internacionais, multicêntricos e randomizados ora em
+curso, com previsão de divulgação para algumas semanas, são as únicas garantias
+de oferta de tratamentos seguros e eficazes a pacientes com COVID-19. Qualquer
+tentativa de substituir os resultados dessas pesquisas por análises de estudos
+observacionais é uma falsa solução, que pode acarretar elevados riscos, incluindo
+morte, aos pacientes, por efeitos colaterais conhecidos e previsíveis.
+
+Em uma situação de emergência global de saúde pública, como a Pandemia causada
+pelo SARS-CoV-2, cabe ao Poder Público garantir o bem-estar da população de forma
+responsável e embasada em conhecimento produzido pela ciência e não a submeter
+ao risco adicional de um tratamento sem garantias de segurança e eficácia sob a
+chancela de uma política nacional de saúde.
+
+Participaram da elaboração desta Nota (por ordem alfabética)
+
+Celso Ferreira Ramos Filho"? Marcus Vinícius Guimarães Lacerda”
+Cláudio Tadeu Daniel-Ribeiro"* Margareth Pretti Dalcolmo?
+
+Daniel Goldberg Tabak” Mauro Schechter?
+
+Djane Clarys Baia-da-Silva* Natália Pasternak Taschner”
+
+José Gomes Temporão'* Patrícia Brasi
+
+* Academia Nacional de Medicina
+
+2 Faculdade de Medicina, UFRJ
+
+3 Instituto Oswaldo Cruz, Fiocruz
+
+4 Fundação de Medicina Tropical do Amazonas Doutor Heitor Vieira Dourado e
+
+Universidade do Estado do Amazonas ;
+8 Centro de Estudos Estratégicos, Fiocruz 2
+$ Centro de Referência Hélio Fraga, ENSP, Fiocruz
+
+"Instituto Questão de Ciência e Instituto de Ciências Biomédicas, USP
+
+é Instituto Nacional de Infectologia Evandro Chagas, Fiocruz
+
+Rio de Janeiro, 20 de maio de 2020
+10.
 
 1.
 
@@ -79,738 +585,6 @@ Savarino A, Gennero L, Sperber K, Boelaert JR. The anti-HIV-1 activity of chloro
 2001;20(3):131-135. doi:10,1016/51386-6532(00)00139-6.
 
 Tsai W po, Nara PL, Kung H fu, Oroszlan S. Inhibition of Human Immunodeficiency Virus Infectivity by
-A discussão em torno do uso, no Brasil, de um fármaco não recomendado para COVID-19
-por todas as sociedades científicas internacionais nos tem levado a vivenciar o epicentro
-da doença, em escala mundial, impossibilitando a discussão necessária que devem ter os
-poderes federal, estadual e municipal. A aparente saída de dois ministros da saúde por
-conta do imbróglio, em meio à crise, tem atrasado processos de compra, ordenamento de
-despesas, diálogo com CONASS e CONASEMS, fortalecimento do SUS e planejamento
-concreto da economia do país.
-
-É preciso igualmente que se avaliem os conflitos de interesse ligados a essa recomendação
-quase que impositiva. Empresas que produzem HCQ têm tido alto retorno financeiro, em
-tempos de carestia econômica para vários setores da economia. Sem uma clara separação
-entre benefício real para a população e benefícios exclusivos do setor produtivo do fármaco,
-o debate encontra forte viés, que merece investigação por parte das autoridades.
-
-Não se deve opor, em meio ao desespero da população, à prescrição de substâncias com
-efeito placebo, ou seja, que fazem um paciente se sentir bem, mesmo sem qualquer ação
-farmacêutica comprovada, como é o caso de vitaminas, o gás ozônio ou, mesmo, a
-homeopatia. Mas quando a substância que se pretende utilizar com essa finalidade está
-fortemente associada a eventos adversos graves e conhecidos, especialmente na
-população-alvo da COVID-19, mais idosa, em sua maioria com cardiopatias, e portanto
-mais sujeita a arritmias fatais, cabe ao médico, amparado pela ciência, advertir e lutar para
-que não tenhamos mais mortes iatrogênicas desnecessárias. O vírus está autorizado a
-matar, por sua natureza não regida pela justiça dos homens, mas não o médico, ainda que
-pretensamente agindo em boa fé.
-
-Às conclusões dos estudos internacionais, multicêntricos e randomizados ora em
-curso, com previsão de divulgação para algumas semanas, são as únicas garantias
-de oferta de tratamentos seguros e eficazes a pacientes com COVID-19. Qualquer
-tentativa de substituir os resultados dessas pesquisas por análises de estudos
-observacionais é uma falsa solução, que pode acarretar elevados riscos, incluindo
-morte, aos pacientes, por efeitos colaterais conhecidos e previsíveis.
-
-Em uma situação de emergência global de saúde pública, como a Pandemia causada
-pelo SARS-CoV-2, cabe ao Poder Público garantir o bem-estar da população de forma
-responsável e embasada em conhecimento produzido pela ciência e não a submeter
-ao risco adicional de um tratamento sem garantias de segurança e eficácia sob a
-chancela de uma política nacional de saúde.
-
-Participaram da elaboração desta Nota (por ordem alfabética)
-
-Celso Ferreira Ramos Filho"? Marcus Vinícius Guimarães Lacerda”
-Cláudio Tadeu Daniel-Ribeiro"* Margareth Pretti Dalcolmo?
-
-Daniel Goldberg Tabak” Mauro Schechter?
-
-Djane Clarys Baia-da-Silva* Natália Pasternak Taschner”
-
-José Gomes Temporão'* Patrícia Brasi
-
-* Academia Nacional de Medicina
-
-2 Faculdade de Medicina, UFRJ
-
-3 Instituto Oswaldo Cruz, Fiocruz
-
-4 Fundação de Medicina Tropical do Amazonas Doutor Heitor Vieira Dourado e
-
-Universidade do Estado do Amazonas ;
-8 Centro de Estudos Estratégicos, Fiocruz 2
-$ Centro de Referência Hélio Fraga, ENSP, Fiocruz
-
-"Instituto Questão de Ciência e Instituto de Ciências Biomédicas, USP
-
-é Instituto Nacional de Infectologia Evandro Chagas, Fiocruz
-
-Rio de Janeiro, 20 de maio de 2020
-de aprendizado da equipe de saúde. Profissionais mais treinados fornecem melhores
-cuidados aos seus pacientes. Por exemplo, no Hospital das Clínicas da USP, em São Paulo,
-a letalidade diminuiu após a retirada da HCQ da rotina de tratamento. Por outro lado,
-Manaus, cidade em que o Conselho Regional de Medicina do Amazonas recomendou o
-uso de HCQ nas fases iniciais da doença desde o início da epidemia, é a capital que
-acumula mais mortes proporcionais por COVID-19 em todo o Brasil.
-
-Esses dados, em seu conjunto, devem nos levar a refletir sobre a ausência de impacto da
-HCQ no enfrentamento da epidemia. Medidas como intervenção oportuna, posição de
-pronação do paciente, uso de oxigênio suplementar sob ventilação não-invasiva, uso
-oportuno de anticoagulantes, corticosteroides e de antibioticoterapia são o grande
-diferencial na abordagem terapêutica desses pacientes de COVID-19. Tudo isso foi graças
-à intensa troca de informações entre especialistas do mundo inteiro, uma lenta, porém
-frutífera curva de aprendizado coletivo que permitiu que a letalidade da Covid-19 seja hoje
-muito menor do que no início da epidemia, quando nada se sabia sobre a dinâmica da
-doença.
-
-Como conclusões parciais, cabe, entretanto, já salientar que:
-
-e Não há evidências científicas favoráveis que sustentem o uso de CQ/HCQ em qualquer
-dose ou estádio da COVID-19, quer no nível individual quer no de políticas públicas;
-
-e por outro lado, há estudos que demonstram que o uso de CQ/HCQ para o tratamento de
-Covid-19 pode estar associado à maior frequência de eventos adversos graves e com
-maior letalidade;
-
-e o uso de CQ/HCQ deve ser restrito a protocolos de pesquisa aprovados por comitês de
-ética em pesquisa;
-
-Antes de abordar as duas últimas conclusões desta nota, transcrevemos (de forma
-adaptada), trecho extraído do “COVID-19: Manifesto do Colegiado dos Professores
-Titulares da Faculdade de Medicina da USP” publicado no site da FMUSP, em 17/04/2020.
-
-“Outro ponto do juramento médico é o de consolar sempre. Muitas vezes,
-medicamentos ou outras ações não medicamentosas, apesar de não trazerem
-benefício comprovado, podem significar aos pacientes, sensação de alívio do
-sofrimento. Esse é o momento em que a ciência nos deixa, para que a arte se
-imponha. Trata-se de momento sublime da relação médico-paciente. Momento
-íntimo, onde a privacidade é fundamenta...
-
-Ao contrário do que se apregoa, as nossas convicções sólidas em princípios
-científicos não implicam contraposição às ações espirituais. Nesse momento,
-manifestamos nossa compaixão, e nossos mais profundos sentimentos, aos
-familiares dos mais de mil brasileiros mortos (à época). Ao mesmo tempo,
-compartilhamos esperança com aqueles que estão em sofrimento nas enfermarias
-e terapias intensivas, para que consigam superar esta fase e que se recuperem.
-Que todas as crenças unam suas preces. Dentro dos princípios de apoio mútuo a
-todos que sofrem, seja nos hospitais ou nos isolamentos em domicílio”.
-
-e o uso da CQ/HCQ deve ter o consentimento formal do paciente ou de seu responsável
-legal;
-
-e por óbvio, a prescrição de um tratamento sem comprovação científica de eficácia, mas
-com demonstração de risco de efeitos colaterais graves, poderá fazer com que o
-prescritor incorra em dano a preceitos legais ou éticos.
-enfrentamento de uma epidemia, tanto no nível do comportamento da população quanto
-das comunidades médico-científicas. Repertoria-se:
-
-a) a expectativa de parte da mídia e da população de que já existe uma solução
-para o risco de infecção para aqueles que, motivados pelo negacionismo oficial,
-sentem-se atraídos a desrespeitar regras de quarentenamento e do distanciamento
-social;
-
-b) a sensação injustificada de segurança de profissionais de saúde que, inquietos
-com a ausência de recursos terapêuticos e ansiosos em ajudar seus pacientes,
-assistiram às instituições oficiais liberarem o uso do fármaco, primeiro em ensaios
-clínicos, depois para pacientes graves e, finalmente, para todos, mesmo nas fases
-iniciais da doença, apesar da ausência de evidências científicas de sua eficácia e
-segurança, sem serem devida e suficientemente informados da validade da ação;
-
-c) a dificuldade do desenho de estudos randomizados duplo cegos com grupos
-controle placebo (que alguns passaram até a considerar antiéticos em função do
-descrito em 'a' e 'b9), não permitindo a avalição acurada da eficácia e da segurança
-do fármaco;
-
-d) a polarização ou ideologização das posturas em relação ao uso de CQ/HCQ em
-grupos pro (“de direita”) e contra (“de esquerda”) o seu uso indiscriminado antes
-que estudos cientificamente robustos possam afirmar as vantagens ou condenar o
-seu uso como recurso terapêutico em definitivo.
-
-Além disso, é preciso ter cuidado com o julgamento clínico individual. Em uma doença nova,
-cuja letalidade é ainda incerta, médicos de todo o mundo atendem centenas de pessoas e
-usam medicações por compaixão, ou seja, ainda sem evidências. Esses profissionais têm
-a melhor das intenções, especialmente porque sabem que não é possível aguardar estudos
-clínicos formais para salvar pessoas. À medida que sua experiência aumenta é natural que
-melhore a sua capacidade de antever e tratar complicações, observando, então, diminuição
-da letalidade entre seus pacientes. Isso, por sua vez, leva muitos profissionais a atribuir a
-uma dada ação a responsabilidade pelo sucesso. Isso é comum na história da medicina.
-Por exemplo, quando cirurgiões-barbeiros usavam a sangria para tratar várias doenças.
-Faziam em todos, e tinham a impressão de que havia melhora, motivo pelo qual a sangria
-era feita de forma indiscriminada. Hoje é fácil pensar em outras possibilidades de
-tratamento, porque temos ao nosso alcance um grande arsenal de opções. À época, sem
-antibióticos, a sangria era uma forma de ação, o que dava ao paciente a sensação de estar
-sendo cuidado. Muitos, no entanto, morriam justamente porque precisavam de mais volume
-de sangue e, quando esse lhes era extraído, evoluíam para a morte.
-
-No início da pandemia, a incerteza e a ausência de opções justificavam o uso exploratório
-de CQ/HCQ. Desde então, surgiram dados in vitro, modelos animais e, mais importante,
-inúmeros estudos observacionais, todos com resultados semelhantes. Se no início havia
-incerteza e plausibilidade biológica, essas não mais existem. Não há dados in vitro ou em
-modelos animais que sugiram que HCQ possa ser eficaz. Nenhum estudo observacional
-publicado sugeriu claro benefício. Pelo contrário, vários indicaram potenciais malefícios.
-Assim, hoje, em vista de algumas claras certezas, não é mais ético fazer uso rotineiro da
-medicação, fora de estudos clínicos. Todas as sociedades profissionais, nacionais e
-internacionais, são unânimes em não recomendar o uso de CQ/HCQ para o tratamento de
-COVID-19, exceto em pesquisas clínicas aprovadas por comitês de ética e mediante
-assinatura de termo de consentimento livre e esclarecido. Cumpre ressaltar que na
-Alemanha, país com a menor letalidade por COVID-19, a HCQ fez parte de forma limitada
-de seus protocolos de tratamento. Lá se investiu no aparelhamento tecnológico de suas
-UTIs, contando com profissionais altamente qualificados'4-7º.
-
-Há estudos que comparam a letalidade antes e após a introdução da HCQ na rotina de
-tratamento de diferentes Centros. Essa é uma análise falaciosa, pois desconsidera a curva
-4. Yu et al”? avaliaram retrospectivamente 568 pacientes com COVID-19, 48 dos quais
-receberam HCQ. O estudo indica redução da mortalidade e de um marcador inflamatório.
-Curiosamente, o tempo de permanência do grupo tratado com HCQ no hospital foi duas
-vezes maior.
-
-5. Davido et a!.73 avaliaram, em estudo retrospectivo envolvendo 132 pacientes, o efeito
-da combinação de HCQ e azitromicina em pacientes com COVID-19 hospitalizados.
-Observou-se atraso médio de dois dias na transferência para UTI em pacientes que
-receberam o tratamento. A metodologia é questionável e com importantes vieses, posto
-que os grupos não são equivalentes, sendo o grupo controle constituído por pacientes
-submetidos a diferentes tratamentos, incluindo o tratamento com HCQ/azitromicina.
-
-Artigos em preprint, não revisados por pares, em pacientes com a forma leve ou
-moderada
-
-PACIENTES NÃO-GRAVES COM COVID-19
-
-1. Estudo brasileiro, com 412 pacientes com sintomas de resfriado comum atendidos por
-telemedicina e que receberam HCQ/azitromicina. Outros 224 pacientes recusaram o
-tratamento e foram considerados como controles. Nenhum paciente realizou exame para
-o diagnóstico de COVID-19. Os dois grupos apresentavam diferenças epidemiológicas
-significativas já no início do estudo, não houve análise estatística, o grupo controle foi
-composto por indivíduos que recusaram a medicação e problemas éticos de aprovação
-do estudo em data posterior ao recrutamento de pacientes resultaram em seu
-encerramento 74. Embora não haja declaração de conflitos de interesses, o estudo foi
-patrocinado e executado por empresa de Medicina de Grupo em São Paulo, cuja
-mortalidade intra-hospitalar por COVID-19 foi muito elevada no início da epidemia. O
-estudo circulou apenas em forma de .pdf (e não está disponível nem em repositório de
-preprints). Não obstante, a enorme divulgação e grande repercussão que teve mostra
-como a cultura social brasileira desconsidera a ciência. A empresa fez o esforço de
-construção deste trabalho, nas condições descritas acima, às pressas e, não obstante
-tantas e tão gritantes limitações, o estudo alcançou a mídia de forma impactante como
-se desse sustento ao uso seguro e eficaz do fármaco.
-
-2. Novales et a!.?º sugeriram, em estudo observacional com 166 pacientes, que o
-tratamento com HCQ aumentou a sobrevida quando os pacientes foram admitidos nos
-estágios iniciais da doença. Os grupos tiveram diferenças significativas no início do
-estudo. O grupo que não recebeu tratamento era mais velho e os marcadores
-inflamatórios eram mais elevados nos que não usaram HCQ, apontando para um
-possível agravamento e potencial maior mortalidade nesse grupo. O estudo ainda não
-foi revisado por pares e encontra-se apenas em repositório de preprints.
-
-Com o conjunto de dados apresentados até o presente momento na literatura e em
-repositórios de preprints, pode-se tecer algumas considerações. Antes, entretanto, uma
-reflexão histórica crítica dos acontecimentos que sucederam ao primeiro relato de ensaio
-
-clínico, se impõe.
-
-O primeiro trabalho em humanos, realizado pelo grupo de Marselha, é de extrema
-fragilidade metodológica e científica e pode ser considerado quase um anti-modelo de
-desenho de ensaio clínico. Não obstante, uma divulgação intempestiva e sensacionalista
-dos dados preliminares reportados no artigo (que tinha como um dos autores o editor da
-revista que o aceitou no prazo recorde de um dia) foi feita pelo líder do grupo e pelos
-presidentes dos EUA e do Brasil. Isso gerou subprodutos nefastos ao clima de serenidade
-e cientificismo que deve embasar qualquer ação médica e sustentar medidas de
-5. Em outro estudo, 51 de 80 pacientes com lúpus eritematoso sistêmico tiveram COVID-
-19 e a frequência de internação de pacientes com lúpus em uso de HCQ não diferiu da
-de não usuários do fármacos.
-
-Vários artigos encontram-se disponíveis somente em repositórios de preprinis. Tais
-plataformas se tornaram populares, nos últimos anos, por corresponderem a uma forma de
-compartilhar rapidamente dados de uma pesquisa e obter retorno (opiniões, sugestões e
-críticas) de cientistas e não cientistas. É importante mencionar que inexiste, nesses casos,
-a revisão técnico-científica feita por profissionais especializados no assunto (revisão por
-pares) em revistas indexadas. Por essa razão, tais plataformas anunciam claramente nas
-suas páginas iniciais:
-
-“Cuidado: Os preprints são relatórios preliminares de trabalho que não foram
-certificados pela revisão por pares. Eles não devem ser invocados para orientar a
-prática clínica ou comportamento relacionado à saúde e não devem ser relatados
-na mídia como informação estabelecida”.
-
-Ou seja, nenhum artigo pré-publicado nessas plataformas deve servir de referência para
-recomendar ou não um fármaco, por exemplo. Em uma publicação definitiva em revista
-científica, após a revisão pelos pares, indicados pelo editor da revista, os autores precisam
-explicar em detalhes os métodos científicos que utilizaram e, se isso não for convincente,
-o artigo não é publicado. Revistas do mais alto prestígio e impacto chegam a rejeitar 95%
-dos trabalhos que recebem para publicação. Nem sempre um artigo publicado no preprint
-consegue passar pelo crivo de outros cientistas que fazem o julgamento criterioso, segundo
-normas internacionais centenárias que regem a boa ciência.
-
-Os artigos em preprint, não revisados por pares e disponíveis apenas nos
-repositórios específicos, são elencados abaixo por estado de gravidade da doença.
-
-PACIENTES GRAVES COM COVID-19
-
-1. Estudo realizado na China”, em pesquisa randomizada (tratamento escolhido por
-'sorteio', o que é mais confiável do ponto de vista científico, pois retira a decisão do uso
-da medicação do médico, que pode intencional ou inconscientemente tender à escolha
-da medicação para pessoas menos graves, para 'ajudar' a provar sua hipótese) mostra
-o desaparecimento da febre, tosse e melhora da pneumonia em pacientes tratados com
-HCQ. O estudo não foi cego, avaliou um número pequeno de pacientes, não determinou
-mortalidade e segurança da utilização do medicamento, teve desvios significativos do
-protocolo inicial, os fatores de risco para eventos adversos graves foram critério de
-exclusão, os desfechos analisados foram subjetivos, e os métodos de análise estatística
-questionáveis.
-
-2. Análise realizada por Carlucci et a/.?º em estudo observacional prospectivo envolvendo
-932 pacientes sugeriu que a adição do sulfato de zinco ao tratamento com HCQ e
-azitromicina aumentou a frequência de pacientes recebendo alta, reduziu a necessidade
-de ventilação e de admissão em UTI em relação aos que receberam HCQ e azitromicina.
-O estudo não possui um grupo comparativo sem HCQ.
-
-3. Huang et al.”!, em estudo observacional, avaliaram retrospectivamente 197 pacientes
-tratados com CQ e 176 incluídos como controle histórico, sem uso de CQ, O tempo médio
-para atingir RNA viral indetectável e a duração da febre foram mais curtos no grupo CQ
-do que no grupo de controle histórico.
-
-CON
-modificações eletrocardiográficas que exigiram a interrupção do tratamento, mesmo com
-doses mais baixas da medicação.
-
-PACIENTES NÃO-GRAVES COM COVID-19
-
-1. Estudo clínico randomizado realizado na China com 150 pacientes com casos leves a
-moderados de COVID-19, utilizando altas doses e um tratamento prolongado com HCQ
-(dose diária de 1200 mg por três dias, seguida de dose de manutenção de 800 mg por
-dia durante duas ou três semanas), não mostrou melhor evolução dos pacientes tratados
-quando comparado aos não tratados. A frequência de eventos adversos foi maior em
-pacientes tratados com HCQ%".
-
-2. Gautret et a/.%2 realizaram um estudo observacional não comparativo, com 80 pacientes
-com infeção leve, tratados com a combinação de HCQ/azitromicina. Os autores
-observaram que um dos pacientes faleceu e outro necessitou de transferência para
-unidade de terapia intensiva. Os demais apresentaram melhora. O estudo não incluiu
-grupo controle, não sendo, portanto, possível apresentar conclusões.
-
-3. Million et aí. avaliaram prospectivamente o tratamento em fase inicial da doença com
-HCQ/azitromicina em 1061 pacientes com COVID-19 observando bons resultados
-clínicos e cura virológica. Foi avaliada a negativação virológica em secreções
-respiratórias, o que sabidamente ocorre na quase totalidade dos pacientes,
-independentemente de tratamento. Resultados clínicos ruins foram observados em 46
-pacientes; 8 morreram e 5 ainda estavam internados ao fim do estudo. O estudo não
-teve grupo controle ou comparação com controle histórico, e não permite conclusões
-satisfatórias sobre a eficácia do tratamento.
-
-USO PROFILÁTICO
-
-1. Um estudo retrospectivo rastreou 14.520 indivíduos em uso contínuo de HCQ para várias
-condições, incluindo artritre rematoide, lúpus, gota, doença de Behget, prevenção de
-pericardite e febre familiar do Mediterrâneo. A incidência de infecção por SARS CoV-2
-nessa população foi igual à da população geral, indicando que a HCQ não tem ação
-profilática º4.
-
-2. Uma pequena série de casos (17 casos) evidenciou que HCQ administrado cronicamente
-em pacientes reumáticos não impediu a infecção por SARS-CoV-28, sugerindo ausência
-de ação profilática da HCQ.
-
-3. Em outro estudo, realizado com 66 pacientes em uso contínuo de HCQ (em média de
-14,2 meses), nenhum desenvolveu sintomas sugestivos de infecção por SARS-CoV-2.
-Segundo o próprio autor, o estudo tem limitações, como o pequeno tamanho da amostra,
-e a provável ausência de exposição a casos de COVID-19 nos sujeitos entrevistados.
-Não há um grupo controle comparativo*e.
-
-4. Monti et aí, &” avaliaram o desenvolvimento de COVID-19 em 320 pacientes em uso de
-fármacos anti-reumáticos. Quatro pacientes foram casos confirmados de COVID-19 e
-outros quatro relataram sintomas altamente sugestivos de COVID-19. Dos 8 pacientes,
-5 faziam uso de HCQ. Segundo os autores, os achados não permitem conclusões sobre
-a taxa de incidência de infecção por SARS-CoV-2 em pacientes com doenças
-reumáticas, nem sobre o impacto clínico do imunocomprometimento na COVID-19. No
-entanto, ressaltam os autores, sua experiência preliminar indica que pacientes com
-artrite reumatóide crônica não parecem estar sob risco aumentado de complicações
-respiratórias ou com maior risco de morrer por SARS-CoV-2.
-não atingia os padrões técnicos mínimos necessários e prometeu investigar o trabalho.
-Entre os problemas, os autores haviam retirado da análise, sem qualquer justificativa, 6
-pacientes que haviam recebido HCQ (de um total de 26), três dos quais haviam falecido
-e um que havia sido encaminhado para a UTI. Além disso, em nenhum outro estudo
-publicado posteriormente, observou-se negativação total do vírus no dia 5 após o uso do
-fármaco.
-
-- Molina et al.8!, em Paris, também na França, buscaram, sem sucesso, repetir o estudo
-descrito acima. Assim, prospectivamente prescreveram para 11 pacientes hospitalizados
-o esquema de HCQ e azitromicina descrito no estudo citado no item 2. Nos primeiros
-cinco dias de tratamento, um paciente morreu, dois foram transferidos para a UTI e outro
-descontinuou o tratamento no quarto dia devido a um prolongamento do intervalo QT.
-Os swabs nasofaríngeos de 8 pacientes foram positivos para SARS-CoV2 nos dias 5 a
-6 após o início do tratamento. Assim, embora com um número pequeno de pacientes
-avaliados e sem um grupo controle, esses achados são diametralmente opostos aos
-descritos pelo grupo de Marselha, não tendo sido demonstrada ação antiviral ou
-benefício clínico do uso da combinação de HCQ e azitromicina.
-
-- Em outro estudo realizado na China não foi encontrada diferença na taxa de “cura
-virológica' (desaparecimento do vírus no sangue ou em secreções), nem nos resultados
-clínicos (duração da hospitalização, normalização da temperatura, progressão
-radiológica).
-
-. Chorin ef al. relataram alterações cardíacas em 84 pacientes hospitalizados com
-COVID-19 em tratamento com HCQ e azitromicina. Dado o que se conhece de seus
-efeitos colaterais, o maior temor do uso de CQ e HCQ em pacientes com COVID-19 é a
-possibilidade de ocorrerem arritmias cardíacas e/ou morte cardíaca súbita.
-
-. Um estudo prospectivo, realizado em Manaus (Borba et a/.*), foi o primeiro ensaio clínico
-randomizado controlado do mundo a utilizar CQ para o tratamento de COVID-19. Nele,
-avaliou-se duas doses diferentes de CQ, segundo metodologia bem estabelecida para a
-determinação de dose ideal de medicação. O estudo mostrou que a dose mais alta de
-CQ (previamente reconhecida como segura em protocolos clínicos para outras
-doenças**-S7) não deve ser recomendada para o tratamento de pacientes graves com
-COVID-19 devido a potenciais riscos à segurança (eventos adversos graves e riscos
-cardíacos foram associados à alta mortalidade). O estudo serviu de referência para o
-FDA e para o NIH recomendarem que doses mais elevadas não sejam utilizadas em
-qualquer situação, incluindo protocolos de pesquisas. Nesse estudo também não se
-verificou cura virológica até o quinto dia de tratamento, corroborando o achado de outros
-estudos.
-
-. Geleris et al.%8, em estudo unicamente observacional envolvendo 1446 pacientes com
-COVID-19 hospitalizados, mostraram que a administração de HCQ não foi associada à
-redução de morte ou de intubação.
-
-. Rosenberg et al. *º em um estudo observacional com 1438 pacientes hospitalizados,
-mostraram que o tratamento com HCQ, azitromicina ou ambos não foi associado à
-mudança significativa na taxa de mortalidade intra-hospitalar. Embora mostre um
-desfecho importante, esse estudo, como todo estudo observacional, apresenta
-limitações importantes. No entanto, a exemplo do estudo de Geleris et a/.58 suas
-conclusões não foram alteradas após ajustes estatísticos para levar em consideração os
-potenciais vieses de indicação de tratamento, por se tratar de estudo observacional.
-
-. Mahévas et aí, *º em estudo observacional envolvendo 181 pacientes, não encontraram
-redução na necessidade de internação em UTI, uso de oxigênio ou ventilação invasiva
-em pacientes hospitalizados em uso de HCQ. Alguns pacientes em uso de HCQ tiveram
-tratamento com CQ agravou a febre, retardou a resposta imune celular e se associou com
-depuração viral incompleta?”. Um estudo clínico mostrou que o uso de CQ não se associou
-à melhora do curso da infeção por CHIKVº8, nem à diminuição da frequência de artralgia
-crônica após a infecção*”. A CQ não é recomendada para o tratamento de pacientes com
-infecção pelo HIV3-43.
-
-A CQ apresenta efeito modesto na redução da carga viral de hepatite C, quando associada
-a interferon peguilado e 44-48 não sendo um fármaco indicado para o tratamento dessa
-infecção.
-
-A HCQ, análogo da CQ, mas com perfil mais favorável de segurança renal e ocular, é
-utilizada para o tratamento de doenças autoimunes em função de seu efeito
-imunomodulador, tendo se mostrada ativa contra SARS-CoV-2 em experimentos in vitro,
-em doses menores que CQ*. Uma revisão sistemática de 86 artigos envolvendo 127
-pacientes mostrou equilíbrio de toxicidade cardiológica com os dois fármacos (CQ e HCQ),
-embora a toxicidade ocular seja maior em pacientes em uso prolongado de CQ?”.
-
-Os estudos com pacientes com COVID-19 utilizando CQ e HCQ são elencados abaixo,
-conforme gravidade dos pacientes envolvidos.
-
-Na abordagem clínica das doenças infecciosas, a fase da doença pode influenciar o
-resultado da ação e influir na indicação de um agente antimicrobiano. No entanto, não há
-razão para se postular a ausência completa da ação em fases mais avançadas, e/ou que
-ela seja exclusiva nas fases iniciais e leves de uma doença infecciosa. Seria como não
-recomendarmos a administração de antibióticos em pacientes com sepse grave, na UTI.
-Em princípio, a ação de um antimicrobiano será tanto melhor quanto menos microrganismos
-existirem e, quanto mais imediato for o início do tratamento de uma doença infecciosa,
-melhor se espera que seja o resultado.
-
-A questão em debate se refere à ação de CQ/HCQ como antiviral, em que se pretende
-diminuir a quantidade de vírus, reduzindo, assim, as complicações graves da evolução da
-infecção.
-
-PACIENTES GRAVES COM COVID-19
-
-1. Um primeiro estudo, realizado na China, evoca uma “aparente” eficácia do fosfato de CQ
-em pessoas com pneumonia por COVID-19 sem, contudo, apresentar qualquer dado
-sobre as características das populações avaliadas (idade, sexo, peso, doenças
-anteriores e outros) e a segurança do fármaco (mortalidade, eventos adversos, incluindo
-os graves)??. O trabalho é considerado uma evidência anedótica, ou seja, sem força
-científica, um relato contado superficialmente pelos autores.
-
-2. Um estudo realizado em Marselha, na França,*º baseou a sua análise do efeito de HCQ
-somente na detecção de vírus na secreção respiratória de 42 pacientes. O estudo
-descreve a ausência de vírus 5 dias após o início do tratamento no grupo de (6) pacientes
-tratados com CQ e azitromicina (57,1% de redução no grupo tratado só com CQ e 12,5%
-no controle). No entanto, não foram descritos os desfechos clínicos (se o paciente
-continuou hospitalizado, em UTI ou em uso de ventilação mecânica). Os grupos de
-pacientes tratados e não-tratados (que incluiu pacientes que recusaram o protocolo!) não
-eram comparáveis. Os que receberam a medicação haviam sido tratados no hospital dos
-autores e os demais (controles), em outros hospitais. Esse foi o estudo citado, em
-coletiva de imprensa, pelo presidente americano Donald Trump, levando ao aumento
-expressivo do número de prescrições da medicação para pacientes com COVID-19 nos
-EUA e no resto do mundo. Entretanto, devido às inúmeras críticas recebidas”, a própria
-revista que havia publicado o artigo, desculpou-se por tê-lo publicado, afirmando que ele
-64,
-
-65.
-
-66.
-
-67.
-
-68.
-
-9.
-
-To.
-
-71.
-
-72,
-
-73.
-
-7a.
-
-75.
-
-Raoult D. Full-length title: Early treatment of COVID-19 patients with hydroxychloroquine and azithromycin: A
-retrospective analysis of 1061 cases in Marseille, France. Travel Med Infect Dis. May 2020:101738.
-doi:10.1016/.tmaid.2020.101738.
-
-Gendelman O, Amital H, Bragazzi NL, Watad A, Chodick G. Continuous hydroxychloroquine or colchicine
-therapy does not prevent infection with SARS-CoV-2: Insights from a large healthcare database analysis.
-Autoimmun Rev. May 2020:102566. doi:10.1016/) autrev.2020.102566.
-
-Mathian A, Mahevas M, Rohmer J, Roumier M, Cohen-Aubart F, Amador-Borrero B, Barrelet A, Chauvet C,
-Chazal T, Delahousse M, Devaux M, Euvrard R, Fadlallah J, Florens N, Haroche J, Hié M, Juillard L, Lhote R,
-Maillet T, Richard-Colmant G, Palluy JB, Pha M, Perard L, Remy P, Rivigre E, Sêne D, Sêve P, Morélot-
-Panzini C, Viallard J-F, Virot J-S, Benameur N, Zahr N, Yssel H, Godeau B, Amoura Z. Clinical course of
-coronavirus disease 2019 (COVID-19) in a series of 17 patients with systemic lupus erythematosus under
-long-term treatment with hydroxychloroquine. Ann Rheum Dis. April 2020. doi:10.1136/annrheumdis-2020-
-217566.
-
-Vastarella M, Patri A, Annunziata MC, Cantelli M, Nappa P, Tasso M, Costa L, Caso F, Fabbrocini G. Journal
-Pre-proof Can hydroxychloroquine be useful in the prevention of COVID-19? An Italian survey in
-dermatological and rheumatological patients already under treatment. J Am Acad Dermato!. 2020.
-doi:10.1016/ jaad.2020.04.136.
-
-Monti S, Balduzzi S, Delvino P, Bellis E, Quadrelli VS, Montecucco C. Clinical course of COVID-19 in a series
-of patients with chronic arthritis treated with immunosuppressive targeted therapies. Ann Rheum Dis.
-2020;79(5):667-668. doi:10.1136/annrheumdis-2020-217424.
-
-Konig MF, Kim AH, Scheetz MH, Graef ER, Liew JW, Simard J, Machado PM, Gianfrancesco M, Yazdany J,
-Langguth D, Robinson PC. Baseline use of hydroxychloroquine in systemic lupus erythematosus does not
-preclude SARS-CoV-2 infection and severe COVID-19. Ann Rheum Dis. May 2020.
-doi:10.1136/ANNRHEUMDIS-2020-217690.
-
-Chen Z, Hu J, Zhang Z, Jiang S, Han S, Yan D, Zhuang R, Hu B, Zhang Z. Efficacy of hydroxychloroquine in
-patients with COVID-19: results of a randomized clinical trial. medRxiv. April 2020:2020.03.22.20040758.
-doi:10.1101/2020.03.22.20040758.
-
-Carlucci PM, Ahuja T, Petrilli C, Rajagopalan H, Jones S, Rahimian J, Org JR. Hydroxychloroquine and
-azithromycin plus zinc vs hydroxychloroquine and azithromycin alone: outcomes in hospitalized COVID-19
-patients, doi:10.1101/2020.05.02.20080036.
-
-Huang M, LiM, Xiao F, Liang J, Pang P, Tang T, Liu S, Chen B, Shu J, You Y, Li Y, Tang M, Zhou J, Jiang G,
-Xiang J, Hong W, He S, Wang Z, Feng J, Lin C, Ye Y, Wu Z, Li Y, Zhong B, Sun R, Hong Z, Liu J, Chen H,
-Wang X, Li Z, Pei D, Tian L, Xia J, Jiang S, Zhong N, Shan H. Preliminary evidence from a multicenter
-prospective observational study of the safety and efficacy of chloroquine for the treatment of COVID-19.
-medRxiv. May 2020:2020.04.26.20081059. doi:10.1101/2020.04.26.20081059.
-
-Yu B, Wang DW, Li C. Hydroxychloroquine application is associated with a decreased mortality in critically ill
-patients with COVID-19. medRxiv. May 2020:2020.04.27.20073379. doi:10.1101/2020.04.27.20073379.
-
-Davido B, Lansaman T, Bessis S, Lawrence C, Alvarez J-C, Mascitti H, Bouchand F, Moine P, Perronne V,
-Gal A Le, Annane D, Perronne C, Truchis P De, Team C-19 R. Hydroxychloroquine plus azithromycin: a
-potential interest in reducing in-hospital morbidity due to COVID-19 pneumonia (HI-ZY-COVID)? medRxiv.
-May 2020:2020.05.05.20088757. doi:10.1101/2020.05.05.20088757.
-
-Barbosa Esper R, Souza da Silva R, Teiichi Costa Oikawa F, Machado Castro M, Razuk-Filho A, Benedito
-Batista Junior P, Wilhelm Lotze S, Nunes da Rocha C, de Sá Cunha Filho R, Emanuel Barbosa de Oliveira S,
-Leitão Ribeiro P, Cristina Vigar Martins V, Silva Braga Bueno F, Ligeiro Gonçalves Esper P, Fagundes
-Parrillo E. Empirica! Treatment with Hydroxychloroquine and Azithromycin for Suspected Cases of COVID-19
-Followed-up by Telemedicine.
-
-Novales FJM de, Ramírez-Olivencia G, Estébanez M, Dios B de, Herrero MD, Mata T, Borobia AM, Gutiérrez
-C, Simón M, Ochoa A, Martínez Y, Aguirre A, Alcântara F de A, Fernández-González P, López E, Campos S,
-Navarro M, Ballester LE. Early Hydroxychloroquine Is Associated with an Increase of Survival in COVID-19
-Patients: An Observational Study. May 2020. doi:10.20944/PREPRINTS202005.0057.V1.
-52.
-
-53,
-
-4.
-
-55.
-
-56.
-
-57.
-
-58.
-
-59,
-
-60.
-
-61.
-
-62.
-
-63.
-
-patients with severe COVID-19 infection. Med Mal Infect. 2020. doi:10.1016/j.medmal.2020.03.006.
-
-CHEN, LIU D, LIUL, LIU P, XU Q, XIA L, LING Y, HUANG D, SONG S, ZHANG D, QIAN Z, LIT, SHENY,
-LU H. A pilot study of hydroxychloroquine in treatment of patients with common coronavirus disease-19
-(COVID-19). J Zhejiang Univ (Med Sci). 2020;49(February):1-10. doi:10.3785/j.issn.1008-9292.2020.03.03.
-
-Chorin E, Dai M, Shulman E, Wadhwani L, Bar-Cohen R, Barbhaiya C, Aizer A, Holmes D, Bernstein S,
-Spinelli M, Park DS, Chinitz LA, Jankelson L, The QT interval in patients with COVID-19 treated with
-hydroxychioroquine and azithromycin. Nat Med. April 2020:1-2. doi:10.1038/s41591-020-0888-2.
-
-Borba MGS, Val FFA, Sampaio VS, Alexandre MAA, Melo GC, Brito M, Mourão MPG, Brito-Sousa JD, Baía-
-da-Silva D, Guerra MVF, Hajjar LA, Pinto RC, Balieiro AAS, Pacheco AGF, Santos JDO, Naveca FG, Xavier
-MS, Siqueira AM, Schwarzbold A, Croda J, Nogueira ML, Romero GAS, Bassat Q, Fontes CJ, Albuquerque
-Bc, Daniel-Ribeiro C-T, Monteiro WM, Lacerda MVG, CloroCovid-19 Team. Effect of High vs Low Doses of
-Chloroquine Diphosphate as Adjunctive Therapy for Patients Hospitalized With Severe Acute Respiratory
-Syndrome Coronavirus 2 (SARS-CoV-2) Infection: A Randomized Clinical Trial. JAMA Netw open.
-2020;3(4.23):e208857.
-
-Karasic TB, O'Hara MH, Loaiza-Bonilla A, Reiss KA, Teitelbaum UR, Borazanci E, De Jesus-Acosta A,
-Redlinger C, Burrell JA, Laheru DA, Von Hoff DD, Amaravadi RK, Drebin JA, O'Dwyer PJ. Effect of
-Gemcitabine and nab-Paclitaxel with or Without Hydroxychloroquine on Patients with Advanced Pancreatic
-Cancer: A Phase 2 Randomized Clinical Trial. JAMA Oncol. 2019;5(7):993-998.
-doi:10,1001/jamaoncol.2019.0684.
-
-Rangwala R, Leone R, Chang YC, Fecher LA, Schuchter LM, Kramer A, Tan KS, Heitjan DF, Rodgers G,
-Gallagher M, Piao S, Troxel AB, Evans TL, DeMichele AM, Nathanson KL, O'Dwyer PJ, Kaiser J, Pontiggia L,
-Davis LE, Amaravadi RK. Phase | trial of hydroxychloroquine with dose-intense temozolomide in patients with
-advanced solid tumors and melanoma. Autophagy. 2014;10(8):1369-1379. doi:10,4161/auto.29118,
-
-Nti AA, Serrano LW, Sandhu HS, Uyhazi KE, Edelstein ID, Zhou EJ, Bowman S, Song D, Gangadhar TC,
-Schuchter LM, Mitnick S, Huang A, Nichols CW, Amaravadi RK, Kim BJ, Aleman TS. Frequent subclinical
-macular changes in combined braf/mek inhibition with high-dose hydroxychloroquine as treatment for
-advanced metastatic braf mutant melanoma: Preliminary Results from a Phase 1/II Clinical Treatment Trial.
-Retina. 2019;39(3):502-513. doi:10.1097/14E.0000000000002027.
-
-Geleris J, Sun Y, Platt J, Zucker J, Baldwin M, Hripcsak G, Labella A, Manson D, Kubin C, Barr RG,
-Sobieszczyk ME, Schluger NW. Observational Study of Hydroxychloroquine in Hospitalized Patients with
-Covid-19. N Eng! 3 Med. May 2020. doi:10.1056/NEJMoa2012410.
-
-Rosenberg ES, Dufort EM, Udo T, Wilberschied LA, Kumar J, Tesoriero J, Weinberg P, Kirkwood J, Muse A,
-DeHovitz J, Blog DS, Hutton B, Holtgrave DR, Zucker HA. Association of Treatment With Hydroxychloroquine
-or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State. JAMA. May 2020.
-doi:10.1001/jama.2020.8630.
-
-Mahévas M, Tran V-T, Roumier M, Chabrol A, Paule R, Guillaud C, Fois E, Lepeule R, Szwebel T-A, Lescure
-F-X, Schlemmer F, Matignon M, Khellaf M, Crickx E, Terrier B, Morbieu €, Legendre P, Dang J, Schoindre Y,
-Pawlotsky J-M, Michel M, Perrodeau E, Carlier N, Roche N, de Lastours V, Ourghanlian C, Kerneis S,
-Ménager P, Mouthon L, Audureau E, Ravaud P, Godeau B, Gallien S, Costedoat-Chalumeau N. Clinical
-efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational
-comparative study using routine care data. BMJ. 2020;369:m1844, doi:10.1136/bmj.m1844,
-
-Tang W, Cao Z, Han M, Wang Z, Chen J, Sun W, Wu Y, Xiao W, Liu S, Chen E, Chen W, Wang X, Yang J,
-Lin J, Zhao Q, Yan Y, Xie Z, LiD, Yang Y, Liu L, Qu J, Ning G, Shi G, Xie Q. Hydroxychloroquine in patients
-with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial. BMJ.
-2020;369:m1849. doi:10.1136/bmj.m1849.
-
-Gautret P, Lagier JC, Parola P, Hoang VT, Meddeb L, Sevestre J, Mailhe M, Doudier B, Aubry C, Amrane S,
-Seng P, Hocquart M, Eldin C, Finance J, Vieira VE, Tissot-Dupont HT, Honoré S, Stein A, Million M, Colson
-P, La Scola B, Veit V, Jacquier A, Deharo JC, Drancourt M, Fournier PE, Rolain JM, Brouqui P, Raoult D.
-Clinical and microbiological effect of a combination of hydroxychloroquine and azithromycin in 80 COVID-19
-patients with at least a six-day follow up: A pilot observational study. Travel Med Infect Dis. March 2020.
-doi:10.1016/j.tmaid.2020.101603.
-
-Million M, Lagier J-C, Gautret P, Colson P, Fournier P-E, Amrane S, Hocquart M, Mailhe M, Esteves-Vieira V,
-Doudier B, Aubry €, Correard F, Giraud-Gatineau A, Roussel Y, Berenger C, Cassir N, Seng P, Zandotti C,
-Dhiver C, Ravaux |, Tomei C, Eldin C, Tissot-Dupont H, Honoré S, Stein A, Jacquier A, Deharo J-C,
-Chabrigre E, Levasseur A, Fenollar F, Rolain J-M, Obadia Y, Brouqui P, Drancourt M, La Scola B, Parola P,
-36.
-
-37,
-
-38.
-
-39.
-
-40.
-
-41.
-
-42.
-
-43.
-
-44.
-
-45,
-
-46.
-
-47.
-
-48.
-
-49,
-
-50.
-
-51.
-
-Other Respi Viruses. 2007;1(5-6):189-192. doi:10.1111/.1750-2659.2007.00027 x.
-
-Maheshwari RK, Srikantan V, Bhartiya D. Chloroquine enhances replication of Semliki Forest virus and
-encephalomyocarditis virus in mice. J Virol. 1991;65(2):992-995. doi:10.1128/jvi.65.2.992-995.1991.
-
-Roques P, Thiberville S-D, Dupuis-Maguiraga L, Lum F-M, Labadie K, Martinon F, Gras G, Lebon P, Ng L, de
-Lamballerie X, Le Grand R, Paradoxical Effect of Chloroquine Treatment in Enhancing Chikungunya Virus
-Infection. Viruses. 2018;10(5):268. doi:10.3390//10050268.
-
-De Lamballerie X, Boisson V, Reynier JC, Enault S, Charrel RN, Flahault A, Roques P, Grand R Le. On
-chikungunya acute infection and chloroquine treatment. Vector-Borne Zoonotic Dis. 2008;8(6):837-839.
-doi:10.1089/vbz.2008.0049.
-
-Chauhan A, Tikoo A. The enigma of the clandestine association between chloroquine and HIV-1 infection.
-HIV Med. 2015/18(10):585-590. doi:10,1111/hiv. 12295.
-
-Paton NI, Aboulhab J. Hydroxychloroquine, hydroxyurea and didanosine as initial therapy for HIV-infected
-patients with low viral load: Safety, efficacy and resistance profile after 144 weeks. HIV Med. 2005;6(1):13-20.
-doi:10.1111/.1468-1293.2005.00259.x.
-
-Lori F, Foli A, Groff A, Lova L, Whitman L, Bakare N, Pollard RB, Lisziewicz J. Optimal suppression of HIV
-replication by low-dose hydroxyurea through the combination of antiviral and cytostatic ('virostatic')
-mechanisms. AIDS. 2005,19(11):1173-1181. doi:10,1097/01 .aids.0000176217.02743.d1.
-
-Sperber K, Louie M, Kraus T, Proner J, Sapira E, Lin S, Stecher V, Mayer L, Hydroxychloroquine treatment of
-patients with human immunodeficiency virus type 1. Clin Ther. 1995;17(4):622-636. doi:10.1016/0149-
-2918(95)80039-5.
-
-Paxton WA, Naarding MA, Wit FWW, Veldhuijzen NJ, Chersich MF, Kankindi BK, Douma RDA, Tuyizere S,
-
-Jurriaans S, Sparidans RW, Beijnen JH, Pollakis G, Boelaert JR, Lange JM, Vyankandondera J, Luchters S,
-Chloroquine Administration in Breastfeeding Mothers Associates with Increased HIV-1 Plasma Viral Loads,
-
-medkxiv. May 2020:2020.04.29.20085308. doi:10.1101/2020.04.29.20085308.
-
-De Almeida PRL, Tovo CV, Rigo JO, Zanin P, Alves AV, De Mattos AA. Interferon convencional versus
-interferon peguilado associados à ribavirina no tratamento de pacientes coinfectados pelo vírus da hepatite C
-(genótipo 1) e da imunodeficiência humana. Arq Gastroenterol. 2009;46(2):132-137. doi:10.1590/S0004-
-28032009000200011.
-
-Helal GK, Gad MA, Abd-Ellah MF, Eid MS. Hydroxychloroquine augments early virological response to
-pegylated interferon plus ribavirin in genotype-4 chronic hepatitis C patients. J Med Virol. 2016;88(12):2170-
-2178. doi:10.1002/jmv.24575.
-
-Peymani P, Yeganeh B, Sabour S, Geramizadeh B, Fattahi MR, Keyvani H, Azarpira N, Coombs KM,
-Ghavami S, Lankarani KB. New use of an old drug: chloroquine reduces viral and ALT levels in HCV non-
-responders (a randomized, triple-blind, placebo-controlled pilot trial). Can J Physiol Pharmacol.
-2016;94(6):613-619, doi:10.1139/cjpp-2015-0507.
-
-Chatre C, Roubille F, Vernhet H, Jorgensen C, Pers YM, Cardiac Complications Attributed to Chloroquine
-and Hydroxychloroquine: A Systematic Review of the Literature, Drug Saf. 2018;41(10):919-931,
-doi:10.1007/540264-018-0689-4.
-
-Gao J, Tian Z, Yang X. Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of
-COVID-19 associated pneumonia in clinical studies. Biosci Trends. February 2020.
-
-doi:10.5582/bst.2020.01047.
-
-Gautret P, Lagier J-C, Parola P, Hoang VT, Meddeb L, Mailhe M, Doudier B, Courjon J, Giordanengo V,
-Vieira VE, Dupont T, Honoré S, Colson P, Chabriêre E, Scola B La, Rolain J-M, Brouqui P, Raoult D.
-Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized
-clinical trial. Int J Antimicrob Agents. 2020. doi:10.1016/).ijantimicag.2020.105949.
-
-Hulme OJ, Wagenmakers E-J, Damkier P, Madelung CF, Siebner HR, Helweg-Larsen J, Gronau Q, Benfield
-TL, Madsen KH. Reply to Gautret et al. 2020: A Bayesian reanalysis of the effects of hydroxychloroquine and
-azithromycin on viral carriage in patients with COVID-19. medfRxiv. April 2020:2020.03.31.20048777.
-doi:10.1101/2020.03.31.20048777.
-
-Molina JM, Delaugerre C, Le Goff J, Mela-Lima B, Ponscarme D, Goldwirt L, de Castro N. No evidence of
-rapid antiviral clearance or clinical benefit with the combination of hydroxychloroquine and azithromycin in
 18.
 
 19.
@@ -913,57 +687,283 @@ CC, Wang L-F. Chloroquine Administration Does Not Prevent Nipah Virus Infection 
 Virol. 2009;83(22):11979-11982. doi:10.1128/jvi.01847-09.
 
 Vigerust DJ, McCullers JA. Chloroquine is effective against influenza A virus in vitro but not in vivo, Influenza
-Nota sobre o uso da cloroquina / hidroxicloroquina para o tratamento da COVID-19
+36.
 
-Uma das razões para o impressionante impacto da pandemia da COVID-19 na saúde
-mundial é a inexistência, até o presente momento, de vacinas ou antivirais específicos
-aprovados para prevenir ou tratar a enfermidade, cuja letalidade real ainda nos é incerta,
-pois depende grandemente da disponibilidade de testagem ampla e da qualidade do serviço
-de saúde.
+37,
 
-Diante das enormes dificuldades para se desenvolver, em período curto, fármacos e
-vacinas específicas para tratá-la e preveni-la, a atenção se volta para fármacos já existentes
-e com segurança atestada pelo largo uso. Alguns estudos demonstraram que fármacos já
-usados para outras doenças têm atividade in vitro contra o SARS-CoV-2, agente etiológico
-da Covid-19. Os estudos foram feitos em laboratório em culturas de células (células
-genéricas do tipo Vero, obtidas a partir do rim de macacos), em ambiente que não
-corresponde ao que ocorre no organismo humano. Isso aconteceu com a cloroquina (CQ)
-e a hidroxicloroquina (HCQ), fármacos amplamente utilizados, de baixo custo, com registro
-em todos os países, e cujo reposicionamento no uso para outras doenças prescindiria de
-estudos iniciais de segurança de fase |, realizado em pessoas sadias!-*.
+38.
 
-Maisonasse et aí.º realizaram o primeiro estudo de HCQ para SARS CoV-2, combinada ou
-não com azitromicina, em células do trato respiratório e em modelo animal (utilizando
-camundongos transgênicos e primatas não humanos). Esses autores confirmaram o efeito
-antiviral da HCQ em células genéricas do tipo Vero. Contudo, ao avaliar a ação da HCQ
-em células do trato respiratório humano, o mesmo efeito não foi encontrado. Os autores
-também testaram a ação do fármaco isolado ou em combinação com azitromicina, em todas
-as fases do COVID-19 em animais (fase profilática, fase inicial, fase intermediária, e fase
-grave) e não observaram redução da carga viral, dos sintomas nem do comprometimento
-pulmonar em nenhum caso, concluindo que testes em humanos com COVID-19 seriam
+39.
 
-dispensáveis.
+40.
 
-A falta de atividade in vitro da HCQ em células do trato respiratório humano? é explicada
-pela necessidade de receptores específicos para entrada dos vírus na célula. Esses
-receptores não são encontrados em células genéricas do tipo Vero, nas quais a atividade
-inibitória de HCQ havia inicialmente sido demonstrada. Hoffmann e colaboradores”
-confirmaram que a entrada do SARS-CoV2 nas células respiratórias ocorre através de
-mecanismo distinto daquele que é inibido pela HCQ.
+41.
 
-Inúmeros estudos demostraram que a CQ é capaz de inibir, in vitro, a replicação dos vírus
-da raiva, da poliomielite, das hepatites A e C, influenza A e B, enterovírus EV-AT1,
-Chikungunya (CHIKV), dengue, zika, vírus de Lassa, Hendra e Nipanh, da febre hemorrágica
-da Crimeia-Congo, vírus Ebola, imunodeficiência humana (HIV), coronavírus da síndrome
-respiratória aguda grave (SARS-CoV) e vírus herpes simplex %%º, Em geral, são
-necessárias doses mais elevadas do que as utilizadas para o tratamento da malária,
-indicação tradicional para o uso da CQ. No entanto, nenhum estudo in vivo confirmou a
-eficácia da CQ para o tratamento de qualquer uma dessas viroses, motivo pelo qual ela
-permanece utilizada, com a eficácia e segurança, apenas para o tratamento da malária,
-principalmente por Plasmodium vivax, uma das mais importantes espécies causadoras da
-doença no homem.
+42.
 
-A CQ não impediu a infecção por influenza em ensaios clínicos randomizados?!32 nem
-apresentou atividade contra os vírus ebola, CHIKV, influenza e Nipah em modelos
-animais:3-37, Em um modelo de infecção por CHIKV em primatas não-humanos, o
+43.
+
+44.
+
+45,
+
+46.
+
+47.
+
+48.
+
+49,
+
+50.
+
+51.
+
+Other Respi Viruses. 2007;1(5-6):189-192. doi:10.1111/.1750-2659.2007.00027 x.
+
+Maheshwari RK, Srikantan V, Bhartiya D. Chloroquine enhances replication of Semliki Forest virus and
+encephalomyocarditis virus in mice. J Virol. 1991;65(2):992-995. doi:10.1128/jvi.65.2.992-995.1991.
+
+Roques P, Thiberville S-D, Dupuis-Maguiraga L, Lum F-M, Labadie K, Martinon F, Gras G, Lebon P, Ng L, de
+Lamballerie X, Le Grand R, Paradoxical Effect of Chloroquine Treatment in Enhancing Chikungunya Virus
+Infection. Viruses. 2018;10(5):268. doi:10.3390//10050268.
+
+De Lamballerie X, Boisson V, Reynier JC, Enault S, Charrel RN, Flahault A, Roques P, Grand R Le. On
+chikungunya acute infection and chloroquine treatment. Vector-Borne Zoonotic Dis. 2008;8(6):837-839.
+doi:10.1089/vbz.2008.0049.
+
+Chauhan A, Tikoo A. The enigma of the clandestine association between chloroquine and HIV-1 infection.
+HIV Med. 2015/18(10):585-590. doi:10,1111/hiv. 12295.
+
+Paton NI, Aboulhab J. Hydroxychloroquine, hydroxyurea and didanosine as initial therapy for HIV-infected
+patients with low viral load: Safety, efficacy and resistance profile after 144 weeks. HIV Med. 2005;6(1):13-20.
+doi:10.1111/.1468-1293.2005.00259.x.
+
+Lori F, Foli A, Groff A, Lova L, Whitman L, Bakare N, Pollard RB, Lisziewicz J. Optimal suppression of HIV
+replication by low-dose hydroxyurea through the combination of antiviral and cytostatic ('virostatic')
+mechanisms. AIDS. 2005,19(11):1173-1181. doi:10,1097/01 .aids.0000176217.02743.d1.
+
+Sperber K, Louie M, Kraus T, Proner J, Sapira E, Lin S, Stecher V, Mayer L, Hydroxychloroquine treatment of
+patients with human immunodeficiency virus type 1. Clin Ther. 1995;17(4):622-636. doi:10.1016/0149-
+2918(95)80039-5.
+
+Paxton WA, Naarding MA, Wit FWW, Veldhuijzen NJ, Chersich MF, Kankindi BK, Douma RDA, Tuyizere S,
+
+Jurriaans S, Sparidans RW, Beijnen JH, Pollakis G, Boelaert JR, Lange JM, Vyankandondera J, Luchters S,
+Chloroquine Administration in Breastfeeding Mothers Associates with Increased HIV-1 Plasma Viral Loads,
+
+medkxiv. May 2020:2020.04.29.20085308. doi:10.1101/2020.04.29.20085308.
+
+De Almeida PRL, Tovo CV, Rigo JO, Zanin P, Alves AV, De Mattos AA. Interferon convencional versus
+interferon peguilado associados à ribavirina no tratamento de pacientes coinfectados pelo vírus da hepatite C
+(genótipo 1) e da imunodeficiência humana. Arq Gastroenterol. 2009;46(2):132-137. doi:10.1590/S0004-
+28032009000200011.
+
+Helal GK, Gad MA, Abd-Ellah MF, Eid MS. Hydroxychloroquine augments early virological response to
+pegylated interferon plus ribavirin in genotype-4 chronic hepatitis C patients. J Med Virol. 2016;88(12):2170-
+2178. doi:10.1002/jmv.24575.
+
+Peymani P, Yeganeh B, Sabour S, Geramizadeh B, Fattahi MR, Keyvani H, Azarpira N, Coombs KM,
+Ghavami S, Lankarani KB. New use of an old drug: chloroquine reduces viral and ALT levels in HCV non-
+responders (a randomized, triple-blind, placebo-controlled pilot trial). Can J Physiol Pharmacol.
+2016;94(6):613-619, doi:10.1139/cjpp-2015-0507.
+
+Chatre C, Roubille F, Vernhet H, Jorgensen C, Pers YM, Cardiac Complications Attributed to Chloroquine
+and Hydroxychloroquine: A Systematic Review of the Literature, Drug Saf. 2018;41(10):919-931,
+doi:10.1007/540264-018-0689-4.
+
+Gao J, Tian Z, Yang X. Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of
+COVID-19 associated pneumonia in clinical studies. Biosci Trends. February 2020.
+
+doi:10.5582/bst.2020.01047.
+
+Gautret P, Lagier J-C, Parola P, Hoang VT, Meddeb L, Mailhe M, Doudier B, Courjon J, Giordanengo V,
+Vieira VE, Dupont T, Honoré S, Colson P, Chabriêre E, Scola B La, Rolain J-M, Brouqui P, Raoult D.
+Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized
+clinical trial. Int J Antimicrob Agents. 2020. doi:10.1016/).ijantimicag.2020.105949.
+
+Hulme OJ, Wagenmakers E-J, Damkier P, Madelung CF, Siebner HR, Helweg-Larsen J, Gronau Q, Benfield
+TL, Madsen KH. Reply to Gautret et al. 2020: A Bayesian reanalysis of the effects of hydroxychloroquine and
+azithromycin on viral carriage in patients with COVID-19. medfRxiv. April 2020:2020.03.31.20048777.
+doi:10.1101/2020.03.31.20048777.
+
+Molina JM, Delaugerre C, Le Goff J, Mela-Lima B, Ponscarme D, Goldwirt L, de Castro N. No evidence of
+rapid antiviral clearance or clinical benefit with the combination of hydroxychloroquine and azithromycin in
+52.
+
+53,
+
+4.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59,
+
+60.
+
+61.
+
+62.
+
+63.
+
+patients with severe COVID-19 infection. Med Mal Infect. 2020. doi:10.1016/j.medmal.2020.03.006.
+
+CHEN, LIU D, LIUL, LIU P, XU Q, XIA L, LING Y, HUANG D, SONG S, ZHANG D, QIAN Z, LIT, SHENY,
+LU H. A pilot study of hydroxychloroquine in treatment of patients with common coronavirus disease-19
+(COVID-19). J Zhejiang Univ (Med Sci). 2020;49(February):1-10. doi:10.3785/j.issn.1008-9292.2020.03.03.
+
+Chorin E, Dai M, Shulman E, Wadhwani L, Bar-Cohen R, Barbhaiya C, Aizer A, Holmes D, Bernstein S,
+Spinelli M, Park DS, Chinitz LA, Jankelson L, The QT interval in patients with COVID-19 treated with
+hydroxychioroquine and azithromycin. Nat Med. April 2020:1-2. doi:10.1038/s41591-020-0888-2.
+
+Borba MGS, Val FFA, Sampaio VS, Alexandre MAA, Melo GC, Brito M, Mourão MPG, Brito-Sousa JD, Baía-
+da-Silva D, Guerra MVF, Hajjar LA, Pinto RC, Balieiro AAS, Pacheco AGF, Santos JDO, Naveca FG, Xavier
+MS, Siqueira AM, Schwarzbold A, Croda J, Nogueira ML, Romero GAS, Bassat Q, Fontes CJ, Albuquerque
+Bc, Daniel-Ribeiro C-T, Monteiro WM, Lacerda MVG, CloroCovid-19 Team. Effect of High vs Low Doses of
+Chloroquine Diphosphate as Adjunctive Therapy for Patients Hospitalized With Severe Acute Respiratory
+Syndrome Coronavirus 2 (SARS-CoV-2) Infection: A Randomized Clinical Trial. JAMA Netw open.
+2020;3(4.23):e208857.
+
+Karasic TB, O'Hara MH, Loaiza-Bonilla A, Reiss KA, Teitelbaum UR, Borazanci E, De Jesus-Acosta A,
+Redlinger C, Burrell JA, Laheru DA, Von Hoff DD, Amaravadi RK, Drebin JA, O'Dwyer PJ. Effect of
+Gemcitabine and nab-Paclitaxel with or Without Hydroxychloroquine on Patients with Advanced Pancreatic
+Cancer: A Phase 2 Randomized Clinical Trial. JAMA Oncol. 2019;5(7):993-998.
+doi:10,1001/jamaoncol.2019.0684.
+
+Rangwala R, Leone R, Chang YC, Fecher LA, Schuchter LM, Kramer A, Tan KS, Heitjan DF, Rodgers G,
+Gallagher M, Piao S, Troxel AB, Evans TL, DeMichele AM, Nathanson KL, O'Dwyer PJ, Kaiser J, Pontiggia L,
+Davis LE, Amaravadi RK. Phase | trial of hydroxychloroquine with dose-intense temozolomide in patients with
+advanced solid tumors and melanoma. Autophagy. 2014;10(8):1369-1379. doi:10,4161/auto.29118,
+
+Nti AA, Serrano LW, Sandhu HS, Uyhazi KE, Edelstein ID, Zhou EJ, Bowman S, Song D, Gangadhar TC,
+Schuchter LM, Mitnick S, Huang A, Nichols CW, Amaravadi RK, Kim BJ, Aleman TS. Frequent subclinical
+macular changes in combined braf/mek inhibition with high-dose hydroxychloroquine as treatment for
+advanced metastatic braf mutant melanoma: Preliminary Results from a Phase 1/II Clinical Treatment Trial.
+Retina. 2019;39(3):502-513. doi:10.1097/14E.0000000000002027.
+
+Geleris J, Sun Y, Platt J, Zucker J, Baldwin M, Hripcsak G, Labella A, Manson D, Kubin C, Barr RG,
+Sobieszczyk ME, Schluger NW. Observational Study of Hydroxychloroquine in Hospitalized Patients with
+Covid-19. N Eng! 3 Med. May 2020. doi:10.1056/NEJMoa2012410.
+
+Rosenberg ES, Dufort EM, Udo T, Wilberschied LA, Kumar J, Tesoriero J, Weinberg P, Kirkwood J, Muse A,
+DeHovitz J, Blog DS, Hutton B, Holtgrave DR, Zucker HA. Association of Treatment With Hydroxychloroquine
+or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State. JAMA. May 2020.
+doi:10.1001/jama.2020.8630.
+
+Mahévas M, Tran V-T, Roumier M, Chabrol A, Paule R, Guillaud C, Fois E, Lepeule R, Szwebel T-A, Lescure
+F-X, Schlemmer F, Matignon M, Khellaf M, Crickx E, Terrier B, Morbieu €, Legendre P, Dang J, Schoindre Y,
+Pawlotsky J-M, Michel M, Perrodeau E, Carlier N, Roche N, de Lastours V, Ourghanlian C, Kerneis S,
+Ménager P, Mouthon L, Audureau E, Ravaud P, Godeau B, Gallien S, Costedoat-Chalumeau N. Clinical
+efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational
+comparative study using routine care data. BMJ. 2020;369:m1844, doi:10.1136/bmj.m1844,
+
+Tang W, Cao Z, Han M, Wang Z, Chen J, Sun W, Wu Y, Xiao W, Liu S, Chen E, Chen W, Wang X, Yang J,
+Lin J, Zhao Q, Yan Y, Xie Z, LiD, Yang Y, Liu L, Qu J, Ning G, Shi G, Xie Q. Hydroxychloroquine in patients
+with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial. BMJ.
+2020;369:m1849. doi:10.1136/bmj.m1849.
+
+Gautret P, Lagier JC, Parola P, Hoang VT, Meddeb L, Sevestre J, Mailhe M, Doudier B, Aubry C, Amrane S,
+Seng P, Hocquart M, Eldin C, Finance J, Vieira VE, Tissot-Dupont HT, Honoré S, Stein A, Million M, Colson
+P, La Scola B, Veit V, Jacquier A, Deharo JC, Drancourt M, Fournier PE, Rolain JM, Brouqui P, Raoult D.
+Clinical and microbiological effect of a combination of hydroxychloroquine and azithromycin in 80 COVID-19
+patients with at least a six-day follow up: A pilot observational study. Travel Med Infect Dis. March 2020.
+doi:10.1016/j.tmaid.2020.101603.
+
+Million M, Lagier J-C, Gautret P, Colson P, Fournier P-E, Amrane S, Hocquart M, Mailhe M, Esteves-Vieira V,
+Doudier B, Aubry €, Correard F, Giraud-Gatineau A, Roussel Y, Berenger C, Cassir N, Seng P, Zandotti C,
+Dhiver C, Ravaux |, Tomei C, Eldin C, Tissot-Dupont H, Honoré S, Stein A, Jacquier A, Deharo J-C,
+Chabrigre E, Levasseur A, Fenollar F, Rolain J-M, Obadia Y, Brouqui P, Drancourt M, La Scola B, Parola P,
+64,
+
+65.
+
+66.
+
+67.
+
+68.
+
+9.
+
+To.
+
+71.
+
+72,
+
+73.
+
+7a.
+
+75.
+
+Raoult D. Full-length title: Early treatment of COVID-19 patients with hydroxychloroquine and azithromycin: A
+retrospective analysis of 1061 cases in Marseille, France. Travel Med Infect Dis. May 2020:101738.
+doi:10.1016/.tmaid.2020.101738.
+
+Gendelman O, Amital H, Bragazzi NL, Watad A, Chodick G. Continuous hydroxychloroquine or colchicine
+therapy does not prevent infection with SARS-CoV-2: Insights from a large healthcare database analysis.
+Autoimmun Rev. May 2020:102566. doi:10.1016/) autrev.2020.102566.
+
+Mathian A, Mahevas M, Rohmer J, Roumier M, Cohen-Aubart F, Amador-Borrero B, Barrelet A, Chauvet C,
+Chazal T, Delahousse M, Devaux M, Euvrard R, Fadlallah J, Florens N, Haroche J, Hié M, Juillard L, Lhote R,
+Maillet T, Richard-Colmant G, Palluy JB, Pha M, Perard L, Remy P, Rivigre E, Sêne D, Sêve P, Morélot-
+Panzini C, Viallard J-F, Virot J-S, Benameur N, Zahr N, Yssel H, Godeau B, Amoura Z. Clinical course of
+coronavirus disease 2019 (COVID-19) in a series of 17 patients with systemic lupus erythematosus under
+long-term treatment with hydroxychloroquine. Ann Rheum Dis. April 2020. doi:10.1136/annrheumdis-2020-
+217566.
+
+Vastarella M, Patri A, Annunziata MC, Cantelli M, Nappa P, Tasso M, Costa L, Caso F, Fabbrocini G. Journal
+Pre-proof Can hydroxychloroquine be useful in the prevention of COVID-19? An Italian survey in
+dermatological and rheumatological patients already under treatment. J Am Acad Dermato!. 2020.
+doi:10.1016/ jaad.2020.04.136.
+
+Monti S, Balduzzi S, Delvino P, Bellis E, Quadrelli VS, Montecucco C. Clinical course of COVID-19 in a series
+of patients with chronic arthritis treated with immunosuppressive targeted therapies. Ann Rheum Dis.
+2020;79(5):667-668. doi:10.1136/annrheumdis-2020-217424.
+
+Konig MF, Kim AH, Scheetz MH, Graef ER, Liew JW, Simard J, Machado PM, Gianfrancesco M, Yazdany J,
+Langguth D, Robinson PC. Baseline use of hydroxychloroquine in systemic lupus erythematosus does not
+preclude SARS-CoV-2 infection and severe COVID-19. Ann Rheum Dis. May 2020.
+doi:10.1136/ANNRHEUMDIS-2020-217690.
+
+Chen Z, Hu J, Zhang Z, Jiang S, Han S, Yan D, Zhuang R, Hu B, Zhang Z. Efficacy of hydroxychloroquine in
+patients with COVID-19: results of a randomized clinical trial. medRxiv. April 2020:2020.03.22.20040758.
+doi:10.1101/2020.03.22.20040758.
+
+Carlucci PM, Ahuja T, Petrilli C, Rajagopalan H, Jones S, Rahimian J, Org JR. Hydroxychloroquine and
+azithromycin plus zinc vs hydroxychloroquine and azithromycin alone: outcomes in hospitalized COVID-19
+patients, doi:10.1101/2020.05.02.20080036.
+
+Huang M, LiM, Xiao F, Liang J, Pang P, Tang T, Liu S, Chen B, Shu J, You Y, Li Y, Tang M, Zhou J, Jiang G,
+Xiang J, Hong W, He S, Wang Z, Feng J, Lin C, Ye Y, Wu Z, Li Y, Zhong B, Sun R, Hong Z, Liu J, Chen H,
+Wang X, Li Z, Pei D, Tian L, Xia J, Jiang S, Zhong N, Shan H. Preliminary evidence from a multicenter
+prospective observational study of the safety and efficacy of chloroquine for the treatment of COVID-19.
+medRxiv. May 2020:2020.04.26.20081059. doi:10.1101/2020.04.26.20081059.
+
+Yu B, Wang DW, Li C. Hydroxychloroquine application is associated with a decreased mortality in critically ill
+patients with COVID-19. medRxiv. May 2020:2020.04.27.20073379. doi:10.1101/2020.04.27.20073379.
+
+Davido B, Lansaman T, Bessis S, Lawrence C, Alvarez J-C, Mascitti H, Bouchand F, Moine P, Perronne V,
+Gal A Le, Annane D, Perronne C, Truchis P De, Team C-19 R. Hydroxychloroquine plus azithromycin: a
+potential interest in reducing in-hospital morbidity due to COVID-19 pneumonia (HI-ZY-COVID)? medRxiv.
+May 2020:2020.05.05.20088757. doi:10.1101/2020.05.05.20088757.
+
+Barbosa Esper R, Souza da Silva R, Teiichi Costa Oikawa F, Machado Castro M, Razuk-Filho A, Benedito
+Batista Junior P, Wilhelm Lotze S, Nunes da Rocha C, de Sá Cunha Filho R, Emanuel Barbosa de Oliveira S,
+Leitão Ribeiro P, Cristina Vigar Martins V, Silva Braga Bueno F, Ligeiro Gonçalves Esper P, Fagundes
+Parrillo E. Empirica! Treatment with Hydroxychloroquine and Azithromycin for Suspected Cases of COVID-19
+Followed-up by Telemedicine.
+
+Novales FJM de, Ramírez-Olivencia G, Estébanez M, Dios B de, Herrero MD, Mata T, Borobia AM, Gutiérrez
+C, Simón M, Ochoa A, Martínez Y, Aguirre A, Alcântara F de A, Fernández-González P, López E, Campos S,
+Navarro M, Ballester LE. Early Hydroxychloroquine Is Associated with an Increase of Survival in COVID-19
+Patients: An Observational Study. May 2020. doi:10.20944/PREPRINTS202005.0057.V1.
 
