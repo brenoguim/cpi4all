@@ -184,7 +184,11 @@ for t in txts:
     c = dict() 
 
     with open(t, 'r') as txtf:
-        c["txt"] = txtf.readlines()
+        lines = txtf.readlines()
+        # Do not add huge files. Need to decide how to efficiently serve them later
+        if len(lines) > 50000:
+            continue
+        c["txt"] = lines
 
     base_id = get_base_id(t)
     sub_id = get_sub_id(t)
