@@ -70,4 +70,4 @@ for r in tab.find_all('tr'):
 
 print_meta(id2data)
 
-subprocess.run("rm -rf main.html", shell=True)
+os.remove("main.html")
