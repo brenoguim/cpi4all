@@ -1,111 +1,4163 @@
-     
+INFORME OPERAÇÕES ESPECIAIS
+07/05/2021
+1. INTRODUÇÃO
 
-2840842007:
-El Am Rmarpigados e de suas empresas, além do afastamento cautelar de funções
+Este documento tem o objetivo de apresentar dados gerenciais sobre o conjunto das 53 operações
+especiais deflagradas pela CGU no período de março de 2020 a abril de 2021 que envolvem recursos
+destinados ao combate à pandemia de Covid-19.
 
-LUASDALDOO PE RACE CRUDAGOnNt Pia PediainhedenimconisfiaZalknedisinid todorais, dez
+2. INFORMAÇÕES GERENCIAIS
+
+A Diretoria de Operações da Secretaria de Combate à Corrupção - SCC, em parceria com as
+Superintendências Regionais da CGU, executou no exercício de 2020 o trabalho de monitoramento
+da execução das despesas com recursos públicos federais por Estados, Distrito Federal, Municípios,
+órgãos públicos e entidades privadas sem fins lucrativos, relacionadas ao enfretamento da pandemia
+do COVID-19, com foco em situações de fraude e corrupção.
+
+No escopo do monitoramento estavam inclusos: os recursos públicos federais transferidos a Estados,
+Municípios, órgãos públicos e entidades privadas, relacionadas ao enfrentamento da pandemia; os
+recursos públicos federais que não tinham sua aplicação diretamente relacionadas ao enfrentamento
+da pandemia, mas que, em razão da situação de emergência sanitária decretada, tiveram execução
+respaldadas em contrações excepcionais justificadas pelos gestores em razão da situação
+emergencial; e os processos licitatórios e contratações em realização que visem a execução de
+recursos públicos federais nas situações citadas, em que seja detectada situação de risco de fraude
+ou corrupção. Além do monitoramento, uma segunda linha de atuação foi por meio de atendimento
+demandas e requisições de órgãos parceiros, tais como Polícia Federal e Ministério Público Federal.
+
+A partir desse monitoramento e do atendimento de demandas externas, foram realizadas 53
+operações especiais no escopo de combate às fraudes nas despesas relacionadas à Covid-19. Dessas,
+52% surgiram a partir de demandas externas, enquanto 48% se originaram a partir de trabalhos da
+própria CGU, em especial, das atividades de monitoramento de gastos. Em relação às operações que
+tiveram como origem externa, percebe-se, pelo gráfico 2, que grande parte advém de demandas da
+Polícia Federal, totalizando 67%.
+
+Gráfico 1 — Origem da demanda das operações deflagradas
+
+47% = Externa
+
+= Interna
+
+ 
+
+Fonte: DOP/SCC/CGU
+Gráfico 2 — Origem da demanda: externa — demandantes
+
+= Ministério Público da União
+= Ministério Público Estadual
+
+11% = Polícia Federal
+
+ 
+
+Fonte: DOP/SCC/ICGU
+
+As operações foram deflagradas no âmbito de 21 Superintendências Regionais da CGU, conforme
+mapa a seguir.
+
+Mapa 1 — Quantidade de operações deflagradas por UF
+
+Sériel
+
+ 
+
+Da plataforma Bing
+O GeoNames, Microsoft, TomTom
+
+Fonte: DOP/SCC/CGU
+
+Os valores dos recursos envolvidos (investigados) nas 53 operações alcançaram o montante de R$
+1,6 bilhão. O prejuízo efetivo (que de fato constou nas apurações) atingiu quase R$ 39,2 milhões e o
+prejuízo potencial é de R$ 124,8 milhões (que decorre dos desdobramentos que afetem outros
+contratos e o aprofundamento da investigação). Assim, o prejuízo total estimado é da ordem de R$
+164 milhões. A próxima tabela detalha os valores por UF:
+
+Informação INFORMAÇÃO CPI 105-2021-CPIPANDEMIA (1942745) SEI 00190.103901/2021-03 / pg. 2
+Qtd.
+
+Tabela 1 — Detalhamento de valores, prejuízos e quantidade de operações por UF
+
+Prejuízo total
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UF operações Montante Envolvido Prejuízo potencial Prejuízo efetivo estimado
+AC 2 6.993.975,00 241.776,69 1.239.140,56 1.480.917,25
+AM 3 2.976.000,00 - 687.852,80 687.852,80
+AP 2 5.833.069,75 600.000,00 - 600.000,00
+BA 1 2.986.061,90 500.000,00 110.661,62 610.661,62
+CE 2 130.648.156,80 61.442.402,29 4.663.073,18 66.105.475,47
+DF 2 79.794.900,00 12.000.000,00 197.400,00 12.197.400,00
+Go 1 3.911.564,58 - - -
+MA 3 89.822.140,34 2.946.600,00 3.171.600,00 6.118.200,00
+MG 2 103.801.420,66 - 480.000,00 480.000,00
+MS 1 634.697,50 - - -
+PA 3 437.770.787,83 - - -
+PB 2 5.969.017,15 279.300,00 48.272,00 327.572,00
+PE 7 176.080.025,91 7.333.018,00 - 7.333.018,00
+PI 4 88.799.149,93 1.850.708,92 19.354.308,64 21.205.017,56
+RJ 5 64.625.833,27 8.434.270,00 398.444,00 8.832.714,00
+RO 3 41.753.550,00 176.600,00 - 176.600,00
+RR 2 58.543.467,78 3.468.861,99 8.338.738,90 11.807.600,89
+RS 1 60.000.000,00 15.000.000,00 - 15.000.000,00
+SE 3 6.002.966,60 - - -
+SP 3 239.013.765,13 3.113.219,00 534.476,00 3.647.695,00
+TO 1 13.334.000,00 7.458.815,40 - 7.458.815,40
+53 R$ 1.619.294.550,13 R$ 124.845.572,29| R$ 39.223.967,70 | R$ 164.069.539,99
+
+Fonte: DOP/SCC/CGU
+
+Por meio de ações coordenadas com a Polícia Federal e o Ministério Público, já foram expedidos 778
+mandados de busca e apreensão e 67 mandados de prisão temporária, sendo que 472 pessoas físicas
+e 291 jurídicas estão sob investigação. As apurações continuam com o aprofundamento dos trabalhos
+e eventual apresentação de denúncia dos envolvidos ao Judiciário, a cargo da Polícia Federal e do
+MPF no âmbito judicial.
+Acerca das pessoas físicas que foram alvos de medidas requeridas pelos órgãos parceiros e
+devidamente concedidas pelo Judiciário, 129 eram agentes públicos à época dos fatos. Foram alvos
+ainda das operações 51 pessoas jurídicas de natureza pública, 228 empresas privadas e 12 entidades
+sem fins lucrativos. Os detalhes são apresentados na tabela a seguir.
+
+Tabela 2 — Detalhamento de pessoas que foram alvos das operações à época dos fatos
+
+ 
+
+ 
+
+ 
+
+ 
+
+Esfera
+Tipo Total
+Municipal Estadual Federal
+Agente Público 73 49 7 129
+Fundo/Órgão Público 36 13 2 51
+103 66 9 178
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: DOP/SCC/CGU
+
+Quanto à tipologia de fraudes, as mais identificadas nas operações realizadas foram:
+
+Irregularidades no processo de licitação, em especial, na instrução, habilitação, fracionamento
+e publicação do edital;
+
+Direcionamento da licitação: cláusula restritiva, projeto básico, especificação do objeto etc.;
+Acerto prévio entre licitantes e/ou agentes públicos;
+
+Vínculos entre entidades licitantes, privadas e/ou agentes públicos;
+
+Dispensa/inexigibilidade irregular de licitações;
+
+Crimes previstos nos artigos 89, 90, 91, 92, 93, 96 e 97 da Lei nº 8.666/93;
+
+Sobrepreço e/ou superfaturamento na aquisição de bens e/ou prestação de serviços;
+Utilização de empresa fantasma;
+
+Utilização de pessoa interposta;
+
+Irregularidades nos pagamentos contratuais;
+
+Contratos em duplicidade, em desacordo com o edital e/ou com irregularidades nos
+aditivos/contratos;
+
+Inexecução contratual e irregularidades na entrega dos bens/prestação de serviços;
+Adulteração/falsificação documental;
+
+Empresas sem capacidade técnica e/ou operacional.
+
+A próxima seção detalha informações a respeito de cada operação deflagrada, em especial o nome da
+operação, UF, data de deflagração, objeto e indicação de agentes públicos e órgãos públicos que
+tenham sido alvos de medidas cautelares. Por fim, a última seção apresenta a lista de informações
+divulgadas a respeito das operações deflagradas.
+3. OPERAÇÕES DEFLAGRADAS
+
+Tabela 3 — Dados das operações deflagradas: montante envolvido, prejuízos e objeto
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Operação Nome da Montante Prejuízo Prejuízo Prejuízo Objeto
+
+Deflagração | da CGU Operação Envolvido Potencial Efetivo estimado
+
+23/04/2020 PB Alquimia 586.783,00 279.300,00 48.272,00 327.572,00 nox igibilidade — aquisição de livros/cartilhas -montante aproximado R$580
+
+15/05/2020 | DF |Grabato 79.000.000,00 | 12.000.000,00 - 12.000.000,00 | Dispensa — gestão do hospital de campanha (200 leitos) — montante
+aproximado R$ 79 milhões.
+
+21/05/2020 SP Medcruz 7.213.916,42 | 3.113.219,00 534.476,00 | 3.647.695,00 | Gestão de serviços de saúde — montante aproximado R$ 7,2 milhões.
+
+27/05/2020 RS Camilo 60.000.000,00 | 15.000.000,00 - 15.000.000,00 | Gestão — serviços de saúde — montante aproximado de R$ 60 milhões.
+
+28/05/2020 PE Apneia 9.400.000,00 . . . Dispensa — aquisição de 500 respiradores — montante aproximado R$ 11
+milhões
+
+29/04/2020 AP Virus Infectio 930.100,00 600.000,00 - 600.000,00 | Dispensa — aquisição de EPIs — montante aproximado R$ 930 mil
+
+09/06/2020 | MA |CobiçaFatal | 28.802.945,58 | 2.306.600,00 | 1.811.600,00 | 4.118.200,00 Dispensa — aquisição de máscaras de proteção — montante R$ 2.306.600
+Dispensa — aquisição medicamentos, testes rápidos para diagnostico do
+
+09/06/2020 RJ Scepticus 4.737.628,01 . . . Covid-19, EPIs, equipamentos médico-hospitalares, locação de estrutura e
+montagem de hospital de campanha e material de limpeza no montante de R$
+4,7 milhões.
+
+25/05/2020 CE Dispneia 34.700.000,00 | 25.400.000,00 - 25.400.000,00 | Dispensa — aquisição de respiradores — montante aproximado R$ 35 milhões.
+Ocorrência de ilícitos na contratação de empresas fomecedoras de
+
+. medicamentos, aquisição de testes rápidos para diagnóstico do Covid-19,
+
+10/06/2020 AC Assepsia 6.993.975,00 241.776,69 1.239.140,56 | 1.480.917,25 EPIs, equipamentos médicos-hospitalares, locação de estrutura e montagem
+de hospital de campanha e matéria de limpeza — R$ 4.737.628,01.
+
+10/06/2020 PA Para Bellum 50.400.000,00 . . . Dispensa — aquisição de 400 ventiladores pulmonares — montante R$ 50,4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+milhões.
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15/06/2020 RJ Exam 26.287.445,86 | 7.000.000,00 - 7.000.000,00 | Aquisição de medicamentos e duplicidade em pagamentos de exames.
+Apurar indícios de irregularidades na contratação de empresas para a
+prestação de serviços de saúde no município de Crixás (GO), destacadamente
+no fornecimento de materiais hospitalares no âmbito do combate à pandemia
+
+03/12/2020 Go Aventura 3.911.564,58 - - - do Coronavírus.
+
+16/06/2020 PE Casa de Papel 1.154.997,60 . . . Dispensa — aquisição emergencial de materiais e insumos médico-
+hospitalares — montante R$ 7.5 milhões.
+
+Vírus Infectio - Dispensa — aquisição emergencial de materiais e insumos médico-
+
+26/06/2020 AP 3º fase 4.902.969,75 - - - hospitalares — R$ 4.902.969,75.
+
+Apurar possíveis irregularidades em contratos celebrados por dispensas de
+
+30/06/2020 AM Sangria 2.976.000,00 - 496.000,00 496.000,00 | licitação, em caráter emergencial de 28 ventiladores pulmonares destinados
+ao tratamento de infectados pelo novo coronavírus. R$ 2.976.000,00.
+Apuração de favorecimento à empresa contratada para a locação dos 10
+
+20/11/2020 MG Vácuo 770.000,00 - 480.000,00 480.000,00 | equipamentos e para a aquisição de dois respiradores remanufaturados.
+Apurar irregularidades na contratação de empresa para montagem da
+
+07/07/2020 SE Serôdio 3.258.000,00 - - - estrutura necessária ao funcionamento do Hospital de Campanha do
+município. R$ 3.258.000,00.
+
+. Aquisição de bens supérfluos após a decretação da situação de emergência
+
+10/07/2020 PB | Estirpe 5.382.234,15 . . . causada pela Covid-19. R$ 5.382.234,15.
+
+23/07/2020 PE Bal Masqué 1.255.598,00 | 7.333.018,00 7.333.018,00 Aquisição de material médico-hospitalar (máscaras, aventais e toucas), no
+
+qui vercto mo - Vono valor inicial de R$ 15.321.946,00.
+Dispensa — aquisição de cestas de alimentação escolar para toda rede estadual
+de ensino como medida de enfrentamento a Covid-19 no valor total de R$
+
+18/06/2020 PA Solercia 73.928.946,00 - - - 73.9 milhões.
+
+23/07/2020 PE Apneia - 3 2.671.000,00 . . . Dispensa — aquisição de 500 respiradores — montante aproximado R$ 11
+
+fase milhões.
+
+24/07/2020 RO Dúctil - 2º fase | 10.917.800,00 . . . Dispensa — aquisição emergencial de materiais e insumos médico-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hospitalares — montante R$ 21 milhões.
+
+ 
+
+ 
+ 
+
+Indícios de crimes em dispensas de licitação para aquisição de 100.000 (cem
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30/07/2020 | RO | | Polígrafo 0.500.000,00 . . . mil) testes rápidos de Covid - R$ 10.500.000,00.
+A aquisição de trinta mil litros (seis mil galões de cinco litros) de hipoclorito
+
+13/08/2020 H Naclo 253.960,00 171.553,00 - 171.553,00 de sódio 2% voltados à prevenção e ao combate à Covid-19.
+Dispensa — aquisição de 200 mil cestas básicas no valor total de R$ 12,7
+
+03/06/2020 PE Inópia 12.700.000,00 - - - milhões.
+
+13/08/2020 | RR |Vírion 36.243.467,78 | 3.468.861,99 | 8.338.738,90 | 11.807.600,89 | Aquisição de equipamentos de proteção individual — EPI e de materiais e
+equipamentos de saúde até ventiladores pulmonares.
+Dispensa — aquisição emergencial de materiais e insumos médico-
+
+16/06/2020 PE Antídoto 81.129.467,40 - - - hospitalares — montante R$80 milhões.
+
+=" Sigilo (segredo = as
+
+Sigilo MS de justiça) 634.697,50 - - - Sigilo (segredo de justiça).
+
+20/08/2020 sE Estroinas 2.357.384,60 . . . Aquisição de materiais e locação de espaços voltados ao atendimento de
+pacientes.
+Gestão de serviços de saúde no âmbito da COVID-19, no Hospital Provisório
+do Recife e operacionalização e execução de ações e serviços de saúde em
+
+16/09/2020 PE Desumano 57.768.962,91 - - - regime de 24 (vinte e quatro) horas por dia, no Centro de Triagem e
+Tratamento para o Coronavírus.
+Aquisição de 590 camas eletrônicas hospitalares. como objeto a gestão para o
+
+18/09/2020 | TO |Camade TUT | 13.334.000,00 | 7.458.815,40 - 7.458.815,40 | fomento, gerenciamento, operacionalização c execução de atividades e
+serviços de saúde a serem desenvolvidas nos hospitais como medida de
+enfrentamento à pandemia do COVID-19.
+
+02/09/2020 PI Caligo 17.427.171,53 | 861.816,80 190.000,00 | 1.051.816,80 | Aquisição de equipamentos de proteção individual (EPL).
+
+29/09/2020 PA sos. 313.441.841,83 . . . Contratação de empresa para realizar exames de diagnóstico por radiologia
+em pacientes do Hospital de Campanha de Aracaju.
+
+Saneria - 2 Apurar possíveis irregularidades em contratos celebrados por dispensas de
+08/10/2020 AM E tao - - - - licitação, em caráter emergencial de 28 ventiladores pulmonares destinados
+- ao tratamento de infectados pelo novo coronavírus.
+14/10/2020 RR Desvid-19 22.300.000,00 - - - Aquisição de equipamentos de EPI e teste rápido para detecção do Covid-19.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+30/10/2020
+
+MA
+
+Oficina
+Desmascarada
+
+60.059.194,76
+
+1.040.000,00
+
+1.040.000,00
+
+Licitações relacionadas à compra de equipamentos de proteção individual
+(EPIs) para utilização nas ações de combate à Covid-19. Licitações
+relacionadas à compra de equipamentos de proteção individual (EPIs) para
+utilização nas ações de combate à Covid-19.
+
+ 
+
+06/10/2020
+
+Apneuse
+
+1.800.000,00
+
+784.000,00
+
+784.000,00
+
+Aquisição de 10 respiradores pulmonares, fabricados nas décadas de 1980 e
+1990, sem certificação junto à Anvisa.
+
+ 
+
+24/11/2020
+
+Octopus
+
+30.464.340,80
+
+Apurar possíveis irregularidades de sociedades empresárias no fornecimento
+de medicamentos e insumos hospitalares em municípios da Baixada
+Litorânea.
+
+ 
+
+03/11/2020
+
+CE
+
+Cartão
+Vermelho
+
+95.948.156,80
+
+36.042.402,29
+
+4.663.073,18
+
+40.705.475,47
+
+Apurar irregularidades na contratação de Organização Social, promovida
+pela Prefeitura de Fortaleza/CE, para implementação, gerenciamento e gestão
+do Hospital de Campanha do Estádio Presidente Vargas — HCPV.
+
+ 
+
+10/06/2020
+
+RO
+
+Dúctil
+
+20.335.750,00
+
+176.600,00
+
+176.600,00
+
+Dispensa — aquisição emergencial de materiais e insumos médico-
+hospitalares — montante R$ 21 milhões.
+
+ 
+
+30/11/2020
+
+AM
+
+Sangria - 3º
+fase
+
+191.852,80
+
+191.852,80
+
+Irregularidades no pagamento de R$ 191 mil para o transporte de 19
+respiradores pelo Governo do Estado do Amazonas, frete que deveria ter sido
+custeado pela empresa fornecedora dos referidos equipamentos.
+
+ 
+
+11/12/2020
+
+MG
+
+Entre Amigos
+
+103.031.420,66
+
+Apurar indícios de desvios de recursos públicos por OS, em Contrato de
+Gestão firmado com a Secretaria Municipal de Saúde de Divinópolis para o
+gerenciamento de uma Unidade de Pronto Antendimento (UPA) e do hospital
+de campanha montado pelo município em decorrência da pandemia de
+COVID-19.
+
+ 
+
+15/12/2020
+
+DF
+
+Tolueno
+
+794.900,00
+
+197.400,00
+
+197.400,00
+
+Apurar possíveis irregularidades no fomecimento de álcool em gel 70% e
+máscaras cirúrgicas adquiridos e de péssima qualidade, o que poderia colocar
+em risco profissionais da saúde e pacientes.
+
+ 
+
+22/12/2020
+
+BA
+
+Anóxia
+
+2.986.061,90
+
+500.000,00
+
+110.661,62
+
+610.661,62
+
+Desvio de recursos públicos destinados às ações de combate a pandemia do
+Covid-19. contratação de mão de obra, pelo município de Ilhéus/BA, para
+atuar em unidades de saúde da Prefeitura.
+
+ 
+
+ 
+
+12/01/2021
+
+ 
+
+PI
+
+ 
+
+Campanile
+
+ 
+
+33.724.306,03
+
+ 
+
+441.481,76
+
+ 
+
+ 
+
+441.481,76
+
+ 
+
+Investigações acerca da possível ocorrência de conluio entre gestores da
+Secretaria de Estado da Saúde (Sesapi) e empresários em processos de
+dispensa de licitação durante a pandemia da Covid-19.
+
+ 
+
+ 
+ 
+
+Apurar fraude às contratações públicas e de compra superfaturada de
+equipamentos de proteção individual (EPIs) e de testes rápidos para detecção
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14/01/2021 |PI Onzena 37.393.712,37 375.857,36 | 19.164.308,64 | 19.540.166,00 | do coronavírus promovidas pela Fundação Estatal Piauiense de Serviços
+Hospitalares (Fepiserh), pela Secretaria de Estado da Saúde (Sesapi) e pela
+Prefeitura de Bom Princípio do Piauí (PI).
+Combater desvios de recursos públicos na área da saúde praticados no
+10/02/2021 |RJ Desmascarados | 1.336.418,60 650.270,00 398.444,00 1.048.714,00 | Hospital Universitário Gafreé Guinle (HUGG), na Região Metropolitana do
+Rio de Janeiro (RJ).
+Raio X - 4º Contratação de empresa para realizar exames de diagnóstico por radiologia
+02/10/2020 | SE fase da Serôdio | 387.582,00 - - - em pacientes do Hospital de Campanha de Aracaju.
+Direcionamento na contratação, por dispensa de licitação e em caráter
+emergencial, de empresa de duvidosa capacidade técnica e operacional pela
+02/03/2021 | MA Estoque Zero 960.000,00 640.000,00 320.000,00 960.000,00 Secretaria de Saúde de Pinheiro (MA) para fornecimento de 6 mil testes
+rápidos de Covid-19, no valor total de R$ 960 mil.
+Fornecimento de fraldas descartáveis geriátricas e infantis destinadas ao
+27/08/2020 | SP Protocletos 1.391.970,00 - - - Hospital de Campanha para enfrentamento do Coronavirus.
+Apurar irregularidades na aquisição de material de consumo (álcool em gel
+15/04/2021 | AC Assepsia - 2º 70% e máscaras) realizada pela Secretaria Municipal de Saúde de Rio
+fase - - - - Branco/AC - Semsa por meio da dispensa de licitação nº 14/2020, justificada
+pelo cenário epidemiológico causado pelo coronavírus (Covid19).
+Identificação de possíveis fraudes em contratações emergenciais realizadas
+20042021 | SP Contágio 230.407.878,71 . . . pelo Governo do Estado de São Paulo e pelas Prefeitura Municipais do
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Estado de São Paulo, envolvendo recursos públicos federais destinados ao
+combate à pandemia decorrente do Coronavirus - Covid-19.
+
+ 
+
+ 
+Tabela 4 — Dados das operações deflagradas: indicação de órgãos e agentes públicos (à época dos fatos) alvos de medidas cautelares
+
+ 
+
+Órgãos Públicos
+
+ 
+
+Outros (Empresas
+
+Agentes Públicos
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Operação | Nome da privadas ou
+Deflagração | da CGU | Operação Óreãos Públicos entidades sem fins
+Federal | Estadual | Municipal gãos . lucrativos) Federal | Estadual | Municipal
+
+23/04/2020 PB Alquimia x Município de Aroeiras/PB x x
+29/04/2020 AP Virus Infectio x
+15/05/2020 DF Grabato x x
+21/05/2020 SP Medcruz x Município de Cruzeiro/SP x x
+25/05/2020 CE Dispneia x Órgãos do Governo Municipal de Fortaleza/CE x
+27/05/2020 RS Camilo x x x
+28/05/2020 PE Apneia x Município do Recife/PE x x
+09/06/2020 MA Cobiça Fatal x Órgãos do Governo Municipal de São Luís/MA x x
+09/06/2020 RJ Scepticus x Órgãos do Governo Municipal de Carapebus/RJ x x
+03/06/2020 PE Inópia x Órgão do Govemo Estadual de Pernambuco x
+10/06/2020 AC Assepsia x Município de Rio Branco/AC x x
+10/06/2020 PA Para Bellum x Órgão do Govemo Estadual do Pará x x x
+15/06/2020 RJ Exam x Órgão do Governo Municipal de Cabo Frio/RJ x x
+10/06/2020 RO Dúctil x Órgão do Governo Estadual de Rondônia x
+
+Órgão do Goveo Municipal de Olinda/PE
+
+Governo Municipal de Paulista/PE
+16/06/2020 PE Casa de Papel x Órgão do Govemo Municipal de Recife/PE x x
+
+Órgão do Govemo Municipal de Cabo de Santo
+
+Agostinho/PE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16/06/2020 PE Antídoto Órgão do Govemo Municipal de Recife/PE x
+18/06/2020 PA Solercia Órgãos do Governo Estadual do Pará x
+26/06/2020 | AP Vitis Infectio . Órgãos do Governo Estadual do Amapá
+30/06/2020 AM Sangria x
+07/07/2020 SE Serôdio Órgão do Govemo Municipal de Aracaju/SE x x
+10/07/2020 PB Estirpe x x
+23/07/2020 PE Bal Masqué Órgão do Govemo Municipal de Recife/PE x x
+23/07/2020 PE Apneia - 3º fase Município do Recife/PE x
+24/07/2020 RO Dúctil - 2º fase Município de Guajará-Mirim/RO x
+30/07/2020 RO Polígrafo x
+13/08/2020 PI NaClO Órgãos do Governo Municipal de União/PI x x
+13/08/2020 RR Vírion Órgão do Governo Estadual de Roraima x
+Gemedode | 5 |Sloccueo
+
+justiça)
+27/08/2020 SP Protocletos x
+20/08/2020 SE Estroinas Órgãos do Governo Municipal de Carmópolis/SE x x
+02/09/2020 PI Caligo Órgão do Governo Municipal de Teresina/PI x
+16/09/2020 PE Desumano Grsto Aos Municipal de Jaboatão dos x x
+18/09/2020 TO Cama de TUT Órgão do Governo Estadual do Tocantins x
+29/09/2020 PA S.o.s. Órgãos do Governo Estadual do Pará x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+q
+
+ 
+ 
+
+RaioX -4º
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+92/10/2020 SE fase da Serôdio x
+06/10/2020 RJ Apneuse Município de Japeri/RJ x
+08/10/2020 AM Sangria - 2º fase
+14/10/2020 RR Desvid-19 Órgão do Govemo Estadual de Roraima x
+Oficina Aro ni a K
+30/10/2020 MA Orgão do Govemo Municipal de São Luís/MA x
+Desmascarada
+Município de Araruama/RJ
+Município de Armação de Búzios/RJ
+24/11/2020 RJ Octopus Município de Iguaba Grande/RJ
+Município de São Pedro da Aldeia/RJ
+Município de Saquarema/RJ
+Cartão Ao , e
+03/11/2020 CE Orgão da Prefeitura Municipal de Fortaleza/CE x
+Vermelho
+20/11/2020 MG Vácuo Município de Divinópolis/MG x
+30/11/2020 AM Sangria - 3º fase
+11/12/2020 MG Entre Amigos x
+03/12/2020 Go Aventura Município de Crixás/GO x
+15/12/2020 DF Tolueno Órgão do Govemo Distrital x
+22/12/2020 BA Anóxia Município de Ilhéus x
+12/01/2021 PI Campanile Órgão do Governo Estadual do Piauí x
+. Órgão do Governo Estadual do Piauí
+14/01/2021) PI | Onzena Município de Bom Princípio do Piauí/PI x
+10/02/2021 RJ Desmascarados Universidade Federal do Estado do RJ x
+02/03/2021 MA Estoque Zero Órgão do Governo Municipal de Pinheiro/MA x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12
+
+ 
+ 
+
+15/04/2021
+
+AC
+
+Assepsia - 2º
+fase
+
+ 
+
+ 
+
+20/04/2021
+
+ 
+
+sP
+
+ 
+
+Contágio
+
+ 
+
+ 
+
+ 
+
+ 
+
+Município de Embu das Artes/SP
+Município de Hortolândia/SP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13
+
+ 
+4. LISTA DE RELEASES
+
+Sumário
+20/04/2021: OPERAÇÃO CONTÁGIO - Polícia Federal deflagra a Operação Contágio contra desvio de
+
+ 
+
+ 
+
+ 
+
+recursos públicos destinados ao tratamento de Covid-19 em municípios de São Paulo «17
+15/04/2021: OPERAÇÃO ASSEPSIA II - Covid-19: CGU e PF reforçam apuração de desvios na saúde
+em Rio Branco (AC) 18
+02/03/2021: OPERAÇÃO ESTOQUE ZERO - Covid-19: CGU e PF combatem desvios da saúde em
+Pinheiro (MA) .. 19
+
+ 
+
+10/02/2021: OPERAÇÃO DESMASCARADOS - Covid-19: CGU e PF combatem desvios de recursos no
+Rio de Janeiro ... 20
+
+ 
+
+ 
+
+22/12/2020: OPERAÇÃO ANÓXIA - Covid-19: CGU e PF investigam desvio de recursos em contrato de
+terceirização para enfrentamento da pandemia do coronavírus em Ilhéus/BA
+
+16/12/2020: OPERAÇÃO TOLUENO II - Covid-19: CGU e PF seguem com Operação Tolueno em
+Pirenópolis (GO)
+
+15/12/2020: OPERAÇÃO TOLUENO - Covid-19: CGU e PF apuram irregularidades em Goiás
+
+11/12/2020: Operação Entre Amigos - Covid-1'
+(MG)...
+
+ 
+
+ 
+ 
+
+   
+
+CGU, PF e MPF apuram irregularidades em Divinópolis
+
+ 
+
+03/012/2020: OPERAÇÃO AVENTURA - Covid-19: CGU e PF apuram irregularidades na saúde em
+Crixás (GO)
+
+ 
+
+31
+
+ 
+
+04/11/2020: OPERAÇÃO OCTOPUS - Covid-19: CGU, PF e MPF apuram irregularidades na Região dos
+Lagos (RJ)
+
+ 
+
+20/11/2020: Operação Vácuo - Covid-19: CGU e PF apuram irregularidades em Coronel Fabriciano (MG)
+
+ 
+
+03/11/2020: Operação Cartão Vermelho - Covid-19: CGU, PF e MPF combatem fraudes em Fortaleza
+(CE)...
+
+30/10/2020: OPERAÇÃO OFICINA DESMASCARADA - Covid-1
+irregularidades na saúde em São Luís (MA)
+
+14/10/2020: Operação Desvid-19 - Covid-19: CGU e PF combatem fraudes na Secretaria da Saúde de
+Roraima
+
+08/10/2020: Operação Sangria- segunda fase - Covid-19: CGU, PF e MPF deflagram segunda fase da
+Operação Sangria.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+06/10/2020: Operação Apneuse - Covid-19: CGU, PF e MPF investigam compra de respiradores em Japeri
+
+ 
+
+02/10/2020: Operação Raio-X - Operação Raio-X combate desvios de recursos públicos em contratos da
+área de Saúde em Sergipe
+
+ 
+
+29/09/2020: Operação S.O.S - Covid-19: CGU e PF apuram irregularidades com recursos da saúde no
+Pará
+
+ 
+
+14
+13/09/2020: Operação Cama de Tut - Covid-19: CGU, PF e MPF combatem irregularidades em Tocantins
+41
+
+ 
+
+ 
+
+02/09/2020: Operação Caligo - Covid-19: CGU e PF combatem fraudes com recursos da Saúde em
+Teresina (PI)
+
+27/08/2020: Operação Protocletos - CGU e PF combatem fraudes com recursos da saúde em Santo André
+
+ 
+
+ 
+
+20/08/2020: Operação Estroinas - CGU e PF apuram irregularidades com recursos de saúde em
+Carmópolis (SE)
+
+ 
+
+13/08/2020: Operação NaCIO - CGU e PF combatem irregularidades com recursos públicos em União
+
+ 
+  
+
+13/08/2020: Operação Virion - CGU e PF combatem fraudes na Secret
+
+30/07/2020: OPERAÇÃO POLÍGRAFO - CGU, PF e MPRO combatem irregularidades com reci
+saúde em Rondônia.
+
+24/07/2020: Operação Dúctil - 2º fase - CGU, PF e MPF combatem má aplicação de recursos da saúde em
+Guajará-Mirim (RO) .... 50
+
+23/07/2020: Operação Bal Masqu
+(PE)..
+
+23/07/2020: Operação Apneia - CGU, PF e MPF reali:
+Pernambuco
+
+ 
+
+ 
+
+ 
+  
+
+1.53
+
+ 
+
+07/07/2020: OPERAÇÃO SERÔDIO - CGU e PF combatem irregularidades na Secretaria de Saúde de
+Aracaju (SE,
+
+30/06/2020: Operação Sangria - CGU, PF, MPF e RFB apuram irregul:
+respiradores no Amazonas............
+
+54
+
+ 
+ 
+
+1.55
+26/06/2020: Operação Vírus Infectio III - CGU, PF e MPF combatem desvios de recursos na Secretaria de
+Saúde do Amapá.
+
+18/06/2020: OPERAÇÃO SOLERCIA - CGU, PF e Receita Federal combatem irregularidades no
+Governo do Estado do Pará
+
+ 
+
+ 
+
+57
+
+ 
+
+16/06/2020: Operação Casa de Papel - Operação Casa de Papel combate fraudes com recursos da saúde
+em Recife (PE) ...58
+
+16/06/2020: Operação Antídoto - Operação Antídoto combate irregularidades na Secretaria de Saúde do
+Recife (PE) ... 59
+
+15/06/2020: OPERAÇÃO EXAM - CGU, PF e MPF combatem irregularidades com recursos da saúde em
+Cabo Frio (RJ).. 60
+
+10/06/2020: OPERAÇÃO DÚCTIL - CGU, PF e MPF combatem irregularidades com recursos da saúde
+em Rondônia.
+
+10/06/2020: OPERAÇÃO PARA BELLUM - CGU, MPF e PF combatem irregularidades envolvendo
+recursos da saúde no Pará ... 62
+
+10/06/2020: OPERAÇÃO ASSEPSIA - CGU e PF combatem irregularidades na Secretaria de Saúde de
+Rio Branco (AC)..
+
+09/06/2020: OPERAÇÃO COBIÇA FATAL - CGU e PF combatem fraudes em compras de máscar
+cirúrgicas em São Luís (MA)... error cera eeaee een aeee aee ane aeee era rna remar 64
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+63
+
+ 
+09/06/2020: OPERAÇÃO SCEPTICUS - CGU, PF e MPF contra desvio de recursos do combate à Covid-
+19 em Carapebus (RJ) .... nu 65
+
+ 
+
+ 
+
+03/06/2020: Operação Inópia - Operação Inópia combate irregularidades na assi
+Pernambuco
+
+ 
+
+28/05/2020: Operação Apneia - segunda fase - CGU, PF e MPF deflagram operação em Recife (PE) para
+apurar compras de respiradores....
+
+27/05/2020: OPERAÇÃO CAMILO - CGU combate fraudes na gestão do Hospital Regional do Vale do
+Rio Pardo (RS) 69
+25/05/2020: Operação Dispneia - CGU, MPF e PF apuram irregularidades na Secretaria de Saúde de
+Fortaleza (CE) un
+
+21/05/2020: OPERAÇÃO MEDCRUZ - CGU e Polícia Federal combatem fraudes na saúde do município
+de Cruzeiro (SP) 72
+
+ 
+
+ 
+
+ 
+
+ 
+
+15/05/2020: Operação Grabato - Operação Grabato apura contratação emergencial firmada pela Secretaria
+de Saúde do DF
+
+29/04/2020: OPERAÇÃO VIRUS INFECTIO - CGU desarticula desvio de recursos para combate ao
+Covid-19 no Governo do Amapá.
+
+23/04/2020: OPERAÇÃO ALQUIMIA - Operação Alquimia combate irregularidades na Secretaria de
+Saúde de Aroeiras (PB)... eee raee rate aene aeee rare area caraca a renan a aaa r ar enar encarece are aeasacaas 75
+
+ 
+
+ 
+
+16
+Não houve publicação de release por parte da CGU na operação Contágio, pelo fato de a CGU não ter
+participado do cumprimento das medidas ostensivas.
+
+Abaixo segue release publicado no site da Polícia Federal:
+
+20/04/2021: OPERAÇÃO CONTÁGIO - Polícia Federal deflagra a Operação Contágio contra desvio
+de recursos públicos destinados ao tratamento de Covid-19 em municípios de São Paulo
+
+PF investiga esquema de fraudes em para prestação de serviços de saúde, em contratos que, somados,
+superam R$ 100 milhões.
+
+São Paulo/SP — A Polícia Federal deflagrou nesta terça-feira (20/4) a Operação Contágio, para aprofundar
+investigação sobre desvios de recursos públicos na área da saúde nos municípios de Hortolândia, Embu das
+Artes e Itapecerica da Serra, todos no Estado de São Paulo.
+
+Ao todo, foram cumpridos 38 mandados de busca e apreensão e 5 mandados de prisão temporária, expedidos
+pela 2º Vara Criminal Federal de São Paulo, por ordem do Tribunal Regional Federal da 3º Região (TRF3).
+Também foi decretado o bloqueio de valores e imóveis dos investigados e a apreensão de veículos, incluindo
+carros esportivos de luxo. Os mandados foram cumpridos nos Estados de São Paulo, Rio de Janeiro e Minas
+Gerais.
+
+A investigação teve origem após a Controladoria Geral da União (CGU) ter identificado uma Organização
+Social (OS), sem capacidade técnica, contratada por esses municípios. Foram constatados indícios de fraude
+e direcionamento para prestação de serviços de saúde, em contratos que, somados, superam R$ 100 milhões.
+Alguns dos contratos foram firmados de maneira emergencial, para gestão e atendimento de pessoas
+infectadas com COVID-19.
+
+Após as contratações pelos municípios, a OS subcontratava a execução dos serviços para diversas empresas
+associadas, algumas constituídas poucos meses antes, também sem experiência na área de saúde. Algumas
+dessas subcontratadas, após os repasses de recursos pela OS, efetuaram centenas de saques em espécie que
+somam mais de R$ 18 milhões, realizados de maneira fracionada para burlar o controle contra lavagem de
+dinheiro do sistema financeiro nacional. O transporte do dinheiro era feito sob a escolta armada de um
+guarda civil municipal, que também era sócio de uma das empresas subcontratadas.
+
+Os crimes apurados são de peculato (art. 312, do Código Penal), fraude à licitação (arts. 89 e 90 da Lei nº
+8.666/93), lavagem de dinheiro (art. 1º da Lei nº 9.613/98) e organização criminosa (art. 2º da Lei nº
+12.850/2013).
+
+Será realizada coletiva de imprensa na sede da Superintendência Regional da Polícia Federal em São Paulo
+às 10h30.
+
+Transmissão ao vivo no Instagram Opfsaopaulo
+
+https://www.gov.br/pf/pt-br/assuntos/noticias/2021/04/policia-federal-deflagra-a-operacao-contagio-contra-
+desvio-de-recursos-publicos-destinados-ao-tratamento-de-covid-19-em-municipios-de-sao-paulo
+
+ 
+
+17
+15/04/2021: OPERAÇÃO ASSEPSIA II - Covid-19: CGU e PF reforçam apuração de desvios na saúde
+em Rio Branco (AC)
+
+Operação Assepsia II aprofunda investigação de fraudes em aquisição de máscaras e álcool em gel para
+enfrentamento da pandemia do coronavírus
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (15/04), em Rio Branco (AC), da
+Operação Assepsia II. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é reforçar a
+apuração de fraudes, praticadas pela Secretaria Municipal de Saúde (SEMSA), na aquisição de máscaras e de
+álcool em gel para o enfrentamento da Covid-19.
+
+Investigação
+
+A investigação é um aprofundamento da Operação Assepsia, deflagrada em junho de 2020, que apurou
+indícios de montagem processual, simulação de pesquisas de preços, falsidade de assinaturas e sobrepreço na
+contratação. O cumprimento dos mandados judiciais, na época, revelou provas contundentes que podem
+confirmar os indícios investigados, principalmente o direcionamento da contratação e o prejuízo causado ao
+erário.
+
+A análise das evidências apreendidas expôs a atuação de um grupo empresarial oculto que teria obtido os
+lucros com a venda dos insumos para a Administração Pública, além de planilhas e documentos que mostram
+a divisão e o pagamento dos valores. Há, também, indícios de que 10% do valor total do contrato foi
+destinado para agentes políticos não identificados, supostamente responsáveis pela facilitação da contratação
+da empresa.
+
+Com o decorrer das análises iniciadas na primeira fase, a CGU atualizou o cálculo do prejuízo causado à
+Administração, usando como base o preço de custo dos insumos adquiridos pela empresa. Considerando uma
+margem de lucro não exorbitante, o prejuízo efetivo com a dispensa de licitação seria de R$ 1.239.140,56, o
+que corresponde a 44,95% do total de R$ 2.756.885,00 destinados pela SEMSA à empresa.
+
+Impacto social
+
+O município de Rio Branco recebeu mais de R$ 60 milhões em 2020 do Fundo Nacional de Saúde (FNS).
+Desse valor, R$ 13 milhões foram destinados especificamente para ações de prevenção e combate do
+coronavírus. A má aplicação desses recursos dificulta ainda mais o enfrentamento da pandemia, já que
+diminui o já escasso orçamento público necessário para as ações de saúde necessárias para o bom
+atendimento às vítimas de Covid-19.
+
+Diligências
+
+A Operação Assepsia II consiste no cumprimento de 7 mandados de busca e apreensão nos estados do Acre,
+Rondônia e São Paulo; além da intimação de seis pessoas para prestarem esclarecimentos. Os trabalhos
+contam com a participação de 46 policiais federais e de 3 auditores da CGU.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2021/04/covid-19-cgu-e-pf-reforcam-apuracao-de-desvios-
+na-saude-em-rio-branco-ac
+
+  
+
+18
+02/03/2021: OPERAÇÃO ESTOQUE ZERO - Covid-19: CGU e PF combatem desvios da saúde em
+Pinheiro (MA)
+
+Operação Estoque Zero investiga fraudes na contratação emergencial de empresa para fornecimento de 6 mil
+testes rápidos de Covid-19
+
+AControladoria-Geral da União (CGU) participa, nesta terça-feira (02/03), no Maranhão e no Piauí, da
+Operação Estoque Zero. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é
+combater esquema criminoso de desvio de recursos públicos do combate à pandemia da Covid-19.
+
+Investigações
+
+O trabalho se iniciou a partir de investigação da CGU, que detectou direcionamento na contratação, por
+dispensa de licitação e em caráter emergencial, de empresa de duvidosa capacidade técnica e operacional
+pela Secretaria de Saúde de Pinheiro (MA) para fornecimento de 6 mil testes rápidos de Covid-19, no valor
+total de R$ 960 mil.
+
+Além disso, foram identificados fortes indícios de que nenhum teste fora de fato entregue pela empresa
+contratada ao município, apesar de haver sido emitida, em maio de 2020, nota fiscal de venda dos 6 mil
+testes contratados e já ter sido identificado o pagamento parcial de R$ 320 mil. Além de a empresa não ter
+adquirido testes para revenda, reforça a suspeita de simulação de venda o fato de Pinheiro (MA) ter recebido
+doação de 2.240 testes da Secretaria de Estado da Saúde do Maranhão e ter realizado, até início de agosto de
+2020, apenas 1.381 testes na população.
+
+O prejuízo total ao erário pode chegar a R$ 960 mil, caso seja identificado pagamento residual da fatura
+apresentada pela empresa.
+
+Além de Pinheiro (MA), a empresa de fachada teria vendido 17,5 mil testes para outros três municípios nos
+estados do Maranhão, Piauí e Ceará, pelo valor total de R$ 1.075.500,00, sem nunca tê-los adquirido.
+
+Impacto social
+
+O município de Pinheiro (MA) recebeu em 2020 quase R$ 50 milhões pelo Fundo Nacional de Saúde (FNS).
+Desse valor, mais de R$ 20 milhões foram destinados especificamente para ações de prevenção e combate à
+pandemia do novo coronavírus.
+
+A não entrega dos 6 mil testes de Covid-19 ao município de Pinheiro (MA) contribuiu para a dificuldade de
+rastreamento preventivo dos casos positivos para Covid na cidade e, assim, acelerar a curva de contágio da
+doença. O desvio de recursos, por sua vez, subtraiu do já escasso orçamento público recursos para as demais
+ações de saúde necessárias para o bom atendimento às vítimas de Covid-19.
+
+Diligências
+
+A Operação Estoque Zero consiste no cumprimento de 5 mandados de busca e apreensão em Pinheiro (MA)
+e Teresina (PI), além do bloqueio de bens, afastamento de servidor e afastamento do sigilo telemático
+(mensagens de e-mail) dos envolvidos. O trabalho envolve a participação de 2 auditores da CGU e de 30
+policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2021/03/covid-19-cgu-e-pf-combatem-desvios-da-saude-em-
+
+ 
+
+19
+10/02/2021: OPERAÇÃO DESMASCARADOS - Covid-19: CGU e PF combatem desvios de recursos
+no Rio de Janeiro
+
+Operação Desmascarados investiga possíveis irregularidades em compras de medicamentos e EPIs realizadas
+pelo Hospital Universitário Gafreé Guinle
+
+A Controladoria-Geral da União (CGU) participa, nesta quarta-feira (10), da Operação Desmascarados. O
+trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é combater desvios de recursos
+
+públicos na área da saúde praticados no Hospital Universitário Gafreé Guinle (HUGG), na Região
+Metropolitana do Rio de Janeiro (RJ).
+
+Investigação
+A investigação teve origem em auditoria, na qual se verificou situações irregulares de sociedades
+empresárias com vistas a auferir proveitos indevidos no HUGG.
+
+A partir de levantamentos realizados pela CGU, foram constatadas empresas sem funcionário registrado na
+Relação Anual de Informações Sociais (RAIS), montagem do processo de compra, existência de ligação
+entre os sócios das empresas participantes da dispensa, dentre outros indícios de situações indevidas dentro
+do processo de aquisição.
+
+Os fatos apurados indicam a ocorrência de dispensa fraudulenta de licitação de empresas fornecedoras de
+medicamentos, equipamentos de proteção individual (EPIs) e outros insumos para o combate à pandemia da
+Covid-19, com sobrepreço e superfaturamento que somam cerca de R$ 1 milhão.
+
+Impacto social
+O Governo do Estado do Rio de Janeiro recebeu R$ 1.870.855.788,62 repassados pelo SUS em 2020,
+
+especificamente para ação de prevenção e combate à Covid-19.
+
+O Hospital Universitário Grafreé Guinle tem a função de gerir os recursos públicos em prol do interesse
+social de toda população. O sobrepreço/superfaturamento detectado impossibilitaria que a Unidade
+adquirisse mais insumos, materiais e equipamentos necessários no atendimento à população que tanto carece
+de bons serviços na saúde pública. O desvio dos recursos públicos, em plena pandemia do coronavírus, torna
+
+esse crime ainda mais grave.
+
+Diligências
+
+A Operação Desmascarados consiste no cumprimento de 5 mandados de busca e apreensão em endereços
+dos envolvidos. Os trabalhos ocorrem na região metropolitana do Rio de Janeiro (RJ) e contam com a
+participação de 8 auditores da CGU e de 22 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2021/02/covid-19-cgu-e-pf-combatem-desvios-de-recursos-
+
+ 
+
+20
+14/01/2021: OPERAÇÃO ONZENA - Covid-19: CGU e PF aprofundam investigações de fraudes no
+Piauí
+
+Operação Onzena apura irregularidades em contratações de EPIs e testes rápidos para detecção do
+coronavírus. Prejuízo efetivo é de R$ 19 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (14), no Piauí, da Operação Onzena. O
+trabalho é realizado em parceria com a Polícia Federal (PF), com o qual contribuiu o Tribunal de Contas do
+Estado (TCE/PI). O objetivo é aprofundar investigações acerca de indícios de montagem fraudulenta de
+processo, de conluio para fraudar contratações públicas e de compra superfaturada de equipamentos de
+proteção individual (EPIs) e de testes rápidos para detecção do coronavírus promovidas pela Fundação
+Estatal Piauiense de Serviços Hospitalares (Fepiserh), pela Secretaria de Estado da Saúde (Sesapi) e pela
+Prefeitura Municipal de Bom Princípio do Piauí (PI).
+
+As contratações foram custeadas com recursos federais repassados pelo Fundo Nacional de Saúde (FNS),
+inclusive envolvendo emendas parlamentares, e com recursos do auxílio financeiro oriundo do Programa
+Federativo de Enfrentamento ao Coronavírus estabelecido pela Lei Complementar nº 173/2020.
+
+Investigações
+
+A partir da análise de quatro procedimentos de dispensas de licitação, sendo um realizado pela Fepiserh, dois
+pela Sesapi e um pela Prefeitura Municipal de Bom Princípio do Piauí (PN), justificadas pela emergência
+sanitária decorrente da pandemia de Covid-19, a CGU e o TCE/PI apuraram sobrepreço em diversos dos
+itens contratados (chegando a 507,47% na aquisição de máscaras N95 pela Fundação). Os valores pagos por
+esses entes públicos até o momento, referentes às dispensas de licitação analisadas, somam R$
+36.503.412,87, em relação aos quais foi apurado um prejuízo efetivo de R$ 19.164.308,64, decorrente de
+superfaturamento.
+
+Também foram constatados indícios de montagem fraudulenta de processo, de acerto prévio entre agentes
+públicos e empresas contratadas, bem como suspeitas de combinação entre essas empresas, de forma a
+possibilitar que fossem contratadas com preços abusivos.
+
+Impacto social
+
+Em decorrência das irregularidades detectadas, EPIs contratados pela Sesapi para utilização na prevenção e
+no combate à Covid-19 em hospitais da rede estadual e hospitais municipalizados deixaram de ser fornecidos
+integralmente, apesar de pagos. Também se identificou que testes rápidos foram entregues em marca
+diferente da contratada, avaliados como “não conformes” pela Agência Nacional de Vigilância Sanitária
+(Anvisa).
+
+Em 2020, para o enfrentamento da emergência de saúde pública provocada pelo coronavírus, o Piauí recebeu
+do FNS cerca de R$ 100 milhões. As irregularidades apontadas representam riscos de grave impacto social,
+aumentando as chances de contágio de Covid-19 e sua proliferação, em especial entre os profissionais de
+saúde.
+
+Diligências
+
+A Operação Onzena consiste no cumprimento de 17 mandados de busca e apreensão, sendo 13 em Teresina
+(PD, 2 em Picos (PI), 1 em Bom Princípio do Piauí (PI) e 1 em Timon (MA). O trabalho conta com a
+participação de 8 servidores da CGU e de 79 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2021/01/covid-19-cgu-e-pf-aprofundam-investigacoes-de-
+
+fraudes-no-piaui
+21
+12/01/2021: Operação Campanile - Covid-19: CGU e PÉ apuram irregularidades na Secretaria de
+Saúde do Piauí
+
+ 
+
+Operação Campanile investiga contratação de empresas sem que fossem seguidos trâmites necessários.
+Pagamentos suspeitos somam R$ 33,7 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (12/01), no Piauí, da Operação
+Campanile. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é aprofundar
+investigações acerca da possível ocorrência de conluio entre gestores da Secretaria de Estado da Saúde
+(Sesapi) e empresários em processos de dispensa de licitação durante a pandemia da Covid-19, cujos
+pagamentos ocorreram anteriormente a qualquer formalização das etapas da contratação.
+
+Investigações
+
+A partir de denúncia recebida pela PF tratando da negociação de forma oculta entre gestores da Sesapi e
+
+ 
+
+empresários, com a emissão de empenhos e a realização de pagamentos antes da formalização dos contratos
+e de suas publicações nos meios oficiais, a CGU levantou informações nas bases de dados disponíveis e
+identificou a ocorrência de pagamentos que foram realizados em momento anterior ao da publicação do
+extrato do contrato no Diário Oficial do Estado do Piauí (DOE-PI). Também foram identificados casos de
+empenhos ainda não pagos, cuja emissão ocorreu em momento anterior ao da publicação do extrato do
+contrato e casos de empenhos ainda não pagos em relação aos quais nem se identificou a publicação do
+extrato do contrato.
+
+A formalização dos processos de contratação em momento posterior demonstra que a Sesapi contratou as
+empresas de forma irregular e que, ciente das falhas, tentou dissimular tais ocorrências com publicações
+retroativas dos extratos dos contratos.
+
+ 
+
+ 
+
+Impacto social
+
+Em 2020, para o enfrentamento da emergência de saúde pública provocada pelo coronavírus, o Piauí recebeu
+do Fundo Nacional de Saúde (FNS) cerca de R$ 100 milhões.
+
+Os dados levantados pela CGU referiram-se a contratações por Órgãos da Sesapi que resultaram em
+pagamentos de pelo menos R$ 33,7 milhões a empresas envolvidas na investigação, durante o período de
+março a dezembro deste ano, sendo parte desses recursos de origem federal.
+
+A atuação em conluio entre gestores e empresários facilita a ocorrência de contratações com sobrepreço,
+dentre outros problemas, o que tem como consequência uma menor disponibilidade de equipamentos para a
+população no enfrentamento à pandemia da Covid-19.
+
+Diligências
+
+A Operação Campanile consiste no cumprimento de 21 mandados de busca e apreensão, nos municípios de
+Teresina (PI), Parnaíba (PI), Joca Marques (PI), São Paulo (SP) e Pelotas (RS). O trabalho conta com a
+
+participação de 7 auditores da CGU e de 93 policiais federais.
+22
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2021/01/covid-19-cgu-e-pf-apuram-irregularidades-na-
+secretaria-de-saude-do-piaui
+
+23
+22/12/2020: OPERAÇÃO ANÓXIA - Covid-19: CGU e PF investigam desvio de recursos em contrato
+de terceirização para enfrentamento da pandemia do coronavírus em Ilhéus/BA
+
+Objetivo é desarticular organização criminosa que vem atuando em municípios baianos e que já recebeu, nos
+últimos três anos, mais de R$ 40 milhões em recursos públicos
+
+A Controladoria-Geral da União (CGU), em parceria com a Polícia Federal (PF), deflagrou nesta terça-feira
+(22) a Operação Anóxia, visando desarticular um esquema de desvio de recursos públicos destinados a ações
+de combate à pandemia da Covid-19. O trabalho investiga a contratação de mão de obra, pelo município de
+Ilhéus/BA, para atuar em unidades de saúde da prefeitura.
+
+Investigações
+
+Os trabalhos investigativos tiveram origem na análise da dispensa promovida pela prefeitura de Ilhéus/BA,
+que tinha como objeto a contratação de empresa especializada na terceirização de serviços de mão de obra
+temporária para atendimento das demandas da Secretaria de Saúde no combate à Covid-19.
+
+Na condução do processo de dispensa, entre outras falhas, foi constatado que a Prefeitura de Ilhéus/BA
+solicitou cotação de preços a empresas que não atuavam predominantemente na área de terceirização e que
+tinham como atividade econômica principal o transporte escolar e a construção de edifícios.
+
+O contrato previa que os serviços seriam prestados no Centro de Triagem Covid-19 e no PA Zona Sul,
+cabendo à empresa contratada fornecer os profissionais solicitados pelo município.
+
+Os auditores da CGU identificaram que o município estava pagando integralmente as faturas apresentadas
+pela prestadora do serviço, sem que houvesse a devida fiscalização pela prefeitura e também sem qualquer
+documento que comprovasse as despesas registradas nas notas fiscais. A documentação comprobatória foi
+disponibilizada para apenas um dos meses da prestação de serviço, permitindo à equipe de fiscalização
+identificar um superfaturamento no valor de R$ 110.661,62, correspondente ao pagamento de despesas não
+realizadas.
+
+ 
+
+Impacto social
+
+Conforme dados disponibilizados pelo site Tesouro Nacional Transparente, Ilhéus/BA recebeu, desde o
+início da pandemia até o momento, mais de R$ 40 milhões, entre auxílio financeiro e despesas adicionais do
+Ministério da Saúde, para ações de combate à Covid-19.
+
+Apesar disso, o cenário epidemiológico em Ilhéus/BA permaneceu desfavorável por muito tempo. Dados
+disponibilizados pela Central Covid-19 da Universidade Estadual de Santa Cruz indicam que, atualmente, a
+cidade apresenta o quarto maior número de óbitos no Estado da Bahia (263) e uma retomada no aumento do
+número de casos confirmados de Covid-19.
+
+ 
+
+No período em que a empresa foi contratada para fornecer mão de obra ao Centro de Triagem, o município
+de Ilhéus era o quarto maior em número de casos acumulados e o sexto em casos ativos no estado. Entre
+meados de junho e final de julho, o município apresentou uma média de crescimento semanal no número de
+casos de 20%.
+
+Esses dados demonstram o quanto o uso adequado desses recursos é decisivo para garantir um atendimento
+tempestivo e apropriado àqueles acometidos pela doença, bem como propiciar a segurança da população, por
+meio da adoção de medidas preventivas e disponibilização de equipamentos individuais de proteção.
+
+Diligências
+
+A Operação Anóxia consiste no cumprimento de nove mandados de busca e apreensão em residências,
+endereços comerciais e órgãos públicos, além do bloqueio de ativos e sequestro de bens da empresa
+contratada pelo município. Participam da operação cerca de 40 policiais federais e nove auditores da CGU.
+
+24
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+ 
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2020/12/covid-19-cgu-e-pf-investigam-desvio-de-recursos-
+em-contrato-de-terceirizacao-para-enfrentamento-da-pandemia-do-coronavirus-em-ilheus-ba
+
+25
+16/12/2020: OPERAÇÃO TOLUENO II - Covid-19: CGU e PF seguem com Operação Tolueno em
+Pirenópolis (GO)
+
+Denúncias indicavam que máscaras e álcool em gel de péssima qualidade foram doados para abrigos de
+idosos na cidade. Prejuízo é de R$ 2 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta quarta-feira (16/12), em Pirenópolis (GO), da
+continuidade à Operação Tolueno, deflagrada ontem (15/12). O trabalho é realizado em parceria com a
+Polícia Federal (PF). O objetivo é apurar irregularidades na aquisição de insumos destinados ao combate a
+pandemia de Covid-19.
+
+Investigação
+
+Após a deflagração da Operação Tolueno, novas denúncias indicavam que as máscaras cirúrgicas e o álcool
+em gel 70%, adquiridos pelo Hospital Estadual Ernestina Lopes Jaime (HEELJ), em Pirenópolis (GO) e
+inservíveis para os fins que se destinavam, por serem de péssima qualidade, foram doados para abrigos de
+idosos da cidade.
+
+Os exames periciais, realizados pela PF, confirmaram que os produtos adquiridos pelo HEEJL, por meio do
+Instituto Brasileiro de Gestão Hospitalar (IBGH), não atendiam as especificações técnicas. No caso do
+álcool, foi verificado que ele continha vários hidrocarbonetos comumente encontrados no etanol (álcool de
+
+posto), dentre eles a substâncias química Tolueno.
+
+O Tolueno pode afetar o sistema nervoso, sendo facilmente absorvido pelos pulmões (40 a 60% do inalado).
+Níveis baixos ou moderados podem produzir cansaço, confusão mental, debilidade, perda da memória,
+náusea, perda do apetite e perda da visão e audição. Estes sintomas geralmente desaparecem quando a
+exposição termina. Inalar níveis altos de tolueno por um período pode produzir sonolência e até mesmo a
+inconsciência.
+
+Impacto financeiro e social
+
+Para além da má qualidade dos insumos e dos riscos deles decorrentes à saúde de pacientes e dos
+profissionais de saúde, a análise da contratação feita pela CGU demonstrou indicativos de favorecimento e
+conluio entre empresas, assim como superfaturamento na contratação. O prejuízo apurado até o momento, de
+cerca de R$ 2 milhões, pode chegar a 100% do valor da aquisição, dado que os produtos são adulterados e
+inservíveis para os fins que se destinavam.
+
+Diligências
+
+A continuidade da Operação Tolueno consiste no cumprimento de 2 mandados de busca e apreensão,
+expedidos pela 2º Vara da Justiça Federal em Anápolis (GO). O trabalho conta com a participação de 2
+policiais federais, 1 auditor da CGU e de promotor de Justiça da Comarca de Pirenópolis (GO).
+
+Os investigados, se condenados, podem pegar penas que, somadas, podem chegar a 30 anos de reclusão,
+pelos seguintes crimes: falsificação de produto destinado a fins medicinais; fraude a licitação; e organização
+criminosa.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/12/covid-19-cgu-e-pf-seguem-com-operacao-tolueno-
+em-pirenopolis-go
+
+26
+15/12/2020: OPERAÇÃO TOLUENO - Covid-19: CGU e PF apuram irregularidades em Goiás
+
+Operação Tolueno investiga possíveis fraudes na aquisição de insumos destinados ao combate à pandemia de
+coronavirus
+
+A Controladoria-Geral da União (CGU) e a Polícia Federal (PF) deflagram, em Goiás, nesta terça-feira
+(15/12), a Operação Tolueno, que apura irregularidades na aquisição de insumos destinados ao combate a
+pandemia da Covid-19.
+
+Investigações
+
+As investigações tiveram início a partir de denúncias recebidas pela Promotoria de Justiça em Pirenópolis
+(GO) de que o álcool em gel 70% e as máscaras cirúrgicas adquiridos e utilizados pelo Hospital Estadual
+Ernestina Lopes Jaime (HEEL]J), em Pirenópolis (GO), eram de péssima qualidade, o que poderia colocar em
+risco os profissionais da saúde e os pacientes que frequentam a unidade hospitalar.
+
+Ainda segundo as denúncias, as irregularidades estariam sendo praticadas por intermédio do Instituto
+Brasileiro de Gestão Hospitalar (IBGH), organização social contratada pela Secretaria de Estado da Saúde
+(SES/GO), por meio do Contrato de Gestão nº 004/2014/SES/GO, para o gerenciamento, operacionalização e
+execução das ações e serviços de saúde no HEELJ. O referido contrato tem um valor mensal de
+aproximadamente R$ 2,5 milhões.
+
+Exames periciais, realizados pela PF, confirmaram que os produtos adquiridos pelo HEEJL, por intermédio
+do IBGH, não atendiam às especificações técnicas. No caso do álcool, também foi verificado que ele
+continha hidrocarbonetos comumente encontrados no etanol (álcool de posto), dentre eles a substância
+química Tolueno, que é facilmente absorvido pelos pulmões e pode afetar o sistema nervoso, ocasionando
+cansaço, confusão mental, debilidade, perda da memória, náusea e perda do apetite, da visão e da audição.
+
+Para além da má qualidade dos insumos e dos riscos deles decorrentes à saúde de pacientes e profissionais de
+saúde, a análise da contratação feita pela CGU demonstrou indicativos de favorecimento e conluio entre
+empresas, assim como superfaturamento na contratação.
+
+A PF obteve judicialmente a quebra do sigilo fiscal das empresas envolvidas. Os dados das notas fiscais
+emitidas pelas empresas demonstraram que os valores praticados pelas referidas empresas para esses
+produtos variaram enormemente de acordo com o comprador. Como exemplo, um mesmo galão de cinco
+litros de álcool em gel foi vendido, no período compreendido entre 23/03/2020 e 03/06/2020, por valores que
+variaram entre R$ 50,00 e R$ 300,00 para diferentes hospitais ou municípios.
+
+Impacto social
+As irregularidades detectadas resultaram em um prejuízo mínimo de cerca de R$ 2 milhões, além de colocar
+em risco a saúde de profissionais de saúde e pacientes que se utilizaram desses insumos e produtos.
+
+A investigação aponta para a existência de um grave e complexo esquema criminoso, envolvendo diversas
+pessoas.
+
+Diligências
+
+A ação mobiliza cerca de 50 policiais federais, além de servidores da CGU e visa cumprir 13 mandados de
+busca e apreensão e oito prisões temporárias, nas cidades de Brasília (DF), Pirenópolis (GO), Goiânia (GO),
+Aparecida de Goiânia (GO) e Macapá (AP).
+
+Também estão sendo cumpridas medidas de sequestro e indisponibilidade de bens dos envolvidos e o
+afastamento preventivo de agentes públicos.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+
+27
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/12/covid-19-cgu-e-pf-apuram-irregularidades-em-goias
+
+ 
+
+28
+11/12/2020: Operação Entre Amigos - Covid-l9: CGU, PK e MPF apuram irregularidades em
+Divinópolis (MG)
+
+Operação Entre Amigos investiga desvios por OS responsável pela UPA e Hospital de Campanha. Contrato
+suspeito ultrapassa R$ 100 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta sexta-feira (11/12), em Minas Gerais, da Operação
+Entre Amigos. O trabalho é realizado em parceria com a Polícia Federal (PF) e com o Ministério Público
+Federal (MPF). O objetivo é investigar o desvio de recursos por Organização Social responsável pela gestão
+da Unidade de Pronto Atendimento (UPA) Padre Roberto e do Hospital de Campanha instalado em
+Divinópolis (MG) para o enfrentamento da Covid-19.
+
+Investigação
+
+A origem da investigação foi uma denúncia recebida pela Polícia Federal sobre um suposto sobrepreço na
+locação de ambulâncias para atendimento de Divinópolis (MG), na vigência da situação emergencial
+decorrente da pandemia. Com base na documentação analisada, a CGU ampliou o escopo do trabalho para
+avaliar a contratação de uma Organização Social (OS) pela Secretaria Municipal de Saúde para gerenciar a
+UPA Padre Roberto e o Hospital de Campanha.
+
+As análises apontaram fortes indícios de desvio de recursos públicos em contratações realizadas pela
+Organização, praticados por meio de ausência de divulgação dos editais, favorecimento de empresas,
+sobrepreço em aquisições, contratações desnecessárias e/ou com objetos genéricos de serviços de
+consultoria/assessoria fictícios ou sem comprovação de quantidade/resultados com “empresas de fachada”.
+Também há indícios de favorecimento da entidade no seu processo de qualificação e em sua respectiva
+contratação pela Secretaria Municipal de Saúde.
+
+O valor total do contrato de gestão firmado entre a Prefeitura de Divinópolis e a OS, com vigência de 60
+meses, somado aos dois termos aditivos, é de R$ 103.031.420,00, sendo os recursos provenientes de fontes
+municipais, estaduais e do Fundo Nacional de Saúde (FNS).
+
+Impacto social
+
+O município de Divinópolis já recebeu cerca de R$ 155 milhões repassados pelo SUS em 2020. Desse valor,
+R$ 35.262.379,06 são especificamente para ação de prevenção e combate à Covid-19. As irregularidades
+observadas na aplicação desses recursos impactam diretamente na qualidade dos serviços prestados à
+população local, além de causar prejuízo ao erário.
+
+Diligências
+
+A Operação Entre Amigos consiste no cumprimento de 4 mandados de prisão temporária, 26 mandados de
+busca e apreensão, 50 afastamentos de sigilos fiscal e bancário, um afastamento de função pública, 4
+afastamentos do exercício das atividades econômicas, além de autorização de sequestro/arresto e
+indisponibilidade de bens de 9 pessoas jurídicas investigadas, nos municípios de Divinópolis (MG), Belo
+Horizonte (MG), Oliveira (MG), Betim (MG), Contagem (MG), Mateus Leme (MG), Lagoa Santa (MG) e
+São Joaquim de Bicas (MG). Os trabalhos contam com a participação de 112 policiais federais e de 10
+auditores da CGU.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov .br/cgu/pt-br/assuntos/noticias/2020/12/covid-19-cgu-pf-e-mpf-apuram-irregularidades-em-
+divinopolis-mg
+
+29
+  
+
+03/012/2020: OPERAÇAS
+Crixás (GO)
+
+VENTURA - Covid-19: CGU e PF apuram irregularidades na saúde em
+
+Operação Aventura investiga aquisições feitas pela Prefeitura de materiais hospitalares que não foram
+supostamente entregues pelas empresas contratadas
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (03/12), em Goiás, da
+
+Operação Aventura. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é apurar
+indícios de irregularidades na contratação de empresas para a prestação de serviços de saúde no município de
+Crixás (GO), destacadamente no fornecimento de materiais hospitalares no âmbito do combate à pandemia
+do no novo coronavírus.
+
+Investigação
+
+As investigações apontam que os representantes e/ou sócios proprietários das empresas teriam obtido
+contratos com a Prefeitura de Crixás (GO) por meio da prática de ilícitos como: fraudes aos procedimentos
+licitatórios; dispensa das licitações sem fundamento em procedimentos administrativos formais;
+direcionamento da contratação; além do desvio/apropriação indevida de recursos públicos, o que se realiza
+com a entrega parcial dos objetos das contratações.
+
+A força-tarefa constatou itens com sobrepreço de 100 a 300%, comparados à média nacional de preços
+do Painel de Contratações relacionadas à Covid-19 da CGU. As pessoas jurídicas investigadas receberam,
+em 2020, aproximadamente R$ 4 milhões da Prefeitura de Crixás.
+
+Impacto social
+
+O município de Crixás já recebeu R$ 6.711.725,79 repassados pelo SUS em 2020. Desse valor, R$
+2.456.617,48 são especificamente para ação de prevenção e combate à Covid-19. A má aplicação desses
+recursos, em um momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já
+está sendo bastante afetada pelos efeitos da pandemia.
+
+As supostas irregularidades praticadas pela Prefeitura de Crixás, quanto a recursos destinados à aquisição de
+materiais hospitalares para as Unidades de Saúde, podem ter colocado vidas em risco e afetado a qualidade
+no atendimento da população local (cerca de 17 mil habitantes).
+
+ 
+
+Diligências
+
+A Operação Aventura consiste no cumprimento de 15 mandados de busca e apreensão nos municípios
+de Crixás (GO), Rubiataba (GO), Alto Horizonte (GO), Goiânia (GO) e Aparecida de Goiânia (GO). Os
+trabalhos contam com a participação de 66 policiais federais e de 10 servidores da CGU.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/12/covid-19-cgu-e-pf-apuram-irregularidades-na-saude-
+
+  
+
+30
+30/11/2020: OPERAÇÃO SANGRIA - Covid-19: CGU, PF e MPF combatem irregularidades em
+Manaus (AM)
+
+Terceira fase da Operação Sangria apura ilícitos no pagamento de R$ 191 mil para transporte de respiradores
+pulmonares
+
+A Controladoria-Geral da União (CGU) participa, nesta segunda-feira (30), em Manaus (AM), da terceira
+fase da Operação Sangria. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério
+Público Federal (MPF). O objetivo é apurar possíveis irregularidades decorrentes do contrato celebrado pelo
+estado do Amazonas para aquisição de respiradores pulmonares em caráter emergencial para combate à
+pandemia de Covid-19 no estado.
+
+Investigação
+
+A primeira fase da Operação verificou um superfaturamento de aproximadamente R$ 500 mil pela compra
+de 28 respiradores de uma empresa comercializadora de vinhos. Na segunda fase da operação foram
+realizadas buscas e apreensões para verificar a atuação de agentes públicos e empresários que teriam
+participado do processo de aquisição.
+
+A terceira fase da Operação Sangria decorre de investigações que identificaram irregularidades no
+pagamento de R$ 191 mil para o transporte de 19 respiradores pelo Governo do Estado do Amazonas, frete
+que deveria ter sido custeado pela empresa fornecedora dos referidos equipamentos.
+
+Impacto Social
+
+Até o mês de novembro de 2020, o Amazonas havia recebido R$185.513.318,09, repassados pelo Fundo
+Nacional de Saúde (FNS), para combate à Covid-19. O desvio de recursos que deveriam ser utilizados para
+aquela finalidade repercute negativamente no tratamento das pessoas atingidas pela pandemia, podendo
+contribuir para opara o aumento de óbitos.
+
+Diligências
+
+A terceira fase da Operação Sangria consiste no cumprimento de 4 mandados de busca e apreensão no
+município de Manaus (AM). O trabalho conta a participação de 4 auditores da CGU e de aproximadamente
+30 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https:/Awww.gov br/cgu/pt-br/assuntos/noticias/2020/1 1 /covid-19-cgu-pf-e-mpf-combatem-irregularidades-
+em-manaus-am
+
+31
+04/11/2020: OPERAÇÃO OCTOPUS - Covid-19: CGU, PF e MPF apuram irregularidades na Região
+dos Lagos (RJ)
+
+Operação Octopus investiga possíveis ilícitos cometidos por sociedades empresárias no fornecimento de
+medicamentos e insumos hospitalares
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (24/11), no Rio de Janeiro, da Operação
+Octopus. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal
+(MPF). O objetivo é apurar possíveis irregularidades de sociedades empresárias no fornecimento de
+medicamentos e insumos hospitalares em municípios da Baixada Litorânea (Região dos Lagos). Dentre os
+processos investigados estão contratações realizadas para o enfrentamento à pandemia da Covid-19.
+
+Investigação
+
+O trabalho se originou a partir de documentos apreendidos na deflagração da Operação Scepticus, em junho
+deste ano, na qual se verificou que as empresas envolvidas também mantinham contratos com os municípios
+de Armação de Búzios (RJ), Araruama (RJ), Iguaba Grande (RJ), São Pedro da Aldeia (RJ) e Saquarema
+(RJ), replicando a mesma forma de atuação identificada em Carapebus (RJ).
+
+Os municípios envolvidos firmaram diversos contratos com as empresas investigadas no montante de R$
+30.464.340,80, no período de 2015 a 2020, para a aquisição de diversos bens e serviços, incluindo
+contratações realizadas para o enfrentamento à pandemia da Covid-19.
+
+Em levantamentos realizados pela CGU, verificou-se, entre os indícios de irregularidades, empresas sem
+empregados e com a sede em endereços com características de imóveis residenciais, além da existência
+ligação entre os sócios das citadas empresas contratadas.
+
+Impacto social
+
+O desvio de recursos públicos da saúde impacta diretamente a qualidade de vida da população local,
+prejudicando a implementação de políticas públicas e a prestação do serviço de saúde ofertado aos cidadãos.
+Seus efeitos tornam ainda mais desafiadora a implementação das ações de combate à pandemia da Covid-19.
+
+Diligências
+
+A Operação Octopus consiste no cumprimento de 5 mandados de busca e apreensão, abrangendo os
+municípios de Armação de Búzios (RJ), Araruama (RJ), Iguaba Grande (RJ), São Pedro da Aldeia (RJ) e
+Saquarema (RJ). O trabalho conta com a participação de 11 auditores da CGU, integrantes do MPF e
+policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+ 
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2020/1 1 /covid-19-cgu-pf-e-mpf-apuram-irregularidades-na-
+reg os-lagos-rj
+
+ 
+
+32
+20/11/2020: Operação Vácuo - Covid-19: CGU e PF apuram irregularidades em Coronel Fabriciano
+(MG)
+
+Operação Vácuo investiga aquisição de dois respiradores e locação de 10 de ventiladores pulmonares pelo
+município com preços acima do mercado
+
+A Controladoria-Geral da União (CGU) participa, nesta sexta-feira (20/11), em Minas Gerais, da Operação
+Vácuo. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é apurar supostas
+irregularidades na execução de recursos repassados pelo Governo Federal para aquisição de equipamentos
+utilizados no tratamento de pacientes com Covid-19.
+
+Investigação
+
+O trabalho se originou a partir de denúncia da Câmara de Vereadores de Coronel Fabriciano (MG) à Polícia
+Federal, informando que a locação de 10 ventiladores pulmonares pela Prefeitura do mesmo município,
+como parte da estratégia de enfrentamento do novo coronavírus, estaria com preços acima do razoável.
+
+A CGU, durante a análise da documentação disponibilizada pelo município, identificou um provável
+favorecimento à empresa contratada para a locação dos 10 equipamentos e para a aquisição de dois
+respiradores remanufaturados. Também foi apurado um sobrepreço em torno de 168% no contrato de locação
+e de 53% na aquisição dos aparelhos, com prejuízo estimado em R$ 480 mil.
+
+O valor total de ambos os contratos foi de R$ 770 mil, sendo os recursos provenientes de repasses do Fundo
+Nacional de Saúde (FNS).
+
+Também foram identificados indícios de direcionamento das dispensas para a empresa contratada e de fraude
+dos procedimentos licitatórios. Outra descoberta foi a possível existência de relacionamento entre as três
+empresas que apresentaram propostas, havendo indicativo de que alguns sócios sejam “laranjas” e de que as
+três empresas atuem em conjunto.
+
+Impacto social
+
+Os ventiladores pulmonares adquiridos e locados com recursos transferidos pelo FNS para o enfretamento da
+emergência de saúde pública decorrente da pandemia de Covid-19 seriam utilizados em 20 novos leitos de
+UTI disponíveis no Hospital Dr. José Maria Morais e na Unidade de Pronto Atendimento — UPA 24h do
+município. As contratações irregulares praticadas pela Prefeitura de Coronel Fabriciano (MG) podem ter
+afetado a qualidade do atendimento da população da localidade, que possui cerca de 110 mil habitantes.
+
+O município de Coronel Fabriciano (MG) recebeu até o momento cerca de R$ 10.513.740,88 para ações de
+prevenção e combate à Covid-19. A má aplicação desses recursos, em um momento tão delicado como o
+atual, é extremamente prejudicial para a sociedade, que já está sendo bastante afetada pelos efeitos da
+pandemia.
+
+Diligências
+
+A Operação vácuo consiste no cumprimento de 9 mandados de busca e apreensão nos municípios de Belo
+Horizonte (MG), Confins (MG), Ribeirão das Neves (MG) e São José da Lapa (MG), além de 7 mandados de
+bloqueio de bens. Os trabalhos contam com a participação de 40 policiais federais e de 14 auditores da CGU.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+ 
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2020/1 1 /covid-19-cgu-e-pf-apuram-irregularidades-em-
+coronel-fabriciano-mg
+
+33
+05/11/2020: Operação Cartão Vermelho - Covid-19: CGU, PF e MPF combatem fraudes em Fortaleza
+(CE)
+
+Operação Cartão Vermelho apura irregularidades na administração do Hospital de Campanha do Estádio
+Presidente Vargas. Prejuízo é de R$ 7 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (03/11), no Ceará, da Operação Cartão
+Vermelho. O trabalho é realizado em parceria com o Ministério Público Federal (MPF) e a Polícia Federal
+(PF). O objetivo é apurar irregularidades na contratação de Organização Social, promovida pela Prefeitura de
+Fortaleza (CE), para implementação, gerenciamento e gestão do Hospital de Campanha do Estádio
+Presidente Vargas (HCPV).
+
+A investigação compõe um conjunto de trabalhos, em parceria com outros órgãos de controle, visando
+contribuir para a eficiência e eficácia na aplicação dos recursos públicos liberados para ações emergenciais
+de combate à pandemia da Covid-19.
+
+Investigação
+
+O contrato de gestão firmado entre o ente público e a Organização Social foi formalizado com estimativa de
+gastos de até R$ 95,9 milhões, tendo sido realizadas despesas no valor de R$ 50.750.069,80. No decorrer das
+investigações, a CGU analisou despesas com custeio, referentes aos meses de abril e maio, bem como de
+investimentos, na aquisição de monitores e módulos complementares, envolvendo um total de R$
+32.073.013,25.
+
+Com o aprofundamento do trabalho, foram identificadas várias irregularidades na formalização e execução
+contratual, destacando-se: a contratação de serviços a preços superiores aos de serviços equivalentes em
+outros contratos formalizados pela administração pública nas mesmas circunstâncias de mercado; a
+deficiência na formulação de indicadores capazes de demonstrar a eficiência do modelo de gestão por OSS
+para o HCPV; o pagamento de valores a maior e a ocorrência de Irregularidades na aquisição de monitores
+multiparamétricos. O prejuízo estimado é superior a R$ 7 milhões.
+
+Impacto social
+
+Em 2020, até o mês de outubro, para o enfrentamento da emergência de saúde pública provocada pelo
+coronavírus, Fortaleza (CE) havia recebido, pelo Fundo Nacional de Saúde (FNS), cerca de R$ 268 milhões.
+A má aplicação desses recursos, por conta de pagamentos indevidos, em um momento tão delicado como o
+atual, é extremamente prejudicial para toda a sociedade, que já está sendo bastante afetada pelos efeitos da
+pandemia.
+
+Diligências
+
+A Operação Cartão Vermelho consiste no cumprimento de 27 mandados de busca e apreensão nas cidades de
+Fortaleza (CE), São Paulo (SP) e Pelotas (RS). O trabalho conta com a participação de 22 servidores da CGU
+e de 120 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/11/covid-19-cgu-pf-e-mpf-combatem-fraudes-em-
+fortaleza-ce
+
+34
+30/10/2020: OPERAÇÃO OFICINA DESMASCARADA - Covid-19: CGU e PF combatem
+irregularidades na saúde em São Luís (MA)
+
+Operação Oficina Desmascarada investiga fraudes na contratação emergencial de empresas para
+fornecimento de equipamentos de proteção individual
+
+A Controladoria-Geral da União (CGU) participa, nesta sexta-feira (30), no Maranhão, da Operação Oficina
+Desmascarada. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é combater
+irregularidades contratuais e em licitações relacionadas à compra de equipamentos de proteção individual
+(EPIs) para utilização nas ações de combate à Covid-19.
+
+Investigações
+
+O trabalho se iniciou a partir de investigação da CGU, que detectou contratação pela Secretaria de Saúde
+(SEMUS) de São Luís (MA), por dispensa de licitação e em caráter emergencial, de duas empresas para
+fornecimento de máscaras e aventais cirúrgicos descartáveis. Os auditores constataram que a compra foi
+realizada a preços superfaturados em cerca de 140% no comparativo ao valor de mercado. O prejuízo
+calculado é de pelo menos R$ 1.040.000,00.
+
+As empresas não apresentavam capacidade técnico-operacional, sendo uma delas oficina mecânica em São
+Luís (MA) e a outra um pequeno ponto comercial de venda de materiais de expediente e limpeza, sediada no
+município de Matinha (MA), a 240 Km da capital.
+
+Investigações adicionais da PF indicaram conluio entre possíveis sócios ocultos dessas empresas e servidores
+da SEMUS. O grupo criminoso se utilizou do mesmo modus operandi descoberto na Operação Cobiça Fatal,
+deflagrada em junho de 2020.
+
+Impacto social
+
+O município de São Luís já recebeu em 2020 cerca de R$ 1 bilhão repassados pelo Fundo Nacional de Saúde
+(FNS). Desse valor, cerca de R$ 360 milhões são especificamente para ações de prevenção e combate à
+pandemia do novo coronavírus.
+
+As fraudes supostamente perpetradas na SEMUS, com o consequente prejuízo milionário causado aos cofres
+municipais, possuem poder de impactar negativamente as ações de saúde necessárias para o bom
+atendimento às vítimas de Covid-19, além de tornar mais onerosa a disponibilização de EPIs para os
+profissionais da saúde.
+
+Diligências
+
+A Operação Oficina Desmascarada consiste no cumprimento de 2 mandados de prisão temporária e 11
+mandados de busca e apreensão em São Luís (MA) e Paço do Lumiar (MA), além do bloqueio de bens,
+afastamento de servidores, proibição de contratação das empresas investigadas por entes públicos e
+afastamento dos sigilos bancário, fiscal e telemático dos envolvidos.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+ 
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/10/covid-19-cgu-e-pf-combatem-irregularidades-na-
+saude-em-sao-luis-ma
+
+35
+14/10/2020: Operação Desvid-19 - Covid-19: Cl
+Roraima
+
+ 
+
+GU e PF combatem fraudes na Secretaria da Saúde de
+
+Operação Desvid-19 investiga desvio de recursos que deveriam ser utilizados no combate à pandemia.
+Contratações suspeitas envolvem R$ 20 milhões
+
+A Controladoria Geral da União (CGU) participa, nesta quarta-feira (14/10), em Roraima, da Operação
+Desvid-19. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é desarticular possível
+esquema criminoso voltado ao desvio de recursos públicos por meio do direcionamento de licitações. As
+contratações suspeitas de irregularidades, realizadas no âmbito da Secretaria de Estado da Saúde
+(SESAU/RR), envolveriam aproximadamente R$ 20 milhões que deveriam ser utilizados no combate ao
+Covid-19.
+
+Investigação
+
+A CGU identificou diversos indícios da prática de sobrepreço e superfaturamento nas contratações,
+realizadas pela SESAU/RR, para aquisição, dentre outros itens, de equipamentos de EPI e teste rápido para
+detecção do Covid-19. O inquérito policial apontou que os recursos eram direcionados, por meio de
+processos licitatórios fraudulentos, para empresas específicas, que então eram contratadas pela Secretaria.
+
+Impacto Social
+
+O Estado de Roraima já recebeu em 2020 cerca de R$ 171 milhões repassados pelo Fundo Nacional de
+Saúde (FNS). Desse valor, R$ 55 milhões são especificamente para combate à Covid-19. A má aplicação
+desses recursos, em um momento tão delicado como o atual, é extremamente prejudicial para a sociedade, já
+bastante afetada pelos efeitos da pandemia.
+
+Diligências
+A Operação Desvid-19 consiste no cumprimento de 7 mandados de busca e apreensão na cidade de Boa
+Vista (RR). O trabalho conta com a participação de 3 servidores da CGU e de 41 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+ 
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/10/covid-19-cgu-e-pf-combatem-fraudes-na-secretaria-
+
+da-saude-de-roraima
+
+ 
+
+ 
+
+36
+05/10/2020: Operação Sangria- segunda fase - Covid-19: CGU, PE e MPF deilagram segunda fase da
+Operação Sangria
+
+Objetivo é aprofundar investigações de superfaturamento na aquisição de ventiladores pulmonares e
+recebimento de vantagens indevidas
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (8/10), em Manaus (AM), da segunda
+fase da Operação Sangria. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério
+Público Federal (MPF). O objetivo é aprofundar as investigações que apuram possíveis irregularidades em
+contrato celebrado por dispensa de licitação e em caráter emergencial pela Secretaria de Saúde do Amazonas
+(SUSAM).
+
+Investigações
+
+No decorrer das investigações que culminaram na 1º fase da Operação Sangria, verificou-se que a SUSAM
+pagou R$ 2,9 milhões a uma loja de vinhos por 28 ventiladores pulmonares para tratar de infectados pelo
+novo coronavírus. As apurações verificaram que a aquisição foi a valores muito superiores aos de mercado,
+apontando para superfaturamento e direcionamento à empresa contratada. Além disso, os equipamentos
+foram considerados "inadequados" para pacientes com Covid-19, segundo o Conselho Regional de Medicina
+do Amazonas (CREMAM).
+
+O aprofundamento dos trabalhos, consubstanciados nesta segunda fase, apontam para o possível
+envolvimento de agentes públicos do Estado do Amazonas nas irregularidades investigadas, inclusive com
+indícios de recebimento de vantagens indevidas, visando o direcionamento da escolha do fornecedor dos
+respiradores.
+
+Impacto social
+
+O Amazonas já recebeu cerca de R$ 546 milhões repassados pelo Fundo Nacional de Saúde (FNS) em 2020.
+Desse valor, R$ 168.756.854,49 são especificamente para combate à Covid-19. A má aplicação desses
+recursos, em um momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já
+está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Sangria consiste no cumprimento de 5 mandados de prisão temporária e de 11 de busca e
+apreensão na cidade de Manaus (AM). O trabalho conta com a participação de 8 servidores da CGU e de
+policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/10/covid-19-cgu-pf-e-mpf-deflagram-segunda-fase-da-
+operacao-sangria
+
+ 
+
+37
+06/10/2020: Operação Apneuse - Covid-19: CGU, PE e MPF investigam compra de respiradores em
+Japeri (RJ)
+
+Operação Apneuse apura aquisição de equipamentos obsoletos, ocorrência de sobrepreço e atuação entre
+agente público e empresa fornecedora
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (6/10), no Rio de Janeiro, da Operação
+Apneuse. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal
+(MPF). O objetivo é apurar irregularidades na compra de equipamentos para o combate à pandemia de
+Covid-19 pelo município de Japeri (RJ).
+
+Investigação
+
+A investigação aponta indícios de irregularidades na compra de 10 respiradores pulmonares, fabricados nas
+décadas de 1980 e 1990, sem certificação junto à Anvisa desde o ano de 2000, por preço superior aos
+praticados no mercado para compra de um respirador novo. A Secretaria Municipal de Saúde também
+adquiriu 20 monitores cardíacos, 5,6 mil equipos (enterais, paraenterais e fotossensíveis) e 50 bombas
+infusoras, no valor total de R$ 1,8 milhão.
+
+As fraudes praticadas têm potencial prejuízo aos cofres público, devido aos respiradores serem considerados
+obsoletos e a ocorrência de sobrepreço de R$ 210.317,50 na compra de bombas infusoras. Também há
+suspeita de atuação articulada de agente público e a empresa contratada para o fornecimento de
+equipamentos.
+
+Impacto social
+
+O município de Japeri (RJ) já recebeu cerca de R$ 24.380.227,32 repassados pelo SUS em 2020. Desse
+valor, R$ 5.194.836,92 são especificamente para ação de prevenção e combate à Covid-19. A má aplicação
+desses recursos, em um momento tão delicado como o atual, é extremamente prejudicial para a sociedade,
+que já está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Apneuse consiste no cumprimento de 5 mandados de busca e apreensão, abrangendo os
+municípios de Japeri, Nova Iguaçu e Nilópolis que fazem parte da Região Metropolitana do Rio de Janeiro.
+O trabalho conta com a participação de 6 auditores da CGU, integrantes do MPF e 21 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/10/covid-19-cgu-pf-e-mpf-investigam-compra-de-
+respiradores-em-japeri-rj
+
+38
+02/10/2020: Operação Raio-X - Operação Raio-X combate desvios de recursos públicos em contratos
+da área de Saúde em Sergipe
+
+PF identifica fraudes em contratação de empresa responsável por realizar exames de diagnóstico por
+radiologia em pacientes do Hospital de Campanha de Aracaju.
+
+Aracaju/SE - A Polícia Federal (PF) deflagrou hoje, 02/10/2020, a Operação Raio-X, com o objetivo de obter
+provas para investigação que apura possíveis desvios de verbas públicas e fraude na contratação de empresa
+para realizar exames de diagnóstico por radiologia em pacientes do Hospital de Campanha de Aracaju. Estão
+sendo cumpridos 3 mandados de busca e apreensão em Aracaju/SE, expedidos pela 1º Vara da Justiça
+Federal de Sergipe.
+
+A Operação Raio-X é um desdobramento da Operação Serôdio e conta com análises técnicas da
+Controladoria-Geral da União (CGU/SE). Durante a investigação, foram constatadas irregularidades na
+contratação e indícios de favorecimento. A empresa foi contratada sem preencher diversos requisitos e com
+proposta em desacordo com o termo de referência. Também foram identificados indícios de inexecução
+contratual.
+
+A empresa investigada foi contratada por mais de R$ 380 mil pela Secretaria Municipal de Saúde de
+Aracaju/SE, porém não possui empregados registrados, seu endereço é inconsistente e o proprietário está
+recebendo auxílio emergencial.
+
+https://www. gov.br/pf/pt-br/assuntos/noticias/2020/10-noticias-de-outubro-de-2020/operacao-raio-x-
+combate-desvios-de-recursos-publicos-em-contratos-da-area-de-saude-em-sergipe
+
+ 
+
+39
+29/09/2020: Operação S.0.5 - Covid-19: CGU e PF apuram irregularidades com recursos da saúde no
+Pará
+
+Operação S.O.S investiga contratação, pelo Governo do Estado, de Organizações Sociais em Saúde (OSS)
+para gestão de hospitais regionais e de campanha
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (29), da Operação S.0.S. O trabalho é
+realizado em parceria com a Polícia Federal (PF). O objetivo é apurar irregularidades na contratação, pelo
+Governo do Pará, de grupo de Organizações Sociais em Saúde (OSS) para a gestão de hospitais regionais e
+de campanha em municípios do Estado.
+
+Investigações
+
+As investigações tiveram início após veículos de mídia noticiarem irregularidades nas contratações de OSS
+para a gestão dos hospitais de campanha nos municípios de Belém (PA), Marabá (PA), Santarém (PA) e
+Breves (PA). Os contratos, firmados por meio de dispensa de licitação, tinham como objeto o fomento,
+gerenciamento, operacionalização e execução de atividades e serviços de saúde a serem desenvolvidas como
+medida de enfrentamento à pandemia da Covid-19.
+
+As apurações revelaram que um grupo de quatro OSS firmou, ao menos, 12 contratos ou termos aditivos com
+o Governo do Estado do Pará entre agosto de 2019 e maio de 2020, totalizando aproximadamente R$ 1,2
+bilhão, já tendo sido pagos o montante de R$ 310 milhões.
+
+Os documentos analisados apontam para o direcionamento e favorecimento das OSS, mediante fraude e
+montagem processual, com a inclusão de documentos inidôneos e/ou com data retroativa. Também foi
+verificado o cometimento de infração pela Administração da Secretaria Estadual de Saúde às normas gerais
+que dispõem sobre a Contabilidade e Finanças Públicas e aos Contratos Administrativos.
+
+Ao longo da investigação, a PF no Pará constatou que as mesmas Organizações Sociais já vinham sendo
+monitoradas pela Polícia Civil de São Paulo, há cerca de dois anos, tendo em vista que a maioria dessas OSS
+é oriunda daquele estado. O trabalho contribuiu com diversas provas colhidas por meio de interceptação
+telefônica, quebra de sigilos bancários e monitoramento dos investigados.
+
+Impacto social
+
+O Governo do Estado do Pará já recebeu cerca de R$ 829 milhões repassados pelo SUS em 2020. Desse
+valor, R$ 443.308.285,31 são especificamente para ação de prevenção e combate à Covid-19. A má
+aplicação desses recursos, em um momento tão delicado como o atual, é extremamente prejudicial para a
+sociedade, que já está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A operação S.O.S consiste no cumprimento de 40 mandados de busca e apreensão nos estados do Pará,
+Goiás e Rio Grande do Sul, além de 12 mandados de prisão temporária. O trabalho conta com a participação
+de 14 auditores da CGU e cerca de 200 policiais federais.
+
+Os investigados podem responder pelos crimes de falsidade ideológica, crimes previstos na Lei de
+Licitações, corrupção passiva e ativa, peculato, lavagem de dinheiro e organização criminosa.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+ 
+
+ 
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/09/covid-19-cgu-e-pf-apuram-irregularidades-com-
+reci saude-no-para
+
+40
+15/09/2020: Operação Cama de Lut - Covid-1): CGU, PF e MPF combatem irregularidades em
+Tocantins
+
+Operação Cama de Tut investiga fraude em aquisição de equipamentos hospitalares pela Secretaria de Saúde
+do Estado. Prejuízo é de R$ 7,4 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta sexta-feira (18/9), em Tocantins, da Operação Cama
+de Tut. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF).
+O objetivo é apurar supostas irregularidades de fraude e sobrepreço referentes a pregão eletrônico,
+promovido pela Secretaria de Saúde do Estado (SESAU/TO), para a aquisição de equipamentos hospitalares,
+inclusive camas.
+
+Investigação
+
+A SESAUITO realizou pregão eletrônico para adquirir equipamentos hospitalares, especialmente cama
+eletrônica hospitalar, sem pesquisa de mercado e com sobrepreço, mediante restrições no edital que
+inviabilizaram a participação de outras empresas e inibiram o caráter competitivo do certame. Os valores
+envolvidos na contratação são da ordem de R$ 13,3 milhões.
+
+O aprofundamento da investigação demonstrou a possível ocorrência de direcionamento da licitação e, com o
+início da execução do contrato, os órgãos de controle envolvidos no trabalho apontam um potencial prejuízo
+de R$ 7.458.815,40 devido ao superfaturamento no fornecimento de 590 camas eletrônicas hospitalares.
+
+Impacto social
+
+Em 2020, até o mês de setembro, o Fundo Estadual de Saúde do Tocantins havia recebido da União cerca de
+R$ 99.265.621,56 para ações de prevenção e combate ao novo coronavírus. A má aplicação desses recursos,
+por conta de desvios e pagamentos indevidos, em um momento tão delicado como o atual, é extremamente
+prejudicial para toda a sociedade, que já está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Cama de Tut consiste no cumprimento de 6 mandados de busca e apreensão nos municípios de
+Palmas (TO) e São Paulo (SP). Os trabalhos contam com a participação de aproximadamente 30 policiais
+federais e de 3 auditores da CGU.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2020/09/covid-19-cgu-pf-e-mpf-combatem-irregularidades-
+em-tocantins
+
+41
+16/09/2020: Operação Desumano - Covid-1): CGU, PF, MPF e MPPE combatem fraudes em
+Pernambuco
+
+Operação Desumano investiga direcionamento e desvios de recursos em contratação de Organização Social
+de Saúde (OSS) por R$ 57 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta quarta-feira (16/9), em Pernambuco, da Operação
+Desumano. O trabalho é realizado em parceria com a Polícia Federal (PF), o Ministério Público Federal
+(MPF) e o Ministério Público Estadual (GAECO/MPPE). O objetivo é apurar supostas irregularidades em
+contratação, pelas Prefeituras de Recife (PE) e de Jaboatão dos Guararapes (PE), de Organização Social de
+Saúde (OSS) para o gerenciamento de serviços no âmbito das ações de combate à Covid-19.
+
+Investigações
+
+Os levantamentos iniciais efetuados pela CGU e pelos órgãos parceiros identificaram fatores de risco quanto
+à execução dos valores contratados e indícios de fraude, indicando tratar-se aparentemente de contratação de
+entidade sem requisitos formais e capacidade operacional, patrimonial e financeira compatíveis com os
+serviços pactuados.
+
+Os auditores verificaram também indícios de possível direcionamento, por parte de agentes públicos dos
+municípios, bem como de possíveis pagamentos indevidos, mediante desvios de recursos na execução dos
+contratos.
+
+As contratações firmadas pelos dois municípios, feitas por dispensa de licitação com indícios de
+direcionamento e favorecimento, alcançam o montante de cerca R$ 57 milhões.
+
+Impacto Social
+
+Em 2020, até o mês de agosto, para o enfrentamento da emergência de saúde pública provocada pelo
+coronavírus, Recife (PE) havia recebido, pelo Fundo Nacional de Saúde (FNS), cerca de R$ 95 milhões, e
+Jaboatão dos Guararapes (PE) cerca de R$ 32 milhões. A má aplicação desses recursos, por conta de desvios
+e pagamentos indevidos, em um momento tão delicado como o atual, é extremamente prejudicial para toda a
+sociedade, que já está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Desumano consiste no cumprimento de 1 mandado de prisão temporária em Recife (PE) e de 21
+mandados de busca e apreensão, sendo 16 em Recife (PE), 3 em Jaboatão dos Guararapes (PE), | em Olinda
+(PE) e 1 em Paulista (PE). O trabalho conta com a participação de 8 servidores da CGU e de cerca de 80
+policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/09/covid-19-cgu-pf-mpf-e-mppe-combatem-fraudes-
+em-pernambuco
+
+42
+02/09/2020: Operação Caligo - Covid-19: CGU e PF combatem fraudes com recursos da Saúde em
+Teresina (PI)
+
+Operação Caligo investiga compra de máscaras e prejuízo decorrente de pagamentos por EPIs adquiridos
+pelo município que não teriam sido entregues
+
+A Controladoria-Geral da União (CGU) participa, nesta quarta-feira (2), no Piauí, da Operação Caligo. O
+trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é aprofundar investigações acerca de
+fraude e de compra superfaturada em um processo de dispensa de licitação conduzido pela Fundação
+Municipal de Saúde (FMS) de Teresina (PI) e acerca de pagamentos efetuados pela Fundação por produtos
+com indícios de sobrepreço e que não teriam sido fornecidos no âmbito de outro processo de dispensa de
+licitação por uma das empresas envolvidas.
+
+Apurações
+
+A partir da análise de dois processos de dispensas de licitação realizados pela FMS, justificadas pela
+emergência sanitária decorrente da pandemia do novo coronavírus , a CGU apurou sobrepreço de 172,73%
+na aquisição de máscaras (respiradores PFF2) junto a empresa de funcionária da Fundação, o que
+representou um prejuízo decorrente de superfaturamento na ordem de R$ 190 mil, considerando que a
+contratação, no valor de R$ 300 mil, já foi integralmente paga.
+
+Além disso, nas vendas realizadas pela principal empresa fornecedora de equipamentos de proteção
+individual (EPIs) da FMS, identificaram-se indícios de prejuízo de R$ 861.816,80 devido ao pagamento por
+produtos que não teriam sido fornecidos e lucro abusivo nas vendas, que chegaram a 420%. Os pagamentos
+realizados somaram, aproximadamente, R$ 19,3 milhões entre abril e agosto de 2020.
+
+Impacto social
+
+Entre março e agosto de 2020, o Fundo Nacional de Saúde (FNS) repassou à FMS de Teresina (PI) cerca de
+R$ 129 milhões para ações de prevenção e combate à Covid-19. O montante envolvido na investigação
+corresponde, assim, a 15% do total recebido da União. A má aplicação desses recursos, em um momento tão
+delicado como o atual, é extremamente prejudicial para a sociedade, que já está sendo bastante afetada pelos
+efeitos da pandemia.
+
+Diligências
+A Operação Caligo consiste no cumprimento de dez mandados de busca e apreensão, todos em Teresina (PJ).
+O trabalho conta com a participação de sete auditores da CGU e cerca de 40 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+á-las por meio de formulário elet o. A denúncia pode ser anônima, para isso, basta escolher a opção
+
+ 
+
+    
+
+enviá:
+“Não identificado”.
+
+ 
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/09/covid-19-cgu-e-pf-combatem-fraudes-com-recursos-
+da-saude-em-teresina-pi
+
+ 
+
+43
+27/08/2020: Operação Protocletos - CGU e PF combatem fraudes com recursos da saúde em Santo
+André (SP)
+
+Operação Protocletos investiga irregularidades em contratação pela Prefeitura para fornecimento de fraldas
+descartáveis ao Hospital de Campanha
+
+A Controladoria-Geral da União (CGU) colaborou com informações de inteligência para a Operação
+Protocletos, deflagrada nesta quinta-feira (27) pela Polícia Federal (PF). O objetivo é combater supostas
+irregularidades na contratação, pela Prefeitura de Santo André (SP), para fornecimento de 689 mil fraldas
+descartáveis, custeadas com recursos federais, para atender a demanda de pacientes infectados com o novo
+coronavirus.
+
+Investigação
+
+O trabalho conjunto da CGU e PF verificou que a Prefeitura utilizou a situação de emergência provocada
+pela pandemia para fundamentar e adquirir, por meio de dispensa de licitação, não somente o quantitativo de
+fraldas descartáveis a serem utilizados no Hospital de Campanha, mas também para abastecimento geral de
+diversas unidades de saúde do município.
+
+Nas investigações, foram detectadas as seguintes irregularidades: estreita ligação entre a empresa contratada
+pela Prefeitura e outra empresa supostamente concorrente, que seria de “fachada”; existência de sócio
+“laranja” na empresa contratada; além de fortes indícios de sobrepreço de 79,50% na aquisição dos insumos.
+
+Impacto social
+
+Em 2020, até meados de agosto, Santo André (SP) havia recebido pelo Fundo Nacional de Saúde (FNS)
+cerca de R$ 78 milhões para ações de enfrentamento da Covid-19. A má aplicação desses recursos, em um
+momento tão delicado como o atual, é extremamente prejudicial para toda a sociedade, que já está sendo
+bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Protocletos consiste no cumprimento de três mandados de busca e apreensão em endereços
+localizados na cidade de São Paulo (SP). Os investigados podem responder por crimes de fraude à licitação e
+associação criminosa.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/08/cgu-e-pf-combatem-fraudes-com-recursos-da-saude-
+
+ 
+
+44
+20/08/2020: Operação Estroinas - CGU e PF apuram irregularidades com recursos de saúde em
+Carmópolis (SE)
+
+Operação Estroinas investiga suspeita de contratações fraudulentas realizadas para combate à Covid-19.
+Montante envolvido é da ordem de R$ 1,7 milhão
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (20), em Sergipe, da Operação
+Estroinas. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é combater
+irregularidades em contratações de caráter emergencial, promovidas pela Secretaria de Saúde de Carmópolis
+(SE), sob o fundamento de estarem relacionadas ao enfrentamento da Covid-19.
+
+As contratações envolvem a aquisição de EPI's (máscaras, luvas, toucas e aventais descartáveis), material de
+higiene (álcool 70 % líquido e em gel, sabonete líquido e papel toalha) e medicamentos, assim como os
+serviços de instalação e locação de salas climatizadas na área externa do Hospital Municipal e de
+sanitização/higienização de veículos e logradouros.
+
+Investigações
+
+As investigações identificaram que essas contratações realizadas pelo município possuem suspeitas de
+fraudes, tais como irregularidades na elaboração de propostas de preços e indícios de favorecimento em
+aquisições e locações. Também foram constatados sobrepreço e possível inexecução contratual por parte de
+algumas empresas contratadas.
+
+Os contratos foram celebrados com empresas de capacidade operacional incompatível com os serviços que
+se pretendia contratar. O montante envolvido nas contratações investigadas é da ordem de R$ 1,7 milhão.
+
+Impacto social
+
+Até o mês de julho de 2020, foram repassados pelo Fundo Nacional de Saúde ao município de Carmópolis
+(SE) cerca de R$ 2,7 milhões para custear diversas ações na área, incluindo as de prevenção e combate à
+Covid-19. Os valores das contratações fraudulentas representam mais de 60% dos recursos recebidos da
+União para o enfrentamento do novo coronavírus.
+
+As irregularidades investigadas podem ter ocasionado prejuízos de ordem financeira. A má aplicação desses
+recursos, em um momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já
+está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Estroinas consiste no cumprimento de 32 mandados de busca e apreensão nos municípios de
+Aracaju (SE), Carmópolis (SE), Nossa Senhora do Socorro (SE), Cedro (PE), Boca da Mata (AL), Maceió
+(AL) e Tancredo Neves (BA). O trabalho conta com a participação de seis auditores da CGU e de 83
+policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/08/cgu-e-pf-apuram-irregularidades-com-recursos-de-
+saude-em-carmopolis-se
+
+ 
+
+45
+13/08/2020: Operação NaClO - CGU e PF combatem irregularidades com recursos públicos em União
+(PI)
+
+Operação NaCIO investiga sobrepreço de 207,94% na contratação, realizada pela Prefeitura Municipal, para
+fornecimento de 30 mil litros água sanitária
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (13), no Piauí, da Operação NaCIO. O
+trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é combater irregularidades na
+contratação para fornecimento de 30 mil litros de água sanitária, efetuada pela Prefeitura de União (PI), por
+meio de dispensa de licitação custeada com recursos federais e fundamentada na situação de emergência
+decorrente do novo coronavírus.
+
+As investigações apontam indícios de conluio envolvendo empresas e agentes públicos do município, bem
+como revelam sobrepreço nos valores contratados.
+
+Enquanto o litro da água sanitária foi adquirido por outros entes públicos, em média, por R$ 3,17 durante o
+atual período de pandemia, conforme verificado em consulta ao Painel Gerencial “Contratações
+Relacionadas à Covid-19”, lançado pela CGU, a Prefeitura de União (PI) pagou pelo litro do mesmo produto
+o valor de R$ 9,76, representando um sobrepreço de 207,94%. O prejuízo potencial aos cofres públicos
+identificado nessa contratação é de R$ 164.762,50.
+
+Impacto social
+
+A contratação com preços superiores aos praticados no mercado, inclusive já consideradas eventuais
+elevações de preço em virtude da situação emergencial vivenciada, representa um desperdício de recursos
+públicos, que poderiam ser empregados em benefício da população local em outras ações de saúde e de
+prevenção e combate à Covid-19.
+
+Diligências
+A Operação consiste no cumprimento de seis mandados de busca e apreensão nas cidades de Teresina (PI) e
+de União (PI). O trabalho conta com a participação de dois servidores da CGU e de 30 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/08/cgu-e-pf-combatem-irregularidades-com-recursos-
+publicos-em-uniao-pi
+
+46
+13/08/2024
+
+ 
+
+: Operação Virion - CGU e PF combatem fraudes na Secretaria de Saúde de Roraima
+
+Operação Virion investiga irregularidades na aquisição de equipamentos para o combate à Covid-19.
+Prejuízo potencial é da ordem de R$ 12 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (13), em Boa Vista (RR), da Operação
+Virion. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é investigar suspeitos de
+
+integrarem uma organização criminosa, que teria se formado durante a pandemia, para fraudar licitações de
+produtos e serviços destinados ao enfrentamento da Covid-19 em Roraima.
+
+As contratações suspeitas de irregularidades, promovidas pela Secretaria de Saúde do Estado, envolveriam
+aproximadamente R$ 50 milhões, utilizados na aquisição desde insumos médico-hospitalares básicos até
+respiradores, testes rápidos e leitos em hospitais particulares.
+
+Investigações
+
+A CGU identificou diversos indícios da prática de sobrepreço e superfaturamento, que podem gerar um
+prejuízo da ordem de R$ 12 milhões aos cofres públicos. Além disso, foram encontradas irregularidades nas
+contratações e nos pagamentos; e falta de transparência na execução dos recursos federais destinados ao
+Estado, o que dificulta a fiscalização dos gastos.
+
+O inquérito policial aponta que um ex-secretário de Saúde de Roraima, enquanto no cargo, teria se articulado
+com um ex-deputado estadual e direcionado contratações para empresas integrantes do esquema, inclusive
+promovendo o rateio de percentuais de quanto seria direcionado a quais empresas.
+
+O parlamentar solicitaria a servidores que dessem andamento aos processos e pagamentos de seu interesse,
+inclusive cobrando pagamentos antecipados destinados às empresas do esquema.
+
+As investigações sugerem que a organização criminosa se aproveitaria da possibilidade de contratações
+diretas, em razão da pandemia, para facilitar os crimes. Os procedimentos não seguiam ordem cronológica,
+de forma que processos mais antigos seriam preteridos em favor dos de interesse do grupo, bem como teriam
+o trâmite concentrado em único setor da Secretaria de Saúde de Roraima, sem qualquer transparência ou
+publicações.
+
+Impacto Social
+
+Em 2020, até meados de julho, o Governo de Roraima havia recebido pelo Fundo Nacional de Saúde, por
+meio do Fundo Estadual de Saúde, cerca de R$ 50 milhões para ações de enfrentamento da Covid-19. A má
+aplicação desses recursos, em um momento tão delicado como o atual, é extremamente prejudicial para toda
+a sociedade, que já está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Virion consiste no cumprimento de 36 mandados de busca e apreensão em oito estados
+(Amazonas, Bahia, Goiás, Minas Gerais, Rio Grande do Sul, Pará, Roraima e Santa Catarina) e no Distrito
+Federal. O trabalho conta com a participação de três servidores da CGU e de 150 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+  
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2020/08/cgu-e-pf-combatem-fraudes-na-secretaria-de-saude-
+de-roraima
+
+47
+30/07/2020: OPERAÇÃO POLÍGRAFO - CGU, PF e MPRO combatem irregularidades com recursos
+da saúde em Rondônia
+
+Operação Polígrafo investiga fraudes na aquisição, por dispensa de licitação, de 100 mil kits de teste rápido
+para Covid-19, no valor de R$ 10,5 milhões
+
+A Controladoria-Gera da União (CGU) participa, nesta quinta-feira (30), da Operação Polígrafo. O trabalho é
+realizado em parceria com a Polícia Federal (PF) e o Ministério Público de Rondônia (MPRO). O objetivo é
+combater supostas ilegalidades em dispensa de licitação, promovida pela Secretaria de Estado da Saúde
+(SESAU/RO), para aquisição de 100 mil kits de testes rápidos para diagnóstico da Covid-19. O montante
+envolvido é da ordem de R$ 10,5 milhões.
+
+Investigação
+
+A investigação constatou que o caráter competitivo do certame foi frustrado, uma vez que houve contratação
+direta de uma empresa com as seguintes irregularidades: não ter registro de produtos na ANVISA à época
+(item exigido no termo de referência); não possuir autorização para comercialização de produtos para a
+saúde; apresentar como objeto social “serviços combinados de escritório e apoio administrativo”; não ter
+funcionários registrados em 2020; e apresentar capital social incompatível com o valor do certame.
+
+A referida aquisição ocorreu em paralelo a outro processo de dispensa de licitação que estava em trâmite. O
+certame anterior tinha o mesmo objeto, o custo unitário por kit mais econômico e 21 empresas puderam
+concorrer e apresentar propostas. Porém, mesmo vantajoso para a administração pública, ele foi revogado,
+sendo priorizada a contratação direta.
+
+Os auditores verificaram que, embora fosse possível realizar pagamento antecipado de despesas em período
+de calamidade pública, não houve cumprimento das exigências legais para justificar a antecipação de R$
+3,15 milhões (30% da contratação), que ocorreu em apenas quatro dias após a abertura do processo e sem
+existência de pedido formal pela empresa.
+
+Com relação à entrega dos kits, apesar do pagamento antecipado, houve atraso de 27 dias após o prazo
+inicialmente informado pela empresa e o mesmo só ocorreu com a iniciativa do Governo de Rondônia em
+custear aeronave própria para buscar os insumos em São Paulo.
+
+Também foram encontrados fortes indícios de ausência de capacidade técnica da empresa contratada e a
+possível atuação arquitetada entre empresários e agentes públicos para obtenção de vantagens indevidas.
+
+A mesma empresa já havia sido alvo da Operação Dispneia, deflagrada em 25/05/2020, que apurou a
+existência de sobrepreço na compra de 150 respiradores pulmonares pela Secretaria de Saúde de Fortaleza
+(CE). O potencial prejuízo financeiro é de R$ 25,4 milhões.
+
+Impacto Social
+
+Em 2020, até o mês de maio, o Estado de Rondônia havia recebido pelo Fundo Nacional de Saúde cerca de
+R$ 71,2 milhões para ações de prevenção e enfrentamento da Covid-19. A má aplicação desses recursos, em
+um momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já está sendo
+bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Polígrafo consiste no cumprimento de 13 mandados de busca e apreensão nos municípios de
+Porto Velho (RO), Rio de Janeiro (RJ), Balneário Camboriú (SC) e em Itajaí (SC). O trabalho conta com a
+participação de quatro servidores do MPRO, seis servidores da CGU e 50 policiais federais.
+
+O MPRO também determinou a indisponibilidade de bens em nome da empresa investigada no valor de R$
+3,15 milhões, pagos antecipadamente pela SESAU/RO, e o bloqueio de R$ 7,35 milhões restantes do
+contrato, visando impedir suposto enriquecimento ilícito dos envolvidos e potencial dano aos cofres
+públicos.
+
+as
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+ 
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/07/cgu-pf-e-mpro-combatem-irregularidades-com-
+recursos-da-saude-em-rondonia
+
+ 
+
+49
+24/07/2020: Operação Dúctil - 2º fase - CGU, PF e MPE combatem má aplicação de recursos da saúde
+em Guajará-Mirim (RO)
+
+2º fase da Operação Dúctil investiga irregularidades na aquisição de insumos e produtos hospitalares para
+enfrentamento da pandemia de Covid-19
+
+A Controladoria-Geral da União (CGU) participa, nesta sexta-feira (24), da 2º Fase da Operação Dúctil. O
+trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF). O
+objetivo é apurar supostas irregularidades na aquisição, pela Prefeitura de Guajará-Mirim (RO), a partir de
+recursos federais repassados ao ente municipal, de insumos e produtos hospitalares para o enfrentamento da
+pandemia de Covid-19.
+
+Investigação
+
+A nova etapa da investigação decorre do aprofundamento da análise dos materiais apreendidos e das demais
+diligências efetuadas na primeira fase da operação, deflagrada em 10/06/2020. O trabalho identificou a
+existência de conluio entre empresas para frustrar o caráter competitivo em chamamentos públicos
+conduzidos sob a gestão da Secretaria de Estado de Saúde de Rondônia. Uma dessas empresas passou a
+operar de forma semelhante em Guajará-Mirim (RO).
+
+Os auditores constataram fortes indícios de fraude em, ao menos, quatro dispensas de licitação conduzidas
+pela Prefeitura Municipal, tais como: ausência de capacidade técnica da empresa vencedora dos certames e a
+possível atuação arquitetada entre empresários e agentes públicos para obtenção de vantagens indevidas.
+
+A Secretaria de Saúde de Guajará Mirim (RO) chegou a emitir empenhos em favor da empresa que venceu
+de forma irregular as quatro dispensas de licitação.
+
+Impacto social
+
+Em 2020, até meados de julho, Guajará Mirim (RO) havia recebido do Fundo Nacional de Saúde, por meio
+do Fundo Municipal de Saúde, cerca de R$ 4,2 milhões para ações de enfrentamento da Covid-19. A má
+aplicação desses recursos, em um momento tão delicado como o atual, é extremamente prejudicial para a
+sociedade local, que já está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Dúctil consiste no cumprimento de 10 mandados de busca e apreensão nos municípios de
+Guajará-Mirim (RO), Porto Velho (RO) e São Miguel do Guaporé (RO). O trabalho conta com a
+participação de dois servidores da CGU e de 35 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov .br/cgu/pt-br/assuntos/noticias/2020/07/cgu-pf-e-mpf-combatem-ma-aplicacao-de-recursos-
+da-saude-em-guajara-mirim-ro
+
+50
+23/07/2020: Operação Bal Masqué - CGU, PF e MPF combatem fraudes na Secretaria de Saúde do
+Recife (PE)
+
+Operação Bal Masqué investiga irregularidades na aquisição de material médico-hospitalar. Prejuízo
+estimado aos cofres públicos é de R$ 7,3 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (23), em Pernambuco, da Operação Bal
+Masqué. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal
+(MPF). O objetivo é apurar supostas ilegalidades na aquisição pela Secretaria de Saúde do Recife (PE), por
+meio de dispensas de licitação, de material médico-hospitalar descartável (máscaras, toucas e aventais)
+destinado ao enfrentamento da pandemia causada pela Covid-19.
+
+Investigações
+
+Os levantamentos iniciais efetuados pela CGU identificaram fatores de risco quanto à execução dos valores
+contratados, indicando tratar-se aparentemente de empresa de fachada. Dentre as irregularidades estão: valor
+licitado aproximadamente 53 vezes maior que seu capital social; inexistência de empregados declarados na
+Relação Anual de Informações Sociais (RAIS) desde dezembro/2011; bem como ausência de movimentação
+declarada pela empresa entre os exercícios de 2013 e 2018.
+
+Diante dos indicativos de que a empresa não disporia de capacidade técnica para honrar com o fornecimento
+do material, a PF realizou diligências que confirmaram a ocorrência de pagamentos por itens não entregues,
+estimando-se um prejuízo ao erário de R$ 7.333.018,00.
+
+Impacto Social
+
+Em 2020, até meados de julho, Recife (PE) havia recebido pelo Fundo Nacional de Saúde, por meio do
+Fundo Municipal de Saúde, cerca de R$ 57 milhões para ações de enfrentamento da Covid-19. A má
+aplicação desses recursos, em um momento tão delicado como o atual, é extremamente prejudicial para toda
+a sociedade, que já está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Bal Masqué consiste no cumprimento de 11 mandados de busca e apreensão, sendo nove em
+Recife (PE) e dois em Jaboatão dos Guararapes (PE), além do afastamento da função pública de um dos
+envolvidos. O trabalho conta com a participação de três servidores da CGU e cerca de 46 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/07/cgu-pf-e-mpf-combatem-fraudes-na-secretaria-de-
+saude-do-recife-pe
+
+ 
+
+51
+25/07/2020: Operação Apneia - CGU, PF e MPF realizam terceira fase da Operação Apneia em
+Pernambuco
+
+ 
+
+Objetivo é combater irregularidades em contratos firmados pela Prefeitura de Recife (PE), de R$ 11,5
+milhões, para aquisição de respiradores pulmonares
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (23), em Pernambuco, da terceira fase
+da Operação Apneia. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público
+Federal (MPF). O objetivo é aprofundar as investigações acerca das irregularidades em contratos firmados
+pela Prefeitura de Recife (PE), por meio de dispensas de licitação, com valores totais de R$ 11,5 milhões,
+para aquisição de 500 respiradores pulmonares destinados ao enfrentamento da pandemia causada pela
+Covid-19.
+
+Investigações
+
+A partir da análise dos materiais apreendidos e das demais diligências efetuadas nas duas primeiras fases da
+Operação Apneia, foi possível confirmar as irregularidades nas dispensas de licitação, a exemplo da inserção,
+por parte dos representantes da empresa investigada, de documentos falsos nos processos de compra. Além
+disso, constatou-se que a gestão municipal não exigiu o cumprimento de requisitos de habilitação
+pertinentes, em especial no que se refere à aquisição de equipamentos sem o devido registro na ANVISA.
+
+Os auditores constataram, ainda, que apesar da documentação obtida evidenciar a entrega de apenas 35
+ventiladores pulmonares pelo fornecedor, a Prefeitura de Recife (PE) atestou recebimento e efetuou
+pagamento referente a 50 equipamentos, resultando num dispêndio indevido de R$ 322,5 mil.
+
+Apenas após a divulgação na imprensa local de fatos acerca de irregularidades nessas dispensas e a
+notificação de investigação criminal preliminar pela Polícia Civil de Pernambuco, a Prefeitura resolveu, a
+pedido do grupo empresarial investigado, devolver os equipamentos e promover o ressarcimento dos valores
+pagos, sem aplicação de penalidade ao fornecedor.
+
+Impacto Social
+
+A aquisição de ventiladores pulmonares sem autorização da ANVISA para uso em seres humanos impactou
+as ações de enfrentamento da pandemia causada pela Covid-19 justamente na sua fase mais crítica, até o
+momento, na capital pernambucana. Os recursos dispendidos para a contratação não tiveram retorno para a
+população, haja vista que os equipamentos não estavam aptos para uso.
+
+Diligências
+
+A terceira fase da Operação Apneia consiste no cumprimento de cinco mandados de busca e apreensão,
+sendo quatro em Recife (PE) e um em Sumaré (SP), além de medida cautelar de afastamento das atividades
+econômicas de um investigado. O trabalho conta com a participação de dois servidores da CGU e cerca de 18
+policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+ 
+
+ 
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2020/07/cgu-pf-e-mpf-realizam-terceira-fase-da-operacao-
+m-pernambuco
+
+ 
+
+52
+10/07/2020: Operação Estirpe - Operação Estirpe combate irregularidades na Prefeitura de Alhandra
+(PB)
+
+CGU, GAECO/MPPB, TCE/PB, SEFAZ/PB, Polícias Civil e Militar apuram licitações direcionadas a
+empresas ligadas a familiares e amigos de gestores municipais
+
+A Controladoria-Geral da União (CGU) participa, nesta sexta-feira (10), na Paraíba, da Operação Estirpe. O
+trabalho é realizado em parceria com o Grupo de Atuação Especial contra o Crime Organizado do Ministério
+Público Estadual (GAECO/MPPB), Polícias Civil e Militar, Tribunal de Contas do Estado (TCE/PB) e a
+Secretaria de Estado da Fazenda (SEFAZ-PB). O objetivo é combater irregularidades em licitações e
+contratos da Prefeitura de Alhandra (PB).
+
+As investigações tiveram início após notícias veiculadas na mídia acerca um pregão presencial na
+
+localidade para a aquisição de plantas ornamentais, em plena situação de emergência e de restrição financeira
+causada pela Covid-19. Com o aprofundamento das apurações, foram constatadas fraudes nessa e em outras
+licitações e dispensas vencidas por empresas ligadas a familiares e amigos dos gestores municipais.
+
+A força-tarefa encontrou direcionamento das contratações; favorecimento a licitantes; e contratação de
+empresas com estruturas incompatíveis com o volume de produtos/serviços a serem fornecidos ao
+município. Os pagamentos realizados pela Prefeitura de Alhandra (PB), em favor das empresas investigadas,
+totalizam R$ 5.387.178,47.
+
+Impacto social
+
+O direcionamento das contratações, em favor de determinadas empresas ligadas direta ou indiretamente ao
+gestor público, possibilita a ocorrência de desvio de recursos públicos que poderiam ser utilizados tanto no
+combate à Covid-19 quanto em outras ações e serviços públicos voltados à melhoria da qualidade de vida da
+população.
+
+A má aplicação desses recursos, em um momento tão delicado como o atual, é extremamente prejudicial para
+a sociedade, que já está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Estirpe consiste no cumprimento de 21 mandados de busca e apreensão nas
+
+cidades de Alhandra (PB), João Pessoa (PB), Cabedelo (PB), Guarabira (PB) e Igarassu (PE). Os trabalhos
+
+contam com a participação de oito auditores da CGU, 12 auditores da SEFAZ-PB, seis auditores do
+
+TCE/PB, três promotores de justiça e 22 servidores do MPPB, 32 policiais civis e 20 policiais militares.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+á-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+
+ 
+
+enviá:
+“Não identificado”.
+
+ 
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/07/operacao-estirpe-combate-irregularidades-na-
+prefeitura-de-alhandra-pb
+
+53
+07/07/2020: OPERAÇÃO SERÓDIO - CGU e PF combatem irregularidades na Secretaria de Saúde de
+Aracaju (SE)
+
+Operação Serôdio investiga direcionamento e sobrepreço na contratação de empresa, por R$ 3,2 milhões,
+para montagem do Hospital de Campanha da capital
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (7), da Operação Serôdio. O trabalho é
+realizado em parceria com a Polícia Federal (PF). O objetivo é apurar irregularidades na contratação, pela
+Secretaria de Saúde de Aracaju (SE), de empresa para montagem da estrutura necessária ao funcionamento
+do Hospital de Campanha da capital. O montante envolvido é da ordem de R$ 3.258.000,00.
+
+As investigações preliminares apontam que a contratação, efetuada por meio de dispensa de licitação,
+possuía cláusulas restritivas à competitividade e não permitia o parcelamento do objeto, o que elevou seu
+custo. Os auditores identificaram falhas na execução contratual, possível favorecimento à empresa contratada
+e indícios de sobrepreço na locação de containers, pois a própria Secretaria Municipal de Saúde realizou
+locação similar por preço inferior em contratação anterior.
+
+Também há incidência de sobrepreço na locação da estrutura de climatização — o custo da locação de cada
+aparelho de ar condicionado por seis meses chega a quase três vezes o custo de sua aquisição.
+
+Impacto social
+
+Em 2020, até o mês de junho, Aracaju (SE) havia recebido pelo Fundo Nacional de Saúde, por meio do
+Fundo Municipal de Saúde, cerca de R$ 24 milhões para custar ações de combate à Covid-19. As
+irregularidades investigadas podem ter ocasionado prejuízos de ordem financeira em virtude do potencial
+sobrepreço da contratação, recursos que poderiam ser aplicados no atendimento de outras demandas
+necessárias ao enfrentamento da pandemia.
+
+Ademais, pode ter ocorrido o comprometimento da qualidade do serviço prestado, sobretudo pela
+precariedade da climatização do ambiente hospitalar instalado, bem como outros danos decorrentes da
+execução inadequada do serviço pela contratada.
+
+Diligências
+
+A Operação Serôdio consiste no cumprimento de nove mandados de busca e apreensão em Aracaju (SE) e
+Nossa Senhora do Socorro (SE). O trabalho conta com a participação de dois auditores da CGU e de 50
+policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/07/cgu-e-pf-combatem-irregularidades-na-secretaria-
+de-saude-de-aracaju-se
+
+54
+50/06/2020: Operação Sangria - CGU, PF, MPF e RFB apuram irregularidades em compras de
+respiradores no Amazonas
+
+Operação Sangria detectou superfaturamento na aquisição de ventiladores pulmonares pela SUSAM.
+Equipamentos foram considerados inadequados
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (30), da Operação Sangria. O trabalho é
+realizado em parceria com a Polícia Federal (PF), o Ministério Público Federal (MPF) e a Receita Federal do
+Brasil (RFB). O objetivo é apurar possíveis irregularidades em contratos celebrados por dispensas de
+licitação, em caráter emergencial, pela Secretaria de Saúde do Amazonas (SUSAM).
+
+As investigações apontam que a SUSAM pagou R$ 2,9 milhões a uma loja de vinhos por 28 ventiladores
+pulmonares destinados ao tratamento de infectados pelo novo coronavírus, Os auditores verificaram que a
+aquisição foi a valores muito superiores aos de mercado, demonstrando superfaturamento e direcionamento à
+empresa contratada. Além disso, os equipamentos foram considerados "inadequados" para pacientes com
+Covid-19, segundo o Conselho Regional de Medicina do Amazonas (CREMAM).
+
+As apurações também indicam para uma triangulação entre fornecedores e a SUSAM para encobrir o
+verdadeiro vendedor dos respiradores, onde a loja de vinhos foi escolhida sob o pretexto de ser uma
+importadora. Entretanto, ela não importou os equipamentos, mas sim comprou no mercado local,
+acrescentando 20% sobre o preço para revender ao Governo do Estado.
+
+Impacto social
+
+O Amazonas já recebeu cerca de R$ 310 milhões repassados pelo Fundo Nacional de Saúde (FNS) em 2020.
+Desse valor, R$ 80.875.854,49 são especificamente para combate à Covid-19. A má aplicação desses
+recursos, em um momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já
+está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+A Operação Sangria consiste no cumprimento de 20 mandados de busca e apreensão e oito de prisão
+temporária, nas cidades de Manaus (AM) e de São José dos Campos (SP).
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+ 
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/06/cgu-pf-mpf-e-rfb-apuram-irregularidades-em-
+compras-de-respiradores-no-amazonas
+
+ 
+
+55
+26/06/2020: Operação Vírus Infectio III - CGU, PF e MPF combatem desvios de recursos na
+Secretaria de Saúde do Amapá
+
+Vírus Infectio II apura irregularidades em contratações de empresas para enfrentamento à pandemia.
+Emissões bancárias superam os R$ 6,1 milhões
+
+A Controladoria Geral da União (CGU) participa, nesta sexta-feira (26), da Operação Vírus Infectio TI. O
+trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF). O
+objetivo é desarticular um possível esquema na Secretaria de Saúde do Amapá (SESA/AP) de desvios de
+recursos repassados pelo SUS no âmbito das ações de enfrentamento à pandemia provocada pela Covid-19.
+
+No decorrer das investigações, foram constatadas emissões de ordens bancárias pelo Fundo Estadual de
+Saúde (FES), destinadas a empresas fornecedoras de equipamentos médico-hospitalares e de proteção
+individual (EPI), algumas supostamente de fachada, totalizando um montante de R$ 4.902.969,75.
+
+Também foi identificada a emissão de ordem bancária no valor de R$ 1,2 milhão para uma microempresa, ou
+seja, aproximadamente três vezes maior que o valor global máximo de enquadramento previsto a ser auferido
+para microempresa em cada ano-calendário.
+
+Impacto Social
+
+O Estado do Amapá já recebeu, em 2020, o total de R$ 57.040.917,68 do Governo Federal para aplicação
+exclusiva no enfrentamento à pandemia de Covid-19. A má aplicação desses recursos, em um momento tão
+delicado como o atual, é extremamente prejudicial para a sociedade, que já está sendo bastante afetada pelos
+efeitos da pandemia.
+
+Diligências
+
+A Operação Vírus Infectio III consiste no cumprimento de sete mandados de busca e apreensão em órgãos
+públicos e residências localizados em Macapá (AP). Os trabalhos contam com a participação de 24 policiais
+federais e de dois auditores da CGU.
+
+Os investigados podem responder por crimes previstos na Lei de Licitações, peculato, ordenação de despesa
+não autorizada e organização criminosa.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/06/c gu-pf-e-mpf-combatem-desvios-de-recursos-na-
+ecretaria-de-saude-do-amapa
+
+ 
+
+56
+18/06/2020: OPERAÇÃO SOLERCIA - CGU, PF e Receita Federal combatem irregularidades no
+Governo do Estado do Pará
+
+Operação Solercia investiga contratos com fornecedoras de produtos alimentícios. Pagamentos, inclusive
+com recursos do SUS, somam mais de R$ 50 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (18), da Operação Solercia. O trabalho é
+realizado em parceria com a Polícia Federal (PF) e a Receita Federal (RFB). O objetivo é apurar supostas
+irregularidades na contratação, por órgãos e secretarias do Governo do Estado do Pará, de grupo de empresas
+fornecedoras de produtos alimentícios.
+
+As investigações tiveram início após veículos de imprensa noticiarem eventuais fraudes em contrato firmado
+pela Secretaria de Educação (SEDUC-PA), em março deste ano, por meio de dispensa de licitação, no valor
+de R$ 73.928.946. O objeto era a aquisição de cestas de alimentação escolar para toda a rede estadual de
+ensino, como medida de enfrentamento à pandemia da Covid-19.
+
+A contratação foi cancelada. No entanto, o fato levou os auditores a descobrirem que a empresa vencedora
+fazia parte de um grupo de três empresas, constituído em nome de possíveis testas de ferro, com o intuito de
+firmar contratos junto ao Governo do Pará há pelo menos cinco anos. Nesse período, os pagamentos
+recebidos por elas, inclusive com recursos do SUS, somam mais de R$ 50 milhões. Há indícios de que o
+esquema foi organizado por grandes empresários do setor alimentício do Estado.
+
+Impacto social
+
+O Estado do Pará já recebeu cerca de R$ 326 milhões repassados pelo SUS em 2020. Desse valor, R$
+105.619.729,31 são especificamente para combate ao Covid-19. A má aplicação desses recursos, em um
+momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já está sendo bastante
+afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Solercia consiste no cumprimento de 15 mandados de busca e apreensão nas cidades de Belém
+(PA), Ananindeua (PA), Salinópolis (PA) e São Paulo (SP). O trabalho conta com a participação de dois
+auditores da CGU, auditores da Receita Federal e 80 policiais federais.
+
+Os investigados podem responder por crimes previstos na Lei de Licitações, falsidade ideológica, associação
+criminosa, corrupção passiva e ativa e peculato.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/06/cgu-pf-e-receita-federal-combatem-irregularidades-
+no-governo-do-estado-do-para
+
+ 
+
+57
+16/06/2020: Operação Casa de Papel - Operação Casa de Papel combate fraudes com recursos da
+saúde em Recife (PE)
+
+CGU, PF e MPF apuram indícios de irregularidades em contratação de empresa, por R$ 7,5 milhões, no
+âmbito das ações de enfrentamento à pandemia
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (16), da Operação Casa de Papel. O
+trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF). O
+objetivo é combater supostas fraudes, praticadas pela Secretaria de Saúde do Recife (PE), com recursos
+repassados pelo SUS no âmbito das ações de enfrentamento à pandemia provocada pela Covid-19.
+
+Na investigação foram identificados indícios de irregularidades nas aquisições de materiais médico-
+hospitalares, tais como favorecimento na contratação, interpostas pessoas no quadro social da empresa
+(laranjas), sócios ocultos como verdadeiros proprietários e de lavagem de dinheiro. Os valores envolvidos
+nesse contrato chegam a R$ 7,5 milhões.
+
+Impacto Social
+
+O município de Recife (PE) já recebeu o total de R$ 257.514.774,63 repassados pelo SUS em 2020. Desse
+valor, R$ 48.708.598,84 são especificamente para o combate à Covid-19. A má aplicação desses recursos,
+em um momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já está sendo
+bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Casa de papel consiste no cumprimento de 35 mandados de busca e apreensão nos municípios
+de Recife (PE), Olinda (PE), Cabo de Santo Agostinho (PE) e Paulista (PE). O trabalho conta com a
+participação de seis auditores da CGU.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/06/0peracao-casa-de-papel-combate-fraudes-com-
+recursos-da-saude-em-recife-pe
+
+58
+16/06/2020: Operação Antídoto - Operação Antídoto combate irregularidades na Secretaria de Saúde
+do Recife (PE)
+
+CGU, PF e MPF identificaram indícios de fraudes na aquisição de materiais médico-hospitalares para
+combate à Covid-19. Valores ultrapassam R$ 80 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (16), da Operação Antídoto. O trabalho é
+realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF). O objetivo é
+combater supostas fraudes, praticadas pela Secretaria de Saúde do Recife (PE), com recursos repassados pelo
+SUS no âmbito das ações de enfrentamento à pandemia provocada pela Covid-19.
+
+  
+
+Na investigação foram identificados indícios de irregularidades na aquisição de materiais médico-
+hospitalares, como utilização de sócios laranjas, sócios ocultos, direcionamento da contratação, falta de
+capacidade econômica da empresa e lavagem de dinheiro. Os valores envolvidos nesse contrato ultrapassam
+o montante de R$ 80 milhões.
+
+Impacto Social
+
+O município de Recife (PE) já recebeu o total de R$ 257.514.774,63 repassados pelo SUS em 2020. Desse
+valor, R$ 48.708.598,84 são especificamente para o combate à Covid-19. A má aplicação desses recursos,
+
+em um momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já está sendo
+bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Antídoto consiste no cumprimento de seis mandados de busca e apreensão na empresa,
+residência dos sócios e na Secretaria Municipal de Saúde do Recife (PE). O trabalho conta com a
+participação de dois auditores da CGU.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+á-las por meio de formulário elet o. A denúncia pode ser anônima, para isso, basta escolher a opção
+
+ 
+
+    
+
+enviá:
+“Não identificado”.
+
+ 
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/06/0peracao-antidoto-combate-irregularidades-na-
+secretaria-de-saude-do-recife-pe
+
+ 
+
+59
+15/06/2020: OPERAÇÃO EXAM - CGU, PF e MPF combatem irregularidades com recursos da saúde
+em Cabo Frio (RJ)
+
+Operação Exam apura ilícitos na aquisição e baixa de medicamentos; no pagamento de exames de sangue; e
+em fraudes em licitação para o combate à Covid-19
+
+A Controladoria-Geral da União (CGU) participa, nesta segunda-feira (15), no Rio de Janeiro, da Operação
+Exam. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF).
+O objetivo é investigar suposto esquema de desvio de recursos da área de saúde em Cabo Frio (RJ).
+
+A partir de levantamentos da CGU, foram identificados indícios de fraudes em compras e baixas de
+medicamentos pela Secretaria Municipal de Saúde, em 2018, além de duplicidade nos pagamentos de
+exames de sangue. O prejuízo estimado aos cofres públicos é de R$ 7 milhões.
+
+Os trabalhos investigativos revelaram, ainda, indícios de fraudes na aplicação de recursos destinados ao
+combate da Covid-19, por meio da utilização do Hospital Unilagos. As apurações indicam a possível
+ocorrência de corrupção ativa e passiva, fraude ao caráter competitivo da licitação, peculato e associação
+criminosa.
+
+Impacto social
+
+O município de Cabo Frio já recebeu o total de R$ 55.996.906,61 repassados pelo SUS em 2020. A má
+aplicação desses recursos da área da saúde, em um momento tão delicado como o atual, é extremamente
+prejudicial para a sociedade, que já está sendo bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Exam consiste no cumprimento de 29 mandados de busca e apreensão nas cidades do Rio de
+Janeiro (RJ), Nova Iguaçu (RJ), São João de Meriti (RJ), Cabo Frio (RJ), São Pedro da Aldeia (RJ),
+Miracema (RJ) e Serra (ES). O trabalho conta com a participação de 16 auditores da CGU e de 90 policiais
+federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+ 
+
+https://www. gov br/cgu/pt-br/assuntos/noticias/2020/06/cgu-pf-e-mpf-combatem-irregularidades-com-
+recursos-da-saude-em-cabo-frio-rj
+
+ 
+
+60
+10/06/2020: OPERAÇÃO DÚCTIL - CGU, PF e MPF combatem irregularidades com recursos da
+saúde em Rondônia
+
+Operação investiga possíveis fraudes na aquisição de produtos hospitalares para combate à pandemia.
+Valores das aquisições somam R$ 21 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta quarta-feira (10), da Operação Dúctil. O trabalho é
+realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF). O objetivo é apurar
+supostas irregularidades na aquisição, pelo Governo do Estado de Rondônia, de insumos e produtos
+hospitalares para o enfrentamento da pandemia de Covid-19.
+
+As investigações apontaram eventuais fraudes em dispensas de licitação, tais como: indícios de apresentação
+de atestado de capacidade técnica falso por empresas e a possível atuação em conluio entre empresas e
+agentes públicos.
+
+Durante a análise dos processos, os auditores da CGU constataram, ainda, indícios de ausência de
+representatividade legal do responsável por propostas comerciais e irregularidades de procedimentos na
+homologação de propostas.
+
+Os valores envolvidos são da ordem de R$ 21 milhões, havendo pagamento adiantado de cerca de R$ 3
+milhões, sem a apresentação pelas empresas de garantias suficientes para suprir os riscos porventura
+causados sobre a não entrega dos produtos.
+
+Impacto social
+
+O Estado de Rondônia já recebeu cerca de R$ 201 milhões repassados pelo SUS em 2020. Desse valor, R$
+71.230.821,54 são especificamente para combate ao Covid-19. A má aplicação desses recursos, em um
+momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já está sendo bastante
+afetada pelos efeitos da pandemia.
+
+Diligências
+A Operação Dúctil consiste no cumprimento de 15 mandados de busca e apreensão e dois de prisão
+temporária nos municípios de Porto Velho (RO), Rolim de Moura (RO), São Miguel do Guaporé (RO), São
+Bernardo do Campo (SP), Tabapuã (SP), São Caetano do Sul (SP), Santo André (SP) e Manaus (AM).
+
+ 
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+á-las por meio de formulário elet o. A denúncia pode ser anônima, para isso, basta escolher a opção
+
+ 
+
+    
+
+enviá:
+“Não identificado”.
+
+ 
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/06/cgu-pf-e-mpf-combatem-irregularidades-com-
+recursos-da-saude-em-rondonia
+
+  
+
+61
+ 
+
+10/06/2020: OPERAÇÃO PAÍ
+recursos da saúde no Pará
+
+BELLUM - CGU, MPF e PF combatem irregularidades envolvendo
+
+Operação investiga compra de ventiladores pulmonares para UTIs. Governo do Estado já pagou R$ 25,2
+milhões por equipamentos inservíveis
+
+A Controladoria-Geral da União (CGU) participa, nesta quarta-feira (10), da Operação Para Bellum. O
+trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF). O
+objetivo é apurar supostas irregularidades na contratação, pelo Governo do Estado do Pará, de empresa
+fornecedora de ventiladores pulmonares para equipar Unidade de Terapia Intensiva (UTIs) destinadas ao
+tratamento de pacientes infectados com a Covid-19.
+
+As investigações, iniciadas pelo MPF, apontaram que as possíveis fraudes ocorreriam desde o início do
+processo de seleção do fornecedor, realizado fora dos autos processuais e mediante direcionamento da
+contratação para a empresa vencedora.
+
+Os auditores da CGU constataram que houve montagem do processo de dispensa de licitação, além do
+pagamento de R$ 25,2 milhões antes mesmo da formalização do contrato — o que corresponde à metade do
+valor total contratado. A empresa vencedora, cabe destacar, entregou respiradores diferentes dos previstos
+em contrato. Os produtos se mostraram inservíveis e tiveram que ser devolvidos.
+
+Impacto social
+
+O Estado do Pará já recebeu cerca de R$ 326 milhões repassados pelo SUS em 2020. Desse valor, R$
+105.619.729,31 são especificamente para combate ao Covid-19. A má aplicação desses recursos, em um
+momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já está sendo bastante
+afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Para Bellum consiste no cumprimento de 23 mandados de busca e apreensão no Pará, Santa
+Catarina, Distrito Federal, Rio de Janeiro, Minas Gerais, São Paulo e Espírito Santo. O trabalho conta com a
+participação de servidores da Receita Federal, três procuradores da República, 130 policiais federais e dois
+auditores da CGU.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2020/06/cgu-mpf-e-pf-combatem-irregularidades-
+envolvendo-recursos-da-saud: para
+
+62
+10/06/2020: OPERAÇÃO ASSEPSIA - CGU e PF combatem irregularidades na Secretaria de Saúde
+de Rio Branco (AC)
+
+Operação Assepsia apura fraudes em contratação de máscaras e álcool em gel para enfrentamento do
+coronavírus. Prejuízo é de R$ 1 milhão
+
+A Controladoria-Geral da União (CGU) participa, nesta quarta-feira (10), em Rio Branco (AC), da Operação
+Assepsia. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é combater fraudes na
+aquisição de máscaras e álcool em gel para enfrentamento do novo coronavírus .
+
+A investigação teve início no dia 7 de abril, após a Secretaria Municipal de Saúde (SEMSA) publicar
+homologação de dispensa de licitação para aquisição de mais de 70 mil litros de álcool gel e quase um
+milhão de máscaras. O valor da contratação foi de R$ 6.993.975 e a previsão era consumir o antisséptico em
+apenas quatro meses.
+
+A Polícia Federal constatou indícios de montagem processual, simulação de pesquisas de preços e falsidade
+de assinaturas nos documentos da empresa contratada.
+
+Os fatos foram confirmados pela CGU que, em visita técnica no dia 28 de abril, encontrou indícios de
+simulação no procedimento de verificação do valor de mercado dos produtos a serem adquiridos. A pesquisa
+de preços foi realizada com três fornecedores localizados em outros estados, inclusive a empresa contratada
+— nenhum deles possui histórico de atuação em contratos públicos no Acre.
+
+Os auditores da CGU também identificaram sobrepreço na aquisição do álcool em gel. A SEMSA já pagou
+por 32 mil litros do produto, causando um prejuízo de R$ 1.075.200. Se for realizado o pagamento do
+quantitativo total do contrato, o prejuízo pode chegar a R$ 2.353.680.
+
+Impacto social
+
+O município de Rio Branco já recebeu o total de R$ 20.995.659,07 repassados pelo SUS em 2020. Desse
+valor, R$ 1.293.118,72 são especificamente para o combate à Covid-19. A má aplicação desses recursos, em
+um momento tão delicado como o atual, é extremamente prejudicial para a sociedade, que já está sendo
+bastante afetada pelos efeitos da pandemia.
+
+Diligências
+
+A Operação Assepsia consiste no cumprimento de dois mandados de prisão temporária e sete mandados de
+busca e apreensão nos municípios de Rio Branco (AC), Porto Velho (RO), Santo André (SP) e São Bernardo
+do Campo (SP). Seis pessoas foram intimadas para prestarem esclarecimentos. Os trabalhos contam com a
+participação de três auditores da CGU e de 46 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https:/Avww gov br/cgu/pt-br/assuntos/noticias/2020/06/cgu-e-pf-combatem-irregularidades-na-secretaria-
+de-saude-de-rio-branco-ac
+
+63
+09/06/2020: OPERAÇÃO COBIÇA FATAL - CGU e PF combatem fraudes em compras de máscaras
+cirúrgicas em São Luís (MA)
+
+Operação Cobiça Fatal investiga supostas fraudes na contratação emergencial de empresas que forneceram
+máscaras cirúrgicas para a Secretaria Municipal de Saúde
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (9), em São Luís (MA).da Operação
+Cobiça Fatal. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é combater supostos
+crimes de fraudes licitatórias e irregularidades contratuais, corrupção ativa e passiva, associação criminosa e
+lavagem de ativos.
+
+Investigações
+
+A área de investigações da CGU detectou que a Secretaria Municipal de Saúde (SEMUS) de São Luís teria
+contratado por dispensa de licitação, em caráter emergencial, para combate à pandemia de Covid-19, duas
+empresas sem capacidade técnico-operacional para fornecimento de máscaras cirúrgicas descartáveis
+superfaturadas. Verificou-se que uma das empresas operava em nome de “laranjas”, além de ser de
+“fachada”, e a outra nunca havia comercializado máscaras.
+
+Foi observado, em ambas as contratações, superfaturamento de preço de mais de 200% em relação ao valor
+de mercado. O prejuízo decorrente do superfaturamento calculado pela CGU pode chegar a R$ 2.306.600,00.
+
+Investigações adicionais da PF indicam o uso de outras empresas, pelo mesmo núcleo empresarial, para
+supostamente fraudar contratações também em pelo menos outros cinco municípios do Estado do Maranhão.
+
+Impacto social
+
+As fraudes supostamente perpetradas na SEMUS-São Luís, com o consequente prejuízo milionário causado
+aos cofres municipais, possuem o condão de impactar negativamente as ações de saúde necessárias para o
+bom atendimento às vítimas de Covid-19, além de tornar mais onerosa a disponibilização de equipamentos
+de proteção individual (EPIs) para os profissionais da saúde.
+
+Diligências
+
+A Operação Cobiça Fatal consiste no cumprimento de três mandados de prisão temporária e de 14 mandados
+de busca e apreensão em endereços localizados em São Luís e em São José de Ribamar, além do afastamento
+dos sigilos bancário, fiscal e telemático dos envolvidos.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/06/cgu-e-pf-combatem-fraudes-em-compras-de-
+
+ 
+
+64
+09/06/2020: OPERAÇÃO SCEPTICUS - CGU, PF e MPF contra desvio de recursos do combate à
+Covid-19 em Carapebus (RJ)
+
+Apurações indicam ilícitos na contratação de empresas fornecedoras de testes rápidos, EPIs, dentre outros
+materiais. Contratos somam R$ 4,7 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta terça-feira (9), no Rio de Janeiro, da Operação
+Scepticus. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal
+(MPF). O objetivo é combater o desvio de recursos públicos na área da saúde no município de Carapebus
+(RD.
+
+Os fatos apurados indicam a ocorrência de ilícitos na contratação de empresas fornecedoras de
+medicamentos, de testes rápidos para diagnóstico do Covid-19, de equipamentos de proteção individual
+(EPIs), de equipamentos médico-hospitalares, de material de limpeza e de locação de estrutura e montagem
+de hospital de campanha. Os valores envolvidos nos contratos somam R$ 4,7 milhões.
+
+As investigações apontam para a possível realização de dispensas fraudulentas de licitações, sob o pretexto
+de promover ações rápidas de combate ao coronavírus, com a possível ocorrência de corrupção ativa e
+passiva, fraude ao caráter competitivo da licitação e peculato.
+
+Impacto social
+
+O Poder Executivo municipal tem a função de gerir os recursos recebidos (federais e estaduais) em prol do
+interesse de toda população. Ao direcionar sua atuação, a Prefeitura deixa de exercer o seu papel e possibilita
+superfaturamento na aquisição de bens e serviços, além de desvios de recursos que poderiam ser utilizados
+em áreas como saúde, educação, infraestrutura e assistência social, impactando de forma negativa o
+atingimento dos objetivos das respectivas políticas públicas.
+
+Diligências
+
+A Operação Scepticus consiste no cumprimento de 22 mandados de busca e apreensão, além de quebra de
+sigilo bancário dos envolvidos. Os trabalhos ocorrem no município de Carapebus (RJ) e contam com a
+participação de dez auditores da CGU e de 87 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção
+“Não identificado”.
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2020/06/cgu-pf-e-mpf-contra-desvio-de-recursos-do-
+
+combate-a-covid-19-em-carapebus-rj
+
+ 
+
+65
+03/06/2020: Operação Inópia - Operação Inópia combate irregularidades na assistência social em
+Pernambuco
+
+CGU, PCPE, MPPE e PF apuram supostos crimes praticados para aquisição de cestas básicas destinadas a
+trabalhadores informais durante a quarentena
+
+A Controladoria-Geral da União (CGU) participou, nessa quarta-feira (3), em Pernambuco, da Operação
+Inópia. O trabalho foi realizado em parceria com o Departamento de Repressão à Corrupção e ao Crime
+Organizado da Polícia Civil (DRACCO/PCPE), pelo Grupo de Atuação Especial de Repressão ao Crime
+Organizado do Ministério Público Estadual (GAECO/MPPE) e pelo Departamento de Polícia Federal (PF).
+
+O objetivo foi apurar supostos crimes de peculato (art. 312 do Código Penal) e de dispensa irregular de
+licitação (art. 89 da Lei nº 8.666/1993) praticados quando da aquisição de cestas básicas pelo Fundo Estadual
+de Assistência Social (FEAS). A distribuição de alimentos é destinada aos trabalhadores informais que
+tiveram sua fonte de renda afetada com a paralisação das atividades durante as medidas mais rígidas de
+quarentena.
+
+A empresa investigada foi contratada para o fornecimento de 200 mil cestas básicas ao valor total de R$ 12,7
+milhões. Após investigações iniciais, verificaram-se indícios de que ela poderia ser uma empresa de fachada
+utilizada como instrumento para a prática de irregularidades.
+
+Diligências
+
+A Operação Inópia consistiu no cumprimento de quatro mandados de busca e apreensão nos municípios de
+Recife (PE), Paudalho (PE), Águas Lindas de Goiás (GO) e Brasília (DF). O trabalho contou com a
+participação de dois auditores da CGU.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre quaisquer irregularidades, pode enviá-las por meio de formulário
+eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção “Não identificado”.
+
+  
+
+Balanço
+
+A Operação Inópia é a 8º realizada pela CGU, em conjunto com outros órgãos de controle e de defesa,
+visando a eficiente aplicação dos recursos públicos federais repassados a estados e municípios para combater
+o novo coronavírus. Nos meses de abril e maio, outras operações especiais foram deflagradas na Paraíba,
+Amapá, Distrito Federal, São Paulo, Ceará e Rio Grande do Sul e Pernambuco para desarticular esquemas de
+fraude na aquisição de bens, serviços e insumos destinados às ações de enfrentamento à pandemia.
+
+A CGU também tem apoiado indiretamente outras operações, a partir do fornecimento de informações de
+inteligência aos órgãos responsáveis.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/06/0peracao-inopia-combate-irregularidades-na-
+assistencia-social-em-pernambuco
+
+ 
+
+66
+28/05/2020: Operação Apneia - segunda fase - CGU, PF e MPF deflagram operação em Recife (PK)
+para apurar compras de respiradores
+
+ 
+
+Há indícios de irregularidades em contratos celebrados por dispensas de licitação para aquisição de 500
+respiradores pulmonares
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (28), em Pernambuco, da segunda fase
+da Operação Apneia, em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF). O
+objetivo é apurar possíveis irregularidades em contratos celebrados por dispensas de licitação pela Prefeitura
+de Recife, por meio da Secretaria de Saúde, para aquisição de 500 respiradores pulmonares em caráter
+emergencial para combate à pandemia de Covid-19 no município. As diligências estão sendo realizadas nos
+estados de São Paulo e Pernambuco.
+
+Investigações
+
+No decorrer das investigações, verificou-se que empresas com débitos com a União superiores a R$ 9
+milhões se utilizaram de uma microempresa “fantasma”, constituída em nome da ex-companheira do
+proprietário de fato, para contratar com a prefeitura. Diligências policiais revelaram que a firma contratada
+não existe de fato em seu endereço de cadastro, além de não ter funcionários ou bens em seu nome.
+
+O total contratado com a Prefeitura de Recife ultrapassava o patamar de R$ 11 milhões, ao passo em que a
+empresa fictícia tinha um suposto capital social de apenas R$ 50 mil, e não poderia faturar mais que R$ 360
+mil por ano.
+
+A empresa chegou a fornecer 35 respiradores à prefeitura, no entanto o contrato foi desfeito no dia 22 de
+maio de 2020, um dia após notícias sobre as irregularidades serem divulgadas na imprensa.
+
+Outro fato que chamou a atenção foi que os respiradores sequer foram utilizados pela Secretaria de Saúde,
+apesar de estarem há semanas em sua posse, mesmo com a notória demanda pela utilização desse
+equipamento, e diante de uma verdadeira corrida por bens dessa natureza.
+
+Documento expedido por órgão da pasta, e utilizado como justificativa para o distrato, informa que a
+fornecedora “não comprovou a homologação da Anvisa”. Ao mesmo tempo, em conta de rede social do
+proprietário da fabricante dos respiradores, observou-se que os aparelhos, ao menos até o início deste mês de
+maio (quando já haviam sido entregues unidades à prefeitura), teriam sido testados somente em animais.
+
+Durante a deflagração da primeira fase da operação, realizada em sigilo na última segunda-feira (25), foi
+constatado que, dos 35 respiradores recebidos pelo preposto da empresa fornecedora, apenas 25 se
+encontravam em depósito, tendo os demais sido comercializados. Há indícios de que um dos aparelhos tenha
+sido adquirido por prefeitura do interior do estado pelo triplo do valor que constava no contrato com a
+Prefeitura de Recife. A Justiça Federal determinou que os respiradores encontrados durante a operação não
+sejam comercializados ou transportados para outras localidades até a realização das auditorias pertinentes.
+
+Os envolvidos podem responder pelos crimes de dispensa indevida de licitação (Art. 89 da Lei 8.666/93), uso
+de documento falso (Art. 304 do CPB), além de sonegação fiscal (Art. 1º da lei nº 8.137/93) e previdenciária
+(Art. 337-A do CPB) e ainda associação criminosa (Art. 288 do CPB), sem prejuízo de outros delitos que
+venham a ser apurados no decorrer da investigação.
+
+Diligências
+A segunda fase da Operação Apneia consiste no cumprimento de seis mandados de busca e apreensão, sendo
+três na cidade de Recife (PE), um em Paulínia (SP) e dois em Sumaré (SP). O trabalho conta com a
+
+participação de quatro servidores da CGU e cerca de 17 policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre estes contratos ou sobre quaisquer outras irregularidades, pode
+
+67
+ 
+
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, bastando escolher a opção “Não
+identificado”.
+
+https://www gov br/cgu/pt-br/assuntos/noticias/2020/05/cgu-pf-e-mpf-deflagram-operacao-em-recife-pe-
+
+ 
+
+ 
+
+68
+27/05/2020: OPERAÇÃO CAMILO - CGU combate fraudes na gestão do Hospital Regional do Vale
+do Rio Pardo (RS)
+
+Operação Camilo investiga irregularidades na administração do HRVPR, feita por organização social
+contratada. Prejuízo potencial é de R$ 15 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta quarta-feira (27), no Rio Grande do Sul, da
+Operação Camilo. O trabalho é realizado em parceria com a Polícia Federal (PF), o Tribunal de Contas
+Estadual (TCE/RS), o Ministério Público Federal (MPF) e o Grupo de Atuação Especial de Combate ao
+Crime Organizado do Ministério Público do Estado (GAECO/MPRS). O objetivo é desarticular esquema
+criminoso montado para desviar recursos do Sistema Único de Saúde (SUS), destinados ao Hospital
+Regional do Vale do Rio Pardo (HRVRP).
+
+ 
+
+Investigação
+
+A investigação foi iniciada a partir de informações recebidas, no mês de junho de 2018, pela Delegacia de
+Polícia Federal de Santa Cruz do Sul (RS). Em apuração realizada posteriormente pela CGU, foram
+identificadas diversas irregularidades na gestão do HRVRP, que é feita por uma organização social (OS)
+contratada para administrar o hospital. Dentre elas, destacam-se:
+
+ 
+
+Precariedade do Termo de Referência e do Edital do Chamamento Público que selecionou a OS;
+Subjetividade nos critérios de julgamento para seleção da OS;
+
+Subcontratação de empresas pela OS por valores superestimados;
+
+Existência de vínculos societários e de parentesco entre sócios das empresas subcontratadas pela OS;
+
+Contratação de empresas pertencentes a membros da Diretoria e do Conselho de Administração da OS,
+
+caracterizando conflito de interesses; e
+
+Ausência de requisitos para atuar como OS durante a vigência do contrato.
+
+A força-tarefa apurou, até o atual estágio da investigação, prejuízo potencial da ordem de R$ 15 milhões em
+relação aos cerca de R$ 60 milhões destinados ao HRVRP, no período de novembro de 2017 a fevereiro de
+2020.
+
+De acordo com a PF, foram identificadas situações com ocorrência de crimes previstos na Lei de Licitações
+(nº 8.666/1993), organização criminosa, lavagem de dinheiro, peculato, corrupção passiva, corrupção ativa,
+além de possíveis crimes tributários e de responsabilidade.
+
+Impacto Social
+
+O HRVRP presta atendimento de urgência e de emergência, além de plantão em regime de sobreaviso, bem
+como oferta de consultas e cirurgias eletivas em diversas especialidades. Esses serviços, por disposição da
+Resolução CIR nº 85/2013, alcançam cerca de 145 mil habitantes da região, distribuídos nos municípios de
+Candelária, Gramado Xavier, Herveiras, Mato Leitão, Pântano Grande, Passo do Sobrado, Rio Pardo,
+Sinimbu, Vale do Sol, Vale Verde e Vera Cruz.
+
+As possíveis irregularidades praticadas com recursos do SUS tem potencial impacto negativo, quantitativa e
+qualitativamente, na prestação de serviços à população, principalmente a de baixa renda que depende dos
+estabelecimentos públicos de saúde.
+
+Diligências
+
+A Operação Camilo consiste no cumprimento de 61 mandados de busca e apreensão e de 15 mandados de
+prisão temporária, nas cidades gaúchas de Rio Pardo, Porto Alegre, Butiá, Canoas, Capela de Santana,
+Gravataí, Cachoeirinha, São Leopoldo, Guaíba, Portão, Cacequi e São Gabriel, além de São Paulo (SP), São
+Bernardo do Campo (SP), Rio de Janeiro (RJ), Florianópolis (SC) e São José (SC).
+
+oy
+Também foram deferidos o arresto/sequestro de bens móveis e imóveis e o bloqueio judicial de valores
+depositados em contas dos investigados e de suas empresas, além do afastamento cautelar de funções
+exercidas por servidores públicos. O trabalho conta com a participação de mais de 280 policiais federais, dez
+auditores da CGU e oito auditores do TCE/RS.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+
+denúncias. Quem tiver informações sobre estes contratos ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, bastando escolher a opção “Não
+identificado”.
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2020/05/cgu-combate-fraudes-na-gestao-do-hospital-
+egional-do-vale-do-rio-pardo-rs
+
+ 
+
+70
+25/05/2020: Operação Dispneia - CGU, MPF e PF apuram irregularidades na Secretaria de Saúde de
+Fortaleza (CE)
+
+Operação Dispneia investiga fraude em contratação e sobrepreço na aquisição de ventiladores pulmonares
+para tratamento de pacientes com a Covid-19
+
+A Controladoria-Geral da União (CGU) participa, nesta segunda-feira (25), no Ceará, da Operação Dispneia.
+O trabalho é realizado em parceria com o Ministério Público Federal (MPF) e a Polícia Federal (PF). O
+objetivo é apurar irregularidades na compra de 150 ventiladores pulmonares, que seriam utilizados no
+tratamento de pacientes em estado grave infectados com a Covid-19 em Fortaleza (CE).
+
+Investigações
+
+No decorrer das investigações, verificou-se a existência de indícios de conluio entre empresas; de sobrepreço
+dos equipamentos, tomando por base aquisições com a mesma especificação durante o período de pandemia;
+de contratação de empresa sem capacidade para entrega do produto nos prazos estabelecidos; e de
+pagamentos antecipados à empresa sem exigência de garantia. Com relação a esta última irregularidade, o
+MPF já solicitou o sequestro do valor pago visando a recomposição do erário.
+
+Os contratos investigados, promovidos pela Secretaria de Saúde de Fortaleza (CE) e pelo Instituto Dr. José
+Frota (IJF), hospital da rede municipal, somam R$ 34,7 milhões, dos quais foram pagos antecipadamente o
+valor de R$ 22,1 milhões, sem garantia dada pela empresa. Além disso, as análises de preços sinalizam
+potencial prejuízo financeiro de até R$ 25,4 milhões.
+
+ 
+
+A Secretaria de Saúde de Fortaleza alegou em sua justificativa para a aquisição emergencial a convivência
+diária com uma demanda de aproximadamente 100 pacientes em fila de espera para internação em UTI.
+
+Diligências
+
+A Operação consiste no cumprimento, nas cidades de Fortaleza (CE) e de São Paulo (SP), de sete mandados
+de busca e apreensão. O trabalho conta com a participação de quatro servidores da CGU e de cerca de 50
+policiais federais.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre estes contratos ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, bastando escolher a opção “Não
+identificado”.
+
+Balanço
+
+A Operação Dispneia é a quinta realizada pela CGU, em conjunto com outros órgãos de controle e de defesa,
+visando a eficiente aplicação dos recursos públicos federais repassados a estados e municípios para combater
+o novo coronavírus. Nos meses de abril e maio, outras quatro operações especiais foram deflagradas na
+Paraíba, Amapá, São Paulo e Distrito Federal para desarticular esquemas de fraude na aquisição de bens,
+serviços e insumos destinados às ações de enfrentamento à pandemia.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/05/cgu-mpf-e-pf-apuram-irregularidades-na-secretaria-
+de-saude-de-fortaleza-ce
+
+a
+21/05/2020: OPERAÇÃO MEDCRUZ - CGU e Polícia Federal combatem fraudes na saúde do
+município de Cruzeiro (SP)
+
+Operação Medcruz investiga irregularidades na contratação de gerenciamento de serviços pela Prefeitura.
+Prejuízo potencial é da ordem de R$ 3,1 milhões
+
+A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (21), da Operação Medcruz, realizada
+em parceria com a Polícia Federal (PF). O objetivo é apurar irregularidades em contratação de
+gerenciamento de serviços de saúde pela Prefeitura Municipal de Cruzeiro (SP).
+
+Investigações
+
+As apurações tiveram início a partir de fiscalização da CGU sobre a aplicação dos recursos do Programa de
+Atenção à Saúde da População para Procedimentos de Média e Alta Complexidade. O montante fiscalizado
+foi de R$ 7.213.916,42.
+
+A CGU constatou elementos de fraudes na contratação e na prestação de serviços irregulares na área da
+saúde. O prejuízo já apurado é de R$ 534 mil, com indicativo potencial de chegar a R$ 3,1 milhões. Destaca-
+se que, entre 2017 e março de 2020, a Prefeitura de Cruzeiro realizou pagamentos no montante de R$
+15.680.366,72 para a organização envolvida.
+
+Nas investigações em curso no âmbito da Delegacia de Polícia Federal de Cruzeiro (SP) foram identificadas
+situações com possíveis ocorrências de crimes de falsidade ideológica, de peculato, de fraudes a licitações,
+de organização criminosa ou associação criminosa.
+
+Diligências
+
+A Operação consiste no cumprimento de 15 mandados de busca e apreensão nos municípios de Cruzeiro,
+Mogi das Cruzes, Piquete, Poá e Taubaté (todos do estado de São Paulo) e de Resende (RJ). A Justiça
+Federal decretou, ainda, a quebra do sigilo de dados armazenados, bem como o sequestro dos bens de
+envolvidos, além de determinar o afastamento cautelar de funções públicas exercidas por investigados. O
+trabalho conta com a participação de 62 policiais federais e de cinco auditores da CGU.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, bastando escolher a opção “Não
+identificado”.
+
+https://www.gov br/cgu/pt-br/assuntos/noticias/2020/05/cgu-e-policia-federal-combatem-fraudes-na-saude-
+do-municipio-de-cruzeiro-sp
+
+72
+15/05/2020: Operação Grabato - Uperação Grabato apura contratação emergencial firmada pela
+Secretaria de Saúde do DF
+
+Irregularidades estão relacionadas a processo iniciado durante o período de emergência provocado pela
+Covid-19 para gerenciamento de leitos hospitalares. CGU participa da operação
+
+A Controladoria-Geral da União (CGU) e a Coordenação Especial de Combate à Corrupção e ao Crime
+Organizado da Polícia Civil do Distrito Federal (CECOR/PCDF), em conjunto com a Promotoria de Justiça
+de Defesa do Patrimônio Público e Social (PRODEP) e a Promotoria de Justiça de Defesa da Saúde
+(PROSUS), do MPDFT, deflagram na manhã desta sexta-feira (15) a “Operação Grabato”, com o objetivo de
+apurar irregularidades em contratação emergencial, via dispensa de licitação, firmada pela Secretaria de
+Saúde do Distrito Federal (SES-DF). Há suspeita de direcionamento.
+
+As irregularidades, que foram inicialmente detectadas pelo ministério público, estão relacionadas a processo
+iniciado durante o período de emergência sanitária em razão da pandemia de Covid-19 para contratação de
+empresa para gerenciamento de aproximadamente 200 leitos no hospital de campanha construído no Estádio
+Nacional Mané Garrincha, com inauguração prevista para os próximos dias. O valor do contrato firmado é de
+aproximadamente R$ 79 milhões. As análises investigatórias ainda alcançam os procedimentos de
+contratação de empresa para gerir as UTIs do Hospital da PMDF e de aluguel de ambulâncias, ambas
+relacionadas aos esforços de enfrentamento à pandemia.
+
+A suspeita é que a empresa contratada tenha se aproveitado da situação de calamidade para, com a
+participação de servidores públicos, burlar as regras legais e firmar contrato com a Secretaria de Saúde
+causando prejuízo aos cofres públicos.
+
+Na ação de hoje foram cumpridos oito mandados de busca e apreensão nas regiões de Taguatinga, Asa Norte,
+SIA e Lago Sul, em empresas e residências de empresários e do servidor público envolvido, bem como na
+Subsecretaria de Infraestrutura em Saúde da SES-DF, responsável pela contratação.
+
+As diligências visam obtenção de elementos probatórios que irão subsidiar as investigações em andamento
+que apontam, até o momento, para a ocorrência dos crimes de inobservância deliberada das formalidades
+pertinentes à dispensa de licitação e estelionato contra a administração pública, podendo-se, após análise do
+material apreendido, chegar a outros crimes e à quantificação do prejuízo ao Erári
+
+ 
+
+Participaram da operação de hoje 40 policiais civis, entre delegados, agentes, escrivães e peritos criminais,
+além de promotores e analistas do MPDFT e dois auditores da CGU, todos utilizando equipamentos de
+proteção individual (EPIs) que também foram fornecidos às pessoas que se encontravam nos locais alvos das
+buscas como medida de prevenção à disseminação do novo coronavírus.
+
+As investigações ainda estão em curso, razão pela qual não haverá atendimento à imprensa.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, bastando escolher a opção “Não
+identificado”.
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/05/operacao-grabato-apura-contratacao-emergencial-
+firmada-pela-secretaria-de-saude-do-df
+
+ 
+
+73
+29/04/2020: OPERAÇÃO VIRUS INFECTIO - CGU desarticula desvio de recursos para combate ao
+Covid-19 no Governo do Amapá
+
+Compra de equipamentos de proteção individual foi superfaturada. Máscaras duplas descartáveis estavam
+814% acima do preço praticado no mercado nacional
+
+A Controladoria-Geral da União (CGU) participou, nesta quarta-feira (29), em Macapá (AP), da Operação
+Virus Infectio. O trabalho foi realizado em parceria com a Polícia Federal (PF) e o Ministério Público
+Federal (MPF). O objetivo foi desarticular esquema de desvio de recursos destinados ao enfrentamento do
+novo coronavírus.
+
+ 
+
+  
+
+A operação teve início com a apuração de supostos indícios de superfaturamento na aquisição de
+equipamentos de proteção individual (EPI) pelo Governo do Amapá, para atender às necessidades das
+equipes assistenciais de prevenção e combate à pandemia do Covid-19. O Extrato de Dispensa de Licitação
+nº 02/2020 — CPL/SESA foi publicado no Diário Oficial da União em 30 de março. A contratação foi
+realizada com recursos do Fundo Estadual de Saúde (FES/AP).
+
+Os órgãos de investigação, mediante comparação aos preços médios de itens adquiridos por dispensa de
+licitação, constataram que a aquisição desses equipamentos de EPI ocorreu em valores significativamente
+maiores aos praticados no mercado nacional — como, por exemplo, em relação aos itens máscaras duplas
+(814%) e triplas (535%) descartáveis.
+
+O montante relativo à compra dos itens analisados foi de R$ 930.100, sendo que o total de referência
+apurado para a referida aquisição foi de R$ 290.994,60. Portanto, foram gastos R$ 639.105,40 a mais, o que
+equivale a 220% acima do preço de mercado.
+
+Diligências
+
+A Operação Virus Infectio consistiu no cumprimento de dois mandados de busca e apreensão, um na
+residência dos sócios e outro na sede da empresa de equipamentos hospitalares contratada. Os investigados
+poderão responder pelos crimes de fraude à licitação e integrar organização criminosa, e, se condenados,
+cumprir pena de até 14 anos de reclusão.
+
+A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
+á-las por meio de formulário elet o. A denúncia pode ser anônima, bastando escolher a opção “Não
+
+    
+
+enviá:
+identificado”.
+
+ 
+
+https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/04/cgu-desarticula-desvio-de-recursos-para-combate-
+ao-co! 9-no-governo-do-amapa
+
+  
+
+74
+23/04/2020: OPERAÇÃO ALQUIMIA - Operação Alquimia combate irregularidades na Secretaria de
+Saúde de Aroeiras (PB)
+
 Investigações apontam superfaturamento e utilização indevida de inexigibilidade de licitação para compra de
-
 material de campanha de combate ao COVID-19
-
-(Operação Mederuz investiga irregularidades na contratação de gerenciamento de serviços pela Prefeitura.
-Prejuízo potencial é da ordem de R$ 3.1 milhões
 
 A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (23), na Paraíba, da Operação Alquimia.
 O trabalho é realizado em parceria com a Polícia Federal (PF), o Ministério Público Federal (MPF) e o
 Grupo de Atuação Especial Contra o Crime Organizado do Ministério Público do Estado (GAECO/MPPB).
 
- 
-
-   
-
- 
-
- 
-
-   
-
 A ação visa combater irregularidades em processos de inexigibilidade de licitação, realizados pela Prefeitura
-de Aroeiras (PB), tendo como objeto a aqu de livros e cartilhas, com recursos federais da área da
+de Aroeiras (PB), tendo como objeto a aquisição de livros e cartilhas, com recursos federais da área da saúde,
 no montante aproximado de R$ 580 mil, destinados à campanhas educativas da Secretaria Municipal de
-
 Saúde, inclusive tendo como um dos temas o enfrentamento da pandemia causada pelo novo coronavírus.
-
- 
-
- 
-
-tíde,
-
- 
 
 Os trabalhos foram iniciados pela CGU, que, a partir de levantamento de dados, obtenção de documentos
 junto ao portal eletrônico do Tribunal de Contas do Estado da Paraíba (TCE-PB) e de outras pesquisas
-
-realizadas na Internet, constatou: a ocorrência de superfaturamento, causando dano ao e)
-indevida de inexigibilidade de licitação para adquirir materiais comercializados por v
-desperdício de recursos públicos com a aquisição de material de campanha de combate ao COVID-19, tendo ;
+realizadas na Internet, constatou: a ocorrência de superfaturamento, causando dano ao erário; a utilização
+indevida de inexigibilidade de licitação para adquirir materiais comercializados por várias empresas; e o
+desperdício de recursos públicos com a aquisição de material de campanha de combate ao COVID-19, tendo
 em vista que o mesmo é disponibilizado gratuitamente pelo site do Ministério da Saúde. As situações
-
-constatadas pela CGU foram enviadas ao Ministério Público Federal Federal por meio de Nota
-
-    
-
- 
-
- 
-
+constatadas pela CGU foram enviadas ao Ministério Público Federal e à Polícia Federal por meio de Nota
 Técnica.
 
- 
+Impacto social
 
-Impacto soci
 As irregularidades praticadas pela Prefeitura de Aroeiras (PB) impactaram negativamente as medidas de
 combate ao COVID-19 voltadas à população carente. Especificamente para esta ação, a União e o Governo
-im R$214.188,68 para o município. Porém, ao invés de utilizar os recursos para
-
-s e serviços a serem utilizados em ações efetivas de combate ao COVID-19, a exemplo
-da compra de equipamentos de proteção individual para uso dos prof
-estão municipal optou por adquirir cartilhas voltadas a orientar a população sobre a pandemia, mediante
-procedimento irregular de inexigibilidade de licitação, conforme nota de empenho no valor total de R$ ipamentos le
+do Estado transferiram R$ 214.188,68 para o município. Porém, ao invés de utilizar os recursos para
+aquisição de materiais e serviços a serem utilizados em ações efetivas de combate ao COVID-19, a exemplo
+da compra de equipamentos de proteção individual para uso dos profissionais de saúde do município, a
+gestão municipal optou por adquirir cartilhas voltadas a orientar a população sobre a pandemia, mediante
+procedimento irregular de inexigibilidade de licitação, conforme nota de empenho no valor total de R$
 279.300,00, cujos materiais orientativos poderiam ser obtidos gratuitamente no site do Ministério da Saúde.
 
-  
-
-     
-   
-
  
-
-   
-
- 
-
-      
 
 Diligências
 
-“A Operação Alquimia consiste no cumprimento de três mandados de busca e apreensão nas cidades
+A Operação Alquimia consiste no cumprimento de três mandados de busca e apreensão nas cidades
 paraibanas de Aroeiras e Patos. O trabalho conta com a participação de quatro servidores da CGU e de 12
 policiais federais. As equipes utilizam equipamentos de proteção individual (EPI), para que não haja
 comprometimento das medidas de prevenção à disseminação do novo coronavírus.
 
- 
-
- 
-
- 
-
 A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o canal Fala.BR para o recebimento de
-denúncias. Quem tiver informa ver outras irregularidades, pode
+denúncias. Quem tiver informações sobre esta operação ou sobre quaisquer outras irregularidades, pode
 enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, bastando escolher a opção “Não
 identificado”.
 
- 
+https://www.gov .br/cgu/pt-br/assuntos/noticias/2020/04/operacao-alquimia-combate-irregularidades-na-
+secretaria-de-saude-de-aroeiras-pb
 
  
 
-identificado”.
-
- 
+75
 

@@ -133,153 +133,6 @@ UTI
  
  
 
-310
-
-Sílvia De Souza Oliveira
-
-04- Fisioterapeuta
-
-Unidade Aberta
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-311 |Talita Barreto Figueiredo 02- Enfermeiro Unidade Aberta
-312 [Tamires Gomes Tavares 02- Enfermeiro Unidade Aberta
-313 [Tássia Liviane Paula De Oliveira 02- Enfermeiro Unidade Aberta
-314 |Tássia Rita Uchiyama Dinelli 01- Médico Unidade Aberta
-315 | Tássia Tayane Cortezão Mota 04- Fisioterapeuta Unidade Aberta
-316 |Tatiane Pereira Cerdeira 03- Técnico em Enfermagem | Unidade Aberta
-317 | Telma dos Santos Almeida 03- Técnico em Enfermagem | Unidade Aberta
-318 |Thalia Andrade Brasil 02- Enfermeiro Unidade Aberta
-319 |Thalita Damasceno Santana 02- Enfermeiro UTI
-
-320 |Thalyssa Figuereido Magalhaes 01- Médico UTI
-
-321 |Thayanne Neves Martins 03- Técnico em Enfermagem | Unidade Aberta
-322 |Thiago Hipe Da Costa 02- Enfermeiro Unidade Aberta
-323 |Trhacy Karoline Neves 03- Técnico em Enfermagem | Unidade Aberta
-324 |Valéria Moreira Da Costa 02- Enfermeiro Unidade Aberta
-325 [Valéria Santos Da Silva 02- Enfermeiro Unidade Aberta
-326 |Vangila de Souza Vasconcelos 02- Enfermeiro UTI
-
-327 |Viviane Santos Da Silva 02- Enfermeiro Unidade Aberta
-328 |Waldex Ribamar Alves de Moraes Júnior 02- Enfermeiro UTI
-
-329 |Wanessa Do Nascimento Jacinto 04- Fisioterapeuta UTI
-
-330 |Wilian Menezes De Andrade 02- Enfermeiro Unidade Aberta
-331 |Wilson Ferreira Da Silva Jr 03- Técnico em Enfermagem | Unidade Aberta
-332 |Yasmine Oliveira Braga Brandão 04- Fisioterapeuta Unidade Aberta
-333 [Alan Calil Alvarez Zeine Edine 02- Enfermeiro UTI
-
-334 |Ana Carolina Pereira de Souza 02- Enfermeiro Unidade Aberta
-335 [Andria Márcia De Souza Dias 02- Enfermeiro UTI
-
-336 |Bruna Alves Souza Tavares 02- Enfermeiro Unidade Aberta
-337 |Cezar Augusto Dos Santos 02- Enfermeiro Unidade Aberta
-338 [Emerson Rubens Nani Cardoso 02- Enfermeiro UTI
-
-339 |Estela Pereira Dos Santos Borges 02- Enfermeiro Unidade Aberta
-340 |Esther Machado Da Rocha 02- Enfermeiro Unidade Aberta
-
- 
-
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-341 [Giuliana Jessica Barbosa Sobrinho 02- Enfermeiro Unidade Aberta
-342 |Rebecca Hadassa Vasques De Araujo 02- Enfermeiro UTI
-343 |Ruth Samara Dutra 02- Enfermeiro UTI
-344 |Thielly Dias de Oliveira 02- Enfermeiro UTI
-345 |Yuri Takahashi 02- Enfermeiro UTI
-
- 
-
- 
-
- 
-
- 
-
- 
- 
-
 31
 
 Anna Lidia De Barros Lourenço
@@ -1398,6 +1251,153 @@ Silma da Silva Matos
  
 
 Unidade Aberta
+
+ 
+
+ 
+ 
+
+310
+
+Sílvia De Souza Oliveira
+
+04- Fisioterapeuta
+
+Unidade Aberta
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+311 |Talita Barreto Figueiredo 02- Enfermeiro Unidade Aberta
+312 [Tamires Gomes Tavares 02- Enfermeiro Unidade Aberta
+313 [Tássia Liviane Paula De Oliveira 02- Enfermeiro Unidade Aberta
+314 |Tássia Rita Uchiyama Dinelli 01- Médico Unidade Aberta
+315 | Tássia Tayane Cortezão Mota 04- Fisioterapeuta Unidade Aberta
+316 |Tatiane Pereira Cerdeira 03- Técnico em Enfermagem | Unidade Aberta
+317 | Telma dos Santos Almeida 03- Técnico em Enfermagem | Unidade Aberta
+318 |Thalia Andrade Brasil 02- Enfermeiro Unidade Aberta
+319 |Thalita Damasceno Santana 02- Enfermeiro UTI
+
+320 |Thalyssa Figuereido Magalhaes 01- Médico UTI
+
+321 |Thayanne Neves Martins 03- Técnico em Enfermagem | Unidade Aberta
+322 |Thiago Hipe Da Costa 02- Enfermeiro Unidade Aberta
+323 |Trhacy Karoline Neves 03- Técnico em Enfermagem | Unidade Aberta
+324 |Valéria Moreira Da Costa 02- Enfermeiro Unidade Aberta
+325 [Valéria Santos Da Silva 02- Enfermeiro Unidade Aberta
+326 |Vangila de Souza Vasconcelos 02- Enfermeiro UTI
+
+327 |Viviane Santos Da Silva 02- Enfermeiro Unidade Aberta
+328 |Waldex Ribamar Alves de Moraes Júnior 02- Enfermeiro UTI
+
+329 |Wanessa Do Nascimento Jacinto 04- Fisioterapeuta UTI
+
+330 |Wilian Menezes De Andrade 02- Enfermeiro Unidade Aberta
+331 |Wilson Ferreira Da Silva Jr 03- Técnico em Enfermagem | Unidade Aberta
+332 |Yasmine Oliveira Braga Brandão 04- Fisioterapeuta Unidade Aberta
+333 [Alan Calil Alvarez Zeine Edine 02- Enfermeiro UTI
+
+334 |Ana Carolina Pereira de Souza 02- Enfermeiro Unidade Aberta
+335 [Andria Márcia De Souza Dias 02- Enfermeiro UTI
+
+336 |Bruna Alves Souza Tavares 02- Enfermeiro Unidade Aberta
+337 |Cezar Augusto Dos Santos 02- Enfermeiro Unidade Aberta
+338 [Emerson Rubens Nani Cardoso 02- Enfermeiro UTI
+
+339 |Estela Pereira Dos Santos Borges 02- Enfermeiro Unidade Aberta
+340 |Esther Machado Da Rocha 02- Enfermeiro Unidade Aberta
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+341 [Giuliana Jessica Barbosa Sobrinho 02- Enfermeiro Unidade Aberta
+342 |Rebecca Hadassa Vasques De Araujo 02- Enfermeiro UTI
+343 |Ruth Samara Dutra 02- Enfermeiro UTI
+344 |Thielly Dias de Oliveira 02- Enfermeiro UTI
+345 |Yuri Takahashi 02- Enfermeiro UTI
+
+ 
+
+ 
+
+ 
 
  
 

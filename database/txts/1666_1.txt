@@ -2191,6 +2191,7 @@ que institui a
 
 ADVOCACIA-GERAL DA UNIÃO
 CONSULTORIA-GERAL DA UNIÃO
+
 CONSULTORIA JURÍDICA DA UNIÃO ESPECIALIZADA VIRTUAL DE OBRAS E SERVIÇOS DE ENGENHARIA
 
  
@@ -2212,7 +2213,7 @@ EMERGENCIAL E AS RESPONSABILIDADES DOS AGENTES ADMINISTRATIVOS
 EVENTUALMENTE ENVOLVIDOS, NOS TERMOS DA ORIENTAÇÃO NORMATIVA AGU
 Nº 11/2009.
 
-IH - O OBJETO DA CONTRATAÇÃO NÃO SE RESTRINGE AO ATENDIMENTO DA
+IN - O OBJETO DA CONTRATAÇÃO NÃO SE RESTRINGE AO ATENDIMENTO DA
 SITUAÇÃO EMERGENCIAL, CONFORME EXIGE O DISPOSITIVO LEGAL - AO
 CONTRÁRIO, CONTEMPLA DIVERSOS SERVIÇOS DE REFORMA DA EDIFICAÇÃO QUE
 EXTRAPOLAM A FINALIDADE ESTRITA DE AFASTAR OS RISCOS URGENTES À
@@ -2223,7 +2224,7 @@ INSTALAÇÃO DE ILUMINAÇÃO AUTOMÁTICA EM LED COLORIDO NAS FACHADAS,
 INSTALAÇÃO DE PAINÉIS ACM PARA FIXAÇÃO DE COMUNICAÇÃO VISUAL NAS
 FACHADAS, LIMPEZA E POLIMENTO DE PISO DE MARMORITE, INSTALAÇÃO DE
 JARDINEIRAS EM CONCRETO NAS FACHADAS, SUBSTITUIÇÃO DE LIXEIRAS ETC.)
-NI - A PLANILHA ORÇAMENTÁRIA DA CONTRATAÇÃO NÃO OBSERVA OS
+HI - A PLANILHA ORÇAMENTÁRIA DA CONTRATAÇÃO NÃO OBSERVA OS
 REQUISITOS DO DECRETO Nº 7.983/2013 PARA O ORÇAMENTO DE OBRAS E
 SERVIÇOS DE ENGENHARIA, ESPECIALMENTE: APRESENTAÇÃO DA ANOTAÇÃO DE
 RESPONSABILIDADE TÉCNICA - ART, APRESENTAÇÃO DAS COMPOSIÇÕES DE
@@ -2246,7 +2247,7 @@ PARA ADOÇÃO DAS SEGUINTES PROVIDÊNCIAS: RECONHECIMENTO DA NULIDADE
 DO ATO DE DISPENSA DE LICITAÇÃO E DO CONTRATO Nº 135/2020 E INSTAURAÇÃO
 DE PROCEDIMENTO ADMINISTRATIVO PARA APURAÇÃO DAS IRREGULARIDADES
 RELATADAS.
-AINDA CONFORME A ORIENTAÇÃO DA CONSULTORIA-GERAL DA UNIÃO,
+AINDA CONFORME A ORIENTAÇÃO DA CONSULTORIA-GERAL DA UNIAO,
 CONCEDE-SE O PRAZO DE 60 (SESSENTA) DIAS PARA QUE A SUPERINTENDÊNCIA
 ESTADUAL DO MINISTÉRIO DA SAÚDE NO RIO DE JANEIRO APRESENTE OS
 ESCLARECIMENTOS PERTINENTES QUANTO ÀS IRREGULARIDADES RELATADAS,
@@ -2258,45 +2259,45 @@ FEITO SERÁ ENCAMINHADO À CONTROLADORIA REGIONAL DA UNIÃO NO ESTADO
 DO RIO DE JANEIRO E AO TCU, PARA A DEVIDA APURAÇÃO DAS
 IRREGULARIDADES RELATADAS.
 
-1. Trata-se de processo oriundo da Superintendência Estadual do Ministério da Saúde no Rio de Janeiro,
+l. Trata-se de processo oriundo da Superintendência Estadual do Ministério da Saúde no Rio de Janeiro,
 cujo objeto é a contratação de serviços de engenharia para reparos, consertos, revisões, pinturas, reformas e adaptações
 para o prédio sede da unidade, junto à empresa SP SERVIÇOS E LOCAÇÃO LTDA., CNPJ nº 20.097.196/0001-91, no
 valor total de R$ 19.939.071,91 (dezenove milhões, novecentos e trinta e nove mil, setenta e um reais e noventa e um
 centavos), mediante DISPENSA DE LICITAÇÃO, fundamentada no inciso IV do art. 24 da Lei nº 8.666/93
 
 2. O feito foi encaminhado a esta Consultoria Jurídica Especializada Virtual de Obras e Serviços de
-Engenharia, para fins de análise e elaboração de parecer jurídico, nos termos do art. 11, VT, “a”, da Lei Complementar nº
-73/93, do art. 8º-F da Lei nº 9.028/95 e do art. 38, parágrafo único, da Lei nº 8.666/93.
+Engenharia, para fins de análise e elaboração de parecer jurídico, nos termos do art. 11, VI, “a”, da Lei Complementar nº
+73/93, do art. 8-F da Lei nº 9.028/95 e do art. 38, parágrafo único, da Lei nº 8.666/93.
 
 3. O processo, encaminhado em meio eletrônico por meio do Sistema Sapiens, foi distribuído a esta
 Advogada em 02/12/2020. Dentre os documentos que compõem o processo, cabe mencionar, em função da relevância,os
 seguintes:
 
 1. - OFÍCIO Nº 1352/2020/RJ/CO AD/RJ/SEMS/SE/MS (SEQ3, PDE2, pg.1)
-2. - OFÍCIO Nº 1369/2020/RJ/CO AD/RJ/SEMS/SE/MS (SEQ3, PDEZ2, pg.25)
-3. - Relatório fotográfico (SEQ3, PDF2, pg.35)
+2.- OFÍCIO Nº 1369/2020/RJ/CO AD/RJ/SEMS/SE/MS (SEQ3, PDE2, pg.25)
+3. - Relatório fotográfico (SEQ3, PDE2, pg.35)
 4. - continuação - Relatório fotográfico (SEQ3. PDE3. pg.1)
-5. - continuação - Relatório fotográfico (SEQ3.. PDF4 .pe.1)
+5. - continuação - Relatório fotográfico (SEQ3.. PDF4 . pe.1)
 6. - continuação - Relatório fotográfico (SEQ3.. PDES . pg.1)
 7. - continuação - Relatório fotográfico (SEQ3, PDF6, pg.1)
 8. - Minuta de chamamento público (SEQ3. PDF6, pg.2)
-9. - Solicitações de manutenção predial (SEQ3, PDE6, pg 3)
-10. - Projeto básico (SEQ3, PDF6, pg.14)
+9. - Solicitações de manutenção predial (SEQ3, PDF6, pg 3)
+10. - Projeto básico (SEQ3, PDE6, pe.14)
 11. - Relatório de inspeção predial (SEQ3. PDF6, pg.39)
 12. - continuação - Relatório de inspeção predial (SEQ3, PDFT. pg.1)
-13. - continuação - Relatório de inspeção predial (SEQ3. PDE8. pg.1)
+13. - continuação - Relatório de inspeção predial (SEQ3, PDE8. pg.1)
 14. - Autorização do Superintendente (SEQ3, PDES, pg.10)
 15. - Publicação de aviso de chamamento público (SEQ3. PDES. pg.13)
-16. - Proposta de preços (SEQ3. PDES, pg.19)
-17. - Proposta de preços (SEQ3. PDES, pg .24)
+16. - Proposta de preços (SEQ3., PDES, pe.19)
+17. - Proposta de preços (SEQ3, PDES, pg .24)
 18. - Contrato nº 135/2020 (SEQ3, PDF9, pg.15)
 19. - Planilha orçamentária (SEQ3, PDF9, pe.26)
 20. - OFÍCIO Nº 1369/2020/RJ/CO AD/RJ/SEMS/SE/MS (SEQ3, PDE9, pg.31)
-21. - Autorização do Superintendente (SEQ3., PDF9, pg .44)
-22. - NOTA TÉCNICA Nº 11/2020-RJ/COAD/RI/SEMS/SE/MS (SEQ3 PDES, pg.46)
+21. - Autorização do Superintendente (SEQ3, PDF9, pg .44)
+22. - NOTA TÉCNICA Nº 11/2020-RJ/COAD/RI/SEMS/SE/MS (SEQ3 PDED, pg.46)
 23. - Solicitação de autorização do Ministro da Saúde (SEQ3, PDE9, pg.60)
 24. - Publicação do extrato de dispensa de licitação (SEQ3. PDE9, pg.63)
-25. - Despacho (SEQ3., PDF9, pg.70)
+25. - Despacho (SEQ3, PDF9, pg.70)
 
  
 
@@ -3522,25 +3523,21 @@ ISSN 1677-7069 Nº 242, sexta-feira, 18 de dezembro de 2020
 EXTRATO DO 3º TERMO ADITIVO AO TERMO DE EXECUÇÃO DESCENTRALIZADA Nº 107/2018
 
 CONVENENTES: Celebram entre si a União Federal, através do Ministério da Saúde - CNPJ
-N900.530.453/0001-71, e UNIVERSIDADE FEDERAL DE MINAS GERAIS, Estado de MINAS
-GERAIS - CNPJ Nº17.217.985/0001-04.
-
-OBIETO: Prorrogar à vigência do Termo de Execução Descentralizada 9107/2018,
-CAPACITAÇÃO SÓBRE EXPANSÃO E CONSOLIDAÇÃO DA ESTRATÉGIA DA SAÚDE DA FAMÍLIA
-- NAS, até 31/12/2021, a contar de seu vencimento.
-
-PROCESSO: 25000.177742/2018-91.
-
+Nº00.530.493/0001-71, é UNIVERSIDADE FEDERAL DE MINAS GERAIS, Estado de MINAS
+GERAIS - CNP Ne17.217.985/0001-04.
+OBIETO: Prorrogar a vigência do Termo de Execução Descentralizada Nº107/2018,
+CAPACITAÇÃO SOBRE EXPANSÃO E CONSOLIDAÇÃO DA ESTRATÉGIA DA SAÚDE DA FAMÍLIA
+- PNAB, até 31/12/2021, a contar de seu vencimento.
+PROCESSO: 25000.177742/2018:91.
 VIGÊNCIA: Entrará em vigor a partir de sua assinatura até 31/12/2021.
-
 DATA DE ASSINATURA: 07/12/2020.
-
-SIGNATÁRIOS: LILINQUIEL FAGUNDES DOS SANTOS SOUZA - CPF. Nº958.813.440-49 -
+SIGNATÁRIOS: LILINQUIEL FAGUNDES DOS SANTOS SOUZA - CPF, Nº958.813.440-49 -
 SUPERINTENDENTE DA SUPERINTENDÊNCIA ESTADUAL DE MINAS GERAIS; SANDRA REGINA
-GOULART ALMEIDA - C.PF. Nº452.170.336-45, REITORA, UNIVERSIDADE FEDERAL DE MINAS
-GERAIS
+GOULART AIMEIDA - CP.F. N9452.170.336-49, REITORA, UNIVERSIDADE FEDERAL DE MINAS
+GERAIS.
 
 SUPERINTENDÊNCIA ESTADUAL DO MINISTÉRIO DA SAÚDE NA
+
 PARAÍBA
 DIVISÃO DE CONVÊNIOS E GESTÃO
 
@@ -3548,67 +3545,69 @@ EXTRATO DE CONTRATO Nº 3/2020 - UASG 250027
 
 Nº Processo: 25018002892202077.
 INEXIGIBILIDADE Nº 1/2020. Contratante: MINISTERIO DA SAUDE -CNPJ Contratado:
-34028316001532. Contratado : EMPRESA BRASILEIRA DE CORREIOS E -TELEGRAFOS. Objeto:
+34028316001932. Contratado : EMPRESA BRASILEIRA DE CORREIOS E -TELEGRAFOS. Objeto:
 Contratação de serviços postais e telemáticos vinculado ao Contrato Correios nº
-9912513701. Fundamento Legal: Art. 25 Caput da Lei nº 8.666/03. Vigência: 05/12/2020 à
-03/12/2025. Valor Total: R$80.268,60. Fonte: 6153000000 - 2020NEB00098. Data de
+9912513701. Fundamento Legal: Art. 25 Caput da Lei nº 8.656/93. Vigência: 05/12/2020 a
+03/12/2025. Valor Total: R$80.268,60. Fonte: 6153000000 - 2020NEB000S8. Data de
 Assinatura: 03/12/2020.
 
-(SICON - 17/12/2020) 250027-00001-2020NE111111
+SICON - 17/12/2020) 250027-00001-2020NE111111
 NO RIO DE JANEIRO
 AVISO DE ANULAÇÃO
 DISPENSA DE LICITAÇÃO Nº 10/2020
-Fica anulada a Dispensa de licitação supracitada referente ao processo Nº
+fica anulada a Dispensa de licitação supracitada referente ao processo Nº
 2500101168120201
 
 JOABE ANTONIO DE OLIVEIRA
 Coordenador de Administração
-(SIDEC - 17/12/2020) 250031-00001-2020nE800037
+SIDEC - 17/12/2020) 250031-00001-2020nE800037
 HOSPITAL FEDERAL CARDOSO FONTES
 
 EXTRATO DE DISPENSA DE LICITAÇÃO Nº 119/2020 - UASG 250104
 
 Nº Processo: 33407116972202053 . Objeto: Aquisição de Kit: REAGENTE PARA
-DIAGNÓSTICO CLÍNICO TIPO CONJUNTO COMPLETO, ANÁLISE: QUALITATIVO ANTÍGENO
-CORONAVÍRUS SARS COV 2 (COVID 18) TESTE RÁPIDO MÉTODO IMUNOCROMATOGRAFIA
+DIAGNÓSTICO CLÍNICO TIPO CONJUNTO COMPIETO, ANÁLISE: QUALITATIVO ANTÍGENO
+CORONAVÍRUS SARS COV 2 (COVID 18) TESTE RÁPIDO MÉTODO IMUNOCROMATOGRAFIA.
 OU IMUNOENSAIO FLUORESCENTE. Total de Itens Licitados: 00001. Fundamento Legal: Art.
-as da lei nº 13.979 de 06/02/2020. Justificativa: Emergência em Saúde Pública de
-Importância Nacional (ESPIN) em decorrência da Infecção Humana pelo novo coronavírus.
+4º da lei nº 13979 de 06/02/2020.. Justificativa: Emergência em Saúde Pública de
+importância Nacional (ESPIN) em decorrência da Infecção Humana pelo novo coronavírus.
 Declaração de Dispensa em 17/12/2020. EDSON WILLIAM DO NASCIMENTO. Coordenador
-Administrativo. Ratificação em 17/12/2020. ANA PAULA FERNANDES DA SILVA. Diretora
-Geral, Valor Global: R$ 541.500,00. CNPJ CONTRATADA : 02.220:795/0001-79 BIOSYS
+Administrativo. Ratificação em 17/12/2020. ANA PAULA FERNANDES DA SIIVA. Diretora
+Geral. Valor Global: R$ 541.500,00. CNPJ CONTRATADA : 02.220.795/0001-79 BIOSYS
 LTDA.
 
-(SIDEC - 17/12/2020) 250104-00001-2020nE800001
+ 
+
+SIDEC - 17/12/2020) 250104-00001-2020nE800001
 
 AVISO DE HOMOLOGAÇÃO
 PREGÃO ELETRÔNICO Nº 1/2020
 
 A Diretora-Geral do Hospital Federal Cardoso Fontes, diante de tudo o que
-consta dos autos, pela Competência delegada através da Portaria Ministerial nº. 847 de
-24/08/2017, publicada no DOU nº 059 de 27/03/2017, torna pública a HOMOLOGAÇÃO
+consta dos autos, pela Competência delegada através da Partaria Ministerial nº. 847 de
+24/03/2017, publicada no DOU nº 059 de 27/03/2017, torna pública a HOMOLOGAÇÃO
 parcial da LICITAÇÃO realizada na modalidade Pregão Eletrônico sob nº 01/2020 (Processo
-Nº 33407.005241/2015-33), cujo objeto é a formação da ata de registro de preços para a
-Aquisição de Material para a Clínica de Urologia para o HFCF e Participantes, em favor da
-seguinte licitante: ATAX - EMPREENDIMENTOS COMERCIAIS EIREL CNPJ 11.493.941/0001-
+Nº 33407.006241/2015-33), cujo objeto é à formação da ata de registro de preços para a
+Aquisição de Material para a Clínica de Urologia para o HFCF e Participantes, em favar da
+seguinte licitante: ATAX - EMPREENDIMENTOS COMERCIAIS EIREL CNPI 11.493.941/0001-
 20, total do fornecedor R$ 23.803.488,00. Data da Homologação: 17/12/2020. Os autos se
-encontram com vista franqueada 20s interessados.
+encontram com vita franqueada aos interessados.
 
 ANA PAULA FERNANDES DA SILVA
 
 RESULTADO DE JULGAMENTO
 PREGÃO Nº 1/2020
 
-O Pregoeiro Oficial do Hospital Federal Cardoso Fontes torna público o Resultado de
-Julgamento do Pregão Eletrônico nº 01/2020 que tem por objeto a formação da ata de
-registro de preças para a Aquisição de Material para a Clínica de Urologia para o HFCF e
-Participantes, em favor da seguinte licitante: 11.493941/000120 - ATAX-
-EMPREENDIMENTOS COMERCIAIS EIRELI, GRUPO 1, valor total R$ 23.803.488,00.
+O Pregoeira Oficial do Hospital Federal Cardoso Fontes torna público o Resultado de
+julgamento do Pregão Eletrônico nº 01/2020 que tem por objeto a formação da ata de
+registro de preços para a Aquisição de Material para a Clínica de Urologia para o HFCF e
+Participantes, em favor da seguinte licitante: 11493941/0001-20 - ATAX-
+EMPREENDIMENTOS COMERCIAIS EIREL), GRUPO 1, valor total R$ 23.803.488,00.
 
 MAURICIO DE CASTRO BISPO
 Pregoeiro
 
-(SIDEC - 17/12/2020) 250104-00001-2020nE800001
+SIDEC - 17/12/2020) 250104-00001-2020nE800001
 HOSPITAL FEDERAL DE BONSUCESSO
 
 EXTRATO DE INEXIGIBILIDADE DE LICITAÇÃO Nº 10/2020 - UASG 250042
@@ -3616,15 +3615,17 @@ EXTRATO DE INEXIGIBILIDADE DE LICITAÇÃO Nº 10/2020 - UASG 250042
 Nº Processo: 33374171254201931 . Objeto: Spyglass DS: sonda endoscópica de
 coledoscopia, com ponta flexível, manopla com duplo eixo, imagem digital, canal de
 trabalho, descartável, de uso único E Spybite: Fórceps para biópsia compatível com canal
-ultra-fino, com diâmetro extemo de mandíbula de 1 mm, e abertura de 41 mm,
-descartável Total de Itens Licitados: 00002. Fundamento Legal: Art. 259, Inciso | da Lei nº
-8.566 de 21/06/1993.. Justificativa: Os insumos irão atender à um procedimento de grande
+ultra-ino, com diâmetro extemo de mandíbula de 1 mm, e abertura de 41 mm,
+descartável Total de Itens licitados: 00002. Fundamento Legal: Art. 259, Inciso | da Lei nº
+8.666 de 21/06/1993.. Justificativa: Os insumos irão atender a um procedimento de grande
 demanda porém pouco disponível no SUS. Declaração de Inexigibilidade em 17/12/2020.
-WALTER FERNANDES FILHO. Coordenador Administrativo. Ratificação em 17/12/2020.
-EDSON JOAQUIM DE SANTANA. Diretor Geral. Valor Global: R$ 103.800,00. CNPJ
-CONTRATADA : 01.513.946/0001-14 BOSTON SCIENTIFIC DO BRASIL ITDA.
+WALTER. FERNANDES FILHO. Coordenador Administrativo. Ratificação em 17/12/2020.
+EDSON JOAQUIM DE SANTANA. Diretor Geral. Valor Global: R$ 103.800,00. CNP)
+CONTRATADA : 01.513.946/0001-14 BOSTON SCIENTIFIC DO BRASIL LTDA.
 
-(SIDEC - 17/12/2020) 250042-00001-2020nE800037
+ 
+
+SIDEC - 17/12/2020) 250042-00001-2020nE800037
 
 COORDENAÇÃO DE ADMINISTRAÇÃO
 DIVISÃO DE CONTROLE DE CONTRATOS
@@ -3632,8 +3633,8 @@ DIVISÃO DE CONTROLE DE CONTRATOS
 AVISO DE DISPENSA DE LiciTAÇÃO
 
 O Diretor Geral do Hospital Federal de Bonsucesso, no uso das atribuições
-conferidas pela Portaria nº 2.223, de 25/08/2020, publicada no DOU nº 172, de
-08/05/2020, seção 2, página 45, resolve:
+conferidas pela Portaria nº 2223, de 25/08/2020, publicada no DOU nº 172, de
+08/09/2020, seção 2, página 45, resolve:
 
 Baseado no Art. 24, inciso IV, convocar empresas para apresentação de
 proposta visando a Contratação emergencial de empresa especializada, para fins de
@@ -3641,7 +3642,7 @@ elaboração de documentação técnica das ações para laudo, projeto e recomp
 execução de estruturas nas áreas danificadas pelo incêndio - Prédio 1, do HOSPITAL
 FEDERAL DE BONSUCESSO, localizado na Avenida Londres 616, Bonsucesso - Rio de
 Janeiro/RJ, conforme condições técnicas, quantidades e exigências estabelecidas no Projeto
-Básica
+Básico.
 
 VISITAÇÃO: 22/12/2020 entre as 11h e as 12h.
 
@@ -3651,7 +3652,7 @@ Abertura das propostas e decisão: 28/12/2020 às 15h
 
 Maiores esclarecimentos através dos seguintes contatos:
 
-E-mail: contratos hgbehfbrjsaude gov.br ou dec hibOgmail com
+E-mail: contratos hgbOhfbjsaude gov.br ou dec hbOgmail com
 
 Telefone: (21) 3577-9546
 
@@ -3664,17 +3665,19 @@ Número do Contrato: 13/2015.
 Ne Processo: 33433016182201411.
 
 PREGÃO SISPP Nº 39/2015. Contratante: MINISTERIO DA SAUDE -CNPJ Contratado:
-02566106000182. Contratado : S/M.21 ENGENHARIA E CONSTRUCOES SA. Objeto: O
-presente Termo Ádlitivo tem por objeto, a Prorrogação em caráter Excepcional do prazo de
-vigência prevista na CLÁUSULA SEGUNDA do Contrato, firmado em 04/12/2015, com base
-no disposto no Art. 30 da IN nº 02, de 30 de abril de 2008 e alterada pela IN/MP nº 03,
-de 15 de novembro de 2009, observando o disposto no Art. 57 da lei nê 8666/93.
-Fundamento Legal: Art. 30 da IN nº 02, de 30 de abril de 2008 alterada pela IN/MP nº 03,
-de 15 de novembro e Art. 57 da Lei nº &.666/93. Vigência: 08/12/2020 a 07/12/2021. Valor
-Total: R$1.726.321,44. Fonte: 6151000000 - 2020NESOIGES. Data de Assinatura:
+02566106000182. Contratado : SM.21 ENGENHARIA E CONSTRUCOES “S.A. Objeto: O
+presente Termo fdlitiva tem por objeto, a Prorrogação em caráter Excepcional da prazo de
+vigência prevista na CLÁUSULA SEGUNDA do Contrato, firmada em 04/12/2015, com base
+no disposto no Art. 30 da IN nº 02, de 30 de abril de 2008 e alterada pela INÍMP nº 03,
+de 15 de novembro de 2009, observando a disposto no Art. 57 da lei nê 8666/03.
+Fundamento Legal: Art. 30 da IN nº 02, de 30 de abril de 2008 alterada pela IN/MP nº 05,
+de 15 de novembro e Art. 57 da lei nº &.666/93. Vigência: 08/12/2020 a 07/12/2021. Valar
+Total: R$1.726.321,44. Fonte: 6151000000 - 2020NES0I68S. Data de Assinatura:
 02/12/2020.
 
-(SICON - 27/12/2020) 250061-00001-2020NEBOLGES
+ 
+
+(SICON - 27/12/2020) 250061-00001-2020NEB0LGES
 
 SECRETARIA DE ATENÇÃO ESPECIALIZADA À SAÚDE
 INSTITUTO NACIONAL DE CÂNCER JOSÉ ALENCAR GOMES DA SILVA
@@ -3683,48 +3686,55 @@ EXTRATO DE DISPENSA DE LICITAÇÃO Nº 233/2020 - UASG 250052
 
 Nº Processo: 25410014572202027 . Objeto: Aquisição de SABÃO DE COCO, EM BARRA DE
 200 GRAMAS, conforme solicitação da Área de Planejamento de Compras, no âmbito do
-instituto Nacional de Câncer - INCA/MS, Tatal de Itens Licitados: 00001. Fundamento Legal:
-Art, 248, Inciso 1 da Lei nº 8.666 de 21/06/1985.. Justificativa: Dispensa 24-1 Declaração de
+instituto Nacional de Câncer - INCA/MS, Total de Itens Licitados: 00001. Fundamento Legal:
+Art, 248, Inciso da Lei nº 8.666 de 21/06/1995.. Justificativa: Dispensa 24-1 Declaração de
 Dispensa em 15/12/2020. ANSE RODRIGUES BITTENCOURT. Coordenadora de
 Administração. Ratificação em 16/12/2020. ANA CRISTINA PINHO MENDES PEREIRA.
 Diretora Geral. Valor Global: R$ 900,00. CNPJ CONTRATADA : 27.039.914/0001-12 ALNETTO
-COMERCIAL E SERVICOS EIREL.
+COMERCIAL E SERVICOS EIRELI.
 
-(SIDEC - 17/12/2020) 250052-00001-2020NE800082
+ 
+
+ 
+
+(SIDEC - 17/12/2020) 250052-00001-2020nE800082
 EXTRATO DE TERMO ADITIVO Nº 115/2020 - UASG 250052
 
 Número do Contrato: 54/2018.
-Ne Processo: 25410.006686/2015.
+Ne Processo: 25410.006686/2018.
 
-DISPENSA Nº 110/2018. Contratante: MINISTERIO DA SAUDE -CNPJ Contratado:
-05344234000170. Contratado : RI LOCACAO DE VEICULOS E SERVICOS-EIREI. Objeto: 1.
+DISPENSA Nº 110/2018, Contratante: MINISTERIO DA SAUDE -CNPJ Contratado:
+05344234000170. Contratado : RI LOCACAO DE VEICULOS E SERVICOS-EIREL. Objeto: 1.
 Exclusão de 10% referente à Contribuição Social, incidente sobre o saldo do FGTS,
-mediante a alteração de 50% para 40% sobre o cálculo das verbas rescisórias previstas no
+mediante a alteração de 50% para 40% sobre a cálculo das verbas rescisórias previstas no
 contrato, a partir de 01/01/2020. 2. Eliminação do percentual do aviso prévio indenizado,
-a vigorar a partir de 17/07/2020, referente à exclusão do custo não renovável, a partir do
+a vigorar a partir de 17/07/2020, referente à exclusão da custo não renovável, a partir do
 segundo ano de vigência do contrato, conforme arientação do Despacho da Divisão de
 Formalização de Contratos do Ministério da Saúde de 25/03/2020 - SAA. Fundamento
-legal: Inciso 1, alínea "d", combinados com o parágrafo 5º, todos do art. 65 da lei nº
+legal: Inciso 1, alínea "d”, combinados com o parágrafo 5º, todos do art. 65 da Lei nº
 8666/93 e suas alterações. Data de Assinatura: 15/12/2020.
+
+ 
+
+      
 
 (SICON - 17/12/2020) 250052-00001-2020NES00082
 EXTRATO DE TERMO ADITIVO Nº 118/2020 - UASG 250052
 
 Número do Contrato: 255/2019.
 Nº Processo: 25410.002005/2017.
+
 TOMADA DE PREÇOS Nº 1/2019. Contratante: MINISTERIO DA SAUDE - CNPJ Contratado:
 08397172000152.” Contratado : C 1001 MANUTENCAO PREDIAL EIREL Objeto: 1.
 Prorrogação do prazo de vigência do contrato por mais 240 (duzentos e quarenta) dias, de
 conformidade com a Cláusula de Vigência do Contrato Original, em face da adequação do
 crnograma físico-financeiro. 2. O acréscimo na quantidade do item 7.2 da Planilha
-Orçamentária, com as mesmas especificações e aus mesmos preços unitários praticados.
-atualmente, conforme cansta do Anexo Í. Fundamento Legal: Inciso | do art. 57 da
-8666/03. Álineas "a" e "b" do inciso 1 c/c com os 66 1º e 2º, todos do art6s da Lei
+Orçamentária, com as mesmas especificações e aus mesmos preços unitários praticados
+atualmente, conforme cansta do Anexo Í. Fundamento Legal: Inciso 1 do art. 57 da Lei
+8666/03. Álineas "a" e "bº do inciso |, c/c com os 66 1º e 2º, todos do art65 da Lei
 8666/03 Vigência: 31/12/2020 a 28/08/2021. Data de Assinatura: 09/12/2020.
 
- 
-
- 
+   
 
 (SICON - 17/12/2020) 250052-00001-2020NES00082
 EXTRATO DE TERMO ADITIVO Nº 122/2020 - UASG 250052
@@ -3732,16 +3742,20 @@ EXTRATO DE TERMO ADITIVO Nº 122/2020 - UASG 250052
 Número do Contrato: 267/2019.
 Nº Processo: 25410.015175/2018.
 
-PREGÃO SISPP Nº 126/2019. Contratante: MINISTERIO DA SAUDE CNPJ Contratado:
-59233783000368. Contratado : STERIS SOLUTIONS DO BRASIL IMPORTACAO E
-COMERCIALIZAÇÃO. Objeto: 1. alteração dos dados referentes à Razão Social, CNPJ/MF e
+PREGÃO SISPP Nº 126/2015. Contratante: MINISTERIO DA SAUDE -CNPJ Contratado:
+59233783000368. Contratado : STERIS SOLUTIONS DO BRASIL AMPORTACAO E
+COMERCIALIZAÇÃO. Objeto: 1. Alteração dos dados referentes à Razão Social, CNPJ/MF e
 Endereço da Contratada, devido às deliberações tomadas pelos sócios da Empresa,
-conforme consta na alteração contratual de 01/08/2020, com efeitos a partir da assinatura
-2. Prorrogação do prazo de vigência do contrata por mais um período, de conformidade
+conforme consta na alteração contratual de 01/08/2020, com efeitos a partir da assinatura.
+2. Prorrogação do prazo de vigência do contrato por mais um período, de conformidade
 com a Cláusula de Vigência do Contrato Original, ressalvado o direito da contratada ao
 reajuste de preços do contrato, já pleiteado, à ser concedido em momento oportuno por
 apostilamento. Fundamento Legal: Ártigo 61 da Lei nº 8.666/93 e suas alterações. Vigência:
 01/01/2021 a 31/12/2021. Data de Assinatura: 15/12/2020.
+
+ 
+
+ 
 
 (SICON - 17/12/2020) 250052-00001-2020NES00082
 
@@ -3753,38 +3767,44 @@ autoridade competente, torna pública a alteração no resultado do pregão em e
 itens 15, 16 e 27 restaram frustrados. Os demais itens permanecem inalterados.
 
 PAULO AUGUSTO DIAS DE OLIVEIRA
-Presidente da Comissão Permanente de Licitação
+Presidente da Comissão Permanente de licitação
 
-(SIDEC - 17/12/2020) 250052-00001-2020NEB00082
+(SIDEC - 17/12/2020) 250052-00001-2020nE800082
 
  
 
-Este documento pode ser atfcado no endereço eletrônico
-pf gov utenbdade Mu, pelo código 053020201 MA001
+Este documento pode ser vatfcado no endereço eletrônico
+Mp gov Iutenbdade Mu, pelo código 053020207 8001
 
-Documento asimado digitâmenteconfome Mp nº 22002 de 2ajogp2001, ICP
+Documento asimado digtdmenteconfome Mp nº 22002 de 2aj082001, JC
 
-“ue astlui à Wesrura de Chaves Públicas Baálára - EP-vasd
+“ue st à Wesruura de Chaves Públicas Baal - EP-asd
 ADVOCACIA-GERAL DA UNIÃO
 CONSULTORIA-GERAL DA UNIÃO
+
 CONSULTORIA JURÍDICA DA UNIÃO ESPECIALIZADA VIRTUAL DE OBRAS E SERVIÇOS DE ENGENHARIA
+
 NÚCLEO JURÍDICO 2
 
  
+
+PARECER n. 00086/2020/N,
+
+NUP: 25001.013927/2020-82
 
  
 
 2/E-C JU/ENGENHARIA/CGU/AGU
 
-NUP: 25001.013927/2020-82
-
 INTERESSADO: SUPERINTENDÊNCIA ESTADUAL DO MINISTÉRIO DA SAÚDE NO RIO DE JANEIRO -
+
 SEMS/RJ
 
 ASSUNTO: CONTRATAÇÃO DIRETA DA EMPRESA LLED SOLUÇÕES INSTALAÇÕES E REFORMAS (CNPJ Nº
 11.885.368/0001-01) PARA A PRESTAÇÃO DE SERVIÇOS DE REPAROS, CONSERTOS, REVISÕES, PINTURAS,
 REFORMAS E ADAPTAÇÕES DE BENS IMÓVEIS DA UNIÃO SOB A GUARDA DO MINISTÉRIO DA SAÚDE,
 CGDIE DA SEMS/RJ MEDIANTE DISPENSA DE LICITAÇÃO COM FULCRO NO ART. 24, IV, DA LEI Nº
+
 8.666/1993
 
 VALOR ESTIMADO DA CONTRATAÇÃO: R$ 8.900.000,00 (OITO MILHÕES E NOVECENTOS MIL REAIS)
@@ -3794,11 +3814,11 @@ E REFORMAS (CNPJ Nº 11.885.366/0001-01) PARA A PRESTAÇÃO DE SERVIÇOS
 DE REPAROS, CONSERTOS, REVISÕES, PINTURAS, REFORMAS E ADAPTAÇÕES
 DE BENS IMÓVEIS DA UNIÃO SOB A GUARDA DO MINISTÉRIO DA SAÚDE, CGDI E
 DA SEMS/RJ MEDIANTE DISPENSA DE LICITAÇÃO COM FULCRO NO ART. 24, IV,
-DA LEINº 8.666/1993
+DA LEI Nº 8.666/1993
 
 RESSALVAS.
 
-1 - NÃO CONSTA DOS AUTOS A APURAÇÃO DA CHAMADA “EMERGÊNCIA
+I - NÃO CONSTA DOS AUTOS A APURAÇÃO DA CHAMADA “EMERGÊNCIA
 FABRICADA”, MEDIANTE INSTAURAÇÃO DE PROCEDIMENTO FORMAL, A FIM DE
 ESCLARECER AS CIRCUNSTÂNCIAS QUE CULMINARAM COM A CONTRATAÇÃO
 EMERGENCIAL E AS RESPONSABILIDADES DOS AGENTES ADMINISTRATIVOS
@@ -3809,7 +3829,7 @@ IH - O OBJETO DA CONTRATAÇÃO NÃO SE RESTRINGE AO ATENDIMENTO DA
 SITUAÇÃO EMERGENCIAL, CONFORME EXIGE O DISPOSITIVO LEGAL - AO
 CONTRÁRIO, CONTEMPLA SANEAR UM PROBLEMA ENDÊMICO E DURADOURO.
 
-II - O ÓRGÃO CONSULENTE NÃO ELABOROU A PLANILHA ORÇAMENTÁRIA DE
+HI - O ÓRGÃO CONSULENTE NÃO ELABOROU A PLANILHA ORÇAMENTÁRIA DE
 REFERÊNCIA DA CONTRATAÇÃO CONFORME DETERMINA O DECRETO Nº 7.983/2013.
 INEXISTÊNCIA DE APRESENTAÇÃO DA ANOTAÇÃO DE RESPONSABILIDADE
 TÉCNICA - ART, INEXISTÊNCIA DE APRESENTAÇÃO DAS COMPOSIÇÕES DE CUSTOS
@@ -3830,7 +3850,7 @@ VII - ADOÇÃO DO REGIME DE EMPREITADA POR PREÇO UNITÁRIO, SEM
 DETALHAMENTO DOS CUSTOS UNITÁRIOS DE REFERÊNCIA DO SINAPI.
 
 PARECER PELA EXISTÊNCIA DE ÓBICES À REGULARIDADE JURÍDICA DO ATO.
-ÃO APROVAÇÃO DO ATO DE DISPENSA DE LICITAÇÃO E DO CONTRATO Nº
+NÃO APROVAÇÃO DO ATO DE DISPENSA DE LICITAÇÃO E DO CONTRATO Nº
 395/2020.
 
 CONFORME ORIENTAÇÃO DA CONSULTORIA-GERAL DA UNIÃO NOS
@@ -3838,9 +3858,8 @@ MEMORANDOS-CIRCULARES Nº 010/2009 E 030/2016, CABE DEVOLVER O FEITO À
 SUPERINTENDÊNCIA ESTADUAL DO MINISTÉRIO DA SAÚDE NO RIO DE
 JANEIRO, PARA ADOÇÃO DAS SEGUINTES PROVIDÊNCIAS: RECONHECIMENTO
 DA NULIDADE DO ATO DE DISPENSA DE LICITAÇÃO E DO CONTRATO Nº 395/2020
-
 E INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO PARA APURAÇÃO DAS
-IRREGULARIDADES RELATADAS.
+IRREGULARIDADES RELATADAS,
 
 1. RELATÓRIO
 
@@ -3848,7 +3867,7 @@ IRREGULARIDADES RELATADAS.
 SEMS/RJ, que tem por objeto a contratação direta da empresa LLED Soluções Instalações e Reformas (CNPJ nº
 11.885.368/0001-01) para a prestação de serviços de reparos, consertos, revisões, pinturas, reformas e adaptações de bens
 imóveis da União sob a guarda do Ministério da Saúde, CGDI e da SEMS/RJ mediante dispensa de licitação com fulcro
-no art. 24, TV, da Lei nº 8.666/1993. O valor total da contratação foi estimado em R$ 8.900.000,00 (oito milhões e
+no art. 24, IV, da Lei nº 8.666/1993. O valor total da contratação foi estimado em R$ 8.900.000,00 (oito milhões e
 novecentos mil reais).
 
 2. Os referidos autos foram encaminhados para a CJU/RJ e então direcionados à Consultoria Jurídica da
@@ -3881,13 +3900,13 @@ Despesas Substituto (fl. 198);
 
 Relatório Fotográfico - Galpões de Del Castilho (fis. 199/200);
 
-Projeto Básico (fls. 201/231);
+Projeto Básico (fis. 201/231);
 
 Nota Técnica nº 29/2019-SA A/SE/MS (fis. 232/234);
 
 Estudo sobre a transferência dos arquivos da SEMS/RJ para a unidade Del Castilho - 16 de março de
 
-2020 (fls. 414/415);
+2020 (fis. 414/415);
 
 Nota Técnica nº 18/2020-SA A/SE/MS (fis. 475/478);
 
@@ -3917,15 +3936,14 @@ Documentos de Habilitação da Empresa LLED Soluções Instalações e Reformas 
 
 o Lista de Verificação - Check-List (fls. 886/890);
 
-e Despacho, de 04 de dezembro de 2020 (fis. 894/895).
+o Despacho, de 04 de dezembro de 2020 (fis. 894/895).
 
 o 000 o o 000 o 000
 
 o
-3. Os presentes autos, em formato digital, foram autuados e inseridos no sistema SAPIENS manualmente,
-
+35. Os presentes autos, em formato digital, foram autuados e inseridos no sistema SAPIENS manualmente,
 formando, dessa forma, um volume único com 914 (novecentas e quatorze) folhas. Tais autos foram encaminhados
-à CJU/RJ por meio do Ofício nº 1138/2020/RJ/SEMS/SE/MS, de 07 de dezembro de 2020 (fis. 912/914).
+à CJU/RJ por meio do Ofício nº 1138/2020/RJ/SEMS/SE/MS,, de 07 de dezembro de 2020 (fis. 912/914).
 
 4. Este é o relatório.
 
@@ -3934,9 +3952,9 @@ formando, dessa forma, um volume único com 914 (novecentas e quatorze) folhas. 
 5. A presente manifestação jurídica tem o escopo de assistir a autoridade assessorada no controle interno da
 legalidade administrativa dos atos a serem praticados ou já efetivados. Nossa função é justamente apontar possíveis riscos
 do ponto de vista jurídico e recomendar providências, para salvaguardar a autoridade assessorada, a quem compete avaliar
-areal dimensão do risco e a necessidade de se adotar ou não a precaução recomendada.
+a real dimensão do risco e a necessidade de se adotar ou não a precaução recomendada.
 
-6. Importante salientar, que o exame dos autos processuais se restringe aos seus aspectos jurídicos.
+6. Importante salientar, que o exame dos autos processuais se restringe aos seus aspectos jurídicos,
 excluídos, portanto, aqueles de natureza técnica. De fato, presume-se que as especificações técnicas contidas no presente
 
 processo, inclusive quanto ao detalhamento do objeto da contratação, suas características, requisitos e avaliação do preço
@@ -3963,7 +3981,7 @@ Estado ou do titular de órgão diretamente subordinado ao Presidente da Repúbl
 $ 1º Para os contratos de qualquer valor, a competência de que trata o caput poderá ser delegada às
 seguintes autoridades, permitida a subdelegação na forma do $ 2º:
 1- titulares de cargos de natureza especial;
-TI - dirigentes máximos das unidades diretamente subordinadas aos Ministros de Estado; e
+II - dirigentes máximos das unidades diretamente subordinadas aos Ministros de Estado; e
 
 TII - dirigentes máximos das entidades vinculadas.
 
@@ -3988,13 +4006,16 @@ copeiragem, recepção, reprografia, telecomunicações e manutenção de prédi
 instalações, conforme disposto no Decreto nº 2.271, de 7 de julho de 1997;
 
 TI - realizações de congressos e eventos, serviços de publicidade, serviços gráficos e editoriais;
+
 TV - aquisição, locação e reformas de imóveis; e
+
 V - aquisição, manutenção e locação de veículos, máquinas e equipamentos.
 
 Parágrafo único. O enquadramento do objeto da contratação como atividade de custeio deve
+
 considerar a natureza das atividades Contratadas, conforme disposto neste artigo, e não a
 classificação orçamentária da despesa.
-11. Até que o ato normativo (Portaria nº 249 de 2012) seja revisto ou revogado, conforme determinação
+Até que o ato normativo (Portaria n' 249 de 2012) seja revisto ou revogado, conforme determinação
 contida no Decreto nº 10.139, de 28 de novembro de 2019, parece-nos plausível orientar que a autoridade assistida deve
 certificar-se sobre a natureza da atividade a ser contratada — se constitui ou não atividade de custeio - tendo como
 parâmetro a citada Portaria, adotando as providências necessárias, se for o caso, o que poderá ser feito em qualquer fase
@@ -4003,18 +4024,20 @@ por despacho no próprio processo, por memorando ou ofício, por meio eletrônic
 idôneo que registre a autorização expressa da autoridade competente, consoante $ 1º do artigo 4º da Portaria nº 249, de
 2012.
 
-12. Apesar de o órgão consulente não ter informado se se trata ou não de atividade de custeio, o inciso TIT, art.
+12. Apesar de o órgão consulente não ter informado se se trata ou não de atividade de custeio, o inciso III, art.
 3º da Portaria MPOG nº 249, de 13 de junho de 2012, elenca como sendo atividade de custeio a "aquisição, locação e
 reformas de imóveis".
 
 13. Tratando-se de atividade de custeio, aplicam-se as disposições contidas no Decreto nº 10.193, de
 
-   
-
+2019, complementado pela Portaria MPOG nº 249, de 13 de junho de 2012. Caso contrário, tais regramentos não
 seriam aplicados.
 
 14. Sabendo-se que o valor total da contratação foi estimado em R$ 8.900.000,00 (oito milhões e
 novecentos mil reais), considerando as disposições supratranscritas, o órgão consulente deveria zelar para que a
+autoridade competente firmasse o presente ajuste. Situação não observada no caso em comento.
+
+ 
 
 4. PRÁTICA DO ATO SEM PRÉVIA ANÁLISE JURÍDICA
 
@@ -4022,13 +4045,14 @@ novecentos mil reais), considerando as disposições supratranscritas, o órgão
 No entanto, tal ajuste fora praticado sem análise prévia por parte do órgão de assessoramento jurídico competente.
 
 16. A imposição de apreciação jurídica prévia decorre do art. 38, parágrafo único, da Lei nº 8.666/93 e, no
+
 âmbito da AGU, do art. 11, VI, “a” e “b”, da Lei Complementar nº 73/93. A desobediência a tal comando representa
 infração grave ao ordenamento jurídico, que costuma ser rechaçada pelo TCU (Acórdãos nº 2.004/2007, nº 134/2008, nº
 720/2008 e nº 1.466/2010 — Plenário; nº 1.333/2011 e nº 492/2013 — 1º Câmara; nº 2.116/2011 — 2º Câmara).
 
 17. Contudo, a referida irregularidade não representa por si só causa de nulidade do ato — mesmo porque já
 está assentado que o parecer jurídico possui caráter opinativo e pode ser motivadamente refutado pela autoridade
-administrativa, por sua conta e risco, nos termos do art. 50, VIT, da Lei nº 9.784/99 e também da jurisprudência do TCU:
+administrativa, por sua conta e risco, nos termos do art. 50, VII, da Lei nº 9.784/99 e também da jurisprudência do TCU:
 
 o 9.2.2.caso venha discordar dos termos do parecer jurídico, cuja emissão está prevista no inciso VI e no
 parágrafo único do art. 38 da Lei nº 8.666/1993, deverá apresentar por escrito a motivação dessa
@@ -4136,39 +4160,44 @@ sociedade.
 Realengo que estão em situação de riscos de se perderem definitivamente se acaso não for feito
 nada por parte desta Gestão.
 
-(..)
+(3)
 
 0.7 A perda destes documentos poderão trazer consequências drásticas para os servidores, agentes
 públicos e gestores que atualmente conduzem as ações desta SEMS-RJ. Estamos falando de
 assentamentos funcionais de servidores que a décadas vêm sendo guardados para consultas da
 justiça, dos próprios servidores e do Ministério da Saúde.
 
-(..)
+(3)
 
 0.11. Sendo assim, Sr. Subsecretário, como alternativa mitigadora dos riscos de perda de todo esse
 acervo do Ministério da Saúde e, a consequente responsabilização de agentes desta gestão,
 necessário neste momento adotarmos com urgência as ações necessárias para conservação do
 prédio da SEMS-RJ.
 
-(..)
+(3)
 
 1.14. Por se tratar de situação de urgência, notadamente com riscos de causar prejuízos a pessoas,
 materiais, bens, equipamentos e o patrimônio público, sugere-se como melhor medida a ser
 adotada a via do art. 24, IV da Lei Geral de Licitações que diz:
 
-(..)
+(3)
 
 25. Contudo, apesar da extensa exposição de motivos contida na Nota Técnica nº 13/2020-
-RJ/COAD/RJ/SEMS/SEMS (fis. 640/649) e documentos correlatos, este causídico não logrou êxito em
+
+RJ/COAD/RIJ/SEMS/SE/MS (fis. 640/649) e documentos correlatos, este causídico não logrou êxito em
 correlacionar a necessidade de reparos, consertos, revisões, pinturas, reformas e adaptações no imóvel da União
 localizado na Rua Dom Helder Câmara 4414 Del Castilho - Rio de Janeiro, com a situação calamitosa em que se
 encontra os arquivos sob a guarda da SEMS-RJ.
+
 26. Este opinativo não está preocupado em analisar a veracidade da situação fática narrada, mas sim a
+
 sua adequação à medida proposta, qual seja, a contratação direta, em caráter emergencial, com fulcro no art. 24,
+
 IV, da Lei nº 8.666/1993, da empresa LLED Soluções Instalações e Reformas (CNPJ nº 11.885.368/0001-01) para:
 1.15. (...) prestação de serviço de reparos, consertos, revisões, pinturas, reformas e adaptações de
 bens imóveis, sem que ocorra a ampliação do imóvel da União localizado na Rua Dom Helder
 Câmara 4414 Del Castilho - Rio de Janeiro.
+
 1.16. E em sendo possível, a instalação de novo galpão no terreno de Del Castilho para aumentar o
 potencial de guarda do Ministério da Saúde do Rio de Janeiro.
 
@@ -4252,7 +4281,7 @@ autos” (Acórdão nº 2.190/2011 - Plenário).
 à segurança ou integridade de pessoas ou do patrimônio - mas não poderá extrapolar para outras finalidades não urgentes,
 por mais relevantes que sejam, conforme novamente orienta o TCU:
 o É ilegal a contratação emergencial de empresa para construção de unidade de saúde, por meio de
-dispensa de licitação (art. 24, inciso TV, da Lei 8.666/93), quando a nova unidade se destinar ao
+dispensa de licitação (art. 24, inciso IV, da Lei 8.666/93), quando a nova unidade se destinar ao
 benefício da população a longo prazo e não a acudir uma situação emergencial concreta e
 efetiva. (Acórdão nº 4.560/2015 - 2º Câmara)
 
@@ -4298,18 +4327,12 @@ os documentos juntados permitem inferir que a contratação ultrapassou os limit
 
 edificação que demanda adequações físicas estimadas em R$ 8.900.000,00 (oito milhões e novecentos mil reais) não
 parece amoldar-se ao preconizado no dispositivo supracitado, pois visa corrigir um problema endêmico e
-
 duradouro do órgão assessorado.
-41. Não se busca aqui emitir juízo de valor sobre a de
 
- 
-
-de cunho discricionário da autoridade
-
-       
+41. Não se busca aqui emitir juízo de valor sobre a decisão de cunho discricionário da autoridade
 
 por extrapolação de objeto.
-42. Em outras palavras, não se trata de questionar a efetiva pel
+42. Em outras palavras, não se trata de questionar a efetiva pe
 
  
 
@@ -4320,7 +4343,7 @@ da CF/88). Portanto, seus limites são aqueles estritamente definidos na hipóte
 pois, fora da situação de emergência, a dispensa de licitação extrapola a autorização normativa e torna-se
 irregular.
 
- 
+45. Assim, reputa-se irregular a contratação por dispensa de licitação, quanto aos serviços
 
  
 
@@ -4328,7 +4351,7 @@ finalidade de eliminar os riscos iminentes de dano ou de comprometimento da segu
 
  
 
-serviços, equipamentos e outros bens,
+serviços, equipamentos e outros bens.
 
  
 
@@ -4407,7 +4430,7 @@ SCO sistema SEOBRAS entre outros recursos desenvolvidos para estas atividades.
 4.5. Para que não reste dúvidas toda execução será balizada pelas tabelas referenciais sem
 possibilidade de majoração de preços.
 
-(..)
+(3)
 
 7. JUSTIFICATIVA DO PREÇO
 
@@ -4433,40 +4456,34 @@ prestado.
 
 56. Porém, tais declarações não condizem com a Proposta Comercial da Empresa LLED Soluções Instalações
 e Reformas (fls. 656/657), realizada nos seguintes termos:
-
 3. VALOR DOS SERVIÇOS A SEREM EXECUTADOS.
-
 Ttem 1.1 O nosso preço para execução dos serviços acima descritos, incluindo; equipamentos;
 ferramentais específicos; maquinário, EPIS e mão de obra especializada são de: R$ 5.711.820,45
 (CINCO MILHÕES, SETECENTOS E ONZE MIL, OITOCENTOS EVINTE REAIS E
 QUARENTA E CINCO CENTAVOS).
-
 Ttem 1.2 O nosso preço para execução dos serviços acima descritos, incluindo; equipamentos;
 ferramentais específicos; maquinário, EPIS e mão de obra especializada são de: R$ 3.276.381,50
 (TRÊS MILHÕES, DUZENTOS E SETENTA E SEIS MIL, TREZENTOSE OITENTA E UM
 REAIS E CINQUENTA CENTAVOS).
-
 Total dos serviços: R$ 8.988.201,95 (OITO MILHÕES, NOVECENTOS E OITENTA E OITO
 MIL, DUZENTOS E UM REAIS E NOVENTA E CINCO CENTAVOS).
-
 Total do desconto de 1%: R$ 88.201,95 (OITENTA E OITO MIL, DUZENTOS E UM REAIS E
 NOVENTA E CINCO CENTAVOS).
-
 Valor final da proposta: R$ 8.900.000,00 (OITO MILHÕES E NOVECENTOS MIL REAIS).
+
 Nossa proposta contempla impostos, assim como também contempla todos os componentes e
 materiais inerentes e necessários à execução dos serviços.
 
 57. Em outras palavras, não se sabe quais serviços foram contratados, a dimensão de cada um deles,
 tampouco o custo unitário de cada unidade de medida que culminou com o valor final da proposta de R$
+
 8.900.000,00 (oito milhões e novecentos mil reais).
 
 58. Salientamos que de acordo com o art. 3º do Decreto nº 7.983/2013 impõe o SINAPI como tabela
-59. Si ca que, para todos os insumos que possuem equivalência no SINAPI, é obrigatória a adoção
+referencial de preços para a administração federal.
+59. Significa que, para todos os insumos que possuem equivalência no SINAPI, é obrigatória a adoção
+
 dos seus custos unitários de referência. Apenas em caso de inviabilidade de adoção dos custos de referência do
-
- 
-
- 
 SINAPI é que o orçamentista poderá recorrer aos demais métodos do art. 6º do Decreto nº 7.983/2013.
 
 60. No mais, quanto às tabelas de referência elaboradas por entes públicos estaduais ou municipais, não existe
@@ -4512,21 +4529,26 @@ de Risco, a depender da temporalidade da contratação , observado o disposto no
 terceiros, ainda que mediante a celebração de contrato administrativo. Isso porque a competência administrativa e, por
 conseguinte, a responsabilidade funcional não podem ser delegadas a particulares sem vínculo de subordinação direta com
 a Administração Pública.
+
 67. Essa conclusão é confirmada pelo art. 13 da Lei n. 8.666, de 1993, quando afirma que "...consideram-se
 serviços técnicos profissionais especializados os trabalhos relativos a: T - estudos técnicos, planejamentos e projetos
 básicos ou executivos...". Observe-se que a norma menciona que os trabalhos relativos a projetos básicos, e não que os
 projetos básicos são serviços técnicos profissionais. Daí se deduz que determinados profissionais atuam em partes
 específicas do projeto básico, mas não no projeto básico por completo de modo a se exigir que conste a assinatura do
 profissional em todas as partes do TR/PB.
+
 68. A separação entre trabalhos técnicos e competências administrativas é necessária para o fim de se
 preservar, de um lado, as competências administrativas da Lei n. 8.666, de 1993, da Lei n. 10.520, de 2002 e da Lei n.
 12.462, de 2011, e, de outro lado, as competências técnico-profissionais previstas na Lei n. 5.194, de 1964, e na Lei
 n. 12.378, de 2010.
+
 69. A redação dos arts. 13 e 14 da Lei n. 5.194, de 1964, diz:
+
 Art. 13. Os estudos, plantas, projetos, laudos e qualquer outro trabalho de engenharia, de
 arquitetura e de agronomia, quer público, quer particular, somente poderão ser submetidos ao
 julgamento das autoridades competentes e só terão valor jurídico quando seus autores forem
 profissionais habilitados de acordo com esta lei.
+
 Art. 14. Nos trabalhos gráficos, especificações, orçamentos, pareceres, laudos e atos judiciais ou
 administrativos, é obrigatória além da assinatura, precedida do nome da empresa, sociedade,
 instituição ou firma a que interessarem, a menção explícita do título do profissional que os
@@ -4611,8 +4633,6 @@ questão, o que reputamos irregular.
 
  
 
- 
-
 10. CHAMAMENTO PÚBLICO
 
 80. O órgão consulente realizou um chamamento público conforme se verifica nos documentos acostados às
@@ -4633,7 +4653,7 @@ fornecedora LLED Soluções Instalações e Reformas CNPJ nº11.885.366/0001-01.
 
 83. É de conhecimento geral que a Lei nº 8.666/1993 exige que os processos de dispensa de licitação sejam
 instruídos com a justificativa de preços.
-Art. 26.(...)
+Art.26.(...)
 
 Parágrafo único. O processo de dispensa, de inexigibilidade ou de retardamento, previsto neste
 artigo, será instruído, no que couber, com os seguintes elementos:
@@ -4645,8 +4665,8 @@ TI — justificativa do preço.
 
 84. Portanto, a possibilidade de a Administração contratar diretamente não a isenta de comprovar a
 regularidade dos preços e desconsiderar propostas excessivas ou inexequíveis.
-
 85. Vale observar que a jurisprudência do TCU é firme em indicar que a realização de pesquisa de preços de
+
 mercado, previamente à fase externa da licitação, é uma exigência legal para todos os processos licitatórios, inclusive para
 os casos de dispensa e inexigibilidade.
 
@@ -4659,21 +4679,16 @@ de preços para os casos de dispensa e inexigibilidade deve consistir de um mín
 
  
 
- 
-
 obter número razoável de cotações”.
-88. Ainda de acordo com o TCU, a justificativa do preço se insere na fase interna do processo de dispensa,
+Ainda de acordo com o ICU, a justificativa do preço se insere na fase interna do processo de dispensa,
 quando a administração estima os custos da contratação. Lançar a dispensa sem esses parâmetros a deixa a mercê de
 desvios, tanto mais quando o processo se faz por essa modalidade informal de contratação, quando não se tem a mesma
 rigidez, por exemplo, quanto ao sigilo das propostas.
 
 89. Como consta no Manual de Obras e Engenharia da Consultoria-Geral da União, o Projeto Básico
 deve conter o orçamento detalhado da obra, do serviço ou do complexo de obras ou serviços que constituem o
-
 objeto da licitação e dos futuros contratos. O nível de detalhamento exige a definição não apenas dos valores
-
- 
-
+referentes às diversas etapas de execução do objeto e compreende a discriminação de todos os custos unitários do
 orçamento, com a definição dos respectivos quantitativos necessários de cada menor parte componente do todo.
 90. Consequentemente, o cálculo estimado da obra ou serviço deverá indicar todas as etapas componentes do
 empreendimento, os profissionais necessários à realização de cada uma delas, os valores de mercado da mão de obra
@@ -4696,9 +4711,10 @@ critérios de aceitabilidade dos preços unitários e global.
 orçamentos com fornecedores distintos ou justificar a impossibilidade de fazê-lo, não elaborou um orçamento de
 referência detalhado dos serviços de engenharia que pretendia contratar nos termos do Decreto nº 7.983, de 2013
 
- 
-
+para verificar se a única proposta apresentada se encontrava dentro dos limites nele estabelecidos. Situação esta
 que contribuiu sobremaneira para a ilegalidade da atual contratação.
+
+ 
 
  
 
@@ -4723,9 +4739,9 @@ unitários; inexistência de adoção dos custos unitários de referência do SI
 detalhamento da composição do percentual de BDI;
 
 o Projeto Básico elaborado por profissional não habilitado na área de engenharia. Inexistência de
-apresentação da Anotação de Responsabilidade Técnica - ART,
+apresentação da Anotação de Responsabilidade Técnica - ART;
 
-o Chamamento Público com prazo exíguo para possíveis manifestações de interessados. Violação à ampla
+e Chamamento Público com prazo exíguo para possíveis manifestações de interessados. Violação à ampla
 participação;
 
 o Inexistência de Cronograma Físico-financeiro;
@@ -4735,15 +4751,13 @@ referência do SINAPI;
 
 o Violação aos limites e instâncias de governança para a contratação de bens e serviços estabelecidos no
 Decreto nº 10.193, de 2019.
-94. “O posicionamento adotado no presente parecer é pela nÃO APROVAÇÃO DO ATO DE DISPENSA
+94. “OQ posicionamento adotado no presente parecer é pela nÃO APROVAÇÃO DO ATO DE DISPENSA
 DE LICITAÇÃO E DO CONTRATO Nº 395/2020, em razão dos óbices elencados no parágrafo acima.
 
 95. Conforme orientação da Consultoria-Geral da União nos Memorandos-Circulares nº 010/2009 e
+
 030/2016, cabe devolver o feito à Superintendência Estadual do Ministério da Saúde no Rio de Janeiro,
-
 para adoção das seguintes providências:
-
- 
 
 o reconhecimento da nulidade do ato de dispensa de licitação e do Contrato nº 395/2020;
 o instauração de procedimento administrativo para apuração das irregularidades relatadas no
@@ -4969,59 +4983,61 @@ DE JANEIRO
 
 EXTRATO DE DISPENSA DE LICITAÇÃO Nº 4/2021 - UASG 250031
 
-Nº Processo: 25001000608202198 . Objeto: Licenças de uso do Software Orgafascio (4
+Nº Processo: 25001000608202198 . Objeto: Licenças de uso do Software Orçafascio (4
 licenças para 20 usuários) módulos: Orçamento, Bases Adicionais, OrçaBIM e OFElétrico.
-Total de Itens citados: 00001. Fundamento Legal: Art. 24º, Inciso ll da Lei nº 8.666 de
-21/06/1993... Justificativa: Aquisição de pequeno valor aparada pela Lei Geral de Licitações.
+Total de Rens Licitados: 00001. Fundamento Legal: Art. 24º, Inciso 1 da Lei nº 8.666 de
+21/06/1983. Justificativa: Aquisição de pequeno valor aparada pela Lei Geral de Licitações
 no art. 24 inciso 1. Declaração de Dispensa em 25/01/2021. JOABE ANTONIO DE OLIVEIRA.
 Coordenador de Administração. Ratificação em 25/01/2021. GEORGE DA SILVA DIVERIO.
-Superintendente. Valor Global: R$ 15.184,00. CNP) CONTRATADA : 23.484 .444/0001-45 3F
-LTDA
+Superintendente. Valor Global: R$ 15.184,00. CNPJ CONTRATADA : 23.484.444/0001-45 3F
+LTDA.
 
-(SIDEC - 01/02/2021) 250031-00001-2021nE800001
+ 
+
+SIDEC - 01/02/2021) 250031-00001-2021nE800001
 AVISO DE ANULAÇÃO
 DISPENSA DE LICITAÇÃO Nº 11/2020
-Fica anulada a Dispensa de licitação supracitada referente ao processo Nº
+fica anulada a Dispensa de licitação supracitada referente ao processo Nº
 
 2500101392720208
 JOABE ANTONIO DE OLIVEIRA
 Coordenador de Administração
 
-(SIDEC - 01/02/2021) 250031-00001-2021nE800001
+SIDEC - 01/02/2021) 250031-00001-2021nE800001
 HOSPITAL FEDERAL DE BONSUCESSO
 
 AVISO DE SUSPENSÃO
 PREGÃO Nº 107/2020
 
 Comunicamos a suspensão da licitação supracitada, publicada no DOU em
-15/01/2021. Objeto: Pregão Eletrônico - Contratação de empresa especializada para a
+15/01/2021 . Objeto: Pregão Eletrônico - Contratação de empresa especializada para a
 prestação continuada de serviços de limpeza técnico-hospitalar, conservação, higienização,
-manejo de resíduos das áreas administrativas e hospitalares e jardinagem incluindo áreas.
-internas e externas (com podas de árvores, capina, plantio, rega e adubagem),
+manejo de resíduos das áreas administrativas e hospitalares e jardinagem incluindo áreas
+internas e externas (com podas de árvores, capina, plantio, rega e adubagem).
 
 ALEXSANDRE BARBOSA DE LIMA
 Pregaeira Oficial
 
-(SIDEC - 01/02/2021) 250042-00001-2021nE800037
+SIDEC - 01/02/2021) 250042-00001-2021NE800037
 HOSPITAL FEDERAL DE IPANEMA
 
 EXTRATO DE CONTRATO 02/2021 - UASG 250103 - HOSPITAL DE IPANEMA
 
-Processo: 33401.187215/2019-81. Pregao 20/2020. Contratante: HOSPITAL FEDERAL DE
-IPANEMA. Contratado: 00.952.800/0001-02 - FLEX ASSESSORIA E ZELADORIA LTDA.
+processo: 33401.187215/2019-81. Pregao 20/2020. Contratante: HOSPITAL FEDERAL DE
+IPANEMA. Contratado: 00:952.800/0001-02 - FLEX ASSESSORIA E ZELADORIA ITDA.
 Objeto: contratacao de empresa para prestacao de servicos continuados de entrega,
 organizacao e guarda de documentos, auxilio a locomocao de pacientes, recepcao,
 atendimento, secretariado e outros de natureza administrativa e operacional para o
-Hospital Federal de Ipanema. Fundamento Legal: Lei 8.666/93. Vigencia: 01/02/2021 à
-32/01/2022. Valor Total: R$ 6.438.049,92. Data de Assinatura: 26/01/2021
+Hospital Federal de Ipanema. Fundamento Legal: Lei 8.666/3. Vigencia: 01/02/2021 à
+31/01/2022. Valor Total: R$ 6.438.049,92. Data de Assinatura: 26/01/2021.
 
 HOSPITAL FEDERAL DO ANDARAÍ
 EXTRATO DE CONTRATO Nº 1/2021 - UASG 250106 - HOSPITAL DO ANDARAI
 
-Nº Processo: 33367 181765/2019-50,
-Pregão Nº 12/2020. Contratante: HOSPITAL FEDERAL DO ANDARAI.
+Nº Processo: 33367. 181765/2019-50.
+Pregão Nº 12/2020. Contratante: HOSPITAL FEDERAL DO ANDARAL.
 
-Contratado: 11.454.755/0001-24 - JM PJ - CONSTRUTORA E TELECOMUNICACOES EIREL -.
+Contratado: 11.454.795/0001-24 - IM PJ - CONSTRUTORA E TELECOMUNICACOES EIREU -.
 Objeto: Contratação de serviço comum de engenharia e arquitetura para elaboração dos
 projetos para reforma dos sistemas de cobertura (telhados) e calhas de escoamento dos
 prédios da upe, merck e pimag no hospital federal do andaraí, visando à reforma e
@@ -5029,27 +5045,25 @@ readequação das instalações físicas e de infraestrutura predial das edifica
 Fundamento Legal: LEI 10.520 / 2002 - Artigo: 1. Vigência: 15/01/2021 a 14/07/2021. Valor
 Total: R$ 16.400,00. Data de Assinatura: 15/01/2021.
 
- 
+(COMPRASNET 4.0 - 18/01/2021).
+EXTRATO DE CONTRATO Nº 4/2021 - VASG 250106 - HOSPITAL DO ANDARAI
 
-(COMPRASNET 4,0 - 18/01/2021)
-EXTRATO DE CONTRATO Nº 4/2021 - UASG 250106 - HOSPITAL DO ANDARA!
+Nº Processo: 33367.164640/2020-07.
+Dispensa Nº 1/2021. Contratante: HOSPITAL FEDERAL DO ANDARAL,
 
-Nº Processo: 33367 164640/2020-07.
-Dispensa Nº 1/2021. Contratante: HOSPITAL FEDERAL DO ANDARAL
+Contratado: 30.209 805/0001-78 - SAVIOR - MEDICAL SERVICE LTDA. Objeto: Contratação
+de empresa especializada em transporte de pacientes por ambulânci
 
-Contratado: 30.299.895/0001-78 - SAVIOR - MEDICAL SERVICE LTDA. Objeto: Contratação
-de empresa especializada em transporte de pacientes por ambulância.
-
-Fundamento legal: LEI 8.666 / 1953 - Artigo: 24 - Inciso: IN. Vigência: 15/01/2021 a
+Fundamento legal: [EI 8.666 / 1983 - Artigo: 24 - Inciso: IV. Vigência: 15/01/2021 a
 14/07/2021. Valor Total: R$ 768.300,00. Data de Assinatura: 14/01/2021.
 
-(COMPRASNET 4.0 - 14/01/2021
+(COMPRASNET 4.0 - 14/01/2021).
 EXTRATO DE CONTRATO Nº 23/2020 - UASG 250106 - HOSPITAL DO ANDARAI
 
-Nº Processo: 33367 213369/2019-07.
-Pregão Nº 7/2020. Contratante: HOSPITAL FEDERAL DO ANDARAL
+Nº Processo: 33367.213369/2019-07.
+pregão Ne 7/2020. Contratante: HOSPITAL FEDERAL DO ANDARAI.
 
-Contratado: 14.470.588/0001-51 - SERVIOESTE RIO DE JANEIRO LTDA. Objeto: Contratação
+Contratado: 14.470.588/0001-51 - SERVICESTE RIO DE JANEIRO LTDA. Objeto: Contratação
 de empresa especializada para prestação de serviços de coleta, transporte, armazenamento
 temporário (caso necessário), tratamento e destinação/disposição final de todos os
 resíduos gerados dos grupos "ate “e”, para o hospital federal do andaraí, com
@@ -5058,111 +5072,119 @@ equipamentos e todos os insumos para a execução do serviço.
 Fundamento Legal: . Vigência: 14/12/2020 a 14/12/2021. Valar Total: R$ 196.000,00. Data
 de Assinatura: 11/12/2020.
 
-(COMPRASNET 4.0 - 01/02/2021)
-EXTRATO DE CONTRATO Nº 3/2021 - UASG 250106 - HOSPITAL DO ANDARA!
+(COMPRASNET 4.0 - 01/02/2021).
+EXTRATO DE CONTRATO Nº 3/2021 - VASG 250106 - HOSPITAL DO ANDARA!
 
 Nº Processo: 33367.181690/2019-15.
-Pregão Nº 17/2020. Contratante: HOSPITAL FEDERAL DO ANDARA.
+Pregão Nº 17/2020. Contratante: HOSPITAL FEDERAL DO ANDARAI.
 
 Contratado: 09.540.426/0001-02 - TORRE ARQUITETOS ASSOCIADOS LTDA. Objeto:
 Contratação de serviço comum de engenharia de empresa para elaboração de projetos
 e documentação técnica para a futura obra de reforma, ampliação e modernização das
 subestações de energia elétrica do edifício merk e da unidade de pacientes externos
 (upe), no hospital federal do andaraí, bem como de seus sistemas de serviços
-auáliares, da disposição e uso dos geradores elétricos, e das áreas técnicas para
+auliares, da disposição e uso dos geradores elétricos, e das áreas técnicas para
 suporte e operação das atividades realizadas, além da aprovação dos projetos nos
 órgãos públicos competentes, ao qual será prestado nas condições estabelecidas no
 termo de referência e demais documentos técnicos que se encontram anexos ao
-edital
+edital.
 
-Fundamento Legal: LEI 10.520 / 2002 - Artigo: 1. Vigência: 21/01/2021 a 17/11/2021
+Fundamento Legal: LEI 10.520 / 2002 - Artigo: 1. Vigência: 21/01/2021 a 17/11/2021.
 Valor Total: R$ 70.000,00. Data de Assinatura: 21/01/2021.
 
-(COMPRASNET 4.0 - 28/01/2021)
+ 
+
+(COMPRASNET 4.0 - 28/01/2021).
 
 EXTRATO DE TERMO ADITIVO Nº 2/2021 - UASG 250106 - HOSPITAL DO ANDARAI
 
 Número do Contrato: 4/2019.
-Nº Processo: 33367.061320/2019-54.
+Nº Processo: 33367 061320/2019-54.
 
 Dispensa. Nº 6/2019. Contratante: HOSPITAL FEDERAL DO ANDARAL Contratado:
-00.952.800/0001-02 - FLEX ASSESSORIA E ZELADORIA LTDA. Objeto: Prorrogação do prazo
+00.952.800/0001-02 - FLEX ASSESSORIA E ZELADORIA LTDA. Objeto: Prorragação do prazo
 de vigência do contrato nº 04/2019, o qual se deu nos termos do inciso xi do art. 24 da
-lei nº. 8666/93, por meio da dispensa de licitação 06/2019, sei nº 9206455, para a
+lei nº. 8666/03, por meio da dispensa de licitação 06/2019, sei nº 9206455, para à
 prestação continuada de serviços de entrega, organização e guarda de documentos, auílio
 à locomoção de pacientes, recepção, atendimento, secretariado e outros de natureza
 administrativa e operacional. Vigência: 15/05/2019 a 13/01/2021. Valor Total Atualizado
 do Contrato: R$ 8.036.827,30. Data de Assinatura: 08/12/2020.
 
-(COMPRASNET 4.0 - 08/12/2020),
+(COMPRASNET 4.0 - 08/12/2020).
 SECRETARIA DE ATENÇÃO ESPECIALIZADA À SAÚDE
 EXTRATO DE COMPROMISSO Nº 5/2021
 
+ 
+
 BENEFICENTE: Ministério da Saúde, CNPJ/MF sob nº 00.394.544/0008-51.
 BENEFICIÁRIO: Prefeitura Municipal de Barreiros/PE, CNPJ: 10.110.989/0001-40.
-OBJETIVO: Opartunizar a alocação de Tomógrafo Computadorizado (82 cortes), no valor
+OBJETIVO: Opartunizar a alocação de Tomógrato Computadorizado (32 cortes), no valor
 global de R$ 611.353,89, doado ao Ministério da Saúde, em conformidade com o que
 dispõe o Edital de Chamamento Público nº 12/2020, a ser alocado no Hospital Distrital
-Jan Messias de Albuquerque, cadastrado no CNES: 2498975,
+Jaiton Messias de Albuquerque, cadastrado no CNES: 2499975.
 
-PROCESSO SEI Nº 25000.184805/2020-68,
+PROCESSO SEI Nº 25000.184805/2020-68.
 
-SIGNATÁRIOS: Marlene Aparecida da Silva Couto, pela Prefeitura Municipal de Barreiros/PE,
+SIGNATÁRIOS: Marlene Aparecida da Silva Couto, pela Prefeitura Municipal de Barreiras/PE,
 € Maria Inez Pordeus Gadelha, pela Secretaria de Atenção Especializada à Saúde, do
-Ministério da Saúde
+Ministério da Saúde.
 
-Data de Assinatura: 28/01/2021
+Data de Assinatura: 28/01/2021.
 
 EXTRATO DE COMPROMISSO Nº 10/2021
 
 BENEFICENTE: Ministério da Saúde, CNPJ/MF sob nº 00.394.544/0008-51.
 
-BENEFICIÁRIO: Prefeitura Municipal de Icó/CE, CNPI: 07.569.682/000175.
+BENEFICIÁRIO: Prefeitura Municipal de Icó/CE, CNPJ: 07.569.682/0001-79.
 
 OBJETIVO: Opartunizar a alocação de Tomógrafo Computadorizado (32 cortes), no valor
 global de R$ 611.353,89, doado ao Ministério da Saúde, em conformidade com o que
 dispõe o Edital de Chamamento Público nº 12/2020, a ser alocado no Hospital Regional
-Prefeito Walfrido Monteira Sobrinho, cadastrado no CNES: 2611309)
+Prefeito Walfrido Monteiro Sobrinho, cadastrado no CNES: 2611309.
 
-PROCESSO SEI Nº 25000.178750/2020-78,
+PROCESSO SEI Nº 25000.178750/2020-75.
 
-SIGNATÁRIOS: Ana Laís Peixoto Correia Nunes, pela Prefeitura Municipal de Icó/CE, e Maria
+SIGNATÁRIOS: Ana Laís Pebato Correia Nunes, pela Prefeitura Municipal de Icó/CE, e Maria
 inez Pordeus Gadelha, pela Secretaria de Atenção Especializada à Saúde, do Ministério da
-Saúde,
+Saúde.
 
 Data de Assinatura: 28/01/2021.
 
+ 
+
 EXTRATO DE COMPROMISSO Nº 11/2020
 
-BENEFICENTE: Ministério da Saúde, CNPJ/MF sob nº 00.394.544/0008-51
-BENEFICIÁRIO: Prefeitura Municipal de São Gonçalo do Amarante/CE, CNPJ:
-07.533.656/000119.
+BENEFICENTE: Ministério da Saúde, CNPJ/MF sob nº 00.394.544/0008-51.
+BENEFICIÁRIO: Prefeitura Municipal de São Gonçalo do Amarante/CE, CNP!
+07.533.656/0001-19.
 
-OBJETIVO: Oportunizar a alocação de Tomógrafo Computadorizado (32 cortes), no valor
+OBJETIVO: Opartunizar a alocação de Tomógrafo Computadorizado (32 cortes), no valor
 global de R$ 611.353,89, doado ao Ministério da Saúde, em conformidade com o que
-dispõe o Edital de Chamamento Público nº 12/2020, a ser alocado no Hospital Geral Luiza
-Alcântara e Silva, CNES: 2427125,
+dispõe o Edital de Chamamento Público nº 12/2020, a ser alocado no Hospital Geral Luíza
+Alcântara e Silva, CNES: 2427125.
 
-PROCESSO SEI Né 25000.178746/2020-19
+PROCESSO SEI Nó 25000.178746/2020-19.
 
 SIGNATÁRIOS: Milena Soares Ferreira, pela Prefeitura Municipal de São Gonçalo do
 Amarante/CE, e Maria Inez Pordeus Gadelha, pela Secretaria de Atenção Especializada à
-Saúde, do Ministério da Saúde.
+Saúde, da Ministério da Saúde.
 
-Data de Assinatura: 28/01/2021
+Data de Assinatura: 28/01/2021.
 
 EXTRATO DE COMPROMISSO Nº 13/2021
 
+ 
+
 BENEFICENTE: Ministério da Saúde, CNPJ/MF sob nº 00.394.544/0008-51.
 BENEFICIÁRIO: Secretaria de Estado da Saúde do Maranhão, CNPJ: 02.973.240/0001-06.
-OBJETIVO: Oportunizar a alocação de Tomógrafo Computadorizado (64 cortes), no valor
+OBJETIVO: Opartunizar a alocação de Tomógrafo Computadorizado (54 cortes), no valor
 global de R$ 742.665,09, doado ao Ministério da Saúde, em conformidade com o que
 dispõe o Edital de Chamamento Público nº 12/2020, a ser alocado no Hospital Regional de
 Barreirinhas, cadastrado no CNES: 7013620,
 
-PROCESSO SEI Nº 25000.178812/2020-42
+PROCESSO SEI Nº 25000.178812/2020-42.
 
-SIGNATÁRIOS: Carlos Eduardo de Olveira lula, pela Secretaria de Estado da Saúde do
+SIGNATÁRIOS: Carlos Eduardo de Oliveira lula, pela Secretaria de Estado da Saúde do
 Maranhão, e Maria Inez Pordeus Gadelha, pela Secretaria de Atenção Especializada à
 Saúde, do Ministério da Saúde.
 
@@ -5172,31 +5194,33 @@ EXTRATO DE COMPROMISSO Nº 14/2021
 
 BENEFICENTE: Ministério da Saúde, CNPJ/MF sob nº 00.394.544/0008-51.
 BENEFICIÁRIO: Secretaria de Estado da Saúde do Maranhão, CNPJ: 02:973.240/0001-06,
-OBIETIVO: Opartunizar à alocação de Tomógrafo Computadarizado (64 cartes), no valor
+OBIETIVO: Opartunizar à alocação de Tomágrafo Computadarizado (64 cortes), no valor
 global de R$ 742.665,09, doado ao Ministério da Saúde, em conformidade com o que
-dispõe o Edital de Chamamento Público nº 12/2020, à ser alocado no Hospital Regional da
-Esixada Maranhense Dr. Jacksan Lago, cadastrado no CNES: 7826060.
+dispõe o Edital de Chamamento Público nº 12/2020, a ser alocado no Hospital Regional da
+Esixada Maranhense Dr. Jackson lago, cadastrado no CNES: 7825080.
 
-PROCESSO SEI Nº 25000,176132/2020-94
+PROCESSO SEI Nº 25000,176132/2020:04.
 
-SIGNATÁRIOS: Carlos Eduardo de Oliveira lula, pela Secretaria de Estado da Saúde do
+SIGNATÁRIOS: Carlos Eduardo de Ólveira lula, pela Secretaria de Estado da Saúde do
 Maranhão, e Maria Inez Pordeus Gadelha, pela Secretaria de Atenção Especializada à
 Saúde, do Ministério da Saúde.
 
 Data de Assinatura: 28/01/2021.
 
+ 
+
 EXTRATO DE COMPROMISSO Nº 15/2021
 
 BENEFICENTE: Ministério da Saúde, CNPJ/MF sob nº 00.394.544/0008-51.
 BENEFICIÁRIO: Secretaria de Estado da Saúde do Maranhão, CNPJ: 02:973.240/0001-06,
-OBIETIVO: Opartunizar à alocação de Tomógrafo Computadarizado (64 cartes), no valor
-global de R$ 742.665,09, doado ao Ministério da Saúde, em conformidade com o que
-dispõe o Edital de Chamamento Público nº 12/2020, à ser alocado no Hospital Regional de
+OBIETIVO: Opartunizar à alocação de Tomágrafo Computadorizada (64 cortes), no valor
+global de R$ 742.565,09, doado ao Ministério da Saúde, em conformidade com o que
+dispõe o Edital de Chamamento Público nº 12/2020, a ser alocado no Hospital Regional de
 Balsas, cadastrado no CNES: 9336508.
 
-PROCESSO SEI Nº 25000.178808/2020-84
+PROCESSO SEI Nº 25000.178808/2020-84.
 
-SIGNATÁRIOS: Carlos Eduardo de Olveira lula, pela Secretaria de Estado da Saúde do
+SIGNATÁRIOS: Carlos Eduardo de Oliveira lula, pela Secretaria de Estado da Saúde do
 Maranhão, e Maria Inez Pordeus Gadelha, pela Secretaria de Atenção Especializada à
 Saúde, do Ministério da Saúde.
 
@@ -5224,11 +5248,15 @@ Data de Assinatura: 28/01/2021.
 
  
 
-Este documento pode ser atfcado no endereço eletrônico
-pf gov utenbdade Mm, pelo código 05302021029200005]
+ 
 
-Documento asimado digitâmenteconfome Mp nº 22002 de 2ajogp2001, ICP
-“ue astlui à Wesrura de Chaves Públicas Baálára - EP-vasd
+Este documento pode ser vatfcado no endereço eletrônico
+Mp gov iutenldade Mr, pelo código 05302021029200095]
+
+Documento asimado digtdmenteconfome Mp nº 22002 de 2aj082001, JC
+“ue st à Wesruura de Chaves Públicas Baal - EP-asd
+
+(E) E
  
 
 Ministério da Saúde

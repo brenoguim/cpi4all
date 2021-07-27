@@ -1,6 +1,6 @@
  
 
-Sopremo Tribunal Federal
+Sapremo Tribunal Federal
 
 Brasília, 1º de julho de 2021.
 
@@ -51,7 +51,7 @@ LOCKE CAVALCANTI
 
 ARRUDA ALVIM & THEREZA ALVIM
 Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+SÃo PAO ODE O. RAS: oO
 
  
 
@@ -89,7 +89,7 @@ ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
 
 Advocacia e Consultoria Jurídica
 SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
-wewamudaalvim.com br
+wrewamudaalvim.com br
 
  
 
@@ -139,11 +139,11 @@ contratos ou prática de atos fraudulentos, seja pela existência de ações ou 
 KNOPFELMACHER
 LOCKE CAVALCANTI
 
+ 
+
 ARRUDA ALVIM & THEREZA ALVIM
 Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
-
- 
+SÃo PAO ODE O. RAS: oO
 
 Dentre os diversos atos praticados pela referida Comissão, de legalidade
 questionável, interessa o Requerimento nº. 855/2021, do Exmo. Sr. Senador da República
@@ -167,10 +167,10 @@ em operação no pais;
 b) fiscal, de 2020 até o presente, através do seguinte dossiê integrado com
 amparo, no que couber, nas seguintes bases de dados:
 
-+ Extrato PJ ou PF (estrato da declaração de imposto de renda de
+«Extrato PJ ou PF (estrato da declaração de imposto de renda de
 pessoa física ou pessoa jurídica);
 
-+ Cadastro de Pessoa Física;
++ Cadastro de Pessoa Fésica;
 
 + Cadastro de Pessoa Jurídica;
 
@@ -180,12 +180,12 @@ contra a pessoa investigada);
 + Compras e vendas de DPJ de Terceiros;
 
 + Rendimentos Recebidos de PF (todos os valores recebidos a
-tiulo de rendimento de pessoa física);
+tio de rendimento de pessoa física);
 
 + Rendimentos Recebidos de PJ (todos os valores recebidos a
-titulo de rendimento de pessoa jurídica);
+ttuo de rendimento de pessoa jurídica);
 
-+ DIPJ (Declaração de formações Econômico Fiscais da Pessoa
++ DIPJ (Declaração de formações Econômico-Fiscais da Pessoa
 Jurídica);
 
 * DIRPF (Declaração de Imposto de Renda das Pessoas
@@ -194,7 +194,7 @@ Crédito);
 
 + DMED (Declaração de Seniços Médicos e de Saúde);
 
-* DIMOF (Declaração de Informações sobre Movimentação
++ DIMOF (Declaração de Informações sobre Movimentação
 Financeira);
 
 DCPMF (Declaração de Não Incidência da CPMF);
@@ -211,19 +211,19 @@ por Organismos Internacionais);
 
  
 KNOPFELMACHER
-
 LOCKE CAVALCANTI
-ADVOGADOS
 
- 
+ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
 
 Advocacia e Consultoria Juridica
 SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
-wewamudaalvim.com br
+wrewamudaalvim.com br
+
+ 
 
 CADIN (Cadastro Informativo de Débitos não Quitados);
 DACON (Demonstrativo de Apuração de Contribuições Sociais);
-DAI (Declaração Anual de lento),
+DAI (Declaração Anual de bento),
 
 DASN (Declaração Anual do Simples Nacional);
 
@@ -231,7 +231,7 @@ DBF (Declaração de Benefícios Fiscais);
 
 PAES (Parcelamento Especial);
 
-PERDCOMP (Pedido Eletrônico de Restitução ou
+PERIDCOMP (Pedido Eletrônico de Restituição ou
 Ressarcimento e da Declaração de Compensação);
 
 SIAFI (Serviço Federal de Processamento de Dados);
@@ -239,23 +239,23 @@ SIAFI (Serviço Federal de Processamento de Dados);
 SINAL (Sistema de informações da Arrecadação Federal),
 SIPADE (Sistema de Parcelamento de Débito);
 
-COLETA (Sistema integrado de Coleta Sinco).
+COLETA (Sistema htegrado de Coleta Sinco).
 
 c) bancário, de 2020 até o presente, de todas as contas de depósitos,
 contas de poupança, contas de investimento e outros bens, direitos e
 valores mantidos em Instituições Financeiras;
 
 d.1) telemático, de 2020 até o presente, oficiando-se empresa Google
-Brasilintermet Ltda. (Endereço: Avenida Brigadeiro Faria Lima, 3477, 18º
+Brasilintemet Ltda. (Endereço: Avenida Brigadeiro Faria Lima, 3477, 18º
 andar, CEP 04538- 133, São Paulo/SP), para que fomeça:
 
 * Dados cadastrais;
 
-* Registros de conexão (IPs) Informações de Android
+- Registos de conexão (Ps) Informações de Android
 (MEI Cópia integral de todo conteúdo armazenado no Google
 Drive, incluindo o backup do WhatsApp;
 
-+ Cópia integral de todo conteúdo armazenado no Google Fotos,
+* Cópia integral de todo conteúdo armazenado no Google Fotos,
 com os respectivos metadados (EXIF);
 
 * Lista de contatos vinculados as contas mencionadas, com
@@ -269,14 +269,14 @@ preservando a estrutura de diretórios criada pelo mesmo;
 * Cópia integral de todas as mensagens enviadas, recebidas e
 armazenadas, conteúdos multimídias (fotos, vídeos, áudios) e
 qualquer outro anexo compartilhado através do sistema de troca
-de mensagens instantâneas Hangout,
+de mensagens instantâneas Hangout;
 
 * Localizações pretéritas e atuais do uso da(s) conta(s) (Location
 History), incluindo localizações geográficas específicas, por meio
 de GPS, Bluetooth ou sinal Wi-Fi;
 
 * Relação dos locais salvos no GOOGLE MAPS e demais dados
-armazenados no aplicativo,
+armazenados no aplicativo;
 
 * Os históricos de pesquisas realizadas pelo usuário do dispositivo,
 incluindo pesquisas no Google Maps;
@@ -289,12 +289,11 @@ crédito (operadoras),
 * Informações dos aplicativos baixados e instalados no Google
 Play;
 KNOPFELMACHER
-
 LOCKE CAVALCANTI
-Aracteina Comentar Jair ADVOGADOS
 
-SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
-wewamudaalvim.com br
+ARRUDA ALVIM & THEREZA ALVIM
+Advocacia e Consultoria Jurídica ADVOGADOS
+SÃo PAO ODE O. RAS: oO
 
  
 
@@ -306,7 +305,7 @@ Group Memberships e Profile Picture” (dados cadastrais da conta,
 informações do aparelho, versão da APP, data e horário do
 registro, status de conexão, última conexão com data, hora e
 porta lógica, endereço de email, informações de cliente Web;
-registros de acessos PPs desde 2020 e IP da última conexão;
+registros de acessos Ps desde 2020 e IP da última conexão;
 histórico de mudança de números;
 perfil do usuário com foto; about - antigo “status”;
 Nomes dos grupos, seus administradores, integrantes dos grupos
@@ -314,16 +313,17 @@ com seus respectivos números de telefones e fotos - lista de
 grupos; e
 
 + agenda de contatos simétricos e assimétricos)
-4.3) telemático, de 2020 até o presente, oficiando-se empresa
+d.3) telemático, de 2020 até o presente, oficiando-se empresa
 Facebook para que forneça, a respeito das plataformas Facebook,
-stagram e Facebook Messenger, todo o conteúdo relativo às contas
+nstagram e Facebook Messenger, todo o conteúdo relativo às contas
 de tituaridade do investigado, em especial mensagens privadas,
+
 participação em grupos fechados, comentários e postagens, lista de
-amigos e toda atindade nelas realizada.
+amigos e toda atividade nelas realizada.
 
 d.4) telemático, de 2020 até o presente, oficiando-se a empresa Apple
 Computer Brasil Ltda, por meio da Privacy & Law Enforcement
-Compliance (e-mail lawenforcementBapple.com) para que fomeça todo
+Compliance (e-mail lawenforcementapple.com) para que fomeça todo
 o conteúdo relativo às contas e aparelhos de titularidade do investigado,
 especialmente dados de localização, GPS, Bluetooth, endereço IP,
 localização de pontos de acesso Wi-Fi e torres de celuar e outras
@@ -335,14 +335,21 @@ O requerimento em questão foi levado ao colegiado da CPI em 16 de junho de
 
 conforme documento anexo (doc. 03), do qual se extrai o trecho relevante!:
 
-Mas 2020 15/06/2021 equer as transferências de sinto telefômco, Sen, tandolfe Hodnques Aprovado
+Mas 2020 15/06/2021 isquer as transferências de simlo telefômco,
+fiscal e hancânia de Jasé Alves lho.
 
-telemánico, fcal é hancêro de Jasé alves
+Sen, tandolfe Hodnques Aprovado
 
-   
+ 
+
+telem
+
+ 
 
 Data de apreciação:
 16/08/2021
+
+* mexo
 
 Com a aprovação do requerimento antes formulado pelo Sr. Senador Randolfe
 
@@ -354,18 +361,16 @@ motivos, que, como se observa, são absolutamente insubsistentes, desrespeitando
 o Texto Constitucional, como se demonstrará no tópico subsequente.
 
 ! A informação consta do seguinte endereço eletrônico:
-https://legis.senado.leg.br/comissoes/regsCPI?0& codcol=2441 &apre=true&prej retir=false&susp=false, com
+https://legis.senado.leg.br/comissoes/regsCPI?0& codcol=2441 &apre=true &prej retir=false&susp=false, com
 último acesso em 16 de junho de 2021.
 KNOPFELMACHER
-
 LOCKE CAVALCANTI
-ARRUDA ALVIM & THEREZA ALVIM
-
-“Advocacia é Consultoria Jurídica” ADVOGADOS
-
-do paso mê rr as
 
  
+
+ARRUDA ALVIM & THEREZA ALVIM
+Advocacia e Consultoria Jurídica ADVOGADOS
+SÃo PAO ODE O. RAS: oO
 
 HI. | DOATO COATOR E SUA PATENTE ILEGALIDADE
 
@@ -390,10 +395,10 @@ em operação no pais;
 b) fiscal, de 2020 até o presente, através do seguinte dossiê integrado com
 amparo, no que couber, nas seguintes bases de dados:
 
-+ Extrato PJ ou PF (estrato da declaração de imposto de renda de
+«Extrato PJ ou PF (estrato da declaração de imposto de renda de
 pessoa física ou pessoa jurídica);
 
-+ Cadastro de Pessoa Fésica;
++ Cadastro de Pessoa Fisica;
 
 + Cadastro de Pessoa Jurídica;
 
@@ -403,12 +408,12 @@ contra a pessoa investigada);
 + Compras e vendas de DPJ de Terceiros;
 
 + Rendimentos Recebidos de PF (todos os valores recebidos a
-tiulo de rendimento de pessoa física);
+tio de rendimento de pessoa física);
 
 + Rendimentos Recebidos de PJ (todos os valores recebidos a
-titulo de rendimento de pessoa jurídica);
+ttuo de rendimento de pessoa jurídica);
 
-+ DIPJ (Declaração de formações Econômico Fiscais da Pessoa
++ DIPJ (Declaração de formações Econômico-Fiscais da Pessoa
 Jurídica);
 
 * DIRPF (Declaração de Imposto de Renda das Pessoas
@@ -417,12 +422,11 @@ Crédito);
 
 + DMED (Declaração de Seniços Médicos e de Saúde);
 
-* DIMOF (Declaração de Informações sobre Movimentação
++ DIMOF (Declaração de Informações sobre Movimentação
 Financeira);
 
-+ DCPNF (Deciaração de Não Incidência da CPMF);
-
-* DIMOB (Deciaração de Informações sobre Atividades
+DCPMF (Declaração de Não Incidência da CPMF);
+DIMOB (Declaração de Informações sobre Atividades
 Imobiliárias); DOI (Declaração sobre Operações Imobiliárias);
 
 + DIRF (Declaração do imposto de Renda Retido na Fonte);
@@ -433,19 +437,19 @@ por Organismos Internacionais);
 
 + DCTF (Declaração de Débitos e Créditos Tributários Federais);
 KNOPFELMACHER
-
 LOCKE CAVALCANTI
-ADVOGADOS
 
- 
+ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
 
 Advocacia e Consultoria Juridica
 SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
-wewamudaalvim.com br
+wrewamudaalvim.com br
+
+ 
 
 CADIN (Cadastro Informativo de Débitos não Quitados);
 DACON (Demonstrativo de Apuração de Contribuições Sociais);
-DAI (Declaração Anual de lento),
+DAI (Declaração Anual de bento),
 
 DASN (Declaração Anual do Simples Nacional);
 
@@ -453,7 +457,7 @@ DBF (Declaração de Benefícios Fiscais);
 
 PAES (Parcelamento Especial);
 
-PERDCOMP (Pedido Eletrônico de Restitução ou
+PERIDCOMP (Pedido Eletrônico de Restituição ou
 Ressarcimento e da Declaração de Compensação);
 
 SIAFI (Serviço Federal de Processamento de Dados);
@@ -461,23 +465,23 @@ SIAFI (Serviço Federal de Processamento de Dados);
 SINAL (Sistema de informações da Arrecadação Federal),
 SIPADE (Sistema de Parcelamento de Débito);
 
-COLETA (Sistema integrado de Coleta Sinco).
+COLETA (Sistema htegrado de Coleta Sinco).
 
 c) bancário, de 2020 até o presente, de todas as contas de depósitos,
 contas de poupança, contas de investimento e outros bens, direitos e
 valores mantidos em Instituições Financeiras;
 
 d.1) telemático, de 2020 até o presente, oficiando-se empresa Google
-Brasilintermet Ltda. (Endereço: Avenida Brigadeiro Faria Lima, 3477, 18º
+Brasilintemet Ltda. (Endereço: Avenida Brigadeiro Faria Lima, 3477, 18º
 andar, CEP 04538- 133, São Paulo/SP), para que fomeça:
 
 * Dados cadastrais;
 
-* Registros de conexão (IPs) Informações de Android
+- Registos de conexão (Ps) Informações de Android
 (MEI Cópia integral de todo conteúdo armazenado no Google
 Drive, incluindo o backup do WhatsApp;
 
-+ Cópia integral de todo conteúdo armazenado no Google Fotos,
+* Cópia integral de todo conteúdo armazenado no Google Fotos,
 com os respectivos metadados (EXIF);
 
 * Lista de contatos vinculados as contas mencionadas, com
@@ -491,14 +495,14 @@ preservando a estrutura de diretórios criada pelo mesmo;
 * Cópia integral de todas as mensagens enviadas, recebidas e
 armazenadas, conteúdos multimídias (fotos, vídeos, áudios) e
 qualquer outro anexo compartilhado através do sistema de troca
-de mensagens instantâneas Hangout,
+de mensagens instantâneas Hangout;
 
 * Localizações pretéritas e atuais do uso da(s) conta(s) (Location
 History), incluindo localizações geográficas específicas, por meio
 de GPS, Bluetooth ou sinal Wi-Fi;
 
 * Relação dos locais salvos no GOOGLE MAPS e demais dados
-armazenados no aplicativo,
+armazenados no aplicativo;
 
 * Os históricos de pesquisas realizadas pelo usuário do dispositivo,
 incluindo pesquisas no Google Maps;
@@ -513,11 +517,9 @@ Play;
 KNOPFELMACHER
 LOCKE CAVALCANTI
 
-ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
-
-Advocacia e Consultoria Juridica
-SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
-wewamudaalvim.com br
+ARRUDA ALVIM & THEREZA ALVIM
+Advocacia e Consultoria Jurídica ADVOGADOS
+SÃo PAO ODE O. RAS: oO
 
  
 
@@ -529,7 +531,7 @@ Group Memberships e Profile Picture” (dados cadastrais da conta,
 informações do aparelho, versão da APP, data e horário do
 registro, status de conexão, última conexão com data, hora e
 porta lógica, endereço de email, informações de cliente Web;
-registros de acessos IPs desde 2020 e IP da última conexão;
+registros de acessos Ps desde 2020 e IP da última conexão;
 histórico de mudança de números;
 perfil do usuário com foto; about - antigo “status”;
 Nomes dos grupos, seus administradores, integrantes dos grupos
@@ -537,16 +539,16 @@ com seus respectivos números de telefones e fotos - lista de
 grupos; e
 
 + agenda de contatos simétricos e assimétricos)
-4.3) telemático, de 2020 até o presente, oficiando-se empresa
+d.3) telemático, de 2020 até o presente, oficiando-se empresa
 Facebook para que forneça, a respeito das plataformas Facebook,
-stagram e Facebook Messenger, todo o conteúdo relativo às contas
+nstagram e Facebook Messenger, todo o conteúdo relativo às contas
 de tituaridade do investigado, em especial mensagens privadas,
 participação em grupos fechados, comentários e postagens, lista de
-amigos e toda atindade nelas realizada.
+amigos e toda atividade nelas realizada.
 
 d.4) telemático, de 2020 até o presente, oficiando-se a empresa Apple
 Computer Brasil Ltda, por meio da Privacy & Law Enforcement
-Compliance (e-mail lawenforcementBapple.com) para que fomeça todo
+Compliance (e-mail lawenforcementapple.com) para que fomeça todo
 o conteúdo relativo às contas e aparelhos de titularidade do investigado,
 especialmente dados de localização, GPS, Bluetooth, endereço IP,
 localização de pontos de acesso Wi-Fi e torres de celuar e outras
@@ -574,13 +576,11 @@ Com efeito. Para fundamentar o pedido, Sua Excelência, o Senador Randolfe
 
 Rodrigues, discorreu longamente sobre a adoção de medicamentos off label para tratamento da
 KNOPFELMACHER
-
 LOCKE CAVALCANTI
-ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
 
-Advocacia e Consultoria Jurídica
-SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
-wewamudaalvim.com br
+ARRUDA ALVIM & THEREZA ALVIM
+Advocacia e Consultoria Jurídica ADVOGADOS
+SÃo PAO ODE O. RAS: oO
 
  
 
@@ -591,37 +591,44 @@ Indústria Farmacêutica Ltda., de que é sócio o Impetrante.
 Com a aprovação do requerimento pelo órgão colegiado, os motivos insertos no
 requerimento passaram a ser, também, os motivos do próprio ato ilegal ora questionado (doc.
 
-03). Isso se afirma com base em alguns pontos.
+03). Iss
+
+ 
+
+se afirma com base em alguns pontos.
 
 Em primeiro lugar, o que sobressai do referido requerimento é a clara e
 manifesta criminalização da atividade econômica. É dizer: o ilustre Senador da República de
 logo criminaliza a atividade econômica desempenhada pela empresa da qual o Impetrante é
 
 sócio, como se fosse ilícito auferir receita com a venda de medicamentos.
-
 Eis, essencialmente, a fundamentação do requerimento (doc. 02):
 
 Laboratórios nacionais de médio porte turbinaram seus negócios em 2020 com
-medicamentos que prometiam. sem base científica, combater a covid-19. A venda do
-
+medicamentos que prometiam, sem base científica, combater a covid-19. A venda do
 vermiiugo ivermectina saltou de R$ 44,4 milhões em 2019 para R$ 409 milhões no
 
-(.)
+(0)
 
 Com sede em Goiás, o Vitamedic respondeu por cerca de 80% das unidades
-
 de ivermectina em 2020. A área farmacêutica não é o principal negócio do grupo José
 Alves, que fatura cerca de R$ 2 bilhões. A maior parte da receita da companhia vem
-
 da área de bebidas - a empresa é distribuidora da Coca-Cola em Goiás e Tocantins
 
-(.)
+(0)
+
+ 
+
+ 
 KNOPFELMACHER
 LOCKE CAVALCANTI
 
-ARRUDA ALVIM & THEREZA ALVIM
-advocacia é Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+] /I a
+ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
+
+Advocacia e Consultoria Jurídica
+SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
+wrewamudaalvim.com br
 
  
 
@@ -629,35 +636,40 @@ Além disso, chama atenção o fato de que, após a farmacêutica Merck,
 inventora da ivermectina, afirmar que não existem dados para apontar a eficácia da
 medicação contra a covid-19, a fabricante do remédio no Brasil, Vitamedic, divulgou
 uma nota dizendo que, desde o início da pandemia, “a lvermectina passou a ser uma.
+das alternativas para tratamento precoce da doença, especialmente quando estudos
 
-das alternativas para tratamento precoce da doença, especialmente quando estudos.
-clínicos in vitro realizados pela University Monash, de Melboume, Austrália,
+  
+
+ 
+
+ 
 
 apontaram a ação antiviral do medicamento”.
+
 “Por ser um medicamento de largo uso pela população para tratamento de
-
 pediculose, verminose e filariose, e de baixo impacto em termos de efeitos colaterais,
-
 grande parte da comunidade médica aderiu aos protocolos de tratamento baseados
 em lvermectina, Azitromicina, além de complexos vitamínicos, corticoides etc”,
 pontuou
 
-Anota da Vitamedic é de 5 de fevereiro, um dia depois de a Merck ter emitido
+Arnota da Vitamedic é de 5 de fevereiro, um dia depois de a Merck ter emitido
 comunicado dizendo que não há base científica para afirmar que o medicamento
-tenha efeito contra a doença, tampouco evidências significativas de eficácia clínica
+tenha efeito contra a doença, tampouco evidências significativas de eficácia clinica
 em pacientes com a covid-19. A Merck pontuou que existe uma “preocupante falta de
 dados de segurança na maior parte dos estudos” relativos ao uso do medicamento
-contra a doença causada pelo novo coronavirus.
+contra a doença causada pelo novo coronavius.
 
 “A empresa não acredita que os dados disponíveis suportem a segurança e
 eficácia da ivermectina além das doses e populações indicadas nas informações de
-prescrição aprovadas pela agência reguladora”, informou a Merck no comunicado.
+prescrição aprovadas pela agência reguladora”,
 
-Ou seja, a empresa lucra muito com base na defesa, aparentemente falaciosa,
-de um medicamento com ineficácia comprovada contra o coronavíus. Laboratório,
-
+Ouseja, ae! ito com
+de um medicamento ic q
 aliás, que foi proibido pela Agência Nacional de Vigilância Sanitária (Anvisa) de
 fabricar, distribuir e vender vários medicamentos, entre eles a ivermectina. Segundo
+
+ 
+      
 
 Os trechos transcritos, sobretudo os destacados, deixam clara a conclusão de que
 o que se pretende é a quebra dos sigilos bancário, fiscal, telefônico e telemático do Impetrante,
@@ -686,7 +698,7 @@ LOCKE CAVALCANTI
 
 ARRUDA ALVIM & THEREZA ALVIM
 Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+SÃo PAO ODE O. RAS: oO
 
  
 
@@ -732,9 +744,12 @@ Ed. RT, 2016, p. 325 e ss.
 KNOPFELMACHER
 LOCKE CAVALCANTI
 
-ARRUDA ALVIM & THEREZA ALVIM
-Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+] / y
+ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
+
+Advocacia e Consultoria Jurídica
+SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
+wrewamudaalvim.com br
 
  
 
@@ -786,7 +801,7 @@ LOCKE CAVALCANTI
 
 ARRUDA ALVIM & THEREZA ALVIM
 Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. RAS: oO
+SÃo PAO ODE O. RAS oo
 
  
 
@@ -837,14 +852,13 @@ a todos assegurada pela própria Constituição da República. (MS 23868, Relato
 
 13
 KNOPFELMACHER
-LOCKE CAVALCANTI
 
-/ y
+LOCKE CAVALCANTI
 ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
 
 Advocacia e Consultoria Jurídica
 SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
-wewamudaalvim.com br
+wrewamudaalvim.com br
 
  
 
@@ -872,15 +886,13 @@ conclui que seria preciso investigar a relação do Impetrante com o Exmo. Sr. P
 
 República e com o Ministério de Estado da Saúde. Eis o trecho:
 
-Portanto, diante dos fatos. proponho o presente requerimento para
-transferência do sigilo do senhor José Alves e da empresa que gerenci , Vitamedic, a
+Portanto, dos fatos, proponho o presente requerimento para
 
-essa Comissão. para que o Colegiado possa «
-com o Presidente da República e o Ministério da Saúde, | obretudo no tocante ao
+transferência do sigilo do senhor José Alves e da empresa que gerencia, Vitamedic, a
+essa Comissão, para que o Colegiado possa entender adequadamente a sua relação
+com o Presidente da República e o Ministério da Saúde, sobretudo no tocante ao
 aparente patrocínio administrativo de interesses não republicanos. Conto com o apoio
 dos nobres Pares desse colegiado
-
- 
 
 A justificativa para a quebra dos sigilos bancário, fiscal, telefônico e telemático
 do Impetrante, pois, é o fato de ele ter, indiretamente, auferido lucro com a venda de
@@ -895,9 +907,12 @@ si só, a absoluta falta de fundamentação para quebra de sigilo do Impetrante 
 KNOPFELMACHER
 LOCKE CAVALCANTI
 
-ARRUDA ALVIM & THEREZA ALVIM
-Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+] / y
+ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
+
+Advocacia e Consultoria Jurídica
+SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
+wrewamudaalvim.com br
 
  
 
@@ -952,7 +967,7 @@ LOCKE CAVALCANTI
 
 ARRUDA ALVIM & THEREZA ALVIM
 Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+SÃo PAO ODE O. RAS: oO
 
  
 
@@ -1005,7 +1020,7 @@ LOCKE CAVALCANTI
 
 ARRUDA ALVIM & THEREZA ALVIM
 Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+SÃo PAO ODE O. RAS: oO
 
  
 
@@ -1059,7 +1074,7 @@ LOCKE CAVALCANTI
 
 ARRUDA ALVIM & THEREZA ALVIM
 Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+SÃo PAO ODE O. RAS: oO
 
  
 
@@ -1070,6 +1085,7 @@ parte de C.P., se admite que ela se dê. Mandado de segurança indeferido, cassa
 2003) (destaques não são do original).
 
 Portanto, a falta de fundamentação do requerimento aprovado pela CPI — ato
+
 coator — é manifesta. Não há causa provável, pois não se imputa nenhum ato ilícito ao
 
 Impetrante, razão pela qual há direito líquido e certo à cassação imediata do ato ilegal.
@@ -1085,7 +1101,7 @@ Note-se: o ato de instalação da comissão delimitou a competência do colegiad
 nos seguintes termos:
 
 "apurar, no prazo de 90 dias, as ações e omissões do Governo Federal no enfrentamento da
-Pandemia da Covid-19 no Brasil e, em especial, no agravamento da crise sanitária no
+Pandemia da Covid-I9 no Brasil e, em especial, no agravamento da crise sanitária no
 Amazonas com a ausência de oxigênio para os pacientes internados; e as possíveis
 irregularidades em contratos, fraudes em licitações, superfaturamentos, desvio de recursos
 públicos, assinatura de contratos com empresas de fachada para prestação de serviços
@@ -1108,9 +1124,12 @@ COVID-19 no Brasil e, especialmente, no Amazonas;
 KNOPFELMACHER
 LOCKE CAVALCANTI
 
-ARRUDA ALVIM & THEREZA ALVIM
-Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+] / y
+ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
+
+Advocacia e Consultoria Jurídica
+SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
+wrewamudaalvim.com br
 
  
 
@@ -1155,7 +1174,7 @@ LOCKE CAVALCANTI
 
 ARRUDA ALVIM & THEREZA ALVIM
 Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+SÃo PAO ODE O. RAS: oO
 
  
 
@@ -1202,7 +1221,7 @@ LOCKE CAVALCANTI
 
 ARRUDA ALVIM & THEREZA ALVIM
 Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+SÃo PAO ODE O. RAS: oO
 
  
 
@@ -1243,13 +1262,16 @@ do objeto da CPI, além de a quebra total e indiscriminada dos dados privados do
 
 para, simplesmente, explicar-se a suposta relação deste com o Governo Federal, ser medida
 
-21
+1
 KNOPFELMACHER
 LOCKE CAVALCANTI
 
-ARRUDA ALVIM & THEREZA ALVIM
-Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. BRAS: oO
+] / y
+ARRUDA ALVIM & THEREZA ALVIM ADVOGADOS
+
+Advocacia e Consultoria Jurídica
+SÃO PAULO RIO DE JANEIRO - BRASÍLIA -PORTO ALEGRE
+wrewamudaalvim.com br
 
  
 
@@ -1299,7 +1321,7 @@ LOCKE CAVALCANTI
 
 ARRUDA ALVIM & THEREZA ALVIM
 Advocacia e Consultoria Jurídica ADVOGADOS
-SÃo PAO ODE O. RAS: oO
+SÃo PAO ODE O. RAS oo
 
  
 
@@ -1320,7 +1342,7 @@ Pede deferimento.
 
 De São Paulo para Brasília, 17 de junho de 2021
 
-ARRUDA ÁLVIM EDUARDO ARRUDA ÁLVIM
+ARRUDA ÁALVIM EDUARDO ARRUDA ÁLVIM
 OAB/SP 12.363 OAB/SP 118.685
 FERNANDO CRESPO Q. NEVES FELIPE LOCKE CAVALCANTI
 OAB/SP 138.094 OAB/SP 93.501
@@ -1331,99 +1353,101 @@ OAB/SP 356.664 OAB/SP 321.985
 PROCURAÇÃO
 
 OUTORGANTE: José Alves Filho, brasileiro, casado, empresário, portador da
-Cédula de Identidade nº. 4946653 SSP/SP, inscrito no CPF/MF sob o nº
-186.603,128-72, residante o domiciliado na Rua Oquirá, nº. 325, Alto de Pinheiros,
+Cédula de Identidade nº. 4946653 SSP/SP, inscrito no CPF/MF sob o nº,
+186.603,128-72, residente e domiciliado na Rua Oquirá, nº. 325, Alto de Pinheiros,
 São Paulo/SP, CEP 05467-030,
 
-QUTORGADOS: a(0)s advogada(o)s Aluízio José de Almeida Cherubini, inscrita
-na OAB/SP sob 0 n.º 165.399, Angélica Muniz Leão de Arruda Alvim, inscrita na
-DAB/SF sob o n.º 124.535 e na DAB/RJ sob 0 n.º 2.606-4, Armando Verri Junior,
-Inscrito na OAB/SP sob o n.3 27.555, Eduardo Pellegrini de Arruda Alvim, inscrito
-na DAB/SP sob o n.º 118.685, na DAB/RS sob o n.º 2.557-4, na OAB/GO sob 0 nº
-55291, ne DAB/MA sob o nº 20513-A e na OAB/PA sob 0 nº Z9010-4, Everaldo
+QUTORGADOS: a(0)s advogada(o)s Aluízio José de Almeida Cherubini, inscrito
+na OAB/SP sob à n.º 165.399, Angélica Muniz Leão de Arruda Alvim, inscrita na
+DAB/SF sob o n.8 124.535 e na OAB/RI sob o n.º 2.605-A, Armando Verri Junior,
+Inscrito na OAB/SP sob o n.º 27.555, Eduardo Pellegrini de Arruda Alvim, Inscrito
+na OAB/SP sob o n.º 118.685, na OAB/RI sob o n.º 2.557-4, na OAB/GO sob 0 nº
+55251, ne DAB/MA sob o nº 20513-A « na OAB/PA sob 0 nº 29010-A, Everaldo
 Augusto Cambler, inscrito na OAB/SP sob o n.º 68.312, Fernando Anselmo
 Rodrigues, inscrito na OAB/SP sob o n.º 132.932, Fernando Crespo Queiroz
-Neves, inscrito na OAB/SP sob o n.º 138.094 e na OAB/RJ sob o n.º 2,556-A,
+Neves, inscrito na OAB/SP sob o n.º 138.094 e na QAB/RI sob o n.º 2,556-A,
 Glanfrancesco Genoso, inscrita na OAB/SP sob o n.º 96.954, José Manoel de
 Arruda Alvim Netto, inscrito na OAB/SP sob o n.º 12.363, na OAB/RJ sob o n.º
 2.605-A e na OAB/DF sob o nº 40.994, Thereza Celina Diniz de Arruda Alvim,
-inscrita na DAB/SP sob o n.º 12.425 € na OAB/RJ sob O n.º L13,449-A, Alberico
-Eugênio da Silva Gazzineo, Inscrito na OAB/SP sob o n,9 272.383, Alberto Fulvio
-Luchi, inscrito na OAB/SP sob o n.9 196.164, Alexandra Elsele Barberis, inscrito
-na DAB/SP sob o nº 378.747, Allne Perazzo do Amaral Veroneze Silva, inscrita
-na OAB/SP sob o nº 430.902, Analsa Pasqual Salgado Cintra, inscrita na OAB/SP
-sab o nº 345.208, André Milchteim, inscrito na OAB/SP sob a nº 196.611, André
+inscrita na DAB/SP sob o n,º 12.425 € na OAB/RJ sob O n.º LI3,449-A, Alberico
+Eugênio da Silva Gazzineo, Inscrito na OAB/SP sob o n,9 272.393, Alberto Fulvio
+Luchi, inscrito na OAB/SP sob o n.º 196.164, Alexandra Elsele Barberis, inscrito
+na DAB/SP sob o nº 378,747, Alline Perazzo do Amaral Veroneze Silva, inscrita
+na OAB/SP sob o nº 430,902, Analisa Pasqual Salgado Cintra, inscrita na OAB/SP
+sab o nº 345.208, André Milchteim, Inscrito na OAB/SP sob a nº 196.611, André
 Ribeiro Dantas, inscrito na DAB/SP sob o nº 305.268, Arnaldo Yegros de Souza
 Junior, Inscrito na OAB/SP sob o nº 428.653, Bernardo Capelli Borelta, Inscrito
 na DAB/RS sob 6 nº 82.732, Carlos Henrique dos Santos Liquori Filho, inscrito
-na OAB/RI sob o n.º 141040, Caroline Ramos Santos Moraes, inscrito na OAB/SP
-sob.o nº 360.148, Cláudio Luiz Leite Júnior, inscrito na OAB/SP sob 0 nº 311,275,
+na OAB/RI sob o n.º 141.040, Caroline Ramos Santos Moraes, inscrito na OAB/SP
+sob.o nº 360.148, Cláudio Luiz Leite Júnior, inscrito na OAB/SP sob o nº 311,275,
 Diego Vasques dos Santos, Inscrito na OAB/SP sob 0 n.º 239.428, Eduardo
 Aranha Alves Ferreira, OAB/SP sob o nº 356.664, Franciano Sabadim Assis,
-inscrito na OAB/SP sob 0 nº 364.103, Gabriel do Val Santos, inscrito na OAB/SP
-sob 0 nº 267.881, Gabriela Kiapine Silva, inscrita na OAB/SP sob o nº 374.613,
-Guilherme Wanderley Dias Rodrigues, inscrito na OAB/RJ sob q n.º 155.876,
+Inscrito na OAB/SP sob o nº 364.103, Gabriel do Val Santos, inscrito na OAB/SP
+sob 0 nº 267.881, Gabriela Kispine Silva, inscrita na OAB/SP sob o nº 374.613,
+Guilherme Wanderley Dias Rodrigues, inscrito na OAB/RJ sob a n.º 155.876,
 Helena de Oliveira Fausto, inscrita na DAB/SP sob o n.º 105.051, Heloisa
 Papassoni Zangheri, inscrita na OAB/SP sob 0 n.º 327.083, Isabela de Carvalho
 Souza, inscrita na DAB/SP sob o nº 447.565, Jaqueline Brizante Orteney, inscrita
 na OAB/SP sob o nº 308.512, Joana de Menezes Araújo da Cruz, inscrita na
-DAB/R3 sob o nº 165.306, João Pedro de Oliveira Pinheiro, inscrito na OAB/RJ
-sob o n.º 215.194, João Ricardo Rizzo, inscrito na DAB/SP sob 0 n.º 386.338, João
+DAB/R3 sob o nº 165.305, João Pedro de Oliveira Pinheiro, inscrito na OAB/RJ
+sob o n.º 215.194, João Ricardo Rizzo, inscrito na DAB/SP sob 0 n.º 396.338, João
 Vitor de Paiva Muniz Ferreira, inscrito na OAB/SP sob o n.º 448.574, José Luiz
 Pinheiro Lisboa Miranda, inscrito na OAB/SP sob o n.º 375.490, Juliana Abibi
-Soares na Silva, inscrita na DAB/SP sob o n.º 255.912, Laísa Dário Faustino d
+Soares na Silva, inscrita na DAB/SP sob o n.º 299.912, Laisa Dário Faustino di
 
 Moura, inscrita na OAB/SP sob o n.º 217.261, Luis Felipe Cimino Pennacchi|
-inscrito na DAB/SP sob o n.º 305.349, Luiza Bomfim Genoso, inscrita no OAB/SP
-
- 
-
- 
+inscrito na DAB/SP sob o n.º 305.349, Luiza Bomfim Genoso, inscrita na OAB/SP
 
  
 
  
 457.510, Mariana Múller de Albuquerque, inscrita na OAB/RS 99.378, Marina de
-Almeida Santos Dias, inscrita na OAB/SP sob o 1.321.985, Matascha Iazzetta
+Almeida Santos Dias, inscrita na OAB/SP sob o n.º0321.905, Matascha Iazzetta
 Nocker, inscrita na DAB/SP sob o nº 409.319, Otávio Kem Ruaro, inscrito na
-OAB/RS sob o n.º 74.117, Patrícia de Oliveira Boaski, inscrita na OAB/SP sob 9
+OAB/RS sob o n.º 74.117, Patricia de Oliveira Boaski, inscrita na OAB/SP sob 9
 nº 125.390, Patrícia Schoeps da Silva, inscrita na OAB/SP sob 6 n.º 256.753,
 Paula Cristina Travain, inscrita na DAB/SP sob o n.º 169.151, Pedro Romano
-Canizares, inscrito na OAB/SP sob 0 nº 443.600, Rafael Ribeiro Rodrigues,
+Canizares, inscrito na OAB/SP sob o nº 443.600, Rafael Ribeiro Rodrigues,
 inscrito na DAB/SP sob o n.º 297.657, Raíssa Drudi Gomide, inscrita na OAB/SP
-sob o n.º 383.653, Renata Refinetti Guardia, inscrita na OAB/SP sob o nº 300.574,
+sob o n.º 383.663, Renata Refinetti Guardia, inscrita na OAB/SP sob o nº 300.524,
 Ricardo Ribeiro Viana de Queiroz, inscrito na OAB/SP sob o n.º 285.803, Rosane
-Pereira das Santos, inscrita na DaB/5P sob o n.º 159.241, Talita Ramos Araújo
-Dias Barboza, Inscrita na OAB/SP sob n.º 455.202, Thadeu Martins Matos Silva,
-inscrito na OAB/SP sob 0 nº 427.665, Thiago Roberta Muniz Leão Molena, inscrito
+Pereira das Santos, inscrita na DAB/5P sob o n.º 155.241, Talita Ramos Araújo
+Dias Barboza, |nscrita na OAB/SP sob n.º 455.202, Thadeu Martins Matos Silva,
+inscrito na OAB/SP sob o nº 427.665, Thiago Roberta Muniz Leão Molena, inscrito
 na OAB/SP Sob n.º 310.075, Vitor José de Mello Monteiro, inscrito na DAB/SP sab
-o n.º 192.353 & na DAB/RI sob o nº 166.100 e Wadson Veloso Silva, inscrito na
-OAB/SP sob n.º 313.724; afo)s esteotáriato)s Mariana Alves Domingues, Carlos
+o n.º 192.353 e na DAB/RI sob o nº 166.100 e Wadson Veloso Silva, inscrito na
+OAB/SP sob n.º 313.724; afo)s esteotárialo)s Mariana Alves Domingues, Carlos
 Alberto Nunes Junior = Luiza Maia de Mendonça, & primeira devidamente
 inscrita na OAB/SP sob o nº 215.882-E; e, os dois últimos, inscritos na OAB/RJ sab
-as nºs 137,005-E e 219.655-E, respectivamente; e, alojs Acadêmicafo)s de Direito
-Marcello Di Bartholomeu Facchini, Paulo Afonso Cardoso de Castro,
-Geavanna Pedrosa Soares Pereira, Monique Flãr de Souza, Talita de Almeida
-Gonçalves, Renata Maria Pereira Silva « Pedro Gludica Rodrigues, titulares
-das cédulas de Identidade, RG nº 35.094.963-3, RG nº 42,829.199-5, RG nº
-39.668.819-5, RG nº 43.508.305-3, RG nº 50.507.816-8, RG nº 39.301.600-6 e RG
+os nºs 137.005-E e 219.655-E, respectivamente; e, alg)s Acadêmica(o)s de Direito
+Marcello Dl Bartholomeu Facchini, Paulo Afonso Cardoso de Castro,
+Geavanna Pedrosa Soares Pereira, Monique Flôr de Souza, Talita de Almeida
+Gonçalves, Renata Maria Pereira Silva & Pedro Gludice Rodrigues, titulares
+das cédulas de Identidade, RG nº 35.094,963-3, RG nº 42.629.199-5, RG nº
+30,668.819-6, RG nº 43.508.305-3, RG nº 50.507.816-8, RG nº 39.301.500-5 e RG
 nº50.613.409-x, emitidos pela Secretária de Segurança Pública no Estado de São
-Paulo, respectivamente; todos com escritório na Cidade de São Paulo, Estado de 530
+Paulo, respectivamente; todos com escritório na Cidade de São Paulo, Estado de São
 Paulo, na Rua Atlântica, 516, Jardim América, CEP 01440-902, telefones (11) 2106-
-D009/3085-2099/2082-1615, fax (ua) 3064-7341 e e-mail;
-armudaalvimspitarmudaalvim.com.br; na Cidade do Rio de Janeiro, Estado do Rio de
-Janeiro, na Avenida Rio Brenco n.º 01, Conjunto 1.609, Centro, CEP 20050-003; e,
+D009/3085-2099/2082-1615, fax (ua) 3064-7341 e e-mail:
+armudaalvimspiGarmudaalvim.com.br; na Cidade do Rio de Janeiro, Estado do Rio de
+Janeiro, na Avenida Rio Brenco n.º D1, Conjunto 1.609, Centro, CEP 20050-003; e,
 na Cidade de Porto Alegre, Estado do Rio Grande do Sul, na Avenida Praia de Belas
 nº 1212, sala 820, Prala de Belas, CEP 90110-000; integrantes do escritório ARRUDA
 ALVIM & THEREZA ALVIM ADVOCACIA E CONSULTORIA JURÍDICA, registrado na
 OAB/SP sob o nº, 678; ao advogado Guilherme Pimenta da Veiga Neves, inscrito
-na DAB/DF sob 6 nº 14,230, com escritório no SC5 Quadra 07, Bloco A, Salas
-911/815 - Ed. Shopping Pátio Brasil, Brasília - DF, CEP 70307-501, telefone (61)
-3322-5052, e, alnda, aos advogados Marcelo Knoepfelmacher, inscrito na OAB/SP
+na DAB/DF sob o nº 14,230, com escritório no 5C5 Quadra D7, Bloco A, Salas
+911/9815 - Ed. Shopping Pátio Brasil, Brasília - DF, CEP 70307-901, telefone (61)
+3322-5052, é, alnda, aos advogados Marcelo Knospfelmacher, inscrito na OAB/SP
 sob 0 nº 169.050, Felipe Locke Cavalcanti, inscrito na OAB/SP sob O nº 93.501,
 Mariana Figueiredo Paduan, inscrita na OAB/SP sob 0 nº 204.452, e Luiza
 Franarin Spier, inscrita na OAB/RS nº 89.524, todos com esentório na Rua Frei
 Caneca, 1.380, Bº andar, conjunto 82, CEP 01307-002, São Paulo, Capital,
+
+ 
+
+ 
+
+ 
 
 PODERES: representar o outorgante no foro geral, em qualquer juízo, instância ou
 Tribunal, podendo propor contra quem de direito as ações e defendê-io nas
@@ -1432,7 +1456,7 @@ em conjunto ou separadamente, com os poderes da cláusula ad judicia e os especi
 
  
 para substabelecer 0s poderes ora outorgados para outrem, com ou sem reservas de
-poderes iguais & comparecimento em audiências de conciliação para representação
+poderes iguais é comparecimento em audiências de conciliação para representação
 do outorgante, e, especialmente, impetrar mandado de segurança contra ato coator
 do Presidente da Comissão Parlamentar de Inquérito Do Senado Federal - CPI da
 Pandemia (Senador da República Omar Aziz), perante o Supremo Tribunal Federal,
@@ -1443,15 +1467,19 @@ enquanto integrarem os quadros das respectivas sociadades de advogados das quais
 são parte.
 
  
- 
+Aosfasdo aten issjnado” Er
 
-n e
-=htip: fer seshro.gov briassinador-dig
+EDUARDO ARANHA ALVES FERRI
+
+Sa Eutanieidadia pode sor conamania há onniarãr
+“Rtipoivrn serhrogov briassinador digital
+
+   
 
 CPIPANDEMIA
 00743/2021
 
-  
+ 
 
 SENADO FEDERAL
 CPI DA COVID-19
@@ -1461,7 +1489,7 @@ REQUERIMENTO
 
 Senhor Presidente,
 
-Requeiro a Vossa Excelência, nos termos do art. 58, 8 3º, da Constituição Federal,
+Requeiro a Vossa Excelência, nos termos do art. 58, $ 3º, da Constituição Federal,
 combinado com o art. 2º, da Lei nº 1.579/1952, bem como o art. 148 do
 Regimento Interno do Senado Federal, sejam submetidas à deliberação do
 Plenário desta Comissão Parkmentar de Inquérito as seguintes requisições de
@@ -1495,7 +1523,7 @@ CIDADANIA/SE
  
 
 SF/21983.57088-91
-00100.058008/2021-38
+00100.058608/2021-38
 
  
 
@@ -1552,6 +1580,16 @@ Telefone: 455 (81) 3303-3490 sec.cpipandemiaQsenado.leg.br
 
  
 
+arQun
+
+ 
+
+INADO DIGITALMENTE. CÓDIGO DE VER!
+
+ 
+
+ 
+
  
 
  
@@ -1559,13 +1597,20 @@ Telefone: 455 (81) 3303-3490 sec.cpipandemiaQsenado.leg.br
  
 
  
+
+LTE EM
 
  
 
  
 00100.058608/2021-38
 
-  
+   
+
+pos pod er a to
+except
+
+ 
 
 SENADO FEDERAL
 
@@ -1600,15 +1645,11 @@ ARQUIVO ASSINADO
 
  
 
-ALMENTE. O
+MENTE, &
 
  
 
-O DE VERIFICAÇÃO: FF138817009D3250.
-
- 
-
- 
+O DE VERIFICAÇÃO: FF138817008D3250.
 
  
 
@@ -1616,7 +1657,11 @@ O DE VERIFICAÇÃO: FF138817009D3250.
 
  
 
-TE EM hi
+ 
+
+ 
+
+TE EM ht
 
  
 
@@ -1649,7 +1694,7 @@ Requeiro, nos termos do art. 58, 8 3º, da Constituição Federal, do art.
 que sejam prestadas, pelo Senhor Presidente da Vitamedic Indústria Farmacêutica,
 Jailton Batista, informações sobre as vendas de produtos relacionados ao chamado
 
-"kit-covid",
+"kit-covid".
 Nesses termos, requisita-se:
 
 1. Identificar quais dos seguintes medicamentos ou suplementos
@@ -1797,7 +1842,12 @@ requerimento de informações, a fim de que possamos analisar em profundidade,
  
 
 SF/21064.54409-08 (LexEdi
- 
+SU Autapeiandia por sor conremánia a opnarõos
+“Rtipoivrn serhrogov briassinador digital
+
+ 
+
+   
 
 possíveis ganhos indevidos de particulares com a venda de medicamentos
 
@@ -1810,7 +1860,7 @@ em https://apublica.org/2021/04/farmacias-venderam-mais-de-52-milhoes-de-
 comprimidos-do-kit-covid-na-pandemia/.
 
 [2] "com Covid, receita com venda de ivermectina
-salta 1.2722% em um ano". Folha de são Paulo. 30/05/2021.
+salta 1.2722% em um ano". Folha de São Paulo. 30/05/2021.
 Disponível em https://wwwl.folha.uol.com.br/colunas/painelsa/2021/05/venda-
 de-vermifugo-sem-eficacia-contra-covid-tem-faturamento-bilionario.shtml?
 
@@ -1885,13 +1935,13 @@ VICE-PRESIDENTE Senador Randolfe Rodrigues
 RELATOR Senador Renan Calheiros
 Respeitosamente,
 
-/)
+/) /
+fo |
 
-Z /o
-Senador OMAR AZÃZ
-Ereeidoniddá CPI da Pandemia
+Senador AAR AZÃZ
+Presidente/da CPI da Pandemia
 
- 
+[
  
 
 SENADO FEDERAL
@@ -2028,7 +2078,7 @@ Play;
 d.2) telemático, de 2020 até o presente, oficiando-se empresa
 WhatsApp Inc., para que forneça:
 
-« "Usernfo, IP Addresses, Sym Address Book, Account Notes, Full
+« "UserInfo, IP Addresses, Sym Address Book, Account Notes, Full
 Group Memberships e Profile Picture" (dados cadastrais da conta,
 informações do aparelho, versão da APP, data e horário do
 registro, status de conexão, última conexão com data, hora e
@@ -2079,9 +2129,7 @@ JUSTIFICAÇÃO
 
 Laboratórios nacionais de médio porte turbinaram seus negócios em 2020 com
 medicamentos que prometiam, sem base científica, combater a covid-19. A venda do
-vermmífugo ivermectina saltou de R$ 444 milhões em 2019 para R$ 409 milhões no
-
- 
+vermífugo ivermectina saltou de R$ 444 milhões em 2019 para R$ 409 milhões no
 
 SF/21312.80831-80
 ano passado, alta de 829%. No caso da cloroquina e hidroxicloroquina, indicados para
@@ -2090,14 +2138,14 @@ período, segundo levantamento do Sindicato da Indústria de Produtos Farmacêut
 (Sindusfarma), com base nos dados da consultoria IQVIA.
 
 Os dois medicamentos, apelidados de “kit covid” e que tiveram o presidente da
-República, Jair Bolsonaro, como um dos seus principais garotos -propaganda no país,
+República, Jair Bolsonaro, como um dos seus principais garotos-propaganda no país,
 ganharam projeção no início da pandemia como promessas para prevenção do
-coronavírus, mesmo sem eficácia comprovada por autoridades sanitárias. O consumo
+coronaviírus, mesmo sem eficácia comprovada por autoridades sanitárias. O consumo
 desses produtos continuam em alta.
 
 Os picos de venda do ivermectina, que pode ser comprado sem receita médica,
 se concentraram em julho do ano passado, quando atingiram R$ 98 milhões em
-receita, e em dezembro, totalzando R$ 107 milhões. Em unidades, o total
+receita, e em dezembro, totalizando R$ 107 milhões. Em unidades, o total
 comercializado foi de 52,3 milhões de caixas em 2020, salto de 539% sobre 2019. As
 vendas de cloroquina e hidroxicloroquina, com retenção de receita, atingiram 2,02
 milhões de caixas, alta de 110%. Esses dados correspondem somente às vendas
@@ -2112,7 +2160,7 @@ da área de bebidas - a empresa é distribuidora da Coca-Cola em Goiás e Tocant
 Segundo dados da consultoria IQIA, a receita total da empresa (incluindo os
 descontos concedidos no varejo) cresceu 202,9% em 2020, para R$ 421,7 milhões,
 impulsionados pelo ivermectina. A empresa saltou da 66º colocação no ranking em
-receita para 37º posição. Em volume negociado, ficou na 172 posição no ranking.
+receita para 37º posição. Em volume negociado, ficou na 17º posição no ranking.
 
 Além disso, chama atenção o fato de que, após a farmacêutica Merck,
 inventora da ivermectina, afirmar que não existem dados para apontar a eficácia da
@@ -2145,14 +2193,12 @@ aliás, que foi proibido pela Agência Nacional de Vigilância Sanitária (Anvis
 fabricar, distribuir e vender vários medicamentos, entre eles a ivermectina. Segundo
 
  
-Assado dllaimento por”
+Aosfasdo aten issjnado” Er
 
-  
+EDUARDO ARANHA ALVES FERREIRA.
 
-JUARDO ARA
-
-is aUESA er pe anã
-“tip ofunav Serpro. gov briassimsdor dig
+SU Autapeiandia por sor conremánia a opnarõos
+“Rtipoivrn serhrogov briassinador digital
 
     
 
@@ -2168,12 +2214,12 @@ com o Presidente da República e o Ministério da Saúde, sobretudo no tocante a
 aparente patrocínio administrativo de interesses não republicanos. Conto com o apoio
 dos nobres Pares desse colegiado.
 
+ 
+
 Sala da Comissão,
 
 Senador RANDOLFE RODRIGUES
 REDE/AP
-
- 
 
 SF/21312.80831-80
 00100.060408/2021-22-1 (ANEXO: 001)
@@ -2220,7 +2266,7 @@ ARQUIVO ASSINADO DIGITALMENTE.
  
 
  
-Instruções de impressão
+Instruções de Impressão
 Imprimir em impressora jato de tinta (ink jet) ou laser em qualidade normal. (Não use modo econômico),
 Utilize folha A4 (210 x 297 mm) ou Carta (216 x 279 mm) - Corte na linha indicada
 Caso não apareça os Códigos de Barra no fim do boleto, clique em FS do seu teclado.
@@ -2253,22 +2299,22 @@ Recibo do pagador
 
  
 
-SUPRLHHO TRTAUNAA PEORRAS 001 -9] 00190.00009 02941.663003 00310.861174 2 86840000022379
+SUPRLHHO TRIBUNAL PEQERAS 001 -9] 00190.00009 02941.663003 00310.861174 2 86840000022379
 | Beneficiário | AgêncialCód. Beneficiário | Espécie | Qtde. — | Nosso número
 
-Supremo Tribunal Federal [ 4200-5 / 00333203-9 les | | | 29416630000310861-5
+Supremo Tribunal Federal | 4200-5 / 00333203-9 les | | | 29416630000310861-5
 
 Endereço
 
 Praça dos Três Poderes, Brasília - DF, 70175-900
 
-Número do documento CPFÍCNPJ Vencimento Valor documento
+Número do documento CPFICNPJ Vencimento Valor documento
 
-1156484 00.531.640/0001-28. Aziorizoz1 223,79
+1156484 00.531.640/0001-28. Azorizoz1 223,79
 
-() Desconto /Abalimento | () Outras deduções (*) Mora 7 Multa (+) Outros acréscimos — | (=) Valor cobrado
+() Desconto /Abalimento | () Outras deduções (*) Mora 7 Muita (+) Outros acréscimos — | (=) Valor cobrado
 
-verei] en eme orem 223,79
+verei en eme eme 223,79
 
 Pagador
 
@@ -2284,10 +2330,11 @@ Alto de Pinheir / São Paulo / SP - 05467030
 
  
 
-instruções
-Governo Federal - Guia de Recolhimento da União - GRU Cobrança
-Mandado de Segurança Foltos de Sompetência Originária a SL
-Código de controle para reimpressão: 1156484 Ea dd a a
+Instruções —
+GONE Eder! - Gula de Recolhimento da União - GRU Cobrança ET
+
+Sacos doca: ae Comp oa ensaio
+Gódigo de controle para reimpressão: 1156484 Rosana Sa Br bigos dies durcdrgtsto
 Após o vencimento, esta GRU é automaticamente cancelada.
 
 Emita uma nova no site do STF - wwn.stfjus.br.
@@ -2295,11 +2342,10 @@ Emita uma nova no site do STF - wwn.stfjus.br.
 A GRU foi emitida com base nos dados informados pelo usuário e nos valores constantes da vigente
 
 tabela de custas.
-É de responsabi
 
-   
+É de respons
 
- 
+  
 
  
 
@@ -2307,18 +2353,10 @@ idade do usuário o eventual pagamento a menor do valor da guia. Autenticação 
 
  
 
- 
-
 Corte na linha pontilhada
 
  
 
-“FPB (001.9)
-
-SUPALMO TRISUHAL PEGERAS
-
-00190.00009 02941.663003 00310.861174 2 86840000022379
-
  
 
  
@@ -2349,51 +2387,48 @@ SUPALMO TRISUHAL PEGERAS
 
  
 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+esmaga ]001-9] 00190.00009 02941.663003 00310.861174 2 86840000022379
 Local de pagamento Vencimento
 PAGÁVEL EM QUALQUER AGÊNCIA BANCÁRIA, ATÉ O VENCIMENTO. 17/07/2021
-Beneficiário CPF/CNPJ AgêncialGódigo beneficiário
+Beneficiário CPFICNP) AgêncialCódigo beneficiário
 Supremo Tribunal Federal 00.531.640/0001-28. 4200-5 / 00333203-9
 Endereço
 Praça dos Três Poderes, Brasília - DF, 70175-900
 Data do documento No documento Espécie doc. | Aceite | Data process. | Nosso número
 17/06/2021 1156484 RC N 47/06/2021 29416630000310861-5
 Uso do banco Carteira Espécie | Quantidade Valor Doc. (5) Valor documento
-
 17 R$ 223,79
-Instruções () Desconto / Abatimentos
+instruções () Desconto / Abalimentos
 Governo Federal - Guia de Recolhimento da União - GRU Cobrança rem
-Recolhimeto de custas: Feitos de Competência Originária HS Suas dana ———
-Mandado de Segurança P o tj Outras deduções ra
+Recolhimeto de custas: Feitos de Competência Originária HS Suas dando ———
+Mandado de Segurança P () Outras deduções ema
 Código de controle para reimpressão: 1156484
-Após o vencimento, esta GRU é automaticamente cancelada. (+) Mora / Multa
+Após o vencimento, esta GRU é automaticamente cancelada. Mora / Multa
 Emita uma nova no site do STF - www.stfjus.br. mem
-A GRU foi emitida com base nos dados informados pelo usuário e nos valores constantes da (E) Ouros acréscimos
-
-vigente tabela de custas. ma
-É de responsabilidade do usuário o eventual pagamento a menor do valor da guia. ES arosbado——
-
- 
-
-(5) Valor cobrado
-
- 
-
- 
-
+A GRU foi emitida com base nos dados informados pelo usuário e nos valores constantes da (8) Ouros acréscimos
+vigente tabela de custas. mem
+É de responsabilidade do usuário o eventual pagamento a menor do valor da guia. O Var cobado
+223,79
 Nome do Pagador/CPF/CNPJ/Endereço
 José Alves Filho
-
 CPF: 18660312872
-
 Rua Oquirá
-
-Alto de Pinheir / São Paulo / SP - 05467030 Cód. baixa,
-
+Alto de Pinheir / São Paulo / SP - 05467030 Cód. baixa
 Pagador Autenticação mecânica - Ficha de Compensação
-
-  
-
- 
 
  
 
@@ -2402,15 +2437,11 @@ Pagador Autenticação mecânica - Ficha de Compensação
  
 
 Corte na linha pontilhada
-
- 
-4004-3535 (E;
-
-EU dee Talce pes]
+«ab Santander
 
  
 
-Pagamento realizado com
+7» Pagamento realizado com
 sucesso!
 
 Forma de pagamento:
@@ -2424,30 +2455,32 @@ Código de barras:
 
 Data de Vencimento:
 19/07/2021
-Pagamento:
+Pagamento
 17/06/2021
 
 Banco;
 
 Banco Do Brasil Sa
-valor nominal:
-R$223,78
-Encargos:
 
-R$ 0,00
+valor nominal:
+
+R$ 22379
+
+ 
 
 Descontos:
-
 R$ 0,00
 
-Valor Pago:
+a ago,
 R$ 223,79
-Nome do Ben
+Nome do
 Supremo Tribunal Federal
 
  
 
-ário:
+ 
+
+eneficlário:
 
 Documento do Beneficiário:
 000531640000128
@@ -2459,41 +2492,30 @@ Eduardo Aranha Alves Ferreira
  
 
 Documento da pagador fi
+
 404.085.988-08
-
 Data da transação
-17/06/2021 - 121
 
-Autenticação banc
+17/06/2021 - 12:11
+Autenticação bane
 
-MBBSSIZABABDFCOSA 2574BB
+MBB3513A84BDFCC532574BB
 
    
 
-Pagar outra conta )
+es
+
+( Pagar outra conta )
 
 Central de Atendimento Santander
 
  
 
-itais e Regiõe:
-0800-702-3535 (Demai
-SAC 0800-762
-Ouvidoria 0500-726-03º
-
 tropolitanas)
 
-   
- 
- 
+  
 
- 
-
-Localidades)
-
- 
-
- 
+Jades)
 É de responsabilidade do advogado ou procurador o correto preenchimento dos
 requisitos formais previstos no art. 9º, incisos | a IV, da Resolução 427/2010 do STF, sob
 pena de rejeição preliminar, bem como a consequente impossibilidade de distribuição do
@@ -2649,7 +2671,7 @@ Coordenadoria de Processamento Inicial
 (documento eletrônico)
 
 Certidão gerada em 21/06/2021 às 16:53:21.
-Esta certidão pode ser validada em https://www.stfjus.br/portal'autenticacao/autenticarDocumento.asp com o seguinte código PZMOZ9304Y
+Esta certidão pode ser validada em https://www.stfjus.br/portal/autenticacao/autenticarDocumento.asp com o seguinte código PZMOZ9304Y
 
  
  
@@ -2759,15 +2781,13 @@ Brasília, 18 de junho de 2021
 Coordenadoria de Processamento Inicial
 
 Certidão gerada em 18/06/2021 às 16:13:00.
-Esta certidão pode ser validada em https://www.stfjus.br/portal'autenticacao/autenticarDocumento.asp com o seguinte código NNMG94BJLO
+Esta certidão pode ser validada em https://www.stfjus.br/portal/autenticacao/autenticarDocumento.asp com o seguinte código NNMG948JLQ
 
  
 (documento eletrônico)
 
 Certidão gerada em 18/06/2021 às 16:13:00.
-Esta certidão pode ser validada em https://www.stfjus.br/portal'autenticacao/autenticarDocumento.asp com o seguinte código NNMG948JLQ
-
- 
+Esta certidão pode ser validada em https://www.stfjus.br/portal/autenticacao/autenticarDocumento.asp com o seguinte código NNUG948JLQ
 MEDIDA CAUTELAR EM MANDADO DE SEGURANÇA 37.996 DISTRITO
 
 FEDERAL
@@ -2776,20 +2796,20 @@ RELATOR : MIN. RICARDO LEWANDOWSKI
 
 IMPTE.(s) :JOsE ALVES FILHO
 
-ADV.(A/S) : JOSE MANOEL DE ARRUDA ALVIM NETTO
+ADV.(A/s) : JOSE MANOEL DE ARRUDA ALVIM NETTO
 
-ADV.(A/S) : EDUARDO PELLEGRINI DE ARRUDA ALVIM
+ADV.(A/s) : EDUARDO PELLEGRINI DE ARRUDA ALVIM
 
-ADV.(A/S) : FELIPE LOCKE CAVALCANTI
+ADV.(A/s) : FELIPE LOCKE CAVALCANTI
 
-IMPDO.(A/5) : PRESIDENTE DA COMISSÃO PARLAMENTAR DE
+IMPDO.(A/S) : PRESIDENTE DA COMISSÃO PARLAMENTAR DE
 INQUÉRITO DO SENADO FEDERAL CPI DA
 PANDEMIA
 
-ADV.(A/S) :SEM REPRESENTAÇÃO NOS AUTOS
+ADV.(A/s) :SEM REPRESENTAÇÃO NOS AUTOS
 
 Declaro minha suspeição para a apreciação deste feito, por motivo
-de foro íntimo, nos termos do $& 1º do art. 145 do Código de Processo
+de foro íntimo, nos termos do $ 1º do art. 145 do Código de Processo
 Civil. Remetam-se os autos, com urgência, à Presidência para
 redistribuição.
 
@@ -2800,19 +2820,19 @@ Ministro Ricardo Lewandowski
 Relator
 
 Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
-http:/Avww.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 69E4-A2 14-7586-1 E25 e senha DB6E-B6CD-BEE7-032E
+http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 69E4-A2 14-7586-1 E25 e senha DB6E-B6CD-BEE7-032E
 MEDIDA CAUTELAR EM MANDADO DE SEGURANÇA 37.996 DISTRITO
 
 FEDERAL
 RELATORA : MIN. ROSA WEBER
-IMPTE.(s) :JOsE ALVES FILHO
-ADV.(A/S) : JOSE MANOEL DE ARRUDA ALVIM NETTO
-ADV.(A/S) : EDUARDO PELLEGRINI DE ARRUDA ALVIM
-ADV.(A/S) : FELIPE LOCKE CAVALCANTI
-IMPDO.(A/5) : PRESIDENTE DA COMISSÃO PARLAMENTAR DE
+IMPTE.(s) :JosE ALVES FILHO
+ADV.(A/s) : JOSE MANOEL DE ARRUDA ALVIM NETTO
+ADV.(A/s) : EDUARDO PELLEGRINI DE ARRUDA ALVIM
+ADV.(A/s) : FELIPE LOCKE CAVALCANTI
+IMPDO.(A/S) : PRESIDENTE DA COMISSÃO PARLAMENTAR DE
 INQUÉRITO DO SENADO FEDERAL CPI DA
 PANDEMIA
-ADV.(A/S) :SEM REPRESENTAÇÃO NOS AUTOS
+ADV.(A/s) :SEM REPRESENTAÇÃO NOS AUTOS
 MANDADO DE SEGURANÇA. COMISSÃO
 PARLAMENTAR DE INQUÉRITO. QUEBRA DE
 SIGILOS. PEDIDO DE INFORMAÇÕES.
@@ -2840,41 +2860,42 @@ manifesta a desproporcionalidade e a irrazoabilidade das medidas.
 3. Deduzidos os seguintes pedidos:
 
 Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
-http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AS9D-F427-D90C-FOF2 e senha 964E-AGEB-DOAS-D6C6
+http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AS9D-F427-D90C-FOF2 e senha 964E-AGEB-DOAS-DBC6
 MS 37996 MC / DF
 
 (i) em liminar, a suspensão da eficácia do ato tido como
-coator
 
+coator
 e (ii) no mérito, a concessão da ordem, para o fim de se
+
 reconhecer a ilegalidade do ato que determinou a quebra dos sigilos
 bancário, fiscal, telefônico e telemático do Impetrante, cassando-o.
 
 4. Declarada suspeição pelo Ministro Ricardo Lewandowski, relator
 originário do feito, os autos foram a mim distribuído livremente.
-
 5. Autos conclusos em meu gabinete em 21.6.2021, às 16h53min.
 
 É o relatório.
-
 Notifique-se a autoridade impetrada para que preste informações no
-prazo de 48 (quarenta e oito) horas, como medida prévia ao exame da
-liminar.
 
+prazo de 48 (quarenta e oito) horas, como medida prévia ao exame da
+
+liminar.
 Cientifique-se a União, por seu órgão de representação judicial, a fim
+
 de que, querendo, ingresse no feito (art. 7º, II, da Lei nº 12.016/2009).
 
 Publique-se.
-
 Brasília, 21 de junho de 2021.
 
 Ministra Rosa Weber
 Relatora
 
 Documento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
-http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AS9D-F427-D90C-FOF2 e senha 964E-AGEB-DOAS-D6C6
+http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AS9D-F427-D90C-FOF2 e senha 964E-AGEB-DOAS-DBC6
  
 
+Sapromo Tribunal Federal
 Ofício eletrônico nº 9013/2021
 Brasília, 22 de junho de 2021.
 A Sua Excelência o Senhor
@@ -2884,7 +2905,7 @@ Presidente da Comissão Parlamentar de Inquérito do Senado Federal - CPI da Pan
 
 Medida Cautelar Em Mandado de Segurança nº 37996
 
-IMPTE.(S) : JOSE ALVES FILHO
+IMPTE(S) : JOSE ALVES FILHO
 
 ADV.(A/S) : JOSE MANOEL DE ARRUDA ALVIM NETTO (40994/DF, 26258-A/PA,
 2605-A/RJ, 12363/SP)
@@ -2915,7 +2936,6 @@ CEP 70175-900).
 Atenciosamente,
 
 Ministra ROSA WEBER
-
 Relatora
 Documento assinado digitalmente
 
@@ -2925,14 +2945,14 @@ http:/Avww..stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código
 
 FEDERAL
 RELATORA : MIN. ROSA WEBER
-IMPTE.(s) :JOsE ALVES FILHO
-ADV.(A/S) : JOSE MANOEL DE ARRUDA ALVIM NETTO
-ADV.(A/S) : EDUARDO PELLEGRINI DE ARRUDA ALVIM
-ADV.(A/S) : FELIPE LOCKE CAVALCANTI
-IMPDO.(A/5) : PRESIDENTE DA COMISSÃO PARLAMENTAR DE
+IMPTE.(s) :JosE ALVES FILHO
+ADV.(A/s) : JOSE MANOEL DE ARRUDA ALVIM NETTO
+ADV.(A/s) : EDUARDO PELLEGRINI DE ARRUDA ALVIM
+ADV.(A/s) : FELIPE LOCKE CAVALCANTI
+IMPDO.(A/S) : PRESIDENTE DA COMISSÃO PARLAMENTAR DE
 INQUÉRITO DO SENADO FEDERAL CPI DA
 PANDEMIA
-ADV.(A/S) :SEM REPRESENTAÇÃO NOS AUTOS
+ADV.(A/s) :SEM REPRESENTAÇÃO NOS AUTOS
 DESPACHO
 
 Verifico que o órgão coator absteve-se de prestar as informações
@@ -2962,7 +2982,7 @@ ADVOGADOS
 
  
 
-EXCELENTÍSSIMO SENHOR MINISTRO RELATOR, DOUTOR RICARDO LEW ANDO WSKI, DO
+EXCELENTÍSSIMO SENHOR MINISTRO RELATOR, DOUTOR RICARDO LEWANDOWSKI, DO
 
 EXCELSO SUPREMO TRIBUNAL FEDERAL.
 
@@ -2978,7 +2998,7 @@ Termos em que, pede deferimento.
 
 De São Paulo para Brasília, 21 de junho de 2021
 
-ARRUDA ÁLVIM EDUARDO ARRUDA ÁLVIM
+ARRUDA ÁALVIM EDUARDO ARRUDA ÁLVIM
 OAB/SP 12.363 OAB/SP 118.685
 FERNANDO CRESPO QUEIROZ NEVES FELIPE LOCKE CAVALCANTI
 OAB/SP 138.094 OAB/SP 93.501
@@ -3033,8 +3053,8 @@ demonstrado, especialmente quando estiver a envolver pessoas privadas ou
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -3091,8 +3111,8 @@ que torna nulo o ato requisitório.
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -3134,8 +3154,8 @@ prevenção e combate à Pandemia da Covid-19, e excluindo as
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -3176,8 +3196,8 @@ Tribunal Federal pelo Consulente.
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -3220,8 +3240,8 @@ nacional e estrangeira, já tive a oportunidade de também registrar explicitar 
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -3232,7 +3252,7 @@ se nas finalidades da própria entidade na qual se alberga e da qual não passa 
 derivação orgânico-institucional. Daí a ideia de que a CPI não é um fim em si mesma,
 mas um meio de alcançar fim maior, o desempenho, pelo Parlamento, de sua
 
-função”!
+função.”!.
 
 Como observa NUNO PIÇARRA, em obra que tenho
 considerado como referência sobre o tema, assume-se uma multifuncionalidade do
@@ -3262,8 +3282,8 @@ significa uma resposta parlamentar para a sociedade, que se dá com a investiga�
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -3275,7 +3295,7 @@ já ceifou a vida de mais de meio milhão de brasileiros”.
 
 Apesar de ser uma possibilidade constitucional
 conferida ao Parlamento, toda e qualquer CPI se encontra adstrita aos limites
-consentidos pela Constituição do Brasil —- CB, sendo certo que seus atos devem
+consentidos pela Constituição do Brasil — CB, sendo certo que seus atos devem
 
 respeitar as condicionantes formais e materiais em vigor.
 
@@ -3297,8 +3317,6 @@ ou de habeas corpus, ao controle jurisdicional originário do Supremo
 Tribunal Federal” (STF, Tribunal Pleno, MS 23.452, rel. Min. Celso
 de Mello, j. 16/09/1999).
 
- 
-
 Ademais, no caso concreto deste estudo, estamos
 diante de atos que, inequivocamente, extrapolam uma “questão meramente interna
 corporis”, que pudesse ficar adstrita aos critérios próprios da Casa legislativa. Ao
@@ -3306,14 +3324,14 @@ corporis”, que pudesse ficar adstrita aos critérios próprios da Casa legisla
 extravasar os lindes do Parlamento para alcançar e atingir diretamente cidadãos em
 
 3 Exatamente 501.825 óbitos acumulados e registrados até o dia 21 de junho de 2021, cf. dados oficiais do
-Brasil <https://gsprod.saude.gov br/extensions/covid-19. html/covid-19 html.html>.
+Brasil <https://gsprod.saude.gov br/extensions/covid-19. html/covid-19. html.html>.
 
  
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -3341,7 +3359,7 @@ exatamente para saber se existe conformidade constitucional desse Ato, de sua
 
 fundamentação e objetivos, com os limites constitucionais em vigor.
 
-IH. CPI E EXPOSIÇÃO PÚBLICA
+IH. CPIE EXPOSIÇÃO PÚBLICA
 
 Em entrevista coletiva” concedida em 18.06.2021, o
 Senador Humberto Costa (PT-PE), ao lado do Senador Randolfe Rodrigues
@@ -3358,15 +3376,15 @@ coletiva>.
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
  
 
 não é como uma novela, que todo dia tem uma emoção diferente, e termina com
-aquele suspense pata o dia seguinte, não! [...]"*. A CPI tem o seu tempo e suas tarefas
+aquele suspense para o dia seguinte, não! [...]"*. A CPI tem o seu tempo e suas tarefas
 internas, de reflexão e de análise dos documentos e estratégias a adotar. Certamente
 não é o caso de criar algum suspense a cada dia de depoimentos, para cativar a
 atenção e manter o interesse do público em geral, posto que qualquer CPI que se
@@ -3407,8 +3425,8 @@ processo eleitoral brasileiro).
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -3432,11 +3450,11 @@ que viola frontalmente os limites próprios da CPIS.
 em sua prestigiada obra Constitucional Law:
 
 “Ainda assim, não existe poder algum para expor atividades dos
-indivíduos apenas pelo amor da exposição, sem qualquer justificativ:
+indivíduos apenas pelo amor da exposição, sem qualquer justificativa
 em termos de funções do Congresso; não é função do Congresso
 conduzir shows legislativos nesses julgamentos” (tradução livre)º.
 
-   
+ 
 
 Sobre este importante tema pronunciou-se também o
 STF, sensível ao alcance de certos atos, acentuando, com elevado caráter pedagógico,
@@ -3457,8 +3475,8 @@ WestLaw, 2000, p. 274. Cf., ainda, no mesmo sentido, meu Curso de Direito Consti
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 10
 ANDRÉ RAMOS TAVARES
@@ -3474,8 +3492,10 @@ aos parâmetros brasileiros, é relevante recordar o caso Watkins v. United Stat
 WARREN. Nele, a Corte assim deliberou:
 
 “sem nenhuma dúvida não existe poder ao Congresso para expor pelo
-amor da exposição. [...] onde o resultado predominante só pode ser a
+. [...] onde o resultado predominante só pode ser a
 invasão dos direitos privados dos indivíduos.” (tradução livre)
+
+  
 
 Não se pode transformar a CPI em peça a serviço da
 audiência brasileira. É justamente essa a razão pela qual cumpre impedir a confusão
@@ -3508,8 +3528,8 @@ fundamentais para aqueles que vierem a ser envolvidos em uma CPI, o que decorre
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 11
 ANDRÉ RAMOS TAVARES
@@ -3545,8 +3565,6 @@ controle jurisdicional dos atos em referência (CF, art. 5º, XXXV)”
 (STF, Tribunal Pleno, MS 23.652/DF, rel. Min. Celso de Mello, j.
 22/11/2000)
 
- 
-
 É necessário identificar e expor fatos e especificar suas
 circunstâncias para o Consulente, no sentido de demonstrar o liame da investigação
 em curso na CPI com as pessoas ou os fatos inseridos em Requerimento específico
@@ -3557,8 +3575,8 @@ da CPI para fins de quebra de sigilos.
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 12
 ANDRÉ RAMOS TAVARES
@@ -3606,8 +3624,8 @@ Poder Judiciário. E certo que, mesmo no desempenho de suas funções primárias
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 13
 ANDRÉ RAMOS TAVARES
@@ -3634,7 +3652,7 @@ judiciais”. Todo o poder atribuído constitucionalmente vem com as corresponde
 
 responsabilidades e deveres.
 
-O STF apresenta jurisprudência pacífica!! no sentido
+O STF apresenta jurisprudência pacífica"! no sentido
 de que os poderes da CPI se encontram submetidos a condicionantes e que, no caso,
 aplica-se a exigência de fundamentação que alcança os magistrados em geral, quando
 do exercício de poderes investigatórios. Assim, dentre outros elementos, é
@@ -3647,14 +3665,14 @@ Esse ponto que estou sublinhando, aqui, poderia ser
 
 questionado em face de entendimento recentemente exposto pelo Min. Lewandowski:
 
-H CE MS 23.639-6, Rel. Min. Celso de Melllo, DJU de 25.02.2000.
+H CF MS 23.639-6, Rel. Min. Celso de Melllo, DJU de 25.02.2000.
 
  
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 14
 ANDRÉ RAMOS TAVARES
@@ -3678,7 +3696,7 @@ quanto à quebra de sigilo [...] não ganha contornos equiparáveis à dos
 atos órgãos investidos do ofício judicante.” (STF, Tribunal Pleno, MS
 24.749/DF, rel. Min. Marco Aurélio, trecho da Ementa, j. 29/09/2004)
 
-E preciso, porém, compreender os exatos termos
+É preciso, porém, compreender os exatos termos
 colocados nesses casos. Não está em discussão se é necessária fundamentação. Esta é
 sempre imprescindível, e é isso que constitui o entendimento pacífico do STF ao qual
 
@@ -3703,8 +3721,8 @@ guardar relação de pertinência com os fatos investigados. Precisa,
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 15
 ANDRÉ RAMOS TAVARES
@@ -3745,8 +3763,6 @@ forma a atrair sobre si o ôÔnus decorrente da investigação,
 individualização de condutas a serem investigadas, indícios que tenha
 praticado quaisquer condutas ilícitas ou demonstração objetiva de que
 
-   
-
 !2 Não interessa a este estudo avançar sobre eventuais pontos divergentes das decisões monocráticas já
 proferidas, tema que, eventualmente, será encaminhado para solução no Plenário da Corte.
 
@@ -3754,8 +3770,8 @@ proferidas, tema que, eventualmente, será encaminhado para solução no Plenár
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 16
 ANDRÉ RAMOS TAVARES
@@ -3780,7 +3796,6 @@ necessária para se alcançar o patamar de “causa mínima”:
 “[...] Depoimento do impetrante e acareação com testemunha que o
 acusara de receptador. Coincidência com declarações de outra
 testemunha. Relatório da Polícia Federal. Causa provável
-
 ensejadora da quebra dos sigilos fiscal, bancário e telefônico.” (STF,
 Tribunal Pleno, MS 24.217/DF, rel. Min. Maurício Correa, j.
 28/02/2002, original não grifado)
@@ -3802,8 +3817,8 @@ sigilo completo:
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 17
 ANDRÉ RAMOS TAVARES
@@ -3813,7 +3828,7 @@ Professor Titular da Faculdade de Direito da USP
 
 “Em consonância com essa orientação, o requerimento de quaisquer
 providências investigatórias no âmbito das Comissões deve: (1)
-individualizar as condutas a serem apuradas; (ii) apresentar os indícios
+ar as condutas a serem apuradas; (ii) apresentar os indícios
 de autoria; (iii) explicitar a utilidade das medidas para a caracterização
 das infrações; e (iv) delimitar os dados e informações buscados. Isso
 porque somente um pedido formulado nesses termos permitirá ao
@@ -3821,7 +3836,7 @@ porque somente um pedido formulado nesses termos permitirá ao
 de direito postuladas.” (MS 37.972-MC/DF, trecho da decisão
 monocrática, de 12/06/2021)
 
- 
+   
 
 É consequência direta dessa exigência constitucional o
 não admitir as pseudomotivações, como invocar atos lícitos (sim, insisto no ponto
@@ -3850,8 +3865,8 @@ da impessoalidade e da institucionalidade do Congresso Nacional.
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 18
 ANDRÉ RAMOS TAVARES
@@ -3896,8 +3911,8 @@ esse propósito, vale conferir a posição do Min. Luís Roberto Barroso:
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 19
 ANDRÉ RAMOS TAVARES
@@ -3909,10 +3924,12 @@ Professor Titular da Faculdade de Direito da USP
 para fins de investigação ou instrução probatória. Não se aponta em
 que medida o acesso ao conteúdo de conversas privadas dos
 impetrantes, a seus arquivos de foto, áudio e vídeo, seus históricos de
-pesquisa, suas informações de localização e suas atividades em redes
+s informações de localização e suas atividades em redes
 sociais teria utilidade para a verificação das ações e omissões de
 autoridades do Governo Federal no enfrentamento à pandemia.”
 (MS 37.972-MC/DF, trecho da decisão monocrática, de 12/06/2021)
+
+  
 
 Um último ponto mencionado pelo Min. Luís Roberto
 Barroso diz respeito à necessidade da delimitação dos dados e informações buscados.
@@ -3941,10 +3958,10 @@ positivados em nossa Constituição.
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
-20)
+20
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -3986,17 +4003,19 @@ primário que justifica a CPI.
 “A chave de leitura, nesse tema, pois, é a seguinte: os negócios
 privados encontram-se absolutamente vedados a qualquer CPL.”!3
 
+ 
+
 É também a lição que se colhe da obra do Min. Roberto
 
-TAVARES, André Ramos. Curso de Direito Constitucional, 19. ed., p. 1022-3
+!5TAVARES, André Ramos. Curso de Direito Constitucional, 19. ed., p. 1022-3
 
  
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
 
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 21
 ANDRÉ RAMOS TAVARES
@@ -4012,8 +4031,12 @@ pacífico do Supremo Tribunal Federal” (BARROSO, Luís Roberto.
 Comissões Parlamentares de Inquérito e suas Competências: política,
 direito e devido processo legal. Revista Eletrônica sobre a Reforma do
 Estado (RERE). Salvador: Instituto Brasileiro de Direito Público, nº
-12, —dez./jan./fev. 2008, p. 5. Disponível em: <
-http://www .direitodoestado.com.br/rere.asp>. Acesso em: 18.06.2021)
+12, dez./jan./fev. 2008, p. 5. Disponível em: <
+http://www direitodoestado.com.br/rere.asp>. Acesso em: 18.06.2021)
+
+ 
+
+ 
 
 Essas observações, porém, não devem ser
 compreendidas como constituindo um bloqueio absoluto à possibilidade de as
@@ -4041,10 +4064,10 @@ relacionam a direitos fundamentais.
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
-292
+22
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -4085,8 +4108,8 @@ estivessem a justificar a investigação sobre seus negócios privados. Também 
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 23
 ANDRÉ RAMOS TAVARES
@@ -4131,8 +4154,8 @@ licitações, superfaturamentos, desvio de recursos públicos, assinatura de con
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 24
 ANDRÉ RAMOS TAVARES
@@ -4178,10 +4201,10 @@ mencionada no Requerimento, já que simplesmente inexistiam vacinas.
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
-VAN
+25
 ANDRÉ RAMOS TAVARES
 Professor Titular da Faculdade de Direito da USP
 
@@ -4196,9 +4219,9 @@ mínimo negligente”, e, em data mais recente, afirmou, ainda, que “Nesta CPI
 
 encontramos 81 e-mails da farmacêutica [...] ao Ministério da Saúde, 90% dessas
 
-correspondências sem resposta”!6,
+16, O que se investiga, como vimos, é a consequência
 
-. O que se investiga, como vimos, é a consequência
+correspondências sem resposta
 atual de certas atitudes passadas do Governo Federal no combate da pandemia. E para
 isso, as ações e omissões do passado certamente interessam na medida em que podem
 ter impactado o presente e o futuro da nação. Mas não é possível estabelecer qualquer
@@ -4223,7 +4246,7 @@ fizeram presentes naquele Requerimento:
 integrantes da Comissão, ter concorrido, ao menos em tese, para
 
 5º cr entrevista concedida à — emissora de TV CNN-Brasil, em 13/05/2021:
-<https://www.ennbrasil.com.br/politica/2021/05/14/a-cnn-randolfe-afirma-que-governo-foi-negligente-na-
+<https:/Awww.ennbrasil.com.br/politica/2021/05/14/a-cnn-randolfe-afirma-que-governo-foi-negligente-na-
 compra-de-vacinas>
 
 I6 Cf a mesma entrevista coletiva já referida, concedida no Senado Federal:
@@ -4234,8 +4257,8 @@ coletiva>.
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 26
 ANDRÉ RAMOS TAVARES
@@ -4248,8 +4271,6 @@ ao enfrentamento da pandemia, nos moldes daquelas recomendadas
 pelas autoridades sanitárias nacionais e internacionais, contribuindo,
 assim, para o seu agravamento.” (MS 37.978-MC/DF, trecho da
 decisão do Min. Ricardo Lewandowski)
-
- 
 
 Assim, a procura por medicamentos, cuja comprovação
 de eficácia específica inexistia naquele primeiro momento, mas que chegaram mesmo
@@ -4285,8 +4306,8 @@ de que é sócio, em face dos fatos atribuídos a estes, nesse mesmo Requeriment
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 27
 ANDRÉ RAMOS TAVARES
@@ -4334,8 +4355,8 @@ Ocorre que esses fatos só poderiam ser admitidos como justificativa caso a
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 28
 ANDRÉ RAMOS TAVARES
@@ -4384,8 +4405,8 @@ quebra de sigilos constitucionais.
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 29
 ANDRÉ RAMOS TAVARES
@@ -4402,25 +4423,21 @@ Federal no combate à covid-19 direcionada especificamente para beneficiar a
 
 empresa.
 
-E o meu parecer.
+E omeu parecer.
 
 São Paulo, 21 de junho de 2021
 
-j
-Ls Ho e
+alo Hr
 
 Professor ANDRÉ RAMOS TAVARES
-
- 
-
 OAB/SP 132.765
 
  
 
 ANDRÉ RAMOS TAVARES CONSULTORIA JURÍDICA
 Av. Brasil, 2069 = Jd. América - Cep: 01431-001 = São Paulo/SP/Brasil
-Tels. (+55 11) 3062 0004-2533 1147/8
-wavw artconsult.adv.br = email: artdartconsult.adv.br
+Tels. (+55 11) 3062 0004 2533 1147/8
+www artconsult.adv.br = email: artdartconsult.adv.br
 
 30
  

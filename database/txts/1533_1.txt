@@ -1,4 +1,4 @@
-00100.042018/2021-51
+00100.042618/2021-51
 
  
 
@@ -66,7 +66,7 @@ Telefone: 455 (61) 3303-3490 sec.cpipandemiaQ senado leg.br
  
 
  
-CPIPÂNDEMIA
+CPIPÂANDEMIA
 00302/2021
 
  
@@ -79,7 +79,7 @@ REQUERIMENTO
 
 Senhor Presidente,
 
-Requeiro a Vossa Excelência, nos termos do art. 58, $ 3º, da Constituição
+Requeiro a Vossa Excelência, nos termos do art. 58, 8 3º, da Constituição
 Federal, combinado com o art. 2º, da Leinº 1.579/1952, bem como o art. 148 do
 Regimento Interno do Senado Federal sejam submetidas à deliberação do
 Plenário desta Comissão Parkmentar de Inquérito as seguintes requisições de
@@ -129,8 +129,8 @@ j. valor das despesas individualizadas;
 k. Indicar a modalidade de licitação em cada uma das contratações
 realizadas.
 
-4.A indicação do (s) responsável (is) pel concepção e desenvolvimento do
-aplicativo TrateCOV, bem como dos especialistas consultados para a
+4.A indicação do (s) responsável (is) pela concepção e desenvolvimento do
+aplcativo TrateCOV, bem como dos especialistas consultados para a
 curadoria dos tratamentos recomendados.
 
 5.A disponbilzação da íntegra do conteúdo do aplicativo, bem como o seu
@@ -138,7 +138,7 @@ código-fonte e seus documentos preparatórios (gráficos, fluxos de
 informação) e a indicação do valor despendido para desenvolvimento do
 aplicativo;
 
-6.A justificativa ofical do Ministério para a retirada do ar do aplicativo
+6.A justifcativa ofical do Ministério para a retirada do ar do aplicativo
 TrateCOV;
 
 7.0 número de acessos ao aplicativo TrateCOV, por data e localidade bem
@@ -284,6 +284,7 @@ fomentados por meio de Chamadas Públicas Nacionais - Fomento Nacional - e
 Chamadas Públicas Estaduais (PPSUS) - Fomento Descentralizado, através de
 termos de outorga, na modalidade de licitação Concurso, regido pela Lei nº
 8.666/1993, bem como por Encomenda Direta, por meio de inexigibilidade de
+
 licitação, à luz da Lei nº 8.666/1993, observada a Lei nº 10.973/2004 (Lei da
 Inovação).
 
@@ -294,24 +295,34 @@ Diretor do Departamento de Ciência e Tecnologia - Substituto
 
  
 
-Documento assinado eletronicamente por Max Nóbrega de Menezes Costa,
-: Diretor(a) do Departamento de Ciência e Tecnologia substituto(a), em
-bei 05/05/2021, às 18:13, conforme horário oficial de Brasília, com fundamento
-alasrônica no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+ 
 
+Documento assinado eletronicamente por Max Nóbrega de Menezes Costa,
+Diretor(a) do Departamento de Ciência e Tecnologia substituto(a), em
+05/05/2021, às 18:13, conforme horário oficial de Brasília, com fundamento
+
+no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
 Portaria nº 900 de 31 de Março de 2017.
 
+—mms
+GS I á
+
+se.
+eletrônica
+
+    
+
+   
  
 
- 
+    
+  
 
- 
+pad il A autenticidade deste documento pode ser conferida no site
+++ http://seisaude.gov.br/sei/controlador externo .php?
+jà acao=documento conferir&id orgao acesso externo=0, informando o
 
- 
-
- 
-
- 
+4 código verificador 0020340420 e o código CRC 846D2AAD.
 
  
 
@@ -324,11 +335,11 @@ PLANEJAMENTO COMUNICAÇÃO COVIDAS
 
  
 
-TASEDA CAMPANHA
+FASEDA CAMPANHA:
 
-PERÍODO DEVEICULAÇÃO.
+PERÍODO DEVEICULAÇÃO,
 
-MEIOS
+Meios
 
 INVESTIMENTO
 
@@ -336,46 +347,46 @@ INSERÇÕES
 
  
 
-[TEEN TN TNT]
+[EANES]
 
  
 
-Fight T
+Flight
 
 Tema: o que é coronavirus + prevenção (o que é o virus,
-principais sintomas e medidas de prevenção)
+principais sintomas é medidas de prevenção)
 
 Flight2
 
-Tema: medidas de prevenção + como é transmitido + quais são
-os sintomas + Fakenes
+|rema: medidas de prevenção + como é transmitido + quais sto
+os sintomas + Fakeneus
 
 lights
 
-jrerma: cuidado idosos +gripados faça isolamento (orientações
+Tema: cuidado idosos +gripados faça isolamento (orientações
 para grupo de risco e distanciamento - pessoas acima de 60
-lanos ficar em casa e pessoas com sintomas de gripe devem
+Janos ficar em casa e pessoas com sintomas de gripe devem
 fazer isolamento )
 
  
 
-Fighta
+Flight a
 
 Tema: convocação de estudantes (convocar estudantes do
-itimo ano demedidna para atuar na Inha de frente contra o
+ltimo ano demedidna para atuar na Inha de frente contra o
 Icoronavirus)
 
 Flight
 
  
 
-Tema: teleSUS, orientações para grupo de risco e
-gistanciamento (orientação para fazer consulta médica sem sair
+Tema: telesUS, orientações para grupo de risco e
+istanciamento (orientação para fazer consulta médica sem sair
 de casa acessando os canais oficiais do Ministério da Saúde;
 orientação para pessoas acima de 60 anos devem ficar em casa
 e pessoas com sintomas de gripe devem fazer isolamento.)
 
-ighto
+Flight6
 
 rea: teleSUS (orientação para fazer consulta médica sem sair
 de casa acessando os canais oficiais do Ministério da Saúde)
@@ -385,7 +396,7 @@ de casa acessando os canais oficiais do Ministério da Saúde)
 TED 3 Secom.
 
 Tema: orientações de saúde e outros temas de balanço do
-[Governo Federal
+|overno Federal
 
  
 
@@ -397,18 +408,18 @@ lestados e municípios.
 TED 6 Secom.
 
 Tema: importância do agronegócio, retomada das atividades
-com segurança é medidas de proteção.
+[com segurança e medidas de proteção.
 
-Fight?
+Flight?
 
-Tema: informações reglonalizadas sobreas entregas que o
-governo federal está realzando nos estados para quea
-população tenha acesso às informações, além de retratar as.
+Tema: informações regionalizadas sobreas entregas que o
+governo federal está realizando nos estados para quea
+população tenha acesso às informações, alêm de retratar as.
 medidas preventivas.
 
-Feigue
-
  
+
+Fgm
 
 Tema: Cuidado e Atendimento Precoce
 
@@ -416,25 +427,17 @@ TED secom
 
 Tema: Cuidado e Tratamento Precoce
 
-Fase 1- Esclarecimento
-
-[campanha foi produzida e a veiculação foi boniicada,
-
-Tema: Esclarecimento sobre a vacinação.
-
- 
-
-27024 20/03
+27023 20/03]
 
 12/03 26/03
 
-23/034 3/04
+23/03a 3/04
 
 03/04 a 11/04
 
 08/04 a 30/04
 
-15/05 208/06
+15/05 a 08/06
 
 03/05 a 08/05
 
@@ -444,69 +447,61 @@ Tema: Esclarecimento sobre a vacinação.
 
 24/07 a 30/08
 
-281020111
+251042011
 
-17023071
+17093071
 
-TV, rádio, Internet, midia exterior
+TV, rádio, Internet, mídia exterior
 
 Tv, rádio
 
-TV, rádio, Internet
+TV, rádio, Internet:
 
 internete rádio
 
 TV, rádio, Internet, mídia exterior
 
 TV, rádio, Internet, Telas em supermercado, prédio
-residencial, metrô, rodowária, ônibus e
+residencial, metrô, rodowária, Onibus e
 estabelecimentos de saúde.
 
-TV, rádio, Internet
+TV, rádio, Internet:
 
 TV, Rádio, Internet, Telas em supermercado, prédio
 residencial, metrô, rodowária, Onibus e
 estabelecimentos de saúde.
 
-TV, rádio, Internet, Midia em banco do ônibus
+TV, rádio, Internet, Mídia em banco do ônibus.
 (baciseat), Mobiliário Urbano, Telas em
-supermercado, prédio — residencial, metrô,
+supermercado, — prédio — residencial, — metrô,
 rodoviária, aeroporto, ônibus e estabelecimentos.
-desaúde,
+desaúde.
 
 TV, rádio, Internet, Telas em supermercado, prédio
-residencial, aeroporto e ônibus.
+residencial, aero porto e Onibus
 
 Internet, Telas em Onibus, terminal rodoviário,
 metrô, salão de belem e painel de LED, Painel em
 bancas e terminal rodoviário.
 
-TV, rádio, Internet, Telas Onibus, “terminal
+TV, rádio, Intemet, Telas ônibus, terminal
 rodoviário, metrô, aeroporto e painel de LED,
 Painel em terminal rodoviário, Mídia em banco do
 ônibus (backseat), Mobiliário Urbano.
 
-Tv, rádio, Internet, Telas ônibus, teminal
-
-shopping eaeroporto
-
 3
 
-as
+ns
 
 ns
 
 [
 
-as
+ns
 
 [
 
-as
-
-[
-
-16/12/2020 a 20/01/2021 rodoviário, metrô, supermercado, salão de beleza, R$
+a$
 
 1300000000
 
@@ -522,7 +517,7 @@ as
 
 6.500.000,00
 
-2.000.000,00
+25.000.000,00
 
 30.000.000,00
 
@@ -532,190 +527,116 @@ as
 
 19.983.984,64
 
+w e
+Rádio 3.000
+Viavis na intemet 21978598
+Mídia Exterior 50.603.598]
+w 101
+Rádio 10.485
+w E
+Rádio 2.429)
+Views na intemet a6.938.728]
+Rádio 307)
+Views na intemet 17334780]
+vw eng]
+Rádio sa99)
+Viavis na intemet 54676726
+Mídia Exterior 6.453.662
+v sas]
+Rádio 2.936)
+Viavis na intemet 49.250.245]
+Mídia Exterior 34.693. 560]
+v am
+Rádio 60)
+Views na intemet 18.600 849]
+vw 4.664
+Rádio 16.094
+Viavis na intemet s12.952:243
+Mídia Exterior 453.585.001]
+vw aa8)
+Rádio a5.964
+Viavis na intemet 57.657.708]
+Mídia Exterior 31417227
+w a2m
+Rádio 62981]
+Views na intemet s1 885.023]
+Mídia Exterior 16.393.068
+Views na intemet 41.499.726]
+Mídia Exterior 24253111]
+w 289)
+Rádio 24.821]
+Viavis na intemet 30719292]
+Mídia Exterior 13.975.312
+
+ 
+
+CAMPANHA VACINAÇÃO 2020/2021
+
+Fase 1: Esclarecimento
+
+[Campanha foi produzida e a veiculação foi bonificada
+
+Tema: Esclarecimento sobre a vacinação.
+
+ 
+
+TV, rádio, Intemnet, Telas Onibus, teminal
+
+shopping e aeroporto
+
+16/12/2020 2 20/01/2021. rodoviário, metrô, supermercado, salão de beleza, R$
+
 soa 58650
 
-w
-Rádio
-
-Views na intemet
-Mídia Exterior
-
-w
-Rádio
-
-Rádio
-
-Views na intamet
-
-Rádio
-
-Views na intemet
-
-w
-Rádio
-
-Views na intamet
-Mídia Exterior
-
-w
-
-Rádio
-Views na intemet
-Mídia Exterior
-
-w
-
-Rádio
-Views na intemet
-
-w
-
-Rádio
-Views na intamet
-Mídia Exterior
-
-w
-Rádio
-
-Views na intamet
-Mídia Exterior
-
-w
-Rádio
-
-Views na intamet
-Mídia Exterior
-
-Views na intemet
-Mídia Exterior
-
-w
-Rádio
-
-Views na intemet
-Mídia Exterior
-
-E
-
-3.000)
-21978598]
-s0.603.598]
-
-101
-10.485
-
-E
-2429)
-
-26.938.728]
-
-202]
-
-17334280)
-
-E
-s399)
-54676726
-6.453.662
-
-sas]
-
-a.936)
-49.250345]
-34.693.560]
-
-au)
-
-60]
-18.600 849]
-
-4664
-
-16.094
-s12.952.243
-asa. 585.001]
-
-4738)
-
-as 964]
-57.657.708]
-31417227]
-
-4221)
-
-62951]
-s1 885.023]
-16393.065]
-
-41.499,726]
-24253411]
-
-289)
-
-24821]
-30719292]
-13.975 312
-
  
 
  
 
-ENE
-
-w
-Rádio
-
-Views na intamet
-Mídia Exterior
-
-222
-12.909)
-6218875
-5.220.790]
-
- 
+vw 222
+Rádio 12.909)
+Viavis na intemet 6218875
+Mídia Exterior 55.220.790]
 Fase 2- Vacinação - Flight 1
 20/01/2021 a 15/02/2021
 
-Tema: Lançamento e Convocação Grupo 1 (Informar que a
-vacinação está iniciando no Brasil e convocação do primeiro
+|rema: Lançamento e Convocação Grupo 1 (Informar que a
+vacinação está iniciando no Brasile convocação do primeiro
 grupo prioritário da vacina)
 
 Flight 1.1 Complementar
-13/02/2021 a 2503/2021
+13/02/2021 225/0320
 
-tema: Manifesto vacinação geral em todo o Brasil emesidas de
+tema: Manifesto (vacinação geral em todo o Brasil emestidas de
 prevenção)
 
-Fight 2 46/03/2021 a 30/00/2021
-Tema: Milhões de Vacinados, Cuidados Continuam e Fiocruz (
+Fit 2 16/03/2021 a 30/04/2021
+Tema: Milhões de Vacinados, Cuidados Continuam e Fiocruz (|
 
 informar que a vacinação continua, que já temos milhões de
 
-hracinados, que mais vacinas estão chegando e que os cuidados
+vacinados, que mais vacinas estão chegando e que os cuidados
 
-e prevenção devem continuar)
+de prevenção devem continuar)
 
-Figeza E
+Figo 21 25
 
-tema: Fime Comunicado (ressaltando o compromisso do
-
+jrema: Fime Comunicado (ressaltando o compromisso do
 governo federal em vacinar toda a população)
 
-Fig 22 30/03 230/05
+Flige 22 a0/03 230/05
 rema: Vacnometro
 
-Fgm a a0/03 230/04
+Fig 3 a0/03 230/04
 Tema: Prevenção e Vacinação
 
-Flige at 26/04 atéejos
+Fig as 26/04 atéejos
 Tema: Prevenção e Vacinação
 
-Fl é A2até 26/04
+liga 12até 26/06
 
 Tema: Atendimento Imediato
 
-Fgm s
+Flies
 
 EM PLANEJAMENTO
 
@@ -723,25 +644,25 @@ EM PLANEJAMENTO
 
 TV, rádio, Internet, Mídia Exterior: Outdoor social,
 mobiliário urbano, mobiliário urbano digital, painel
-leg, bancas, terminal rodoviário, metrô e banco
-24h
+led, bancas, terminal rodoviário, metrô e banco
+20h
 
-R$ 2865517767
+R$ 3865517767
 
 TV, Internet, Mídia Exterior: Mobiliário urbano,
-mobiliário urbano digita), painel led, terminal
+mobiliário urbano digital, painel led, terminal
 
 rodoviário, metrô, Aeroporto, beacisest, tels em "5 290260117
 
 ônibus
 TV, rádio, Internet, mídia exterior R$ 1693075352
-v R$ 105s0834
-Midia exterior R$ 62217250
+v R$ 122590814
+Mídia exterior R$ 625217250
 TV, rádio, internet e mídia exterior R$ 2124473716
-v R$ 178170396
-TV, rádio, internet e mídia exterior R$ 1000000000
+v R$ 178179396
+TV, rádio, internet e mídia exterior R$ 10.000.000,00
 
-EM PLANEAMENTO
+EM PLANEJAMENTO
 
 TOTALGERAL R$ 282781.60526
 
@@ -750,25 +671,25 @@ TOTALGERAL R$ 282781.60526
 w
 Rádio
 
-Views na intamet
+Viavis na intemet
 Mídia Exterior
 
 w
-Views na intamet
-Mídia Exterior
-
-w
-Rádio
-
 Views na intemet
 Mídia Exterior
 
+w
+Rádio
+
+Viavis na intemet
+Mídia Exterior
+
 Mídia Exterior
 
 w
 Rádio
 
-Views na intamet
+Viavis na intemet
 Mídia Exterior
 
 w
@@ -776,60 +697,61 @@ w
 w
 Rádio
 
-Views na intamet
+Viavis na intemet
 Mídia Exterior
 
 1057]
 
-12529)
-mas çn|
-16923223
+12.529)
+sao 62]
+16.923.223
 
-su
+EU
 14675480]
 448.996]
 
 asa)
 665
-28691482]
-au
+28.691480]
+am
 
-69.633.280]
+69.833.280]
+
+785)
 
 E
-29,633)
-25.016.850]
+as.016 850]
 598641]
 
 59)
 
-127]
+137
 5.296)
-a7.842.675]
-370260)
+37.842.678
+E
 
  
 
  
 
-[Totatde Inserçõesna TV 19547]
+[Total de Inserçõesna TV 19547
 247.078]
 
-168.423 406]
+TIG8,423 406]
 784270737]
 
-R$ 2878120526
+R$ 282 781205,26
 
-[Total de inserções no rádio”
-[Total de views na internet.
+Total de inserções no rádio
+[Total de views na internet
 
-[Total de inserções em mídia esterior
+Total de inserções em mídia exterior
 investimento total
 
-[Totalde inserções na TV. 3.253
-Total de inserções no rádio 62
-[Total de views na internet 214827 983
-[Total de inserções em mídia exterior 153,196201
+[Total de inserções na TV 2253]
+Total de inserções no rádio 72.632
+[Total de views a internet 214827 983
+[Total de inserções em mídia exterior 153.196.201
 investimento total R$ 1039782062
 
  
@@ -855,33 +777,23 @@ Flight 1
 
  
 
-https;
-
-www.youtube.com /watch?v=eUxx6ev16Wk
+https://www youtube.com /watch?v=eUxx6ev16Wk
 
  
 
-https;
-
-www.youtube.com/watch?v=|XVa 9-wLWc
+https://www.youtube.com/watch?v=|XVa 9-wLWe
 
  
 
-https:
-
-www.youtube.com/watch?v=3W ala 8nvl
+https://www.youtube.com/watch?v=3W qla 8nvl
 
  
 
-https;
-
-www.youtube.com/watch?v=6K8i9PRSI64,
+https://www youtube.com /watch?v=6K8i9PRS164
 
  
 
-https;
-
-www.youtube.com /watch?v=tPJAqIEpWUA&ilist=PL rQTI99G4P8Q3nYXIWMEI1AtIrzee3bKW&index=16
+https://www.youtube. com Awatch?v=tPJAqIEpWUA&iist=PL rQTI99G4P8Q3nYXIWMEIAtIrzee3bKW&index=16
 
  
 
@@ -889,37 +801,27 @@ Flight 2
 
  
 
-https:
-
-www.youtube.com/watch?v=DfxRuPwoPmA
+https://www.youtube.com /watch?v=DfxRuPwoPmA
 
  
 
-https;
-
-www.youtube.com/watch?v=6FFsEjUjHoc
+https://www youtube.com /watch?v=6FFsEjUjHoc
 
  
 
-https;
-
-www.youtube.com /watch?v=rfl7 lhihug4
+https://www youtube.com Awatch?v=rfl7 lhihug4
 
  
 
-Flight 3
+Flight3
 
  
 
-https:
-
-www.youtube.com/watch?v=9EM462y dJO
+https://www.youtube.com Awatch?v=9EM462y dJO
 
  
 
-https;
-
-www.youtube.com/watch?v=ehYCw-GwEVE
+https://www youtube.com /watch?v=ehYCw-GwEVE
 
  
 
@@ -927,9 +829,7 @@ Flight 4
 
  
 
-https;
-
-www.youtube.com /watch?v=Xay LItAlyoM
+https://www.youtube.com /watch?v=Xay LItAlyoM
 
  
 
@@ -937,9 +837,7 @@ Flight 5
 
  
 
-https:
-
-www.youtube.com/watch?v=kTi1Chliulc
+https://www youtube.com watch?v=kTilChliulc
 
  
 
@@ -947,9 +845,7 @@ Flight 6
 
  
 
-https;
-
-www.youtube.com /watch?v=xLyUhtbFCxE
+https://www youtube.com watch?v=xLy UhtbFCxE
 
  
 
@@ -957,41 +853,27 @@ TED 3 Secom
 
  
 
-https:
-
-www.youtube.com/watch?v=-yeHpsLwPGl&list=PL rQTI99G4P8Q3nYXIWMEIAtIrzee3bkW&index=3
+https://www.youtube. com /watch?v=-yeHpsLwPGI&list=PL rQTI99G4P803nYXIWME1AtIrzee3bKW&index=3
 
  
 
-https;
-
-www.youtube.com,
-
-watch?v=cOe0sQ, SonM&list=PL rQTI99G4P803nYXIWME1AtIrzee3bKW&index=4
+https:/Awww youtube.com watch?v=cOeosQ SonMê&iist=PL rQTIS9G4P8O3nYXIWMEIAtIrzee3bKkW&index=4
 
  
 
-https;
-
-www .youtube.com,
-
-watch?v=cN3X-Wilyrw&list=PL rQTI99G4P8Q3nYXIWME1AtIrzee3bkW&index=8
+https:/Awww youtube.com /watch?v=cN3X-Wilyrw&ist=PL rQTIS9G4P803nYXIWMEIAtIrzee3bKkW&index=8
 
  
 
-https:
+ 
 
-www.youtube.com,
-
-watch?v= 8KK glsdyo&list=PL rQTI99G4P803nYXIWMEIAtirzee3bKW&index=11
+https://www.youtube.com/watch?v= 8KK glsdyo&list=PL rQTI99G4P803nYXIWMEIAtIrzee3bkW&index=11
 
  
 
-https:
+https://www.youtube. com /Awatch?v=WJXGVmKHOoU&list=PL rQTI99G4P803nYXIWMEI1AtIrzee3bKW &index=12
 
-www.youtube.com,
-
-watch?v=WJXGVmkHOoU&list=PL rQTI99G4P803nYXIWMEIAtIrzee3bKW&index=12
+ 
 
  
 
@@ -999,43 +881,27 @@ TED 5 Secom
 
  
 
-https;
-
-www .youtube.com,
-
-watch?v=kof6vZoYOAKk&ilist=PL rQTI99G4P8Q3nYXIWMEIAtIrzee3bkW&index=1
+https:/Awww youtube.com /watch?v=kof6vZoY0Ak&list=PL rQTI99G4P8Q3NYXIWME1AtIrzee3bkW&index=1
 
  
 
-https:
+ 
 
-www.youtube.com,
-
-watch?v=rV8Ege8yxzs &list=PL rQTI99G4P803nYXIWMEIAtIrzee3bKW&index=5
+https://www.youtube.com Awatch?v="V8Ege8yxzs&list=PL rQTI99G4P8Q3nYXIWMEIAtIrzee3bkW&index=5
 
  
 
-https:
-
-www.youtube.com,
-
-watch?v=qdgeGouZzm8&list=PL rQTI99G4P803nYXIWMELAtIrzee3bKW&index=9
+https://www.youtube. com /watch?v=adgeGouZzmB&list=PL rOTI99G4P803nYXIW MEIAtIrzee3bKW&index=9
 
  
 
-https;
-
-www.youtube.com,
-
-watch?v=Dhqa2GCriBo&list=PL rQTI99G4P803nYXIWMEIAtIrzee3bKkW&index=10
+https://www.youtube. com /watch?v=Dhag2GCriBo&list=PL rQTI99G4P803nYXIWMEIAtIirzee3bkW&index=10
 
  
 
-https;
+https:/Awww youtube.com /watch?v=Dhqg2GCriBo&list=PL rQTI99G4P803nYXIWMEIAtIrzee3bKW&index=10
 
-www .youtube.com,
-
-watch?v=Dhqg2GCriBo&list=PL rQTI99G4P803nYXIWME1AtIrzee3bKW&index=10
+ 
 
  
 
@@ -1043,27 +909,17 @@ TED 6 Secom
 
  
 
-https:
-
-www.youtube.com,
-
-watch?v=zPlh6YsenSQ&list=PL rQTI99G4P8Q3n YXIWMEI1AtIrzee3bKW&index=2
+https://www.youtube. com Awatch?v=zPlh6YsenSQ&list=PL rQTI99G4P803nYXIWME1AtIrzee3bKW&index=2
 
  
 
-https;
-
-www.youtube.com,
-
-watch?v=|dCwSdG8X44&list=PL rQTI99G4P8Q3nYXIWMEI1AtIrzee3bKW&index=6
+https://www.youtube. com Awatch?v=jdCwSdG8X44&ilist=PL rQTI99G4P803nYXIWMEIAtIrzee3bkW&index=6
 
  
 
-https;
+https://www youtube.com watch?v=iYOIS8NGbbpU&dist=PL rQTI99G4P803nYXIWMEIAtirzee3bKW&index=7
 
-www .youtube.com,
-
-watch?v=iYOi8NGbbpU&list=PL rQTI99G4P8Q3nYXIWME1AtIrzee3bkW&index=7
+ 
 
  
 
@@ -1071,46 +927,34 @@ Flight 7
 
  
 
- 
-
-https;
-
-www.youtube.com/watch?v=kxESJziwilP,
+https://www youtube.com /watch?v=kxESJziwlP;
 
  
 
-https;
-
-www.youtube.com/watch?v=bkpuOLIsJdl
+https://www.youtube.com/watch?v=bkpuOLIsldl
 
  
 
-https;
-
-www.youtube.com/watch?v=vZNaVSVag1l
+https://www.youtube.com /watch?v=vZNaVSVag1I
 
  
 
-https:
-
-www.youtube.com /watch?v=Y5uGMOV-MIU
+https://www.youtube.com Awatch?v=Y5uGMOV-MIU
 
  
 
-https;
-
-www.youtube.com/watch?v=]-7uJ29LKk8I
+https://www.youtube.com/watch?v=]-7uJ29Lk8I
 
  
 
  
  
 
-https://www.youtube.com/watch?v=tZa-nH 6RAO&ist=PL rQTI99G4P803nYXIWMEIAtIrzee3bKW&index=14
+https://www.youtube. com/watch?v=tZa-nH 6RAO&list=PL rOTI99G4P803nYXIWMEIAtIrzee3bKkW&index=14
 
  
 
-https://www.youtube.com/watch?v=ZiObRHN2i8s&list=PL rQTI99G4P8Q3nYXIWMEIAtIrzee3bKW&index=28
+https://www.youtube. com Awatch?v=ZiObRHN2i8s&list=PL rQTIS9G4P803nYXIWMEIAtIrzee3bKW&index=28
 
  
 
@@ -1118,7 +962,7 @@ Flight8
 
  
 
-https://www.youtube.com/watch?v=wDBfy DalioM
+https://www youtube.com /watch?v=wDBfy DalioM
 
  
 
@@ -1126,13 +970,11 @@ TED Secom
 
  
 
-https://www.youtube.com/watch?v=wDBfy DalioM
+https://www youtube.com /watch?v=wDBfy DalioM
 
  
 
 CAMPANHA VACINAÇÃO 2020/2021
-
- 
 
  
 
@@ -1145,7 +987,7 @@ https://www.youtube.com/watch?v=G43|FBZwmB;
 
  
 
-https://www youtube.com /watch?v=Kp83TIDLA3k&ist=PL rQTI99G4P8Q3nYXIWMEIAtIrzee3bKkW&index=15
+https://www youtube.com watch?v=Kp83TIDLA3k&ist=PL rQTI99G4P803nYXIWME1At1rzee3bKkW&index=15
 
  
 
@@ -1153,21 +995,21 @@ Fase 2- Vacinação - Flight 1
 
  
 
-https://www youtube.com /watch?v=4-ZFCky5 WZ4
+https://www youtube.com /watch?v=4-ZFCky5WZ4
 
  
 
-https://www.youtube. com /watch?v=hAHNU-uYGpQ
+https://www.youtube. com Awatch?v=hAHNU-uYGpQ,
 
  
 
-https://www.youtube.com/watch?v=TuVeGexvy Q&list=PL rQTI99G4P803nYXIWME1AtIrzee3bKW&index=17
+https://www.youtube.com /watch?v=TuVeGexvy Q&list=PL rQTI99G4P803nYXIWME1AtIrzee3bKW&index=17
 
  
 
  
 
-https://www.youtube. com /watch?v=PyUIBOL8gTs&list=PL rQTI99G4P803nYXIWMEIAtIrzee3bkW&index=18
+https://www.youtube. com /watch?v=PyUIBOL8gTs&list=PL rOTI99G4P803nYXIWME1AtIrzee3bkW&index=18
 
  
 
@@ -1175,11 +1017,11 @@ Flight 1.1 Complementar
 
  
 
-https://www.youtube.com/watch?v=TuVeGexvy Q&list=PL rQTI99G4P803nYXIWMELAtIrzee3bKW&index=17
+https://www.youtube. com /watch?v=TuVeGexvy Q&list=PL rQTI99G4P803nYXIWME1AtIrzee3bKW&index=17
 
  
 
-https://www.youtube. com /watch?v=PyUIBOL8gTs&list=PL rOTI99G4P803nYXIWMEIAtIrzee3bkW&index=18
+https://www.youtube. com /watch?v=PyUIBOL8gTs&list=PL rOTI99G4P803nYXIWME1AtIrzee3bkW&index=18
 
  
 
@@ -1187,17 +1029,17 @@ Flight 2
 
  
 
-https://www.youtube.com/watch?v=F4MD8vthdzs&list=PL rQTI99G4P803nYXIWMEIAtIrzee3bKW&index=30
+https://www.youtube. com watch?v=F4MDBvthdzs&list=PL rQTI99G4P803nYXIWME1AtIrzee3bKW&index=30
 
  
 
-https:;//Awww.youtube.com/watch?v=tBbWB whbrw&dist=PL rQTI99G4P803nYXIWME1Atirzee3bKW&index=20
+https:/Awww.youtube.com/watch?v=tBbWB whbrw&list=PL rQTI99G4P803NYXIWME1AtIrzee3bkW&index=20
 
  
 
  
 
-https://www.youtube.com/watch?v=wV3AnOFuYJo&ilist=PL rQTI99G4P8Q3nYXIWMEI1At1rzee3bkW&index=21
+https://www.youtube. com /watch?v=wV3AnOFuYJo&list=PL rQTI99G4P803nYXIWMEI1Atirzee3bKW&index=21
 
  
 
@@ -1207,7 +1049,7 @@ Flight 2.1
 
  
 
-https://www.youtube.com /watch?v=uy1PneLobFU&list=PL rQTI99G4P803nYXIWMEIAtirzee3bKW&index=22
+https://www youtube.com Awatch?v=uy1PneLobFU&ist=PL rQTI99G4P803nYXIWME1AtIrzee3bkW&index=22
 
  
 
@@ -1219,21 +1061,21 @@ Flight 2.2
 
  
 
-Flight 3
+Flight3
 
  
 
-https://www.youtube.com/watch?v= exXRNB-CjY &dist=PL rQTI99G4P803nYXIWME1Atirzee3bKW&index=23
+https:/Awww .youtube.com/watch?v= exXRNB-CjY &list=PL rQTI99G4P8Q3nYXIWMEIAtIrzee3bkW&index=23
 
  
 
  
 
-https://www youtube.com /watch?v=K9haYTGbavs&list=PL rQTI99G4P803nYXIWMEIAtIrzee3bkW&index=24
+https://www.youtube.com watch?v=K9haYTGbavs&list=PL rQTI99G4P803nYXIWME1Atirzee3bkKW&index=24
 
  
 
-Elight 3.1
+Flight 3.1
 
  
 
@@ -1243,7 +1085,7 @@ https://www.youtube.com/watch?v= exXRNB-CjY&list=PL rQTI99G4P8Q3nYXIWME1AtIrzee3
 
  
 
-https://www youtube.com /watch?v=K9haYTGbavs&list=PL rQTI99G4P803nYXIWME1AtIrzee3bKW&index=24
+https://www.youtube.com Awatch?v=K9haYTGbavs&list=PL rQTI99G4P803nYXIWME1AtIrzee3pKW&index=24
 
  
 
@@ -1251,7 +1093,7 @@ Flight 4
 
  
 
-https://www.youtube.com/watch?v=5 1572N8Axko&list=PL rQTI99G4P8Q3nYXIWME1AtIrzee3bKW&index=29
+https://www.youtube.com/watch?v=5 1572N8Axko&iist=PL rQTI99G4P8Q3nYXIWMEIAtIrzee3bKW&index=29
 
  
 
@@ -1270,7 +1112,7 @@ em planejamento
  
 
  
-12/04/2021 SEMCTI - 6994851 - Despacho
+12/04/2021 SEI/MCTI - 6994851 - Despacho
 
 MINISTÉRIO DAS COMUNICAÇÕES
 Secretaria Especial de Comunicação Social
@@ -1295,6 +1137,7 @@ Sim
 
 b) Qual o conteúdo e finalidade da referida ação de comunicação? Se o conteúdo está
 alinhado às diretrizes do Ministério da Saúde? Se, de fato, o conteúdo divulga "medicamentos sem
+
 eficácia comprovada contra a covid-19" e se há referência às expressões "tratamento precoce" e/ou
 "kit covid"?
 
@@ -1316,7 +1159,6 @@ e diminuindo a necessidade de uso de respiradores.
 Em relação a população, para melhorar o atendimento das pessoas, o Ministério da Saúde
 criou duas novas estratégias para reforçar a assistência e o cuidado nos casos leves, que são os Centros
 Comunitários de Referência e os Centros de Atendimento. Estas estruturas recebem financiamento
-
 federal para identificação precoce dos casos.
 
 Quanto ao conteúdo, a campanha publicitária buscou disseminar a informação de que o
@@ -1329,7 +1171,7 @@ O Ministério da Saúde desenvolveu as peças publicitárias sobre a temática. 
 atendimento precoce, ainda na fase inicial da COVID-19, apresentava ausência de margem de execução
 
 https: //sapiens.agu. govbr/documento/610755639, 115
-12/04/2021 SEMCTI - 6994851 - Despacho
+12/04/2021 SEI/MCTI - 6994851 - Despacho
 
 contratual junto às agências de propaganda contratadas pelo referido órgão, principalmente para
 veiculação da campanha.
@@ -1373,11 +1215,12 @@ paladar, deve-se procurar atendimento médico precoce, imediato, preventivo, fac
 protocolo até então adotado e difundido pelo Ministério da Saúde e que já foi explicado acima.
 
 d) se houve participação da SECOM na orientação desse conteúdo, se há alguma
-espécie de "roteiro de publicidade" ou documento similar elaborado pela SECOM para essa ação pelos
+espécie de "roteiro de publicidade” ou documento similar elaborado pela SECOM para essa ação pelos
 influenciadores digitais?
 
 O conteúdo da campanha foi determinado pelo Ministério da Saúde. Coube à Secom a
 responsabilidade pela definição dos meios de divulgação e aprovação da estratégia de mídia, proposta
+
 pela agência de propaganda contratada. Dentre os meios e estratégias, aprovou-se a utilização de ação
 com influenciadores digitais, em razão da eficiência e alcance do público-alvo definido para a campanha.
 
@@ -1388,7 +1231,7 @@ redes sociais, sejam eles posts ou stories (documentos anexos 6994950, 6994958, 
 https: //sapiens.agu. govbr/documento/610755639,
 
 25
-12/04/2021 SEMCTI - 6994851 - Despacho
+12/04/2021 SEI/MCTI - 6994851 - Despacho
 
 A finalidade da ação foi ampliar a divulgação dos novos protocolos do Ministério da Saúde
 em relação à necessidade de se buscar atendimento precoce, imediato e ainda na fase inicial da doença.
@@ -1427,7 +1270,7 @@ meios tradicionais e da programação em Internet.
 
 Dessa forma, a exemplo das ações de merchandising, utilizada geralmente nos meios de
 comunicação tradicionais, como programas de rádio e de TV, os influenciadores digitais também são
-orientados pela agência de propaganda, por meio de um roteiro/briefing/texto-guia, previamente
+orientados pela agência de propaganda, por meio de um roteiro/briefing /texto-guia, previamente
 aprovado pela SECOM e também validado pelo órgão responsável pela informação técnica.
 
 A utilização de influenciadores digitais, como formato de divulgação de conceitos, ideias,
@@ -1454,7 +1297,7 @@ Este segmento de mídia avançou em profissionalismo e na entrega de resultados
 empresariais, motivando as empresas a inclusão deste formato nas estratégias de divulgação.
 
 https: //sapiens.agu. govbr/documento/610755639,
-12/04/2021 SEMCTI - 6994851 - Despacho
+12/04/2021 SEI/MCTI - 6994851 - Despacho
 
 A motivação da Secom para que as agências incluam este formato nas ações de
 divulgação é resultado de estudos do mercado publicitário, partindo da análise do consumo de mídia
@@ -1479,7 +1322,7 @@ Portanto, a seleção dos influenciadores leva em consideração exclusivamente 
 de natureza técnica, de eficiência e economicidade, frente ao resultado que podem proporcionar na
 divulgação da campanha.
 
-8 Se há o risco apontado pelo autor para fundamentar o pleito liminar ("não é
+f Se há o risco apontado pelo autor para fundamentar o pleito liminar ("não é
 improvável que novas campanhas do gênero venham a ser concebidas à custa do erário), conforme
 transcrito no item 3 supra.
 
@@ -1511,7 +1354,7 @@ Diretora do Departamento de Publicidade
 Luiz Antônio Oliveira Alves
 
 https: //sapiens.agu. govbr/documento/610755639, 4/5
-12/04/2021 SEI/MCTI- 6994851 - Despacho
+12/04/2021 SEI/MCTI - 6994851 - Despacho
 Diretor Substituto do Departamento de Mídia e Promoção
 
 Brasília, 08 de abril de 2021.
@@ -1519,24 +1362,34 @@ Brasília, 08 de abril de 2021.
  
 
 seil . Documento assinado eletronicamente por Gislaine Passador Bittencourt de Sá, Diretor do
-edita ds & Departamento de Publicidade, em 08/04/2021, às 09:27 (horário oficial de Brasília), com
+Sede É Departamento de Publicidade, em 08/04/2021, às 09:27 (horário oficial de Brasília), com
 Sletrônica fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
  
 
  
 
-seil o Documento assinado eletronicamente por Luiz Antônio Oliveira Alves, Diretor do Departamento
-a B de Mídia e Promoção substituto, em 08/04/2021, às 09:30 (horário oficial de Brasília), com
+ 
 
+   
+
+s il
+sei a
 assinatura
-eletrônica fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
+eletrônica
 
+ 
+
+Documento assinado eletronicamente por Luiz Antônio Oliveira Alves, Diretor do Departamento
+de Mídia e Promoção substituto, em 08/04/2021, às 09:30 (horário oficial de Brasília), com
+fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
+
+      
  
 
  
 
-A autenticidade deste documento pode ser conferida no site http://sei-mctic.gov.br/verifica.html
+A autenticidade deste documento pode ser conferida no site http://sei.mctic.gov.br/verifica.html
 informando o código verificador 6994851 e o código CRC 62660F80.
 
  
@@ -1549,7 +1402,7 @@ informando o código verificador 6994851 e o código CRC 62660F80.
 
 Referência: Processo nº 00738.000152/2021-21 SEI-MCOM nº 6994851
 
-https: //sapiens.agu. govbr/documento/610755639,
+https: //sapiens.agu. govbr/documento/610755639, 5/5
 16/04/2021 Ministério da Saúde
 
 ADVERTÊNCIA
@@ -1567,7 +1420,7 @@ para o procedimento de seleção interna para execução
 das ações de comunicação publicitária.
 
 O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos | e Il, do parágrafo
-único do art. 87 da Constituição, e considerando o disposto no $& 4º da Lei nº 12.232, de 29 de abril de 2010, resolve:
+único do art. 87 da Constituição, e considerando o disposto no & 4º da Lei nº 12.232, de 29 de abril de 2010, resolve:
 
 Art. 1º Estabelecer, no âmbito do Ministério da Saúde, as regras para o procedimento interno de análise,
 desenvolvimento e execução de demandas referentes às ações de comunicação publicitária.
@@ -1585,10 +1438,10 @@ Avaliação, a ser designada pelo Chefe da Assessoria de Comunicação Social, a
 mínimo, 3 (três) técnicos da Divisão de Publicidade da Assessoria de Comunicação Social, sendo 1 (um) de mídia, 1
 (um) de planejamento e 1 (um) de atendimento.
 
-8 2º A Comissão de Avaliação será coordenada pelo Chefe da Divisão de Publicidade da Assessoria de
+S 2º A Comissão de Avaliação será coordenada pelo Chefe da Divisão de Publicidade da Assessoria de
 Comunicação Social.
 
-Art, 3º Para seleção das agências serão considerados os seguintes critérios:
+Art. 3º Para seleção das agências serão considerados os seguintes critérios:
 
 | - estratégia de comunicação publicitária:
 
@@ -1639,13 +1492,13 @@ c) idéia criativa: excelente, bom, médio e regular; e
 
 d) estratégia e mídia e não mídia: excelente, bom, médio e regular.
 
-bvsms.saude.gov.br/bvs/saudelegis/gm/2010/prt3994 15, 12..2010.html 112
+bvsms.saude.gov.bribvs/saudelegis/gm/2010/prt3994 15,12..2010.html 112
 16/04/2021 Ministério da Saúde
 
 8 1º Será considerada a melhor proposta a que aferir maior número de conceitos "excelente" pela Comissão de
 Avaliação.
 
-8 2º Havendo empate, o critério de seleção observará o número de conceitos "bom", e, persistindo o empate, será
+$ 2º Havendo empate, o critério de seleção observará o número de conceitos "bom", e, persistindo o empate, será
 realizado sorteio com a presença de representantes das agências concorrentes.
 
 Art. 6º Caso nenhuma das propostas seja aprovada, a Assessoria de Comunicação Social determinará às
@@ -1660,7 +1513,7 @@ JOSÉ GOMES TEMPORÃO
 
 Saúde Legis - Sistema de Legislação da Saúde
 
-bvsms.saude.gov.br/bvs/saudelegis/gm/2010/prt3994 15 12 .2010.html
+bvsms.saude.gov.br/bvs/saudelegis/gm/2010/prt3994 15,12..2010.html
 
 212
  
@@ -1679,7 +1532,7 @@ Requerimento nº 302/2021/CPIPANDEMIA (0020324702), contendo dentre
 outras, a seguinte requisição de informação:
 3. Sobre propagandas, campanhas, publicidade ou inserções midiáticas
 
-realizadas pelo Ministério em temas relacionados à panderria do COVID-19, sua
+realizadas pelo Ministério em temas relacionados à pandemia do COVID-19, sua
 prevenção e tratamentos:
 
 a. valor da contratação;
@@ -1688,6 +1541,13 @@ b. contratante;
 
 . se publicidade via influenciadores digitais, incluir nome dos influenciadores;
 . forma de contratação;
+
+c
+d
+e
+f. data de veiculação;
+9
+c
 
 . conteúdo específico, quando possível com link de acesso à integra do
 onteúdo;
@@ -1705,13 +1565,6 @@ enfrentamento da Covid-19. No total, foram investidos mais de R$ 282 milhões
 em campanhas que trataram de medidas preventivas, vacinação e
 esclarecimentos sobre o coronavírus. As campanhas foram veiculadas em rede
 nacional pelos meios de TV, rádio, internet e mídia exterior.
-
-c
-d
-e
-f. data de veiculação;
-9
-c
 
 De Fevereiro de 2020 a Maio de 2021:
 
@@ -1743,7 +1596,7 @@ Investimento: R$ 27,9 milhões
 
 3. Em resposta a alínea "b", atualmente o Ministério da Saúde possui 4
 contratos de publicidade, referente a licitação denominada Concorrência nº
-02/2016, vinculados as empresas Fields Comunicação Ltda. CNPJ
+02/2016, vinculados as empresas Fields Comunicação Ltda, CNPJ
 03.509.498/0001-00, Calia Y2 Propaganda e Marketing Ltda. CNPJ
 04.784.569/0002-27, Nova SB Comunicação Ltda., CNPJ 57.118.929/0002-18, e
 Companhia de a Comunicação e Publicidade Ltda., CNPJ 69.277.291/0001-66.
@@ -1758,7 +1611,7 @@ SEI nº 0020365342, foi publicada no Diário Oficial da União de 16/12/2010,
 Secão 1, página 69.
 
 5. Com relação aos demais apontamentos relacionados no item 3 e
-alíneas "a", "c", "e", "f”, "h", "ij", "5", encaminhamos anexo, em "HD Extemo" os
+alíneas "a", "c", "e", "f", "h", "ij", "j", encaminhamos anexo, em "HD Extemo" os
 planos de mídia, defesas de mídia, DOAC's, Ordens de Serviços, de cada fase da
 campanha, bem como demais documentos que tratam do tema, conforme recibo
 
@@ -1787,22 +1640,22 @@ Chefe da Assessoria de Comunicação Social
 
  
 
-- Documento assinado eletronicamente por Patrick Leal Costa, Chefe da
-seil -. | Assessoria de Comunicação Social, em 06/05/2021, às 12:11, conforme
-Selo (5) | horário oficial de Brasília, com fundamento no art. 6º, 8 19, do Decreto nº
-eletrônica 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de
+Documento assinado eletronicamente por Patrick Leal Costa, Chefe da
+eil ; Assessoria de Comunicação Social, em 06/05/2021, às 12:11, conforme
+> É) horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº
 
+assinatura
+
+eletrônica 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de
 Março de 2017.
 
  
 
  
 
- 
+A autenticidade deste documento pode ser conferida no site
 
-E A autenticidade deste documento pode ser conferida no site
-
-* http://sei.saude.gov.br/sei/controlador externo.php?
+http: //sei.saude.gov.br/sei/controlador externo .php?
 
 * acao=documento conferir&id orgao acesso externo=0, informando o
 4 código verificador 0020363543 e o código CRC BB82DF82.
@@ -1824,12 +1677,14 @@ Divisão de Monitoramento e Suporte Técnico Administrativo
 DESPACHO
 
 SAA/DISTEC/SAA/SE/MS
-Brasiia, 04 de maio de 2021.
+Brasília, 04 de maio de 2021.
 
 Ao GABISE,
 
 Assunto: Requerimento de Informação nº 302/2021/CPIPANDEMIA - Senador Alessandro
-ira (CIDADANIA/SE).
+Vieira (CIDADANIAISE).
+
+ 
 
  
 
@@ -1837,7 +1692,7 @@ ira (CIDADANIA/SE).
 meio do qual o Presidente da CPI da Pandemia, Senador Omar Aziz, faz
 referência ao Requerimento de Informação nº 302/2021/CPIPANDEMIA
 (0020324702), de autoria do Senador Alessandro Vieira (CIDADANIA/SE),
-solicitando as informações relacionadas ao objeto da CPI em questão
+solicitando as informações relacionadas ao objeto da CPI em questão.
 
 2. Instada a se manifestar, a CGMAP/SAA/SE/MS emitiu o
 Despacho 0020359052, informando e detalhando, conforme planilha abaixo, os
@@ -1854,7 +1709,7 @@ CONTRATAÇÕES COVID-19
 
  
 
- 
+   
 
  
 
@@ -1872,15 +1727,15 @@ CONTRATAÇÕES COVID-19
 
  
 
-AREA Modalidade
-PROCESSO OBJETO Dema REA TE | VALOR Wedendade | INSTRUMENTO
-(Contrato emergenciaitem como objeto a contratação de empresa para
+ÁREA Modalidade
+PROCESSO OBJETO Dea re | VALOR todaldade | INSTRUMENTO
+Contrato emergenciaitem como objeto a contratação de empresa para
 operacioralização do serviço de atendimento pré-cínico para atendimento
 remoto à excepcionalidade da pandemia do coronavírus via telefone,
-realizada à partir de central operada por profissionais de saúde sob
-“| supervisão médica utilzando-se algoritmos cínicos adequados à Dispensa |Contrato 19/2020
-22000.035465/2020- | ontificação de caso suspeito e sinais de gravidade da infecção por esse |sapS 4, 009.900,00 [Se ictação | TOPMED
-agente patogênio, com desfechos de orientações ao autocuídado e 909.900,00 In, o (ASSISTENCIA A
+realizada a partir de central operada por profissionais de saúde sob
+“| supervisão médica utilzando-se algoritmos cínicos adequados à Dispensa  |Contrato 19/2020
+22000.035465/2020 | gontificação de caso suspeto e sinais de gravidade da infecção por esse |SAPS “4, 009.900,00 [Se lictação | TOPMED
+agente patogênio, com desfechos de orientações ao autocuídado e 909.900,00 In, o ASSISTENCIA A
 encaminhamento aos serviços de saúde; bem como monitoramento 05/2020 |SAÚDE LTDA
 remoto dos casos identificados como suspeitos e confirmados até sua
 resolução, quer essa identificação tenha sido realizada por este próprio
@@ -1888,10 +1743,10 @@ serviço ou por outros pontos de atenção da rede de saúde.
 (Contrato 20/2020
 Contratação de empresa especializada para prestação de serviços de ITALKTELECOM
 atendimento automatizado por via tekefônica, a partir de algortmo Dispensa | COMÉRCIO DE
-25000.039379/2020- |fomecido pela CONTRATANTE com desfechos variáveis, incluindo o saps R$ de lictação | EQUIPAMENTOS
-21 direcionamento para outro número telefônico, com disparo incial da igação 46.800.000,00 |n.º DÊ INFORMÁTICA
-automática a partir de base de dados da CONTRATANTE, e pltaforma de 08/2020 |E SERVIÇOS
-análise dos dados gerados, para monkoramento avo de casos da Covid-19. EMPRESARIAIS
+25000.039379/2020-- | fomecido pela CONTRATANTE com desfechos variáveis, incluindo o saps R$ de lickação | EQUIPAMENTOS
+21 direcionamento para outro número telefônico, com disparo inicial da igação 46.800.000,00 |n.º DÊ INFORMÁTICA
+automática a partir de base de dados da CONTRATANTE, e phtaforma de 08/2020 |E SERVIÇOS
+ànálise dos dados gerados, para montoramento avo de casos da Covid-19. EMPRESARIAIS
 S/A
 
  
@@ -1901,40 +1756,33 @@ Executiva, com vistas à ASPAR/GM, para conhecimento da referida manifestação
 da CGMAP, exarada em atenção ao Despacho GAB/SE 0020350274
 
 Documento assinado eletronicamente por Marcello Novaes Fernandes
-sei Espindula, Subsecretário(a) de Assuntos Administrativos substituto(a),
-Em em 04/05/2021, às 17:04, conforme horário oficial de Brasíia, com
+Espindula, Subsecretário(a) de Assuntos Administrativos substituto(a),
+| em 04/05/2021, às 17:04, conforme horário oficial de Brasília, com
 
-Serio | fundamento no art. 69, & 19, do Decreto nº 8.539, de 8 de outubro de 2015;
-e art. 89, da Portaria nô 900 de 31 de Março de 2017.
-
-    
- 
-   
+Sério ) fundamento no art. 69, 8 19, do Decreto nº 8.539, de 8 de outubro de 2015;
+e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
 
   
+ 
+ 
 
  
 
-IE] A autenticidade deste documento pode ser corferiia no site
-
-É ht aude. gov.br/sei/controador externo.ohp?
-
-açao =documento conferiráid orgzo acesso. externo=9, informando o
-k código verificador 0020367056 e o código CRC E4CSE2BB.
-
- 
+IE] A autenticidade deste documento pode ser corferida no site
+http://sei.saude.gov.br/sei/controlador externo.php?
 
  
 
  
 
-Folteiri
+i acao=documento conferir&id orgao acesso externo=0, informando o
+k código verficador 0020367056 e o código CRC E4C5E2B8.
 
  
 
  
 
-Referência: Processo nº 25000.065528/2021-98 SEI nº 0020367056
+Referência: Processo nº 25000.065526/2021-95 SEI nº 0020367056
 
  
 ATIVIDADE: Reunião COVID-19 DATA: Brasília, 29 de maio de 2020
@@ -2869,7 +2717,7 @@ sumário de resumos
 Y Orientações sobre isolamento no contexto da Covid-19; um sumário
 de resumos
 
-Y. Mapeamento de definições de distanciamento social no contexto da
+Y”. Mapeamento de definições de distanciamento social no contexto da
 pandemia de Covid-19: um sumário de resumos
 
 Foi destacado que os documentos não consideraram o momento
@@ -2904,7 +2752,7 @@ sobre o isolamento e distanciamento social.
 
 ALINHAMENTOS:
 
-Y” 375º C de temperatura corporal para ser considerado o diagnóstico de
+Y“ 375º C de temperatura corporal para ser considerado o diagnóstico de
 febre
 
 Y” Im de distância física
@@ -2914,13 +2762,7 @@ documentos técnicos
 
  
 
- 
-
-ENCAMINHA
-
- 
-
-T
+ENCAMINHAMENTOS.
 
 1. Os conceitos foram alinhados e serão utilizados em todos os documentos
 a fim de subsidiar elaboração de documentos necessários.
@@ -3047,8 +2889,10 @@ PONTOS DISCUTIDOS
 Pauta * Apresentado documento do PNUMA é a principal autoridade
 ambiental global que determina a agenda internacional sobre o
 meio ambiente, promove a implementação coerente da dimensão
+
 ambiental do desenvolvimento sustentável no Sistema das Nações
 Unidas e serve como autoridade defensora do meio ambiente no
+
 mundo frente à Covid-19.
 
  
@@ -3071,26 +2915,18 @@ ENCAMINHAMENTOS:
 e Verificar a pertinência das fichas PNUMA para pontos sensíveis pelo COE
 (individualmente);
 
-e Entrar em contato com a CGVAN e ANVISA (se neces
+e Entrar em contato com a CGVAN e ANVISA (se necessário) para verificar a
 pertinência do material, bem como elencar se existem temas sensíveis.
 
 * Após retorno, se favorável, verificar com a SE para levar para ciência do Gabinete
 de Crise e articulação com Ministério do Meio Ambiente na criação da estratégia
-de comunic: para a temática.
+de comunicação para a temática.
 
 e A depender do retorno, agendar reunião com as Secretarias para ver construção
 de materiais para gestores/trabalhadores do SUS ou população em geral.
 
 e Verificar também com AISA o posicionamento com o monitoramento dos
 indicadores OMS/ODS para o Meio Ambiente.
-
-   
- 
- 
-
-rio) para verificar a
-
- 
 
  
 REUNIÃO COE/SE-COVID-19
@@ -3187,7 +3023,7 @@ clínicos.
 Em consulta realizada no dia 17/08/2020 às 17h09min ao Painel de Dados de
 Leitos do estado de Rondônia
 (http://covidl 9 .sesau.ro.gov.br/Home/LeitosEvolucao), as taxas de ocupação
-dos leitos de UTI na macrorregião I (estadual + municipal) é de 74,5%, e leitos
+dos leitos de UTI na macrorregião Il (estadual + municipal) é de 74,5%, e leitos
 clínicos 52,9% sendo:
 
  
@@ -4301,7 +4137,7 @@ Pauta
 e Documento apresentado pela SAPS para intervenção relacionadas a à
 stência da gestante e puérpera frente à pandemia de COVID-19
 
-  
+ 
 
 e Com objetivo de apoiar uma gestação saudável durante a pandemia.
 
@@ -4836,9 +4672,7 @@ PONTOS DISCUTIDOS
 
  
 
-Pauta
-
-Reunião pactuação do documento de critérios para contratação de RH.
+Pauta * Reunião pactuação do documento de critérios para contratação de RH.
 
 * A contratação de profissionais não deve ser para leitos de uti instalados
 em hospitais construídos para emergencia temporária
@@ -5410,7 +5244,9 @@ repass
  
 
 s e propor ações de apoio.
-REUNIÃO COE/SE-COVID-19
+ 
+
+REUNIÃO COE/SE-COVID-19
 
 ATIVIDADE: Apresentação do Relatório Técnico de monitoramento de Vacinas em
 desenvolvimento contra Sars-CoV-2
@@ -5644,6 +5480,7 @@ CONASS
 
 CONASEMS
 REUNIÃO COE/SE COVID-19
+
 ATIVIDADE: Reunião sobre o Sistema de Informação do Plano de Vacinação da Covid-19
 DATA: 24/11/2020
 
@@ -5813,7 +5650,7 @@ notificação.
 ENCAMINHAMENTOS
 
 Destacada importância de simplificação do processo de monitoramento inclusive para
-que ocorra sua sistematização pelo DATASUS. Neste sentido, SAPS, SAES e SVS irão
+que ocorra sua sistematização pelo DAT ASUS. Neste sentido, SAPS, SAES e SVS irão
 elaborar uma proposta de fluxo de monitoramento para ser operacionalizado no sistema
 de notificação que será apresentada na reunião marcada para o dia 27/11/2020;
 
@@ -5834,7 +5671,7 @@ PARTICIPANTES
 COE
 SAPS
 
-SVS
+SVvS
 DATASUS
 REUNIÃO COE/SE COVID-19
 
@@ -5892,14 +5729,14 @@ e Em continuação a reunião realizada no dia 24/11/2020, a CGPNI informou que 
 minuta de portaria sobre a notificação de vacinação no SI-PNI já passou pelo Núcleo
 Jurídico da SVS e será inserida na pauta do GTVS do dia 07/12/2020 e posterior
 pactuação com CONASS, CONASEMS e Anvisa, no âmbito do COE. Data a definir;
-Considerando a disponibilização da lista de CNES das Unidades/Salas de Vacina da CGPNI
+e Considerando a disponibilização da lista de CNES das Unidades/Salas de Vacina da CGPNI
 para SAPS, aguarda-se o retorno para o COE, bem como para o DATASUS, para a melhor
 operacionalização dos dados para o Plano de Vacinação;
 
-A CGPNI irá alinhar com o DEMAS sobre a operacionalização do painel de informações de
+e A CGPNI irá alinhar com o DEMAS sobre a operacionalização do painel de informações de
 vacina e quais os profissionais da saúde que poderão ter acesso;
 
-Considerando a importância do desenvolvimento do eixo Comunicação do Plano de
+e Considerando a importância do desenvolvimento do eixo Comunicação do Plano de
 Vacinação da Covid-19, definiu-se que faz-se necessário o alinhamento da CGPNI e Ascom
 para elaboração da campanha de vacinação, alicerçadas nas definições técnicas;
 
@@ -5912,14 +5749,15 @@ para que pudesse estreitar a relação entre as Instituições e buscar formas d
 para o conhecimento das bases de dados que possam auxiliar na construção do
 Sistema de Informação da vacinação da Covid-19;
 
-PARTICIPANTES
+ 
 
+ARTICIPANTES
 e SVS
-
 e COE
 
 e SAPS
 REUNIÃO COE/SE COVID-19
+
 ATIVIDADE: Continuação rastreamento e monitoramento de contato de caso de Covid-19
 DATA: 01/12/2020
 
@@ -5987,9 +5825,9 @@ da Covid-19.
  
 
 ENCAMINHAMENTOS
-
 A versão preliminar do Plano de Vacinação da Covid-19 foi apresentado pela Coordenadora
 Geral do PNI - SVS, conforme ocorreu na Câmara Técnica para discussão de assuntos de
+
 farmacovigilância de vacinas e outros imunobiológicos em 01/12/2020. Alguns aspectos já
 estão avançados, mas ainda há necessidade da continuidade de discussão dos eixos para
 
@@ -6002,7 +5840,6 @@ COE
 REUNIÃO COE/SE COVID-19
 
 ATIVIDADE: Reunião para apresentação da avaliação de risco feita pela SVS
-
 DATA: 03/12/2020
 
 HORA: 10h00
@@ -6079,7 +5916,7 @@ Investigação do óbito igual acontece com a TB.
 PARTICIPANTES:
 COE
 
-Svs
+Ssvs
 
 SAES
 
@@ -6138,9 +5975,7 @@ plataformas;
  
 
  
- 
-
-CAMINHAMEN TOS
+ENCAMINHAMENTOS
 
 e SAPS e SVS vão construir os fluxos e regras para implantar o GAL nas UBS e fluxo de
 logística de amostras de cada estado;
@@ -6160,7 +5995,7 @@ PARTICIPANTES:
 COE
 SAPS
 
-Svs
+SVS
 SESAI
 DATASUS
 REUNIÃO COE/SE COVID-19
@@ -6415,7 +6250,7 @@ dos itens;
 
  
 
-ENCAMINHAMENTOS
+ 
 
 . Reunião com o DINTEG — CONASS- CONASEMS — SVS — COE — SE — SAPS - Para
 discutir sobre os processos de aquisição dos kits de extração.
@@ -6423,7 +6258,7 @@ discutir sobre os processos de aquisição dos kits de extração.
 . CGLASB ficou de encaminhar o cronograma da distribuição via FIOCRUZ dos consumíveis;
 
 . CONASS e CONASEMS ficaram de encaminhar ofício que foi elaborado sobre o teste de
-antigeno;
+antígeno;
 
 . CGLAB ficou de encaminhar a Nota Técnica que foi elaborada sobre o teste de antígeno.
 
@@ -6440,9 +6275,7 @@ DLOG
 
 CONASS
 CONASEMS
- 
-
-REUNIÃO COE/SE COVID-19
+REUNIÃO COE/SE COVID-19
 
 ATIVIDADE: Reunião para alinhamento sobre logística da vacina da Covid-19
 DATA: 22/12/2020
@@ -6455,6 +6288,8 @@ Ministérios, Brasília-DF
  
 
 PONTOS DISCUTIDOS
+
+ 
 
  
 
@@ -6480,6 +6315,21 @@ ENCAMINHAMENTOS
 
 e Após definição de uma proposta de fluxo de logística de transportes até os municípios, o MS irá
 pactuar a proposta com CONASS e CONASEMS.
+
+PARTICIPANTES:
+COE
+
+SAPS
+
+svs
+
+SESAI
+
+DLOG
+
+DEMAS
+
+MD
 
  
 REUNIÃO COE/SE COVID-19
@@ -6637,39 +6487,37 @@ operacionalização da vacinação contra a covid-19.
  
 
  
- 
+ENCAMINHAMENTOS
 
-CAMINHAMENTOS
+Dia 11/01/2021 após reunião com os Estados, a CGPNI irá encaminhar o modelo de Diretrizes
 
-e Dia 11/01/2021 após reunião com os Estados, a CGPNI irá encaminhar o modelo de Diretrizes
 para preenchimento das 27 UFs e disponibilizar o link do drive com as pastas para alimentação
 pelos estados;
 
-e COE irá encaminhar aos estados a relação dos pontos focais do MD que irão apoiar os estados
+COE irá encaminhar aos estados a relação dos pontos focais do MD que irão apoiar os estados
 no transporte e segurança da vacinação contra a Covid-19;
 
-e CGPNI vai verificar se há alguma questão técnica no CRIE em relação a vacinação contra a
+CGPNI vai verificar se há alguma questão técnica no CRIE em relação a vacinação contra a
 Covid-19 e repassar aos estados;
 
-e CGPNI irá verificar se as bulas das vacinas já estão disponíveis e traduzidas e encaminhar aos
+CGPNI irá verificar se as bulas das vacinas já estão disponíveis e traduzidas e encaminhar aos
 estados posteriormente;
 
-e Dia 14/01/2021 às 17:30 ficou agendada a reunião com os Estados, CONASS, CONASEMS,
+Dia 14/01/2021 às 17:30 ficou agendada a reunião com os Estados, CONASS, CONASEMS,
 CGPNI e COE para devolutiva dos estados em relação às Diretrizes;
 
-e Dia 15/01 - a CGPNI vai realizar o treinamento com os estados sobre o fluxo de Eventos
+Dia 15/01 - a CGPNI vai realizar o treinamento com os estados sobre o fluxo de Eventos
 Adversos Pós-Vacinação (EAPV);
 
-e Ficou pactuada a entrega da versão finalizada das Diretrizes preenchidas pelos estados no dia
+Ficou pactuada a entrega da versão finalizada das Diretrizes preenchidas pelos estados no dia
 15/01/2021; impreterivelmente.
 
-PARTICIPANTES:
+ 
 
-e CGPNI
+CGPNI
+COE
 
-e COE
-
-e ESTADOS (virtual)
+ESTADOS (virtual)
 REUNIÃO COE/SE COVID-19
 
 ATIVIDADE: Reunião - Calculadora de Pressão Hospitalar
@@ -6768,7 +6616,7 @@ e CSV- Municípios
  
 ENCAMINHAMENTOS
 
-e Acerca do EAPV, ficou pactuado entre as partes que aos municípios será disponibilizado o
+e Acerca do EAPYV, ficou pactuado entre as partes que aos municípios será disponibilizado o
 banco de dados para consulta;
 
 e DEMAS sugeriu o envio de um pré-cadastro para a segunda dose, por meio de QR-code,
@@ -6783,7 +6631,7 @@ prejudicadas. Proposta de articulação entre COE, ASCOM e NUCOM/SVS sobre a
 comunicação da campanha de vacinação contra a Covid-19;
 
 e 11/01/2021 - Diogo (CONASEMS) elaborará um informe com orientações sobre o ConecteSUS
-e encaminhará à CGPNI. O informe será assinado pelo CONASS, CONASEMS e MS;
+e encaminhará à CGPNI O informe será assinado pelo CONASS, CONASEMS e MS;
 
 e 14/11/2021 (quinta-feira) - CONASEMS realizará uma live para demonstração da utilização do
 SI-PNI;
@@ -6900,9 +6748,7 @@ para o Acre na quarta-feira (17/02/2021) - a confirmar
 PARTICIPANTES:
 
 COE
- 
-
-Anexo Atas Fevereiro 2021 (0020397211) SEI 25000.065528/2021-98 / pg. 140
+CGARB
 REUNIÃO COE/SE COVID-19
 
 ATIVIDADE: Discussão do Painel de Monitoramento de Leitos Covid
@@ -6929,8 +6775,6 @@ Com o preenchimento adequado das informações pelos
 estabelecimentos hospitalares seria possível um painel de
 monitoramento das taxas de ocupação dos leitos covid-19 no país
 a fim de subsidiar futuras tomadas de decisões.
-
- 
 
  
 
@@ -7257,14 +7101,14 @@ medidas recomendadas.
 
 Destacou-se, também, a publicação do Guia de orientações para atenção
 odontológica no contexto da  covid-19 (disponível | em:
-https://www.gov.br/saude/pt-br/media/pdf/202 1/fevereiro/18/03 02 guia-
+https://www.gov.br/saude/pt-br/media/pdf/202 1 /fevereiro/18/03 02 guia-
 de-orientacaoes-para-atencao-odontologicas-no-contexto-da-covid 19-
 isbn.pdf). Além disso, para fins de otimização da implementação e
 disseminação das recomendações pelos gestores, profissionais de saúde e
 população, a CGSB informa que disponibilizou síntese das orientações para a
 garantia da oferta segura da atenção odontológica: os “Dez passos para a
-reorganização dos atendimentos odontológicos” | (Disponível em:
-https://www.youtube.com/watch?v=xymVdOPUhBc).
+reorganização dos atendimentos odontológicos” (Disponível em:
+https://www youtube. com/watch?v=xymVdOPUhBc).
 
  
 
@@ -7379,48 +7223,47 @@ entes federados.
 
 2. Dessa forma, encaminhem-se os arquivos referentes às atas de
 reuniões realizadas neste Centro de Operações de Emergências do período de
+
 24/04/2020 até 30/04/2021 (0020397172; 0020397179; 0020397180;
 0020397181; 0020397185; 0020397190; 0020397195; 0020397204;
 0020397208; 0020397211; 0020397217; 0020397220) conforme requerido.
 
 NIVALDO ALVES DE MOURA FILHO
 Diretor de Programa
-
 Centro de Operações de Emergências
 
  
 
+     
+
  
+
+eil
+eletrônica
 
 Documento assinado eletronicamente por Nivaldo Alves de Moura Filho,
 Diretor(a) de Programa, em 05/05/2021, às 18:38, conforme horário
 oficial de Brasília, com fundamento no art. 6º, & 19, do Decreto nº 8.539, de
 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
 
-= 7]
-assinatura
-eletrônica
-
-     
    
-  
+
+   
+ 
 
 E A autenticidade deste documento pode ser conferida no site
-http://sei.saude.gov.br/sei/controlador externo .php?
+
++: http://seisaude.gov.br/sei/controlador externo .php?
 
 jà acao=documento conferir&id orgao acesso externo=0, informando o
-
-e código verificador 0020397465 e o código CRC 09E476ES.
+4 código verificador 0020397465 e o código CRC 09E476E3.
 
  
 
 Brasília, O5 de maio de 2021.
-
- 
-
- 
-
 Referência: Processo nº 25000.065528/2021-98 SEI nº 0020397465
+
+ 
 MINISTÉRIO DA SAÚDE
 
 CORONAVÍRUS
@@ -7456,7 +7299,7 @@ Coronavírus COVID-19
 Centro de Operações de Emergências
 em Saúde Pública | COE-COVID-19
 
-Brasília/DF + Fevereiro de 2020
+Brasília/DF * Fevereiro de 2020
 CORONAVIRUS
 
 COVID-19
@@ -8867,12 +8710,12 @@ CORONAVÍRUS
 Plano de Contingência
 Nacional para Infecção
 Humana pelo novo
-Coronavírus Covid-19
+Coronavirus Covid-19
 
 NÍVEL DE RESPOSTA: EMERGÊNCIA DE SAÚDE
 PÚBLICA DE IMPORTÂNCIA NACIONAL (ESPIN)
 
-ESTE DOCUMENTO SUBSTITUI O NÍVEL DE RESPOSTA: EMERGÊNCIA DE SAÚDE PÚBLICA
+ESTE DOCUMENTO SUBSTITUI O NÍVEL DE RESPOSTA: io Te SN CIA DE SAÚDE PÚBLICA
 DE IMPORTÂNCIA NACIONAL (ESPIN) DO PLANO DE CONTINGÊNCIA NACIONAL PARA
 INFECÇÃO HUMANA PELO NOVO CORONAVÍRUS COVID-19, DE FEVEREIRO DE 2020.
 
@@ -8880,12 +8723,11 @@ Centro de Operações de Emergências em
 Saúde Pública | COE-Covid-19
 
 == PÁTRIA AMADA
-
-BRASIL
+vvsgges a BRASIL
 
  
 
-Brasília/DF e Novembro de 2020
+Brasília/DF « Novembro de 2020
 
  
 MINISTÉRIO DA SAUDE
@@ -8942,15 +8784,13 @@ NÍVEL DE RESPOSTA: EMERGÊNCIA DE SAÚDE PÚBLICA DE IMPORTÂNCIA NACIONAL (ESP
 
 REFERÊNCIAS 10
 
-ja]
-
  
 INTRODUÇÃO
 
 Este documento apresenta a atualização do Plano de Contingência Nacional para Infecção
 Humana pelo novo Coronavírus (Covid-19) no nível de resposta Emergência de Saúde Pública de
 Importância Nacional (ESPIN). Ressalta-se que a versão anterior com os demais níveis de resposta
-encontra-se disponível em https://coronavirus.saude.gov.br/profissional-gestortprotocolos.
+encontra-se disponível em https://coronavirus.saude.gov.br/profissional-gestorgprotocolos.
 Destaca-se que esta atualização refere-se ao nível de resposta ESPIN uma vez que os demais
 
 níveis já foram transcorridos no percurso da pandemia.
@@ -9047,8 +8887,6 @@ suspeitos ou confirmados de infecção pelo novo coronavírus (Covid-19), confor
 da Anvisa, no
 link:(https://www20.anvisa.gov.br/segurancadopaciente/index.php/alertas/item/covid-19) -
 NOTA TÉCNICA GVIMS/GGTES/ANVISA Nº 04/2020
-
-6
 Assistência
 
 Apoiar o funcionamento adequado e oportuno da organização da rede de atenção para
@@ -9139,7 +8977,7 @@ de saúde, viajantes, escolas, dentre outros.
 Promover coletivas de imprensa com o porta-voz responsável pela interlocução com os veículos
 de comunicação.
 
-Definir com a Secretaria Executiva se além do VS, terá outro porta-voz responsável pela
+Definir com a Secretaria Executiva se além do MIS, terá outro porta-voz responsável pela
 interlocução com os veículos de comunicação para tratar sobre o novo coronavírus nas coletivas
 de imprensa.
 
@@ -9149,7 +8987,7 @@ informações relacionadas à Covid-19 para as assessorias de comunicação dos 
 Estabelecer parcerias com a rede de comunicação pública (TVs, rádios e agências de notícias)
 para enviar mensagens com informações atualizadas.
 
-Obs: Considerando determinação judicial, os dados do Painel Coronavírus
+Obs: Considerando determinação judicial os dados do Painel Coronavírus
 (https://covid.saude.gov.br/) vêm sendo divulgados de forma regular sem alterar o layout nos
 moldes já estabelecidos.
 
@@ -9210,14 +9048,14 @@ World Health Organization — https://www.who.int/emergencies/diseases/novel-cor
 2019
 
 10
-DISQUE
-SAÚDE
+DISQUE ZA
+SAÚDE 196
 
-PÁTRIA AMADA
+== PÁTRIA AMADA
 
-MINISTÉRIO DA BRASI L
+MINISTÉRIODA [4 BRASI L
 
-SAÚDE GOVERNO FEDERAL
+SAUDE dm GoveRNO FEDERAL
 
  
 
@@ -9244,14 +9082,14 @@ COVID-A9.
 
 ASS
 
-Ea!
+Ea
 
 ES
 
-32 edição- versão eletrônica
+3º edição- versão eletrônica
 
 Brasília — DF
-flo pa]
+Eloa]
 
  
 MINISTÉRIO DA SAUDE
@@ -9268,7 +9106,7 @@ Saúde Pública | COE COVID-19
 ESTE DOCUMENTO SUBSTITUI A 1º EDIÇÃO, DE FEVEREIRO DE 2020, E
 A 2º EDIÇÃO, DE NOVEMBRO DE 2020, DO PLANO DE CONTINGÊNCIA
 NACIONAL PARA INFECÇÃO HUMANA PELO NOVO CORONAVÍRUS
-COVID-9.
+COVID-A9.
 
 3º edição- versão eletrônica.
 
@@ -9279,7 +9117,7 @@ Esta obra é disponibilizada nos termos da Licença Creative Commons — Atribui
 DOE Compartilhamento pela mesma licença 4.0 Internacional. É permitida a reprodução parcial ou total desta
 obra, desde que citada a fonte.
 
-[EI A coleção institucional do Ministério da saúde pode ser acessada, na íntegra, na Biblioteca Virtual em Saúde
+[E A coleção institucional do Ministério da saúde pode ser acessada, na íntegra, na Biblioteca Virtual em Saúde
 do Ministério da Saúde: http://bvsms.saude.gov.br.
 
 Tiragem: 3º edição — 2021 — versão eletrônica
@@ -9308,7 +9146,7 @@ Ficha Catalográfica
 
 Brasil. Ministério da Saúde.
 Plano de Contingência Nacional para Infecção Humana pelo novo Coronavírus COVID-19 Centro de Operações de Emergências em
-Saúde Pública | COE COVID-19 [recurso eletrônico] / Ministério da Saúde, Centro de Operações de Emergências em Saúde Pública. - Brasília
+Saúde Pública | COE COVID-19 [recurso eletrônico] / Ministério da Saúde, Centro de Operações de Emergências em Saúde Pública. — Brasília
 Ministério da Saúde, 2021.
 26p.:il.
 
@@ -9332,7 +9170,7 @@ ESTRUTURA DE COMANDO
 MEDIDAS DE RESPOSTA PARA INFECÇÃO HUMANA PELO NOVO VÍRUS (SARS-COVID-2),
 
 NÍVEL DE RESPOSTA: ALERTA
-NÍVEL DE RESPOSTA: PERIGO IMINENTE...
+NÍVEL DE RESPOSTA: PERIGO IMINENTE
 
 NÍVEL DE RESPOSTA: EMERGÊNCIA DE SAÚDE PÚBLICA DE IMPORTÂNCIA NACIONAL (ESPIN)
 
@@ -9340,7 +9178,7 @@ REFERÊNCIAS...
 
  
 
-Anexo 3 - Plano de Contingencia Covid fev2021 (0020411604) SEI 25000.065528,
+Anexo 3 - Plano de Contingencia Covid fev2021 (0020411604) SEI 25000.065528/2021-9:
  
 
 INTRODUÇÃO
@@ -9373,7 +9211,7 @@ proporcional e restrita aos riscos vigentes.
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 NÍVEIS DE RESPOSTA
@@ -9422,11 +9260,11 @@ mais relacionados com a competência de detectar, investigar, manejar e notifica
 potencialmente suspeitos da infecção humana pelo novo coronavírus. Nesse momento inicial,
 várias doenças respiratórias comuns poderão ser fator de confusão. Para isso, é necessário dispor
 de todas as definições de caso que contemplem situações possíveis, incluindo a definição de
-caso excluído. Importante salientar a todos os serviços que as definições serão suficientemente
+caso excluído. Im portante salientar a todos os serviços que as definições serão suficientemente
 
  
 
-Anexo 3 - Plano de Contingenci: il SEI 25000.06552:
+Anexo 3 - Plano de Contingenci
  
 
 sensíveis no início e progridem para maior especificidade. No entanto, mesmo no início, alguns
@@ -9479,7 +9317,7 @@ Saúde, nos casos de situações epidemiológicas;”
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 O nível de Emergência ESPIN está organizado em duas fases:
@@ -9529,7 +9367,7 @@ isolamento domiciliar para os casos leves, devem ser adotadas nesta fase.
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 Adicionalmente, caso seja evidenciada a possibilidade de superação da capacidade de
@@ -9541,7 +9379,7 @@ Grau de atividade nesta fase por setor:
 
 Vigilância em Saúde: +
 Atenção Especializada em Saúde: ++
-Atenção Primária em Saúde: +++
+Atenção Primária em Saúde: ++
 
 AJUSTES NO NÍVEL DE RESPOSTA
 
@@ -9554,7 +9392,7 @@ quando uma melhor avaliação de risco puder ser feita à luz de mais informaç�
 
  
 
-SEI 25000.065528,
+lano de Contingenci il v2021 (0020411 SEI 25000.065528/202
  
 
 ESTRUTURA DE COMANDO CENTRO DE OPERAÇÕES
@@ -9601,7 +9439,7 @@ alguma forma, possam ter benefícios ou prejuízos com a sua participação.
 
  
 
-Anexo 3 - Plan:
+SEI 25000.065528/2021-98 /
  
 
 MEDIDAS DE RESPOSTA À DOENÇA CAUSADA PELO
@@ -9657,7 +9495,7 @@ e a detecção de possíveis casos suspeitos nos serviços de saúde.
 
  
 
-Anexo 3 - Plan:
+lano de Contingenci il SEI 25000.065528/202
  
 
 Emitir alertas para as Secretarias Estaduais de Saúde sobre a situação epidemiológica
@@ -9693,7 +9531,7 @@ pelo novo coronavírus (covid-19), junto a rede laboratorial de referência para
 respiratórios.
 
 Estabelecer protocolos de diagnóstico para a infecção humana pelo novo coronavírus
-(Covid-19), de acordo com as recomendações da OMS.
+(covid-19), de acordo com as recomendações da OMS.
 
 Realizar levantamento de capacidade de resposta para o diagnóstico de infecção humana
 pelo novo coronavírus (covid-19) nos laboratórios de referência.
@@ -9714,7 +9552,7 @@ realização do diagnóstico.
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 Orientar aos Lacens quanto aos critérios de seleção das amostras para envio aos
@@ -9775,7 +9613,7 @@ de infecção humana pelo novo coronavírus (covid-19).
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 Orientar aos gestores das unidades federadas (UF) para que identifiquem a capacidade
@@ -9833,7 +9671,7 @@ e controle para a infecção humana pelo novo coronavírus (covid-19).
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 = Mobilizar e orientar a comunidade portuária e aeroportuária e de áreas de fronteira para
@@ -9892,7 +9730,7 @@ novo coronavírus (SARS-CoV-2).
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 Emitir instruções para os órgãos de governo sobre diretrizes de controle de infecção e o
@@ -9946,7 +9784,7 @@ humana pelo novo coronavírus (covid-19).
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 Emitir alertas para as Secretarias Estaduais de Saúde sobre a situação epidemiológica
@@ -10003,7 +9841,7 @@ e outros vírus respiratórios.
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 Comunicar a vigilância epidemiológica os resultados laboratoriais para adoção de medidas
@@ -10032,7 +9870,7 @@ MEDIDAS DE CONTROLE DE INFECÇÃO
 Orientar os serviços de saúde quanto às medidas de prevenção e controle de infecção
 
 para casos suspeitos ou confirmados de infecção pelo novo coronavírus (Covid-19), conforme
-orientações da Anvisa, nolink:(https://wmww20.anvisa.gov.br/segurancadopaciente/index.php/
+orientações da Anvisa, nolink:(https://www20.anvisa.gov.br/segurancadopaciente/index.php/
 alertas/item/covid-19) - NOTA TÉCNICA GVIMS/GGTES/ANVISA Nº 04/2020
 
 ASSISTÊNCIA
@@ -10049,7 +9887,7 @@ prevenção e controle, entre outros.
 Estimular a organização e apresentação dos planos de contingência pelas unidades
 federadas, e orientar quanto a importância do acolhimento, reconhecimento precoce e
 controle de casos suspeitos ou confirmados para a infecção humana pelo novo coronavírus
-(Covid-19) na rede pública e privada.
+(covid-19) na rede pública e privada.
 
 Fortalecer junto aos estados e municípios a importância de implementar precauções
 para gotículas/ aerossóis de acordo com cada caso e gravidade no enfrentamento de
@@ -10057,7 +9895,7 @@ casos suspeitos ou confirmados da infecção humana pelo novo coronavírus (covi
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 = Estimular a articulação da rede de urgência e emergência, rede hospitalar e laboratorial
@@ -10113,7 +9951,7 @@ bordo dos meios de transporte ou nos pontos de entrada.
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 Reforçar e ampliar a orientação aos viajantes com alerta sonoro nos aeroportos, portos e
@@ -10169,7 +10007,7 @@ veículos de comunicação.
 
  
 
-Anexo 3 - Plano de Contingenci: il SEI 25000.06552:
+Anexo 3 - Plano de Contingenci
  
 
 GESTÃO
@@ -10207,7 +10045,7 @@ Mapear os laboratórios com capacidade tecnológica de produção para testes pa
 diagnóstico e vacinas para prevenção e controle do novo coronavírus (covid-19).
 
 NÍVEL DE RESPOSTA: EMERGÊNCIA DE SAÚDE PÚBLICA DE
-IMPORT ÂNCIANACIONAL (ESPIN)
+IMPORTÂNCIANACIONAL (ESPIN)
 
 INDICADOR: há confirmação de transmissão local do primeiro caso de Coronavírus
 
@@ -10219,7 +10057,7 @@ nível operacional.
 
  
 
-SEI 25000.065528,
+lano de Contingenci il v2021 (0020411 SEI 25000.065528/202
  
 
 SÃO RECOMENDAÇÕES:
@@ -10277,7 +10115,7 @@ acordo com as recomendações da OMS.
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 = Subsidiar a rede laboratorial quanto aos insumos para diagnóstico da infecção por
@@ -10306,7 +10144,7 @@ MEDIDAS DE CONTROLE DE INFECÇÃO
 
 = Orientar os serviços de saúde quanto às medidas de prevenção e controle de infecção para
 casos suspeitos ou confirmados de infecção pelo novo coronavírus (Covid-19), conforme
-orientações da Anvisa, nolink:(https:/Avww20.anvisa.gov.br/segurancadopaciente/index.
+orientações da Anvisa, nolink:(https:/Ayww20.anvisa.gov.br/segurancadopaciente/index.
 php/alertas/item/covid-19) - NOTA TÉCNICA GVIMS/GGTES/ANVISA Nº 04/2020
 
 ASSISTÊNCIA
@@ -10329,12 +10167,12 @@ dos mesmos, no período da pandemia.
 Equipamento de Proteção Individual (EPI) para proteção dos profissionais atuantes no
 atendimento aos casos suspeitos ou confirmados da infecção humana por Sars-CoV-2 nos
 serviços públicos e privados, conforme recomendações da Anvisa: NOTA TÉCNICA GVIMS/
-GGTES/ANVISA Nº 04/2020 (link: https:/Awww20.anvisa.gov.br/segurancadopaciente/index.
+GGTES/ANVISA Nº 04/2020 (link: https://www20.anvisa.gov.br/segurancadopaciente/index.
 php/alertas/item/covid-19).
 
  
 
-Anexo 3 - Plan: il SEI 25000.065528/20:
+SEI 25000.065528/2021-98 /
  
 
 ASSISTÊNCIA FARMACÊUTICA
@@ -10390,7 +10228,7 @@ infecção humana pelo novo coronavírus (Covid-19).
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 COMUNICAÇÃO DE RISCO
@@ -10447,7 +10285,7 @@ Sars-CoV-2.
 
  
 
-Anexo 3 - Plano de Contingenci: il SEI 25000.06552:
+Anexo 3 - Plano de Contingenci
  
 
 = Emitir instruções para os órgãos de governo sobre diretrizes de controle de infecção e o
@@ -10476,37 +10314,40 @@ elaborou Plano de Contingência Nacional para Infecção Humana pelo novo Corona
 19) em Povos Indígenas e os Planos de Contingência dos 34 Distritos Especiais de Saúde
 Indígena (DSEI), localizados em todas as regiões do território brasileiro. O material encontra-
 se disponível para consulta no link: https://drive.google.com/drive/folders/1ti4y0weLDs)YdL-
-R3r2FuxDf8XWDn20.
+R3r2FuxDf8XWDn20
 
 Por fim, sugere-se que sempre que houver a necessidade de adequação ou atualização
 dos Planos de Contingência municipais e estaduais, estes ocorram em colaboração com os DSEI.
 
  
 
-SEI 25000.065528,
+lano de Contingenci il SEI 25000.065528/202
  
 
 REFERÊNCIAS
 
 = Agência Nacional de Vigilância Sanitária - http://portal.anvisa.gov.br/coronavirus
 
-= Ministério da Saúde. Secretaria de Vigilância em Saúde - https:/Anww.saude.gov.br/
+= Ministério da Saúde. Secretaria de Vigilância em Saúde - https:/Awww.saude.gov.br/
 saude-de-a-z/coronavirus
 
-= World Health Organization - https:/Anww.who.int/emergencies/diseases/novel-
+= World Health Organization - https:/Anww.who. int/emergencies/diseases/novel-
 coronavirus-2019
 
  
 
-Anexo 3 - Plan:
+lano de Contingenci il v2021 (0020411 SEI 25000.065528/202
 DISQUE
 SAUDE
 
-Biblioteca Virtual em Saúde do Ministério da Saúde
-bvsms.saudegov.br
+Biblioteca Virtual em Saúde do Ministério da Saúde,
+bvsms.saudegovibr
 
 MINISTÉRIODA Governo
 SAUDE Federal
+
+a |
+SUS HM
 
  
  
@@ -10550,36 +10391,31 @@ Centro de Operações de Emergências
 
  
 
- 
-
 Documento assinado eletronicamente por Nivaldo Alves de Moura Filho,
 Diretor(a) de Programa, em 06/05/2021, às 13:51, conforme horário
-oficial de Brasília, com fundamento no art. 6º, 8 19, do Decreto nº 8.539, de
+oficial de Brasília, com fundamento no art. 6º, & 19, do Decreto nº 8.539, de
 
 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
 
-  
+na
+Elza dee] A autenticidade deste documento pode ser conferida no site
 
-a
-eil 5
+f |
+
+sell! a
 assinatura
-
 eletrônica
 
- 
-
   
 
  
-
-na
-Elsa tece [e] A autenticidade deste documento pode ser conferida no site
       
 
-http: //sei.saude.gov.br/sei/controlador externo .php?
++ http: //sei.saude.gov.br/sei/controlador externo.php?
 acao=documento conferir&id orgao acesso externo=0, informando o
 
-ERR código verificador 0020408146 e o código CRC BCB5B576.
+' 3
+ETESEM código verificador 0020408146 e o código CRC BCB5B576.
 
  
 
@@ -10644,7 +10480,7 @@ mencionado, capitaneado pela SE/MS, sob a responsabilidade desta e das demais 06
 finalísticas desta pasta ministerial.
 
 Lof4 29/04/2021 15:23
-SEI/MS - 0019215144 - Nota Técnica https://sei.saude.gov.br/sei/controlador.php?acao=documento imprimir...
+SEL/MS - 0019215144 - Nota Técnica https://sei.saude.gov.br/sei/controlador.php?acao=documento imprimir...
 
 2.8. Alínea "d": O Departamento de Gestão da Educação na Saúde - DEGES/SGTES, diante da
 distribuição de tarefas dispostas no Plano Manaus, foi designado para elaborar a plataforma em questão,
@@ -10686,7 +10522,7 @@ pandemia.
 2.12. Cumpre informar que a construção da Plataforma Digital TrateCOV Brasil teve como
 referência a ferramenta diagnóstica AndroCoV Clinical Scoring for COVID-19 Diagnosis, citada no parágrafo
 anterior, e foi desenvolvida por pesquisadores brasileiros com base em dados clínicos e epidemiológicos,
-conforme se extrai do link https://www.cureus.com/articles/49445-the-androcov-clinical-scoring-for-
+conforme se extrai do link https://Awww.cureus.com/articles/49445-the-androcov-clinical-scoring-for-
 covid-19-diagnosis-a-prompt-feasible-costless-and-highly-sensitive-diagnostic-tool-for-covid-19-based-on-
 a-1757-patient-cohort. Essa ferramenta propõe um escore clínico para permitir o diagnóstico precoce da
 COVID-19 baseado em sinais e sintomas.
@@ -10700,7 +10536,7 @@ endocrinologista, mestre e doutor (PhD) em Endocrinologia Clínica pela Unifesp/
 principal do ensaio clínico AndroCoV, um dos autores do “Clinical Diagnosis of COVID-19: a Prompt,
 
 2 of4 29/04/2021 15:23
-SEI/MS - 0019215144 - Nota Técnica https://sei.saude.gov.br/sei/controlador.php?acao=documento imprimir...
+SEL/MS - 0019215144 - Nota Técnica https://sei.saude.gov.br/sei/controlador.php?acao=documento imprimir...
 
 Feasible, Costless, and Highly Sensitive Diagnostic Tool for COVID-19 Based on a 1,757-Patient Cohort (The
 AndroCoV Clinical Scoring for COVID-19 Diagnosis)” — trabalho em publicação no Cureus Journal of
@@ -10752,26 +10588,29 @@ Diretor do Departamento de Gestão da Educação na Saúde
 
  
 
-3 of4 29/04/2021 15:23
-SEI/MS - 0019215144 - Nota Técnica https://sei.saude.gov.br/sei/controlador.php?acao=documento imprimir...
+3of4 29/04/2021 15:23
+SEL/MS - 0019215144 - Nota Técnica https://sei.saude.gov.br/sei/controlador.php?acao=documento imprimir...
 
-e Documento assinado eletronicamente por Vinicius Nunes Azevedo, Diretor(a) do Departamento de
-seil Gestão da Educação na Saúde, em 24/02/2021, às 19:32, conforme horário oficial de Brasília, com
+       
+ 
+  
 
-assinatura
+il
+sei! à
+ass
+eletrônica
 
-disinatura fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
+Documento assinado eletronicamente por Vinicius Nunes Azevedo, Diretor(a) do Departamento de
+Gestão da Educação na Saúde, em 24/02/2021, às 19:32, conforme horário oficial de Brasília, com
+fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
 900 de 31 de Março de 2017.
 
  
 
  
-  
 
 A autenticidade deste documento pode ser conferida no site http: //sei.saude.gov.br
-
-m /sei/controlador externo .php?acao=documento conferir&id orgao acesso externo=0, informando o
-código verificador 0019215144 e o código CRC CC8267F4.
+q /sei/controlador externo .php?acao=documento conferir&id orgao acesso externo=0, informando o
 
  
 
@@ -10785,7 +10624,7 @@ Departamento de Gestão da Educação na Saúde - DEGES
 SRTV 702, Via W5 Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
 Site - saude gov.br
 
-4 of 4 29/04/2021 15:23
+4 of4 29/04/2021 15:23
 SEL'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
 
  
@@ -10839,9 +10678,9 @@ ao seu paciente, cabendo a este, ou aos seus familiares, a partir da ciência do
 manifestar ou não o consentimento.
 
 Lof8 29/04/2021 15:22
-SEI/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+SEL/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
 
-2 of 8
+2 0of8
 
 2.6. Dessa maneira, cumpre destacar que para a confirmação do diagnóstico de covid-19,
 mantém-se as recomendações prévias (https://coronavirus.saude.gov.br/) de realizar o rtPCR (Real-Time
@@ -10854,7 +10693,7 @@ protocolo clínico de alta sensibilidade, considerando, ainda:
 
 e Ovírus circulante predominante é o SARS-CoV-2;
 
-e Ovuso obrigatório e disseminado de máscaras diminuiu drasticamente a contaminação
+e Ouso obrigatório e disseminado de máscaras diminuiu drasticamente a contaminação
 por bactérias e outros vírus, reduzindo muito a possibilidade de infecções de vias
 aéreas superiores (IVAS) e de pneumonias de origem infecciosa serem de outras
 etiologias que não causadas pelo SARS-CoV-2 (covid-19);
@@ -10902,7 +10741,7 @@ constatação o COMUNICADO RELATIVO AO DIAGNÓSTICO MOLECULAR DE VARIANTES
  
 
 29/04/2021 15:22
-SEI/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+SEL/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
 
 DE SARS-COV?2, publicado pela RedeVírus MCTI, do Ministério da Ciência, Tecnologia e
 Inovações (MCTI), que aponta a necessidade de buscar a ampliação de genes alvos do
@@ -10919,7 +10758,7 @@ ferramenta diagnóstica clínica de Covid-19 alternativa dentro do contexto da p
 Organização Mundial da Saúde publicou uma nota, em 20 de janeiro de 2021 ressaltando que o
 diagnóstico molecular (rtPCR-swab nasal ou orofaríngeo) da Covid-19 deve passar a ser utilizado como um
 auxiliar diagnóstico dentro da análise de um contexto clínico e epidemiológico, conforme se extrai do link:
-https:/Avww.who.int/news/item/20-01-2021-who-information-notice-for-ivd-users-2020-05.
+https:/Awww.who.int/news/item/20-01-2021-who-information-notice-for-ivd-users-2020-05.
 
 2.9. Para tanto, foi desenvolvida por pesquisadores brasileiros uma ferramenta diagnóstica com
 base em dados clínicos e epidemiológicos, chamada AndroCoV Clinical Scoring for COVID-19 Diagnosis,
@@ -10950,32 +10789,53 @@ monitoramento e o isolamento precoce do paciente, conforme imagem que segue abai
  
 
 30f8 29/04/2021 15:22
-SEI/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+SEL/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+
+Anosmia or =|
+
+Contact wi
+confirmed household
+
+Contact with confirmed working partner"
 
 3 points each
 
-6 + points 4-5 points 2-3 points
+6+ points 4-5 points
 
 DIAGNOSIS LIKELY POSSIBLE
 OF COVID-19 COVID-19 COVID-19
 
-[ MANAGEMENT
+DIAGNOSIS
 
  
 
-— DiagnosisotcoviDao= JM Valid wihão =
+MANAGEMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+   
+
+Diagnosis of COVID-19 = o Valid wihão =
+
 1. Protost probability > 80% 1. Masks are obligatory
+>tostsonsitivty | 2. Population vaccinated < 70%.
 
-(2. Protost probability > tost sonsitviy ) 2 Ponuton vaceinatod «roma
-a apo mare rent 3. Transmission rate > 1.00r
-
-onda endorse tape <1.0for<4 weeks
-
-2
+3. Transmission rate > 1.00r
+<1.0for<4 weeks
 
  
 
- 
+   
 
 2.13. A abordagem farmacológica constante na plataforma, para orientação técnica aos médicos
 que optem por utilizar a ferramenta tecnológica e por adotar o tratamento, foi elaborada utilizando-se
@@ -10987,8 +10847,8 @@ Ademais, foram elaboradas Orientações de Conduta Clínica e Tratamento Precoce
 /14/14-0121 folder manaus am2.pdf/), com o intuito de colaborar com o enfrentamento do
 recrudescimento da crise em Manaus/AM.
 
-AB e o . “CS90M DOI 15:22
-SEL/'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+A of8 29/04/2021 15:22
+SEL'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
 
 2.14. Como complemento às ações do Ministério da Saúde, foi disponibilizada, em 11 de janeiro,
 no que se refere ao plano de contingência no estado do Amazonas, uma fração da plataforma digital
@@ -10999,6 +10859,7 @@ TrateCOV.
 da ferramenta, permitiu-se apenas o acesso ao algoritmo de cálculo do Escore Clínico Androcov, com
 indicação de todas as medicações previstas nas Orientações de Conduta Clínica e Tratamento Precoce
 para covid-19 (disponível em https:/Avww.gov.br/saude/pt-br/media/pdf/2021/janeiro
+/14/14-01-21 folder manaus am2.pdf/). Dessa forma, não houve possibilidade de geração de qualquer
 registro das informações inseridas nos campos, nem mesmo a opção de produção de qualquer output, ou
 seja, a impressão ou exportação de prescrição medicamentosa ou de solicitação de exames diagnósticos,
 tais como o RT-gPCR, podendo somente ser permitida aos médicos devidamente cadastrados e validados
@@ -11044,8 +10905,8 @@ cenário de cada projeto; (4) experiências prévias de diversas instituições 
 para o enfrentamento da pandemia da covid-19; (5), estando este hospedado e disponibilizado na
 infraestrutura tecnológica do Ministério da Saúde, sem a geração de custos adicionais para a
 
-Sof8 29/04/2021 15:22
-SEL/'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+Sof8s8 29/04/2021 15:22
+SEL'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
 
 disponibilização da ferramenta.
 
@@ -11100,7 +10961,7 @@ Il - protocolo clínico e diretriz terapêutica: documento que estabelece crité
 doença ou do agravo à saúde; o tratamento preconizado, com os medicamentos e demais produtos
 apropriados, quando couber; as posologias recomendadas; os mecanismos de controle clínico; e o
 acompanhamento e a verificação dos resultados terapêuticos, a serem seguidos pelos gestores do
-SUS. (Incluído pela Lei nº 12.401, de 2011)
+sus. (Incluído pela Lei nº 12.401, de 2011)
 
 Art. 19-0. Os protocolos clínicos e as diretrizes terapêuticas deverão estabelecer os medicamentos
 ou produtos necessários nas diferentes fases evolutivas da doença ou do agravo à saúde de que
@@ -11113,7 +10974,7 @@ serão aqueles avaliados quanto à sua eficácia, segurança, efetividade e cust
 diferentes fases evolutivas da doença ou do agravo à saúde de que trata o protocolo. (Incluído
 
 6 of 8 29/04/2021 15:22
-SEI/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+SEL/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
 
 pela Lei nº 12.401, de 2011)
 
@@ -11126,7 +10987,7 @@ Comissão Intergestores Tripartite; (Incluído pela Lei nº 12.401, de 2011)
 
  
 
-Il- no âmbito de cada Estado e do Distrito Federal, de forma suplementar, com base nas relações de
+Il - no âmbito de cada Estado e do Distrito Federal, de forma suplementar, com base nas relações de
 medicamentos instituídas pelos gestores estaduais do SUS, e a responsabilidade pelo fornecimento
 será pactuada na Comissão Intergestores Bipartite; (Incluído pela Lei nº 12.401, de 2011)
 
@@ -11173,37 +11034,45 @@ Diretor do Departamento de Gestão da Educação na Saúde
 De acordo.
 
 Tof8 29/04/2021 15:22
-SEL/'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+SEL'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+
+S of8
 
 MAYRA ISABEL CORREIA PINHEIRO
 Secretária de Gestão do Trabalho e da Educação na Saúde
 
  
 
-il
-seil
+:
+sel
+seil 5)
 eletrônica
+
+  
 
 Documento assinado eletronicamente por Vinicius Nunes Azevedo, Diretor(a) do Departamento de
 Gestão da Educação na Saúde, em 01/02/2021, às 15:50, conforme horário oficial de Brasília, com
+
 fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
 900 de 31 de Março de 2017.
 
- 
+    
+     
 
-> Documento assinado eletronicamente por Mayra Isabel Correia Pinheiro, Secretário(a) de Gestão do
-seil 8 Trabalho e da Educação na Saúde, em 01/02/2021, às 16:02, conforme horário oficial de Brasília,
+sel
+seil 5)
+eletrônica
 
+Documento assinado eletronicamente por Mayra Isabel Correia Pinheiro, Secretário(a) de Gestão do
+Trabalho e da Educação na Saúde, em 01/02/2021, às 16:02, conforme horário oficial de Brasília,
 com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria
 nº 900 de 31 de Março de 2017.
 
-assinatura
-
-eletrônica
+1 A autenticidade deste documento pode ser conferida no site http: //sei.saude.gov.br
++: /sei/controlador externo.php?acao=documento conferir&id orgao acesso externo=0, informando o
+código verificador 0018855417 e o código CRC BB27C7DB.
 
  
-
-  
 
  
 
@@ -11217,7 +11086,7 @@ Departamento de Gestão da Educação na Saúde - DEGES
 SRTV 702, Via W5 Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
 Site - saude gov.br
 
-S of 8 29/04/2021 15:22
+29/04/2021 15:22
  
 
 Ministério da Saúde
@@ -11237,8 +11106,8 @@ trabalhos da referida CPI Pandemia.
 
 2. ANÁLISE
 
-Em atenção à demanda em tela, esta área técnica presta as informações referentes aos itens 4,5.
-6 e 7, abaixo descritos:
+Em atenção à demanda em tela, esta área técnica presta as informações referentes aos itens 4,5,
+6e7, abaixo descritos:
 
 4. A indicação do (s) responsável (is) pela concepção e desenvolvimento do
 aplicativo TrateCOV, bem como dos especialistas consultados para a curadoria
@@ -11276,7 +11145,7 @@ qualidade assistencial, fluxo operacional e disseminação de dados de pesquisas
 científicas. Esse sistema, desenvolvido por pesquisadores da Vanderbilt
 University (Tennessee, Estados Unidos), conta com o suporte financeiro
 do National Institute of Health (NIH) e apoio técnico-científico do REDCap
-Consortium (Consórcio Internacional do REDCap), que é constituido por
+Consortium (Consórcio Internacional do REDCap), que é constituído por
 milhares de instituições acadêmicas internacionais.
 
 Nesse sentido, visando a garantir a segurança dos dados, o REDCap atende
@@ -11285,7 +11154,7 @@ saúde definidas internacionalmente (HIPAA, Health Insurance Portability and
 Accountability Act, Estados Unidos; 21 CFR Part 11 Code of Federal
 Regulations, Estados Unidos; FISMA, Federal Information Security
 Modernization Act, Estados Unidos) e apresenta total compatibilidade com as
-normas descritas na Lei Nº 13.709, de 14 de agosto de 2018 - Lei Geral de
+normas descritas na Lei Nº 13.709, de 14 de agosto de 2018 — Lei Geral de
 Proteção de Dados - LGPD (BRASIL, 2020).
 
 2.3. Ademais, esclarece-se que as informações do código-fonte da
@@ -11298,6 +11167,7 @@ desenvolvimento tecnológico, nos termos disciplinados pela Lei Nº 12.527, de
 
 2.4. Em resposta ao item 6, esclarece-se que o aplicativo TrateCOV foi
 desativado pelo Ministério da Saúde em obediência a ordem judicial, conforme
+
 esclarecido na Nota Técnica nº 90/2021-DEGES/SGTES/MS (0020397430),
 especialmente no que consta em seu item 2.10.
 
@@ -11315,23 +11185,23 @@ os autos ao GAB/SGTES/MS, para ciência e providências pertinentes.
 
  
 
+     
+
+coil
+
+eletrônica
+
 Documento assinado eletronicamente por Musa Denaise de Sousa Morais
 de Melo, Diretor(a) do Departamento de Gestão da Educação na Saúde
 substituto(a), em 05/05/2021, às 19:17, conforme horário oficial de
 Brasília, com fundamento no art. 6º, & 1º, do Decreto nº 8.539, de 8 de
+
 outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
 
-2
-seil
-: É)
-assinatura
-eletrônica
-
-    
-  
+      
+ 
  
 
-   
  
 
  
@@ -11339,7 +11209,7 @@ eletrônica
  
 
 E A autenticidade deste documento pode ser conferida no site
-* http://seisaude.gov.br/sei/controlador externo.php?
+http://sei.saude.gov.br/sei/controlador externo.php?
 
  
 
@@ -11360,7 +11230,7 @@ Gabinete
 
 NOTA TÉCNICA Nº 9/2021-SAPS/GAB/SAPS/MS
 
-1. ASSUNTO
+io ASSUNTO
 
 1.1. Trata-se do Ofício nº 539/2021 - CPIPANDEMIA (0020324700), de
 30/04/2021, que encaminha o Requerimento nº 302-2021/CPIPANDEMIA
@@ -11369,7 +11239,7 @@ NOTA TÉCNICA Nº 9/2021-SAPS/GAB/SAPS/MS
 Saúde-SAPS requer exarar manifestação, conforme suas atribuições, apenas
 quanto aos itens abaixo, quais sejam:
 
-“f..] sejam submetidas à deliberação do Plenário desta Comissão
+“L..] sejam submetidas à deliberação do Plenário desta Comissão
 
 Parlamentar de Inquérito as seguintes requisições de informações ao
 Ministério da Saúde:
@@ -11397,7 +11267,7 @@ prestadas as informações solicitadas.
 cidade de Wuhan, na China, foi identificado um novo vírus, do grupo dos
 Coronavírus, temporariamente denominado como 2019-nCov. Em janeiro de
 2020, a Organização Mundial de Saúde (OMS) declarou a situação do surto do
-novo coronaviírus como Emergência de Saúde Pública de Importância
+novo coronavírus como Emergência de Saúde Pública de Importância
 Internacional (ESPII). No Brasil, em 22 de janeiro de 2020, foi ativado o Centro
 de Operações de Emergência em Saúde Pública (COE) do Ministério da Saúde
 (MS), com o objetivo de nortear a atuação do MS na resposta à emergência de
@@ -11415,7 +11285,7 @@ OMS comunicou o nome definitivo do vírus, que passou a ser descrito como
 Sars-CoV-2, causador da infecção respiratória covid-19.
 
 2.3. Em março de 2020, a OMS declarou a pandemia de covid-19, diante
-da disseminação global do Novo Coronavirus. Ainda no mês de março, o Brasil
+da disseminação global do Novo Coronavírus. Ainda no mês de março, o Brasil
 declarou a situação de transmissão comunitária em território nacional, a partir
 da publicação da portaria nº 454, de 20 de março de 2020.
 
@@ -11538,19 +11408,19 @@ gripal. Sobre a ampliação do número de Equipes de Saúde da Família (eSF),
 informamos que o Ministério da Saúde está aumentando o acesso da população
 à atenção primária a partir do credenciamento de mais equipes de saúde da
 família e atenção primária que atuam nas Unidades de Saúde da Família. E
-meta do governo federal a implantação de 50 mil equipes até 2022,
+meta do governo federal a implantação de 5O mil equipes até 2022,
 alcançando a cobertura de 70% da população.
 
-2.18. Contamos atualmente com mais de 45 mil (quarenta e cinco mil) eSF
+2.18. Contamos atualmente com mais de 45 mil (quarenta e cinco mil) esF
 e quase 3 mil (três mil) Equipes de Atenção Primária - eAP implantadas, que
-atuam nas UBS. As Equipes de Saude da Familia são compostas minimamente
+atuam nas UBS. As Equipes de Saúde da Família são compostas minimamente
 por médico, enfermeiro, auxiliar de enfermagem (ou técnico de enfermagem) e
-Agentes Comunitários de Saúde, nas quais a jornada de trabalho para todos os
+Agentes Comunitários de Saúde, nas quais a jomada de trabalho para todos os
 integrantes é de 40 horas semanais. As equipes de atenção primária são
 compostas minimamente por médicos e enfermeiros, cumprindo jornada de
 trabalho individual de 20 ou 30 horas semanais.
 
-Fonte: SISAPS https://sisaps.saude.gov.br/notatecnicasaps,
+Fonte: SISAPS https://sisaps.saude.gov. br/notatecnicasaps,
 
 2.19. Com a situação epidemiológica agravada pela pandemia no início do
 ano e as tratativas junto a gestão de Manaus na melhoria da capacidade de
@@ -11577,7 +11447,7 @@ semana); ou 75 horas semanais (15 horas diárias ininterruptas e/ou aos fins de
 semana), considerando que estas unidades devem possuir três ou mais equipes
 de saúde. Somam-se a estes formatos, o Saúde na Hora Simplificado, para
 municípios que possuam ao menos duas equipes de Saúde da Família (eSF) ou
-de Atenção Primária (€AP) (20h ou 30h), somando no mínimo 60 horas semanais
+de Atenção Primária (AP) (20h ou 30h), somando no mínimo 60 horas semanais
 de carga horária total das equipes na unidade. Quanto a este programa, entre
 os meses de janeiro de 2020 a março de 2021, foram repassados a Manaus o
 montante superior a R$21 milhões pelas adesões a horários estendidos de
@@ -11612,12 +11482,12 @@ dos Centros Comunitário de Referência para enfrentamento da covid-19 e
 incentivo financeiro federal adicional per capita, em caráter excepcional e
 temporário, considerando o cenário emergencial de saúde pública de importância
 internacional; e nº 1.445, de 29 de maio de 2020, que instituiu os Centros de
-Atendimento para Enfrentamento da covid-19, em caráter excepcional e
+Atendimento para Enfrentamento da covid-l9, em caráter excepcional e
 temporário, considerando o cenário emergencial de saúde pública de importância
 internacional decorrente do coronavírus.
 
 2.25. Os Centros de Atendimento para enfrentamento da covid-19 atuam
-como o ponto de referência da APS dentro da rede do Sistema Único de Saúde
+como o ponto de referência da APS dentro da rede do Sistema Unico de Saúde
 (SUS), sendo uma estratégia que objetivou a ampliação de diagnósticos e
 atendimentos dos casos de síndrome gripal, proporcionando maior
 resolutividade da assistência às pessoas com sintomas leves relacionados à
@@ -11691,10 +11561,10 @@ aquisição de equipamentos/obras/material permanente, por meio das Emendas
 Parlamentares com a indicação do recurso da emenda, que posteriormente será
 processado pelo Ministério da Saúde e transferido via Fundo a Fundo.
 
-2.33. Após a indicação do recurso de emenda pariamentar, deve-se
+2.33. Após a indicação do recurso de emenda parlamentar, deve-se
 acessar o sítio eletrônico do Fundo Nacional de Saúde - Gerenciamento de
 
-Objetos e Propostas (http://www.fns.saude.gov.br) para realização do cadastro
+Objetos e Propostas (http://www .fns.saude.gov.br) para realização do cadastro
 da proposta.
 
 2.34. Para auxílio às referidas solicitações quanto à construção e
@@ -11705,11 +11575,11 @@ apresentação de Propostas ao Ministério da Saúde - 2020", disponível no Por
  
 
 do Fundo Nacional de Saúde, no endereço
-eletrônico: https://drive .google.com/file/d/1DMbY YKd81jjklYFHvhMaZLTLgXxsYDrh/view
+eletrônico: https://drive.google.com/file/d/1DMbYYKd8 1jjklYFHvhMa2LTLaXxsYDrh/view
 2.35. As legislações vigentes que regulamentam esse processo são:
 
 - Portaria nº 488, de 23 de março de 2020, sobre a aplicação de
-emendas parlamentares que adicionam recursos ao Sistema Único de Saúde
+emendas parlamentares que adicionam recursos ao Sistema Unico de Saúde
 (SUS), para a realização de transferências do Fundo Nacional de Saúde aos
 Fundos de Saúde dos Estados, Distrito Federal e Municípios, no exercício de
 2020.
@@ -11719,7 +11589,7 @@ da Portaria nº 488/GM/MS, de 23 de março de 2020, para orientar a aplicação 
 recursos oriundos de emendas parlamentares em medidas para enfrentamento
 da emergência de saúde pública decorrente do Coronavírus (COVID-19).
 
-* Portaria de Consolidação nº 6, de 28 de setembro de 2017, que
+- Portaria de Consolidação nº 6, de 28 de setembro de 2017, que
 dispõe sobre a consolidação de normas de financiamento e a transferência dos
 recursos federais para as ações e os serviços de saúde do SUS.
 
@@ -11808,7 +11678,7 @@ médicos detentores de registro CRM, com a oferta de 5.815 vagas para escolha
 dos candidatos. Ao final das cinco chamadas previstas para o 19º ciclo,
 realizadas no período de março a junho de 2020, garantiu a ocupação de 3.803
 vagas distribuídas em 1.348 municípios.
-* Edital SAPS/MS nº 7, de 25 de março de 2020: prorrogação
+- Edital SAPS/MS nº 7, de 25 de março de 2020: prorrogação
 excepcional da adesão de 133 médicos ativos do 13º ciclo do Projeto e que
 estariam encerrando suas atividades nos meses de abril e maio de 2020,
 lotados em grandes centros urbanos (perfis 1 a 3).
@@ -11830,7 +11700,7 @@ emergencial da adesão de 1.807 médicos ativos do 14º ciclo do Projeto e que
 estariam encerrando suas atividades nos meses de junho de 2020 e março de
 2021, lotados em municípios de todos os perfis.
 
-. EDITAL Nº 12, DE 17 DE NOVEMBRO DE 2020: prorrogação
+- EDITAL Nº 12, DE 17 DE NOVEMBRO DE 2020: prorrogação
 emergêncial da adesão dos 531 médicos ativos do 15º ciclo do Projeto formados
 em Instituições de Educação Superior brasileiras e estrangeiras e que estariam
 encerrando suas atividades nos meses de Janeiro a junho de 2021, lotados em
@@ -11844,6 +11714,7 @@ ano, cujo encerramento das atividades está prevista para fevereiro de 2022.
 - Edital SAPS/MS nº 02, de 25 de janeiro de 2021 - 22º ciclo:
 provisão emergencial por meio do 22º ciclo para os demais municípios do
 Amazonas com ampliação de 14 vagas, totalizando 50 vagas com vigência de
+
 atuação de 1 ano, cujo encerramento das atividades está prevista para março
 de 2022.
 
@@ -11937,7 +11808,7 @@ gestões locais, viabilizando a compra de materiais e insumos necessários à
 garantia da segurança sanitária dos estudantes e dos profissionais da
 educação. O município de Manaus foi contemplado com o valor de R$
 2.455.254,00 (dois milhões quatrocentos e cinquenta e cinco mil e duzentos e
-cinquenta e quatro reais), repassado em parcela Unica automaticamente e sem
+cinquenta e quatro reais), repassado em parcela única automaticamente e sem
 a necessidade de adesão para a implementação desta política.
 
 2.58. A Portaria nº 2.222, de 25 de agosto de 2020, instituiu em caráter
@@ -11980,7 +11851,7 @@ o objetivo de promover a integração das ações da Vigilância em Saúde e
 Atenção Primária à Saúde, na perspectiva local, para identificar e intervir em
 tempo oportuno sobre os casos de covid-19 e seus contatos. Essa estratégia
 objetivou qualificar o rastreamento e monitoramento das ações de
-enfrentamento à covid-l9 nas equipes de saúde. Para essa estratégia o
+enfrentamento à covid-19 nas equipes de saúde. Para essa estratégia o
 município de Manaus recebeu o valor de R$ R$ 3.276.000,00 (três milhões
 duzentos e setenta e seis mil reais), repassado em parcela única
 automaticamente e sem a necessidade de adesão para a implementação desta
@@ -11995,7 +11866,7 @@ covid-19. Os valores variaram conforme exposto abaixo. No total foram
 investidos R$ 319 milhões para o cuidado das populações específicas.
 
 - R$ 6.640,00 (seis mil seiscentos e quarenta reais) por equipe de
-Saúde da Família (eSF);
+Saúde da Família (esSF);
 
 - R$ 3.320,00 (três mil trezentos e vinte reais) por equipe de
 Atenção Primária - Modalidade I 20h;
@@ -12007,7 +11878,7 @@ de Atenção Primária - Modalidade II 30h;
 Ribeirinha (eSFR);
 
 - R$ 15.000,00 (quinze mil reais) por equipe de Consultório na Rua
-(eCR);
+(ecR);
 
 - R$ 15.000,00 (quinze mil reais) por Unidade Básica de Saúde
 Fluvial (UBSF);
@@ -12033,7 +11904,7 @@ prestação dos serviços e visando à segurança dos pacientes e profissionais.
 2.65. Esta portaria resultou na transferência de recursos aos municípios e
 Distrito Federal em parcela única, da seguinte forma:
 
-I - R$ 4.750,00 (quatro mil setecentos e cinquenta reais) por equipe
+1 - R$ 4.750,00 (quatro mil setecentos e cinquenta reais) por equipe
 de Saúde da Família (esSF);
 
 II - R$ 2.375,00 (dois mil trezentos e setenta e cinco reais) por
@@ -12102,10 +11973,10 @@ recursos da Portaria Nº 2.994.
 UF | NOME MUNICÍPIO VALOR REPASSADO
 
 AM | ALVARAES R$ 14.250,00
-AM |AMATURA R$ 9.500,00
+AM | AMATURA R$ 9.500,00
 AM | ANAMA R$ 19.000,00
 AM [ANORI R$ 33.250,00
-AM |APUI R$ 38.000,00
+AM | APUI R$ 38.000,00
 AM | ATALAIA DO NORTE R$ 28.500,00
 AM | AUTAZES R$ 38.000,00
 AM | BARCELOS R$ 28.500,00
@@ -12226,7 +12097,7 @@ AM | FONTE BOA R$ 23.750,00
 AM | GUAJARA R$ 23.750,00
 AM | HUMAITA R$ 52.250,00
 AM |IPIXUNA R$ 14.250,00
-AM |IRANDUBA R$ 47.500,00
+AM | IRANDUBA R$ 47.500,00
 AM | ITACOATIARA R$ 118.750,00
 AM [ITAMARATI R$ 14.250,00
 AM | ITAPIRANGA R$ 19.000,00
@@ -12238,7 +12109,7 @@ AM | MANACAPURU R$ 99.750,00
 AM | MANAQUIRI R$ 27.312,50
 AM | MANAUS R$ 1.463.000,00
 AM | MANICORE R$ 47.500,00
-AM [MARAA R$ 23.750,00
+AM | MARAA R$ 23.750,00
 AM | MAUES R$ 71.250,00
 AM | NHAMUNDA R$ 14.250,00
 AM | NOVA OLINDA DO NORTE R$ 28.500,00
@@ -12278,7 +12149,7 @@ contexto da covid-19.
 assistenciais que envolvem íntimo contato com boca e nariz, além de gerarem
 aerossóis no ambiente de atendimento, constituindo-se como atividade
 susceptível a uma maior propagação do vírus, se não adotadas as providências
-adequadas. Diante do quadro, para apolar os gestores municipais na
+adequadas. Diante do quadro, para apoiar os gestores municipais na
 reorganização do cuidado odontológico foi publicado o GUIA DE ORIENTAÇÕES
 PARA ATENÇÃO ODONTOLÓGICA NO CONTEXTO DA COVID-19. O Guia tem como
 objetivo principal apoiar gestores e profissionais da saúde a implementarem,
@@ -12304,7 +12175,7 @@ consultórios compartilhados, aquisição de filtros de ar, dentre outras medida
 identificadas pelo gestor municipal para apoio à reorganização da atenção
 odontológica. O recurso foi definido em R$ 1.931,00 por equipe de saúde bucal
 implantada, e em R$ 5.793,00, R$ 7.724,00 e R$ 13.517,00, para CEOS tipos I,
-Il e III, respectivamente.
+Ile III, respectivamente.
 
 2.72. Assim, a capital recebeu o valor de R$ 245.237,00 (duzentos e
 quarenta e cinco mil duzentos e trinta e sete reais), do qual foi repassado em
@@ -12319,7 +12190,7 @@ micromotores elétricos- bem como demais itens constantes na Relação Nacional
 de Equipamentos de Saúde (RENAME) que contribuam para readequação do
 atendimento odontológico. Os recursos foram definidos em R$ 3.375,00 por
 equipe de saúde bucal implantada, e em R$ 23.882,00, R$ 27.357,00 e R$
-51.239,00, para CEOS tipos 1, II e III, respectivamente. O repasse desse
+51.239,00, para CEOS tipos I, II e III, respectivamente. O repasse desse
 recurso foi condicionado à adesão dos gestores municipais dentre as equipes de
 saúde bucal e Centros de Especialidades Odontológicas elegíveis-todos os
 implantados e pagos na competência financeira de agosto de 2020-através de
@@ -12340,7 +12211,7 @@ e R$ 508.167,00 (quinhentos e oito mil cento e sessenta e sete reais)
 respectivamente, repassado (s) em parcela única.
 
 2.76. A Portaria nº 3.186, de 26/11/2020, que instituiu, em caráter
-excepcional e temporário, incentivo financeiro do Governo Federal a Estados,
+excepcional e temporário, incentivo financeiro do Govemo Federal a Estados,
 Distrito Federal e Municípios, destinado à aquisição de equipamentos para
 reorganização do processo de trabalho e qualificação do cuidado e assistência
 nos estabelecimentos de saúde Municipais, Distritais e Estaduais de
@@ -12400,14 +12271,14 @@ referidos insumos em períodos anteriores.
 solicitação de Estados e Municípios, conforme pode ser observado na tabela que
 consta no
 
-link: https://drive.google.com/drive/folders/13wsitQrrSnC7m8Ls WBM9-
+link: https://drive .google.com/drive/folders/1 3wsitQrmrSnC7m8Ls WBM9-
 IkTUVFjto2?usp=sharing .
 
 2.85. Ademais, considerando a Emergência em Saúde Pública de
 Importância Nacional (ESPIN) em decorrência da pandemia pela covid-19, o uso
 de EPI adequados visa à redução dos riscos ocupacionais dos trabalhadores de
 saúde durante operacionalização do processo de trabalho. Portanto, a
-distribuição de tais equipamentos pelo Ministério da Saude (MS) tem o intuito
+distribuição de tais equipamentos pelo Ministério da Saúde (MS) tem o intuito
 de viabilizar a adoção de medidas de precaução pelos profissionais de saúde
 atuantes na Atenção Primária.
 
@@ -12444,7 +12315,7 @@ e três milhões, duzentos e onze mil e duzentos reais), no qual ocorreu abertur
 para o recebimento das propostas em 17/03/2021, estando atualmente
 suspenso por determinação do pregoeiro responsável.
 
-2.91. No que tange a alegação de fomecimento por parte do Ministério da
+2.91. No que tange a alegação de fornecimento por parte do Ministério da
 Saúde de máscaras inapropriadas para uso em estabelecimentos de Saúde,
 cumpre destacar que a aquisição de tais EPI's fora firmada por meio do
 contrato nº 112/2020, em 20 de maio de 2020 (contratação de 40.000.000
@@ -12464,7 +12335,7 @@ publicidade à aquisição e distribuição dos EPI's, disponibiliza por meio do
 Localiza Sus (https://localizasus.saude.gov.br/), os números atualizados dos
 insumos, data e destinatários, entre outros, inclusive, contém link para acesso
 ao Painel de Compras e Contratos Covid.
-otal de EPIs
+Total de EPIs
 
 345.202.1770
 
@@ -12474,9 +12345,11 @@ EPIs por Região
 
  
 
-5 E E E som som so Tom son dom 1o0mi
+9 dote om am ao som do Tom son dom 100Mi
 
 nom
+
+tom
 
  
 
@@ -12485,7 +12358,6 @@ CONTRATOS FIRMADOS NO ÂMBITO SAPS
 2.94, Serviço: Contrato 19/2020 - Atendimento Pré-clínico
 Processo: 25000.035465/2020-64
 Valores empenhados: R$ 144.009.900,00
-
 Valores Pagos: R$ 32.062.182,00
 
 Síntese : Considerando o extratos de dispensa de licitação Nº
@@ -12546,105 +12418,96 @@ organização do SUS quanto ao planejamento da saúde, à assistência à saúde
 3.4. Encaminhe-se ao ASSESSORIA PARLAMENTAR (ASPAR/MS) para
 prosseguimento.
 
--—— Documento assinado eletronicamente por Renata Maria de Oliveira Costa,
-Jara do Departamento de Saúde da Família, em 06/05/2021, às
+— -——» Documento assinado eletronicamente por Renata Maria de Oliveira Costa,
+seil a] Diretor(a) do Departamento de Saúde da Família, em 06/05/2021, às
 
  
 
-Í il
+09:17, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º,
+do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
 
-sei
+de 31 de Março de 2017.
+
 assinatura
 eletrônica
 
  
 
-09:17, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 19,
+ 
+
+Documento assinado eletronicamente por Antônio Rodrigues Braga Neto,
+
+Diretor(a) do Departamento de Ações Programáticas Estratégicas, em
+06/05/2021, às 09:30, conforme horário oficial de Brasília, com fundamento
+no art. 6º, 8 19, do Decreto nº 8.539, de 8 de outubro de 2015, e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+
+      
+
+il
+sei a
+assinatura
+eletrônica
+
+ 
+
+ 
+
+ 
+
+Documento assinado eletronicamente por Juliana Rezende Melo da Silva,
+Diretor(a) do Departamento de Promoção da Saúde, em 06/05/2021, às
+09:31, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º,
 do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
 
 de 31 de Março de 2017.
 
- 
-
-   
-   
+assinatura
+eletrônica
 
  
 
-Documento assinado eletronicamente por Antônio Rodrigues Braga Neto,
-| seil | | Diretor(a) do Departamento de Ações Programáticas Estratégicas, em
-Sds 06/05/2021, às 09:30, conforme horário oficial de Brasília, com fundamento
+Documento assinado eletronicamente por Wesley Pires Barbosa,
+
+ 
+
+às 09:45, conforme horário oficial de Brasília, com fundamento no art. 6º, 8
+1º, do Decreto nº 8,539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
+
+900 de 31 de Março de 2017.
 
 assinatura
-
-eletrônica no art. 6º, 8 19, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
-Portaria nº 900 de 31 de Março de 2017.
+eletrônica
 
  
 
- 
+Documento assinado eletronicamente por Raphael Camara Medeiros
 
--——— Documento assinado eletronicamente por Juliana Rezende Melo da Silva,
-
-| seil | | Diretor(a) do Departamento de Promoção da Saúde, em 06/05/2021, às
-Dele 09:31, conforme horário oficial de Brasília, com fundamento no art. 6º, 5 1º,
-eletrônica do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
-
-de 31 de Março de 2017.
-
- 
-
- 
-
-o -— Documento assinado eletronicamente por Wesley Pires Barbosa,
-
-| seil | | Coordenador(a)-Geral de Planejamento e Orçamento, em 06/05/2021,
-Dele B às 09:45, conforme horário oficial de Brasília, com fundamento no art. 6º, 8
-
-eletrônica 19, do Decreto nº 8,539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
+Parente, Secretário(a) de Atenção Primária à Saúde, em 06/05/2021,
+às 09:58, conforme horário oficial de Brasília, com fundamento no art. 6º, 5
+1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
 
 900 de 31 de Março de 2017.
 
  
 
- 
-
-o -—— Documento assinado eletronicamente por Raphael Camara Medeiros
-
-| seil Parente, Secretário(a) de Atenção Primária à Saúde, em 06/05/2021,
-Sel [a às 09:58, conforme horário oficial de Brasília, com fundamento no art. 6º, 8
-
-alatrônica 19, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
-
-900 de 31 de Março de 2017.
+jl
+Dis EE)
+eletrônica
 
  
 
  
 
- 
+seil a) Coordenador(a)-Geral de Planejamento e Orçamento, em 06/05/2021,
+[E]
 
- 
-
- 
-
- 
-
- 
-
- 
-
-rd
-
-a a A autenticidade deste documento pode ser conferida no site
+A autenticidade deste documento pode ser conferida no site
 http://seisaude.gov.br/sei/controlador externo. php?
+à acao=documento conferir&id orgao acesso externo =0, informando o
+código verificador 0020398290 e o código CRC AO3E6CBC.
 
-f* acao=documento conferir&id orgao acesso externo =0, informando o
-
-' código verificador 0020398290 e o código CRC AO3E6CBC.
-
-    
- 
  
 
  
@@ -12652,13 +12515,11 @@ f* acao=documento conferir&id orgao acesso externo =0, informando o
 
  
 
- 
-
 Referência: Processo nº 25000.065528/2021-98 SEI nº 0020398290
 
 Gabinete - GAB/SAPS
 Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
-Site - saude .gov.br
+Site - saude.gov.br
  
 
 Ministério da Saúde
@@ -12696,32 +12557,27 @@ compartilhamento dos subsídios.
 
  
 
-Documento assinado eletronicamente por Raphael Camara Medeiros
+—— -—- Documento assinado eletronicamente por Raphael Camara Medeiros
 
-Parente, Secretário(a) de Atenção Primária à Saúde, em 07/05/2021,
-às 13:37, conforme horário oficial de Brasília, com fundamento no art. 6º, 8
-1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
+il Parente, Secretário(a) de Atenção Primária à Saúde, em 07/05/2021,
+seil sa (7) |às 13:37, conforme horário oficial de Brasília, com fundamento no art. 69, &
+eletrônica 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
 
 900 de 31 de Março de 2017.
 
  
 
-= il
-assinatura
-eletrônica
+[=]
 
- 
-
- 
-
- 
-
-    
-
-Esse
+   
+  
 
 A autenticidade deste documento pode ser conferida no site
+
 http: //sei.saude.gov.br/sei/controlador externo .php?
+
+Rep acao = documento conferir&id orgao acesso externo =0, informando o
+H código verificador 0020433206 e o código CRC B32D77FC.
 
  
 
@@ -12748,7 +12604,7 @@ Brasília, 05 de maio de 2021.
 Referência: 25000.065528/2021-98
 Assunto: Requerimento nº 302/2021 - CPIPANDEMIA.
 
-1.
+1,
 
 Trata-se do Oficio nº 539/2021 - CPIPANDEMIA (0020324700),
 
@@ -12765,7 +12621,7 @@ etc.) efetivamente distribuídos pelo Ministério, com a discriminação do insu
 data e destinatário da distribuição e valor gasto;
 
 3. Sobre propagandas, campanhas, publicidade ou inserções midiáticas
-realizadas pelo Ministério em temas relacionados à panderria do COVID-19, sua
+realizadas pelo Ministério em temas relacionados à pandemia do COVID-19, sua
 prevenção e tratamentos:
 
 a. valor da contratação;
@@ -12829,7 +12685,7 @@ a. a quantidade expedida para cada ente da federação,
 b. a quantidade efetivamente utilizada até a presente data;
 
 c. a quantidade de medicação em estoque. 10. Os dados acerca da efetiva
-carência dos medicamentos e insumos que compõem o Kit intubação em todo
+carência dos medicamentos e insumos que compõem o kit intubação em todo
 o país, bem como do suprimento de oxigênio;
 
 11. A discriminação dos protocolos expedidos pelo Ministério da Saude para
@@ -12862,7 +12718,7 @@ Decreto nº 3.964/2001
 [...]
 Art. 5º Ao Diretor- Executivo do FNS compete:
 
-1 - planejar, coordenar, orientar e supervisionar a execução das atividades da
+I - planejar, coordenar, orientar e supervisionar a execução das atividades da
 Diretoria-Executiva do FNS, inclusive das unidades de convênios e gestão do
 Ministério da Saúde nas unidades federadas;
 
@@ -12891,7 +12747,7 @@ de recursos do FNS para os Estados, o Distrito Federal, os Municípios e para
 outras entidades e profissionais conveniados, credenciados ou contratados
 junto ao SUS;
 
-VII - fornecer às autoridades do SUS nas três esferas de govemo e aos
+VII - fomecer às autoridades do SUS nas três esferas de governo e aos
 Conselhos de Saúde os elementos e as informações que lhe forem requeridos
 além de criar mecanismos para disponibilizar informações para toda a
 sociedade, relativos aos custeios, investimentos e financiamentos de
@@ -12906,14 +12762,14 @@ Decreto nº 9.795/2019
 
 Art. 7º À Diretoria-Executiva do Fundo Nacional de Saúde compete:
 
-1 - orientar e supervisionar a execução orçamentária, financeira e contábil dos
+I - orientar e supervisionar a execução orçamentária, financeira e contábil dos
 recursos alocados ao Fundo Nacional de Saúde;
 
 II - orientar e supervisionar a gestão das fontes de arrecadação e de
 aplicação dos recursos orçamentários e financeiros alocados ao Fundo
 Nacional de Saúde;
 
-III - orientar e supervisionar as transferências de recursos financeiros
+II - orientar e supervisionar as transferências de recursos financeiros
 destinados às ações e aos serviços de saúde executados no âmbito do SUS;
 
 IV - orientar e supervisionar a execução de convênios, acordos, ajustes e
@@ -12943,19 +12799,18 @@ pagadora /transferidora), na esfera federal, dos recursos denominados “fundo
 a fundo”, e utilizados para a execução de ações de saúde integrantes do
 Sistema Unico de Saúde (SUS), recursos esses cujos pagamentos são
 intitulados e autorizados pelas Secretarias finalísticas e destinados ao
-nanciamento de diversos programas e ações governamentais sob a
+financiamento de diversos programas e ações governamentais sob a
+
 responsabilidade dessas.
 
 4. No que diz respeito à transparência relativa à transferência de
 recursos aos Estados, Distrito Federal e Municípios, destacamos que todos os
 repasses repassados aos Gestores locais do SUS, inclusive os relativos às ações
 de combate à Covid-19, estão disponíveis para consulta no Portal do Fundo
+Nacional de Saúde (portalfns.saude.gov.br/paineis), no caso da COVID, opção
 
- 
-Nacional de Saude (portalfns.saude.gov.br/paineis), no caso da COVID, opção
 consulta de pagamentos detalhada, nos blocos custeio e investimento, grupo
-
-“CORONAVIRUS - COVID-19"), podendo ser acessadas por qualquer interessado,
+“CORONAVIRUS - COVID-19"”), podendo ser acessadas por qualquer interessado,
 visualizando-se, em tempo real, todas as transferências realizadas.
 
 5. Ainda como ferramenta que viabiliza a realização do controle dos
@@ -12987,24 +12842,28 @@ Ao GAB/SE, em restituição, para ciência e providências cabíveis.
 
  
 
- 
+Documento assinado eletronicamente por Dárcio Guedes Junior,
+€ ei Diretor(a)-Executivo(a) do Fundo Nacional de Saúde, em 05/05/2021,
+Dime às 19:25, conforme horário oficial de Brasília, com fundamento no art. 6º, 8
 
-o - Documento assinado eletronicamente por Dárcio Guedes Junior,
-seil ;» | Diretor(a)-Executivo(a) do Fundo Nacional de Saúde, em 05/05/2021,
-dele às 19:25, conforme horário oficial de Brasília, com fundamento no art. 6º, &
+assinatura
+
 eletrônica 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
-
 900 de 31 de Março de 2017.
 
  
 
-   
+ 
 
-R A autenticidade deste documento pode ser conferida no site
-* http: //sei.saude.gov.br/sei/controlador externo.php?
-* acao=documento conferir&id orgao acesso externo=0, informando o
+El A autenticidade deste documento pode ser conferida no site
 
+http: //sei.saude.gov.br/sei/controlador externo .php?
+
+fà acao=documento conferir&id orgao acesso externo=0, informando o
 4 código verificador 0020397966 e o código CRC 9B8FD3FE.
+
+  
+  
 
  
 
@@ -13045,27 +12904,32 @@ quais aprovo.
 Mayra Isabel Correia Pinheiro
 Secretária de Gestão do Trabalho e da Educação na Saúde
 
- 
-
 Documento assinado eletronicamente por Mayra Isabel Correia Pinheiro,
-c Secretário(a) de Gestão do Trabalho e da Educação na Saúde, em
-Si 05/05/2021, às 21:15, conforme horário oficial de Brasília, com fundamento
-alasrônica no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+Secretário(a) de Gestão do Trabalho e da Educação na Saúde, em
+05/05/2021, às 21:15, conforme horário oficial de Brasília, com fundamento
+no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
 
 Portaria nº 900 de 31 de Março de 2017.
 
- 
+    
 
- 
+seil a
 
-E A autenticidade deste documento pode ser conferida no site
-: http: //sei.saude .gov.br/sei/controlador externo.php?
-Ejs acao = documento conferir&id orgao acesso externo=0, informando o
-
-E código verificador 0020398936 e o código CRC 6DF554AD.
+assinatura
+eletrônica
 
   
   
+  
+
+ 
+
+jo A autenticidade deste documento pode ser conferida no site
+
+sl http://sei.saude.gov.br/sei/controlador externo .php?
+
+jà acao=documento conferir&id orgao acesso externo=0, informando o
+4 código verificador 0020398936 e o código CRC 6DF554AD.
 
  
 
@@ -13113,13 +12977,9 @@ restitui-se para demais providências, na urgência que o caso requer.
 
  
 
- 
-
-. - Documento assinado eletronicamente por Roberto Ferreira Dias,
-
-| call Diretor(a) do Departamento de Logística, em 05/05/2021, às 23:11,
-
-| ser ) | conforme horário oficial de Brasília, com fundamento no art. 6º, 8 19, do
+———— Documento assinado eletronicamente por Roberto Ferreira Dias,
+ei Diretor(a) do Departamento de Logística, em 05/05/2021, às 23:11,
+Ralo É conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
 Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de
 
 31 de Março de 2017.
@@ -13133,8 +12993,12 @@ eletrônica
  
  
 
-A autenticidade deste documento pode ser conferida no site
-a http://seisaude.gov.br/sei/controlador externo .php?
+ELE] A autenticidade deste documento pode ser conferida no site
+
+ELE http://sei.saude.gov.br/sei/controlador externo .php?
+
+] acao=documento conferir&id orgao acesso externo=o0, informando o
+| Código verificador 0020398992 e o código CRC 82C83ADS5.
 
  
 
@@ -13175,30 +13039,30 @@ Secretário de Atenção Especializada à Saúde
 
  
 
-e -—- Documento assinado eletronicamente por Sergio Yoshimasa Okane,
-seil . sie de Atenção Especializada à Saúde, em 14/05/2021, às
+e Documento assinado eletronicamente por Sergio Yoshimasa Okane,
+seil Secretário(a) de Atenção Especializada à Saúde, em 14/05/2021, às
+Dado 19:21, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 19,
+eletrônica do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+[=]
 
  
 
-| 19:21, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 19,
-do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+ 
+
+ 
 
 de 31 de Março de 2017.
 
-assinatura
-eletrônica
-
  
 
+   
+
+A autenticidade deste documento pode ser conferida no site
+* http://seisaude.gov.br/sei/controlador externo.php?
+
+  
+
  
-
-E
-
-     
-      
-
-E A autenticidade deste documento pode ser conferida no site
-http://sei.saude.gov.br/sei/controlador externo .php?
 
  
 
@@ -13207,8 +13071,10 @@ http://sei.saude.gov.br/sei/controlador externo .php?
  
 
 Referência: Processo nº 25000.065528/2021-98 SEI nº 0020578518
-Despacho GAB/SAES 00205/8518 SEI 25000.065528/2021-98 / pg. 25/
-Ministério da Saúde
+Despacho GAB/SAES 0020578518 SEI 25000.065528/2021-98 / pg. 257
+ 
+
+Ministério da Saúde
 Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde
 Departamento de Gestão e Incorporação de Tecnologias e Inovação em Saúde
 Coordenação-Geral de Gestão de Tecnologias em Saúde
@@ -13217,7 +13083,6 @@ Coordenação de Incorporação de Tecnologias
 NOTA TÉCNICA Nº 218/2021-CITEC/CGGTS/DGITIS/SCTIE/MS
 
 ASSUNTO: Requerimento nº 302-2021/CPIPANDEMIA - Solicita informações
-
 sobre diversas medidas de enfrentamento à pandemia de coronavírus (SARS-
 CoV-2) tomadas pelo Ministério da Saúde com intuito de instruir os trabalhos da
 Comissão Parlamentar de Inquérito (CPI) criada pelos Requerimentos do Senado
@@ -13249,7 +13114,7 @@ Ministério da Saúde:
 vacinas anunciadas em cada oportunidade e o cumprimento da entrega das
 vacinas nos prazos indicados;
 
-2. A quantidade de equipamentos de proteção individual (máscaras, álcool
+2. A quantidade de equipamentos de proteção individual (máscaras, álcoo!
 gel, etc.) efetivamente distribuídos pelo Ministério, com a discriminação do
 insumo, data e destinatário da distribuição e valor gasto;
 
@@ -13267,7 +13132,7 @@ d. se publicidade via influenciadores digitais, incluir nome dos influenciadores
 e. forma de contratação;
 
 f. data de veiculação;
-9. conteúdo específico, quando possível com link de acesso à íntegra do
+g. conteúdo específico, quando possível com link de acesso à íntegra do
 conteúdo;
 
 h. público-alvo;
@@ -13342,7 +13207,7 @@ Os autos foram encaminhados ao Departamento de Gestão e Incorporação de
 Tecnologias e Inovação em Saúde (DGITIS/SCTIE/MS) tendo em vista sua
 competência para atuar como Secretaria-Executiva da Comissão Nacional de
 
-Incorporação de Tecnologias no Sistema Único de Saúde (Conitec)t!l,
+Incorporação de Tecnologias no Sistema Único de Saúde (Conitec)!!,
 
 III. DA ANÁLISE
 
@@ -13362,7 +13227,7 @@ serem seguidas por profissionais de saúde e gestores, sejam eles do setor
 público ou privado da saúdel2l,
 
 A apreciação inicial dos capítulos 1 e 2 aconteceu na 52 Reunião
-Extraordinária!3l da Conitec, ocorrida nos dias 12 e 13/05/2021. Os membros
+Extraordinária!8l da Conitec, ocorrida nos dias 12 e 13/05/2021. Os membros
 presentes deliberaram por unanimidade recomendar o encaminhamento à
 consulta pública com parecer favorável à sua aprovação. O tema será
 disponibilizado para consulta pública por 10 dias, devido à urgência na análise
@@ -13407,16 +13272,16 @@ com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de
 
 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
 
-——— — Documento assinado eletronicamente por Andrea Brigida de Souza,
-seil Coordenador(a) de Incorporação de Tecnologias, em 14/05/2021, às
-E, ae [E 15:35, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º,
-
-        
+-—— Documento assinado eletronicamente por Andrea Brigida de Souza,
+sejl ;» | Coordenador(a) de Incorporação de Tecnologias, em 14/05/2021, às
+tdo [E 15:35, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º,
 
  
 
-coil
+jl
 eletrônica
+
+      
 
   
 
@@ -13425,17 +13290,21 @@ eletrônica
  
 
  
-| eletrônica — Jdo Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+ 
+
+— Jdo Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
 de 31 de Março de 2017.
 
-A autenticidade deste documento pode ser conferida no site
-
-* http: //seisaude.gov.br/sei/controlador externo.php?
-
-* acao=documento corferir&id orgao acesso externo=0, informando o
-4 código verificador 0020563277 e o código CRC D5F98A19.
+À eletrônica
 
    
+
+A autenticidade deste documento pode ser conferida no site
+http://seisaude.gov.br/sei/controlador externo.php?
+acao=documento corferirkid orgao acesso externo=0, informando o
+código verificador 0020563277 e o código CRC D5F98A19.
+
+ 
 
  
 
@@ -13459,38 +13328,32 @@ qual requer informações listadas em 14 itens, alguns com subitens, cabendo a
 este Departamento de Assistência Farmacêutica e Insumos Estratégicos -
 DAF/SCTIE, se manifestar sobre os itens e subitens a seguir:
 
-"B. A discriminação de todos os dados relativos aos medicamentos adquiridos
+"8. A discriminação de todos os dados relativos aos medicamentos adquiridos
 com a finalidade de auxiliar no tratamento de pacientes com suspeita de ou
 acometidos de Covid-19, contendo:
 
 a. nome do medicamento e de seu princípio ativo;
-. fornecedor;
 
-. quantidade adquirida;
+b. fornecedor;
+
+c. quantidade adquirida;
 
 d. data de compra;
 
-. valor de compra por medicação;
+e. valor de compra por medicação;
 
-. valor total de compra;
+f. valor total de compra;
 
-. modalidade de licitação em cada uma das contratações realizadas.
+9. modalidade de licitação em cada uma das contratações realizadas.
 9. A respeito dos medicamentos adquiridos, requer-se, por medicação:
-. à quantidade expedida para cada ente da federação,
+a. a quantidade expedida para cada ente da federação,
 
-. à quantidade efetivamente utilizada até a presente data;
+b. a quantidade efetivamente utilizada até a presente data;
+
 c. a quantidade de medicação em estoque.
 
 10. Os dados acerca da efetiva carência dos medicamentos e insumos que
 compõem o Kit intubação em todo o país, bem como do suprimento de
-
-b.
-c
-e.
-f.
-9.
-a.
-b.
 
 oxigênio; "
 1.2. Nesses termos, prestam-se a seguir as informações, que cabem a
@@ -13506,7 +13369,7 @@ negociação e pactuação entre gestores, quanto aos aspectos operacionais do
 Sistema Unico de Saúde (SUS)O.
 
 2.2. No âmbito do SUS, a Assistência Farmacêutica é organizada por meio
-do Departamento de Assistência Farmacêutica - DAF/SCTIE em três
+do Departamento de Assistência Farmacêutica - DAF/SCTIE, em três
 componentes:
 
 e Componente Básico da Assistência Farmacêutica (CBAF);
@@ -13522,7 +13385,7 @@ medicamentos.
 pode ser consultado na Relação Nacional de Medicamentos Essenciais
 (RENAME), atualizada e disponível em:
 
-<http://bvsms.saude.gov.br/bvs/publicacoes/relacao medicamentos rename 2020.pdf>.
+<http://bvsms.saude.gov. br/bvs/publicacoes/relacao medicamentos rename 2020.pdf>.
 
 3. CONTEXTUALIZAÇÃO
 
@@ -13555,7 +13418,7 @@ com a Diretoria de Integridade (DINTEG/MS).
 Departamento de Assistência Farmacêutica e Insumos Estratégicos - DAF/SCTIE,
 não houve aquisição específica de medicamentos para o enfrentamento da
 pandemia de COVID-19, a excepcionalidade dos medicamentos que compõe o
-chamado "kit intubação".
+chamado "kit intubação”.
 
 3.5. Todavia, alguns medicamentos, que são adquiridos e financiados, no
 âmbito do SUS, pelo Ministério da Saúde, embora usados para outros agravos,
@@ -13588,7 +13451,7 @@ centralizada pelo Ministério da Saúde e distribuídos aos Estados e Distrito
 Federal, cabendo a esses o recebimento, o armazenamento e a distribuição aos
 municípios conforme dados epidemiológicos.
 
-4.4. O Ministério da Saúde historicamente adquire o medicamento fosfato
+44. O Ministério da Saúde historicamente adquire o medicamento fosfato
 de oseltamivi, em 3 apresentações (Cápsulas de 30, 45 e 75mg) para
 tratamento da Influenza.
 
@@ -13745,13 +13608,31 @@ epidemiológicos.
 
  
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 5.2. Nos cinco anos anteriores à 2020 foram adquiridos os seguintes
 quantitativos de fosfato de oseltamivir pelo Ministério da Saúde:
 Valor nai
 
 . a Nº = Quantitativo Valor da
 
-Ano | Medicamento | Modalidade Contrato/TED a Contratado | Contratação Fornecedor
+Ano | Medicamento | Modalidade Contrato/TED pa Contratado | Contratação Fornecedor
 Fosfato de
 
 2015] Oseltamivir | Inexigibilidade 71/2015 2,1800 | 3.036.670 6.619.940,60 ROCHE
@@ -13770,7 +13651,7 @@ Fosfato de
 45mg
 Fosfato de
 
-2016] Oseltamivir TED 132/2016 4,0000 | 20.057.500 |80.230.000,00| FIOCRUZ
+2016] Oseltamivir TED 132/2016 4,0000 | 20.057.500 |80.230.000,00 | FIOCRUZ
 75mg
 Fosfato de
 
@@ -13782,7 +13663,7 @@ Fosfato de
 45mg
 Fosfato de
 
-2019] Oseltamivir TED 201/2019 4,0000 | 7.200.000 |28.800.000,00| FIOCRUZ
+2019] Oseltamivir TED 201/2019 4,0000 | 7.200.000 |28.800.000,00 | FIOCRUZ
 75mg
 
 5.3. A Fundação Oswaldo Cruz (Fiocruz), possui registro do
@@ -13823,7 +13704,7 @@ imediato da demanda do Ministério da Saúde.
  
 
  
-emergencial (25000.070191/2020-50) de 5.000.000 de capsulas de fosfato de
+emergencial (25000.070191/2020-50) de 5.000.000 de cápsulas de fosfato de
 oseltamivir 75mg, para atender de imediato a demanda do Sistema Unico de
 Saúde, enquanto se ajustava a questão do IFA.
 
@@ -13850,13 +13731,15 @@ Importância Internacional Decorrente do Coronavírus.
 
  
 
- 
-
 Nº Valor
 
-Medicamento | Modalidade Unit. Quantitativo Valor da
+Medicamento | Modalidade Contrato te
 
-Contrato | pg | Contratado | Contratação Fornecedor
+Quantitativo Valor da
+
+Contratado | Contratação Fornecedor
+
+ 
 
  
 
@@ -13871,12 +13754,6 @@ Cápsula
 
 . R$
 Dispensa |174/2020 | 5,33 | 5.000.000 26.650.000,00 ROCHE
-
- 
-
- 
-
- 
 
  
 
@@ -13935,26 +13812,49 @@ de 02 de abril de 2020 - Plano Orçamentário “CV20 - COVID-19".
 
  
 
+Quantitativo Valor da Valor
+
+Contratado | Contratação | Unit. Data Fornecedor
+
+Medicamento
+
  
 
-. Quantitativo Valor da Valor
-Medicamento Contratado | Contratação | Unit. Data Fornecedor
-Fosfato d
-osfato de R$ R$
+Fosfato de
 
-Oseltamivir 2.500.000
+de R$ R$
+Oseltamivir 2.500.000 6.500.000,00 |2,6000 06/07/2020 FIOCRUZ
 Cápsula 30mg
 
-6.500.000,00 |2,6000 | 08/07/2020] FIOCRUZ
+ 
+
+Fosfato de
+
+de R$ R$
+Oseltamivir 2.352.500 8.939.500,00 |3,8000 06/07/2020 FIOCRUZ
+Cápsula 45mg
 
  
 
-Fosfato de R$ R$
+ 
 
-Oseltamivir 2.352.500
-Cápsula 45mg 8.939.500,00 |3,8000
+ 
 
-06/07/2020 | FIOCRUZ
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -14024,9 +13924,9 @@ Cápsula 45mg 8.939.500,00 |3,8000
 
 Fosfato de
 Oseltamivir R$ R$
-cápsula | 11:000.000 | cc 099.000,00 | 5,0000 | 08/07/2020] FIOCRUZ
+cápsula | 11:000.000 | cc 090.000,00 | 5,0000 | 08/07/2020] FIOCRUZ
 75mg
-TOTAL | 15.852.500 R$
+TOTAL 15.852.500 R$
 70.439.500,00
 5.9. Considerando as 02 (duas) contratações realizadas, no ano de 2020
 
@@ -14122,24 +14022,44 @@ quantitativos pelo Ministério da Saúde:
 
  
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 Quantidade | FOSFATO DE | FOSFATO DE [ FOSFATO DE
 ano | Qua Ntiade | OSELTAMIVIR | OSELTAMIVIR | OSELTAMIVIR | TOTAL
 30MG 45MG 75MG
 Quantidade 478.150 307.100 4.446.750 5.232.000
 2015
 Valor Total R$ R$
-(R$) R$ 954.357,71 | R$ 854.506,36 | 46 413.083,77 | 18.221.947,87
+(R$) |R$ 954.357,71 | R$ 854.506,36 | 46 413.083,77 | 18.221.947,87
 Quantidade | 2.777.270 2.469.250 11.169.000 16.415.520
 2016
-Valor Total R$ R$ R$ R$
+valor Total R$ R$ R$ R$
 (R$) 6.047.602,71 | 8.074.366,23 | 47.941.556,14 | 62.063.525,08
 Quantidade 1.187.700 209.500 4.608.500 6.005.700
 2017
-Valor Total R$ pé 30 649 64 R$ I R$
-
- 
-
- 
+Valor Total R$ pé 630 242 EA | R$ | R$
 
  
 
@@ -14260,14 +14180,34 @@ Valor Total R$ pé 30 649 64 R$ I R$
 
  
 
-(R$) 2.510.874,60 | * “++ | 200.023.180,24 | 203.162.698,50
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(R$) 2.510.874,60 | * “+ | 200.023.180,24 | 203.162.698,50
 Quantidade | 2.361.810 2.086.500 13.912.500 18.360.810
 2018
-Valor Total R$ R$ R$ R$
+valor Total R$ R$ R$ R$
 (R$) 4.820.059,60 | 6.259.968,54 | 56.355.088,99 | 67.435.117,13
 Quantidade 781.200 936.500 1.847.500 3.565.200
 2019
-valor Total R$ R$ R$ R$
+Valor Total R$ R$ R$ R$
 (R$) 1.594.298,68 | 2.847.786,27 | 7.409.494,71 | 11.851.579,66
 6.3. Em 2020 continuou o atendimento às demandas frente as
 
@@ -14353,12 +14293,16 @@ medicamento, conforme Quadro abaixo:
 
  
 
+ 
+
+ 
+
 Distribuição Fosfato de Oseltamivir - 2020 e 2021
-Medicamento Quantidade Distribuída Valor (R$)
-FOSFATO DE OSELTAMIVIR 30mg 3.599.510 R$ 7.659.220,00
+Medicamento | Quantidade Distribuída Valor (R$)
+FOSFATO DE OSELTAMIVIR 30mg| 3.599.510 R$ 7.659.220,00
 FOSFATO DE OSELTAMIVIR 45mg 2.980.000 R$ 9.779.210,00
 FOSFATO DE OSELTAMIVIR 75mg 19.233.000 R$ 87.255.900,00
-TOTAL 25.812.510 R$ 104.694.330,00
+TOTAL ] 25.812.510 R$ 104.694.330,00
 6.4. Ressalta-se que desde o início da pandemia, o Ministério da Saúde
 
 sempre teve a preocupação e o cuidado com o estoque de forma a manter o seu
@@ -14446,27 +14390,29 @@ AQUISIÇÕES CLOROQUINA 150mg, 2016 A 2020
 
  
 
+ 
+
+ 
+
+ 
+
+ 
+
 Valor Quantitativo
-Contratado Valor da Modalidade
+: Contratado Valor da Modalidade
 o
-Ano |Programa/ Doença Nº TED e (no Contratação | - aquisição Fornecedor
+Ano |Programa/ Doença Nº TED e (no Contratação a Fornecedor
 comprimidos)
 2016 Malária 21/2016 0,0306| 2.850.000 R$ 87.210,00 TED FIOCRUZ
-2017 Malária 49/2017 0,0300| 2.850.000 R$ 85.500,00 TED FIOCRUZ
+2017 Malária 49/2017 0,0300|] 2.850.000 R$ 85.500,00 TED FIOCRUZ
 2018 Malária 57/2018 0,0690|] 4.220.000 R$ 291.180,00 TED FIOCRUZ
 2020 Malária 10/2020 0,0690| 3.000.000 R$ 207.000,00 TED FIOCRUZ
 sui Termo Aditivo
+
 2020 Malária ao TED 10/2020 0,0690 750.000 R$ 51.750,00 TED FIOCRUZ
-
- 
-
 |* No ano de 2019 não houve aquisição de Cloroquina 150mg
-
- 
-
- 
-
 8.2. Em março de 2020, o Ministério da Saúde concluiu um processo
+
 aquisitivo de 3.000.000 de comprimidos de Cloroquina 150mg que foi iniciado
 em 25 de julho de 2019, e portanto, antes da pandemia, para atendimento do
 Programa Nacional de Controle da Malária. Esse montante foi adquirido por meio
@@ -14477,7 +14423,7 @@ COVID-19.
 
 9. DISTRIBUIÇÕES DE CLOROQUINA 150MG
 
-9.1. A distribuição de Cloroquina 150mg aos Estados e Distrito Federal,
+9. A distribuição de Cloroquina 150mg aos Estados e Distrito Federal,
 teve início em 27/03/2020, após a divulgação da NI nº 05/2020, utilizando como
 critério para a elaboração das pautas o número de casos de COVID-19,
 registrado no Boletim do Ministério da Saúde e também as solicitações enviadas
@@ -14495,6 +14441,8 @@ forma de auxiliar no enfrentamento da pandemia no país.
 
 9.3. Abaixo segue o consolidado das distribuições de Cloroquina 150mg,
 realizadas no ano de 2020, pelo MS e pelo LQFEX:
+
+ 
 
  
 
@@ -14577,14 +14525,16 @@ elaboradas com base no número de casos de COVID-19 registrado no Boletim do
  
 Ministério da Saúde e também com base nas solicitações enviadas pelas
 Secretarias Estaduais de Saúde. Conforme demonstrado pelo quadro 2, nesse
-periodo, foram emitidas pautas de distribuição que totalizaram 2.932.000
+período, foram emitidas pautas de distribuição que totalizaram 2.932.000
 comprimidos: 1.932.000 do estoque do Ministério da Saúde (entrega via
-DLOG/SE), e 1.000.000 de comprimidos com entrega descentralizada
-ário Químico E ET Exército - LQFEX.
-9.5. Em 20/05/2020, foi publicada pelo Ministério da Saúde o documento
+DLOG/SE, e 1.000.000 de comprimidos com entrega descentralizada
+
+ 
+
+9. Em 20/05/2020, foi publicada pelo h Ministério da Saúde o documento
 entitulado "Orientações para Manuseio Medicamentoso Precoce de Pacientes
 com Diagnóstico da COVID-19" e, na possibilidade de se obter um aumento na
-demanda, restou a necessidade de racionalizar a distribuição do medicamento,
+demanda, restou a necessidade “de racionalizar a distribuição do medicamento,
 resguardando o estoque estratégico para o abastecimento do programa de
 malária. Assim, este departamento apresentou no COE COVID-19, critérios para
 definir o quantitativo a ser distribuído. A partir de então, foram utilizados os
@@ -14602,7 +14552,7 @@ estas também foram levadas ao COE para deliberação quanto ao atendimento
 ou não. A partir de 20/05/2020, portanto, foram emitidas pautas de distribuição
 gue totalizaram 3.285.200 comprimidos: 1.822.000 do estoque do MS e
 
-1.463.200 comprimidos via LQFEX.
+63.200 — a LOFE
 
 9.7. Em síntese, todas as pautas de distribuição de Cloroquina 150mg
 foram emitidas entre 27/03/2020 e 10/08/2020. A partir de setembro de
@@ -14679,7 +14629,7 @@ Remanejamento de Cloroquina para utilização no Programa de Malária
 
  
 
-. : uantitativo
+: : uantitativo
 Data Origem Destino o
 
 27/10/2020 | SMs-Recife SES-RO 3.020
@@ -14758,7 +14708,7 @@ Data Origem Destino o
 06/01/2021 SES-SP DSEI Porto Velho - RO 5.500
 06/01/2021 SES-SP DSEI Médio Rio Purus - 3.000
 06/01/2021 SES-SP, DSEI Alto Rio Purus - AC 2.500
-06/01/2021 SES-SP DSEI Guama Tocantins - 3.000
+06/01/2021 SES-Sp DSEI Guama Tocantins - 3.000
 06/01/2021 SES-SP, SES-RS 1.500
 06/01/2021 SES-SP SES-MT 12.500
 26/03/2021] SES-SC SES-MT 7.500
@@ -14827,12 +14777,12 @@ da Assistência Farmacêutica com aquisição centralizada de medicamentos,
 representou 0,066%, não comprometendo a aquisição dos demais
 medicamentos dos programas do componente.
 
-11. HIDROXICLOROQUINA NO CONTEXTO DA PANDEMIA DE COVID-
+Meo HIDROXICLOROQUINA NO CONTEXTO DA PANDEMIA DE COVID-
 19.
 11.1. Em 2020, já no contexto da pandemia, o Governo Brasileiro recebeu
 
 doação de 3.016.000 de comprimidos de Hidroxicloroquina 200mg, provenientes
-do Govemo dos Estados Unidos da América (EUA) e da empresa
+do Governo dos Estados Unidos da América (EUA) e da empresa
 Sandoz/Novartis. Estes medicamentos encontravam-se acondicionados em
 frascos com 500 e 100 comprimidos. Desse montante, 2.016.000 unidades foram
 entregues para o Ministério da Saúde, e 1.407.000 ainda se encontravam em
@@ -14865,6 +14815,12 @@ NUP 25000.125524/2020-95
  
 
 PAUTAS INICIADAS 04/09/2020
+
+ 
+
+ 
+
+ 
 
  
 
@@ -14957,12 +14913,6 @@ Total 609.000
 
  
 
- 
-
- 
-
- 
-
 *Pautas de distribuições mediante solicitação do ente federado e preenchimento do FormSUS
 
  
@@ -14988,7 +14938,7 @@ uso no contexto do atendimento da COVID-19 é oriunda exclusivamente da
 doação supracitada, uma vez que o Ministério da Saúde não adquire esse
 medicamento. No âmbito do SUS, a Hidroxicloroquina comprimido, na
 apresentação de 400mg, faz parte do Grupo 2 do elenco do Componente
-Especializado da assistência Farmacêutica (CEAF), e tem sua aquisição
+Especializado da Assistência Farmacêutica (CEAF), e tem sua aquisição
 realizada diretamente pelas Secretarias Estaduais de Saúde.
 
 11.5. É importante ressaltar que toda a Hidroxicloroquina 200mg
@@ -15036,9 +14986,9 @@ passaram a informar ao MS o comprometimento de estoques de medicamentos
 utilizados no atendimento dos pacientes acometidos pela COVID-19, como
 “sedativos, adjuvantes na sedação e relaxantes musculares”, situação que,
 segundo informaram, “atinge o conjunto dos estados”, “em função da
-indisponibilidade de alguns produtos no mercado nacional"; e “preocupação
+indisponibilidade de alguns produtos no mercado nacional", e “preocupação
 quanto a oferta e disponibilidade de medicamentos utilizados no âmbito do
-SUS, especialmente no contexto da pandemia da COVID-19",
+SUS, especialmente no contexto da pandemia da COVID-19".
 
 12.4. O primeiro solicitou o apoio do MS, na presente situação
 emergencial, para garantir o abastecimento desses itens, “seja por meio de
@@ -15087,7 +15037,7 @@ INVESTIMENTO POR ESTRATÉGIA 2020 E 2021
  
 
 https://www.gov.br/saude/pt-br/acesso-a-
-R$ . ri Ds
+R$ . rs Ds
 informacao/licitacoes-e-contratos/requisicoes-de-
 anestesicos
 
@@ -15122,11 +15072,13 @@ TOTAL: 81.666.361,21
 
  
 
+ 
+
+ 
+
+ 
+
 2021 Valor Total Fonte Mês
-
- 
-
- 
 
  
 
@@ -15137,7 +15089,7 @@ TOTAL: 81.666.361,21
 
  
 
-PARA Ut RP
+PAttiUaU Ut RP
 ARP 116.759.411,75 DAF/SCTIE abr/21
 Aquisições via R$ :
 OPAS 193.715.377,73 DAF/SCTIE abre mai/21
@@ -15193,12 +15145,12 @@ ATRACÚRIO BESILATO, 10 MG/ML, SOLUÇÃO INJETÁVEL | Ampola 2,5 mL
 ATRACÚRIO BESILATO, 10 MG/ML, SOLUÇÃO INJETÁVEL Ampola 5 mL
 ATROPINA SULFATO, 0,25 MG/ML, SOLUÇÃO INJETÁVEL Ampola 1 mL
 CETAMINA, CLORIDRATO 50MG/ML Ampola 10 mL.
-CISATRACÚRIO BESILATO, 2 MG/ML, SOLUÇÃO INJETÁVEL | Ampola 5 ml
+CISATRACÚRIO BESILATO, 2 MG/ML, SOLUÇÃO INJETÁVEL | Ampola 5 mL
 CISATRACÚRIO BESILATO, 2 MG/ML, SOLUÇÃO INJETÁVEL | Ampola 10 mL
 DEXMEDETOMIDINA CLORIDRATO, 100 MCG/ML, SOLUÇÃO
-INJETÁVEL (ML, SA Ampola 2 ml
+INJETÁVEL Mt, ç Ampola 2 ml
 DEXTROCETAMINA CLORIDRATO, 50 MG/ML, SOLUÇÃO
-INJETÁVEL o iá Frasco 10 ml
+INJETÁVEL Mo ç Frasco 10 ml
 DIAZEPAM,5 MG/ML,SOLUÇÃO INJETÁVEL Ampola 2 mL
 EPINEFRINA, 1MG/ML, SOLUÇÃO INJETÁVEL Ampola 1 mL
 
@@ -15315,7 +15267,7 @@ anexo (0020682240)
 12.15. Anexa-se também a planilha de execução das Atas de Registro de
 Preços referentes aos IOT (0020448414)
 
-Ba DO RECRUDESCIMENTO DA COVID-19 NO ANO DE 2021
+13. DO RECRUDESCIMENTO DA COVID-19 NO ANO DE 2021
 
 13.1. Após um período de queda nos números de caso de COVID-19
 
@@ -15337,15 +15289,13 @@ medicamentos em todo o país, novamente, o MS deu iniciou às seguintes ações
 estratégicas:
 
 * requisições administrativas no setor farmacêutico, sem prejuízo às vendas comprometidas
-nos sejores privado e público, na tentativa de suprir, de forma mais imediata, os estoques
-mais críticos,
+nos setores privado e público, na tentativa de suprir, de forma mais imediata, os estoques
 
-aquisição dos medicamentos, por meio da Organização Pan-Americana da Saúde (OPAS);
-execução dos saldos das ARPs vigentes;
-
-abertura de novo Pregão Eletrônico
-
-recebimento de doações.
+mais críticos;
+* aquisição dos medicamentos, por meio da Organização Pan-Americana da Saúde (OPAS);
+* execução dos saldos das ARPs vigentes;
+e abertura de novo Pregão Eletrônico
+* recebimento de doações.
 
  
 
@@ -15373,13 +15323,13 @@ análises de acordo com a seguinte metodologia:
 « Avaliação do cenário epidemiológico da COVID-19, por Estado;
 e Avaliação de quais Estados estão com menos de 2 medicamentos IOT, por classe
 terapêutica com cobertura inferior a 15 dias.
-e Análise do Cenário Industrial (C |) por medicamento: produção, estoque, C MM e Percentual
+e Análise do Cenário Industrial (C |) por medicamento: produção, estoque, CMM e Percentual
 (%) de representatividade da demanda (C MM) x oferta;
 
 e Análise do Risco de desabastecimento de medicamento: produção, estoque, CMM e
 Percentual (%) de representatividade da demanda (CMM) x oferta;
 
-e Análise do Risco de desabastecimento de medicamentos, pela indústria, a partir da análise
+* Análise do Risco de desabastecimento de medicamentos, pela indústria, a partir da análise
 dos dados do Business Inteligence (Bl) da ANVISA.
 
 14.5. Como produto dessas análises, são gerados relatórios, os quais
@@ -15427,70 +15377,76 @@ ESTOQUE EM 18/05/2021
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 UANTITATIVO
 MEDICAMENTOS O NÍVES
+
 CLOROQUINA 150MG 312.500
 HIDROXICLOROQUINA 1.407.000
-OSELTAMIVIR 30MG 1.765.020
+OSELTAMÍVIR 30MG 1.765.020
 OSELTAMIVIR 45MG 1.224.000
 OSELTAMIVIR 75MG 6.320.500
-BESILATO DE ATRACURIO, 10 MG/ML, SOLUÇÃO 117.225
+
+BESILATO DE ATRACÚRIO, 10 MG/ML, SOLUÇÃO 117.225
+
 INJETÁVEL, ampola 5 mL
+
+ 
+
 BESILATO DE CISATRACURIO, 10 MG, pó 150.000
+
+ 
+
 BESILATO DE CISATRACÚRIO, 2 MG/ML, SOLUÇÃO 980
 INJETÁVEL, ampola 10 mL
-BESILATO DE CISATRACÚRIO, 5 MG/ML, SOLUÇÃO 1
+
+ 
+
+BESILATO DE CISATRACURIO, 5 MG/ML, SOLUÇÃO 1
 INJETÁVEL, ampola 30 mL
-CITRATO DE FENTANILA, 0,05 MG/ML, SOLUÇÃO 1.272
-INJETÁVEL, ampola 10 mL .
-CITRATO DE FENTANILA 0,05MG/ML SOLUÇÃO 11
+
+ 
+
+CITRATO DE FENTANILA, 0,05 MG/ML, SOLUÇÃO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INJETÁVEL, ampola 10 mL 1.272
+CITRATO DE FENTANILA 0,05MG/ML SOLUÇÃO 4
 INJETÁVEL - AMPOLA 3ML
-CLORETO DE SUXAMETÔNIO 100 MG 583.983
+CLORETO DE SUXAMETÔNIO 100 MG, 583.983
 CLORIDRATO DE CETAMINA, 50 MG/ML, frasco 10 mL 1.850
 CLORIDRATO DE DEXMEDETOMIDINA, 100 MCG/ML, 16.240
-SOLUÇÃO INJETÁVEL, ampola 2 mL :
+SOLUÇÃO INJETÁVEL, ampola 2 mL .
 DIAZEPAM, 10 MG/2ML 32.827
 ETOMIDATO, 2 MG/ML, ampola de 10 mL 231.985
 HEMITARTARATO DE NOREPINEFRINA, 2 MG/ML, SOLUÇÃO 2.320
 INJETÁVEL, ampola 4mL "
 MIDAZOLAM 10 MG/2ML, SOLUÇAO INJETÁVEL, ampola 2 200.000
-mL :
+mL o
 MIDAZOLAM, 5 MG/ML, SOLUÇÃO INJETÁVEL, ampola 10 171.794
 mL :
 PROPOFOL, 10 MG/ML, EMULSÃO INJETÁVEL, frasco- 59.949
@@ -15498,7 +15454,10 @@ ampola 20 mL .
 PROPOFOL 10 MG/ML, SOLUÇÃO INJETÁVEL, frasco 50 150.000
 mL :
 SULFATO DE ATROPINA 1 MG/ML, SOLUÇÃO INJETÁVEL, 15.600
-ampola 1 mL o
+
+ 
+
+ampola 1 mL
 
  
 
@@ -15552,39 +15511,56 @@ SANDRA DE CASTRO BARROS
 Diretora
 
 -— Documento assinado eletronicamente por Ediane de Assis Bastos,
-seil « | Coordenador(a)-Geral de Assistência Farmacêutica Básica, em
-Deh 3/20/05/2021, às 19:27, conforme horário oficial de Brasília, com fundamento
-eletrônica no art. 6º, & 19, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+seil Coordenador(a)-Geral de Assistência Farmacêutica Básica, em
+Std. 8 20/05/2021, às 19:27, conforme horário oficial de Brasília, com fundamento
+
+eletrônica no art. 6º, $ 1º, do 5; eart. 8º, da
+
 Portaria nº 900 de 31 de Março de 2017.
 
-——— Documento assinado eletronicamente por Sidney Richardson de Araújo
-cail Costa Roriz, Coordenador(a)-Geral de Assistência Farmacêutica e
-Sel 3 Medicamentos Estratégicos, em 21/05/2021, às 10:39, conforme horário
-eletrônica oficial de Brasília, com fundamento no art. 6º, & 10, do Decreto nº 8.539, de
+-— Documento assinado eletronicamente por Sidney Richardson de Araújo
+seil Costa Roriz, Coordenador(a)-Geral de Assistência Farmacêutica e
+Era 8 Medicamentos Estratégicos, em 21/05/2021, às 10:39, conforme horário
 
+eletrônica oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de
 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
--— Documento assinado eletronicamente por Sandra de Castro Barros,
+
+-—— Documento assinado eletronicamente por Sandra de Castro Barros,
 seil Diretor(a) do Departamento de Assistência Farmacêutica e Insumos
-tdo B Estratégicos, em 21/05/2021, às 16:50, conforme horário oficial de Brasília,
-eletrônica com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de
+tdo & Estratégicos, em 21/05/2021, às 16:50, conforme horário oficial de Brasília,
+
+eletrônica com fundamento no art. 6º, $ 1º, do Decreto nº 8.539, de 8 de outubro de
 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
 
  
 
+   
+
  
 
-a A autenticidade deste documento pode ser conferida no site
+ 
+
+eme
+
+ 
+
+E! A autenticidade deste documento pode ser conferida no site
 
 http: //seisaude.gov.br/sei/controlador externo.php?
+
 E: acao=documento corferir&id orgao acesso externo=0, informando o
 à código verificador 0020658036 e o código CRC A9C5621B.
 
-   
+  
+  
+
  
 
  
 
 Referência: Processo nº 25000.065528/2021-98 SEI nº 0020658036
+
+ 
 
 Departamento de Assistência Farmacêutica e Insumos Estratégicos - DAF
 Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico -Administrativa, Brasília/DF, CEP 70058-900
@@ -15633,9 +15609,9 @@ Secretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúd
 
  
 
-e -— — Documento assinado eletronicamente por Hélio Angotti Neto,
-seil | | Secretário(a) de Ciência, Tecnologia, Inovação e Insumos Estratégicos
-Dede É em Saúde, em 17/06/2021, às 22:41, conforme horário oficial de Brasília,
+— -— — Documento assinado eletronicamente por Hélio Angotti Neto,
+« gil Secretário(a) de Ciência, Tecnologia, Inovação e Insumos Estratégicos
+Dede É em Saúde, em 17/06/2021, às 22:41, conforme horário oficial de Brasilia,
 eletrônica com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de
 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
 
@@ -15643,17 +15619,14 @@ eletrônica com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de out
 
  
 
-A autenticidade deste documento pode ser conferida no site
-http://sei.saude.gov.br/sei/controlador externo .php?
-
+E A autenticidade deste documento pode ser conferida no site
+=. http: //seisaude.gov.br/sei/controlador externo .php?
 4 acao=documento conferir&id orgao acesso externo=0, informando o
-tEl4 código verificador 0020704264 e o código CRC C9021927.
 
-[E
-Ra
+à código verificador 0020704264 e o código CRC C9021927.
 
-     
-  
+   
+ 
  
 
  
@@ -15695,7 +15668,7 @@ vistas ao combate da COVID-19, no âmbito da SAA;
 - Departamento de Logística em Saúde, Despacho DLOG
 (0020398992), disponibiliza, por meio do link
 
-https ://drive.google.com/drive/folders/17HXGIfKSE68 1IdUKZW IY SeAb4doOlzixWwf?
+https ://drive.google.com/drive/folders/17HXGIfKSE68 IdUKZWIY SeAb4dolzixwf?
 
 usp=sharing, a Planilha de distribuição de EPIs e Kit Intubação,
 Estoque de Anestésico de IOT e a Relação dos Contratos de
@@ -15714,20 +15687,21 @@ período de 24/04/2020 até 30/04/2021 (0020397172; 0020397179;
 0020397195; 0020397204; 0020397208; 0020397211;
 0020397217; 0020397220); e Nota Informativa 9 (0020408146),
 com os arquivos do Planos de Contingência Nacional para Infecção
-Humana pelo novo Coronavirus (0020411596) e suas atualizações,
+Humana pelo novo Coronavírus (0020411596) e suas atualizações,
 disponibilizadas em novembro de 2020 (0020411602) e em 2021
 (0020411604).
 
 4. No que se refere a quantidade de vacinas anunciadas pelo
 MS, informa-se que as previsões negociais e contratuais são atualizadas
 semanalmente e encontram-se publicizadas no LocalizaSUS por meio do
-link: https ://www.gov. br/saude/pt-br/coronavirus/entregas -de-vacinas -covid-19,
+link: https://www.gov.br/saude/pt-br/coronavirus /entregas -de-vacinas-covid-19,
 bem como as informações sobre as distribuições no
 
 link: https://gsprod.saude.gov.br/extensions/DEMAS C19VAC Distr/DEMAS C19VAC Distr.html.
 5. O Departamento de Informática do Sistema Unico de Saúde -
 DATASUS (0020382970) e a Subsecretaria de Planejamento e Orçamento - SPO
 (0020398281) informaram que o assunto foge às suas competências
+
 regimentais.
 
 6. Diante do exposto, restitua-se ao Chefe da Assessoria
@@ -15736,32 +15710,31 @@ Parlamentar - ASPAR/GM/MS, para conhecimento e providências decorrentes.
 ALESSANDRO GLAUCO DOS ANJOS DE VASCONCELOS
 Secretário-Executivo Adjunto
 
--—— Documento assinado eletronicamente por Alessandro Glauco dos Anjos de
-a] Vasconcelos, Secretário-Executivo Adjunto, em 25/05/2021, às 21:05,
-z
+e -—— Documento assinado eletronicamente por Alessandro Glauco dos Anjos de
+| eil a) Vasconcelos, Secretário-Executivo Adjunto, em 25/05/2021, às 21:05,
+e
+assinatura
 
-   
+ 
 
-cail
-| sem (7) | conforme horário oficial de Brasília, com fundamento no art. 6º, 8 19, do
+ 
+
+conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
 Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de
 
-eletrônica
 31 de Março de 2017.
 
-E A autenticidade deste documento pode ser conferida no site
-http://seisaude.gov.br/sei/controlador externo.php?
+eletrônica
 
-já acao=documento conferir&id orgao acesso externo=0, informando o
+a A autenticidade deste documento pode ser conferida no site
+
+* http://seisaude.gov.br/sei/controlador externo.php?
+
+fá acao=documento conferir&id orgao acesso externo=0, informando o
 à código verificador 0020731483 e o código CRC CESB206A.
-
-Es
 
    
   
- 
-
-Et;
 
  
 
@@ -15839,7 +15812,7 @@ realizadas
 aplicativo TrateCOV, bem como dos especialistas consultados para a curadoria
 dos tratamentos recomendados.
 
-5. A disponibilização da íntegra do conteúdo do aplicativo, bem como o seu
+5. A disponibilização da integra do conteúdo do aplicativo, bem como o seu
 código-fonte e seus documentos preparatórios (gráficos, fluxos de
 informação) e a indicação do valor despendido para desenvolvimento do
 aplicativo;
@@ -15893,19 +15866,20 @@ Saúde).
 à manifestação da Secretaria-Executiva, este Gabinete/SVS encaminha
 informações por meio do link: https://saudegov-
 
-my.sharepoint.com/:f:/g/personal/talita jesus saude gov br/EoUfcd4mtHZCaqJgTQN5OalYBo-
+my.sharepoint.com/:f:/g/personal/talita jesus saude gov br/EoUfcd4mtHZCqJgTQN5SOaIYBo-
 thaOh-gEo3UXRSs5EbfQ?e=q0gzzf
 
 3. Salienta-se que o referido link contém os seguintes documentos:
-- Boletins Epidemiológicos: https://www.gov.br/saude/pt-
+- Boletins Epidemiológicos: https://www.gov. br/saude/pt-
 
-br/assuntos/boletins-e pidemiologicos
+br/assuntos/boletins-epidemiologicos
 
 - Publicações sobre vacinação (Plano Nacional de Operacionalização da
 Vacinação contra a Covid-19, informes técnicos sobre as pautas de
 distribuição de vacinas, notas técnicas com orientações sobre vacinação d
 
-grupos prioritários): https://www.gov.br/saude/pt-
+grupos prioritários): https://www.gov. br/saude/pt-
+
 br/coronavirus/vacinas/plano-nacional-de-operacionalizacao-da-vacina-
 contra-a-covid-19
 
@@ -15918,11 +15892,10 @@ br/coronavirus/publicacoes-tecnicas/guias-e- planos/vigilancia- genomica-do-
 virus-sars-cov-2/view
 
 - Revista Epidemiologia e Serviços de Saúde (RESS):
-https://www.scielo.br/scielo.php?script=sci issues&pid=2237-9622
+https://www.scielo.br/scielo. php?script=sci issues&pid=2237-9622
 
 - Manejo de Corpos no Contexto da Covid-19: https://www.gov.br/saude/pt-
 br/coronavirus/publicacoes-tecnicas/recomendacoes/manejo-de-corpos-no-
-
 contexto-da-covid-19/view
 
 - Orientações para codificação das causas de morte:
@@ -15932,6 +15905,7 @@ tecnicas/recomendacoes/orientacoes- para-codificacao-das-causas-de-
 morte/view
 - Recomendações para as ações de vigilância e cuidado ao paciente com
 doença de Chagas frente à situação epidemiológica da Covidi9:
+
 https://www.gov.br/saude/pt-br/coronavirus/publicacoes-
 tecnicas/recomendacoes/recomendacoes-para-as-acoes-de-vigilancia-e-
 
@@ -15941,9 +15915,9 @@ cuidado-ao- paciente-com-doenca-de-chagas/view
 canina na situação de emergência do novo Coronavírus:
 https://www.gov.br/saude/pt- br/coronavirus/publicacoes-
 
-tecnicas/recomendacoes/recomendacoes- para-realizacao-das-campanhas-de-
+tecnicas/recomendacoes/recomendacoes- para- realizacao-das-campanhas-de-
 
-vacinacao-antirrabica-canina/view
+vacinacao-antirrabica- canina/view
 
 - Recomendações aos Agentes de Combate a Endemias (ACE) para adequação
 das ações de vigilância e controle de zoonoses frente à atual situação
@@ -15954,7 +15928,7 @@ tecnicas/recomendacoes/recomendacoes-aos-agentes-de-combate-a-
 endemias-ace-para/view
 - Recomendações de proteção aos trabalhadores do serviço de saúde no
 
-contexto da pandemia da  Covid-19: https://www.gov.br/saude/pt-
+contexto da pandemia da  Covid-19: https://www.gov. br/saude/pt-
 
 br/coronavirus/publicacoes-tecnicas/recomendacoes/recomendacoes-de-
 protecao-aos-trabalhadores-do-servico-de-saude. pdf/view
@@ -15984,23 +15958,24 @@ Secretário de Vigilância em Saúde
 
  
 
-- Documento assinado eletronicamente por Arnaldo Correia de Medeiros,
-seil . |Secretário(a) de Vigilância em Saúde, em 07/06/2021, às 09:16,
-
-Std & conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
+-—— Documento assinado eletronicamente por Arnaldo Correia de Medeiros,
+Secretário(a) de Vigilância em Saúde, em 07/06/2021, às 09:16,
+conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
 eletrônica Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de
 
 31 de Março de 2017.
 
-   
-  
  
 
-a A autenticidade deste documento pode ser conferida no site
+El A autenticidade deste documento pode ser conferida no site
 
 http: //seisaude.gov.br/sei/controlador externo.php?
-acao=documento conferir&id orgao acesso externo=0, informando o
-E código verificador 0020873430 e o código CRC A4DBC63F.
+pi acao=documento conferir&id orgao acesso externo=0, informando o
+
+1h código verificador 0020873430 e o código CRC A4DBCG3F.
+
+  
+  
 
  
 
@@ -16008,7 +15983,9 @@ E código verificador 0020873430 e o código CRC A4DBC63F.
 
  
 
-Referência: Processo nº 25000.065528/2021-98 SEI nº 0020873430
+ 
+
+Processo nº 25000,065528/2021-98 SEI nº 0020873430
 Ministério da Saúde
 Gabinete do Ministro
 Assessoria Parlamentar
@@ -16024,45 +16001,46 @@ Assunto: Requerimento do Senado Federal nº 302/2021/CPIPANDEMIA -
 Encaminhamento das datas de anúncios de vacinas realizadas pelo Ministério,
 a quantidade de vacinas anunciadas em cada oportunidade e o cumprimento
 da entrega das vacinas nos prazos indicados; a quantidade de equipamentos
-de proteção individual (máscaras, álcool gel, etc.) efetivamente distribuídos
-pelo istério, com a discriminação do insumo, data e destinatário da
-distribuição e valor gasto; propagandas, campanhas, publicidade ou inserções
+de proteção individual (máscaras, álcoolgel, etc.) efetivamente distribuídos
+pelo Ministério, com a di: inação do insumo, data e destinatário da
+
+distri o e valor gasto; propagandas, campanhas, publicidade ou inserções
 midiáticas realizadas pelo Ministério em temas relacionados à pandemia do
 COVID-19, sua prevenção e tratamentos; discriminação de todos os dados
 relativos aos medicamentos adquiridos com a finalidade de auxiliar no
 tratamento de pacientes com suspeita de ou acometidos de Covid-19,
-contendo; a discriminação de todos os contratos firmados pelo Ministério para
+contendo; a disc nação de todos os contratos firmados pelo Ministério para
 o combate à Covid-19, contendo empresa contratada, valor do contrato e
 discriminação do objeto do contrato; indicar qual foi a modalidade de licitação
 aplicada em cada uma das contratações; o Plano de trabalho, em todas suas
 versões, formulado pelo Comitê de Operações de Emergência (criado pela
-portaria 188/2020) para auxiliar a aquisição de bens e serviços necessários
+portaria 188/2020) para auxiliar a aquisição de bens e se! os necessários
 para a atuação na situação de emergência (conforme aludido na portaria nº
 188/2020 do Ministério da Saúde).
 
  
 
- 
-
- 
-
   
+
+ 
+
+ 
 
 1. Trata-se do Ofício nº 539/2021 - CPIPANDEMIA (0020324700), de
 autoria do Presidente da CPI da Pandemia, Senador Omar Aziz, o qual faz
 referência ao Requerimento do Senado Federal nº
 
 302/2021/CPIPANDEMIA (0020324702), de autoria do Senador Alessandro
-Vieira, por meio do qual requer que sejam encaminhadas pelo Ministério da
+Vieira, por meio do qual requer que sejam encaminhadas pelo istério da
 Saúde, as datas de anúncios de vacinas realizadas pelo Ministério, a
 quantidade de vacinas anunciadas em cada oportunidade e o cumprimento
 da entrega das vacinas nos prazos indicados; a quantidade de
 equipamentos de proteção individual (máscaras, álcool gel, etc.)
 efetivamente distribuídos pelo Ministério, com a discriminação do insumo,
-data e destinatário da distril o e valor gasto; propagandas, campanhas,
-publicidade ou inserções icas realizadas pelo Ministério em temas
-relacionados à  pande do  COVID-19, sua prevenção e
-tratamentos; disc ação de todos os dados relativos aos medicamentos
+data e destinatário da distribuição e valor gasto; propagandas, campanhas,
+publicidade ou inserções mi icas realizadas pelo Ministério em temas
+relacionados à pandemia do  COVID-19, sua prevenção e
+tratamentos; discriminação de todos os dados relativos aos medicamentos
 adquiridos com a finalidade de auxiliar no tratamento de pacientes com
 suspeita de ou acometidos de Covid-19, contendo; a discriminação de todos
 os contratos firmados pelo Ministério para o combate à Covid-19, contendo
@@ -16074,14 +16052,12 @@ para auxiliar a aquisição de bens e serviços necessários para a atuação na
 situação de emergência (conforme aludido na portaria nº 188/2020 do
 Ministério da Saúde).
 
-2. Em resposta, encaminho por meio do link eletrônico disponibilizad:
+2. Em resposta, encaminho r meio do link trôni
 por essa Comissão, para ciência e atendimento à solicitação do referido
 Requerimento, os documentos abaixo relacionados, elaborados pelas áreas
 finalísticas deste Ministério:
 
-  
-   
-  
+ 
 
  
 
@@ -16099,7 +16075,7 @@ Estratégicos em Saúde - SCTIE/MS:
 
 - Notas Técnicas nº 218/2021-CITEC/CGGTS/DGITIS/SCTIE/MS
 (0020563277) e nº 119/2021-DAF/SCTIE/MS (0020658036);
-- Anexos Projetos de Pesquisa (002039/2/7), Execução das Atas de
+- Anexos Projetos de Pesquisa (0020397277), Execução das Atas de
 Registro de Preços referentes aos IOT (0020448414) e Distibuição de IOT
 (0020682240);
 
@@ -16171,21 +16147,22 @@ PAULO TIAGO ALMEIDA MIRANDA
 Chefe da Assessoria Parlamentar, substituto
 
 Documento assinado eletronicamente por Paulo Tiago Almeida Miranda,
-Chefe da Assessoria Parlamentar substituto(a), em 06/07/2021, às
-28h &3]10:33, conforme horário oficial de Brasília, com fundamento no art. 6º, & 10,
-rânica do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+e Chefe da Assessoria Parlamentar substituto(a), em 06/07/2021, às
+28h &3]10:33, conforme horário oficial de Brasília, com fundamento no art. 69, 10,
+eletrônica do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+
 de 31 de Março de 2017.
 
  
 
-gala] a autenticidade deste documento pode ser conferida no site
+[E] a autenticidade deste documerto pode ser conferida no site
 
-http://sei saude. gov. br/seicontrolador extemo. php?
-acao=documento. conferir&id orgao acesso externo=0, informando o
-fi código verificador 0021468839 e o código CRC 9660DCS0.
+| http: //sei.saude. gov. br/sei/controlador extemo.php?
+
+acao=documento conferi&id orgao acesso externo=0, informando o
+código verificador 0021468839 e o código CRC 9660DC90.
 
   
-   
 
  
 
@@ -16243,13 +16220,16 @@ Parlamentar de Inquérito da Pandemia - CPIPANDEMIA, de 30 de abril de
 do Senador Alessandro Vieira, encaminho por meio do link eletrônico
 disponibilizado por essa Comissão, as informações prestadas pelo corpo técnico
 deste Ministério.
+
 Atenciosamente,
 
 MARCELO QUEIROGA
 Ministro de Estado da Saúde
 
-Documento assinado eletronicamente por Marcelo Antônio Cartaxo
-seil | Queiroga Lopes, Ministro de Estado da Saúde, em 06/07/2021, às
+ 
+
+— «— Documento assinado eletronicamente por Marcelo Antônio Cartaxo
+eil , Queiroga Lopes, Ministro de Estado da Saúde, em 06/07/2021, às
 Sds 10:42, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 19,
 
 assinatura
@@ -16261,13 +16241,9 @@ de 31 de Março de 2017.
 
  
 
-   
+El A autenticidade deste documento pode ser conferida no site
 
-: A autenticidade deste documento pode ser conferida no site
-* http://seisaude.gov.br/sei/controlador externo.php?
-* acao=documento conferir&id orgao acesso externo=0, informando o
-
-4 código verificador 0021468867 e o código CRC 9CAOC89B.
+  
 
  
 

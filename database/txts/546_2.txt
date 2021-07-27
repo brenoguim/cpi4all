@@ -1,23 +1,5330 @@
-SEI/MS - 0014223901 - Nota Informativa https://sei saude, gov. br/sei/controlador.php?acao=documento. imprim...
+27/03/2020 SEIWMS - 0014167392 - Nota Informativa
 
  
 
-E SEIIMS - 0014167392 - Nota Informativa.
-84. YAO, Xuetina: VE Fai” ZHANG Miane et al Tn vitro antiviral activity and 4
-Setur de Saúde
+Ministério da Saúde
+Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde
+Departamento de Assistência Farmacêutica e Insumos Estratégicos
 
-de Informações Estratégicas
-& elíde CONECTA-SUS
+NOTA INFORMATIVA Nº 5/2020-DAF/SCTIE/MS
 
-FDA - Food & Drug Administration. Why You Shouldn't Use lvermectin to Treat or Prevent COVID-
+1, ASSUNTO
+
+1,1. Uso da Cloroquina como terapia adjuvante no tratamento de formas graves do COVID-19.
+
+2. JUSTIFICATIVA
+
+2.1. Considerando a pandemia ocasionada pelo novo coronavírus humano (COVID-2019) declarada pela
+
+OMS e a situação epidemiológica brasileira (WHO,2020a);
+
+22. Considerando a inexistência de terapias farmacológicas e imunobiológicos específicos para COVID-
+19 e a taxa de letalidade da doença em indivíduos de idade avançada em razão da insuficiência de alternativas
+terapêuticas para essa população em específico (BRASIL, 2020a);
+
+23. Considerando as publicações recentes com dados preliminares sobre o uso da cloroquina e
+hidroxicloroquina em pacientes com COVID-19 (Chatre, 2020, Touret, 2020; Gautret, 2020; Riera, 2020);
+
+24, Considerando que o uso de cloroquina é um tratamento de baixo custo, de fácil acesso e também
+facilmente administrada;
+
+2.5. Considerando a capacidade nacional de produção de cloroquina pelos laboratórios públicos
+brasileiros em larga escala e da capacidade de abastecimento desse medicamento a nível estadual e municipal,
+este Ministério informa que:
+
+2.6. A cloroquina e o seu análogo hidroxicloroquina são fármacos derivados da 4-aminoquinolonas, que
+clinicamente são indicados para o tratamento das doenças artrite reumatoide e artrite reumatoide juvenil
+(inflamação crônica das articulações), lúpus eritematoso sistêmico e discoide, condições dermatológicas
+provocadas ou agravadas pela luz solar e malária. A apresentação farmacêutica da cloroquina varia entre 5Omg a
+150mg, enquanto a da hidroxicloroquina é de 400mg. Ambos são fármacos administrados pela via oral ou
+injetável, no caso da cloroquina, podendo se distribuir extensamente pelos tecidos. São metabolizados pelo
+complexo de isoenzimas CYP do fígado e possuem meia-vida de eliminação por volta de 60 dias (cloroquina) e 50
+
+dias (hidroxicloroquina) com depuração predominantemente renal. Os resíduos desses fármacos podem perdurar
+
+semanas ou meses no organismo (Micromedex e FTN, 2010).
+
+27. Algumas publicações científicas internacionais têm sugerido que esses fármacos podem inibir a
+
+replicação de SARS COVY, por meio da glicosilação terminal da Enzima Conversora de Angiotensina 2, produzida
+
+pelos vasos pulmonares, que pode afetar negativamente a ligação vírus receptor (Al Bari, 2017 e Savarino 2006).
+Com relação ao SARS COV 2, Gautret e colaboradores demonstraram que após 6 dias de tratamento com
+hidroxicloroquina (e hidroxicloroquina em associação com azitromicina), 70% dos pacientes estava sem detecção
+viral em relação ao grupo controle, o que em caráter preliminar, pode sugerir um potencial efeito antiviral no
+coronavírus humano. Em uma recente revisão sistemática rápida foi observado o efeito da cloroquina na inibição
+da infecção viral por meio do aumento do pH endossômico, permitindo assim a fusão viral/celular. Ademais,
+também foi observado que esse medicamento contribuiu para a prevenção da disseminação do vírus em culturas
+celulares. Os modelos animais incluídos nesta revisão mostraram que a cloroquina e hidroxicloroquina podem
+interromper a infecção viral. (Paho, 2020).
+
+28. Os eventos adversos relatados a longo prazo devido ao uso da cloroquina incluem retinopatia e
+distúrbios cardiovasculares. Considera-se que o uso de cloroquina ou de hidroxicloroquina pode ser seguro,
+embora, a janela terapêutica (margem entre a dose terapêutica e dose tóxica) seja estreita (Touret, 2020,
+UptoDate). O seu uso deve, portanto, estar sujeito a regras estritas, e automedicação é contra-indicada.
+
+https://sei. saude.gov.br/sei/controlador php 2acao=documento imprimir web&acao origem=arvore visualizar&id documento=15585776&infra si..
+
+1/4
+27/03/2020 SEIWMS - 0014167392 - Nota Informativa
+
+2.9. Neste sentido, com base na Lei n. 13.979 de 06 de fevereiro de 2020, na Medida Provisória n. 926
+e Decreto n. 10.282, ambos datados, a posteriori, 20 de março de 2020, que alteram a Lei já publicada, o
+Ministério da Saúde do Brasil disponibilizará para uso, a critério médico, o medicamento cloroquina como terapia
+adjuvante no tratamento de formas graves, em pacientes hospitalizados, sem que outras medidas de suporte
+sejam preteridas em seu favor. A presente medida considera que não existe outro tratamento específico eficaz
+disponível até o momento. Importante ressaltar que há dezenas de estudos clínicos nacionais e internacionais em
+andamento, avaliando a eficácia e segurança de cloroquina/hidroxicloroquina para infecção por COVID-19, bem
+como outros medicamentos, e, portanto, essa medida poderá ser modificada a qualquer momento, a depender
+de novas evidências científicas.
+
+3. INDICAÇÕES NA TERAPIA ADJUVANTE NAS FORMAS GRAVES
+
+Situação clínica Recomendação Considerações
+
+   
+
+Pacientes Difosfato de Cloroquina: Verifique o eletrocardiosrama (ECG)
+hospitalizados com antes do início, risco de prolongamento
+formas graves da 3 comp. de 150mg 2x/dia no 1º do intervalo QT. O risco é maior em
+COVID-19+ dia (900mg de dose de ataque) pacientes em uso de outros agentes
+
+seguido de 3 comp. 150 mg Ix/dia
+Casos críticos da no2º,3º, 4º e 5º dias (450mg/dia)
+COVID-19**
+
+prolongadores do intervalo QT. Manter
+monitoramento do ECG nos dias
+
+subsequentes
+
+OU
+
+Hidroxicloroquina:
+
+1 comp. 400mg 2xídia no 1º dia
+(800mg dose de ataque), seguido
+de 1 comp. 400 mg Ix/dia no 2º,
+3º,4º e 5º dias (400mg/dia)
+
+*Dispneia, frequência respiratória > 30/min, SpO; < 93%, PaQ;/FiO, < 300 e/ou infiltração pulmonar >
+50% dentro das 24 a 48 horas
+
+**Falência respiratória, choque séptico e/ou disfunção de múltiplos órgãos
+
+*** Para pacientes abaixo de 60 kg, fazer ajuste de 7,5 mg/kg de peso.
+
+OBS: A escolha da antibioticoterapia ficará a critério da equipe médica do hospital, de acordo
+com as recomendações da comissão de infecção hospitalar local.
+
+4. OBSERVAÇÕES IMPORTANTES
+
+41. Realizar ECG antes do início da droga e acompanhar durante toda a internação o intervalo QT, pois
+a cloroquina pode aumentar esse intervalo, especialmente se utilizada com outras drogas que prolongam o QT. A
+
+https:
+
+ 
+
+ei. saude. gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=15585776&infra si... 2/4
+27/03/2020 SEIWMS - 0014167392 - Nota Informativa
+
+suspensão se dará por avaliação clínica individualizada.
+
+42. Na presença de insuficiência renal ou insuficiência hepática graves, reduzir a dose de cloroquina
+para 50%.
+
+5. CRITÉRIOS PARA A PRIMEIRA DISTRIBUIÇÃO DA CLOROQUINA NA REDE SUS:
+
+51. Com o aumento dos casos da COVID-19 e a velocidade de transmissão do coronavírus no Brasil,
+
+projeta-se para a primeira distribuição um quantitativo calculado com base no número de casos notificados no
+último boletim oficial do MS (25/03/2020) e um estoque de reserva. Portanto, o quantitativo enviado a cada
+estado e Distrito Federal, será suficiente para atender de imediato os pacientes hospitalizados e para o pronto
+atendimento de novos casos.
+
+52. Fator embalagem do difosfato de cloroquina - caixa com 500 comprimidos. Cada paciente receberá
+2 blister c/ 10 comprimidos, para evitar fracionamento. Nenhuma UF receberá menos de 4 caixas (2.000
+comprimidos).
+
+53. O medicamento será distribuído pelo Ministério da Saúde às Secretarias Estaduais de Saúde, que
+realizarão o envio aos hospitais de referência de sua região.
+
+54. A primeira distribuição será iniciada em 27 de março de 2020.
+
+SANDRA DE CASTRO BARROS
+
+Diretora do Departamento de Assistência Farmacêutica e Insumos Estratégicos
+DAF/SCTIE
+
+DENIZAR VIANNA DE ARAÚJO
+
+Secretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde
+SCTIE
+
+ 
+
+REFERÊNCIAS
+
+Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia e Insumos Estratégicos. Departamento de
+Assistência Farmacêutica e Insumos Estratégicos. Formulário terapêutico nacional 2010: Rename 2010/Ministério
+da Saúde, Secretaria de Ciência, Tecnologia e In- sumos Estratégicos, Departamento de Assistência Farmacêutica
+e Insumos Estratégicos. — 2. ed. — Brasília: Ministério da Saúde, 2010.
+
+Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde.
+Departamento de Ciência e Tecnologia. Coordenação de Evidências e Informações Estratégicas para Gestão em
+Saúde. Revisão Sistemática Rápida sobre alternativas terapêuticas para coronavírus humano. Brasília, 2020.
+
+Chatre C, Roubille F, Vernhet H, Jorgensen C, Pers YM. Cardiac Complications Attributed to Chloroquine and
+Hydroxychloroquine: A Systematic Review of the Literature. Drug Saf. 2018 0ct;41(10):919-931.
+
+Gautret P, Lagiera JC, Parola P, et al. Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of
+an open-label non-randomized clinical trial. International Journal of Antimicrobial Agents. 2020. In Press 17
+March 2020 — DOI: 10.1016/j.ijantimicag.2020.105949.
+
+Micromedex [Internet]. IBM Watson Health, Micromedex drug reference — Hydroxychloroquine sulfate. [Acesso
+
+em 21 mar 2020]. Available from: https://www.micromedexsolutions.com/home/dispatch/ssl/true
+
+PAHO.COVID-19: Chloroquine and hydroxychloroquine research. Institutional communication. Pan American
+health Organization. Updated March 19th, 2020.
+
+https://sei saude.gov.br/sei/controlador php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=15585776&infra si... 3/4
+27/03/2020 SEIWMS - 0014167392 - Nota Informativa
+
+Riera R, Pacheco RL. Hidroxicloroquina e cloroquina para infecção por COVID-19. Revisão sistemática rápida.
+
+Disponível em: https://oxfordbrazilebm.com/index.php/2020/03/21/rapid-review-hidroxicloroquina-covid19/.
+Acessado em: [21 mar 2020]
+
+Savarino A, Bounavoglia C, Norelli S, Di Trani L, Cassone A. Potential therapies for coronaviruses. Expert Opin Ther
+Pat. 2006;16(9):1269-88.
+
+Touret F, de Lamballerie X. Of chloroquine and COVID-19. Antiviral Res. 2020. Published online March 5, 2020.
+DOI:10.1016/).antiviral.2020.104762.
+
+Uptodate [Internet]. Wolters Kluwer, drug reference — Chloroquine Phosphate. [Acesso em 21 mar 2020].
+
+Available from: https://www.uptodate.com/
+
+Uptodate [Internet]. Wolters Kluwer, drug reference — Hydroxychloroquine sulfate. [Acesso em 21 mar 2020].
+
+Available from: https://www.uptodate.com/
+
+World Health Organization. Medication Without Harm - Global Patient Safety Challenge on Medication Safety.
+Geneva: World Health Organization, 2017Are patients with hypertension and diabetes mellitus at increased risk
+for COVID-19 infection? Lancet Respir Med 2020. https: //doi.org/10.1016/52213-2600(20)30116-8
+
+World Health Organization. WHO Director-General's opening remarks at the media briefing on COVID-19-11
+
+March 2020. Disponível em: <https://www.who.int/dg/speeches/detail/who-  director-general-s-opening-
+remarks-at-the-media-briefing-on-covid-19 11-march-2020>
+
+Brasília, 27 de março de 2020.
+
+ 
+
+9
+sel
+assinatura B
+eletrônica
+
+    
+ 
+  
+
+Documento assinado eletronicamente por Sandra de Castro Barros, Diretor(a) do Departamento de
+Assistência Farmacêutica e Insumos Estratégicos, em 27/03/2020, às 10:52, conforme horário oficial de
+Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria
+nº 900 de 31 de Março de 2017.
+
+  
+
+ 
+
+ 
+
+autenticidade deste documento pode ser conferida no site
+
+http://sei.saude.gov.br/sei/controlador externo.php?
+pts acao=documento, conferir&id orgao acesso externo=0, informando o código verificador 0014167392 e o
+código CRC 68C5CA15.
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.042783/2020-81 SEInº 0014167392
+
+Departamento de Assistência Farmacêutica e Insumos Estratégicos - DAF
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site - saude gov.br
+
+https://sei saude.gov.br/sei/controlador php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=15585776&infra si... 4/4
+SEL'MS - 0014225901 - Nota Informativa htt
+
+ 
+
+ei.saude.gov.br/sei/controlador.php'?acao=documento. imprim...
+
+ 
+
+Ministério da Saúde
+Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde
+Departamento de Assistência Farmacêutica e Insumos Estratégicos
+
+NOTA INFORMATIVA Nº 6/2020-DAF/SCTIE/MS
+
+1. ASSUNTO
+
+1,1. Atualiza informações sobre o Uso da Cloroquina como terapia adjuvante no tratamento
+de formas graves do COVID-19, ficando revogada a Nota Informativa nº 5/2020-DAF/SCTIE/MS, datada
+de 27 de março de 2020.
+
+2. JUSTIFICATIVA
+
+2.1. Considerando a pandemia ocasionada pelo novo coronavírus humano (COVID-2019)
+declarada pela OMS e a situação epidemiológica brasileira (WHO,2020a);
+
+22. Considerando a inexistência de terapias farmacológicas e imunobiológicos específicos
+para COVID-19 e a taxa de letalidade da doença em indivíduos de idade avançada em razão da
+insuficiência de alternativas terapêuticas para essa população em específico (BRASIL, 2020a);
+
+23. Considerando as publicações recentes com dados preliminares sobre o uso da cloroquina
+e hidroxicloroquina em pacientes com COVID-19 (Chatre, 2020, Touret, 2020; Gautret, 2020; Riera,
+2020);
+
+2.4. Considerando que o uso de cloroquina é um tratamento de baixo custo, de fácil acesso e
+
+também facilmente administrada;
+
+2.5. Considerando a capacidade nacional de produção de cloroquina pelos laboratórios
+públicos brasileiros em larga escala e da capacidade de abastecimento desse medicamento a nível
+estadual e municipal, este Ministério informa que:
+
+2.6. A cloroquina e o seu análogo hidroxicloroquina são fármacos derivados da
+4-aminoquinolonas, que clinicamente são indicados para o tratamento das doenças artrite reumatoide
+e artrite reumatoide juvenil (inflamação crônica das articulações), lúpus eritematoso sistêmico e
+discoide, condições dermatológicas provocadas ou agravadas pela luz solar e malária. A posologia da
+cloroquina varia entre 5Omg a 150mg, enquanto a da hidroxicloroquina é de 400mg. Ambos são
+fármacos administrados pela via oral ou injetável, no caso da cloroquina, podendo se distribuir
+extensamente pelos tecidos. São metabolizados pelo complexo de isoenzimas CYP do fígado e possuem
+meia-vida de eliminação por volta de 60 dias (cloroquina) e 50 dias (hidroxicloroquina) com depuração
+predominantemente renal. Os resíduos desses fármacos podem perdurar semanas ou meses no
+organismo (Micromedex e FTN, 2010).
+
+27. Algumas publicações científicas internacionais têm sugerido que esses fármacos podem
+inibir a replicação de SARS COV, por meio da glicosilação terminal da Enzima Conversora de
+Angiotensina 2, produzida pelos vasos pulmonares, que pode afetar negativamente a ligação vírus
+receptor (Al Bari, 2017 e Savarino 2006). Com relação ao SARS COV 2, Gautret e colaboradores
+demonstraram que após 6 dias de tratamento com hidroxicloroquina (e hidroxicloroquina em
+associação com azitromicina), 70% dos pacientes estava sem detecção viral em relação ao grupo
+controle, o que em caráter preliminar, pode sugerir um potencial efeito antiviral no coronavírus
+humano. Em uma recente revisão sistemática rápida foi observado o efeito da cloroquina na inibição da
+infecção viral por meio do aumento do pH endossômico, possivelmente evitando ou impedindo a fusão
+
+Lof5 01/04/2020 18:04
+SEI/MS - 0014223901 - Nota Informativa https://sei.saude.gov.br/sei/controlador.php?acao=documento. imprim...
+
+viral/celular. Ademais, também foi observado que esse medicamento contribuiu para a prevenção da
+disseminação do vírus em culturas celulares. Os modelos animais incluídos nesta revisão mostraram
+que a cloroquina e hidroxicloroquina podem interromper a infecção viral. (Paho, 2020).
+
+2.8. Os eventos adversos relatados a longo prazo devido ao uso da cloroquina incluem
+retinopatia e distúrbios cardiovasculares. Considera-se que o uso de cloroquina ou de
+hidroxicloroquina pode ser seguro, embora, a janela terapêutica (margem entre a dose terapêutica e
+dose tóxica) seja estreita (Touret, 2020, UptoDate). O seu uso deve, portanto, estar sujeito a regras
+estritas, e automedicação é contra-indicada.
+
+2.9. Neste sentido, com base na Lei n. 13.979 de 06 de fevereiro de 2020, na Medida
+Provisória n. 926 e Decreto n. 10.282, ambos datados, a posteriori, 20 de março de 2020, que alteram a
+Lei já publicada, o Ministério da Saúde do Brasil disponibilizará para uso, em casos confirmados e a
+critério médico, o medicamento cloroquina como terapia adjuvante no tratamento de formas graves,
+em pacientes hospitalizados, sem que outras medidas de suporte sejam preteridas em seu favor. A
+presente medida considera que não existe outro tratamento específico eficaz disponível até o
+momento. Importante ressaltar que há dezenas de estudos clínicos nacionais e internacionais em
+andamento, avaliando a eficácia e segurança de cloroquina/hidroxicloroquina para infecção por
+COVID-19, bem como outros medicamentos, e, portanto, essa medida poderá ser modificada a
+qualquer momento, a depender de novas evidências científicas.
+
+3. INDICAÇÕES NA TERAPIA ADJUVANTE NAS FORMAS GRAVES
+
+Situação Clínica Recomendação Considerações
+
+ 
+
+Pacientes Cloroquina (***): Verifique o eletrocardiograma
+hospitalizados com (ECG) antes do início, risco de
+
+3 comp. de 150mg 2x/dia no 1º É
+formas graves da E E 2x prolongamento do intervalo
+
+dia (500mg de dose de ataque)
+
+)" -10* a z E
+o SSstido de Som Paio me e
+Casos críticos da 1x/clia no 2º, 3º, 42 e 5º dias P: É | É d d
+COVID-19"* [450mg/dia) agentes prolongadores do
+
+intervalo OT. Manter
+ou monitoramento do ECG nos
+
+Hidroxicloroquina: dias subsequentes
+
+1 comp. 400mg 2x/dia no 1º dia
+(800mg dose de ataque),
+seguido de 1 comp. 400 mg
+ix/dia no 28, 3º, 4º e 5º dias
+(400mg/dia)
+
+*Dispnéia, frequência respiratória > 30/min, SpO; £ 93%, PaO;/FiO; < 300 e/ou infiltração
+pulmonar > 50% dentro das 24 a 48 horas
+
+**Falência respiratória, choque séptico e/ou disfunção de múltiplos órgãos
+
+***Para pacientes abaixo de 60Kg, fazer ajuste de dose para 7,5mg/Kg de peso.
+
+OBS: A escolha da antibioticoterapia ficará a critério da equipe médica do hospital, de
+acordo com as recomendações da comissão de infecção hospitalar local.
+
+2 of5 01/04/2020 18:04
+SEI/MS - 0014225901 - Nota Informativa https://sei.saude.gov.br/sei/controlador.php?acao=documento. imprim...
+
+4. OBSERVAÇÕES IMPORTANTES
+
+41. Realizar ECG antes do início da droga e acompanhar durante toda a internação o
+intervalo QT, pois a cloroquina pode aumentar esse intervalo, especialmente se utilizada com outras
+drogas que prolongam o QT. A suspensão se dará por avaliação clínica individualizada.
+
+42. Na presença de insuficiência renal ou insuficiência hepática graves, reduzir a dose de
+cloroquina para 50%.
+
+5. CRITÉRIOS PARA A PRIMEIRA DISTRIBUIÇÃO DA CLOROQUINA NA REDE SUS:
+
+5.1. Com o aumento dos casos da COVID-19 e a velocidade de transmissão do coronavírus no
+Brasil, projeta-se para a primeira distribuição um quantitativo calculado com base no número de casos
+notificados no último boletim oficial do MS (25/03/2020) e um estoque de reserva. Portanto, o
+quantitativo enviado a cada estado e Distrito Federal, será suficiente para atender de imediato os
+pacientes hospitalizados e para o pronto atendimento de novos casos.
+
+5.2. Fator embalagem da cloroquina - caixa com 500 comprimidos. Cada paciente receberá 2
+blister c/ 10 comprimidos, para evitar fracionamento. Nenhuma UF receberá menos de 4 caixas (2.000
+comprimidos).
+
+5.3. O medicamento será distribuído pelo Ministério da Saúde às Secretarias Estaduais de
+Saúde, que realizarão o envio aos hospitais de referência de sua região, PÚBLICO e PRIVADO.
+
+5.4. A primeira distribuição iniciou-se em 27 de março de 2020. E a medida em que forem
+surgindo a necessidade de novas entregas, as SES deverão informar ao DAF/SCTIE/MIS, para o envio do
+medicamento.
+
+6. CONSIDERAÇÕES FINAIS:
+
+6.1. Esta Nota Informativa atualiza informações nos seguintes itens:
+
+6.2. 2.6 linha 2 - substitui a expressão "apresentação farmacêutica" por "posologia";
+
+6.3. 2.7 linha 5 - substitui a expressão "permitindo assim a fusão viral/celular"
+por "possivelmente evitando ou impedindo a fusão viral/celular";
+
+6.4. 2.9 linha 2 - inclui a expressão "casos confirmados";
+
+6.5. 3 - Tabela - coluna (Recomendação) - substituiu a expressão "difosfato de cloroquina"
+por "cloroquina ***";
+
+6.6. 3 - Na referência: (***) substitui a frase "Para pacientes abaixo de 60kg, fazer ajuste de
+7,5mg/kg de peso" por "Para pacientes abaixo de 60Kg, fazer ajuste de dose para 7,5mg/Kg
+de peso."
+
+SANDRA DE CASTRO BARROS
+Diretora do Departamento de Assistência Farmacêutica e Insumos Estratégicos
+DAF/SCTIE
+
+DENIZAR VIANNA ARAÚJO
+Secretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde
+SCTIE
+
+REFERÊNCIAS
+
+30f5 01/04/2020 18:04
+SEUMS - 0014223901 - Nota Informativa https://sei.saude .gov.br/sei/controlador.php?acao=documento. imprim...
+
+Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia e Insumos Estratégicos. Departamento de
+Assistência Farmacêutica e Insumos Estratégicos. Formulário terapêutico nacional 2010: Rename
+2010/Ministério da Saúde, Secretaria de Ciência, Tecnologia e In- sumos Estratégicos, Departamento de
+Assistência Farmacêutica e Insumos Estratégicos. — 2. ed. — Brasília: Ministério da Saúde, 2010.
+
+Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em
+Saúde. Departamento de Ciência e Tecnologia. Coordenação de Evidências e Informações Estratégicas
+para Gestão em Saúde. Revisão Sistemática Rápida sobre alternativas terapêuticas para coronavírus
+humano. Brasília, 2020.
+
+Chatre C, Roubille F, Vernhet H, Jorgensen C, Pers YM. Cardiac Complications Attributed to Chloroquine
+and Hydroxychloroquine: A Systematic Review of the Literature. Drug Saf. 2018 0ct;41(10):919-931.
+
+Gautret P, Lagiera JC, Parola P, et al. Hydroxychloroquine and azithromycin as a treatment of COVID-19:
+results of an open-label non-randomized clinical trial. International Journal of Antimicrobial Agents.
+2020. In Press 17 March 2020 — DOI: 10.1016/).ijantimicag.2020.105949.
+
+Micromedex [Internet]. IBM Watson Health, Micromedex drug reference — Hydroxychloroquine sulfate.
+[Acesso em 21 mar 2020]. Available from: https://www.micromedexsolutions.com/home /dispatch
+/sslftrue
+
+PAHO.COVID-19: Chloroquine and hydroxychloroquine research. Institutional communication. Pan
+American health Organization. Updated March 19th, 2020.
+
+Riera R, Pacheco RL. Hidroxicloroquina e cloroquina para infecção por COVID-19. Revisão sistemática
+rápida. Disponível em: https://oxfordbrazilebm.com/index.php/2020/03/21/rapid-review-
+hidroxicloroquina-covid19/. Acessado em: [21 mar 2020 ]
+
+Savarino A, Bounavoglia C, NorelliS, Di Trani L, Cassone A. Potential therapies for coronaviruses. Expert
+Opin Ther Pat. 2006;16(9):1269-88.
+
+Touret F, de Lamballerie X. Of chloroquine and COVID-19. Antiviral Res. 2020. Published online March 5,
+2020. DOI:10.1016/).antiviral.2020.104762.
+
+Uptodate [Internet]. Wolters Kluwer, drug reference — Chloroquine Phosphate. [Acesso em 21 mar
+2020]. Available from: htt, www.uptodate.com/
+
+Uptodate [Internet]. Wolters Kluwer, drug reference — Hydroxychloroquine sulfate. [Acesso em 21 mar
+
+ 
+
+World Health Organization. Medication Without Harm - Global Patient Safety Challenge on Medication
+Safety. Geneva: World Health Organization, 2017Are patients with hypertension and diabetes mellitus
+at increased risk for COVID-19 infection? Lancet Respir Med 2020. https://doi.org/10.1016
+/S2213-2600(20)30116-8
+
+World Health Organization. WHO Director-General's opening remarks at the media briefing on
+COVID-19-11 March 2020. Disponível em: <https://www.who.int/dg/speeches/detail/who- director-
+general-s-opening-remarks-at-the-media-briefing-on-covid-19 11-march-2020>
+
+Brasília, 31 de março de 2020.
+
+ 
+
+Documento assinado eletronicamente por Sandra de Castro Barros, Diretor(a) do Departamento
+
+de Assistência Farmacêutica e Insumos Estratégicos, em 01/04/2020, às 10:13, conforme horário
+
+oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015;
+eart. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+É al
+sel!
+assinatura
+eletrônica
+
+     
+
+ 
+
+Documento assinado eletronicamente por Denizar Vianna Araujo, Secretário(a) de Ciência,
+Tecnologia, Inovação e Insumos Estratégicos em Saúde, em 01/04/2020, às 17:50, conforme
+horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro
+de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+eletrônica
+
+ 
+
+ 
+
+4of5 01/04/2020 18:04
+SEUMS - 0014223901 - Nota Informativa https:
+
+ 
+
+sei.saude.gov.br/sei/controlador.php?acao=documento. imprim.
+
+ 
+
+[E]
+
+A autenticidade deste documento pode ser conferida no site http://seisaude.gov.br
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.042783/2020-81 SEI nº 0014223901
+
+Departamento de Assistência Farmacêutica e Insumos Estratégicos - DAF
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site - saude gov.br
+
+Sof5 01/04/2020 18:04
+Ministério da Saúde
+Secretaria Executiva
+Gabinete da Secretaria Executiva
+
+NOTA INFORMATIVA Nº 9/2020-SE/GAB/SE/MS
+
+ORIENTAÇÕES PARA MANUSEIO MEDICAMENTOSO PRECOCE DE
+PACIENTES COM DIAGNÓSTICO DA COVID-19
+
+ASSUNTO
+
+Se er manuseio medicamentoso precoce de pacientes
+INTRODUÇÃO
+1. Considerando que cabe ao Ministério da Saúde acompanhar, controlar
+
+e avaliar as ações e os serviços de saúde, respeitadas as competências
+estaduais e municipais, nos termos da Constituição Federal e da Lei nº 8080, de
+19 de setembro de 1990;
+
+2. Considerando que até o momento não existem evidências científicas
+robustas que possibilitem a indicação de terapia farmacológica específica para a
+COVID-19;
+
+3. Considerando que a manutenção do acompanhamento da
+comunidade científica dos resultados de estudos com medicamentos é de
+extrema relevância para atualizar periodicamente as orientações para o
+tratamento da COVID-19, que existem muitos medicamentos em teste, com
+muitos resultados sendo divulgados diariamente, e vários destes medicamentos
+têm sido promissores em testes de laboratório e por observação clínica, mesmo
+com muitos ensaios clínicos ainda em análise;
+
+4. Considerando que alguns Estados, Municípios e hospitais da rede
+privada já estabeleceram protocolos próprios de uso da cloroquina e da
+hidroxicloroquina para tratamento da COVID-19;
+
+5. Considerando a necessidade de uniformização da informação para os
+profissionais da saúde no âmbito do Sistema Único de Saúde;
+
+6. Considerando a existência de diversos estudos sobre o uso da
+cloroquina e hidroxicloroquina no tratamento da COVID-19;
+
+7. Considerando a larga experiência do uso da cloroquina e da
+hidroxicloroquina no tratamento de outras doenças infecciosas e de doenças
+crônicas no âmbito do Sistema Único de Saúde, e que não existe, até o
+momento, outro tratamento eficaz disponível para a COVID-19;
+
+8. Considerando a necessidade de orientar o uso da cloroquina e da
+hidroxicloroquina no âmbito do Sistema Único de Saúde pelos profissionais
+médicos;
+
+9. Considerando a necessidade de orientar o uso de fármacos no
+tratamento precoce da COVID-19 no âmbito do Sistema Unico de Saúde pelos
+médicos;
+
+10. Considerando a necessidade de reforçar que a auto prescrição dos
+medicamentos aqui orientados pode resultar em prejuízos à saúde e/ou redução
+da oferta para pessoas com indicação precisa para o seu uso;
+
+11. Considerando a necessidade de avaliação dos pacientes através de
+anamnese, exame físico e exames complementares nos equipamentos de saúde
+do Sistema Único de Saúde;
+
+12. Considerando que a prescrição de todo e qualquer medicamento é
+prerrogativa do médico, e que o tratamento do paciente portador de COVID-19
+deve ser baseado na autonomia do médico e na valorização da relação médico-
+paciente que deve ser a mais próxima possível, com o objetivo de oferecer o
+melhor tratamento disponível no momento; e
+
+13. Considerando que o Conselho Federal de Medicina recentemente
+propôs a consideração da prescrição de cloroquina e hidroxicloroquina pelos
+médicos, em condições excepcionais, mediante o livre consentimento
+esclarecido do paciente, para o tratamento da COVID-19 (PROCESSO -CONSULTA
+CFM nº 8/2020 - PARECER CFM Nº 4/2020).
+
+14. O Ministério da Saúde, com o objetivo de ampliar o acesso dos
+
+pacientes a tratamento medicamentoso no âmbito do SUS, publica as seguintes
+orientações 'medicamentoso precoce” de pacientes com
+
+ 
+
+sironis SINASSE SINTO As SINAIS DE GRAVIDADE
+
+ 
+
+e Tosse persistente
+
++ febre
+persistente diária | Síndrome Respiratória
+ou Aguda Grave - Síndrome
+* Anosmia e Tosse persistente | Sripal que apresente:
+e Ageusia + piora
+» Coriza . e Dispneia/desconforto
+progressiva de tri .
+e Diarreia outro sintoma respiratório persistente
+* Dor abdominal relacionado a no Tórax
+º Febre COVID-19 e OU pressão
+º Miaigia (adinamia, persistente no Tórax
+. x
+* Fadiga prostração, e OU saturação de O,
+: hiporexia,
+e Cefaleia diarreia) menor que 95% em ar
+ou ambiente
+
+e OU coloração azulada
+
+e Pelo menos um bi
+de lábios ou rosto
+
+dos sintomas
+acima + presença
+de fator de risco
+
+ 
+
+ 
+
+ 
+
+ 
+
+ORIENTAÇÃO DE TRATAMENTO CONFORME A CLASSIFICAÇÃO DOS SINAIS
+E SINTOMAS:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+: a FASE 1 FASE 2 FASE 3
+Orientação Para 1º AO 5º DIA DO | 6º AO 14º DIA DO | APÓS 14º DIA DO
+PACIENTES ADULTOS INÍCIO DOS INÍCIO DOS INÍCIO DOS
+SINTOMAS SINTOMAS SINTOMAS
+Difosfato de Cloroquina
+D1: 500mg 12/12h (300mg de cloroquina
+base)
+D2 ao D5: 500mg 24/24h (300mg de
+cloroquina base)
++
+Azitromicina
+500mg 1x ao dia, durante 5 dias O
+SINAIS E SINTOMAS sintomático
+LEVES Ou
+Sulfato de Hidroxicloroquina
+D1: 400mg 12/12h
+D2 ao D5: 400mg 24/24h
++
+Azitromicina
+500mg 1x ao dia, durante 5 dias
+: a FASE 1 FASE 2 FASE 3
+orienta o e 1º AO 5º DIA DO | 6º AO 14º DIA DO APÓS 14º
+PACIENTES ADULTOS INÍCIO DOS INÍCIO DOS DIA DO INÍCIO
+SINTOMAS SINTOMAS DOS SINTOMAS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Considerar a Internação Hospitalar
+- Afastar outras causas de gravidade
+- Avaliar presença de infecção bacteriana
+
+ 
+
+ 
+SINAIS E SINTOMAS
+MODERADOS
+
+- Considerar imunoglobina humana
+- Considerar anticoagulação
+- Considerar corticoterapia
+
+ 
+
+ 
+
+Difosfato de Cloroquina
+D1: 500mg 12/12h (300mg de cloroquina
+base)
+D2 ao D5: 500mg 24/24h (300mg de
+cloroquina base)
++
+Azitromicina
+500mg 1x ao dia, durante 5 dias -X-
+ou
+Sulfato de Hidroxicloroquina
+D1: 400mg 12/12h
+D2 ao D5: 400mg 24/24h
++
+Azitromicina
+500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+ 
+
+Orientação para
+prescrição em
+PACIENTES ADULTOS
+
+FASE 1
+1º AO 5º DIA DO
+INÍCIO DOS
+SINTOMAS
+
+FASE 2
+6º AO 14º DIA DO
+INÍCIO DOS
+SINTOMAS
+
+- FASE3
+APÓS 14º DIA DO
+INÍCIO DOS
+SINTOMAS
+
+ 
+
+ 
+
+ 
+
+ 
+
+SINAIS E SINTOMAS
+GRAVES
+
+ 
+
+Internação Hospitalar
+- Afastar outras causas de gravidade
+- Avaliar presença de infecção bacteriana
+- Considerar imunoglobina humana
+- Considerar anticoagulação
+- Considerar pulsoterapia com corticóide
+
+Sulfato de Hidroxicloroquina
+D1: 400mg 12/12h
+D2 ao D5: 400mg 24/24h
++
+Azitromicina
+500mg 1x ao dia, durante 5 dias
+
+ 
+
+ANEXO A - TERMO DE CIÊNCIA E CONSENTIMENTO
+
+NOTAS
+
+1. Apesar de serem medicações utilizadas em diversos protocolos e de
+possuírem atividade in vitro demonstrada contra o coronavírus, ainda não
+há meta-análises de ensaios clínicos multicêntricos, controlados, cegos e
+randomizados que comprovem o beneficio inequívoco dessas medicações
+para o tratamento da COVID-19. Assim, fica a critério do médico a
+prescrição, sendo necessária também a vontade declarada do paciente,
+conforme Anexo A - Termo de Ciência e Consentimento.
+
+2. O uso das medicações está condicionado à avaliação médica, com
+realização de anamnese, exame físico e exames complementares, em
+
+Unidade de Saúde.
+
++ epi ca ae
+
+4. São contra-indicações absolutas ao uso da Hidroxicloroquina: gravidez,
+retinopatia/maculopatia secundária ao uso do fármaco já diagnosticada,
+hipersensibilidade ao fármaco, miastenia grave.
+
+5. Não há necessidade de ajuste da dose de hidroxicloroquina para
+insuficiência renal (somente se a taxa de filtração glomerular for menor que
+15) ou insuficiência hepática.
+
+6. O risco de retinopatia é menor com o uso da hidroxicloroquina.
+
+7. Não coadministrar hidroxicloroquina com amiodarona e flecainida. Há
+interação moderada da hidroxicloroquina com: digoxina (monitorar),
+ivabradina e propafenona, etexilato de dabigatrana (reduzir dose de 220
+
+ 
+10.
+
+1.
+
+12.
+
+13.
+
+14.
+
+15.
+16.
+
+17.
+18.
+
+19.
+
+20.
+
+21.
+
+mg para 110 mg), edoxabana (reduzir dose de 60 mg para 30 mg). Há
+interação leve com verapamil (diminuir dose) e ranolazina.
+
+Em crianças, dar sempre prioridade ao uso de hidroxicloroquina pelo risco
+de toxicidade da cloroquina.
+
+Cloroquina deve ser usada com precaução em portadores de doenças
+cardíacas, hepáticas ou renais, hematoporfiria e doenças mentais.
+
+Cloroquina deve ser evitada em associação com: clorpromazina,
+clindamicina, estreptomicina, gentamicina, heparina, indometacina,
+tiroxina, isoniazida e digitálicos.
+
+Para pacientes adultos hospitalizados e com sinais de gravidade,
+considerar anticoagulação e pulsoterapia com corticóide. Antes do primeiro
+pulso de corticoterapia, realizar profilaxia anti-helmíntica.
+
+Para pacientes com sinais e sintomas moderados, considerar
+anticoagulação profilática se a oximetria estiver abaixo de 95% ou na
+presença de qualquer sinal ou sintoma respiratório (tosse, dispneia etc.)
+quando não for possível realizar a oximetria.
+
+Para pacientes hospitalizados, observar e iniciar o tratamento precoce para
+pneumonia nosocomial, conforme protocolo da Comissão de Controle de
+Infecções Hospitalares (CCIH) local.
+
+Nos pacientes com deficiência ou presunção de deficiência de vitamina D,
+considerar a reposição conforme necessidade clínica.
+
+Investigar e tratar anemia.
+
+Zinco - Para pacientes adultos, considerar a administração de sulfato de
+zinco concomitante ao tratamento com cloroquina/hidroxicloroquina +
+azitromicina.
+
+Monitorar o uso de anti-coagulantes.
+
+Exames laboratoriais de relevância na COVID-19: hemograma completo, TP,
+TTPA, proteína C-reativa (de preferência ultra sensível), AST (TGO), ALT
+(TGP), Gama-GT, creatinina, uréia, glicemia, ferritina, D-dímero, DHL,
+troponina, CK-MB, vitamina D, íons (Na/K/Ca/Mg), RT-PCR SARS-Cov-2,
+sorologia ELISA IGM IGG para SARS-Cov-2, teste molecular rápido para
+coronavírus.
+
+Exames complementares de relevância na COVID-19: Eletrocardiograma e
+Tomografia Computadorizada de TÓRAX.
+
+A Sociedade Brasileira de Cardiologia recomenda a realização de
+Eletrocardiograma no primeiro, terceiro e quinto dias do tratamento com
+cloroquina ou hidroxicloroquina com associação eventual com azitromicina.
+
+Cada comprimido de Difosfato de Cloroquina de 250 mg equivale a 150 mg
+de cloroquina base. A dose diária máxima de cloroquina base não deve
+exceder 25mg/Kg.
+
+REFERÊNCIAS:
+
+1.
+
+BERTSIAS, George K; TEKTONIDOU, Maria; AMOURA, Zahir; et al. Joint
+European League Against Rheumatism and European Renal Association-
+European Dialysis and Transplant Association (EULAR/ERA-EDTA)
+recommendations for the management of adult and paediatric lupus
+nephritis. Annals of the Rheumatic Diseases, vol. 71(11), 2012, p. 1771-
+1782. Internet, https://www.ncbi.nlm.nih article 4 9,
+
+BOWLING, Brad. Kanski Oftalmologia Clínica. Uma abordagem sistêmica.
+83 edição. Rio de Janeiro: Elsevier, 2016, p. 853.
+
+BRASIL. MINISTÉRIO DA SAÚDE. SECRETARIA DE VIGILÂNCIA SANITÁRIA.
+Guia de Vigilância Epidemiológica. Emergência de Saúde Pública de
+Importância Nacional pela Doença pelo Coronavírus 2019. Vigilância
+Integrada de Síndromes Respiratórias Agudas Doença pelo Coronavírus
+2019, Influenza e outros vírus respiratórios (03/04/2020). Brasília, Distrito
+Federal: Ministério da Saúde, 2020, p. 8.
+
+BROWNING, David J. “Pharmacology of Chloroquine and
+Hydroxychloroquine”. In: BROWNING, David J. Hydroxychloroquine and
+Chloroquine Retinopathy. New York, NY: Springer, 2014, p. 35-63. Internet,
+https://link. springer.com/chapter/10.1007/978-1-4939-0597-3 2jciteas
+
+CARLUCCI, Philip; AHUJA, Tania; PETRILLI, Christopher M.; et al.
+Hydroxychloroquine and azithromycin plus zinc vs hydroxychloroquine and
+azithromycin alone: outcomes in hospitalized COVID-19 patients. medRxiv
+preprint, publicado em maio - online. Internet,
+
+   
+
+      
+
+ 
+10.
+
+1.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+https://doi.org/10.1101/2020.05.02.20080036
+
+CHAUHAN, A. & TIKOO, A. The enigma of the clandestine association
+between chloroquine and HIV-1 infection. HIV Medicine, vol. 16(10), 2015,
+p.585-590. Internet,
+- ai . tt o dv. 12295
+CHEN, Jun; LIU, Danping; LIU, Ping; et al. A pilot study of
+hydroxychloroquine in treatment of patients with common coronavirus
+disease-19 (COVID-19). Joumal of Zhejiang University, issue 2, 2020, p.
+215-219. Internet,
+http://www .zjujournals.com/med/EN/10.3785/j.issn.1008-9292.2020.03.03
+
+CHEN, Zhaowei; HU, Jijia; ZHANG, Zongwei; et al. Efficacy of
+hydroxychloroquine in patients with COVID-19: results of a randomized
+clinical trial. medRxiv preprint, Internet,
+https://www.medrxiv.org/content/10.1101/2020.03.22.20040758v3
+
+CHINA. MULTICENTER COLLABORATION GROUP OF DEPARTMENT OF
+SCIENCE AND TECHNOLOGY OF GUANGDONG PROVINCE AND HEALTH
+COMMISSION OF GUANGDONG PROVINCE FOR CLOROQUINE IN THE
+TREATMENT OF NOVEL CORONAVIRUS PNEUMONIA. Expert consensus on
+chloroquine phosphate for the treatment of novel coronavirus pneumonia.
+Zhonghua Jie He He Hu Xi Za Zhi, vol. 43 (3), 2020, p. 185-8. Internet,
+https://pubmed.ncbi.nim.nih.gov/32164085/
+
+COLSON, Philippe; ROLAIN, Jean-Marc; LAGIER, Jean-Christophe; et al.
+Chloroquine and hydroxychloroquine as available weapons to fight COVID-
+19. International Journal of Antimicrobial Agents, vol. 55 (4), 2020,
+105932. Intemet, https: //doi.org/10.1016/j.ijantimicag.2020.105932
+
+CONSELHO FEDERAL DE MEDICINA. Processo-Consulta CFM nº 8/2020 -
+Parecer CFM nº 4/2020. Tratamento de pacientes portadores de COVID-19
+com cloroquina e hidroxicloroquina. Internet,
+
+http://www.saude.mppr.mp.br/arquivos/File/Corona/CEM/6. pdf
+
+CORTEGIANI, Andrea; INGOGLIA, Julia; IPPOLITO, Mariachiara; et al. A
+systematic review on the efficacy and safety of chloroquine for the
+treatment of COVID-19. Journal of Critical Care, vol. 57, 2020, p. 279-283.
+Intemet, https://doi.org/10.1016/j.jcrc.2020.03.005
+
+CZUPPON, Peter; DÉBARRE, Florence; GONÇALVES, Antonio; et al.
+Predicted success of prophylactic antiviral therapy to block or delay SARS-
+CoV-2 infection depends on the targeted mechanism. medRxiv preprint,
+publicado em maio - online. Internet,
+https://doi.ora/10.1101/2020.05.07.20092965
+
+DAVIDO, Benjamin; LANSAMAN, Thiebaud; BESSIS, Simon; et al.
+Hydroxychloroquine plus azithromycin: a potential interest in reducing in-
+hospital morbidity due to COVID-19 pneumonia (HI-ZY-COVID)? medRxiv
+preprint, publicado em maio - online. . Internet,
+
+https://doi.ora/10.1101/2020.05.05.20088757
+
+DEVAUX, Christian A; ROLAIN, Jean-Marc; COLSON, Philippe; RAOULT,
+Didier New insights on the antiviral effects of chloroquine against
+coronavirus: what to expect for COVID-19? Intemational Journal of
+Antimicrobial Agents, publicado em março - online, 2020, 105938. Internet,
+
+   
+
+   
+
+DIVALA, Titus H.; MUNGWIRA, Randy G.; MAWINDO, Patrícia M.; et al. A
+Randomized, Controlled Clinical Trial of Chloroquine as Chemoprophylaxis
+or Intermittent Preventive Therapy to Prevent Malaria in Pregnancy in
+Malawi. Lancet Infectious Diseases, vol. 18 (10), 2018, p. 1097-1107.
+Intemet, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6217965,
+
+DONATELLI, Isabella; CAMPITELLI, Laura; DI TRANI, Livia; et al.
+Characterization of H5N2 influenza viruses from Italian poultry. Journal of
+General Virolology, vol. 82 (3), 2001, p. 623-30. Internet,
+https://www.microbiologyresearch.org/content/journal/jgv/10.1099/0022-
+1317-82-3-623
+
+EUROPEAN MEDICINES AGENCY. COVID-19: chloroquine and
+hydroxychloroquine only to be used in clinical trials or emergency use
+programmes. Publicado em abril - online. Internet,
+https://www.ema.europa.eu/en/news/covid-19-chloroquine-
+hydroxychloroguine-only-be-used-clinical-trials-emergency-use-programmes
+
+FERNANDES, Tadeu Fernando. Suplementação de Nutrientes. Boletim da
+Sociedade de Pediatria de São Paulo - SPSP, nº 5, 2019, p.4-5. Intemet,
+https://www.spsp.org.br/site/asp/boletins/AtualizeA4NS. pdf
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+FRANCO, Lori; FOLI, Andrea; GROFF, Antonella; et al. Optimal suppression
+of HIV replication by low-dose hydroxyurea through the combination of
+antiviral and cytostatic ('virostatic) mechanisms. AIDS, Vol. 19 (11), 2005;
+
+p. 1173-81. Internet, https://pubmed.ncbi.nim.nih.gov/15990570/
+
+FREITAS, Daniella Cabral de; GODOY, Henrique; SILVEIRA, Sergio Antônio
+Dias da. Protocolo Manejo Clínico COVID-19. Material de Apresentação da
+Prevent Senior. Intemet, https://static. poder360.com.br/2020/04/protocolo-
+Prevent-Senior-tratamento-covid-19,pdf
+
+FRIE, Kerstin & GBINIGIE, Kome. Chloroquine and hydroxychloroquine:
+Current evidence for their effectiveness in treating COVID-19. The Centre
+for Evidence-Based Medicine. University of Oxford, 2020. Internet,
+
+https://www.cebm.net/covid-19/chloroquine-and-hydroxychloroquine-
+current-evidence-for-their-effectiveness-in-treating-covid-19,
+
+GAO, Jianjun; TIAN, Zhenxue; YANG, Xu. Breakthrough: Chloroquine
+phosphate has shown apparent efficacy in treatment of COVID-19
+associated pneumonia in clinical studies. Bioscience Trends, vol. 14 (1),
+2020, p. 72-73. Intemet: https://doi.org/10.5582/bst.2020.01047
+
+GAUTRET Philippe; LAGIER, Jean-Christophe; PAROLA, Philippe; et al.
+Hydroxychloroquine and azithromycin as a treatment of COVID-19: results
+of an open-label non-randomized clinical trial. International Journal of
+Antimicrobial Agents, publicado em março - online, 2020. Internet,
+https://www.sciencedirect.com/science/article/pii/S0924857920300996?
+via%3Dihub
+
+GORDON, David E.; JANG, Gwendolyn; BOUHADDOU, Mehdi; et al. A SARS-
+CoV-2 protein interaction map reveals targets for drug repurposing. Nature,
+publicado em março - online, 2020. Internet,
+https://www.nature.com/articles/s41586-020-2286-9
+
+     
+
+HOSPITAL ALEMÃO OSWALDO CRUZ. Estudo clínico randomizado,
+pragmático, aberto, avaliando Hidroxicloroquina para prevenção de
+Hospitalização e Complicações Respiratórias em pacientes ambulatoriais
+com diagnóstico confirmado ou presuntivo de Infecção pelo (COVID-19).
+
+Ensaios Clínicos. Internet, http://www.ensaiosclinicos.gov.br/ra/RBR-
+3cbs3w/
+
+HOSPITAL ISRAELITA ALBERT EINSTEIN. Manejo Novo Coronavírus (COVID-
+19). Material de Apresentação do Hospital Israelita Albert Einstein.
+
+ln t e rn e t | https://medicalsuite.einstein.br/pratica-
+medica/Documentos%20 Doencas%20 Epidemicas/Manejo-de-casos-
+
+-respirato 2. pd
+
+HOSPITAL ISRAELITA ALBERT EINSTEIN. Safety and Efficacy of
+Hydroxychloroquine Associated With Azithromycin in SARS-CoV2 Virus
+(Coalition Covid-19 Brasil 11). Clinical Trials. Intemet,
+
+https://clinicaltrials.gov/ct2/show/NCTO4321278?
+term=HY DROXYCHLOROQUINE&cntry=BR&draw=2&rank=3
+
+HUANG, Mingxing; LI, Man; XIAO, Fei; et al. Preliminary evidence from a
+multicenter prospective observational study of the safety and efficacy of
+chloroquine for the treatment of COVID-19. medRxiv preprint, publicado em
+maio - online, 2020. Internet,
+https://www.medrxiv.org/content/10.1101/2020.04.26.20081059vi
+
+JONES, Gareth; WILLETT, Peter; GLEN, Robert C.; et al. Development and
+validation of a genetic algorithm for flexible docking. Journal of Molecular
+Biology, vol. 267 (3), 1997, p. 727-48. Internet,
+https://doi.ora/10.1006/jmbi. 1996.0897
+
+JOSHI, Shashank R.; BUTALA, N; PATWARDHAN, Madura; et al. Low cost
+anti- retroviral options: chloroquine based ARV regimen combined with
+hydroxyurea and lamivudine: a new economical triple therapy. The Journal
+of the Association of Physicians of India, vol 52, 2004, p. 597-598.
+
+Internet, https://pubmed.ncbi.nlm.nih.gov/15645995/
+
+KAAPOR, Krishan Mohan & KAAPOR, Aanandita. Role of Chloroquine and
+Hydroxychloroquine in the Treatment of COVID-19 Infection- A Systematic
+Literature Review. medRxiv preprint, publicado em março, 2020. Internet,
+https://www.medrxiv.org/content/10.1101/2020.03.24.20042366v1
+
+KEYAERTS, Els; LI, Sandra; VIJGEN, Leen, et al. Antiviral activity of
+chloroquine against human coronavirus 0C43 infection in newbom mice.
+Antimicrobial agents and Chemotherapy, vol. 53 (8), 2009, p. 3416-3421.
+Intemet, https://aac.asm.org/content/53/8/3416
+
+KEYAERTS, Els; VIJGEN, Leen, MAES, Piet; et al. In vitro inhibition of
+severe acute respiratory syndrome coronavirus by chloroquine. Biochemical
+
+      
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+and Biophysical Research Communications, vol. 323, 2004, p. 264-68.
+Internet, https://pubmed.ncbi.nlm.nih.gov/15351731/
+
+KWIEK, Jesse J.; HAYSTEAD, Tymothy A. J.; RUDOLPH, Johannes. Kinetic
+mechanism of quinone oxidoreductase 2 and its inhibition by the
+antimalarial quinolines. Biochemistry, vol. 43 (15), 2004, p. 4538-4547.
+Internet, https://pubmed.ncbi.nim.nih.gov/15078100/
+
+LALLOO, David G; SHINGADIA, Delane; BELL, David J. UK malaria
+treatment guidelines 2016. Journal of Infection, vol. 72 (6), 2016, p. 635-
+
+649. Intemet, https://www joumalofinfection.comyarticle/S0163-
+4453(16)00047-5/pdf
+
+LIU, Jia; CAO, Ruiyuan; XU, Mingyue; et al. Hydroxychloroquine, a less
+toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2
+infection in vitro. Cell Discovery, vol. 6 (1), 2020, p. 16. Internet,
+
+https://pubmed.ncbi.nim.nih.gov/32194981/
+
+LIU, Wenzhong & LI, Hualan. COVID-19: Attacks the 1-Beta Chain of
+Hemoglobin and Captures the Porphyrin to Inhibit Human Heme
+Metabolism. ChemRxiv, publicado em abril - online, 2020. Internet,
+https://chemrxiv.org/articles/COVID-
+
+19 Disease ORF8 and Surface Glycoprotein Inhibit Heme Metabolism by
+
+LOPES, Marcelo Antônio Cartaxo Queiroga; OLIVEIRA, Glaucia Maria Moraes
+de; RIBEIRO, Antônio Luiz Pinho. Diretriz da Sociedade Brasileira de
+Cardiologia sobre Telemedicina na Cardiologia - 2019. Arquivos Brasileiros
+de Cardiologia, publicado online, 2019. Internet,
+http://publicacoes.cardiol.br/portal/abc/portugues/aop/2019/aop-diretriz-
+
+telemedicina-portugues. pdf
+
+MAHASE, Elisabeth. Covid-19: what treatments are being investigated?
+British Medical Journal, vol. 368, 2020, m1i252. Internet,
+
+https://doi.ora/10.1136/bmj.mi252
+
+MEMBRILLO DE NOVALES, Francisco Javier; RAMÍREZ-OLIVENCIA, Germán;
+ESTÉBANEZ, Miriam; et al. Early hydroxychloroquine is associated with an
+increase of survival in COVID-19 patients: am observational study.
+Preprints, 2020. Internet,
+https://www.preprints.org/manuscript/202005.0057/vt
+
+MILLER, Douglas K & LENARD, John. Antihistaminics, local anesthetics, and
+other amines as antiviral agents. Proceedings of the National Academy of
+Sciences of the United States of America, vol. 78 (6), 1981, p. 3605-09.
+Intemet, https://pubmed.ncbi.nim.nih.gov/6115382/
+
+MILLION, Mathieu; LAGIER, Jean-Christophe; GAUTRET, Philippe; et al.
+Early treatment of COVID-19 patients with hydroxychloroquine and
+azithromycin: A retrospective analysis of 1061 cases in Marseille, France.
+Travel Medicine and Infectious Disease, publicado em maio - online, 2020.
+Internet, https://pubmed.ncbi.nim.nih.gov/32387409/
+
+OLOFSSON, Sigvard; KUMLIN, Urban; DIMOCK, Ken; et al. Avian influenza
+and sialic acid receptors: more than meets the eye? Lancet Infectious
+Diseases, vol 5 (3), 2005, p- 184-88. Internet,
+
+https://pubmed.ncbi.nim.nih.gov/15766653/
+
+PATON, N. I. & ABOULHAB, J. Hydroxychloroquine, hydroxyurea and
+didanosine as initial therapy for HIV-infected patients with low viral load:
+safety, efficacy and resistance profile after 144 weeks. HIV Medicine, vol.
+6, 2005, p. 13-20. Internet,
+https: onlinelibrary. wiley.com/doi/epdf/10.1111/j.1468-1293.2005.00259.x
+
+POON, Liona C.; YANG, Huixia; KAPUR, Anil; et al. Global Interim Guidance
+on coronavirus disease 2019 (COVID-19) during pregnancy and puerperium
+from FIGO and allied partners: Information for healthcare professionals.
+International Journal of Gynecology and Obstetetrics, publicado em abril -
+online, 2020. Internet,
+https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/ijgo.13156
+
+RIOU, Bruno; BARRIOT, Patrick; RIMAILHO, Alain; et al. Treatment of
+Severe Chloroquine Poisoning. The New England Journal of Medicine, vol.
+318 (1), 1988, p. 1-6. Internet,
+
+https://www.ncbi.nlm.nih.gov/pubmed/3336379
+
+RONGHUA, Jin; WU, Zhong. A prospective, open-label, multiple-center
+study for the efficacy of chloroquine phosphate in patients with novel
+coronavirus pneumonia (COVID-19). Chinese Clinical Trial Registry, 2020.
+Internet, http://www.chictrorg.cn/historyversionpuben.aspx?
+regno=ChiCTR2000031204
+
+    
+
+Binding to Porphyrin/11938173
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+83.
+
+RUFATTI, Amelia; TONELLO, Marta; HOXHA, Ariela; et al. Effect of
+Additional Treatments Combined with Conventional Therapies in Pregnant
+Patients with High-Risk Antiphospholipid Syndrome: A Multicentre Study.
+Thrombosis and Haemostasis, vol. 118 (4), 2018, p. 639-646. Internet,
+
+https://pubmed.ncbi.nim.nih.gov/29490410/
+
+SAHRAEI, Zahra; SHABANI, Minoosh; SHOKOUNI, Sherin; et al.
+Aminoquinolines Against Coronavirus Disease 2019 (COVID-19):
+Chloroquine or Hydroxychloroquine. International Journal of Antimicrobial
+Agents, vol. 55 (4), 2020, 105945. Internet,
+
+https://pubmed.ncbi.nim.nih.gov/32194152/
+
+SANDERS, James M.; MONOGUE, Marguerite L.; JODLOWSKI, Thomasz Z.;
+et al. Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19)
+A Review. JAMA, vol. 323 (18), 2020, p. 1824-1836. Internet,
+https://jamanetwork.com/journals/jama/fullarticle/2764727
+
+SAVARINO, Adrea; BOELAERT, John R.; CASSONE, Antonio; et al. Effects of
+chloroquine on viral infections: an old drug against today's diseases. The
+Lancet Infectious Diseases, vol. 3(11), 2003, pp.722-727. Internet,
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC7128816,
+
+SAVARINO, Adrea; DI TRANI, Livia; DONATELLI, Isabella; et al. New
+insights into the antiviral effects of chloroquine. The Lancet Infectious
+Diseases, vol. 6 (2), 2006, p. 67-69. Internet,
+https://www.ncbi.nim.nih.gov/pmce/articles/PMC7129107,
+
+SAVARINO, Adrea; LUCIA, Mothanje B.; RASTRELLI, Elena; et al. Anti-HIV
+effects of chloroquine: inhibition of viral particle glycosylation and
+synergism with protease inhibitors. Journal of Acquired Immune Deficience
+Syndrome, vol 35 (3), 1996, p. 223-32. Internet,
+
+ 
+ 
+
+      
+
+SHIBATA, Motohiro; AOKI, Hiizu; TSURUMI, Tatsuya; et al. Mechanism of
+
+uncoating of influenza B virus in MDCK cells: action of chloroquine. Journal
+
+of General Virology, vol. 64 (5), 1983, p. 1149-56. Internet,
+Ê ra/co jou
+
+   
+
+           
+
+https://www.m
+1317-64-5-1149
+SILVA, Adriana P. R.; VITOLO, Márcia Regina; ZARA, Luis Fabrício; et al.
+Effects of zinc supplementation on 1- to 5-year old children. Jornal de
+Pediatria, vol. 82 (3), 2006, p- 227-231. Internet,
+
+https://www.scielo.br/scielo.php?pid=S0021-
+75572006000300013&script=sci arttext&ting=en
+
+SINGH, Awadhesh Kumar; SINGH, Akriti; SHAIK, Altamash, et al.
+Chloroquine and hydroxychloroquine in the treatment of COVID-19 with or
+without diabetes: A systematic search and a narrative review with a special
+reference to India and other developing countries. Diabetes & Metabolic
+Syndrome: Clinical Research & Reviews, vol. 14(3), 2020, p. 241-246.
+Intemet, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102587,
+
+SMITH, E. Reed; KLEIN-SCHWARTZ, Wendy. Are 1-2 dangerous?
+Chloroquine and hydroxychloroquine exposure in toddlers. The Journal of
+Emergency Medicine, vol. 28 (4), 2005, p. 437- 443. Intemet,
+
+https://www.jem-journal.com/article/S0736-4679(05)00030-2/fulltext
+TANG, Wei; CAO, Zhujun; HAN, Mingfeng; et al. Hydroxychloroquine in
+patients mainly with mild to moderate COVID-19: an open-label,
+randomized, controlled trial. medRxiv preprint, maio, 2020. Internet,
+https://www.bmj.com/content/369/bmj.m1849
+
+TINKU, Joseph (organizador). Intemational Pulmologist's Consensus On
+COVID-19 - 2nd Edition, 22 de abril 2020. Internet,
+https://www.saudedafamilia.org/coronavirus/artigos/international pulmonologists consensus.pdf
+
+VINCENT, Martin J.; BERGERON, Eric, BENJANNET Suzanne, et al.
+Chloroquine is a potent inhibitor of SARS coronavirus infection and spread.
+Virology Journal, vol. 2 (1), 2005, p. 69.
+
+WANG, Manli; CAO, Ruiyuan; ZHANG, Leike; et al. Remdesivir and
+chloroquine effectively inhibit the recently emerged novel coronavirus
+(2019-nCoV) in vitro. Cell Research, vol. 30, 2020, p. 269-271. Internet,
+
+https://www.nature.com/articles/s41422-020-0282-0
+
+WU, Chaomin; CHEN, Xiaoyan; CAI, Yanping; et al. Risk Factor Associated
+With Acute Respiratory Distress Syndrome and Death in Patients With
+Coronavirus Disease 2019 Pneumonia in Wuhan, china. JAMA Internal
+Medicine, 13 de março online, 2020. Internet,
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2763184
+
+    
+64. YAO, Xueting; YE, Fei; ZHANG, Miao; et al. In vitro antiviral activity and
+projection of optimized dosing design of hydroxychloroquine for the
+treatment of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-
+2). Clinical Infectious Disease, publicado em março - online, 2020, ciaa
+237. Internet, https://www.ncbi.nim.nih.gov/pmc/articles/PMCZ 108130
+
+65. YU, Bo; WANG, Dao Wen; LI, Chenze. Hydroxychloroquine application is
+associated with a decreased mortality in critically ill patients with COVID-
+19. medRxiv preprint. Internet,
+https://www.medrxiv.org/content/10.1101/2020.04.27.20073379vi
+
+66. ZAHN, Zahng. Therapeutic effect of hydroxychloroquine on novel
+coronavirus pneumonia (COVID-19). Chinese Clinical Trial Registry.
+Publicado em abril - online, 2020. Internet,
+http://www.chictr.org.cn/showprojen. as px? proj =48880
+
+67. ZHAO, Xiaouxuan; JIANG, Yuepeng; ZHAO, Yang; et al. Analysis of the
+susceptibility to COVID-19 in pregnancy and recommendations on potential
+drug screening. European Journal of Clinical Microbiology & Infectious
+Diseases, publicado em abril - online, 2020, p. 1-12. Internet,
+https://www.ncbi.nim.nih.gov/pmce/articles/PMC7178925,
+
+Brasília, 20 de maio de 2020.
+r -— Documento assinado eletronicamente por Mayra Isabel Correia Pinheiro,
+seil Secretário(a) de Gestão do Trabalho e da Educação na Saúde, em
+del 6/20/05/2020, às 20:36, conforme horário oficial de Brasília, com fundamento
+eletrônica no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+-— Documento assinado eletronicamente por Cleusa Rodrigues da Silveira
+seil Bernardo, Secretário(a) de Atenção Especializada à Saúde,
+del (5) | Substituto(a), em 20/05/2020, às 20:49, conforme horário oficial de
+eletrônica Brasília, com fundamento no art. 6º, & 1º, do Decreto nº 8.539, de 8 de
+outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+-—— Documento assinado eletronicamente por Robson Santos da Silva,
+seil Secretário(a) Especial de Saúde Indígena, em 20/05/2020, às 20:50,
+pel 3 [conforme horário oficial de Brasília, com fundamento no art. 69, 6 19, do
+eletrônica Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de
+31 de Março de 2017.
+
+-— Documento assinado eletronicamente por Daniela de Carvalho Ribeiro,
+seil Secretário(a) de Atenção Primária à Saúde, Substituto(a), em
+ph 8 20/05/2020, às 20:57, conforme horário oficial de Brasília, com fundamento
+eletrônica no art. 6º, 6 1º, do 8.539, de 8 u 015; eart. 8º, da
+Portaria nº 900 de 31 de Março de 2017.
+
+-—— Documento assinado eletronicamente por Vania Cristina Canuto Santos,
+seil Secretário(a) de Ciência, Tecnologia, Inovação e Insumos Estratégicos
+Shade (3) |em Saúde, Substituto(a), em 20/05/2020, às 21:04, conforme horário
+eletrônica oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de
+
+8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+-—— Documento assinado eletronicamente por Wanderson Kleber de Oliveira,
+seil Secretário(a) de Vigilância em Saúde, em 20/05/2020, às 22:20,
+tdo & conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
+
+eletrônica Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de
+31 de Março de 2017.
+
+- -— Documento assinado eletronicamente por Antônio Elcio Franco Filho,
+seil Secretário-Executivo, Substituto, em 20/05/2020, às 23:36, conforme
+del B horário oficial de Brasília, com fundamento no art. 6º, & 19, do Decreto nº
+aletrônica 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de
+
+Março de 2017.
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A autenticidade deste documento pode ser conferida no site
+http: //seisaude.gov.br/sei/controlador externo.php?
+
+documento conferirkid orgao acesso externo=0, informando o
+4 código verificador 0014934763 e o código CRC 9DF7CALE.
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.070255/2020-12 SEI nº 0014934763
+
+Gabinete da Secretaria Executiva - GAB/SE
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site -saude.gov.br
+ANEXO A —- MODELO DE TERMO DE CIÊNCIA E CONSENTIMENTO
+
+Termo de Ciência e Consentimento
+
+Hidroxicloroquina/Cloroquina em associação com Azitromicina para COVID 19
+
+ 
+
+DIAGNOSTICO E TRATAMENTO
+
+ 
+
+Fui devidamente informado(a), em linguagem clara e objetiva pelo(a) médico(a), de que as
+avaliações médicas ou laboratoriais revelaram possibilidade ou comprovação de diagnóstico:
+
+COVID 19 causada pelo coronavírus SARS-COV-2
+
+E com base neste diagnóstico me foi orientado o seguinte tratamento/procedimento:
+
+Cloroquina ou Hidroxicloroquina em associação com Azitromicina
+
+ 
+
+OS PROCEDIMENTOS, SEUS BENEFÍCIOS, RISCOS E
+ALTERNATIVAS
+
+ 
+
+Fui devidamente informado(a), em linguagem clara e objetiva pelo(a) médico(a), que:
+
+1. A cloroquina e a hidroxicloroquina são medicamentos disponíveis há muitos anos para a
+prevenção e tratamento da malária e também para o tratamento de algumas doenças
+reumáticas como artrite reumatoide e lúpus. Investigadores chineses demostraram a
+capacidade dessas drogas de inibir a replicação do coronavírus em laboratório (in vitro). Um
+estudo francês mostrou que a eliminação do coronavírus da garganta de portadores da
+COVID-19 se deu de forma mais rápida com a utilização da combinação de hidroxicloroquina
+e o antibiótico azitromicina, quando comparados a pacientes que não usaram as drogas.
+Entretanto, não há, até o momento, estudos suficientes para garantir certeza de melhora clínica
+dos pacientes com COVID-19 quando tratados com cloroquina ouhidroxicloroquina;
+
+2. A Cloroquina e a hidroxicloroquina podem causar efeitos colaterais como redução dos
+glóbulos brancos, disfunção do fígado, disfunção cardíaca e arritmias, e alterações visuais por
+danos na retina.
+
+Compreendi, portanto, que não existe garantia de resultados positivos para a COVID-19 e que o
+medicamento proposto pode inclusive apresentar efeitos colaterais;
+
+Estou ciente de que o tratamento com cloroquina ou hidroxicloroquina associada à azitromicina pode
+causar os efeitos colaterais descritos acima e outros menos graves ou menos frequentes, os quais
+podem levar à disfunção de órgãos, ao prolongamento da internação, à incapacidade temporária ou
+permanente e até ao óbito.
+
+ 
+
+TERMO DE CIÊNCIA E CONSENTIMENTO HIDROXICLOROQUINA/CLOROQUINA- COVID 19
+Também fui informado(a) que, independente do uso da cloroquina ou hidroxicloroquina associada à
+azitromicina, será mantido o tratamento padrão e comprovadamente benéfico para minha situação,
+que pode incluir medidas de suporte da respiração e oxigenação, ventilação mecânica, drogas para
+sustentar a pressão e fortalecer o coração, hemodiálise e antibióticos, entre outras terapias oferecidas
+a pacientes que estão criticamente doentes.
+
+AUTORIZAÇÃO DO PACIENTE OU RESPONSÁVEL
+
+Por livre iniciativa, aceito correr os riscos supramencionados e dou permissão/autorização voluntária
+para que os medicamentos sejam utilizados da forma como foi exposto no presente termo;
+
+Esta autorização é dada ao(à) médico(a) abaixo identificado(a), bem como ao(s) seu(s) assistente(s)
+e/ou outro(s) profissional(is) por ele selecionado(s);
+
+Tive a oportunidade de esclarecer todas as minhas dúvidas relativas ao(s) procedimento(s), após ter
+lido e compreendido todas as informações deste documento, antes de sua assinatura;
+
+Apesar de ter entendido as explicações que me foram prestadas, de terem sido esclarecidas todas as
+dúvidas e estando plenamente satisfeito(a) com as informações recebidas, reservo-me o direito de
+revogar este consentimento antes que o(s) procedimento(s), objeto deste documento, se realize(m).
+
+, de : (hh:min)
+D Paciente OD Responsável
+
+Nome:
+
+ 
+
+Assinatura:
+
+ 
+
+DECLARAÇÃO DO MÉDICO RESPONSAVEL
+
+CONFIRMO que expliquei detalhadamente para o(a) paciente e/ou seu(s) familiar(es), ou
+responsável(eis), o propósito, os benefícios, os riscos e as alternativas para o tratamento(s)
+/procedimento(s) acima descritos, respondendo às perguntas formuladas pelos mesmos, e
+esclarecendo que o consentimento que agora é concedido e firmado poderá ser revogado a qualquer
+momento antes do procedimento. De acordo com o meu entendimento, o paciente ou seu responsável,
+está em condições de compreender o que lhes foi informado.
+
+, de de 20. : (hh:min)
+
+ 
+
+Nome do Médico: CRM:
+
+Assinatura:
+
+ 
+
+ 
+
+TERMO DE CIÊNCIA E CONSENTIMENTO HIDROXICLOROQUINA/CLOROQUINA- COVID 19
+ 
+
+ 
+
+NOTA INFORMATIVA Nº 17/2020- SE/GAB/SE/MS
+
+ORIENTAÇÕES DO MINISTÉRIO DA SAÚDE PARA
+
+MANUSEIO MEDICAMENTOSO PRECOCE DE
+PACIENTES COM DIAGNOSTICO DA COVID-19
+
+ 
+
+ESTA NOTA INFORMATIVA SUBSTITUI A NOTA INFORMATIVA Nº 11/2020-SE/GAB/SE/MS,
+DE 15 DE JUNHO DE 2020, QUE SUBSTITUIU A NOTA INFORMATIVA
+Nº 9/2020-SE/GABISE/NS, DE 20 DE MAIO DE 2020
+
+ 
+
+DISQUE |
+SAÚDE
+
+136
+
+PÁTRIA AMADA
+
+cos | omega EG BRASIL
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+SUMÁRIO
+
+1 — Apresentação
+
+2 — Orientações do Ministério da Saúde para Manuseio Medicamentoso Precoce
+de Pacientes Adultos com Diagnóstico da COVID-19, conforme a
+Classificação dos Sinais ou Sintomas
+
+3 — Orientações do Ministério da Saúde para Manuseio Medicamentoso Precoce
+de Pacientes Pediátricos com Diagnóstico da COVID-19, conforme a
+Classificação dos Sinais ou Sintomas
+
+4 — Orientações do Ministério da Saúde para Manuseio Medicamentoso Precoce
+de Gestantes com Diagnóstico da COVID-19, conforme a Classificação dos
+Sinais ou Sintomas
+
+5 — Notas Explicativas
+
+6 — Informações Complementares
+Referências
+
+Anexo - Termo de Ciência e Consentimento
+
+ 
+
+ 
+ 
+
+1. APRESENTAÇÃO
+
+1. Considerando que cabe ao Ministério da Saúde acompanhar, controlar e avaliar
+as ações e os serviços de saúde, respeitadas as competências estaduais e municipais,
+nos termos da Constituição Federal e da Lei nº 8080, de 19 de setembro de 1990;
+
+2. Considerando que a Organização Mundial da Saúde (OMS) reconheceu, em 11
+de março de 2020, a COVID-19 como pandemia;
+
+3. Considerando que o Ministério da Saúde do Brasil reconheceu a existência de
+transmissão comunitária em todo território nacional, em 20 de março de 2020;
+
+4. Considerando que até o momento não existem evidências científicas robustas
+que possibilitem a indicação de terapia farmacológica específica para a COVID-19;
+
+5. Considerando que a manutenção do acompanhamento da comunidade científica
+dos resultados de estudos com medicamentos é de extrema relevância para atualizar
+periodicamente as orientações para o tratamento da COVID-19,
+
+6. Considerando que existem muitos medicamentos em teste, com muitos resulta-
+dos sendo divulgados diariamente, e vários destes medicamentos têm sido promissores
+em testes de laboratório e por observação clínica, mesmo com muitos ensaios clínicos
+ainda em análise;
+
+7. Considerando que alguns Estados, Municípios e hospitais da rede privada já
+estabeleceram protocolos próprios de uso da cloroquina e da hidroxicloroquina para tra-
+tamento da COVID-19;
+
+8. Considerando a necessidade de uniformização da informação para os profissio-
+nais da saúde no âmbito do Sistema Único de Saúde (SUS);
+
+9. Considerando a existência de diversos estudos sobre o tratamento da COVID-19;
+
+10. Considerando a larga experiência do uso da cloroquina e da hidroxicloroquina
+no tratamento de outras doenças infecciosas e de doenças crônicas no âmbito do SUS
+e a inexistência, até o momento, de outro tratamento eficaz disponível para a COVID-19;
+
+11. Considerando a necessidade de orientar o uso de fármacos notratamento pre-
+coce da COVID-19, no âmbito do SUS pelos médicos;
+
+12. Considerando a necessidade de reforçar que a autoprescrição dos medicamen-
+tos aqui orientados pode resultar em prejuízos à saúde e/ou redução da oferta para pes-
+soas com indicação precisa para o seu uso;
+
+13. Considerando a necessidade de avaliação médica adequada dos pacientes por
+meio de anamnese, exame físico e, quando indicado, exames complementares nos esta-
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+belecimentos de saúde do SUS para que seja feito o diagnóstico clínico;
+
+14. Considerando que o Ministério da Saúde do Brasil classificou como pertencen-
+tes ao grupo de risco “Grávidas em qualquer idade gestacional e puérperas até duas
+semanas após o parto (incluindo as que tiveram aborto ou perda fetal)”;
+
+15. Considerando que os dados atuais não sugerem um aumento do risco de aborto
+ou perda precoce da gravidez em mulheres grávidas com COVID-19;
+
+16. Considerando que as modificações fisiológicas e os adventos que podem ocor-
+rer na gestação podem dificultar o diagnóstico de COVID-19;
+
+17. Considerando que os dados de literatura não apontam que a gestação torne a
+paciente mais suscetível ao novo coronavirus do que a população geral;
+
+18. Considerando que os resultados das diversas modificações fisiológicas da ges-
+tação, podem levar a um risco teórico maior de desenvolver a doença grave por CO-
+VID-19, em particular pneumonia e insuficiência respiratória;
+
+19. Considerando que estudos retrospectivos envolvendo gestantes com COVID-19
+demonstram que suas características clínicas são semelhantes às de mulheres adultas
+não grávidas;
+
+20. Considerando que não dispomos, até o momento, de tratamento específico para
+a COVID-19 em gestantes ou destinado aos pacientes pediátricos;
+
+21. Considerando que o fosfato de Oseltamivir já tem seu uso recomendado em
+gestantes com síndromes gripais;
+
+22. Considerando que doses baixas de cloroquina são usadas para profilaxia da
+malária na gravidez;
+
+23. Considerando que diversas instituições, tanto internacionais quanto nacionais,
+preconizam o uso da cloroquina ou da hidroxicloroquina em pacientes com diagnóstico
+de COVID-19;
+
+24. Considerando que o artigo científico publicado pela Escola de Saúde Pública de
+Yale (New Haven, Connecticut - EUA), que avaliou cerca de 300.000 doentes infectados,
+através de 5 estudos, incluindo 2 ensaios clínicos controlados, demonstrou uma eficácia
+significativa no tratamento ambulatorial com uso de hidroxicloroquina, e concluíram que
+a hidroxicloroquina deve estar amplamente disponível e distribuída imediatamente para
+prescrição médica;
+
+25. Considerando que a hidroxicloroquina não apresenta contraindicações abso-
+lutas durante a gestação, que vem sendo usada com segurança durante o período gra-
+
+4
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+vídico no tratamento de doenças autoimunes desde a década de 40 devido à sua ação
+imunomoduladora, antipirética e anti-inflamatória, e que não há estudos científicos que
+associam o uso da hidroxicloroquina e cloroquina à presença de malformações fetais;
+
+26. Considerando que, como em toda a prática médica, a análise do risco-benefício
+individual deve ser cuidadosamente feita antes do uso de agentes terapêuticos, conside-
+rando o benefício potencial para a mãe e a segurança do feto;
+
+27. Considerando que a COVID-19 apresenta-se com um amplo espectro clínico,
+variando de quadros assintomáticos a graves e que o período de incubação habitual é de
+4a 6 dias, mas pode variar entre 2 a 14 dias;
+
+28. Considerando que os pacientes com COVID-19 podem apresentar uma rápida
+deterioração clínica;
+
+29. Considerando que a prescrição de todo e qualquer medicamento é prerrogativa
+do médico, e que o tratamento do paciente suspeito ou portador de COVID-19 deve ser
+baseado na autonomia do paciente ou de seu responsável legal, caso o paciente esteja
+incapacitado ou seja menor de idade, por meio do termo de consentimento livre e escla-
+recido, e deve também respeitar a autonomia do médico, com o intuito de qualificar a
+relação médico-paciente para oferecer o melhor tratamento disponível no momento;
+
+30. Considerando que o Conselho Federal de Medicina recentemente propôs a con-
+sideração da prescrição de cloroquina e hidroxicloroquina pelos médicos, em condições
+excepcionais, mediante o livre consentimento esclarecido do paciente, para o tratamento
+da COVID-19 (PROCESSO CONSULTA CFM nº 8/2020 — PARECER CFM Nº 4/2020);
+
+31. O Ministério da Saúde, com o objetivo de ampliar o acesso dos pacientes a
+tratamento medicamentoso no âmbito do SUS, publica as seguintes orientações para
+tratamento medicamentoso precoce de pacientes com diagnóstico de COVID-19.
+
+2. ORIENTAÇÕES DO MINISTÉRIO DA SAÚDE PARA MANUSEIO MEDICAMEN-
+TOSO PRECOCE DE PACIENTES ADULTOS COM DIAGNÓSTICO DA COVID-19,
+CONFORME A CLASSIFICAÇÃO DOS SINAIS OU SINTOMAS
+ 
+
+ 
+
+SINAIS E
+SINTOMAS LEVES
+
+SINAIS E SINTOMAS
+MODERADOS
+
+SINAIS DE
+GRAVIDADE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Anosmia * Tosse persistente + * Síndrome Respiratória
+* Ageusia febre persistente diária Aguda Grave — Síndro-
+« Coriza ou me Gripal que apresen-
+o DR A * Tosse persistente + te:
+ua piora progressiva de , '
+« Dor abdominal Ui en iama o Dlispmreie/elesooniario
+- Febre relacionado a COVID-19. | fespiratório OU pressão
+* Mialgia (adinamia, prostração, oa Rua no Tórax OU
+DEISE hiporexia, diarreia) ou saturação de O2 menor
+ave * Pelo menos um dos que 95% em ar ambien-
+. sintomas acima te OU coloração azulada
+Reais + presença de fator de de lábios ou rosto
+risco
+Orientação para
+prescrição em FASE 1 FASE 2 FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APÓS O 14º DIA
+ADULTOS
+SINAIS E Difosfato de Cloroquina Prescrever
+SINTOMAS =D1: 500mg 12/12h (300 mg de medicamento
+LEVES cloroquina base) sintomático
+
+ 
+
+=D2 ao D5: 500 mg 24/24h (300
+mg de cloroquina base)
+
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+Ou
+
+Sulfato de Hidroxicloroquina
+=D1: 400mg 12/12h
+
+=D2 ao D5: 400mg 24/24h
+
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Orientação para
+prescrição em FASE 1 FASE 2 , FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APOS O 14º DIA
+ADULTOS
+SINAIS E Considerar a Internação Hospitalar
+SINTOMAS - Afastar outras causas de gravidade
+MODERADOS - Avaliar presença de infecção bacteriana
+
+- Considerar imunoglobina humana
+- Considerar anticoagulação
+- Considerar corticoterapia
+
+ 
+
+Difosfato de cloroquina
+
+=D1: 500 mg 12/12h (300 mg de
+cloroquina base)
+
+=D2 ao D5: 500 mg 24/24h (300
+mg de cloroquina base)
+
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+Ou
+
+Sulfato de hidroxicloroquina
+=D1: 400mg 12/12h
+
+=D2 ao D5: 400mg 24/24h
+
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+ 
+
+ 
+CORONAVÍRUS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Orientação para
+prescrição em FASE 1 FASE 2 . FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APOS O 14º DIA
+ADULTOS
+SINAIS E Internação hospitalar
+SINTOMAS - Afastar outras causas de gravidade
+GRAVES - Avaliar presença de infecção bacteriana
+
+- Considerar imunoglobina humana
+- Considerar anticoagulação
+- Considerar pulsoterapia com corticóide
+
+Sulfato de hidroxicloroquina
+=D1: 400mg 12/12h
+
+=D2 ao D5: 400mg 24/24h
++
+
+Azitromicina
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+ 
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+3. ORIENTAÇÕES DO MINISTÉRIO DA SAÚDE PARA MANUSEIO MEDICAMEN-
+TOSO PRECOCE DE PACIENTES PEDIÁTRICOS COM DIAGNÓSTICO DA COVID-19,
+
+CONFORME A CLASSIFICAÇÃO DOS SINAIS OU SINTOMAS
+
+ 
+
+SINAIS E SINTOMAS
+
+SINAIS E SINTOMAS
+
+SINAIS DE GRAVIDADE
+
+ 
+
+LEVES MODERADOS
+* Anosmia * Tosse persistente + * Taquipneia: > 70 rpm
+* Ageusia febre persistente diária para menores do
+* Coriza Ou que 1 ano; > 50 nom para
+ia * Tosse persistente + erianças
+* Dor abdominal piora progressiva de Dor EO que fleno:
+* Febre outro sintoma poxeria, o
+* Mialgia relacionado a COVID-19. | * desconforio respiratório;
+* Tosse (adinamia, prostração, e aliração da
+* Fadiga hiporexia, diarreia) SS
+a o * desidratação;
+* Cefaleia
+
+ 
+
+* Pelo menos um dos
+sintomas acima +
+presença de fator de
+risco
+
+ 
+
+ 
+
+« dificuldade para
+alimentação;
+
+* lesão miocárdica;
+
+* elevação de enzimas
+hepáticas;
+
+* disfunção da
+coagulação;
+
+* rabdomiólise;
+
+* qualquer outra
+manifestação de lesão
+em órgãos vitais
+
+ 
+
+ 
+ 
+
+ 
+
+Orientação para
+
+ 
+
+ 
+
+prescrição em FASE 1 FASE 2 FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APÓS O 14º DIA
+PEDIÁTRICOS
+SINAIS E Cloroquina base Cloroquina base Prescrever
+SINTOMAS 6 mg/kg/dia de 6 mg/kg/dia de medicamento
+LEVES cloroquina base cloroquina sintomático
+por 5 dias, 1 vez base por 5 dias,
+Somente q o
+ao dia 1 vez ao dia
+TOS Cravo dão (máximo de 300 (máximo de
+estiverem mg cloroquina 300 mg
+presentes base) cloroquina base)
+fatores de risco is is
+Eos Azitromicina Azitromicina
+. 10mg/kg no 1º dia 10mg/kg no 1º dia
+A seguida de seguida de
+hipertensão 5mg/kg/ dia por 4 5mg/kg/ dia por 4
+arterial, dias, limite de dias, limite
+obesidade, 500mg/dia de 500mg/dia
+asma grave,
+: E Ou Ou
+disfunções
+joe Sulfato de hidro- | Sulfato de hidro-
+crônicas, xicloroquina xicloroquina
+cardiopatias 6 mg/kgídia por 5 6 mg/kg/dia por 5
+congênitas ou dias, 1 vez ao dias, 1 vez
+ai dia (máximo: 400 ao dia (máximo:
+Exbpideim, mg/dia) 400 mgídia)
+pneumopatia &> a
+crônica, doença | Azitromicina Azitromicina
+neurológica 10mg/kg no 1º dia 10mg/kg no 1º dia
+crônica e seguida de seguida de
+no ce TeTE Ta ômg/kg/ dia por 4 ômg/kg/ dia por 4
+ciã dias, limite de dias, limite
+. 500mg/dia de 500mg/dia
+Oseltamivir por
+
+ 
+
+até 5 dias até
+exclusão de
+Influenza
+
+ 
+
+ 
+
+ 
+
+40
+
+ 
+ 
+
+ 
+
+Orientação para
+
+ 
+
+ 
+
+ 
+
+ 
+
+prescrição em FASE 1 FASE 2 , FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APOS O 14º DIA
+PEDIÁTRICOS
+SINAIS E Considerar internação hospitalar se saturação de
+SINTOMAS oxigênio for menor que 94% em ar ambiente.
+MODERADOS
+Cloroquina base Afastar outras
+6 mg/kg/dia de cloroquina base causas de
+por 5 dias, 1 vez ao dia (máximo gravidade
+de 300 mg cloroquina base) Avaliar presença
+ii de coinfecção
+Azitromicina bacteriana
+10mg/kg no 1º dia seguida de
+5mg/kg/ dia por 4 dias, limite de Considerar
+500mgy/aia realização de TC
+e exames
+laboratoriais
+Ou
+Avaliar necessida-
+
+ 
+
+Sulfato de hidroxicloroquina
+6 mg/kg/dia por 5 dias, 1 vez ao
+dia (máximo: 400 mg/dia)
+
++
+
+Azitromicina
+
+10mg/kg no 1º dia seguida de
+5mg/kg/ dia por 4
+
+dias, limite de 500mg/dia
+
+Oseltamivir por até 5 dias até ex-
+clusão de Influenza
+
+de de internação
+
+ 
+
+ 
+
+41
+
+ 
+CORONAVÍRUS
+
+ 
+
+Orientação para
+
+ 
+
+ 
+
+ 
+
+ 
+
+prescrição em FASE 1 FASE 2 . FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APOS O 14º DIA
+PEDIÁTRICOS
+SINAIS E Internação hospitalar em Unidade de Terapia Intensiva
+SINTOMAS Pediátrica
+GRAVES
+
+ 
+
+Cloroquina base
+6 mg/kg/dia de cloroquina base por 5 dias, 1 vez ao dia
+
+(máximo de 300 mg cloroquina base)
++
+
+Azitromicina
+10mg/kg no 1º dia seguida de 5mg/kg/ dia por 4 dias, limite
+de 500mg/dia
+
+Ou
+
+Sulfato de hidroxicloroquina
+
+6 mg/kg/dia por 5 dias, 1 vez ao dia
+
+(máximo: 400 mg/dia)
+
++
+
+Azitromicina
+
+10mg/kg no 1º dia seguida de 5mg/kg/ dia por 4 dias, limite
+de 500mg/dia
+
+Oseltamivir por até 5 dias até exclusão de Influenza
+
+ 
+
+3.1. Síndrome Inflamatória Multissistêmica em Crianças e Adolescentes
+provavelmente relacionada à COVID-19 (PMIS-Covid-19)
+* Definição de caso provável segundo a OMS:
+
+Crianças e adolescentes de O a 19 anos com febre > 3 dias
+
++
+
+Dois (2) dos seguintes achados:
+
+1. Exantema ou conjuntivite não purulenta bilateral ou sinais de
+
+inflamação mucocutânea (orais, mãos ou pés).
+
+2. Hipotensão ou choque.
+
+3. Características de disfunção miocárdica, pericardite, valvulite ou
+
+492
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+anormalidades coronárias (incluindo achados do ecocardiograma ou
+elevações de troponina/próBNP).
+
+4. Evidência de coagulopatia (TP, TTPA, D-dímero elevado).
+
+5. Problemas gastrointestinais agudos (diarreia, vômito ou dor
+abdominal).
+
+E
+
+Marcadores de inflamação elevados, como VHS, PCR ou procalcitonina.
+
+E
+
+Nenhuma outra causa de inflamação microbiana, incluindo sepse bacteriana,
+
+síndromes de choque estafilocócico ou estreptocócico.
+
+E
+
+Evidência de COVID-19 (RT-PCR, teste antigênico ou sorologia positiva) ou
+
+provável contato com pacientes com COVID-19.
+
+Os pacientes descritos na Europa e Estados Unidos apresentaram uma síndro-
+me inflamatória multissistêmica, com manifestações clínicas e alterações dos exames
+complementares similares às observadas em crianças e adolescentes com síndrome de
+Kawasaki, Kawasaki incompleto e/ou síndrome do choque tóxico.
+
+Crianças e adolescentes diagnosticadas com este quadro após o início da epide-
+mia de SARS-CoV-2 podem apresentar idade significantemente mais elevada e maiores
+taxas de envolvimento cardíaco, além de características de síndrome de ativação macro-
+fágica comparados aos pacientes com sindrome de Kawasaki anteriores à pandemia da
+COVID-19.
+
+Todas as crianças e adolescentes com o referido quadro devem ser tratadas como
+suspeitos de COVID-19. Os pediatras devem estar alertas para o pronto reconhecimento
+destes casos, incluindo crianças com febre prolongada e não esclarecida, possibilitando
+o reconhecimento e o manejo adequado e oportuno, durante a hospitalização nos servi-
+
+ços de emergência, enfermarias e/ou unidades de terapia intensiva.
+
+3.2. Abordagem terapêutica da PMIS-Covid-19
+
+Considerando que os casos relatados ocorreram dias ou semanas após a COVID-19,
+sugerindo que esta sindrome inflamatória pode ser uma complicação tardia caracterizada
+por resposta imunológica desproporcional à infecção, e que alguns pacientes relatados
+apresentaram marcadores de função miocárdica elevados (troponina e pró-BNP), não
+
+13
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+estaria indicado o uso de medicamentos antivirais a princípio. São considerações impor-
+tantes quanto à abordagem terapêutica:
+
+* Uso apropriado de equipamento de proteção individual (EPI).
+
+* Atentar para a possibilidade de rápida deterioração e
+agravamento da inflamação.
+
+* Antibioticoterapia empírica deve ser iniciada de acordo com os
+protocolos locais de sepse após coleta de hemoculturas.
+
+* Coleta de exames complementares: hemograma completo, urina
+tipo 1, eletrólitos, coagulograma com fibrinogênio, D-dímero,
+triglicérides, ferritina, troponina, pró-BNP, CK, sorologias,
+hemocultura, urocultura.
+
+* Solicitar painel viral respiratório, com pesquisa de SARS-CoV-2
+por RT-PCR e sorologia para SARS-CoV-2.
+
+* Discutir precocemente com equipe de emergência pediátrica,
+medicina intensiva pediátrica, infectologia e reumatologia
+pediátricas.
+
+* Considerar a infusão de imunoglobulina intravenosa (29/kg) e
+ácido acetil-salicílico (80 mg/kg/dia de 6/6 horas, reduzindo para
+3-5 mg/kg/dia 1 vez ao dia após 48 horas sem febre) nos casos
+que preencham critérios para síndrome de Kawasaki.
+
+Ponderar também sobre o uso da imunoglobulina intravenosa se forem preenchidos
+os critérios para a síndrome do choque tóxico.
+
+44
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+4. ORIENTAÇÕES DO MINISTÉRIO DA SAÚDE PARA MANUSEIO
+MEDICAMENTOSO PRECOCE DE GESTANTES COM DIAGNÓSTICO DA
+COVID-19, CONFORME A CLASSIFICAÇÃO DOS SINAIS OU SINTOMAS
+
+ 
+
+ 
+
+SINAIS E SINTOMAS SINAIS E SINTOMAS
+LEVES MODERADOS SINAIS DE GRAVIDADE
+* Anosmia * Tosse persistente + * Sindrome Respiratória
+* Ageusia febre persistente diária Aguda Grave — Síndrome
+* Coriza O Gripal que apresente:
+* Diarreia
+
+* Tosse persistente +
+
+. . * Dispneia/desconforto
+piora progressiva de ou-
+
+* Dor abdominal
+
+* Febre tro sintoma relacionado Sra piasão
+* Mialgia a COVID-19 (adinamia, | persistente no Tórax OU
+DETO So) prostração, hiporexia, saturação de O2 menor
+. ) diarreia) ou que 95% em ar ambien-
+é a o te OU coloração azulada
+Slareia * Pelo menos um dos de lábios ou rosto
+
+sintomas acima + pre-
+
+sença de fator de risco « Hipotensão
+
+ 
+
+ 
+
+ 
+
+ 
+
+Orientação para
+
+ap FASE 1 FASE 2 FASE 3
+prescrição em
+
+1º AO 5º DIA 6º AO 14º DIA APÓS O 14º DIA
+
+ 
+
+ 
+
+ 
+
+GESTANTES
+SINAIS E Difosfato de cloroquina Prescrever
+SINTOMAS =D1: 500mg 12/12h (300 mg de medicamento
+LEVES cloroquina base) sintomático
+
+=D2 ao DS: 500 mg 24/24h (300
+
+mg de cloroquina base)
++
+
+Azitromicina
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+ 
+
+45
+
+ 
+ 
+
+ 
+
+Orientação para
+prescrição em
+GESTANTES
+
+FASE 1
+1º AO 5º DIA
+
+ 
+
+FASE 2
+6º AO 14º DIA
+
+FASE 3
+APÓS O 14º DIA
+
+ 
+
+ 
+
+SINAIS E
+SINTOMAS
+MODERADOS
+
+ 
+
+Difosfato de cloroquina
+=D1: 500 mg 12/12h (300 mg
+
+de cloroquina base)
+=D2 ao D5: 500 mg
+
+24/24h
+
+(300 mg de cloroquina base)
+
++
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+Afastar outras
+causas de gravidade
+(Pré-eclâmpsia e
+HELLP).
+Avaliar presença de
+infecção bacteriana.
+Considerar realiza-
+ção de TC e exames
+laboratoriais.
+Avaliar necessidade
+de internação.
+Avaliação fetal com
+Ecografia por risco
+de Restrição de
+Crescimento
+Intra-Uterino.
+Não há contra-indi-
+cação da amamen-
+tação (observar
+cuidados com
+máscara e lavagem
+das mãos).
+
+Via de parto por indi-
+cação obstétrica.
+
+ 
+
+46
+
+ 
+ 
+
+ 
+
+Orientação para
+
+ap FASE 1 FASE 2 FASE 3
+prescrição em
+
+1º AO 5º DIA 6º AO 14º DIA APÓS O 14º DIA
+
+ 
+
+ 
+
+ 
+
+GESTANTES
+SINAIS E Internação hospitalar
+
+SINTOMAS - Afastar outras causas de gravidade
+GRAVES - Avaliar presença de infecção bacteriana
+
+- Considerar imunoglobina humana
+
+- Considerar anticoagulação
+
+- Considerar pulsoterapia com corticóide
+
+- Considerar uso de corticóide para maturação pulmonar
+conforme protocolos convencionais
+
+- Se Síndrome respiratória aguda grave, antecipar a resolu-
+ção do parto (considerar parto instrumental/via alta)
+
+Difosfato de cloroquina
+=D1: 500 mg 12/12h (300 mg de cloroquina base)
+
+=D2 ao D5: 500 mg 24/24h (300 mg de cloroquina base)
++
+
+Azitromicina
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. NOTAS EXPLICATIVAS
+
+1. Apesar de serem medicações utilizadas em diversos protocolos e de possuí-
+rem atividade in vitro demonstrada contra o coronavírus, ainda não há meta-análises de
+ensaios clinicos multicêntricos, controlados, cegos e randomizados que comprovem o
+beneficio inequívoco dessas medicações para o tratamento da COVID-19. Assim, fica
+a critério do médico a prescrição, sendo necessária também a vontade declarada do
+paciente, conforme modelo anexo. No caso de pacientes pediátricos ou de pacientes
+incapacitados, é necessário o termo de consentimento livre e esclarecido assinado pelos
+pais ou responsáveis legais, esclarecendo os possíveis efeitos adversos da medicação.
+
+2. O uso das medicações está condicionado à avaliação médica, com realização de
+anamnese, exame físico e exames complementares, em Unidade de Saúde.
+
+3. Os critérios clínicos para início do tratamento em qualquer fase da doença não
+excluem a necessidade de confirmação laboratorial e radiológica.
+
+4. São contra-indicações absolutas ao uso da Hidroxicloroquina: retinopatia/macu-
+lopatia secundária ao uso do fármaco já diagnosticada, hipersensibilidade ao fármaco e
+
+47
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+miastenia grave.
+
+5. Não há necessidade de ajuste da dose de hidroxicloroquina para insuficiência re-
+nal (somente se a taxa de filtração glomerular for menor que 15) ou insuficiência hepática.
+
+6. O risco de retinopatia é menor com o uso da hidroxicloroquina. A retinotoxicidade
+relaciona-se com a dose acumulada. No caso da cloroquina, o risco aumenta de modo
+significativo quando a dose cumulativa excede 300 gramas. No caso da hidroxicloroqui-
+na, há maior risco com doses cumulativas que ultrapassam 1.000 gramas.
+
+7. Não coadministrar hidroxicloroquina com amiodarona e flecainida. Há interação
+moderada da hidroxicloroquina com: digoxina (deve haver monitoramento), ivabradina e
+propafenona, etexilato de dabigatrana (reduzir dose de 220 mg para 110 mg), edoxabana
+(reduzir dose de 60 mg para 30 mg). Há interação leve com verapamil (diminuir dose) e
+ranolazina.
+
+8. Em crianças, dar sempre prioridade ao uso de hidroxicloroquina pelo risco de
+toxicidade da cloroquina.
+
+9. Cloroquina deve ser usada com precaução em portadores de doenças cardíacas,
+hepáticas ou renais, hematoporfiria e doenças mentais.
+
+10. Cloroquina deve ser evitada em associação com: clorpromazina, clindamicina,
+estreptomicina, gentamicina, heparina, indometacina, tiroxina, isoniazida e digitálicos.
+
+11. Avalie as interações com outros medicamentos, especialmente em pacientes
+críticos ou oncológicos. Medicamentos que podem prolongar o intervalo QT incluem: azi-
+tromicina, voriconazol, ondasetrona, metadona, ciprofloxacina, clorpromazina, cisaprida,
+risperidona e domperidona. Se QTc for superior a 450 milissegundos, não se deve iniciar
+a hidroxicloroquina. Se prolongamento do QTc for acima de 25% da linha de base, o tra-
+tamento deve ser suspenso.
+
+12. Para pacientes hospitalizados com sinais de gravidade e evidências laborato-
+riais de “tempestade de citocinas”, considerar anticoagulação e pulsoterapia com corticói-
+de. Antes do primeiro pulso de corticoterapia, realizar profilaxia anti-helmíntica.
+
+13. Para pacientes com sinais e sintomas moderados, considerar anticoagulação
+profilática se a oximetria estiver abaixo de 95% ou na presença de qualquer sinal ou sin-
+toma respiratório (tosse, dispnéia etc.) quando não for possível realizar a oximetria.
+
+14. Para pacientes hospitalizados, observar e iniciar o tratamento precoce para
+pneumonia nosocomial, conforme protocolo da Comissão de Controle de Infecções Hos-
+pitalares (CCIH) local.
+
+418
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+15. Nos pacientes com deficiência ou presunção de deficiência de vitamina D, con-
+siderar a reposição conforme necessidade clínica.
+
+16. Investigar e tratar anemia.
+
+17. Considerar a administração de sulfato de zinco concomitante ao tratamento
+
+com cloroquina/hidroxicloroquina + azitromicina.
+
+18. Monitorar o uso de anticoagulantes.
+
+19. Exames laboratoriais de relevância na COVID-19: hemograma completo, TP,
+TTPA, fibrinogênio, D-dímero, proteina C-reativa (de preferência ultra sensível); AST
+(TGO), ALT (TGP), Gama-GT, creatinina, uréia, glicemia, ferritina, Desidrogenase Láti-
+ca, troponina, CK-MB, Pró-BNP, 25 OHVitamina D, íons (Na/K/Ca/Mg), RT-PCR SARS-
+-Cov-2, sorologia ELISA IGM IGG para SARS-Cov-2, teste molecular rápido para coro-
+navírus.
+
+20. Exames complementares de relevância na COVID-19: Eletrocardiograma e To-
+mografia Computadorizada de TÓRAX.
+
+21. A Sociedade Brasileira de Cardiologia recomenda a realização de Eletrocardio-
+grama (ECG) em adultos no primeiro, terceiro e quinto dias do tratamento com cloroquina
+ou hidroxicloroquina com associação eventual com azitromicina. Em pacientes pediátri-
+cos, realizar ECG antes da introdução de Cloroquina ou Hidroxicloroquina e monitora-
+mento cardíaco durante a hospitalização, com controle do ECG em 48 horas.
+
+22. Cada comprimido de 250 mg de Difosfato de Cloroquina equivale a 150 mg de
+cloroquina base. A dose máxima diária de cloroquina base não deve exceder 25 mg/Kg.
+
+23. Para crianças com quadro sistêmico grave e que apresentem elevação do Ddi-
+mero acima de 3 vezes o valor de referência normal, considerar anticoagulação.
+
+24. Crianças com asma devem manter o seu tratamento ambulatorial (corticosteroi-
+des inalados, broncodilatadores de longa ação, imunobiológicos ou imunoterapia).
+
+25. No âmbito do enfrentamento à pandemia, o Departamento de Ciência e Tecnolo-
+gia (DECIT/SCTIE/MS) produz sínteses de evidências científicas para subsidiar a tomada
+de decisão do gestor federal do Sistema Único de Saúde. Desta forma, cabe destacar
+que produz os INFORMES DIÁRIOS DE EVIDÊNCIAS - COVID-19 com o objetivo de
+informar sobre as principais evidências científicas descritas na literatura internacional so-
+bre tratamento farmacológico para a COVID-19. Além de resumir cada estudo identifica-
+do, os informes apresentam uma avaliação da qualidade metodológica e a quantidade de
+artigos publicados, de acordo com a sua classificação metodológica (revisões sistemá-
+
+49
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+ticas, ensaios clínicos randomizados, entre outros). Os informes são elaborados desde
+06 de abril de 2020. Até o momento, foram produzidos 71 informes, o que corresponde
+a um total de mais de 1000 artigos analisados. Os informes podem ser consultados em,
+https://coronavirus.saude.gov.br/profissional-gestor. As evidências sobre prevenção e
+tratamento da COVID-19 são objeto de constante monitoramento desse Departamento,
+pois trata-se de informação crucial no enfrentamento da pandemia.
+
+26. Em cumprimento à decisão proferida nos autos da Ação Civil Pública nº
+5030353-65.2020.4.02.5101/RJ, da 15º Vara Federal do Rio de Janeiro, conforme Pa-
+recer de Força Executória nº 00034/2020/CGJ/PRU2R/PGU/AGU, de 03/07/2020
+(http://saude.gov.br/images/pdf/2020/July/16/decisao-judicial.pdf) são partes integrantes
+do presente documento:
+
+|) Ofício nº 69/2020/VICE-PRES GESTÃO DESENVOL INSTITUCIONAL/
+FIOCRUZ, de 08/06/2020:
+http://saude.gov.br/images/pdf/2020/July/16/OFICIO-69-2020-VICE-PRES-
+GESTAO-DESENVOL-INSTITUCIONAL-FIOCRUZ.pdf
+Il) Nota Técnica nº 102/2020/SEI/GADIP-CG/ANVISA, de 05/06/2020:
+http://saude.gov.br/images/pdf/2020/July/16/NOTA-TECNICA-102-2020-SEI-
+
+GADIP-CG-ANVISA.pdf
+
+6. INFORMAÇÕES COMPLEMENTARES
+
+6.1. Coordenação
+
+Antônio Elcio Franco Filho (Secretaria Executiva - Ministério da Saúde — Brasília, DF)
+Arnaldo Correia de Medeiros (Secretário de Vigilância em Saúde - Ministério da
+Saúde — Brasília, DF)
+
+Raphael Camara Medeiros Parente (Secretário de Atenção Primária à Saúde -
+Ministério da Saúde — Brasília, DF)
+
+Luiz Otávio Franco Duarte (Secretário de Atenção Especializada à Saúde -
+Ministério da Saúde — Brasília, DF)
+
+Mayra Isabel Correia Pinheiro (Secretária de Gestão do Trabalho e da Educação
+na Saúde - Ministério da Saúde — Brasília, DF)
+
+Robson Santos da Silva (Secretário Especial de Saúde Indígena - Ministério da
+Saúde — Brasília, DF)
+
+Hélio Angotti Neto (Secretário de Ciência, Tecnologia, Inovação e Insumos
+Estratégicos em Saúde — Ministério da Saúde — Brasília, DF)
+
+ 
+
+20
+
+ 
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+6.2. Elaboração e Revisão Técnica
+
+Alessandro Glauco dos Anjos de Vasconcelos (Ministério da Saúde — Brasília, DF)
+Francisco Eduardo Cardoso Alves (Instituto de Infectologia Emilio Ribas/SES —
+São Paulo)
+
+Francisco José Costa Eleutério (Universidade Estadual do Ceará; Hospital Geral
+de Fortaleza — Fortaleza, CE)
+
+Gerlane Baccarin (Instituto de Modernização Pública — Governo do Estado de
+Roraima)
+
+Hélio Angotti Neto (Ministério da Saúde — Brasília, DF)
+
+João Marcos de Meneses e Silva (Hospital Universitário de Brasília / UnB;
+Hospital da Região Leste / SES — Brasília, DF)
+
+José Roberto Fioretto (Faculdade de Medicina de Botucatu; Associação de
+Medicina Intensiva Brasileira — São Paulo, SP)
+
+Juang Horng Jyh (Associação de Medicina Intensiva Brasileira — São Paulo, SP;
+Hospital Municipal “Dr. Carmino Caricchio” — Tatuapé, SP)
+
+Laura Tiriba Appi (Ministério da Saúde — Brasília, DF)
+
+Lígia Helena Ferreira Melo e Silva (Hospital Materno Infantil de Brasília/SES,;
+Hospital Universitário de Brasília /UnB — Brasília, DF)
+
+Mário Ferreira Carpi (Faculdade IBCMED; Associação de Medicina Intensiva
+Brasileira; Sociedade Paulista de Terapia Intensiva — São Paulo, SP)
+
+Mayra Isabel Correia Pinheiro (Ministério da Saúde — Brasília, DF)
+
+Thallys Ramalho Suzart (Sociedade Brasileira de Pediatria — Rio de Janeiro, RJ;
+Hospital Santa Helena de Brasília - Campinas, SP)
+
+6.3. Colaboração
+
+Adelaide Martins Alves
+
+Ana Carolina Menezes da Silva Braga
+Bruna Gisele de Oliveira
+
+Camila Ferreira Alves Simões
+
+Demétrio de Lacerda Caetano dos Santos
+Etna de Jesus Leal
+
+Evandro Medeiros Costa
+
+Felipe Fagundes Soares
+
+24
+ 
+
+ 
+
+ 
+
+Fernanda Luiza Hamze
+
+Luana Gonçalves Gehres
+
+Lucas Santos Ávila
+
+Luciana Guilhem de Matos
+
+Mariana de Carvalho e Vasconcelos
+Pâmela Moreira Costa Diana
+
+Paulo da Fonseca Valença Neto
+Silvia Lustosa de Castro
+
+6.4. Diagramação
+Calia, com supervisão do Ministério da Saúde
+
+6.5. Citação Sugerida
+
+BRASIL. MINISTÉRIO DA SAÚDE. Orientações do Ministério da Saúde para
+Manuseio Medicamentoso Precoce de Pacientes com Diagnóstico da COVID-19.
+Brasília, DF: Ministério da Saúde, 2020, 36 p.
+
+REFERÊNCIAS:
+
+ASSOCIAÇÃO BRASILEIRA DE NUTROLOGIA. Posicionamento
+da AssociaçãoBrasileira de  Nutrologia  (ABRAN) a respeito de
+micronutrientes e probióticos na infeção por COVID-19. Internet,
+https://abran.org.br/2020/05/01/posicionamento-da-associacao-brasileira-de-
+nutrologia-abran-a-respeito-de-micronutrientes-e-probioticos-na-infeccao-por-covid-19/
+BERGHELA, Vincenzo. Coronavirus disease 2019 (COVID-19): Pregnancy
+issues. UpToDate. Internet, https:/Amww.uptodate.com/contents/coronavirus-
+disease-2019-covid-19-pregnancy-issues?search=covid%20pregnan-%20
+cy&source=search result&selectedTitle=2-150&usage type=de-%20
+fault&display rank=2$H3682062658
+
+. BERTSIAS, George K; TEKTONIDOU, Maria; AMOURA, Zahir; et al. Joint
+European League Against Rheumatism and European Renal Association—
+European  Dialysis and  Transplant Association (EULAR/ERA-EDTA)
+recommendations for the management of adult and paediatric lupus nephritis.
+Annals of the Rheumatic Diseases, vol. 71(11), 2012, p. 1771- 1782. Internet,
+
+https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMC3465859/
+
+ 
+
+>
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+4. BOELIG, Rupsa C.; MANUCK, Tracy; OLIVER, Emily A; et al.
+Labor and Delivery  Guidance for  COVID-19. American Journal
+of Obstetrics & Gynecology, vol. 2(2), 2020, p. 1-10. Internet,
+https://Awww.sciencedirect com/science/article/pii/S2589933320300409?via%3Dihub
+
+5. BOWLING, Brad. Kanski Oftalmologia Clínica. Uma abordagem sistêmica. 8º edição.
+Rio de Janeiro: Elsevier, 2016, p. 853.
+
+6. BRASIL. MINISTÉRIO DA SAÚDE. SECRETARIA DE ATENÇÃO ESPECIALIZADA
+EM SAÚDE. Protocolo de manejo clínico da Covid-19 na Atenção Especializada.
+Internet, https://portalarquivos.saude.gov.br/images/pdf/2020/April/14/Protocolo-de-
+Manejo-Cl--nico-para-o-Covid-19.pdf
+
+7. BRASIL. MINISTÉRIO DA SAÚDE. SECRETARIA DE CIÊNCIA,
+TECNOLOGIA E INSUMOS ESTRATÉGICOS EM SAÚDE. Diretrizes
+para Diagnóstico e Tratamento da COVID-19. Versão 3. Internet,
+https://portalarquivos.saude.gov.br/images/pdf/2020/April/18/Diretrizes-Covid19.pdf
+
+8. BRASIL. MINISTÉRIO DA SAÚDE. SECRETARIA DE VIGILÂNCIA SANITÁRIA.
+Guia de Vigilância Epidemiológica. Emergência de Saúde Pública de Importância
+Nacional pela Doença pelo Coronavírus 2019. Vigilância Integrada de Síndromes
+Respiratórias Agudas Doença pelo Coronavírus 2019, Influenza e outros vírus res-
+piratórios (03/04/2020). Brasília, Distrito Federal: Ministério da Saúde, 2020, p. 8.
+
+9. BROWNING, David J. “Pharmacology of Chloroquine and Hydroxychloroquine”. In:
+Hydroxychloroquine and Chloroquine Retinopathy. New York, NY: Springer, 2014, p.
+35-63. Internet, https:/link.springer com/chapter/10.1007/978-1-4939-0597-3 2éciteas
+
+10. CARLUCCI, Philip; AHUJA, Tania; PETRILLI, Christopher M.; et al.
+Hydroxychloroquine and azithromycin plus Zzinc vs hydroxychloroquine and
+azithromycin alone: outcomes in hospitalized COVID-19 patients. medRxiv preprint.
+Internet, https://doi.org/10.1101/2020.05.02.20080036
+
+11. CHAMIEH, Amanda; AFIF, Claude; EL-HAJJ, Girard; et al. Viral Dynamics
+Matter in COVID-19 Pneumonia: the success of early treatment with
+hydroxychloroquine and azithromycin in Lebanon. MedkRxiv preprint. Internet,
+https:/Awmww. medrxiv.org/content/10.1101/2020.05.28.20114835v1
+
+12. CHAUHAN, A. & TIKOO, A. The enigma of the clandestine association between
+chloroquine and HIV infection. HIV Medicine, vol. 16(10), 2015, p.585-590. Internet,
+https://onlinelibrary.wiley.com/doiffull/10.1111/hiv 12295
+
+ 
+
+23
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+13. CHEN, Jun; LIU, Danping; LIU, Ping; et al. A pilot study of hydroxychloroquine
+in treatment of patients with common coronavirus disease-19 (COVID-19).
+Journal of Zhejiang University, issue 2, 2020, p. 215-219. Internet,
+http:/Awww.zjujournals.com/med/EN/10.3785/j issn.1008-9292.2020.03.03
+
+14. CHEN, Zhaowei; HU, Jijia; ZHANG, Zongwei; et al. Efficacy of hydroxychloroquine
+in patients with COVID-19: results of a randomized clinical trial. medRxiv preprint,
+Internet, https:/Avww.medrxiv.org/content/10.1101/2020.03.22.20040758v3
+
+15. CHINA. MULTICENTER COLLABORATION GROUP OF DEPARTMENT OF
+SCIENCE AND TECHNOLOGY OF GUANGDONG PROVINCE AND HEALTH
+COMMISSION OF GUANGDONG PROVINCE FOR CLOROQUINE IN THE
+TREATMENT OF NOVEL CORONAVIRUS PNEUMONIA. Expert consensus
+on chloroquine phosphate for the treatment of novel coronavirus pneumonia.
+Zhonghua Jie He He Hu Xi Za Zhi, vol. 43 (3), 2020, p. 185-8. Internet,
+https://pubmed.ncbi.nim.nih.gov/32164085/
+
+16. CHIOTOS, Kathleen; HAYES, Molly, KIMBERLIN, David W.; et al. Multicenter initial
+guidance on use of antivirals for children with COVID-19/SARS-CoV-2. Journal of
+the Pediatric Infectious Disease Society, publicado em 22 de abril, 2020. Internet,
+https://pubmed.ncbi.nim.nih.gov/32318706/
+
+17. COLSON, Philippe; ROLAIN, Jean-Marc; LAGIER, Jean-Christophe; et al.
+Chloroquine and hydroxychloroquine as available weapons to fight COVID- 19.
+International Journal of Antimicrobial Agents, vol. 55 (4), 2020, 105932. Internet,
+https://doi.org/10.1016/jijantimicag.2020.105932
+
+18. CONSELHO FEDERAL DE MEDICINA. Processo-Consulta CFM
+nº 8/2020 — Parecer CFM nº 4/2020. Tratamento de pacientes
+portadores de COVID-19 com cloroquina e hidroxicloroquina. Internet,
+http:/Ayww. saude. mppr.mp.br/arquivos/File/Corona/CF M/6.pdf
+
+19. CORRÊA, Thiago Domingos; MATOS, Gustavo Faissol Janot de; BRAVIM, Bruno
+de Arruda; et al. Recomendações de suporte intensivo para pacientes graves com
+infeccção suspeita ou confirmada pela COVID-19. Einstein (São Paulo). 29 de
+maio de 2020. Internet, https://journal.einstein.br/pt-br/article/recomendacoes-de-
+suporte-intensivo-para-pacientes-graves-com-infeccao-suspeita-ou-confirmada-
+
+pela-covid-19/
+
+ 
+
+DA
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+20. CORTEGIANI, Andrea; INGOGLIA, Julia; IPPOLITO, Mariachiara; et al. A
+systematic review on the efficacy and safety of chloroquine for the treatment
+of COVID-19. Journal of Critical Care, vol. 57, 2020, p. 279-283. Internet,
+https://doi.org/10.1016/j jerc.2020.03.005
+
+21. CZUPPON, Peter; DÉBARRE, Florence; GONÇALVES, Antonio; et al. Predicted
+success of prophylactic antiviral therapy to block or delay SARSCoV-2 infection
+depends on the targeted mechanism. medkRxiv preprint, publicado em maio — online.
+Internet, https://doi.org/10.1101/2020.05.07.20092965
+
+22. DAVIDO, Benjamin; LANSAMAN, Thiebaud; BESSIS, Simon; et al.
+Hydroxychloroquine plus azithromycin: a potential interest in reducing inhospital
+morbidity due to COVID-19 pneumonia (HI-ZY-COVID)? medRxiv preprint, publicado
+em maio — online. Internet, https://doi.org/10.1101/2020.05.05.20088757
+
+23. DEVAUX, Christian A; ROLAIN, Jean-Marc; COLSON, Philippe; RAOULT, Didier.
+New insights on the antiviral effects of chloroquine against coronavirus: what to expect
+for COVID-19? International Journal of Antimicrobial Agents, publicado em março —
+online, 2020, 105938. Internet, https://doi.org/10.1016/jijantimicag.2020. 105938
+
+24. DIVALA, Titus H.; MUNGWIRA, Randy G.; MAWINDO, Patrícia M.; et al. A
+Randomized, Controlled Clinical Trial of Chloroquine as Chemoprophylaxis or
+Intermittent Preventive Therapy to Prevent Malaria in Pregnancy in Malawi.
+Lancet Infectious Diseases, vol. 18 (10), 2018, p. 1097-1107. Internet,
+https:/Awmww.ncbi.nim.nih.gov/pmc/articles/PMC6217965/
+
+25. DONATELLI, Isabela; CAMPITELLI, Laura; DI TRANI, Livia et
+al. Characterization of  H5BN2 influenza viruses from alan poultry.
+Joumal of General YVirolology, vol. 82 (3), 2001, p. 62330. Intemet,
+https:/Amww microbiologyresearch.org/contentfjoumal/gv/10.1099/0022-1317-82-3-623
+
+26. ESCOLA DE MEDICINA FETAL DE BARCELONA. Coronavírus (COVID-19) y
+embarazo. Internet, https://medicinafetalbarcelona.org/protocolos/es/patologia-
+materna-obstetrica/covid19-embarazo.html
+
+27.EUROPEANMEDICINESAGENCY.COVID-19: chloroquine andhydroxychloroquine
+only to be used in clinical trials or emergency use programmes. Publicado em
+abril — online. Internet, https://www.ema.europa.eu/en/news/covid-19-chloroquine-
+
+hydroxychloroquine-only-be-used-clinical-trials-emergency-use-programmes
+
+ 
+
+5
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+28. FEDERAÇÃO BRASILEIRA DAS ASSOCIAÇÕES DE GINECOLOGIA
+E OBSTETRÍCIA. Protocolo de Atendimento no Parto, Puerpério e
+Abortamento durante a Pandemia da COVID-19. Internet,
+https:/portaldeboaspraticas.ififiocruz.br/atencao-mulher/covid-19-orientacoes-da-febrasgo-para-avaliacao-e-tratamento-ambulatorial-de-gestantes/
+
+29. FERNANDES, Tadeu Fernando. Suplementação de Nutrientes. Boletim da
+Sociedade de Pediatria de São Paulo — SPSP, nº 5, 2019, p.4-5. Internet,
+https://www.spsp.org.br/site/asp/boletins/AtualizeA4N5, pdf
+
+30. FRANCO, Lori; FOLI, Andrea; GROFF, Antonella; et al. Optimal suppression of
+HIV replication by low-dose hydroxyurea through the combination of antiviral and
+cytostatic ('virostatic') mechanisms. AIDS, Vol. 19 (11), 2005; p. 1173-81. Internet,
+https://pubmed.ncbi.nim.nih.gov/15990570/
+
+31. FREITAS, Daniella Cabral de; GODOY, Henrique; SILVEIRA, Sergio Antônio Dias
+da. Protocolo Manejo Clínico COVID-19. Material de Apresentação da Prevent
+
+Senior. Internet, https://static,poder360.com.br/2020/04/protocolo-Prevent-Senior-
+
+tratamento-covid-19,pdf
+32. FRIE, Kerstin & GBINIGIE, Kome. Chloroquine and hydroxychloroquine:
+
+Current evidence for their effectiveness in treating COVID-19. The Centre
+for Evidence-Based Medicine. University of Oxford, 2020. Internet,
+https://www.cebm .net/covid-19/chloroquine-and-hydroxychloroquine-current-
+evidence-for-their-effectiveness-in-treating-covid-19/
+
+33. FUNDAÇÃO OSWALDO CRUZ. Nota Técnica Orientações sobre o usoda Cloroquina para
+tratamentodepacientesinfectadoscomSARS-CoV-2 agenteetiológicodaCovid-19. Internet,
+htips:/porta, focruz br'sites/portal fiocruz brffles/documentos/orientacoes sobre a doroguina nota tecnica pf
+
+34. GAO, Jianjun; TIAN, Zhenxue; YANG, Xu. Breakthrough: Chloroquine phosphate
+has shown apparent efficacy in treatment of COVID-19 associated pneumonia in
+clinical studies. Bioscience Trends, vol. 14 (1), 2020, p. 72-78. Internet:
+https://doi.org/10.5582/bst.2020.01047
+
+35. GAUTRET Philippe; LAGIER, Jean-Christophe; PAROLA, Philippe; et
+al. Hydroxychloroquine and azithromycin as a treatment of COVID-9:
+results Hydroxychloroquine and azithromycin as a treatment of COVID-19:
+results of an open-label non-randomized clinical trial. International Journal
+
+of Antimicrobial Agents, publicado em março — online, 2020. Internet,
+https:/Awww.sciencedirect. com/science/article/pii/80924857920300996? viaY% 3Dihub
+
+ 
+
+ 
+
+6
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+36. GORDON, David E. JANG, Gwendolyn; BOUHADDOU,  Mehdi;
+et al. A SARCoV-2 protein interaction map reveals targets for drug
+repurposing. Nature, publicado em março — online, 2020. Internet,
+https:/Awww.nature.com/articles/s41586-020-2286-9 reference, pdf
+
+37. HOSPITAL ALEMÃO OSWALDO CRUZ. Estudo clínico randomizado, pragmático,
+aberto, avaliando Hidroxicloroquina para prevenção de Hospitalização e
+Complicações Respiratórias em pacientes ambulatoriais com diagnóstico
+confirmado ou presuntivo de Infecção pelo (COVID-19). Ensaios Clínicos. Internet,
+http:/Awww ensaiosclinicos.gov.br/rg/RBR-3cbs3w/
+
+38. HOSPITAL ISRAELITA ALBERT EINSTEIN. Manejo Novo Coronavírus (COVID-
+19). Material de Apresentação do Hospital Israelita Albert Einstein. Internet,
+https://bitylicom/40aZH
+
+39. HOSPITAL ISRAELITAALBERT EINSTEIN. Safety and Efficacy of Hydroxychloroquine
+Associated With Azithromycin in SARS-CoV2 Virus (Coalition Covid-19 Brasil Il). Clinical
+Trials. Internet, https://bitylicom/3Bkii
+
+40. HUANSG, Mingxing; LI, Man; XIAO, Fei; et al. Preliminary evidence from a multicen-
+ter prospective observational study of the safety and efficacy of chloroquine for the
+treatment of COVID-19. medRxiv preprint, publicado em maio - online, 2020. Inter-
+net, https:/Awww.medrxiv.org/content/10.1101/2020.04.26.20081059v1
+
+41. JONES, Gareth; WILLETT, Peter; GLEN, Robert C.; et al. Development and
+validation of a genetic algorithm for flexible docking. Journal of Molecular Biology,
+vol. 267 (3), 1997, p. 727-48. Internet, https://doi.org/10.1006/jmbi. 1996.0897
+
+42. JOSEPH, Tinku. International Pneumologist's Consensus On
+COVID-19 — 2nd Edition, Published on 22nd april 2020. Internet,
+hitps://www.saudedafamilia.org/coronavirus/artigos/international pulmonologists consensus.pdf
+
+43. JOSHI, Shashank R.; BUTALA, N; PATWARDHAN, Madura; et al. Low
+cost anti- retroviral options: chloroquine based ARV regimen combined with
+hydroxyurea and lamivudine: a new economical triple therapy. The Journal
+of the Association of Physicians of India, vol 52, 2004, p. 597-598. Internet,
+https://pubmed.ncbi.nim.nih.gov/15645995/
+
+44. KAAPOR, Krishan Mohan & KAAPOR, Aanandita. Role of Chloroquine and
+Hydroxychloroquine in the Treatment of COVID-19 Infection- A Systematic
+Literature Review. medRxiv preprint, publicado em março, 2020. Internet,
+https:/Awmww.medrxiv.org/content/10.1101/2020.03.24.20042366v1
+
+ 
+
+7
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+45. KEYAERTS, Els; LI, Sandra; VIJGEN, Leen, et al. Antiviral activity of
+chloroquine against human coronavirus OC43 infection in newborn mice.
+Antimicrobial agents and Chemotherapy, vol. 53 (8), 2009, p. 3416-3421. Internet,
+https://aac.asm.org/content/53/8/3416
+
+46. KEYAERTS, Els; VIJGEN, Leen, MAES, Piet; et al. In vitro inhibition of severe
+acute respiratory syndrome coronavirus by chloroquine. Biochemical and
+Biophysical Research Communications, vol. 323, 2004, p. 264-68. Internet,
+https://pubmed.ncbi.nim.nih.gov/15351731/
+
+47. KIM, Min Seo; JANG, Soon-Woo; PARK, Yu-Kyung; et al. Treatment Response to
+Hydroxychloroquine, Lopinavir-Ritonavir, and Antibioticsfor Moderate COVID-19:AFirst
+Report on the Pharmacological Outcomes from South Korea. MedRvix preprint, maio
+de 2020. Internet, https:/Avww.medrxiv.org/content/10.1101/2020.05.13.20094193v1
+
+48. KWIEK, Jesse J.; HAYSTEAD, Tymothy A. J.; RUDOLPH, Johannes.
+Kinetic mechanism of quinone oxidoreductase 2 and its inhibition by the
+antimalarial quinolines. Biochemistry, vol. 43 (15), 2004, p. 4538-4547. Internet,
+https://pubmed.ncbi.nim.nih.gov/15078100/
+
+49. LALLOO, David G; SHINGADIA, Delane; BELL, David J. UK malaria treatment
+guidelines 2016. Journal of Infection, vol. 72 (6), 2016, p. 635- 649. Internet,
+https:/ftinyurl.com/yygfevap
+
+50. LIU, Jia; CAO, Ruiyuan; XU, Mingyue; et al. Hydroxychloroquine, a less toxic
+derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infection in vitro. Cell
+Discovery, vol. 6(1),2020, p. 16. Internet, https://pubmed.ncbi.nlm.nih.gov/32194981/
+
+51. LIU, Wenzhong & LI, Hualan. COVID-19: Attacks the 1-Beta Chain
+of Hemoglobin and Captures the Porphyrin to Inhibit Human Heme
+Metabolism. Chemkxiv, publicado em abril — online, 2020. Internet,
+hitps:/Ichempdv.org/articles/COVID-19 Disease ORF8 and Surface Glycoprotein Inhibit Heme Metaboism by Binding to Porphyrin/11938173
+
+52. LOPES, Marcelo Antônio Cartaxo Queiroga; OLIVEIRA, Glaucia
+Maria Moraes de; RIBEIRO, Antônio Luiz Pinho. Diretriz da Sociedade
+
+Brasileira de Cardiologia sobre Telemedicina na Cardiologia — 2019.
+Arquivos Brasileiros de Cardiologia, publicado online, 2019. Internet,
+
+https:/ftinyurl.com/y5anv3lj
+
+ 
+
+8
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+53. MAHASE, Elisabeth. Covid-19: what treatments are being investigated? British
+Medical Journal, vol. 368, 2020, m1252. Internet, https://doi.org/10.1136/bmjm1252
+54. MEHRA, Mandeep R.; RUCHITZKA, Frank; PATEL, Amit N. Retraction—
+Hydroxychloroquine or chloroquine with or withouta macrolide fortreatment of COVID-19:
+a multinational registry analysis. The Lancet, vol. 395(10240), 2020, p. 1820. Internet,
+
+hitps:/tinyurl.com/yajr224x
+55. MEMBRILLO DE NOVALES, Francisco Javier; RAMÍREZ-OLIVENCIA, Germán:
+
+ESTÉBANEZ, Miriam; et al. Early hydroxychloroquine is associated with an increase
+of survival in COVID-19 patients: an observational study. Preprints, 2020. Internet,
+
+https:/Awww. preprints.org/manuscript/202005.0057/1
+56. MILLER, Douglas K & LENARD, John. Antihistaminics, local anesthetics,
+
+and other amines as antiviral agents. Proceedings of the National Academy of
+Sciences of the United States of America, vol. 78 (6), 1981, p. 3605-09. Internet,
+https://pubmed.ncbi.nlm.nih.gov/6115382/
+
+57. MILLION, Mathieu; LAGIER, Jean-Christophe; GAUTRET, Philippe; et
+al. Early treatment of COVID-19 patients with hydroxychloroquine and
+azithromycin: A retrospective analysis of 1061 cases in Marseille, France. Travel
+Medicine and Infectious Disease, publicado em maio — online, 2020. Internet,
+https://pubmed.ncbi.nim.nih.gov/32387409/
+
+58. NATIONAL INSTITUTES OF HEALTH. Coronavírus
+Disease 2019 (COVID-19) Treatment Guidelines. Internet,
+https:/ftinyurl.com/y5s4t/6y
+
+59. OLOFSSON, Sigvard; KUMLIN, Urban; DIMOCK, Ken; et al. Avian influenza and
+sialic acid receptors: more than meets the eye? Lancet Infectious Diseases, vol 5
+(3), 2005, p. 184-88. Internet, https://pubmed.ncbi.nlm.nih.gov/15766653/
+
+60. OTEO, José A.; MARCO, Pedro; LEÓN, Luis Ponce de; ROCENRO, Alejandra;
+LOBERA, Teófilo; LISA, Valentin. A short therapeutic regimen based on
+hydroxychloroquine plus azithromycin for the treatment of COVID-19 in patients
+with non-severe disease. A strategy associated with a reduction in hospital
+admissions and complications. MedRvix preprint, 12 de junho de 2020. Internet,
+https:/Awmww. medrxiv.org/content/10.1101/2020.06.10.20101105v1
+
+61. PATON, N. |. & ABOULHAB, J. Hydroxychloroquine, hydroxyurea and didanosine
+as initial therapy for HIV-infected patients with low viral load: safety, efficacy and
+resistance profile after 144 weeks. HIV Medicine, vol. 6, 2005, p. 13-20. Internet,
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/,.1468-1293.2005.00259 x
+
+ 
+
+29
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+62. POON, Liona C.; YANG, Huixia; KAPUR, Anil; et al. Global Interim Guidance on
+coronavirus disease 2019 (COVID-19) during pregnancy and puerperium from
+FIGO and allied partners: Information for healthcare professionals. International
+Journal of Gynecology and Obstetetrics, publicado em abril — online, 2020. Internet,
+https://obgyn.onlinelibrary.wiley.com/doiffull/10.1002/ijgo. 13156
+
+63. RIOU, Bruno; BARRIOT, Patrick; RIMAILHO, Alain; et al. Treatment of Severe
+Chloroquine Poisoning. The New England Journal of Medicine, vol. 318 (1), 1988, p.
+1-6. Internet, https:/Avww.ncbi.nlm.nih.gov/pubmed/3336379
+
+64. RISCH, Harvey A. Early Outpatient Treatment of Symptomatic, High-Risk
+Covid-19 Patients that Should be Ramped-Up Immediately as Key to the Pandemic
+Crisis. American Journal of Epidemiology, 27 de maio de 2020. Internet,
+https:/ftinyurl.com/yao5pvg?
+
+65. RONGHUA, Jin; WU, Zhong. A prospective, open-label, multiple-center study
+for the efficacy of chloroquine phosphate in patients with novel coronavirus
+pneumonia (COVID-19). Chinese Clinical Trial Registry, 2020. Internet,
+http:/Ayww.chictr.org.cn/historyversionpuben.aspx?regno=ChiCTR2000031204
+
+66. ROYAL COLLEGE OF OBSTETRICIANS & GYNAECOLOGISTS. Coronavirus
+(COVID-19) Infection in Pregnancy. Information for healthcare Professionals.
+Version 6. Internet, https:/Awvww.rcog.org.uk/globalassets/documents/
+guidelines/2020-04-03-coronavirus-covid-19-infection-in-pregnancy.pdf
+
+67. ROYAL COLLEGE OF PAEDIATRICS AND CHILD HEALTH (2020). Guidance:
+Paediatric multisystem inflammatory syndrome temporally associated with
+COVID-19. Internet, https://Awww.rcpch.ac.uk/sites/default/files/2020-05/COVID-19-
+Paediatric-multisystem-%20inflammatory%20syndrome-20200501 .pdf
+
+68. RUFATTI, Amelia; TONELLO, Marta; HOXHA, Ariela; et al. Effect of Additional
+Treatments Combined with Conventional Therapies in Pregnant Patients with High-
+Risk Antiphospholipid Syndrome: A Multicentre Study. Thrombosis and Haemostasis,
+vol. 118 (4), 2018, p. 639-646. Internet, https://pubmed.ncbi.nim.nih.gov/29490410/
+
+69. SAHRAEI, Zahra; SHABANI, Minoosh; SHOKOUNI, Shervin; et al. Aminoquinolines
+Against Coronavirus Disease 2019 (COVID-19): Chloroquine or Hydroxychloroquine.
+International Journal of Antimicrobial Agents, vol. 55 (4), 2020, 105945. Internet,
+
+https://pubmed.ncbi.nim.nih.gov/32194152/
+
+ 
+
+30
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+70. SANDERS, James M.; MONOGUE, Marguerite L.; JODLOWSKI, Thomasz
+Z.; et al. Pharmacologic Treatments for Coronavirus Disease 2019
+(COVID-19) A Review. JAMA, vol. 323 (18), 2020, p. 1824-1836. Internet,
+https://jamanetwork.com/journals/jama/fullarticle/2764727
+
+71. SAVARINO, Adrea; BOELAERT, John R.; CASSONE, Antonio; et al. Effects
+of chloroquine on viral infections: an old drug against today's diseases.
+The Lancet Infectious Diseases, vol. 3 (11), 2003, pp./22-727. Internet,
+https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMC7128816/
+
+72. SAVARINO, Adrea; DI TRANI, Livia; DONATELLI, Isabella; et al. New insights into
+the antiviral effects of chloroquine. The Lancet Infectious Diseases, vol. 6 (2), 2006,
+p. 67-69. Internet, https:/Awww.ncbi.nlm.nih.gov/pmc/articles/PMCT7129107/
+
+73. SAVARINO, Adrea; LUCIA, Mothanje B.; RASTRELLI, Elena; et al. Anti-HIV effects
+of chloroquine: inhibition of viral particle glycosylation and synergism with protease
+inhibitors. Journal of Acquired Immune Deficience Syndrome, vol 35 (3), 1996, p.
+223-32. Internet, https:/'tinyurl.com/y6ove9ge
+
+74. SCHWARTZ, David A.; GRAHAM, Ashley L. Potential Maternal and Infant Outcomes
+from (Wuhan) Coronavirus 2019-nCoV Infecting Pregnant Women: Lessons from
+SARS, MERS, and Other Human Coronavirus Infections. Viruses, vol. 12(2), 2020,
+p. 194. Internet, https://pubmed.ncbi.nlm.nih.gov/32050635/
+
+75. SHIBATA, Motohiro; AOKI, Hiizu; TSURUMI, Tatsuya; et al. Mechanism
+of uncoating of influenza B virus in MDCK cells: action of chloroquine.
+Journal of General Virology, vol. 64 (5), 1983, p. 1149-56. Internet,
+https:/Avww.microbiologyresearch .org/content/journal/igv/10.1099/0022-1317-64-5-1149
+
+76. SILVA, Adriana P. R.; VITOLO, Márcia Regina; ZARA, Luis Fabrício; et al. Effects
+of zinc supplementation on 1- to 5-year old children. Jornal de Pediatria, vol. 82
+(3), 2006, p. 227-231. Internet, https:/Awww.scielo.br/scielo.php?pid=S0021-
+75572006000300013&script=sci arttext&ting=en
+
+77. SINGH, Awadhesh Kumar; SINGH, Akriti; SHAIK, Altamash, et al.
+Chloroquine and hydroxychloroquine in the treatment of COVID-19 with or
+without diabetes: A systematic search and a narrative review with a special
+
+reference to India and other developing countries. Diabetes & Metabolic
+
+ 
+
+31
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+Syndrome: Clinical Research & Reviews, vol. 14(3), 2020, p. 241-246. Internet,
+https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMC7102587/
+
+78. SMITH, E. Reed; KLEIN-SCHWARTZ, Wendy. Are 1-2 dangerous?
+Chloroquine and hydroxychloroquine exposure in toddlers. The Journal
+of Emergency Medicine, vol. 28 (4), 2005, p. 437- 443. Internet,
+https:/ftinyurl.com/y6xyjSqn
+
+79. SOCIEDAD LATINOAMERICANA DE CUIDADOS INTENSIVOS PEDIÁTRICOS.
+Recomendaciones del Comité Respiratorio en el Contexto de Infección por SARS-
+-COV2 (COVID 19).
+
+80. SOCIEDADE BRASILEIRA DE PEDIATRIA. DEPARTAMENTO CIENTÍFICO DE
+INFECTOLOGIA. DEPARTAMENTO CIENTÍFICO DE REUMATOLOGIA. Sindrome
+inflamatória multissistêmica em crianças e adolescentes provavelmente associada à
+COVID-19: uma apresentação aguda, grave e potencialmente fatal. Nota de Alerta,
+20 de maio de 2020. Internet, https://tinyurl.com/yyhffqea
+
+81. SOCIEDADE BRASILEIRA DE PEDIATRIA. DEPARTAMENTO
+CIENTÍFICO DE PNEUMOLOGIA. COVID-19 em crianças:
+envolvimento respiratório. Nota de Alerta, 02 de abril de 2020. Internet,
+https:/ftinyurl.com/y4sanqun
+
+82. SOCIEDADE BRASILEIRA DE PEDIATRIA. DEPARTAMENTO CIENTÍFICO
+DE TERAPIA INTENSIVA. COVID-19: Protocolo de Diagnóstico e Tratamento
+em Unidade de Terapia Intensiva Pediátrica. Nota de Alerta, 20 de maio de 2020.
+Internet, https:/ftinyurl.com/y667bjvw
+
+83. TANG, Wei; CAO, Zhujun; HAN, Mingfeng; et al. Hydroxychloroquine
+in patients mainly with mild to moderate COVID-19: an open-label,
+randomized, controlled trial. medkRxiv preprint, maio, 2020. Internet,
+https:/Awww.bmj.com/content/369/bmj.m1849
+
+84. THE LANCET EDITORS. Expression of concern: Hydroxychloroquine
+or chloroquine with or without a macrolide for treatment
+
+of COVID-19: a multinational registry analysis. Internet,
+https:/ftinyurl.com/y6g8frdr
+85. TINKU, Joseph (organizador). International Pulmologist's
+
+Consensus On COVID-19 —- 2nd Edition, 22 de abril 2020. Internet,
+https:/Aww.saudedafamilia.org/coronavirus/artigos/international pulmonologists consensus.pdf
+
+ 
+
+32
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+86. VINCENT, Martin J.; BERGERON, Eric; BENJANNET Suzanne; et
+al. Chloroquine is a potent inhibitor of SARS coronavirus infection
+and spread. Virology Journal, vol. 2 (1), 2005, p. 69. Internet,
+https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-2-69
+
+87. WANG, Manli; CAO, Ruiyuan; ZHANG, Leike; et al. Remdesivir and
+chloroquine effectively inhibit the recently emerged novel coronavirus
+(2019-nCoV) in vitro. Cell Research, vol. 30, 2020, p. 269-271. Internet,
+https:/Awww.nature.com/articles/s41422-020-0282-0
+
+88. WORLD HEALTH ORGANIZATION. Multisystem inflammatory syndrome
+in children and adolescents temporally related to COVID-19. Internet,
+https:/ftinyurl.com/ybjjq9vd
+
+89.WU, Chaomin; CHEN, Xiaoyan; CAI, Yanping; etal. RiskFactor Associated With Acute
+Respiratory Distress Syndrome and Deathin Patients With Coronavirus Disease 2019
+Pneumoniain Wuhan, china. JAMAlInternalMedicine, 13demarçoonline,2020. Internet,
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2763184
+
+90. YAO, Xueting; YE, Fei; ZHANG, Miao; et al. In vitro antiviral activity and
+projection of optimized dosing design of hydroxychloroquine for the treatment
+of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Clinical
+Infectious Disease, publicado em março — online, 2020, ciaa 237. Internet,
+https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMCT7108130/
+
+91.YU, Bo; WANG, Dao Wen; LI, Chenze. Hydroxychloroquine application is associated
+with a decreased mortality in critically ill patients with COVID-19. medRxiv preprint.
+Internet, https:/Avww.medrxiv.org/content/10.1101/2020.04.27.20073379v1
+
+92. ZAHN, Zahng. Therapeutic effect of hydroxychloroquine on novel coronavirus
+pneumonia (COVID-19). Chinese Clinical Trial Registry. Publicado em abril — online,
+2020. Internet, http:/Awww.chictr.org.cn/showprojen.aspx? proj=48880
+
+93. ZHAO, Xiaouxuan; JIANG, Yuepeng; ZHAO, Yang; et al. Analysis of
+the susceptibility to COVID-19 in pregnancy and recommendations on
+potential drug screening. European Journal of Clinical Microbiology &
+Infectious Diseases, publicado em abril - online, 2020, p. 1-12. Internet,
+https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMC7178925/
+
+ 
+
+33
+
+ 
+ 
+
+ 
+
+ANEXO:
+
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+Termo de Ciência e Consentimento (0014934764)
+
+Brasília, 30 de julho de 2020.
+
+Tendo Cida e Copentaneço
+
+Adri orgao Olaias Pes einacdação cas Anivciminiea pra CON TO DR
+
+ 
+
+ 
+
+ 
+
+Fis deita indir ça eres sara ela objca pelo a rica de quem
+rações mandácia ca Istooratemtao pevelarara gositalifaddo cu compre ação de dhagaiadico:
+
+CO METD DS essa pelo comaavinas SARS-CON 3
+E cem Desa painel Ea fa Cica due Earasmeto pescada
+
+Clomoqniaa va IMbirvcdelomoquias eim arsiciação rom Arioremirias
+
+ 
+
+5 PROCEDIMENTOS, SE REMENÍCNOS, RESDOS E,
+MITERMATIÇAS.
+
+ 
+
+Fe eee ps) re grp ec é ge p stc e
+
+do A elesosquiaa é a hieondeloriquima us enedicaeneamos dispemáveia bh esndiza asc pm a
+perveração e Eracamentos Sa amadas e Garbem para o Sotamento de algomos doenças
+rata emo art preceatondo or him fmigadcoma cimo dementriram a
+capa degradar de traba a orplicaço da comccançirim-em Enbeoeatona im meri Rm
+mutado Basciu centos que a elsamação dó covomndim da gaganta de portadima. ds
+ETR dir Ra pa spa co 3 ça da perrsguaç da torpe
+E o desfaóhco desrocescema equeado comparados 4 páricedos que inha tetáraem au desgas.
+Estreito não sh ahé 0 mncrhEnD, Esrudos Dalicoeades para pureistor certera de tuelisoea Clinica
+dc paca o AVEC quado tado cont bcp cs biicnróngatãa.
+
+2 A Choque e a ledroneioroques podem coma efeitos oolseras como padação «dos
+beta oram aird mdo posdo Sie boraçãos carlisca q amitenian. e alterações cancad per
+
+laço Da pe
+
+Comprsend. portanto. que mio exirõe paramtio de pegaltados positivos para a CONTO 4 que o
+rasto pu pode Emi aparar ride, asa.
+
+Ego ci e q ao cones e Ee cu ascende irruenias pehe
+cousa 05 efbsior colmeras descrros acima * otra menos greves ou menos fequenies, ox quais
+pedem, Secar à doafimução de óegpãac, am periongaments da interação, à inraparidade demporária em
+permenere ooé ao bio,
+
+ 
+
+RR E CHA E CORINTO CR CE
+
+ 
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+Taste fia adoro a) que asdependesDe do tod eSoeceguasa ou hundevac=ogoegan meocuntad
+amfscqmciaa atra rachado q otamenho padrão é comproscadammerde fcoeiico para mantas asrsação.
+que pode dncicar aneis de copo da Desparaeção e cmigesa ção, ventilação mercáneca, dimzas para
+votem porutiss e fextadecer à coração, bonmecidbgur e acditadticos autor puras becaçes ofiesrcida
+apa gue calca dorms
+
+ 
+
+ 
+
+Ps os saca, Isto CRIEI O iii ap simao do pets deseo vota
+A ps oa, ja eira da flores como ia enpeto po prevendo sein.
+
+Essa dedicação é dada sola) soeica(a) dlsisto idemilicacha a bai cora Sra) setindçseras
+cn puro peofica somas) pos ee peiecromdolih,
+
+Tre a opontimidade de mieaememe ada su recai irado rela sopa proersdmendai agée der
+lado peragepecctado today at csfirstações desbé discemstuedo, ardes ade via dnicratoa
+
+Apesar de der entendo ar explicações que me foram prestada e enem sido esrtanecidas Eodar au
+
+discada e patamão plrmarmerar tasucdrato aj remo ss indoretações eocebaidos. resesceeçme o dierios de
+PECegar Eite coshedticento aura que Di) procndenecioja|. obpcta dane decuumicato, ne heslzeoios!
+
+ 
+
+ 
+
+ 
+
+CONFIRA: que mxptque, Setifcadeacde pura oia) parieade cam trai) ebaimah. cu
+pesponsiveif en). O poopóstio, cs Deseficios. ou flucos e ds abesmamvas para o galarensoças
+procedsmensoi] acirra cmeridos pespondeneto: ds pergeta: forredados queios mesmos. &
+excliteDendo que 0 0oBbEntanento que agora é concodido é fetado pesbera set sevogado à qua
+raro ad do proc e acordo com o mr demo 0 pacirm ou ra real
+Es rs meg, de computados je Ta [5 tfegptaa
+
+ 
+
+Nisaar dia ás E
+
+Ases
+
+ 
+
+oem EM, [odeia | GCRIANM MS ERES CIA Les EAV TV
+
+ 
+
+35
+
+ 
+ 
+
+ 
+
+aisinatura
+
+assinatura
+eletrónica
+
+aa Do
+assinatura
+eletrônica
+
+assinatura
+eleirónica
+
+Ras Ee
+assinatura
+eletrónica
+
+8
+
+:
+
+: 6)
+
+: (D)
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+Documento assinado eletronicamente por Arnaldo Correia de Medei-
+ros ,Secretário(a) de Vigilância em Saúde, em 10/08/2020, às 18:51,
+conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Mayra Isabel Correia Pinhei-
+ro, Secretário(a) de Gestão do Trabalho e da Educação na Saúde,
+em 10/08/2020, às 19:01, conforme horário oficial de Brasília, com fun-
+damento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e
+
+art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Raphael Camara Medeiros
+Parente, Secretário(a) de Atenção Primária à Saúde, em 10/08/2020,
+às 19:23, conforme horário oficial de Brasília, com fundamento no art.
+6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Luiz Otavio Franco Duar-
+te, Secretário(a) de Atenção Especializada à Saúde, em 10/08/2020,
+às 20:08, conforme horário oficial de Brasília, com fundamento no art.
+6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Rodrigo dos Santos San-
+tana, Secretário(a) Especial de Saúde Indígena, Substituto(a), em
+10/08/2020, às 20:17, conforme horário oficial de Brasília, com funda-
+mento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e
+
+art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Hélio Angotti Neto, Secretá-
+rio(a) de Ciência, Tecnologia, Inovação e Insumos Estratégicos em
+Saúde, em 10/08/2020, às 20:46, conforme horário oficial de Brasília,
+com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015;
+
+e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Antônio Elcio Fran-
+co Filho, Secretário(a)-Executivo, em 10/08/2020, às 21:11, con-
+forme horário oficial de Brasília, com fundamento no art. 6º, 8
+1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Robson Santos da Sil-
+va, Secretário(a) Especial de Saúde Indígena, em 10/08/2020, às
+22:21, conforme horário oficial de Brasília, com fundamento no art.
+6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+A autenticidade deste documento pode ser conferida no site
+https://sei saude.gov.br/sei/controlador externo.php?acao=documento
+
+conferir&id orgao acesso externo=0, informando o código verificador
+0015987248 e o código CRC 2AF1DF28.
+
+ 
+
+Referência: Processo nº 25000.070255/2020-12
+SEI nº 0015987248
+
+*EM SUBSTITUIÇÃO A NOTA INFORMATIVA Nº 11/2020-SE/GAB/SE/MS, QUE
+SUBSTITUIU A NOTA INFORMATIVA Nº 09/2020-SE/GAB/SE/MS PARA INCLU-
+SÃO DO SUBITEM 26 NO ITEM 5. NOTAS EXPLICATIVAS, EM CUMPRIMENTO
+À DECISÃO JUDICIAL PROFERIDA NOS AUTOS DA AÇÃO CIVIL PÚBLICA nº
+5030353-65.2020.4.02.5101/RJ, DA 15º VARA FEDERAL DO RIO DE JANEIRO,
+CONFORNE PARECER DE FORÇA EXECUTÓRIA Nº 00034/2020/CGJ/PRUZR/
+PGU/AGU, DE 03/07/2020.
+
+ 
+
+37
+
+ 
+ 
+
+ 
+
+DISQUE
+SAÚDE PÁTRIA AMADA
+
+36 + 1 eos ZRBRIST
+
+ 
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+QuE oNV]
+
+ 
+
+Elaborado por: Alessandra Lima (CD, Msc, PhD)
+Revisado por: Luciana Vieira (Ft, Msc, PhD)
+10 de julho de 2020
+
+Vários agentes farmacológicos estão sendo explorados para o tratamento da infecção pelo novo
+coronavírus (SARS-CoV-2), o registro internacional de ensaios clínicos pode ser encontrado no
+site da OMS e no clinicaltrials.gov. Alguns estão sendo utilizados a partir de descrição em séries
+observacionais ou com base em evidências in vitro ou ainda extrapoladas. É importante frisar
+que não há dados controlados que suportem o uso de qualquer um desses agentes, com eficácia
+e segurança, para o tratamento da COVID-19 (McINTOSH, et al. 2020). No Brasil, a atenção
+voltou-se de forma enfática à cloroquina/hidroxicloroquina, cujo uso off-label tem sido
+observado na prática (PACHECO et al., 2020) e, mais recentemente, para a ivermectina.
+
+Atualmente, em diversos municípios de diferentes estados do Brasil, tem sido relatada a
+distribuição dos chamados “KIT-COVID”, que se tratam de kits de medicamentos para serem
+usados como profilaxia ao contágio e/ou aos primeiros sintomas da infecção pelo novo
+coronavírus (SARS-CoV-2). Os kits tem composição variável, sendo que os medicamentos
+incluídos com mais frequência são: cloroquina ou hidroxicloroquina, ivermectina, azitromicina,
+predinisona (ou outro corticosteroide). Além da variação de combinação de medicamentos que
+compõem o “KIT-COVID”, também é variável a posologia e as orientações de uso.
+
+Em Porto Feliz, município do Estado de São Paulo, o “KIT-COVID”, distribuído pela prefeitura para
+população que apresentou sintomas iniciais da doença, é composto por hidroxicloroquina,
+azitromicina, anti-inflamatório e remédio para náusea (WERNECK, 2020). O prefeito de Aruanã
+(GO), encaminhou equipe da Secretaria Municipal de Saúde para avaliar a iniciativa de Porto Feliz
+(SP) e não descarta a possibilidade de distribuição destes medicamentos para novos casos ou
+para população como prevenção (LIMA, 2020).
+
+O governo estadual do Mato Grosso adquiriu grande quantidade dos medicamentos que
+compõem o “KIT-COVID” para distribuir aos 141 municípios do estado, com o objetivo de
+favorecer o tratamento precoce dos pacientes de COVID-19. A estratégia visa a disponibilização
+dos medicamentos na Atenção Básica, Unidades de Pronto-Atendimento (UPAS) e policlínicas do
+estado, com vista ao tratamento precoce desses pacientes (G1 MT, 2020).
+
+Na prefeitura de Nova Crixás, o kit é composto por azitromicina, prednisona, albendazol,
+nitazoxanida. E tem o objetivo de amenizar os sintomas nos pacientes com teste positivo para
+COVID-19. O paciente escolhe se faz o uso da medicação ou não e, caso queira, a
+Hidroxicloroquina também é disponibilizada. Neste caso o paciente deve se responsabilizar
+quantos os possíveis efeitos colaterais e assinar o Termo de Consentimento Livre e Esclarecido
+(TCLE) disponibilizado pelo médico (PREFEITURA DE CRIXÁS, 2020).
+
+ 
+
+  
+
+GOVERNO DO ESTADO
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+Além das iniciativas estruturas pelos entes públicos, circula abundantemente nas redes sociais
+receitas médicas, protocolos, orientações em áudio e vídeo; acerca do uso de diferentes
+medicamentos, isolados ou em associação, para prevenção do contágio e/ou para tratamento
+precoce da infecção pelo SARS-CoV-2. Exemplo disso, circulou nas redes sociais iniciativa popular
+de distribuição gratuita de Ivermectiva em Aparecida de Goiânia (GO). Receitas de diferentes
+instituições (excluindo o nome do paciente e do médico) também circulam em grupos de
+Whatsapp disseminando a cultura da automedicação por repetição de receita, que, por si só, já
+apresenta um grande risco para saúde.
+
+É fundamental ressaltar que diversas entidades científicas e associações médicas fazem eco ao
+posicionamento do Conselho Federal de Medicina (CFM): “não existem evidências robustas de
+alta qualidade que possibilitem a indicação de uma terapia farmacológica específica para a
+COVID-19” (BRASIL, 2020). E quanto aos medicamentos comumente vinculados ao KIT-COVID, é
+importante lembrar que não se tratam de medicamentos inócuos, mas sim de medicamentos
+que possuem efeitos adversos, incluindo a possibilidade de efeitos graves, registrados em bula, a
+qual faz parte do registro destes medicamentos junto a Agência Nacional de Vigilância Sanitária
+(ANVISA).
+
+CLOROQUINA (CQ) OU HIDROXICLOROQUINA (HCQ)
+1. Informações da bula para o profissional de saúde registrada junto à ANVISA CQ (FIOCRUZ,
+2019) e HCQ (EMS, 2018):
+
+a. O uso do medicamento, em doses habituais, pode estar associado a efeitos adversos: no
+Sistema Nervoso Central, cardiovasculares, digestivos, hematológicos, dermatológicos,
+renais, entre outros.
+
+b. Eventos mais comuns: transtorno da acomodação visual, visão turva, cefaleia, fadiga,
+nervosismo, ansiedade, apatia, irritação gastrointestinal, náuseas, vômitos, estomatite,
+prurido, coloração azul-escuro da boca, pele e unhas, branqueamento dos cabelos,
+queda de cabelos, exantema cutâneo, opacidade da córnea, ataque agudo de porfiria e
+psoríase em pessoas susceptíveis.
+
+c. Apesar de relatados como raros, chamam atenção, devido à possível gravidade:
+depressão e estimulação psíquica, neurite periférica, neuromiopatia; alterações do
+eletrocardiograma, como inversão da onda T e alargamento do complexo QRS, bloqueio
+AV, cardiomiopatia; insuficiência hepática fulminante, anemia | aplástica,
+trombocitopenia, insuficiência renal em pacientes com deficiência de G-6-PD,
+ototoxicidade, entre outros.
+
+d. A bula prevê contraindicações importantes: CQ — para portador de psoríase ou outra
+doença esfoliativa, de porfiria, de epilepsia, de miastenia gravis, de deficiência de
+glicose-6-fosfato-desidrogenase e para pacientes com problemas graves no fígado
+(insuficiência hepática avançada). HCQ — maculopatias/retinopatias.
+
+e. Existe ainda possibilidade de interações medicamentosas e o risco de efeitos tóxicos
+graves e irreversíveis, principalmente associado ao uso prolongado, com altas doses.
+
+f. A bula adverte que a CQ se trata de um fármaco que apresenta estreita margem de
+segurança e uma dose única de 30 mg/kg pode ser fatal. E no caso da HCQ, aponta o
+risco carcinogênico e teratogênico.
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+2. Revisão sistemática que incluiu 11 estudos incluídos que compararam HCQ ou CQ com a
+terapia padrão, em 100.497 adultos hospitalizados com Covid-19, mostrou maior risco de
+qualquer evento adverso com o uso da HCQ quando comparado com a terapia padrão
+(metanálise de 03 estudos randomizados). Os resultados dos estudos de coorte (03),
+também submetidos a metanálise, mostraram que a CQ e a HCQ se associaram a maior
+risco de tontura (um estudo/373 participantes), alteração eletrocardiográfica (um
+estudo/492 participantes), arritmia ventricular (um estudo/84.160 participantes para
+HcQ e um estudo/83.012 participantes para CQ), prolongamento do intervalo QT (um
+estudo/492 participantes) e parada cardiorrespiratória (um estudo/492 participantes)
+(PACHECO et al. 2020).
+
+AZITROMICINA (AZ)
+1. Informações da bula para o profissional de saúde registrada junto à ANVISA (CIMED,
+2020):
+
+a. Efeitos indesejáveis relatados em estudos clínicos ou na experiência pós comercialização
+incluem alterações: sistema sanguíneo e linfático, ouvido e labirinto, gastrintestinais,
+hepatobiliar, pele e tecido subcutâneo, psiquiátricos, cardíacos, entre outros.
+
+b. Apesar de relatados como raros, chamam atenção, devido à possível gravidade:
+disfunção hepática, convulsões, trombocitopenia, palpitações e arritmias incluindo
+taquicardia ventricular e prolongamento QT e Torsades de Pointes, pancreatite, eritema
+multiforme, Pustulose Exantemática Generalizada Aguda (PEGA), síndrome de Stevens
+Johnson (SSJ), Necrólise Epidérmica Tóxica (NET), reações adversas a medicamentos
+com eosinofilia e sintomas sistêmicos (DRESS - Drug Reaction with Eosinophilia and
+Systemic Symptoms), nefrite intersticial, disfunção renal aguda, entre outros.
+
+c. Assim como com qualquer antibiótico é recomendável a constante observação dos
+sinais de crescimento de organismos resistentes, incluindo fungos.
+
+d. Existe ainda possibilidade interações medicamentosas diversas, que podem impactar na
+gravidade dos efeitos adversos.
+
+2. Importante ressaltar que antibióticos não têm indicação em infecções virais e seu uso
+indiscriminado e inadequado favorece a resistência bacteriana (SBI, 2020). Revisão
+sistemática conduzida por grupos de especialistas da Associação de Medicina Intensiva
+Brasileira (AMIB), Sociedade Brasileira de Infectologia (SBI) e Sociedade Brasileira de
+Pneumologia e Tisiologia (SBPT) não encontrou nenhum ensaio clínico randomizado
+avaliando a efetividade de antibacterianos empíricos no paciente com COVID-19 sem
+evidência de infecção bacteriana simultânea. Os estudos analisados apontaram que o
+risco de eventos adversos cardiovasculares da CQ/HCQ, principalmente de arritmias, são
+potencializados quando em associação com AZ (FALAVIGNA et al, 2020).
+
+IVERMECTINA
+1. Informações da bula para o profissional de saúde registrada junto à ANVISA
+(NEOQUÍMICA, 2018):
+a. As reações adversas são, em geral, de natureza leve e transitória, e incluem: aparelho
+digestivo, sistema nervoso central, reações epidérmicas, reações do tipo Mazzotti e
+oftálmicas.
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+b. O tratamento proposto em bula, trata-se de dose única, anual. Em casos individuais,
+mediante avaliação e critério médico, pode-se considerar a repetição da dose em
+intervalo de 3 meses.
+
+c. Sobre dose de repetição a bula deixa registrado que Massi e colaboradores publicaram
+um relato de caso na literatura africana, em 2017, com paciente que apresentou
+encefalopatia, obnubilação e cegueira bilateral; após dose de repetição, 15 dias após a
+dose de 150mcg/Kg.
+
+2. Não foram localizados estudos atuais sobre a segurança em doses superiores à dose
+prevista em bula, nem tão pouco quanto a doses de repetição como proposto por
+algumas das orientações disseminadas, em mídias sociais e veículos não científicos, para
+o uso preventivo a COVID-19. Porém uma revisão de literatura recente aponta que,
+diante dos dados farmacocinéticos disponíveis sobre a ivermectina, a parti de estudos
+com dosagem clinicamente relevantes (150-800 Ig/kg) e excessivas (> 2000 lg/kg) indicam
+que não seria possível atingir, em seres humanos, as concentrações necessárias para ação
+inibitória ao SARS-CoV-2. De forma que não há nenhuma justificativa científica plausível
+para a inclusão desta droga em protocolos terapêuticos de COVID-19 (MOMEKOV e
+MOMEKOVA, 2020).
+
+PREDINISONA
+1. Informações da bula para o profissional de saúde registrada junto à ANVISA (GERMED,
+2018):
+
+a. As reações adversas dos corticosteroides são relacionadas com a dose duração do
+tratamento, e podem incluir reações: hidroeletrolíticas, osteomusculares,
+gastrintestinais, dermatológicas, neurológicas, endócrinas, oftálmicas, metabólicas,
+psiquiátricas, entre outras.
+
+b. Chamam atenção, devido à possível gravidade: insuficiência cardíaca congestiva em
+pacientes suscetíveis, hipertensão, agravamento dos sintomas de miastenia gravis,
+necrose asséptica da cabeça do fêmur e do úmero, úlcera péptica com possível
+perfuração e hemorragia, pancreatite convulsões, aumento da pressão intracraniana
+com papiledema (pseudotumor cerebral) geralmente após tratamento, manifestação de
+diabetes mellitus latente, aumento da necessidade de insulina ou hipoglicemiantes orais
+em pacientes diabéticos catarata subcapsular posterior, aumento da pressão
+intraocular, glaucoma, insuficiência suprarrenal ou hipofisária secundária, pode levar
+supressão do crescimento fetal ou infantil, entre outros.
+
+c. Superdoses não apresentam risco de resultados nocivos, exceto em casos de
+contraindicações especificas, como em pacientes com diabetes mellitus, glaucoma ou
+úlcera péptica ativa, ou em pacientes que estejam fazendo uso de medicamentos como
+digitálicos, anticoagulantes cumarínicos ou diuréticos depletores de potássio.
+
+d. A bula recomenda que os pacientes não deverão ser vacinados durante o tratamento
+com corticosteroides, pelos possíveis riscos de complicações neurológicas e ausência de
+resposta de anticorpos. Além disso, os corticosteroides podem mascarar alguns sinais de
+infecção, dificultando ou retardando a identificação e diagnóstico.
+
+ 
+
+E
+Rai?
+
+SUS Secretaria de
+
+Somos todos
+GOIAS
+
+   
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+2. Existem evidências de que corticosteroides podem retardar a negativação viral. Assim,
+glicocorticosteroides devem ser evitados nos primeiros 7 a 10 dias do início dos sintomas
+de COVID-19, período em que a resposta viral é relevante (FALAVIGNA et al, 2020). A
+automedicação e o uso preventivo de corticoides para COVID-19 não devem ser
+utilizados, pois podem causar efeitos colaterais (SBI, 2020).
+
+No cenário de uma pandemia, o processo médico de decisão clínica, usualmente guiado por uma
+abordagem racional e baseada em evidência, torna-se emocional. Embora compreensível, isso
+pode levar a excesso de uso de medicação off label, aumentando o risco e ocorrências de
+eventos adversos. Assim a Associação de Medicina Intensiva Brasileira (AMIB), Sociedade
+Brasileira de Infectologia (SBI) e Sociedade Brasileira de Pneumologia e Tisiologia (SBPT) reuniu
+27 especialistas (incluindo médicos especialistas de infectologia, medicina interna, pneumologia
+e terapia intensiva; farmacêuticos; epidemiologistas e especialistas em saúde pública) para
+elaboração de uma diretriz, com objetivo de guiar os profissionais de saúde no processo de
+decisão clínica baseada na melhor evidência disponível. Sinteticamente, as recomendações do
+grupo foram as seguintes (FALAVIGNA et al, 2020):
+
+1. Não utilizar hidroxicloroquina ou cloroquina de rotina no tratamento da COVID-19
+(recomendação fraca, nível de evidência baixo)
+
+2. Não utilizar a combinação de hidroxicloroquina ou cloroquina e azitromicina de rotina no
+tratamento da COVID-19 (recomendação fraca, nível de evidência muito baixo)
+
+3. Não utilizar oseltamivir no tratamento da COVID-19, em pacientes sem suspeita de
+infecção por influenza (recomendação forte, nível de evidência muito baixo)
+
+4. Utilizar tratamento empírico com oseltamivir em pacientes com síndrome respiratória
+aguda grave, ou em sindrome gripal com fatores de risco para complicações, onde não se
+possa descartar o diagnóstico de influenza (recomendação fraca, nível de evidência muito
+baixo)
+
+5. Não utilizar lopinavir/ritonavir de rotina no tratamento da COVID-19 (recomendação
+fraca, nível de evidência baixo)
+
+6. Não utilizar glicocorticosteroides de rotina em pacientes com COVID-19 (recomendação
+fraca, nível de evidência muito baixo)
+
+7. Não utilizar tocilizumabe de rotina no tratamento da COVID-19 (recomendação fraca,
+nível de evidência muito baixo)
+
+8. Utilizar profilaxia para tromboembolismo venoso de rotina em pacientes hospitalizados
+com COVID-19 (recomendação forte, nível de evidência muito baixo)
+
+9. Não utilizar heparinas em dose terapêutica de rotina no tratamento da COVID-19
+(recomendação fraca, nível de evidência muito baixo)
+
+10. Não utilizar antibacterianos profilático em pacientes com suspeita ou diagnóstico da
+COVID-19 (recomendação fraca, nível de evidência muito baixo)
+
+11. Utilizar antibacterianos em pacientes com COVID- 19, com suspeita de co-infecção
+bacteriana (recomendação não graduada)
+
+Diante das recomendações, observa-se que os medicamentos, mais comumente incluídos no KIT-
+COVID não são recomendados para uso rotineiro no tratamento, nem tão pouco profilático.
+Antiparasitários não fez parte das análises do grupo, mas foram incluídos pela SBI, em sua
+publicação de 30 de junho de 2020. Sobre a ivermectina a SBl apontou que, embora
+hajam evidências in vitro, não há comprovação de eficácia e segurança do
+
+ 
+
+  
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+uso de tais medicamentos em seres vivos, para o tratamento de COVID-19 (SBI, 2020).
+
+Considerando o dinamismo com que as informações vem sendo alteradas, a SBI acrescentou, em
+30 de junho, informações mais recentes que reforçam o posicionamento de consenso supra
+apresentado (SBI, 2020):
+
+e CQe HCQ-o uso em profilaxia pós-exposição, ainda não demonstrou benefício. Seu uso
+no tratamento da COVID-19 nos primeiros dias de doença, em casos de COVID-19 leve e
+moderada, está sendo avaliado e se aguardam os resultados. Conforme relatório
+preliminar, de um grande estudo randomizado com grupo controle (Estudo RECOVERY) a
+HcQ também não teve benefício para pacientes hospitalizados.
+
+e Corticoides — Relatório preliminar (Estudo RECOVERY), demonstrou que o corticoide
+dexametasona aumenta a sobrevida em pacientes com COVID-19 grave que necessitam
+de oxigênio suplementar ou ventilação mecânica. Todavia não devem ser utilizados na
+preveção e nas formas leves ou moderadas da COVID-19 (sem indicação de
+oxigenioterapia), pois não há evidências de benefício nesses casos.
+
+Por fim, alguns KIT-COVID também incluem vitaminas e suplementos alimentares, muito comuns
+em auto prescrições. A SBI ressalta não haver benefícios comprovados quanto ao uso de
+vitaminas C ou D, nem zinco; exceto em pacientes que apresentam hipovitaminose ou carência
+mineral (SBI, 2020).
+
+Orientações sem evidência científica colocam em risco a saúde da população brasileira. O uso
+de qualquer medicamento fora de sua indicação aprovada (off-label) deve ser uma decisão
+individual do médico, analisando caso a caso e compartilhando os possíveis benefícios e riscos
+com o paciente (SBI, 2020). Além disso, é vedado ao médico a publicidade sobre tal conduta, de
+acordo com Código de Ética Médica, capítulo de Publicidade Médica: “Art. 113. Divulgar, fora do
+meio científico, processo de tratamento ou descoberta cujo valor ainda não esteja
+expressamente reconhecido cientificamente por órgão competente” (CFM, 2018).
+
+REFERÊNCIAS
+
+BRASIL. Conselho Federal de Medicina. Parecer CFM n 4 de 16 de abril de 2020a. Acessado em 22
+de maio de 2020.
+
+CFM. Conselho Federal de Medicina. Resolução CFM nº 2.217, de 27 de setembro de 2018.
+CIMED. Azitromicina Comprimido Revestido 500mg. Bula para o profissional de saúde. 2020
+[internet]. Acessado em 08 de julho de 2020.
+
+CRIXÁS. Prefeitura. KIT de medicamentos distribuídos pela prefeitura com intuito de amenizar os
+sintomas da COVID-19. [internet]. Acessado em 08 de julho de 2020.
+
+EMS. Sulfato de Hidroxicloroquina Comprimido Revestido 400mg. Bula para o profissional de
+saúde. 2018 [internet]. Acessado em 08 de julho de 2020.
+
+FALAVIGNA M. et al. Diretrizes para o Tratamento Farmacológico da COVID-19. Consenso da
+Associação de Medicina Intensiva Brasileira, da Sociedade Brasileira de Infectologia e da
+Sociedade Brasileira de Pneumologia e Tisiologia. Revista Brasileira de Terapia Intensiva. 2020.
+FIOCRUZ. Farmanguinhos Cloroquina Comprimido 150mg. Bula para o profissional de saúde.
+2019 [internet]. Acessado em 08 de julho de 2020.
+
+G1 MT. Governo compra lotes de “kit-covid” para distribuir aos 141 municípios do
+
+MT. G1 Mato Grosso [internet]. Acessado em 08 de julho de 2020. id
+SES
+
+E
+SUS Sis:
+mn
+
+ 
+
+Somos todos
+
+Sata COLAS
+
+ 
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+GERMED. Prednisona Comprimidos de 5mg a 20mg. Bula para o profissional de saúde. 2018
+[internet]. Acessado em 08 de julho de 2020.
+
+LIMA C. Aruanã pode usar kit de medicamentos sem eficácia sem eficácia comprovada para
+COVID. O Popular [internet]. Acessado em 08 de julho de 2020.
+
+McINTOSH, K.; HIRSCH, M.S.; BLOOM, A. Coronavirus disease 2019 (COVID-19). UpToDate. 2020.
+
+MOMEKOV G., MOMEKOVA D. Ivermectin as a potential COVID-19 treatment from the
+pharmacokinetic point of view: antiviral levels are not likely attainable with known dosing
+regimens. Biotechnology & Biotechnological Equipment. 2020.
+
+NEOQUÍMICA. Ivermectina Comprimido 6mg. Bula para o profissional de saúde. 2018 [internet].
+Acessado em 08 de julho de 2020.
+
+SBI. Informe da Sociedade Brasileira de Infectologia sobre o novo coronavírus no 15: uso de
+medicamentos para COVID-19. 2020 [internet]. Acessado em 09 de julho de 2020.
+
+WERNECK N. Kit COVIDO19 distribuído no interior de SP não tem eficácia, diz especialista. Estado
+de Minas Nacional [internet]. Acessado em 08 de julho de 2020.
+
+ 
+
+E
+Rai?
+
+E SES
+SUS quis as
+E Saúde Gol AS
+
+ 
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+A HIDROXICLOROQUINA É EFICAZ E SEGURA NO TRATAMENTO DA COVID-19?
+
+ 
+
+Elaborado por: Alessandra Lima (CD, Msc, PhD)
+Revisado por: Luciana Vieira (Ft, Msc, PhD)
+28 de maio de 2020
+
+Desde dezembro de 2019, quando foram noticiados os primeiros casos de infecção por SARS-
+Cov-2 (COVID-19) na China continental (Wuhan, província de Hubei), pesquisas têm sido
+conduzidas para testar opções terapêuticas para o tratamento e a prevenção desta doença,
+assim como prevenção de suas complicações.
+
+Vários agentes farmacológicos estão sendo explorados para o tratamento antiviral do COVID-19.
+O registro internacional de ensaios clínicos pode ser encontrado no site da OMS e no
+clinicaltrials.gov. Certos agentes farmacológicos estão sendo utilizados a partir de descrição em
+séries observacionais ou com base em evidências in vitro ou extrapoladas. É importante frisar
+que não há dados controlados que suportem o uso de qualquer um desses agentes, e sua
+eficácia para o COVID-19 é desconhecida (McINTOSH, et al. 2020). No Brasil, a atenção voltou-se
+de forma enfática à cloroquina/hidroxicloroquina, cujo uso off-label tem sido observado na
+prática (PACHECO et al., 2020), e tornou-se alvo de debates políticos e populares.
+
+O Conselho Federal de Medicina (CFM), aponta que “não existem evidências robustas de alta
+qualidade que possibilitem a indicação de uma terapia farmacológica específica para a COVID-
+19”. Mas, diante da excepcionalidade da situação declara não ser infração ética a utilização da
+cloroquina ou hidroxicloroquina, no tratamento da COVID-19, no período da pandemia. Desde
+que a decisão seja baseada em critério médico e compartilhada com o paciente. É necessário que
+se obtenha assinatura do Consentimento Livre e Esclarecido, que explique ao paciente ou
+familiares (quando for o caso) que não existe, até o momento, nenhum estudo que comprove o
+benefício do uso da droga para o tratamento da COVID 19; bem como os efeitos colaterais
+possíveis (BRASIL, 2020a).
+
+Em abril de 2020, analisando o protocolo do Hospital da Faculdade de medicina de Ribeirão
+Preto da Universidade de São Paulo (USP), para o tratamento farmacológico dos casos
+internados com SARS-COV-2 (figura 01); a equipe técnica do Ministério da Saúde concluiu que:
+
+As referências utilizadas para elaboração da proposta explicam acerca da tempestade
+inflamatória que ocorre na COVID-19 e sua semelhança à sHLH (síndrome hemofagocítica
+secundária linfo-histocitose), contudo, a proposta pouco fala sobre o rastreamento e a conduta
+de tratamento da hiperinflamação.
+
+A hidroxicloroquina e a cloroquina são tratamento promissores, sendo encontrados 25 estudos
+em andamento no ClinicalTrials.gov, mas é necessária precaução, sobretudo se forem
+considerados o baixo nível de evidências atualmente disponível e os possíveis eventos adversos
+do uso dos medicamentos.
+
+Ressalta-se que a bula da cloroquina não indica o uso concomitante da heparina devido a
+possíveis eventos adversos, como trombocitopenia.
+
+Também foram encontrados estudos envolvendo o tocilizumabe e a
+imunoglobulina, mas sem resultados conclusivos. (BRASIL, 2020b)
+
+sus
+
+ 
+
+Secretaria de
+Estado da
+Saúde
+
+  
+
+GOVERNO DO ESTADO
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+ESTÁGIO TRATAMENTO PRO
+
+ 
+
+ 
+
+Estágio Repouso e alívio dos sintomas.
+a Hidrodidoroquina 400 mg ou Cloroquina 250 mg;
+Estagio Heparina sódica.
+Hidrosicioroquina U lima 400 mg ou Cloroquina 250 mg;
+. denari di
+Estágio Dexametasona;
+Imunoglobulina & humana;
+Tocilizumabe.
+
+ 
+
+ 
+
+ 
+
+Figura 01 — Estágios da SARS-COV-2 e os tratamentos propostos pelo Hospital das Clínicas
+de Ribeirão Preto (BRASIL, 2020b)
+
+No que se refere aos Guidelines publicados por diversas organizações de saúde, com objetivo de
+auxiliar profissionais de saúde na tomada de decisão e atualizados conforme surjam novas
+evidências científicas; em abril, foi elaborado pelo MS um documento sintetizando as principais
+recomendações de guidelines internacionais para o enfrentamento da COVID-19, quais sejam:
+The National Institute for Health and Care Excellence (NICE — Reino Unido), Centers for Disease
+Control and Prevention (CDC — Estados Unidos), Organização Mundial de Saúde (OMS), Comissão
+Nacional da Saúde da China, Agência de Saúde Pública do Canadá, Infectious Disease Society of
+America, International Global Initiative for Asthma (GINA), Guidelines for Critical Care of Seriously
+HI Adult Patients with Coronavirus (COVID-19) in the Americas (BRASIL, 2020c).
+
+Tratando do uso da cloroquina ou hidroxicloroquina, o referido documento cita (BRASIL, 2020c):
+
+e O Chinese Clinical Guidance for COVID-19 Pneumonia Diagnosis and Treatment
+publicado pela Comissão Nacional de Saúde da China que recomenda: “a terapia
+antiviral com ilnterferon-alfa e lopinavir/ritonavir. Outros antivirais também podem
+ser experimentados, como a ribavirina, a cloroquina e o abidol”.
+
+e Infectious Disease Society of America, a partir de um painel de especialistas,
+recomenda o uso de hidroxicloroquina/cloroquina unicamente no contexto de um
+ensaio clínico (lacuna do conhecimento); tanto para pacientes internados como para
+pacientes admitidos em hospital com COVID-19.
+
+Considerando a velocidade de evolução da pandemia e quantidade de publicações e estudos que
+tem surgido, com qualidade metodológica variável; o MS atualiza as evidências descritas na
+literatura internacional sobre a COVID-19, resumindo cada estudo identificado e também
+avaliando a qualidade metodológica dos mesmos, publicando Informes Diários de Evidências.
+Ressalta-se que a avaliação da qualidade metodológica é essencial, pois aponta para o grau de
+confiança de uma pesquisa. Analisou-se os Informes Diários de Evidências, da primeira quinzena
+do mês de maio, que traziam estudos sobre a cloroquina e/ou a hidroxcloroquina no tratamento
+da infecção pelo SARS-COV-2. Neste período foram publicados 08 informes diários de evidências,
+todos eles incluíam publicações que abordavam o uso da cloroquina (CQ) e/ou hidroxicloroquina
+(HCQ) no tratamento da COVID-19, totalizando 43 publicações sobre o tema. Nenhuma das
+publicações abordadas apresentou resultados conclusivos quanto ao uso das drogas em questão.
+
+ 
+
+EE
+Rai?
+
+E SES
+SUS quis as
+E Saúde GOIAS
+
+ 
+
+ 
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+Utilizando-se a classificação metodológica proposta em tais publicações ministeriais distribuiu-se
+aquelas que tratavam da CQ e HCQ por classes de estudos, conforme a pirâmide de evidências
+(Figura 02). Os aspectos tratados nas sínteses do MS estão apresentados no Anexo 01.
+
+A
+
+| Revisões Sistemáticas - 04 ]
+
+Ensaios Clínicos Randomizados - 00
+
+ 
+
+       
+ 
+ 
+ 
+ 
+   
+ 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Figura 02 — Pirâmide de Evidência
+
+Em sequência cronológica, dia 20 de maio de 2020, foi publicado o documento “Orientações do
+Ministério da Saúde para Manuseio Medicamentoso Precoce de Pacientes com Diagnóstico da
+COVID-19”, no qual o Difosfato de Cloroquina (500mg) ou Sulfato de Hidroxiclorogina (400mg)
+associados à Azitromicina (500mg) foram os dois únicos protocolos medicamentosos
+apresentados; para pacientes com sintomas leves, moderados ou graves; sem variação na dose
+indicada (BRASIL, 20204).
+
+Considerando que existe uma dissonância entre as publicações federais, optou-se por buscar
+Revisões Sistemáticas e/ou Revisões Rápidas, para melhor análise. Segundo o Guia Preliminar da
+Cochrane, as Revisões Rápidas são adequadas para: subsidiar a tomada de decisão, abordar
+questões de saúde urgentes e emergentes e de alta prioridade (GARRITTY et al., 2020); estando
+adequadas para a situação atual vivenciada frente a pandemia de SARS-COV-2.
+
+Busca realizada na base Cochrane localizou 04 publicações (Quadros 01, 02, 03, 04), e a busca
+manual, 01 publicação (Quadro 05).
+
+ 
+
+sus
+
+ 
+
+ 
+
+GOVERNO DO ESTADO
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+1. CORTEGIANI et al. 2020 (10 de março de 2020)
+Bases pesquisadas PubMed e EMBASE
+Chinese Clinical Trial Registry, Clinicatrial.gov and the International Clinical Trials
+Registry Platform (WHO ICTRP)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data limite da busca 01 de março de 2020
+
+PICO Não apresentada
+
+Tipo de estudo buscado Nenhuma restrição
+
+Restrição de língua Nenhuma restrição
+
+Número de estudos 06 publicações e 23 estudos registrados em andamento
+incluídos
+
+Conclusões Há evidências que justificam pesquisas clínicas sobre o tema.
+
+Embora sustentado por opinião de especialistas o uso clínico da cloroquina deve ser
+precedido de aprovação ética.
+
+Dados de alta qualidade, provenientes de ensaios clínicos,
+
+são urgentemente necessários.
+
+ 
+
+2. TAO et al. 2020 (17 de março de 2020 - data de registro PROSPERO)
+Bases pesquisadas MEDLINE, PubMed, EMBASE e Cochrane Central Register of Controlled Trials
+(CENTRAL)
+ISRCTN Register, ClinicalTrials.gov, JAPIC Clinical Trials Information, EU Clinical Trials
+Register, China National Knowledge Infrastructure (CNKI), Chinese Biomedical
+Literature Database (CBM), Wanfang, WanFang Data e VIP Database
+Data limite da busca Em andamento
+PICO P- Homens e mulheres, 18 a 75 anos, COVID-19 confirmada por RT-PCR ou CT de
+pulmão, início a no máximo 12 dias.
+I- Fosfato de cloroquina ou sulfato de hidroxicloroquina.
+C- Tratamento padrão conforme guidelines
+O- Tempo de recuperação clínica, negativação de carga viral, tempo de hospitalização
+Tipo de estudo buscado Ensaios controlados randomizados
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Restrição de língua Não apresentada
+Número de estudos Em andamento
+incluídos
+
+Conclusões Em andamento
+
+ 
+
+3. FRIEe GBINIGIE 2020 (25 de março de 2020)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bases pesquisadas Pubmed e Google Scholar
+
+Data limite da busca 21 de março de 2020
+
+PICO Não apresentada
+
+Tipo de estudo buscado Ensaios controlados randomizados
+
+Restrição de língua Não apresentada
+
+Número de estudos Não apresentada
+
+incluídos
+
+Conclusões Há evidências in vitro quanto a habilidade da CQ e HCQ em inibir a atividade do vírus
+
+SARS-COV-2. A evidência de efetividade da CQ e HCQ na COVID-19, oriunda de
+ensaios clínicos in vivo é muito limitada. Quanto aos efeitos adversos, consideram
+ambas as drogas seguras, considerando seu uso clínico de vários anos.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E
+Hdr
+SES
+Secretaria de
+sus Estado da EPA]
+
+ 
+
+a GOIAS
+
+ 
+
+ 
+ 
+
+Subsecretaria de Saúde
+
+Núcleo de Evidências
+
+ 
+
+4. KAPOOR e KAPOOR 2020 (preprint. 30 de março de 2020)
+
+ 
+
+Bases pesquisadas
+
+Pubmed e Google Scholar
+
+ 
+
+Data limite da busca
+
+23 de março
+
+ 
+
+PICO
+
+Não apresentada
+
+ 
+
+Tipo de estudo buscado
+
+Não apresentada
+
+ 
+
+Restrição de língua
+
+Não apresentada
+
+ 
+
+Número de estudos
+incluídos
+
+19 publicações
+
+ 
+
+Conclusões
+
+Há evidência teórica, experimental, pré-clínica e clínica de eficácia da
+hidroxicloroquina e cloroquina em paicentes COVID-19. E há evidencia adquada de
+segurança da droga em outras indicações. São necessários mais dados sobre as drogas
+na COVID-19.
+
+ 
+
+5. PACHECO et al.
+
+2020 (25 de maio de 2020)
+
+ 
+
+Bases pesquisadas
+
+Cochrane Library (via Wiley), EMBASE (via Elsevier), LILACS (via BVS), MEDLINE (via
+PubMed).
+
+ 
+
+Opengrey, Medrxiv e busca manual
+
+ 
+
+ClinicalTrials.gov, International Clinical Trials Register Platform (ICTRP/WHO), que
+inclui entre outros registros o Chinese Clinical Trial Registry
+(http:/Avww.chictr.org.cn).
+
+ 
+
+Data limite da busca
+
+22 de maio de 2020
+
+ 
+
+PICO
+
+P- Pessoas com suspeita (incluindo exposição) ou infecção confirmada por COVID-19
+|- Hidroxicloroquina ou cloroquina
+
+C- Medidas gerais de suporte, placebo, nenhuma intervenção ou qualquer outro
+tratamento ativo.
+
+O- Desfechos de eficácia e segurança detalhados adiante.
+
+ 
+
+Tipo de estudo buscado
+
+ensaios clínicos randomizados, ensaios clínicos quasi-randomizados, ensaios clínicos
+não randomizados, estudos de coorte e estudos caso-controle. Estudos sem um grupo
+comparador não foram considerados.
+
+ 
+
+Restrição de língua
+
+Nenhuma restrição
+
+ 
+
+Número de estudos
+incluídos
+
+119 estudos (11 já publicados e 109 em andamento)
+
+ 
+
+Conclusões
+
+ 
+
+Os estudos sugerem: (a) algum benefício da hidroxicloroquina na redução do tempo
+até a melhora da febre e da tosse, mas não na probabilidade de melhora clínica
+global; (b) maior tempo de permanência em UTI, maior risco de ventilação mecânica,
+maior risco de eventos adversos graves (como arritmia ventricular e parada
+cardiorrespiratória) e de morte associados com a exposição á cloroquina e/ou
+hidroxicloroquina.
+
+Não foi identificado benefício da hidroxicloroquina quanto à negativação da carga
+viral e à melhora do aspecto radiológico. Os efeitos do uso da hidroxicloroquina
+
+ 
+
+ 
+
+quanto ao tempo de hospitalização foram divergentes entre os estudos.
+
+ 
+
+Considerando que apenas duas das referências localizadas apresentaram todos os requisitos
+metodológicos dos protocolos de revisão sistemática ou revisão rápida da Cochrane, e que uma
+delas trata-se de registro de protocolo de pesquisa, ainda sem resultados, discute-se com mais
+ênfase os resultados apresentados por PACHECO et al. (2020). O fato de ser a publicação mais
+recente também é relevante, uma vez que se percebe um aumento diário de publicações sobre o
+
+tema.
+
+Com o objetivo de identificar, avaliar sistematicamente e sumarizar as melhores evidências
+
+científicas disponíveis sobre a eficácia e a segurança da hidroxicloroquina (HCQ) e
+da cloroquina (CQ) para Covid-19; os autores realizaram Revisão
+
+EE
+Rai?
+
+ 
+
+Secretaria de
+Estado da
+Saúde
+
+SUS
+
+ 
+
+GOIAS
+
+ 
+
+ 
+
+ 
+
+Somos todos
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+Rápida, atualizando-a periodicamente. Os estudos incluídos foram submetidos a avaliação
+metodológica e/ou de risco de viés: ROBINS-I (ensaio clínico não randomizado ou quasi-
+randomizado, estudos longitudinais observacionais comparativos (caso-controle e coorte) e
+Tabela de Risco de Viés da Cochrane (ensaio clínico randomizado). Quando possível (resultados
+de estudos homogêneos) foi realizada metanálises dos dados. Foi utilizada a abordagem GRADE
+para avaliar o grau de certeza das evidências (PACHECO et al. 2020).
+
+Os 11 estudos incluídos (03 ensaios clínicos randomizados, 01 ensaio clínico não randomizado,
+01 coorte prospectivo e 06 coortes históricos) compararam HCQ ou CQ com a terapia padrão, em
+100.497 adultos hospitalizados com Covid-19. Os resultados encontrados pelos autores, segundo
+desfecho, estão relatados abaixo (PACHECO et al. 2020).
+
+1. Negativação de carga viral (% de participantes): nesse aspecto foi possível realizar
+metanálise de dois estudos randomizados e não encontrou diferença significativa entre o
+grupo HCQ e o grupo que recebeu terapia padrão, após 7 e 14 dias. Os três estudos
+comparativos não randomizados avaliaram a negativação da carga viral em diferentes
+momentos, impossibilitando a análise quantitativa. Relataram taxa de negativação mais
+elevada no grupo CQ ou HCQ quando comparadas com a terapia padrão.
+
+2. Tempo para negativação da carga viral: foi avaliado por quatro estudos, não foi possível
+a metanálise. Os ensaios clínicos (02) não identificaram diferença entre HCQ e a terapia
+padrão, enquanto os estudos comparativos não randomizados (02) sugeriram um menor
+tempo até a negativação viral com o uso de CQ ou HCQ.
+
+3. Melhora clínica (tempo para melhora clínica, melhora da tosse e melhora da febre):
+esse desfecho foi analisado de formas distintas por dois estudos. Um deles identificou
+menor intervalo de tempo até a melhora da febre e da tosse com o uso da HCQ. O outro
+não encontrou benefícios com o uso da HCQ quanto à proporção de participantes com
+melhora clínica após 28 dias, nem tão pouco no tempo para atingir a melhora clínica.
+
+4. Necessidade de ventilação mecânica: metanálise, de 04 coortes retrospectivos, mostrou
+aumento do risco de ventilação mecânica associado à exposição à HCQ quando
+comparado com a terapia padrão, houve alta heterogeneidade estatística. Um estudo
+avaliou a CQ e mostrou aumento do risco de ventilação mecânica quando comparado
+coma terapia padrão.
+
+5. Progressão radiológica: metanálise, de 02 ensaios clínicos randomizados, não identificou
+diferença entre HCQ e terapia padrão após 3 a 5 dias ou após 14 dias
+
+6. Tempo de hospitalização: 05 estudos observacionais analisaram esse desfecho, mas não
+foi possível realizar metanálise pois os resultados foram apresentados em medianas e
+intervalos interquartil em 03 deles. Os resultados foram inconsistentes, 02 estudos
+sugeriram um benefício e 03 não identificaram qualquer benefício dos medicamentos
+quando comparados a terapia padrão.
+
+7. Tempo de permanência em UTI: Os resultados mostraram, em média, um tempo mais
+longo de permanência em UTI entre os pacientes que usaram CQ e HCQ. Este desfecho
+foi analisado por apenas um estudo (coorte retrospectivo).
+
+8. Eventos adversos: A metanálise dos estudos randomizados (03) mostrou maior risco de
+qualquer evento adverso com o uso da HCQ quando comparado com a terapia padrão. Os
+resultados dos estudos de coorte (03), também submetidos a metanálise,
+mostraram que a CQ e a HCQ se associaram a maior risco de tontura
+
+ 
+
+  
+
+ 
+ 
+
+ 
+
+Subsecretaria de Saúde
+Núcleo de Evidências
+
+(um estudo/373 participantes), alteração eletrocardiográfica (um estudo/492
+participantes), arritmia ventricular (um estudo/84.160 participantes para HCQ e um
+estudo/83.012 participantes para CQ), prolongamento do intervalo QT (um estudo/492
+participantes) e parada cardiorrespiratória (um estudo/492 participantes).
+
+9. Mortalidade: 03 ensaios clínicos randomizados (242 participantes) não observaram
+mortes em nenhum dos grupos durante o período do estudo. A metanálise dos estudos
+não randomizados (05) sobre HCQ identificou um risco aumentado de morte em
+comparação com a terapia padrão, mas com alta heterogeneidade estatística
+(inconsistência). Um estudo não randomizado não foi considerado na metanálise pois
+apresenta incongruências na apresentação dos dados e na análise da mortalidade e está
+sendo revisado pelos autores. Os resultados dos estudos não randomizados sobre CQ (02)
+mostrou aumento da mortalidade associada à exposição ao medicamento
+
+A certeza da evidência, avaliada pela metodologia GRADE, foi considerada “muito baixa” para
+todos os desfechos avaliados, exceto para o tempo de permanência em UTI (baixa). As limitações
+inerentes ao delineamento e a qualidade metodológica (risco alto ou crítico de viés) dos estudos
+reduzem muito a confiança em todos os resultados apresentados (PACHECO et al. 2020).
+
+REFERÊNCIAS
+
+BRASIL. Conselho Federal de Medicina. Parecer CFM n 4 de 16 de abril de 2020a. (acessado em 22 de maio de 2020)
+BRASIL. Ministério da Saúde. Nota Técnica — Tratamento farmacológico para casos internados com SARS-COV-2, do
+Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo. 2020b. (acessado
+em 22 de maio de 2020)
+
+BRASIL. Ministério da Saúde. Boletim Informativo — Guidelines. 2020c. (acessado em 22 de maio de 2020)
+
+BRASIL. Ministério da Saúde. Orientações do Ministério da Saúde para manuseio medicamentoso precoce de
+pacientes com diagnóstico da COVID-19. 2020d. (acessado em 22 de maio de 2020)
+
+BRASIL. Departamento de Ciência e Tecnologia. Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos
+em Saúde. Ministério da Saúde. Informe Diário de Evidências — COVID-19 (15 de maio de 2020). 2020.
+
+CORTEGIANI A. et al. A Systematic Review on the Efficacy and Safety of Chloroquine for the Treatment of COVID-19.
+Epub 2020.
+
+FRIE K, GBINIGIE K. Chloroquine and hydroxychloroquine: Current evidence for their effectiveness in treating COVID-
+19. CEBM. 2020.
+
+GARRITTY C. etal. Cochrane Rapid Reviews. Interim Guidance from the Cochrane Rapid Reviews Methods Group.
+2020.
+
+McINTOSH, K.; HIRSCH, M.S.; BLOOM, A. Coronavirus disease 2019 (COVID-19). UpToDate. 2020.
+
+OLIVEIRA H.C. etal. Nota Técnica 01 COVID-19. Hospital Universitário Júlio Múller / Universidade Federal do Mato
+Grosso. 2020.
+
+PACHECO RL. et al. Hidroxicloroquina e cloroquina para COVID-19. Revisão sistemática rápida. 2020 (acessado em 28
+de maio de 2020).
+
+TAO Letal. Efficacy and safety of chloroquine and hydroxychloroquine in the treatment of novel coronavirus
+pneumonia 2019. PROSPERO 2020. (acessado em 22 de maio de 2020)
+
+ 
+
+E
+Rai?
+
+Secretaria de
+Estado da Somos todos
+
+a GOIAS
+
+sus
+
+  
+
+ 
+Subsecretaria de Saúde
+Gerência de Informações Estratégicas
+em Saúde CONECTA-SUS
+
+ 
+
+ 
+
+Uma resposta a ser alcançada durante a pandemia da COVID-19 é qual terapia medicamentosa a
+ser utilizada de forma exitosa e sem comprometer a saúde do paciente. Desde o surgimento dos
+primeiros casos, cientistas do mundo inteiro têm elaborado estudos de novos medicamentos ou
+de reaproveitamento de medicamentos que combata o vírus da COVID-19 ou, pelo menos,
+minimize os danos causados pela doença. No entanto, mesmo após vários estudos, os cientistas
+estão divididos entre aqueles que apoiam o uso de determinados fármacos para impedir o
+agravamento da doença ou até mesmo a contaminação pelo vírus (o chamado “kit-covid”) e
+aqueles que afirmam ser uma falácia o uso de tais medicamentos e que o uso dos mesmos pode
+inclusive comprometer ainda mais a saúde do paciente.
+
+Os principais fármacos pesquisados para o tratamento precoce da COVID-19 são:
+
+ 
+
+TRATAMENTO PRECOCE DA COVID-19
+
+Valéria Florêncio (Enf, Esp), Péricles Dourado (BM, Misc)
+Luciana Vieira (Ft, Msc, PhD), Alessandra Lima (CD, Msc, PhD)
+31 de março de 2021
+
+Ivermectina — indicada para o tratamento de infecção por parasitas como a
+estrongiloidíase intestinal, oncocercose, filariose (elefantíase), escabiose (sarna),
+pediculose (infestação de piolho) e ascaridíase. As reações adversas mais comuns são
+diarréia, náusea, falta de disposição, dor abdominal, falta de apetite, constipação e
+vômitos, no entanto em situação de superdosagem o paciente pode apresentar ataques
+convulsivos, alteração do equilíbrio, dispneia e alterações na sensibilidade (ABBOTT,
+2021). De acordo com Alam et al (2020), esta droga já apresentou eficácia satisfatória
+contra vírus de ácido ribonucléicos (RNA) como da Zika, influenza A, febre amarela e
+outros, assim como contra vírus de ácido desoxirribonúcleico (DNA) como o parvovírus e
+o herpes vírus bovino.
+
+Cloroquina ou Hidroxicloroquina — medicamento de uso oral, com efeito acumulativo é
+indicado para tratamento de afecções reumáticas e dermatológicas, artrites reumátoide
+e lúpus eritematoso sistêmico ou discoide e tratamento da malária. Reações adversas
+muito comuns ou comuns do uso deste fármaco são o aparecimento de dores
+abdominais, diarreia, náuseas, vômitos, visão turva, cefaleia, perda do apetite, mudança
+rápida do humor, erupção cutânea e prurido. Seu uso prolongado pode provocar
+retinopatias, mesmo em doses terapêuticas. A superdosagem pode levar a choque
+cardiovascular, convulsões, hipocalemia, hipoglicemia, alterações do ritmo e condução
+cardíaca (prolongamento do intervalo QT, arritmias, taquicardia ventricular, bloqueio
+atrioventricular), parada cardíaca e respiratória e morte súbita (EMS, SD).
+
+ 
+
+Hr
+EE
+
+   
+  
+
+é por
+
+SES
+Secretaria de Estado Sor
+QUE A
+
+REGAR Goss::
+
+ 
+
+ 
+ 
+
+Subsecretaria de Saúde
+Gerência de Informações Estratégicas
+em Saúde CONECTA-SUS
+
+e Corticóides — as drogas desta categoria mais utilizados são a predinisona e a
+dexametasona.
+
+Y Predinisona — indicada principalmente para doenças osteomusculares,
+dermatológicas, alérgicas, oftálmicas, respiratórias, hematológicas e distúrbios
+do colágeno, promovendo um efeito anti-inflamatório, antireumático e
+antialérgico. Entre os males mais comuns provocados pelo uso da medicação
+estão alterações eletrolíticas (retenção de sódio, perda de potássio, aumento
+da pressão arterial), alterações osteomusculares (fraqueza muscular, perda de
+massa muscular, osteoporose), alterações gastrointestinais (hemorragia
+gástrica, distensão abdominal), entre outras. A retirada rápida do uso da
+medicação pode provocar insuficiência da suprarrenal (ACHÉ, 2017).
+
+Y | Dexametasona — tem ação anti-inflamatória, indicada para doenças alérgicas,
+articulares (reumáticas/artrites), pulmonares, entre outras. É contra indicada
+para infecções fúngicas. O uso prolongado pode provocar imunossupressão.
+Alguns dos males que podem aparecer com seu uso são retenção de líquido,
+retenção de sódio, hipocalemia, hipertensão arterial, hipersudorese,
+formigamento, convulsões, vertigem, cefaleia, entre outros (FRESENIUS KABI,
+2021).
+
+e aAzitromicina — antibiótico indicado para infecções do trato respiratório superior
+(sinusite, faringite) e inferior (bronquite e pneumonia bacterianas), afecções da pele e
+tecidos moles, otite média, infecções genitais (cancro mole, clamídia, gonorréia e sífilis).
+Os efeitos indesejados podem ser a diarreia, vômitos, desconforto abdominal, dispepsia,
+hepatite medicamentosa, cefaleia, convulsões, astenia e mal-estar geral (EUROFARMA,
+2016)
+
+€ Antivirais (AV) - Os principais AV testados contra a COVID 19 são o rendesivir, lopinavir e
+ritonavir.
+
+YO rendesivir é um medicamento experimental utilizado inicialmente para a
+doença ebola e testado para a COVID — 19. A principal reação adversa
+encontrada até o momento foi o aumento das transaminases, seguido de
+cefaleia, náuseas e erupções cutâneas. Todos os estudos realizados para
+determinar as interações medicamentosas foram in vitro. Não há estudo
+suficiente sobre sua ação e reações adversas no período gestacional ou de
+amamentação. Não foram avaliados a farmacocinética da droga no
+comprometimento hepático e renal e nem em populações específicas por sexo,
+idade e raça. Esta medicação não deve ser utilizada concomitantemente com a
+Cloroquina ou Hidroxicloroquina (EC, 2020).
+
+Y”. Lopinavir/ritonavir — inibidor da protease que controla a quantidade de vírus
+circulante no organismo e aumenta o número de células de defesa. Esta droga é
+indicada, em combinação com outras drogas, para o tratamento da infecção do
+
+vírus da Imunodeficiência Humana (HIV). As reações adversas mais comuns são:
+E
+
+E
+E e
+SES
+Secretaria de Estado [vocÊ
+
+REGAR Goss::
+
+ 
+
+  
+  
+
+sus
+
+ 
+
+ 
+
+ 
+ 
+
+Subsecretaria de Saúde
+Gerência de Informações Estratégicas
+em Saúde CONECTA-SUS
+
+diarreia, náuseas e infecções do trato respiratório superior (ABBVIE BRASIL,
+2020).
+
+e Interferon beta-la — indicado no tratamento de esclerose múltipla ou eventos de
+desmielinização. Contraindicado a pacientes com depressão severa,
+pensamentos/ideação suicida, gestantes, lactantes e menores de 12 anos. As reações
+adversas muito comuns e comuns são: cefaleia, mialgia, calafrios, febre, perda de
+apetite, astenia, insônia, depressão, rubor, coriza, diarreia, náuseas, vômitos, dormência
+ou formigamento da pele, erupções cutâneas, hematomas, rigidez muscular e articular.
+Alguns pacientes podem apresentar alterações hepáticas (BIOGEN, 2017).
+
+No intuito de atualizar o andamento dos estudos sobre o tratamento precoce da COVID-19 foi
+feito uma revisão bibliográfica nas principais revistas médicas especializadas, bibliotecas virtuais
+(PubMed, Biblioteca Virtual em Saúde e Scielo), além de órgãos governamentais (OPAS, OMS,
+FDA) e centros especializados (CDC), entre outros. Foram encontrados 38 estudos, sendo que
+apenas 17 estudos estavam publicados com resultados, pelo menos preliminares, da fase 3.
+Assim aqui é apresentado um resumo dos resultados das principais pesquisas, sejam os mesmos
+a favor ou contra o tratamento precoce da doença.
+
+Um estudo observacional realizado com 118 profissionais da saúde em um hospital na cidade
+Dhaka (Bangladesh), sendo 60 do grupo controle e 58 do grupo experimental, chegou a
+conclusão que o uso mensal de 12mg de ivermectina durante 4 meses reduz significativamente a
+contaminação dos profissionais pelo coronavírus (SARS-CoV-2), sendo a infecção no grupo
+controle de 73,3% e no grupo experimental de 6,9%. Apesar do resultado positivo, o próprio
+estudo conclui que devido a pequena amostra, os resultados não podem ser generalizados e
+estudos em larga escala devem ser realizados para verificar a eficácia da droga como uma
+profilaxia para o contágio do SARS-CoV-2 (ALAM et al., 2020).
+
+Estudo semelhante realizado por Ahmed et al. (2021) testou por um período de 5 dias o uso da
+ivermectina e ivermectina + doxiciclina em pacientes com COVID-19. Os pacientes que usaram o
+placebo negativaram a carga viral em média de 12,7 dias, os que usaram somente a ivermectina
+em 9,7 dias e a combinação ivermectina/doxicilina em 11,5 dias. Os autores afirmar que a
+ivermectina é eficaz, no entanto há necessidade de ensaios clínicos maiores para confirmar os
+resultados.
+
+A FDA (2021) proibiu o uso de ivermectina para o tratamento humana da COVID-19 alegando que
+esta droga não é um antiviral e deve ser usado, nas doses recomendadas para humanos, no
+tratamento contra parasitas. A agência alerta que a overdose pode provocar danos como ataxia,
+bradipneia, ptose, redução de atividade, midríase, coma e morte.
+
+ 
+
+Hr
+EE
+
+   
+  
+
+sES
+Secretaria de Estado [você
+ave
+
+REGAR Goss::
+
+ 
+
+ 
+
+ 
+ 
+
+Subsecretaria de Saúde
+Gerência de Informações Estratégicas
+em Saúde CONECTA-SUS
+
+Baseada nas evidências mais recentes, a Agência Europeia de Medicamentos — EMA, também se
+posicionou contrária ao uso da ivermectina para o tratamento da COVID-19. Segundo a agência,
+apesar de estudos laboratoriais indicarem que esta droga pode bloquear a replicação do SARS-
+CovV-2, esta ação só foi observada quando foram usadas concentrações de ivermectina muito
+maiores do que aquelas autorizadas para os seus usos já estabelecidos, fato que traz um risco
+muito alto de toxicidade para o paciente (EMA, 2021).
+
+Estudo realizado em Dallas que levou em consideração as bases fisiológicas, demonstra que o
+paciente pode receber tratamento ambulatorial eficaz baseado em cinco princípios: redução da
+transmissão, uso de terapia antiviral combinada, terapia antitrombótica, uso de
+imunomoduladores e oxigenioterapia, no entanto este estudo não teve ensaio clínico para
+confirmar essas premissas (McCULLOUGH, 2020). Bianchi (2020) afirma ser necessário ensaios
+clínicos e uma população amostral significativa para comprovar a eficácia destes fármacos no
+tratamento da COVID-19.
+
+A Sociedade Brasileira de Infectologia (SBI), com base em revisão de vários estudos sobre o
+tratamento da COVID-19, informa que, até o presente momento, não há evidências suficientes
+de benefícios e segurança terapêutica no uso de nenhuma medicação como tratamento
+preventivo da COVID-19 (SBI, 2020). A WHO (2021) corrobora com a SBI ao concluir um ensaio
+clínico com quatro medicamentos (rendesivir, hidroxicloroquina, interferon beta-la e lopinavir).
+O estudo foi realizado em 405 instituições de 30 países e com a participação de 11.300 pessoas
+adultas separados em 5 grupos de forma randomizada. Os resultados apontaram que nenhum
+dos medicamentos reduziram significativamente a mortalidade, o uso de ventilação mecânica ou
+o tempo de internação, seja na população geral ou nos grupos.
+
+O antiviral Rendesivir é o primeiro medicamento com indicação aprovada para o tratamento da
+COVID-19 no Brasil, não deve ser vendido em farmácias e seu uso é estritamente hospitalar. O
+registro aprovado pela Agência Nacional de Vigilância Sanitária em 12 de março de 2021 foi
+concedido de forma condicional, mediante assinatura de um termo de compromisso em que o
+laboratório deve continuar os estudos e apresentar os dados complementares sobre o produto
+ao longo de sua utilização (ANVISA, 2021).
+
+Em um consenso elaborado entre as principais associações médicas brasileiras (intensivista,
+infectologia e pneumologia e tisiologia) sobre o tratamento ambulatorial ou hospitalar da COVID-
+19, devido a nível baixo de evidências, não recomendam o uso da cloroquina/hidroxicloroquina,
+azitromicina (exceto em pacientes com diagnóstico de pneumonia bacteriana), oseltamivir,
+lopinavir/ritonavir, glicocorticóides, tocilizumabe (anti-interleucina 6), heparinas (exceto para
+pacientes hospitalizados com evidências de distúrbios de coagulação)(FALAVIGNA et al, 2020).
+
+ 
+
+Hr
+EE
+
+   
+  
+
+sES
+Secretaria de Estado [você
+ave
+
+REGAR Goss::
+
+ 
+
+ 
+
+ 
+ 
+
+Subsecretaria de Saúde
+Gerência de Informações Estratégicas
+em Saúde CONECTA-SUS
+
+O Núcleo de Avaliação de Tecnologias em Saúde do Hospital Sírio-Libanês (NATS-HSL, 2020) em
+revisão sistemática rápida sobre o uso da hidroxicloroquina observou que os estudos publicados
+até aquele momento possuem limitações sérias na metodologia utilizada, reduzindo a confiança
+nos seus resultados, e que “não foi identificado benefício da hidroxicloroquina na negativação da
+carga viral, na necessidade de ventilação mecânica e na melhora do aspecto radiológico”, sendo
+o risco de eventos adversos maiores naqueles que fizeram uso da droga.
+
+Diante da revisão realizada deve-se considerar que há vários centros de pesquisas buscando um
+tratamento ambulatorial ou hospitalar contra a COVID-19, e que os estudos que afirmam ter
+encontrado um fármaco eficaz contra a doença não podem ser utilizados de forma generalizada
+devido as limitações encontradas na metodologia aplicada ou pelo número reduzido da
+população amostral. Os estudos que negam a eficácia de tratamento precoce utilizam-se das
+limitações e principalmente do risco de aumento de efeitos adversos para determinar como “não
+recomendado” o tratamento precoce, seja ambulatorial ou hospitalar.
+
+REFERÊNCIAS
+
+ABBOTT Laboratórios do Brasil Ltda. Bula do paciente Revectina (ivermectina). 2021. Acesso em
+30/03/2021.
+
+ABBVIE BRASIL. AbbVie Pharmaceutical Research & development - Brasil. Bula Kaletra
+(lopinavir/ritonavir). 2020. Acesso em 31/03/2021.
+
+ACHÉ. Biosintética. Prednisona. 2017. Acesso em 30/03/2021.
+
+AHMED, Sabeena et al. A five-day course of ivermectin for the treatment of COVID-19 may
+reduce the duration of illness. 2021. DOI: 10.1016/j.ijid.2020.11.191. Acesso em 22/03/2021.
+ALAM, Mohammed Tarek et.al. Ivermectin as Pre-exposure Prophylaxis for COVID-19 among
+Healthcare Providers in a Selected Tertiary Hospital in Dhaka - An Observational Study. 2020.
+DOI: 10.24018/ejmed.2020.2.6.599. Acesso em 19/03/2021.
+
+ANVISA — AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA. Anvisa aprova registro da vacina da
+Fiocruz/AstraZeneca e de medicamento contra o coronavírus. 2021. Acesso em 31/03/2021.
+BIANCHI, Breno. Revisão da Farmacoterapia emergente da COVID-19. 2020. DOI:
+10.1002/phar.2398 . Acesso em 29/03/2021.
+
+BIOGEN. Biogen Brasil Produtos Farmacêuticos ltda. Avonex (betainterferona 1a). 2017. Acesso
+em 31/03/2021.
+
+EC - EUROPEAN COMMISSION. Veklury (remdesivir): anexo 1 - resumo das características do
+medicamento. Acesso em: 30/03/2021.
+
+EMA — EUROPEAN MEDICINES AGENCY. EMA advises against use of ivermectin for the prevention
+or treatment of COVID-19 outside randomized clinical trials. 2021. Acesso em 31/03/2021.
+
+EMS S/A. Sulfato de hidroxicloroquina. SD. Acesso em 30/03/2021.
+
+EUROFARMA. Astro - azitromicina di-hitradada. 2016. Acesso em 0/03/2021.
+
+FALAVIGNA, Maicon et al. Diretrizes para o tratamento farmacológico da COVID-19. Consenso da
+Associação de Medicina Intensiva Brasileira, da Sociedade Brasileira de Infectologia e da
+Sociedade Brasileira de Pneumologia e Tisiologia. 2020. DOI: 10.5935/0103-507x.20200039.
+Acesso em 19/03/2021.
+
+ 
+
+ET
+Er
+
+E
+E
+
+   
+   
+
+SES
+é por
+
+g
+SUSI sessesos ese
+E dé | flo PA E:
+
+ 
+
+ 
+ 
+
+Subsecretaria de Saúde
+Gerência de Informações Estratégicas
+em Saúde CONECTA-SUS
+
+FDA - Food & Drug Administration. Why You Shouldn't Use Ivermectin to Treat or Prevent COVID-
 19. 2021. Acesso em 22/03/2021.
 
 FRESENIUS KABI. Nova Farma Industria Farmacêutica Ltda. Corticoidex - Fosfato dissódico de
 dexametasona. 2021. Acesso em 30/03/2021.
 
 MCCULLOUGH, P. A. et al. Pathophysiological Basis and Rationale for Early Outpatient Treatment
-of SARS-CoV-2 (COVID-19) Infection. The American Joumal of Medicine. 2020 DOI:
-10.1016/amimed.2020.07.003. Acesso em 25/03/2021.
+of SARS-CoV-2 (COVID-19) Infection. The American Journal of Medicine. 2020 DOI:
+10.1016/j.amjmed.2020.07.003. Acesso em 25/03/2021.
 
 NATS-HSL. Núcleo de Avaliação de Tecnologias em Saúde do Hospital Sírio-Libanês. 2020. Acesso
 em 25/03/2021.
@@ -26,60 +5333,28 @@ SBI. Informe da Sociedade Brasileira de Infectologia sobre o novo Coronavírus n
 medicamentos para COVID-19. 2020. Acesso em: 29/03/2021
 
 WHO — WORLD HEALTH ORGANIZATION. WHO Solidarity Trial Consortium. Repurposed Antiviral
-Drugs for Covid-19 — Interim WHO Solidarity Trial Results. 2021. DOI: 10.1056/NEIMo32023184.
+Drugs for Covid-19 — Interim WHO Solidarity Trial Results. 2021. DOI: 10.1056/NEJMoa2023184.
 Acesso em 22/03/2021.
 
-test
-
-| BRR
-RESt
-“4 trate
-| des
-(| 84
-Eu
-dm
-| AH
-
  
 
-RO
-Heal
-DOI:
-ANV
-Fioci
-BIAP
-10.1
-BIOC
-em:
-EC -
-med
-EMA
-ortr
-E EMS
-& EUR
+ET
+Er
 
-FALL
-E assa
-Socir
-Aces
+E
+E
+
+   
+  
+
+SES
+é por
+
+g
+SUSI sessesos ese
+E dé | flo PA E:
 
  
-
- 
-
- 
-
- 
-
- 
-
-sv ae
-
- 
-
-MTE
-
-Sof 5
 
  
 
