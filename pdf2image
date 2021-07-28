@@ -4,14 +4,14 @@ set -e
 from=$(readlink -f $1)
 to="${PWD}/$2"
 
-mkdir -p $to
-
 tmp=$(mktemp -d -t ci-XXXXXXXX)
 cd $tmp
 
 echo "Converting $from into images at $2"
 qpdf --split-pages $from page.pdf
 parallel -j2 "convert -density 150 -trim -quality 100 -sharpen 0x1 {} {.}.png" ::: $(ls *.pdf)
+
+mkdir -p $to
 mv *.png $to/
 
 rm -rf $tmp

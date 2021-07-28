@@ -1,0 +1,14 @@
+#/bin/bash
+set -e
+
+from=$(readlink -f $1)
+to="${PWD}/$2"
+echo "Converting $from to $to"
+
+tmp=$(mktemp -d -t ci-XXXXXXXX)
+cd $tmp
+
+parallel -j2 "tesseract -l por --dpi 100 {} {/.}.txt" ::: $(ls $from/*)
+
+cat $(ls *.txt | sort  -n -t '-' -k 2) > $to
+rm -rf $tmp
