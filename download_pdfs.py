@@ -19,8 +19,8 @@ def get_size(cid):
             return int(jhdr['Content-Length'])
     return 100000000
 
-def already_consumed(cid):
-    return os.path.exists("database/txts/{}.txt".format(cid))
+def already_downloaded(cid):
+    return os.path.exists("database/pdfs/{}.pdf".format(cid))
 
 def download(cid, link):
     subprocess.run("wget -O database/tmp/{}.pdf {} && mv database/tmp/{}.pdf database/pdfs/".format(cid, link, cid), shell=True)
@@ -40,7 +40,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
             for link in jrow['links']:
                 subid += 1
                 cid = '{}_{}'.format(jrow['id'], subid)
-                if is_pdf(cid) and not already_consumed(cid):
+                if is_pdf(cid) and not already_downloaded(cid):
                     to_download.append( (cid, link, get_size(cid) ) )
     for el in sorted(to_download, key = lambda el: el[2]):
         executor.submit(download, el[0], el[1])
