@@ -1,0 +1,351 @@
+23/07/2021 SEI/MC - 10642886 - Nota Técnica Conjunta
+
+ 
+
+MINISTÉRIO DA CIDADANIA
+SECRETARIA EXECUTIVA
+SECRETARIA NACIONAL DO CADASTRO ÚNICO
+
+NOTA TÉCNICA CONJUNTA Nº 13/2021
+
+PROCESSO Nº 71000.048487/2021-92
+INTERESSADOS: Secretaria Executiva, SECAD, SENARC e SAGI
+1. ASSUNTO
+
+1.1. Trata-se de resposta ao Requerimento de Informação nº 1.088/2021, de autoria do
+Senador Marcos Rogério-DEM (RO) e aprovado no âmbito da CPI da Pandemia em 15 de julho de 2021.
+
+2. REFERÊNCIAS
+
+2.1. Lei nº 13.982, de 02 de abril de 2020;
+
+2.2. Medida Provisória nº 1.000, de 02 de setembro de 2020;
+
+2.3. Portaria MC nº 408, de 08 de junho de 2020;
+
+24. Portaria MC nº 631, de 14 de maio de 2021;
+
+2.5. Balanço da Fiscalização do Auxílio Emergencial (TCU);
+
+2.6. Relatório Preliminar de Avaliação nº 874648 (SEI 9811282) (CGU).
+
+3. SUMÁRIO EXECUTIVO
+
+3.1. Por meio do referido Requerimento de Informação, o Senador Marcos Rogério solicita ao
+
+Ministério da Cidadania:
+
+“a) fornecer informações acerca da concepção do Auxílio Emergencial;
+
+b) esclarecer potenciais inconsistências e fragilidades que teriam permitido o cometimento de
+fraudes da ordem de mais de R$ 40 bilhões; e
+
+c) apresentar outras informações técnicas relevantes que demonstrem os mecanismos de controle e
+governança sobre a gestão deste benefício destinado à proteção social do público mais vulnerável
+da população brasileira”
+
+4. ANÁLISE
+4.1. Com relação à concepção do Auxílio Emergencial:
+4.1.1. Em 30 de janeiro de 2020, a Organização Mundial de Saúde (OMS) declarou emergência de
+
+saúde pública de interesse internacional pelo novo coronavírus (COVID-19). Frente ao avanço do surto, no
+dia 11 de março a OMS declarou-a como uma pandemia. Neste sentido, o Governo vem recomendando
+diversas medidas para controlar e evitar a disseminação do vírus na população brasileira.
+
+41.2. Estas medidas, embora necessárias para desacelerar a contaminação dos cidadãos pela
+COVID-19, evitar o colapso do sistema de saúde e preservar vidas, atingem diretamente a população de
+baixa renda do país, em virtude de ser este contingente populacional o que mais possui empregos
+precários ou informais.
+
+41.3. Com o intuito de promover a proteção social neste momento emergencial para os
+trabalhadores informais e outros atingidos pela crise econômica causada pelo coronavírus, bem como
+contribuir para as medidas de saúde coletiva para que esses trabalhadores possam praticar o isolamento
+social sem perder totalmente sua renda, foi publicada a Lei nº 13.982, de 02 de abril de 2020, que
+
+file:/fs/CPIPandemia DadosTemporarios/doc 1858 min cidadania ostensivo/Nota Tecnica Conjunta 10642886.html 1/5
+23/07/2021 SEI/MC - 10642886 - Nota Técnica Conjunta
+
+instituiu o auxílio emergencial no valor de R$ 600,00 (seiscentos reais) aos trabalhadores que
+cumprissem os requisitos da lei.
+
+4.14. Para a consecução do objetivo da lei, atender as pessoas mais vulneráveis no momento da
+pandemia de COVID-19 com a celeridade e segurança necessárias, foi realizada uma operação
+extremamente complexa. Para tanto, o Ministério da Cidadania contratou operadores (CAIXA e Dataprev),
+para que fosse possível disponibilizar plataforma digital que permitisse a inscrição pelos cidadãos,
+verificar os diversos requisitos de elegibilidade previstos legalmente e realizar o pagamento dos
+benefícios, respeitadas as recomendações de medidas sanitárias para evitar a disseminação da Covid-19.
+
+4.1.5. Diante desta situação e em virtude da existência do Cadastro Único, que já possuía os
+dados de aproximadamente % da população brasileira, focalizado nas mais vulneráveis, foi possível
+realizar o primeiro pagamento em apenas 6 dias após a sanção da Lei e, em 20 dias, beneficiar mais de
+43 milhões de cidadãos. Entre os cidadãos beneficiados, mais de 13 milhões se inscreveram diretamente
+na plataforma disponibilizada pela CAIXA, ou seja, passaram por todo o processo de inscrição e
+verificação dos requisitos de elegibilidade em 20 dias.
+
+41.6. Posteriormente, diante da continuidade dos efeitos perversos da pandemia, o auxílio
+emergencial foi prorrogado por dois meses adicionais (Decreto nº 10.412, de 30 de junho de 2020),
+totalizando 5 parcelas de R$ 600,00 (seiscentos reais). Para mulheres provedoras de famílias
+monoparentais, o valor do benefício era de R$ 1.200,00 (mil e duzentos reais). Após a prorrogação inicial,
+com a continuação e o agravamento da pandemia de COVID-19, bem como de suas consequências
+econômicas, o benefício foi estendido até o mês de dezembro de 2020 pela Medida Provisória nº 1.000,
+de 2 de setembro de 2020, que criou o Auxílio Emergencial Residual. Para este benefício, as parcelas
+tinham os valores de R$ 300,00 (trezentos reais) para cada beneficiário, e, para as mulheres provedoras
+de famílias monoparentais, o valor do benefício era de R$ 600,00 (seiscentos reais). Os valores pagos a
+cada família estavam limitados a 2 cotas.
+
+4.1.7. A solução permitiu atender com rapidez e segurança a 68,2 milhões de brasileiros e 118,7
+milhões de pessoas alcançadas (considerando demais membros da família), o que representa 55,8% da
+população brasileira, transferindo mais de R$ 294 bilhões em 2020.
+
+4.2. Com relação a potenciais inconsistências e fragilidades que teriam permitido o
+cometimento de fraudes da ordem de mais de R$ 40 bilhões:
+
+421, Desde o início do processo, o Ministério da Cidadania vem firmando Acordos de
+Cooperação Técnica - ACT com diversos órgãos para aprimoramento do processo de elegibilidade. Em
+relação a órgãos de controle, o ACT com a Controladoria-Geral da União (CGU) foi o primeiro, ainda em
+abril de 2020; na sequência, foi firmado o Acordo com o Tribunal de Contas da União (TCU). Além destes,
+Secretaria Especial da Receita Federal do Brasil, Ministério da Justiça e Segurança Pública, Secretaria da
+Cultura do Ministério do Turismo, órgãos do Judiciário como Conselho Nacional de Justiça e a Defensoria
+Pública da União também firmaram parcerias que são imprescindíveis para a melhoria contínua do
+processo.
+
+42.2. No que se refere a eventuais cometimentos de fraudes da ordem de mais de R$ 40 bilhões,
+ressalte-se que não há indícios de ocorrências de fraudes, mas sim divergências apontadas por órgãos de
+controle originadas por aplicação de metodologias e conceitos diferentes das utilizadas no programa,
+conforme segue:
+
+a) Potencial desconformidade de R$ 54 bilhões apontados pelo Tribunal de Contas da União:
+Em seu relatório Balanço da Fiscalização do Auxílio Emergencial, de fevereiro/2021, o TCU
+apontou potencial desconformidade em pagamentos a 13,8 milhões de pessoas a um custo de
+R$ 54,7 bilhões. Conforme o próprio relatório informa, os resultados foram obtidos usando a
+Pesquisa Nacional por Amostra de Domicílios Contínua (PNADC) de 2019, realizada pelo
+Instituto Brasileiro de Geografia e Estatística (IBGE). Nesse sentido, o TCU usou dados do ano
+de 2019 (ano normal e sem pandemia) para estimar acontecimentos em 2020, ano atípico, que
+representa uma quebra ante a normalidade, em função da maior pandemia observada em
+mais de 90 anos.
+
+file://fs/CPIPandemia DadosTemporarios/doc 1858 min cidadania ostensivo/Nota Tecnica Conjunta 10642886.html 2/5
+23/07/2021 SEI/MC - 10642886 - Nota Técnica Conjunta
+
+42.3. Sobre os apontamentos do TCU, o IBGE, autor da PNADC, identifica as possíveis origens
+das divergências:
+
+* Metodologia: afirma o IBGE que não é recomendada a comparação de resultados de
+pesquisas domiciliares (PNADC) com registros administrativos (utilizados nos Auxílios), pois
+um tem caráter estatístico e o outro são registros operacionais;
+
+* Conceitos:
+
+ii Mulher monoparental: De acordo com a estimativa do TCU, a PNADC-2019 considera a
+soma entre o número de mães chefes de família (3,1 milhões) e o número de mães solteiras
+não indicadas como responsáveis pelo domicílio (1,2 milhão), que representaria 4,3 milhões de
+pessoas. Todavia, a Lei nº 13.982/2020 estabelece que a mulher provedora de família
+monoparental receberá 2 (duas) cotas do auxílio, ou seja, conceito mais amplo que o usado
+pelo TCU, resultando consequentemente em maior número de beneficiadas.
+
+ii Rendimento familiar ou domiciliar: O TCU menciona rendimento familiar; já
+
+a PNAD utiliza o rendimento domiciliar, não sendo possível, segundo o próprio IBGE, calcular
+o rendimento familiar, sem uma definição de metodologia própria previamente.
+
+iii. Família ou domicílio: Há diferenças entre o conceito de família do Cadastro Único e o
+conceito de domicílio da PNADC. O Cadúnico prioriza o compartilhamento de rendimentos e
+despesas, inclusive adotando o conceito de diferentes núcleos familiares em um único
+domicílio.
+
+ 
+
+* Critérios de elegibilidade: Emprego formal ativo: é muito comum o empregador demorar para
+cancelar o vínculo do empregado. Para não prejudicar estes trabalhadores sem ocupação,
+pessoas com vínculo de emprego formal ativo, mas com salário zerado a três meses ou mais,
+foram consideradas sem vínculo ativo e foram elegíveis ao Auxílio.
+
+424. Assim, não houve indícios de ocorrência de fraude. As divergências se originaram de
+aplicação de metodologia e conceitos diferentes pelo Tribunal daqueles utilizados nas regras de
+elegibilidade do Auxílio Emergencial.
+
+b) Potencial desconformidade de R$ 10 bilhões apontados pela Controladoria-Geral da
+União:
+42.5. A CGU aponta possíveis desconformidades na ordem de R$ 10,8 bilhões no âmbito de
+Auditoria de Contas do NC, relativas a 2020.
+
+4.2.6. Ao serem analisados os dados relativos às ocorrências apontadas, identificou-se que:
+
+e Cerca de 64 milhões de pessoas (CPFs) foram pagas de forma correta, totalizando a
+transferência de mais de R$ 290 bilhões de reais em 2020.
+
+e Dos valores analisados até o momento, que correspondem a 85% dos apontamentos, no valor de
+R$ 9,46 bilhões:
+
+i | R$9,22 bilhões estão em conformidade com as regras dispostas na legislação;
+ii R$ 249 milhões estão em desconformidade (apenas e 0,08% do total de R$ 294 bilhões
+transferidos em 2020). Destes, R$ 15 milhões já foram devolvidos.
+
+42.7. Da mesma forma, os apontamentos da CGU não significam ocorrências de fraude. Os
+principais motivos foram relacionados ao descasamento entre as bases de dados utilizadas pela CGU e as
+utilizadas no processo de elegibilidade. Ou seja, no momento em que a elegibilidade foi processada, o
+CPF ou NIS cumpria todos os requisitos conforme a base analítica competente, mas, posteriormente,
+identificou-se em bases analíticas subsequentes que o CPF passou a não cumprir mais os critérios (por
+exemplo, quando o cidadão obteve emprego formal no mês posterior à análise de elegibilidade).
+
+4.2.8. Ressalte-se que, após determinação do TCU, foi implementada verificação mensal dos
+critérios de elegibilidade para a manutenção do Auxílio Emergencial Residual e Auxílio Emergencial 2021,
+o que foi incluído na Medida Provisória nº 1.000, de 02 de setembro de 2020, e na Medida Provisória nº
+1.039, de 18 de março de 2021.
+
+file:/fs/CPIPandemia DadosTemporarios/doc 1858 min cidadania ostensivo/Nota Tecnica Conjunta 10642886.html 3/5
+23/07/2021 SEI/MC - 10642886 - Nota Técnica Conjunta
+
+4.3. Outras informações técnicas relevantes que demonstrem os mecanismos de controle e
+governança sobre a gestão deste benefício:
+
+43.1. Desde o início dos pagamentos do Auxílio Emergencial, a gestão deste benefício tem sido
+amplamente auditada e fiscalizada pelos órgãos de controle (principalmente Controladoria-Geral da
+União - CGU e Tribunal de Contas da União — TCU no âmbito dos Acordos de Cooperação firmados), bem
+como por outros órgãos como o Ministério Público Federal e a Defensoria Pública da União. Visando
+executar o Auxílio Emergencial de forma segura e célere, foram instituídas diversas iniciativas que
+auxiliam no aprimoramento constante do processo.
+
+43.2. Em maio de 2020, a Portaria nº 394 estabeleceu a governança e a divisão de
+competências entre diversas áreas do Ministério envolvidas, a qual, posteriormente, foi atualizada pela
+Portaria MC nº 631, de 14 de maio de 2021, que além de atualizar, estabeleceu as competências de cada
+unidade do MC no tocante ao processamento operacional e gestão do Auxílio Emergencial.
+
+433. Em junho de 2020, foi criado por meio da Portaria nº 408, o Comitê Gestor do Auxílio
+Emergencial no âmbito do MC, para monitorar os riscos relacionados à execução dos auxílios
+emergenciais e deliberar sobre medidas de aperfeiçoamento do arranjo de governança.
+
+434. Assim, a partir dessas auditorias e fiscalizações, foram realizadas alterações legais na
+gestão do benefício com o objetivo de aprimorar a focalização dos auxílios emergenciais, como a inclusão
+de novos critérios de elegibilidade:
+
+i | Na MPV nº 1.000/2020 tornando inelegíveis, por exemplo, cidadãos com patrimônio
+superior a R$ 300.000,00 (trezentos mil reais) em 2019, ou que tenham sido incluídos em 2019
+como dependentes de declarante de Imposto de Renda na condição de cônjuge, companheiro
+ou filho ou enteado;
+
+ii. Na MPV nº 1.039/2021, que tornou inelegíveis, por exemplo, cidadãos que não
+movimentaram os valores disponibilizados ou que sejam estagiários, residente médico ou
+multiprofissional e beneficiários de bolsas de estudo.
+
+43.5. Com relação à devolução de valores, em maio de 2020 foi disponibilizado portal para
+devolução voluntária por meio de Guia de Recolhimento da União — GRU, para cidadãos que receberam o
+auxílio emergencial, mas queiram devolvê-lo.
+
+4.3.6. Essas medidas levaram ao reconhecimento, por parte de órgãos de controle, de que a
+gestão do auxílio tem se mantido dentro de patamares internacionais de qualidade de gestão. Essa
+conclusão deriva da quantidade de inconformidades verificadas nos processos de concessão do auxílio.
+Por exemplo, em um universo de mais de 50 milhões de CPFs, o Tribunal de Contas da União encontrou
+um índice aproximado de 1,23% [1] de desvios. Esse é um indicativo, portanto, que a gestão do auxílio
+tem sido bem-sucedida em manter elevados índices de acerto.
+
+4.3.7. Porém, mesmo com índice de inconformidade situado em torno de 1% tem impacto
+expressivo nas contas públicas quando a política tem a magnitude do auxílio emergencial. Por isso, o
+Ministério da Cidadania tem adotado diversas medidas, em conjunto com órgãos públicos dos poderes,
+incluindo os órgãos de investigação e persecução penal, para identificar fraudadores e apontar os valores
+eventualmente obtidos indevidamente.
+
+43.8. Assim, o MC instituiu a Estratégia Integrada de Atuação contra as Fraudes no Auxílio
+Emergencial (EIAFAE) em conjunto com órgãos de controle federais (CGU e TCU), Polícia Federal
+(Ministério da Justiça e Segurança Pública), Ministério Público Federal e Ministério da Economia
+(Secretaria Especial da Receita Federal) e Caixa Econômica Federal, que vem se consolidando como um
+sucesso de inovação procedimental e de coordenação e integração entre órgãos públicos para o
+atingimento de um objetivo comum em benefício da sociedade.
+
+5. CONCLUSÃO
+
+5.1. O Auxílio Emergencial beneficiou, com rapidez e segurança, 68,2 milhões de pessoas e
+118,7 milhões de brasileiros alcançados (considerando demais membros da família), o que representa
+55,8% da população brasileira, tendo transferido mais de R$ 294 bilhões apenas em 2020.
+
+file:/fs/CPIPandemia DadosTemporarios/doc 1858 min cidadania ostensivo/Nota Tecnica Conjunta 10642886.html 4/5
+23/07/2021 SEI/MC - 10642886 - Nota Técnica Conjunta
+
+5.2. Não há indícios de ocorrência de fraudes no valor de R$ 40 bilhões; os motivos dos
+valores apontados por órgãos de controle são originados, principalmente, por aplicação de
+metodologia e conceitos diferentes no caso do TCU, e bases de dados administrativos com datas
+diferentes das utilizadas no processo de elegibilidade do auxílio, no caso da CGU. Dentre os valores
+apurados, apenas 0,08% do total de pagamentos do Auxílio Emergencial foi em decorrência de
+desconformidade — mas que não se configuram em indícios de fraudes.
+
+ 
+
+*assinado eletronicamente*
+ANGÉLIA AMÉLIA SOARES FADDOUL
+Secretária Nacional do Cadastro Único - Substituta
+
+*assinado eletronicamente*
+FABIANA MAGALHÃES ALMEIDA RODOPOULOS
+Secretária Nacional de Renda da Cidadania
+
+*assinado eletronicamente*
+
+RONALDO FRANÇA NAVARRO
+Secretário de Avaliação e Gestão da Informação
+
+[t] TC016.834/2020-8
+
+ 
+
+ 
+
+E
+ade E
+eletrônica
+
+      
+    
+    
+   
+
+Documento assinado eletronicamente por Angélia Amélia Soares Faddoul, Secretário(a) Nacional do
+Cadastro Único, Substituto(a), em 20/07/2021, às 12:35, conforme horário oficial de Brasília, com
+fundamento no 8 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de 2020 da Presidência da
+República. .
+
+  
+
+ 
+
+Documento assinado eletronicamente por Fabiana Magalhães Almeida Rodopoulos, Secretário(a)
+Nacional de Renda de Cidadania, em 20/07/2021, às 13:28, conforme horário oficial de Brasília, com
+fundamento no 8 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de 2020 da Presidência da
+República. .
+
+(ai
+Sie É)
+eletrônica
+
+   
+ 
+
+ 
+
+Documento assinado eletronicamente por Ronaldo França Navarro, Secretário(a) de Avaliação e
+Gestão da Informação, em 20/07/2021, às 14:40, conforme horário oficial de Brasília, com
+fundamento no 8 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de 2020 da Presidência da
+República. .
+
+a
+ade É
+eletrônica
+
+   
+
+ 
+
+autenticidade deste documento pode ser conferida no site https://sei.cidadania.gov.br/sei-
+autenticacao , informando o código verificador 10642886 e o código CRC 580BDD9F.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 71000.048487/2021-92 SEI nº 10642886
+
+file:/fs/CPIPandemia DadosTemporarios/doc 1858 min cidadania ostensivo/Nota Tecnica Conjunta 10642886.html 5/5
+

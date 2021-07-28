@@ -1,0 +1,1714 @@
+ 
+
+Tribunal de Contas do Estado da Paraíba
+
+“ a Rua Profº Geraldo von Sohsten, nº 147 - Jaguaribe - 58.015-190 - João Pessoa-PB
+Portal Eletrônico: wwv.tce,pbgoubr / Fone: (83) 3208-3300 / 3208-3364
+
+ 
+
+ 
+
+TRIBUNAL DE CONTAS DO ESTADO DA PARAÍBA
+Diretoria de Auditoria e Fiscalização - DIAFI
+Grupo de Planejamento e Controle - GPC
+
+Relatório GPC - 31/2021
+
+Relatório sobre a Covid-19
+
+Situação no âmbito dos municípios paraibanos
+
+Julho de 2021
+Sumário
+
+1 Introdução 4
+2 Transferências constitucionais e legais 4
+3 Covid-19 nos municípios paraibanos 6
+3.1 Análise por mesorregiões paraibanas .....ccccccccccciccea 6
+4 Vacinação no Estado da Paraíba 7
+4.1 Aplicação de vacinas . ...cccccicc e aaa 7
+4.2 Desconformidades na aplicação das vacinas ....ccccccccccccccs 9
+5 Recursos para o combate à pandemia 10
+6 Despesas para o combate à pandemia 12
+6.1 Visão geral da despesa . ....cccccciccccc e 12
+6.2 Gastos apenas na função saúde ....iccccccccccc 13
+6.3 Maiores credores de material de consumo ....cccccctccccccca 14
+7 Relação entre despesas e receitas no combate à pandemia 15
+7.1 Recursos estaduais e municipais. . .. cc ccccccctcc 16
+8 Licitações e contratos 17
+9 Considerações finais 19
+ANEXOS 20
+
+Lista de Tabelas
+
+1 Transferências constitucionais e legais, em reais... cc cccccccccs 5
+2 Taxas de crescimento em um mês. ....icccccccccttctc ea 7
+3 Aplicação de vacinas . ..cccccctccic ee e 8
+4 Desconformidades na aplicação de vacinas... . cc cccccccciccca 10
+
+5 Detalhamento dos recursos transferidos pelo Governo Federal para o combate à
+LISTA DE FIGURAS
+
+LISTA DE FIGURAS
+
+ 
+
+10
+nm
+12
+
+13
+
+Gastos na função saúde por elementos de despesa. ....cccccccccccos
+Maiores credores de material de consumo. . ...ccccccticicccts
+Receitas e despesas para o combate à Covid-19. . ...ccccccccccccs
+Dispensas de licitação para combate à Covid-19. ...cccccccccccccs
+Dispensas de licitação para combate à Covid-19. ...cccccccccccccs
+Receitas e despesas para o combate à Covid-19. . ...ccccccccccccs
+
+Receitas e despesas para o combate à Covid-19. ....
+
+ 
+
+Lista de Figuras
+
+Transferências constitucionais e legais recebidas. .....cccccccicitts
+Casos acumulados por mesorregiões da Paraíba... ...cccccccccccs
+Aplicação acumulada de vacinas no Estado da Paraíba. ....ccccccco.
+Aplicação de vacinas no Estado da Paraíba. .....ccccccccccica
+Aplicação de vacinas no Estado da Paraíba. .....ccccccccccica
+Recursos recebidos da União por habitante. ...ccccccccccccccs
+Despesas empenhadas para combate à pandemia ....ccccccciictts
+Despesas para combate à pandemia em relação à população ........cc..
+
+Receitas x Despesas no combate à pandemia nos municípios paraibanos. . ....
+ 
+
+2 TRANSFERÊNCIAS...
+
+ 
+
+1 Introdução
+
+O presente relatório possui como objetivo apresentar uma visão geral dos municípios
+
+paraibanos diante o cenário da pandemia causada pelo vírus SARS-CoV-2, causador da Covid-19,
+
+ 
+
+bem como consolida os relatórios inseridos nos processos de acompanhamento da gestão desse:
+municípios. Para atingir tal objetivo, foram selecionadas diversas fontes de dados oficiais como
+o Ministério da Saúde, Portal da Transparência do Governo Federal, Secretaria do Tesouro
+Nacional - STN, Instituto Brasileiro de Geografia e Estatística - IBGE, SAGRES/TCE-PB,
+Sistema Tramita/TCE-PB e Portal do Governo Estadual da Paraíba.
+
+ 
+
+O relatório possui dados que vão até o final do mês de junho de 2021. Os dados
+advindos do SAGRES/TCE-PB foram coletados no dia 07/07/2021 e refletem a posição das
+despesas informadas ao citado sistema até essa data. Atualizações posteriores, mesmo que com
+s de junho /2021, não e:
+
+  
+
+    
+
+ão contempladas.
+
+No decorrer do relatório, as respectivas fontes de dados dos gráficos e tabelas serão
+
+citadas, bem como os períodos de coleta.
+
+2 Transferências constitucionais e legais
+
+Os dados sobre as transferências constitucionais e legais recebidas pelo município foram
+obtidos da Secretaria do Tesouro Nacional - STN!. Os valores do FPM, IPI-Exportação e ICMS
+LC 87/96 e do ITR, já estão deduzidos da parcela destinada ao FUNDEB. O período apresentado
+
+no gráfico a seguir se inicia no final de janeiro de 2020 e termina em junho de 2021.
+
+!Para maiores informações acesse o sítio da STN
+2 TRANSFERÊNCIAS...
+
+ 
+
+400M
+
+«o 850M
+
+g
+
+8
+
+& 300M
+
+&
+
+8
+
+É 250M
+
+E
+
+E 200M
+
+5
+
+|
+
+£ 150M
+
+5
+
+8
+
+E 100M
+
+s
+
+s0M — Loo
+
+om + STE EETTCSS
+o o E o o o 8 o o 8 Q = = a - = -
+a a a a a a e a a a a a a a a a a a a
+Ss Sa aaa gaga aaa asas aa
+ER SD zs Ss Sa
+sêsasasasz2gao 2a sêãsaãzãaIIs
+Período
+AFM/AFE -e FEX ss IOF-Ouro -e- LC 176/2020 (ADO25)
+
+-e- AJUSTE FUNDEB FPM = ITR LC 87/96 (Lei Kandir)
+-s- CIDE-Combustíveis -e- FUNDEB LC 173/2020 (PFEC) -e- Royalties
+
+Figura 1: Transferências constitucionais e legais recebidas.
+
+A Tabela 1 apresenta um comparativo entre as transferências constitucionais e legais
+aos municípios paraibanos nos anos de 2020 e 2021, até o final de junho, para fins de comparação.
+Como podemos ver, os municípios paraibanos receberam, em 2021, R$ 664.468.308 a mais do
+
+que em relação ao exercício de 2020 no mesmo período.
+
+   
+
+ 
+
+ 
+
+ 
+
+Tabela 1: Transferências constitucionais e legai
+
+Transferência 2020 2021 Diferença
+AFM/AFE 105.324.034 0 -105.324034
+AJUSTE FUNDEB 50.082.083 9.352.495 -40.729.587
+CIDE-Combustíveis 1.949.084 829.904 1.119.181
+FEX 0 0 0
+FPM 1.275.495.215 1.668.608.215  393.113.000
+FUNDEB 983.131.394 1.465.696.806  482.565.413
+IOF-Ouro 0 17.562 17.562
+ITR 212.386 263.805 SLA19
+LC 173/2020 (PFEC) 90.413.233 0 -90.413.233
+LC 176/2020 (ADO25) 0 832.626 832.626
+LC 87/96 (Lei Kandir) 0 0 0
+Royalties 65.847.987 | 91322310 25474323
+Total 2.572.455.415 3.236.023.724  664.468.308
+à Fonte: Secretaria do Tesouro Nacional
+
+» Valores já com a dedução para a formação do FUNDEB
+
+  
+3 COVID-19 NOS MUNICÍPIOS...
+
+ 
+
+3 Covid-19 nos municípios paraibanos
+
+A Paraíba em 30 de Junho de 2021 contava, de forma acumulada, com 396.442 casos
+de Covid-19, conforme dados do Minis
+
+acumulada, eram registrados 8.606 óbitos.
+
+ 
+
+ério da Saúde. Na mesma data, também de forma
+
+3.1 Análise por mesorregiões paraibanas
+
+O gráfico da Figura 2 apresenta a evolução dos casos de Covid-19, desde o início
+da pandemia, por mesorregião da Paraíba. O destaque em amarelo do citado gráfico mostra
+o período entre 31/Mai/2021 e 30/Jun/2021. Nesse período, os casos acumulados variaram
+
+19,78% enquanto os óbitos variaram 12,17%.
+
+& 150.000
+8
+3
+É
+à 125.000
+8
+2 100.000
+E
+é
+275.000
+8
+8
+& 50.000
+9
+8
+e
+5 25.000
+É
+E
+Zz
+o mo
+o e o 8 o o o o - - - - - - -
+sa sa das sq asa aaa
+S a Ss SS s a
+a 3355852686 28 482524 8/53/58
+Meses
+— Agreste Paraibano — Borborema — Mata Paraibana — Sertão Paraibano
+
+Figura 2: Casos acumulados por mesorregiões da Paraíba.
+
+A Tabela 2 apresenta a variação percentual do número de casos acumulados entre
+31/Mai/2021 e 30/Jun/2021, conforme dados do Ministério da Saúde.
+4 VACINAÇÃO NO ESTADO DA PARAÍBA
+
+ 
+
+Tabela 2: Taxas de crescimento em um mês.
+
+ 
+
+ 
+
+Mesorregião Número de casos acumulados Variação A%
+Agreste Paraibano 118.368 23,54
+Borborema 27.626 26,88
+Mata Paraibana 161.855 15,89
+Sertão Paraibano 88.593 20,18
+
+ 
+
+* Fonte: Ministério da Saúde
+
+4 Vacinação no Estado da Paraíba
+
+4.1 Aplicação de vacinas
+
+A evolução da vacinação, até 30/06/2021, por doses e tipos de vacinas é apresentada
+
+no gráfico da Figura 3.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+600 mil
+500 mil
+g 400 mil 9
+, 2
+É 300 mi 5
+a
+“ 200 mil
+a
+a
+8 100mi +
+o
+s ,
+8 omi —
+g
+5
+E 400 mil
+g
+o o
+E 300 mil g
+B o
+E n
+& 200 mi q
+=
+8
+100 mil
+O mil E
+a a a a a a a a ã ã a a a
+E Ss s a a a a a s s a a q
+Ss E É Es gg gg SS sli ê
+e 5 2 5 2 as 8 “a 5. q 8
+Período
+m Covid-19-AstraZeneca E! Covid-19-Coronavac-Sinovac/Butantan
+
+mm Vacina covid-19 - Ad26.COV2.S — Janssen-Cilag mm Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer
+
+m Vacina Covid-19 - Covishield
+
+Figura 3: Aplicação acumulada de vacinas no Estado da Paraíba.
+
+A Tabela 3 apresenta a situação da aplicação das vacinas no Estado da Paraíba até
+4.1 Aplicação de vacinas 4 VACINAÇÃO NO ESTADO DA PARAÍBA
+
+ 
+
+a data de 30/06/2021. As informações sobre a aplicação de vacinas apresentadas a seguir
+foram disponibilizadas pelo Ministério da Saúde através do Sistema de Informação do Programa
+Nacional de Imunizações (SI-PNI)?
+
+O gráfico da Figura 4 apresenta os quantitativos? de vacinas aplicadas com a distinção
+
+entre o tipo de vacina e o tipo de dose até a data de referência deste relatório.
+
+Vacina Covid-19
+— Covishield
+
+ 
+
+Vacina covid-19
+— BNT162b2 —
+BioNTech/Fosun
+PharmaiPfizer
+
+E Vacina covid-19
+'G — Ad26.COV2.8 —
+£ —Janssen-Cilag
+
+ 
+
+ 
+
+Covid-19-
+Coronavac-
+Sinovac!
+Butantan
+Covid-19-
+AstraZeneca
+O mil 100 mi 200 mil 300 mil 400 mil 500 mil 800 mil
+Quantidade de doses aplicadas
+E Dose 1 E Dose 2 ou Única
+Figura 4: Aplicação de vacinas no Estado da Paraíba.
+Tabela 3: Aplicação de vacinas
+
+Dose Vacina Quantidade
+
+Dose 1 Covid-19-AstraZeneca 41.956
+
+Dose 1 Covid-19-Coronavac-Sinovac/Butantan 503.891
+
+Dose 1 Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma Pfizer 147.335
+
+Dose 1 Vacina Covid-19 - Covishield 631.556
+
+Dose 2 ou Única Covid-19-AstraZeneca 17.953
+
+Dose 2 ou Única Covid-19-Coronavac-Sinovac/Butantan 442.316
+
+Dose 2 ou Única Vacina covid-19 - Ad26.COV2.S - Janssen-Cilag 17.450
+
+Dose 2 ou Única Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer 46
+
+2Com o objetivo de permitir uma melhor interpretação dos dados, realizamos algumas adaptações nas des-
+crições das doses. Aquelas vacinas que, até então, necessitam de uma única dose foram alocadas na catego-
+ria “Dose 2 ou Única” mesmo que originalmente informadas como primeira dose. Para maiores informações
+acesse à fonte original dos dados em: <https://opendatasus.saude.gov.br /dataset/covid- 19-vacinacao/resource/
+ef3bd0b8-b605-474b-9ae5-c97390c197AS>
+
+3É possível que a informação de vacinas aplicadas chegue ao Sistema do PNI posteriormente à coleta de dados,
+o que pode ocasionar distorções nos dados aqui apresentados.
+4.2 Desconformidades na aplicação... 4 VACINAÇÃO NO ESTADO DA PARAÍBA
+
+ 
+
+Tabela 3: Aplicação de vacinas (continuação)
+
+ 
+
+ 
+
+Dose Vacina Quantidade
+Dose 2 ou Única Vacina Covid-19 - Covishield 68.167
+Total - 1.870.670
+
+ 
+
+à Fonte: Ministério da Saúde/PNI
+
+O gráfico da Figura 5 apresenta as quantidades diárias de vacinas aplicadas na Paraíba
+desde o início da vacinação. A linha tracejada representa a média diária de aplicações. A média
+diária de aplicação referente apenas a primeira dose é de 8.029 doses/dia e de 3.309 doses/dia
+
+para a segunda dose ou única.
+
+ 
+
+35000
+30000 4
+25000 4
+20000 4
+
+pt esoq
+
+15000 7
+& 100007
+
+5000 4
+od
+
+ 
+
+ 
+
+20000 4
+
+Quantidade de doses aplicadas
+B
+8
+8
+8
+
+12000 4
+
+8000 7
+
+Balun no z esog
+
+40004
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Jun
+
+F! Covid-19-AstraZeneca EM Covid-19-Coronavac-Sinovac/Butantan
+[3 Vacina covid-19 — Ad26.COV2.S - Janssen-Cilag [BH Vacina covid-19 - BNT162b2 — BioNTech/Fosun Pharma/P fizer
+[3 Vacina Covid-19 — Covishield
+
+Figura 5: Aplicação de vacinas no Estado da Paraíba.
+
+4.2 Desconformidades na aplicação das vacinas
+
+Conforme dados obtidos pelo TCE-PB junto à Secretaria do Estado da Saúde, referen-
+tes à vacinação contra a Covid-19 no período de 04/06/2021 a 05/07/2021, foi possível realizar
+o levantamento de algumas inconsistências, após o devido tratamento dado pelo setor compe-
+tente do TCE-PB, quando do confronto com outras bases de dados disponíveis. Um resumo dos
+
+achados é apresentado na Tabela 4.
+
+4 As desconformidades aqui apresentadas não contemplam as já apresentadas no relatório anterior.
+5 RECURSOS PARA O COMBATE À...
+
+ 
+
+Tabela 4: Desconformidades na aplica
+
+ 
+
+ão de vacinas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Achado Quantidade
+Domicílio divergente de município de vacinação 63.169
+Doses repetidas 6.994
+Registro sem CPF 4.028
+Registros sem categoria grupo ou data de nasci 19.616
+Segunda dose de vacina diferente 13.456
+Vacinados fora do grupo etário 1.890
+CPF inválido 591
+Intervalo incorreto entre d 22.015
+Idade diferente na RF 222
+Vacinado menor de idade 70
+sinado como grávida ou puérpera 38
+
+m dados de falecidos 7
+
+132.096
+
+ 
+
+ 
+
+* Fonte: Secretaria do Estado da Saúde
+
+» Tribunal de Contas do Estado da Paraíba
+
+5 Recursos para o combate à pandemia
+
+Os dados dos valores repassados pela União aos municípios para o enfrentamento ao
+
+coronavírus foram obtidos do Portal da Transparência do Governo Federal. O gráfico apresen-
+
+tado a seguir mostra os valores transferidos pelo Governo Federal através das ações especificadas
+
+na Tabela 5 transferidos para as entidades públicas do município em relação ao número de ha-
+
+bitantes desde o início da pandemia (ano de 2020). Os vinte e cinco municípios com a maior
+
+relação entre os recursos recebidos e a população estão destacados.
+
+Aqui destacamos que aos relatórios emitidos até abril de 2021 contemplavam apenas
+
+recursos transferidos através da ação 21C00. Conforme já mencionado, um detalhamento dos
+
+recursos considerados são apresentados na Tabela 5.
+
+Tabela 5: Detalhamento dos recursos transferidos pelo Governo Federal para
+
+o combate à pandemia.
+
+ 
+
+ 
+
+ 
+
+Ano Ação Cod Nome do plano orçamentário Total (R$)
+Plano
+2020 0088 Cvao COVID-19 - MEDIDA PROVISORIA N. 990, DE 09 DE JULHO DE 2020 32.363.457
+2020 21C0 0000 ENFRENTAMENTO DA EMERGENCIA DE SAUDE PUBLICA DE 1.200.000
+IMPORTANCIA INTERNACIONAL DECORRENTE DO
+CORONAVIRUS - DESPESAS DIVERSAS
+2020 21C0  CV20 COVID-19 - MEDIDA PROVISORIA N. 940, DE 2 DE ABRIL DE 2020 146.846.742
+2020 2100  Cv30 COVID-19 - MEDIDA PROVISORIA N. 947, DE 8 DE ABRIL DE 2020 38.188.109
+2020 21C0  CV30 COVID-19 - MEDIDA PROVISORIA N. 953, DE 15 DE ABRIL DE 2020 58.681.292
+2020 2100 — Cv4ao COVID-19 - MEDIDA PROVISORIA N. 969, DE 20 DE MAIO DE 2020 306.780.9:
+2020 21C0  CV50 COVID-19 - MEDIDA PROVISORIA N. 976, DE 4 DE JUNHO DE 2020 48.972.976
+
+10
+5 RECURSOS PARA O COMBATE À...
+
+ 
+
+Tabela 5: Detalhamento dos recursos transferidos pelo Governo Federal para
+o combate à pandemia. (continuação)
+
+ 
+
+ 
+
+Ano Ação Cod. Nome do plano orçamentário Total (R$)
+Plano
+
+2020 2100 CV60 — COVID-19 - MEDIDA PROVISORIA N. 941, DE 2 DE ABRIL DE 2020 13.694174
+
+2020 2100 CV7O  COVID-9- MEDIDA PROVISORIA N. 967, DE 19 DE MAIO DE 2020 69.523.138
+
+2020 2100 MPOL  COVID-19 - MEDIDA PROVISORIA N. 924, DE 13 DE MARCO DE 2020  10.226.110
+
+2021 2194 CVBO | COVID-19 - MEDIDA PROVISORIA N. 1.032, DE 24 DE FEVEREIRO 27.480.000
+DE 2021
+
+2021 2194 CVCO — COVID-19- MEDIDA PROVISORIA N. 1,041, DE 30 DE MARCO DE 54.755.400
+2021
+
+2021 2100 CV7O  COVID-9- MEDIDA PROVISORIA N. 967, DE 19 DE MAIO DE 2020 8.980.000
+
+2021 8585 CVBO — COVID-19 - MEDIDA PROVISORIA N. 1.032, DE 24 DE FEVEREIRO 8.400.000
+DE 2021
+
+2021 8585 CVCO — COVID-19- MEDIDA PROVISORIA N. 1.041, DE 30 DE MARCO DE 5.995.085
+2021
+
+2021 8585  CVDO COVID-19 - MEDIDA PROVISORIA N. 1.043, DE 16 DE ABRIL DE 2021 5.472.000
+Total - > > 837.559.418
+
+* Fonte: Portal da Transparência do Governo Federal
+
+ 
+
+» Valores em reais.
+
+R$ 375 8ihab R$ 654.82hab
+R$418.54/hab R$ 383.99mab
+
+R$458.35Mhab
+
+í AH R$ 426.26Mab
+y ES
+
+“=
+
+R$ 482.12Mab
+
+—
+
+R$510.55/hab
+
+R$ 449.46 Mhab R$517.02/hab
+
+Co (rms O7mab £ a 4 (rs ssa.tarnao
+4 R$ 460.21hab
+
+R$450.52Mhab
+
+ 
+
+Valor (R$)/hab mo “om
+
+eosoooso9
+sassesses
+GASES
+
+150
+350
+850
+
+Figura 6: Recursos recebidos da União por habitante.
+
+11
+6 DESPESAS PARA O COMBATE À...
+
+ 
+
+6 Despesas para o combate à pandemia
+
+6.1 Visão geral da despesa
+
+Para o detalhamento das despesas com saúde, realizadas pelas entidades municipais,
+foram utilizados os dados informados ao SAGRES como sendo específicos? para o combate à
+pandemia. É importante destacar que constatamos que parte significativa da despesa pública
+dos municípios ainda não estava presente no SAGRES na data da coleta dos dados devido a
+
+atrasos no envio de informações diárias. Tal fato compromete de certa forma a análise.
+
+O gráfico da Figura 7 apresenta o valor acumulado empenhado, por todos os municípios
+da Paraíba, para o combate à Covid-19. Até 30/Jun/2021 os entes municipais paraibanos, con-
+forme dados do SAGRES/TCE-PB, empenharam R$ 695.201.119 em despesas com a destinação
+
+mencionada.
+
+700M
+
+ 
+
+a
+8
+s
+z
+
+500M
+
+400M
+
+300M
+
+200 M
+
+100M
+
+Valor acumulado empenhado em milhões de re:
+
+o
+z
+
+Fevi20
+Mar/20
+Abr/20
+Mai/20
+Jun/20
+Jul/20
+Agoi2o
+Set20
+Out20
+Nov/20
+Dez/20
+Jan/21
+Fevi21
+Mar/21
+Abri21
+Maij21
+Jun/21
+Jul/21
+
+Período do ano
+
+Figura 7: Despe:
+
+ 
+
+empenhadas para combate à pandemia
+
+O gráfico seguinte apresenta uma relação entre a despesa empenhada para combate
+à pandemia, conforme informado ao SAGRES/TCE-PB, e a população do município. Os mu-
+nicípios em destaque fazem parte do grupo dos 15 municípios com o menor gasto em relação
+ao tamanho da população. Tal situação pode evidenciar um baixo gasto com medidas para o
+combate à Covid-19 ou ausência de informação correta ao sistema do TCE/PB. Ainda sobre o
+gráfico, a reta de regressão traçada, juntamente com as faixas de erro padrão, serve para obter
+
+um parâmetro para os dados, de forma a permitir identificar os pontos mais distantes do valor
+
+ 
+
+perado.
+
+Classificados no SAGRES como Despesa COVID-19, Despesa Covid (PFEC - Art. 9º), Despesa Covid (PFEC
+- Art. 2º), Despesa Covid (PFEC - Art. 5º, 1), ou Despesa Covid (PFEC - Art. 5º, 11)
+
+192
+6.2 Gastos apenas na função saúde 6 DESPESAS PARA O COMBATE À...
+
+ 
+    
+      
+ 
+
+ 
+   
+
+ 
+   
+
+.
+100.000.000
+.
+
+30.000.000
+2 ( Sama Rita )
++ Lo
+
+5
+$
+
+é 10.000.000
+
+g
+
+8
+
+E
+
+5
+g
+E 3.000.000
+8
+E
+5
+ã À
+É amooo vier)
+
+/
+soo000 Rê=0.622
+.
+1.000 3.000 10.000 30.000 100.000 300.000 1.000.000
+População
+see mp cr
+se
+
+ses
+sess
+as ss
+
+Figura 8: Despesas para combate à pandemia em relação à população
+
+6.2 Gastos apenas na função saúde
+
+Em 2021, os municípios paraibanos empenharam R$ 147.673.251 para o combate à
+pandemia, sendo 84,43% na função saúde. Fazendo um recorte apenas dessa função, apre-
+
+sentamos na Tabela 7 a situação de tais gastos com relação aos elementos de despesa.
+
+Tabela 6: Gastos por funções da despesa.
+
+ 
+
+ 
+
+Função Total empenhado (R$) Percentual
+Saúde 124.682.278,94 84,43
+Administração 7.649.281,60 5,18
+Educação 6.259.019,24 4,24
+Assistêncial Social 5.141.890,88 3,48
+Urbanismo 2.476.924,83 1,68
+Legislativa 694.796,25 0,47
+Agricultura 240.355,95 0,16
+Cultura 174.005,34 0,12
+Segurança Pública 133.500,00 0,09
+Encargos Especias 106.604,94 0,07
+Trabalho 68.800,00 0,05
+
+13
+6.3 Maiores credores de material de...
+
+6 DESPESAS PARA O COMBATE À...
+
+ 
+
+Tabela 6: Gastos por funções da de
+
+ 
+
+(continuação)
+
+ 
+
+ 
+
+    
+
+ 
+
+Função Total empenhado (R$) Percentual
+Gestão Ambi 13.160,00 0,01
+Desporto e Lazer 11.795,24 0,01
+Previdência Social 8.400,00 0,01
+Transporte 7.368,00 0,00
+Comércio e Serviços 2.000,00 0,00
+Comunica. 1.200,00 0,00
+Direitos de Cidadania 1.870,00 0,00
+Total 147.673.251,21 100,00
+
+ 
+
+* Fonte: SAGRES TCE-PB
+
+Tabela 7: Gastos na função saúde por elementos de despesa.
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+    
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Elemento de des Total empenhado (R$) Percentual
+Contratação por Tempo Determinado 41.999.839,59 33,69
+Material de Consumo 37.490.988,73 30,07
+Vencimentos e Vantagens Fixas - Pessoal Civil 12.972.441,36 10,40
+Outros Serviços de Terceiros - Pessoa. Jurídica 12.682.865,86 10,17
+Outros Serviços de Terceiros - Pessoa. Física 6.784.244,43 5,44
+Obrigações Patronais 4.943.871,69 3,97
+Equipamentos | Permanente 3.653.185,18 2,93
+Outras De 1.059.261,02 0,85
+Outros Auxílios Financeiros a Pessoas Físicas 934.074,59 0,75
+jos Anteriores 775.105,47 0,62
+
+Premiações Culturais, Artísticas, Desportivas e Outras 403.750,00 0,32
+Indenizações e Restituições 379.693,30 0,30
+Material, Bem ou Serviço para Distribuição Gratuita 318.035,20 0,26
+223.691,32 0,18
+
+Aunxílio- Transporte 25.541,62 0,02
+Diárias - Civil 17.632,68 0,01
+Contribuições 11.250,00 0,01
+Passagens e Despesas de Locomoção 5.200,00 0,00
+Indenizações e Restituições Trabalhistas 1.606,90 0,00
+Total 124.682.278,94 100,00
+
+ 
+
+8 traz os dez maiores
+
+empenhados em favor de:
+
+* Fonte: SAGRES TCE-PB
+
+6.3 Maiores credores de material de consumo
+
+O combate à pandemia trouxe uma enorme demanda por insumos médicos. A Tabela
+
+ 
+
+ 
+
+es fornecedores no ano de 2021.
+
+credores dos municípios paraibanos, o nome do(s) município(s) e os valores
+
+14
+7 RELAÇÃO ENTRE DESPESAS E...
+
+ 
+
+Tabela 8: Maiores credores de material de consumo.
+
+ 
+
+ 
+
+ 
+
+CNPJ Nome do credor Município Valor (R$)
+
+15218561000139  NNMED DISTRIBUICAO IMP EXPORTACAO DE Campina Grande 4.882.706,8
+MEDICAMENTOS LTDA
+
+15218561000139  NNMED - DISTRIBUICAO, IMPORTACAO E João Pessoa 1.861.760,0
+EXPORTACAO DE MEDICAMENTOS LTDA
+
+12040718000190 GRADUAL COMERCIO E SERVICOS LTDA João Pessoa 824.000,0
+
+1722296000117 PANORAMA COM. DE PROD. MEDICOS E João Pessoa 738.000,0
+FARMACEUTICOS LTDA
+
+7537018000176 CIRURGICA NORDESTE DISTRIBUIDORA LTDA Mamanguape 699.000,0
+
+31556536000111 | DL DISTRIBUIDORA DE MEDICAMENTOS EIRELI | Campina Grande 625.100,0
+
+22007302000124  REABILITAR COMERCIO E REPRESENTACAO DE São Bento 5T9.749,1
+APARELHOS M
+
+32823138000187 | RENALLY KELLY DA SILVA Campina Grande 421.250,0
+
+5896491000114 BIOTEC COMERCIO DE MATERIAL MEDICO João Pessoa 420.000,0
+HOSPITALAR LTDA
+
+31187918000115 - ALLFAMED COMERCIO ATACADISTA DE Alhandra 419.936,8
+
+MEDICAMENTOS LTDA
+
+ 
+
+* Fonte: SAGRES TCE-PB
+
+7 Relação entre despesas e receitas no combate à pandemia
+
+De forma a apresentar um confronto entre as principais receitas obtidas pelos municípios
+
+paraibanos para o enfrentamento à pandemia e a desp:
+SAGRES/TCE-PB como sendo para a mesma des
+
+ 
+
+ 
+
+s empenhadas informada ao Sistema
+
+tinação, elaboramos o gráfico da Figura 9.
+
+Mais detalhes sobre os valores do gráfico citado podem ser encontratos nos ANEXOS do presente
+
+relatório, na Tabela 12.
+
+A informação incorreta ou atraso no envio dos dados, por parte da gestão municipal,
+
+ao SAGRES/TCE-PB sobre os gastos específicos para o combate à pandemia podem distorcer
+
+o confronto realizado.
+ 
+
+300 Mi
+
+250 Mi
+
+200 Mi
+
+Recursos em milhões de reais
+
+OMi
+
+a
+RA
+
+Figura 9: Receitas x Despesas no combate à pandemia nos municípios paraibanos.
+
+s estaduais e municipais
+
+&
+&
+
+P P » RP P D
+SS, & sº & AP S* Ra Pre
+
+Poe
+
+  
+
+O O
+RS
+e
+
+Período
+
+EE ces: E ces
+
+7.1 Recursos estaduais e municipais
+
+OS
+RARA
+
+7 RELAÇÃO ENTRE DESPESAS E...
+
+ao
+
+e
+
+A
+”
+
+o
+Sos
+
+De forma a consolidar com os recursos? recebidos pelo Governo do Estado da Paraíba,
+
+elaboramos a Tabela 9. Consideramos a despesa empenhada para fins do cálculo na citada
+
+ 
+
+ 
+
+ 
+
+tabela.
+Tabela 9: Receitas e despesas para o combate à Covid-19.
+Total
+. AFM/ Recursos Transf. o Despesas Resultado
+Entidade Ano Receita
+AFE (a) LC 173/20 (b) Federais (c) Covid-19 (c) (a+b-e)
+(a+b+e)
+Governo do 2020 — 320.529.459 639.144.922 198.186.210  1.157.860.591 293.296.778 864.563.813
+Estado
+Governo do 2021 0 0 54.473.750 54.473.750 234.285.090 179.81.
+Estado
+Municípios 2020  240.805.025 361.619.579 726476933 1.328.901537 547.527.868 781.373.669
+Municípios 2021 0 0 111.082.484 111.082.484 147.673.251 -36.590.767
+Total - 561.334.484 1.000.764.501  1.090.219.378 2.652.318.362 1.222.782.987 1.429.535.875
+
+ 
+
+2 Fonte: SAGRES/TCE-PB, Governo Federal, STN, SIAF /PB.
+
+» Decimais suprimidos da tabela.
+
+$ Até o relatório GPC nº 20/2021, de abril de 2021, não foram computados os recursos decorrentes da Lei Aldir
+
+Blanc. Os recui
+
+ 
+
+nos demais gráficos e tabelas do relatório.
+
+s decorrentes do AFM foram contemplados apenas no presente item, não tendo sido computado
+
+16
+8 LICITAÇÕES E CONTRATOS
+
+ 
+
+8 Licitações e contratos
+
+As informações seguintes se referem às dispensas de licitação com na Lei nº 13.979/20” e
+
+na Medida Provisória nº 1.047/218, que estabeleceu medidas para o enfrentamento da emergência
+
+de saúde pública. A Tabela 10 apresenta um detalhamento das quantidades de processos de
+
+dispensa de licitação com base nas normas supramencionadas lei e que foram informadas ao
+Sistema Tramita/TCE-PB. Até o dia 07/06/2021, foram informados 1875 procedimentos do
+
+tipo, realizadas por entidades municipais.
+
+Tabela 10: Dispensas de licitação para combate à Covid-19.
+
+ 
+
+ 
+
+ 
+
+Ano Mês de homologação Quantidade Acumulado Perc. acumulado
+2.020 Março 27 27 1,44
+2.020 Abril 151 178 9,49
+2.020 Maio 341 519 27,68
+2.020 Junho 226 745 39,73
+2.020 Julho 236 981 52,32
+2.020 Agosto 215 1.196 63,79
+2.020 Setembro 164 1.360 72,53
+2.020 Outubro 109 1469 78,35
+2.020 Novembro 81 1.550 82,67
+2.020 Dezembro sa 1.634 8715
+2.021 Janeiro 33 1.667 88,91
+2021 Fevereiro 32 1.699 90,61
+2.021 Março 52 LTL 93,39
+2.021 Abril 36 1787 95,31
+2.021 Maio 45 1.832 97,71
+2.021 Junho 43 1.875 100,00
+
+ 
+
+* Fonte: Tramita TCE-PB
+
+A Tabela 11 apresenta os totais mensais dos valores ratificados através de dispensas de
+licitação com base na Lei nº 13.979/20 ou MP 1.047/21.
+
+Tabela 11: Dispei
+
+as de licitação para combate à Covid-19.
+
+ 
+
+ 
+
+ 
+
+Ano Mês Total ratificado (R$)
+2020 Março 3.294.636
+2020 Abril 15.453.148
+2020 Maio 23.499.189
+2020 Junho 11.997.244
+2020 Julho 25.811.126
+
+"Lei disponível em: <http://www.planalto.gov.br/ccivil 03/ ato2019-2022/2020/1ei/113979.htm>
+
+$Medida Provisória disponível em:
+
+mpv1047.htm>
+
+<http://www.planalto.gov.br/ccivil 03/ Ato2019-2022/2021/Mpv/
+
+17
+8 LICITAÇÕES E CONTRATOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 11: Dispensas de licitação para combate à Covid-19. (con-
+
+tinuação)
+Ano Mês Total ratificado (R$)
+2020 — Agosto 14.442.397
+2020 — Setembro 13.391.854
+2020 — Outubro 12.432.987
+2020 Novembro 7.660.363
+2020 Dezembro 6.324.324
+2021 Janeiro 1.124.632
+2021 — Fevereiro 6.122.463
+2021 Março 4.427.351
+2021 Abril 2.300.329
+2021 Maio 3.035.643
+2021 Junho 3.205.870
+Total - 154.523.555
+* Fonte: Tramita TCE-PB
+
+18
+9 CONSIDERAÇÕES FINAIS
+
+ 
+
+9 Considerações finais
+
+Após atualização com dados referentes até o final de junho de 2021, destacamos os
+
+seguintes pontos:
+
+10.
+
+- Considerando o período de janeiro a junho de 2021, os municípios paraibanos receberam
+
+R$ 664,4 milhões a mais de transferências constitucionais e legais do que em relação ao
+
+mesmo período de 2020, ou seja, um crescimento de 25,83%;
+
+. Ao final de junho de 2021, a Paraíba contava, de forma acumulada, com 396.442 casos
+
+de Covid-19 e com 8.606 óbitos, um crescimento em relação ao mês anterior de 19,78% e
+
+12,17%, respectivamente;
+
+. Levando em consideração o período entre 31/05/2021 e 30/06/2021, todas as mesorregiões
+
+apresentaram crescimento dos casos acumulados de Covid-19, sendo o maior crescimento
+verificado na mesorregião da Borborema, com 26,88% e o menor na Mata Paraibana, com
+15,89%;
+
+. Até final de junho, os municípios paraibanos aplicaram 1.870.670 doses de vacina, sendo
+
+1.324.738 referentes à primeira dose e 545.932 referentes à segunda dose ou única;
+
+- Na Paraíba, até o final de junho de 2021, o ritmo de vacinação contra à Covid-19 atingiu
+
+uma média 8.029 doses/dia para a primeira dose e de 3.309 doses/dia para a segunda dose
+
+ou única;
+
+. Até 30/06/2021, os registros contidos no SAGRES/TCE-PB apontam para empenhos
+
+ 
+
+ 
+
+realizados pelos municípios para o combate à pandemia da ordem de R$ 695,20 milhões;
+
+ 
+
+. Fazendo um recorte apenas do ano de 2021, os municípios empenharam, conforme registros
+
+do SAGRES, R$ 147,67 milhões para o combate à pandemia, sendo 84,43% desses recursos
+
+alocados na função saúde;
+
+- Contratação por tempo determinado, até o final de junho, foi o elemento de despesa com
+
+maior volume de recursos empenhados em 2021 na função saúde para o combate à Covid-
+19, R$ 41,99 milhões, representando 33,69% do total;
+
+. Estado e municípios da Paraíba receberam R$ 2,65 bilhões entre recursos da LC nº 173/20,
+
+da Lei nº 14.041/20 (AFM/AFE) e recursos transferidos pelo Governo Federal para o
+combate à Covid-19. Os mesmos informaram gastos da ordem de R$ 1,22 bilhões como
+
+sendo específicos para o enfrentamento da pandemia;
+
+Desde o início da pandemia, foram informados, ao Sistema Tramita/TCE-PB, 1.875 pro-
+cedimentos de dispensa de licitação com base na Lei nº 13.979/20 ou procedimentos com
+
+base na Medida Provisória 1.047/21. Somando os valores ratificados por ess
+
+ 
+
+s dispensas
+
+ 
+
+o montante resultante é de R$ 154,5 milhões.
+
+19
+9 CONSIDERAÇÕES FINAIS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANEXOS
+Tabela 12: Receitas e despesas para o combate à Covid-19.
+o. Transf. Recursos Total Despesas Resultado
+Ano Mês
+Federais (a) LC 173/20 (b) Receita (ab) — Covid-19 (c) (a-+b-e)
+2020 Fey 0 0 0 17.358 -17.358
+2020 Mar 10.001.110 0 10.001.110 5.015.002 4.986.108
+2020 Abr 58.911.416 0 58.911.416 28.237.540 35.673.876
+2020 Mai 42.299.856 0 42.299.856 30.061.422 12.238.433
+2020 Jun 54.940.105 90.413.233 145.353.337 56.362.263 88.991.074
+2020 Jul 285.039.503 90.413.233 325.452.736 68.440.744  257.011.992
+2020 Ago  155.726.198 90.413.233 246.139.431 92.138.873  154.000.558
+2020 Set 75.791.864 90.379.881 166.171.745 7.480.573 88.691.172
+2020 Out 18.007.961 0 18.007.961 61.122.000 — -43.114.039
+2020 Nov 26.185.844 0 26.185.844 58.236.451  -32.050.607
+2020 Dez 49.573.076 0 49.573.076 75415641 -25.842.565
+2021 Jan 8.980.000 0 8.980.000 13.158.852 -4. 178.852
+2021 Fev 0 0 0 21.560.128  -21.560.128
+2021 Mar 34.008.000 0 34.008.000 22.260.819 11.747.181
+2021 Abr 25.392.000 0 25.392.000 25.017.026 374.974
+2021 Mai 42.702.484 0 42.702.484 32.326.454 10.376.031
+2021 Jun 0 0 0 33.349.973 -33.349.973
+Total - 837.559.418 361.619.579  1.199.178.996 695.201.119 503.977.877
+* Fonte: SAGRES/TCE-PB, Governo Federal, STN.
+» Decimais suprimidos da tabela.
+Tabela 13: Receitas e despesas para o combate à Covid-19.
+Transf. Recursos Total Despesas Resultado
+
+Município
+
+ 
+
+Federais (a) LC 173/20 (b) Receita (a+b) — Covid-19 (c) (a+b-e)
+Água Branca 2.727.164 921.436 3.648.599 2.416.468 1.232.132
+Aguiar 1.852.907 506.695 2.859.602 1.877.344 482.259
+Alagoa Grande 5.071.200 2.559.924 7.631.125 3.484.642 4.146.483
+Alagoa Nova 4.350.086 1.875.504 6.225.590 1.323.607 4.901.983
+Alagoinha 3.051.843 1.303.849 4.355.693 1.753.786 2.601.907
+Alcantil 1.202.175 493.997 1.696.172 1.121.304 574.868
+Algodão de Jandaíra 514.818 230.944 745.762 263.857 481.904
+Alhandra 3.909.357 1.763.665 5.673.022 1.950.722 3.722.300
+Amparo 1.163.815 201.441 1.365.256 710.392 654.864
+Aparecida 1.837.270 751.766 2.589.036 1.981.975 607.061
+Araçagi 3.747.467 1.525.302 5.272.770 2.933.061 2.839.709
+Arara 2.819.441 1.212.285 4.031.726 880.003 3.151.722
+Araruna 2.939.555 1.829.006 4.768.562 2.616.989 2.151.573
+Areia 3.973.305 2.047.308 6.020.613 1.567.753 4.452.860
+Areia de Baraúnas 1.080.324 190.995 1.271.319 800.931 470.388
+Areial 1.141.498 629.624 1.771.122 478216 1.292.907
+Aroeiras 4.300.542 1.720.630 6.021.172 4.395.420 1.625.752
+
+2()
+9 CONSIDERAÇÕES FINAIS
+
+ 
+
+Tabela 13: Receitas e despesas para o combate à Covid-19. (continua-
+
+ 
+
+ 
+
+ção)
+o Transf. Recursos Total Despesas Resultado
+Município
+Federais (a) LC 173/20 (b) Receita (a+b) — Covid-19 (e) (a-+b-c)
+
+Assunção 700.500 359.491 1.059.991 398.697 661.295
+Baía da Traição 2.118.016 810.589 2.928.605 1.244.309 1.684.297
+Bananeiras 4.214.075 1.914.950 6.129.025 2.259.780 3.869.245
+Baraúna 1.333.030 441.300 1.774.330 1.222.656 551.675
+Barra de Santa Rosa 3.428.800 1.385.231 4.809.031 2.033.342 2.775.689
+Barra de Santana 1.837.686 T5LOTT 2.588.763 1.458.842 1.129.921
+Barra de São Miguel 977.405 543.160 1.520.565 919.018 601.547
+Bayeux 1.105.136 8.714.731 19.819.868 — 18.095.325 1.724.542
+Belém 4.125.472 1.589.355 5.714.827 1.243.589 4.471.288
+Belém do Brejo do 2.127.701 660.050 2.787.751 1.680.832 1.106.919
+Cruz
+
+Bernardino Batista 854.685 315.450 1.170.135 1.019.368 150.768
+Boa Ventura 918.314 480.972 1.399.286 1.394.205 5.082
+Boa Vista 1.816.196 635.641 2.451.837 1.243.644 1.208.193
+Bom Jesus 539.862 230.494 770.356 389.125 381.231
+Bom Sucesso 1.515.820 446.724 1.962.544 296.439 1.666.106
+Bonito de Santa Fé 2.108.200 1.073.441 3.181.641 2.425.839 755.802
+Boqueirão 4.682.161 1.601.687 6.283.848 3.835.811 2.448.037
+Borborema 1.838.467 ar3.572 2.312.038 604.858 1.707.180
+Brejo do Cruz 2.785.140 1271155 4.056.294 1.253.238 2.803.057
+Brejo dos Santos 1.534.519 579.967 2.114.486 L113.878 1.000.609
+Caaporã 4.421.502 1.964.726 6.386.228 1.383.296 5.002.932
+Cabaceiras 1.880.974 505.431 2.386.405 1.130.841 1.255.565
+Cabedelo 8.387.908 6ALI31 14449035  11.519.273 2.929.761
+Cachoeira dos Índios 1.817.746 922.088 2.739.834 456.793 2.283.041
+Cacimba de Areia 1.705.026 331.226 2.036.252 635.805 1.400.447
+Cacimba de Dentro 2.547.501 1.544.554 4.092.054 249.503 3.842.552
+Cacimbas 1.740.491 645.286 2.385.777 1.512.965 872.811
+Caiçara 1.932.030 646.997 2.579.027 348.686 2.280.342
+Cajazeiras 10.004.443 5.578.509 15.582052 — 16.313.565 -730.613
+Cajazeirinhas 1.415.860 287.253 1.708.113 1.439.702 263.411
+Caldas Brandão 1.051.257 541.250 1.592.507 703.827 888.680
+Camalaú 1.018.409 540.847 1.559.255 427.615 1.131.641
+Campina Grande 95.955.642 36.872.776 132828418 84921959 — 47.906.459
+Capim 1.707.496 588.453 2.295.949 1.397.856 898.093
+Caraúbas 679.940 374.592 1.054.532 923.270 131.262
+Carrapateira 985.769 239.616 1.225.385 1.264.275 -38.891
+Casserengue 2.179.850 671.912 2.851.762 859.869 1.991.892
+Catingueira 1.888.927 443.352 2.332.278 1.837.758 494.521
+Catolé do Rocha 4.937.669 2.748.540 7.686.209 3.983.472 3.752.736
+Caturité 952.298 436.609 1.388.906 627.757 761.150
+Conceição 4.825.339 1.706.648 6.531.986 5.195.871 1.336.115
+Condado 1.984.022 598.146 2.582.168 1.966.663 615.504
+Conde 4.325.184 2.224.929 6.550.114 1.028.023 5.522.091
+
+91
+9 CONSIDERAÇÕES FINAIS
+
+ 
+
+Tabela 13: Receitas e despesas para o combate à Covid-19. (continua-
+
+ 
+
+ 
+
+ção)
+no Transf. Recursos Total Despesas Resultado
+Município
+Federais (a) LC 173/20 (b) Receita (a+b) — Covid-19 (c) (a+b-c)
+Congo 895.003 430.185 1.325.188 1.389.342 -64.154
+Coremas 3.636.047 1.388.096 5.024.143 3.810.035 1.214.108
+Coxixola 396.600 172.971 569.572 192.129 377.442
+Cruz do Espírito 3.590.843 1.559.796 5.150.639 1.919.761 3.230.878
+Santo
+Cubati 1.453.112 701.572 2.154.684 1.348.767 805.917
+Cuité 4.787.375 1.827.875 6.615.250 737.788 5.877.462
+Cuité de 1.926.818 571.070 2.497.888 1.586.095 911.793
+Mamanguape
+Cuitegi 1.770.861 610.822 2.381.683 1.047.919 1.333.764
+Curral de Cima 1.820.796 469.598 2.290.394 1.721.748 568.651
+Curral Velho 1.128.066 226.047 1.354.113 1.066.706 287.407
+Damião 832.143 479.952 1.312.095 406.982 905.113
+Desterro 1.622.988 746.131 2.369.119 1.452.031 917.088
+Diamante 2.017.103 588.352 2.605.455 1.405.468 1.199.987
+Dona Inês 1.844.679 938.613 2.783.292 1.499.789 1.283.503
+Duas Estradas 1.526.866 322.893 1.849.759 514.647 1.335.112
+Emas 1.169.341 316.935 1.486.276 1.366.920 119.356
+Esperança 6.650.279 2.970.941 9.621.220 2.550.892 7.070.329
+Fagundes 2.212.125 1.010.561 3.222.686 2.699.967 522.719
+Frei Martinho 625.917 268.649 894.567 396.431 498.136
+Gado Bravo 2.082.130 747145 2.829.275 3.025.587 -196.312
+Guarabira 9.417.844 5.294.177 14.712.021 8.419.728 6.292.293
+Gurinhém 2.690.452 1.269.860 3.960.311 1.272.527 2.687.784
+Gurjão 769.351 308.666 1.078.017 1.280.064 -202.048
+Ibiara 1.868.462 532.812 2.400.774 1.201.068 1.199.707
+Igaracy 1.219.049 549.523 1.768.572 1.270.802 497.770
+Imaculada 2.516.593 1.062.932 3.579.525 1.342.961 2.236.564
+Ingá 4.737.832 1.628.002 6.365.834 2.487.449 3.878.385
+Itabaiana 5.797.586 2.198.677 7.996.263 2.215.508 5.780.755
+Itaporanga 5.037.575 2.222.342 7.259.918 5.622.368 1.637.549
+Itapororoca 3.847.255 1.681.064 5.028.319 2.188.542 2.839.777
+Itatuba 1.604.493 986.465 2.590.958 1.095.816 1.495.142
+Jacaraú 3.236.554 1.297.473 4.534.027 2.736.830 1.797.197
+Jericó 2.102.179 695.710 2.797.889 1.638.621 1.159.268
+João Pessoa 163.167.974 72.903.782 236.071.756  158.712.122 82.359.634
+Joca Claudino 602.226 236.989 839.215 420.591 418.624
+Juarez Távora 2.087.380 TAIT 2.801.557 764417 2.037.140
+Juazeirinho 3.166.539 1.636.038 4.802.577 1.711.621 3.090.956
+Junco do Seridó 1.721.941 643.644 2.365.585 1.389.357 976.228
+Juripiranga 2.988.312 967.569 3.955.881 2.117.903 1.837.978
+Juru 2.373.159 886.436 3.259.595 3.382.052 -122.457
+Lagoa 869.846 419.086 1.288.932 545.538 743.394
+Lagoa de Dentro 2.142.247 694.181 2.836.428 1.783.032 1.053.396
+
+0)
+9 CONSIDERAÇÕES FINAIS
+
+ 
+
+Tabela 13: Receitas e despesas para o combate à Covid-19. (continua-
+
+ 
+
+ 
+
+ção)
+o Transf. Recursos Total Despesas Resultado
+Município
+Federais (a) LC 173/20 (b) Receita (a+b) — Covid-19 (e) (a-+b-c)
+
+Lagoa Seca 6.413.833 2.474.501 8.888.334 10739274 1.850.940
+Lastro 1.252.595 245.574 1.498.169 998.881 499.288
+Livramento 1.252.147 652.365 1.904.513 863.828 1.040.685
+Logradouro 1.343.652 390.185 1.733.837 630.014 1.103.823
+Lucena 2.894.262 1.178.619 4.072.881 1.521.690 2.551.191
+Mãe d'Água 1.427.549 360.102 1.787.651 1.379.752 407.899
+Malta 1.184.614 517.458 1.702.072 1.609.799 92.273
+Mamanguape 8.644.825 4.039.645 12.684.470 7.763.579 4.920.891
+Manaíra 2.412.765 985.008 3.397.773 1.974.722 1.423.052
+Marcação 1.687.532 T71312 2.458.844 1.460.121 998.724
+Mari 4.802.236 1.963.343 6.765.579 4.016.429 2.749.150
+Marizópolis 1.133.636 595.559 1.729.195 922.492 806.703
+Massaranduba 2.466.738 1.252.730 3.719.468 2.669.307 1.050.161
+Mataraca 1.695.423 760.391 2.455.814 667.613 1.788.202
+Matinhas 886.411 404.792 1.291.204 1.474.349 -183.146
+Mato Grosso 1.224.643 26.772 1.486.415 902.300 584.115
+Maturéia 1.164.151 591.782 1.755.932 1.413.602 342.831
+Mogeiro 2.529.065 1.193.442 3.722.506 2.562.711 1.159.795
+Montadas 1.290.508 511.069 1.801.578 547.085 1.254.493
+Monte Horebe 849.386 433.440 1.282.826 LITO.186 103.641
+Monteiro BATTATO 2.990.690 11.468.166 8.205.514 3.262.652
+Mulungu 2.511.085 890.656 3.401.741 969.464 2432.2977
+Natuba 1.957.752 939.531 2.897.283 772.304 2.124.978
+Nazarezinho 1.974.991 655.873 2.630.864 958.698 1.672.166
+Nova Floresta 1.609.923 955.867 2.565.790 1.143.924 1.421.866
+Nova Olinda 1.280.440 534.043 1.814.483 1.704.573 109.910
+Nova Palmeira 901.766 442.134 1.343.900 878.450 465.450
+Olho d' Água 1.953.211 585.120 2.538.332 1.511.991 1.026.340
+Olivedos 1.461.968 354.054 1.816.022 467.328 1.348.693
+Ouro Velho 1.319.566 273.300 1.592.866 865.009 727.857
+Parari 505.080 158.885 663.966 349.802 314.164
+Passagem LIT 217.798 1.392.240 1.134.950 257.289
+Patos 15.682.769 9.684.594 25.367.363 18.443.685 6.923.678
+Paulista 3.002.252 1.110.455 4.112.708 964.537 3.148.171
+Pedra Branca 1.708.837 341.653 2.050.491 2.249.405 -198.914
+Pedra Lavrada 1.836.505 706.176 2.542.681 1.196.945 1.345.737
+Pedras de Fogo 6.262.346 2.559.463 8.821.808 8.072.112 749.696
+Pedro Régis 1.105.250 5ar834 1.653.084 968.301 684.783
+Piancó 6.524.730 1.445.615 7.970.345 6.940.886 1.029.459
+Picuí 3.759.652 1.681.392 5.441.044 1.679.801 3.761.243
+Pilar 3.021.887 1.072.434 4.094.321 1.342.549 2.751.772
+Pilões 1.755.694 595.029 2.350.723 538.567 1.812.156
+Pilôezinhos 1.465.539 446.769 1.912.309 1.531.054 381.254
+Pirpirituba 1.431.207 950.945 2.382.152 316.477 2.065.674
+
+23
+9 CONSIDERAÇÕES FINAIS
+
+ 
+
+Tabela 13: Receitas e despesas para o combate à Covid-19. (continua-
+
+ 
+
+ 
+
+ção)
+no Transf. Recursos Total Despesas Resultado
+Município
+Federais (a) LC 173/20 (b) Receita (a+b) — Covid-19 (c) (a+b-c)
+Pitimbu 3.765.405 1.718.247 5.483.652 2.207.773 3.275.879
+Pocinhos 3.330.603 1.671.741 5.002.344 2.827.111 2.675.233
+Poço Dantas 1.458.852 349.316 1.808.169 1.065.075 743.093
+Poço de José de 868.701 387.781 1.256.483 1.392.418 -135.986
+Moura
+Pombal 7.965.720 2.948.152 10.913.872 7.980.454 2.983.419
+Prata 1.479.870 378.951 1.858.821 1.552.358 306.463
+Princesa Isabel 6.236.497 2.102.796 8.339.293 3.724.446 4.614.848
+Puxinanã 2.236.984 1.230.913 3.467.898 1.854.276 1.613.621
+Queimadas 6.886.397 3.956.466 10.842.863 3.870.791 6.972.072
+Quixabá 1.088.383 176.408 1.264.791 932.196 332.595
+Remígio 3.847.571 1.767.482 5.615.053 3.339.395 2.275.658
+Riachão 1.389.645 323.180 1.712.825 441.273 1.271.552
+Riachão do 950.348 406.792 1.357.140 622.185 734.955
+Bacamarte
+Riachão do Poço 751.604 405.959 1.157.564 168.492 989.071
+Riacho de Santo 1.170.850 175.667 1.346.516 598.965 747.551
+Antônio
+Riacho dos Cavalos 2.403.296 766.646 3.169.942 2.901.960 267.982
+Rio Tinto 4.946.324 2.173.861 7.120.186 5.130.028 1.990.157
+Salgadinho 1.242.184 350.210 1.592.395 752.792 839.602
+Salgado de São Félix 2.607.113 1.090.933 3.698.046 1.023.682 2.674.363
+Santa Cecília 1.197.628 589.048 1.786.675 1.503.083 283.593
+Santa Cruz 1.627.166 591.631 2.218.797 713.984 1.504.813
+Santa Helena 1.296.129 528.896 1.825.026 450.482 1.374.543
+Santa Inês 1.258.698 323.071 1.581.769 1.204.452 ar7.818
+Santa Luzia 3.790.605 1.383.508 5.174.113 3.093.473 2.080.639
+Santa Rita 18.199.408 12.293.323 30.492.731 8.620.611 21.872.119
+Santa Teresinha 1.650.868 410.772 2.061.639 1.621.418 440.221
+Santana de 1.611.440 463.218 2.074.659 1.767.422 307.287
+Mangueira
+Santana dos 1.898.416 630.934 2.529.350 1.011.479 1.517.871
+Garrotes
+Santo André 641.249 226.317 867.566 575.721 291.845
+São Bentinho 1.459.809 407.891 1.867.700 1.199.067 668.632
+São Bento 5.964.229 3.065.685 9.029.915 6.993.704 2.036.211
+São Domingos 708.565 276.736 985.301 936.704 48.597
+São Domingos do 532.765 235.370 768.135 TI ATA -11.339
+Cariri
+São Francisco 823.399 304.692 1.128.090 905.515 222.575
+São João do Cariri 1.201.137 377.067 1.578.204 820.746 757.458
+São João do Rio do 3.110.097 1.620.704 4.730.801 2.813.744 1.917.057
+Peixe
+São João do Tigre 946.995 397.290 1.344.284 1.317.377 26.907
+
+94
+9 CONSIDERAÇÕES FINAIS
+
+ 
+
+Tabela 13: Receitas e despesas para o combate à Covid-19. (continua-
+
+ 
+
+ 
+
+ção)
+o Transf. Recursos Total Despesas Resultado
+Município
+Federais (a) LC 173/20 (b) Receita (a+b) — Covid-19 (e) (a-+b-c)
+São José da Lagoa 2.021.256 685.689 2.706.945 754.707 1.952.239
+Tapada
+São José de Caiana 1.903.899 571.923 2.475.822 1.498.966 976.855
+São José de 1.626.752 420.233 2.046.985 1.011.730 1.035.256
+Espinharas
+São José de Piranhas 4.106.962 1.821.890 5.928.853 3.151.002 2.777.850
+São José de Princesa 1.335.387 358.601 1.698.987 807.293 886.694
+São José do Bonfim 804.956 320.394 1.125.350 565.414 559.936
+São José do Brejo do 1.185.888 162.096 1.347.984 1.042.126 305.858
+Cruz
+São José do Sabugi 1.749.558 372.324 2.121.882 T27.109 1.394.773
+São José dos TT 1.198 325.858 1.097.056 568.864 528.192
+Cordeiros
+São José dos Ramos 1.596.982 536.328 2.133.310 1.001.417 1.131.894
+São Mamede 1.678.134 693.735 2.871.869 741.659 1.630.209
+São Miguel de Taipu 1.406.527 663.170 2.069.697 2.618.678 -548.981
+São Sebastião de 1.823.075 1.049.581 2.872.657 299.084 2.573.573
+Lagoa de Roça
+São Sebastião do 1.414.566 314.103 1.728.669 472.287 1.256.432
+Umbuzeiro
+São Vicente do 2.589.164 970.083 3.559.246 525.100 3.034.146
+Seridó
+Sapé 6.823.271 4.733.902 11.557.173 4.349.396 7.207.777
+Serra Branca 2.651.046 1.232.487 3.883.533 2.107.691 1.775.842
+Serra da Raiz 1.435.085 282.560 1.717.644 914.892 802.752
+Serra Grande 1.356.703 261.615 1.618.318 1.232.137 386.181
+Serra Redonda 1.380.157 632.392 2.012.549 1.285.325 727.224
+Serraria 1.901.721 547.480 2.449.201 417.140 2.082.062
+Sertãozinho 1.540.269 453.008 1.998.277 1.004.483 988.794
+Sobrado 1.929.398 700.246 2.629.644 1.157.120 L4r2.524
+Solânea 4.962.745 2.369.414 7.332.160 1.895.507 5.436.652
+Soledade 2.685.176 1.349.729 4.034.905 3.295.070 739.835
+Sossêgo 732.107 320.393 1.052.501 463.249 589.252
+Sousa 10.903.672 6.247.819 17.151.491 7.897.962 9.253.528
+Sumé 5.559.508 1.526.346 7.085.854 5.613.833 1.472.021
+Tacima 1.698.821 981.971 2.680.791 T5L.I4T 1.929.645
+Taperoá 3.083.852 1.383.438 4.467.290 2.708.288 1.759.002
+Tavares 3.568.801 1.324301 4.893.101 2.095.564 2.797.537
+Teixeira 2.926.762 1.364.606 4.291.368 2.825.527 1.465.841
+Tenório 714.502 275.365 989.867 700.499 289.369
+Triunfo 1.938.317 850.010 2.788.327 573.606 2.214.721
+Viraúna 3.820.536 1.371.238 5.200.773 4.527.330 673.443
+Umbuzeiro 2.757.179 890.524 3.647.703 622.101 3.025.602
+Várzea 1.218.523 253.254 LATLITT 875.030 596.747
+9 CONSIDERAÇÕES FINAIS
+
+Tabela 13: Receitas e despesas para o combate à Covid-19. (continua-
+
+ 
+
+ 
+
+ 
+
+ção)
+
+o Tra Recursos Total Despesas Resultado
+
+Município
+Federais (a) LC 173/20 (b) Receita (a+b) — Covid-19 (e) (a-+b-c)
+
+Vieirópolis 1.692.333 481.211 2.173.544 851.007 1.322.537
+Vista Serrana 1.466.247 341.943 1.808.190 360.297 1.447.893
+Zabelê 1.015.924 201.665 1.217.589 718.520 499.070
+Total 837.559.418 361.619.579  1.199.178.996 695.201.119 503.977.877
+
+ 
+
+* Fonte: SAGRES/TCE-PB, Governo Federal, STN.
+
+» Decimais suprimidos da tabela.
+
+26
+

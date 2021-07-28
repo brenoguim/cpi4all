@@ -1,0 +1,1810 @@
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+
+Si ANVISA
+
+Agência Naconal de Viglância Sanitária
+
+Gabinete do Diretor-Presidente
+SIA Trecho 5, Área Especial 57, Brasília/DF, CEP 71205-050
+Telefone: 0800 642 9782 - www.anvisa.gov.br
+
+Ofício nº 321/2021/SEI/GADIP-DP/ANVISA
+
+ASua Excelência o Senhor
+
+Senador Omar Aziz
+
+Presidente da CPI Pandemia
+
+Senado Federal - Anexo II, Ala Senador Alexandre Costa, sala 15, subsolo
+70165-900 - Brasília/DF
+
+E-mail: Ibueno senado. leg. br; assaifeOsenado.leg.br
+
+Assunto:
+
+  
+
+equerimento nº 1128/2021-CPIPANDEMIA.
+
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 25351.920479/2021-86.
+
+Senhor Senador,
+
+Em atenção ao Ofício nº 1925/2021 — CPIPANDEMIA, que encaminha o Requerimento 01128/2021 da Comissão Parlamentar de Inquérito e
+solicita informações relativas ao Procedimento Operacional Padrão empregado na análise de vacinas pela Gerência-Geral de Medicamentos e Produtos
+Biológicos (GGMED) da Anvisa; e também solicita os nomes dos técnicos responsáveis pelas etapas no caso da Sputnik e Covaxin, informamos que as respostas
+para estas solicitações encontram-se consubstanciadas ao longo deste Ofício, elaborado com uma racionalidade própria para melhor entendimento do contexto
+das respostas, conforme descreve o item 1 abaixo.
+
+1, Da estrutura lógica deste Ofício
+
+Para melhor entendimento das respostas, fizemos primeiramente uma breve contextualização do processo de autorização das vacinas contra a
+Covid-19 no Brasil (item 2). Posteriormente, descrevemos os Procedimentos para anuência de ensaios clínicos, os quais podem anteceder os pedidos de uso
+emergencial ou registro de medicamentos (item 3), e apresentamos os processos de anuência dos ensaios clínicos da vacina Covaxin (item 3.1) e da
+vacina Sputnik V (item 3.2).
+
+Considerando que as análises das vacinas, tanto no âmbito do processo de Autorização de Uso Emergencial (AUE), quanto do processo de
+Registro, possuem como um dos pilares as Boas Práticas de Fabricação, trouxemos um item específico sobre o tema, denominado Dos Procedimentos para as
+boas práticas de fabricação de medicamentos e vacinas (item 4). Igualmente, este item foi subdividido no item 4.1 e no item 4.2, que trazem considerações
+das Certificações das Boas Práticas de Fabricação das vacinas Covaxin e Sputnik V, respectivamente.
+
+Em seguida, adentramos no item 5 Dos Procedimentos para autorização de uso emergencial para vacinas contra a Covid 19, que também traz
+nos subitens 5.1 e 5.2 as especificidades desse processo para as vacinas Covaxin e Sputnik V, respectivamente.
+
+Os Procedimentos para registro sanitário de vacinas Covid 19 encontram-se no item 6.
+
+As análises dos processos de vacinas também são apoiadas por análises laboratoriais, de farmacovigilância e também envolvem questões
+relacionadas a despacho aduaneiro, e, nesse sentido, apresentamos informações sobre os Procedimentos da Gerência de Laboratórios de Saúde Pública e
+do INCQS nas vacinas Covid 19 (item 7), sobre os Procedimentos da Gerência da Farmacovigilância para a AUE ou registro sanitário das vacinas Covid 19 (item
+8), e sobre os Procedimentos da Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, das vacinas Covid 19 (item 9).
+
+Ao final, fizemos um breve Destaque sobre os pedidos de autorização excepcional e temporária para importação e distribuição das
+vacinas Covaxin e Sputnik (item 10), e prosseguimos para as Considerações Finais (item 11) acerca do que fora apresentado.
+
+É importante ressaltar que essa estrutura foi elaborada para que as respostas oferecidas ao supracitado Requerimento estejam adequadas ao
+contexto de análise que a Anvisa realiza, cuja decisão de emissão de exigência, deferimento ou indeferimento de processos encontra-se amparada numa visão
+multidisciplinar dos saberes técnicos especializados dos servidores da Agência.
+
+Desse modo, destaca-se que a elaboração deste Oficio foi realizada com base nas contribuições das áreas técnicas relacionadas ao tema na
+Anvisa, quais sejam: Gerência-Geral de Medicamentos e Produtos Biológicos (GGMED), Gerência-Geral de Inspeção e Fiscalização Sanitária (GGFIS), Gerência de
+Laboratórios de Saúde Pública (Gelas); Gerência-Geral de Monitoramento de Produtos Sujeitos à Vigilância Sanitária (GGMON) e Gerência-Geral de Portos,
+Aeroportos, Fronteiras e Recintos Alfandegados (GGPAF).
+
+2. Contextualização do processo de autorização das vacinas contra a Covid-19 no Brasil
+
+Antes de oferecer as respostas ao questionamento apresentado pela Douta Comissão, cumpre promover breve contextualização sobre o processo
+das vacinas contra a Covid-19 e os modelos regulatórios associados à sua regularização e intemalização no país.
+
+Desde o início desta crise de saúde pública, a Anvisa fornece uma comunicação clara para a indústria farmacêutica com relação aos dados
+científicos e às informações necessários para garantir o desenvolvimento de vacinas e atua rapidamente para acompanhar os projetos de desenvolvimento
+de vacina Covid 19, permitindo também a avaliação dos dados que são gerados, ampliando as reuniões técnicas e adotando o procedimento de submissão
+contínua, o que resultou, posteriormente, na publicação da Instrução Normativa IN nº 77 de 2020, publicada em 18 de novembro de 2020.
+
+As vacinas Covid-19 autorizadas pela Anvisa, seja pela via da autorização de uso emergencial ou do registro sanitário, passaram por
+um desenvolvimento acelerado, mas atenderam um processo rigoroso que inclui dezenas de milhares de participantes em estudos para gerar os dados não
+clínicos, clínicos e de fabricação necessários. A Agência fez e fará uma avaliação abrangente dessas informações enviadas por uma empresa ou entidade
+responsável pelas vacinas, de forma a permitir que a Anvisa emita uma autorização sanitária para uso de uma vacina. Para tanto, devem ser
+disponibilizadas as informações necessárias e adequadas para garantir a qualidade, a eficácia e a segurança, possibilitando determinar que os benefícios
+conhecidos e potenciais superam os riscos conhecidos e potenciais da vacina.
+
+Importante contextualizar que a Anvisa é mundialmente respeitada por seus padrões científicos de segurança, eficácia e qualidade de vacinas. A
+Agência faz reuniões técnicas e regulatórias com os desenvolvedores de vacinas e realiza uma avaliação rigorosa das informações científicas apresentadas pelas
+empresas. A Anvisa reconhece a gravidade da atual emergência de saúde pública e a importância de facilitar a disponibilidade, o mais rápido possível, de vacinas
+seguras e eficazes contra a Covid-19
+
+A Anvisa é agência reguladora de referência; tem assento nos principais fóruns de regulação do mundo na área de medicamentos
+(Coalizão Internacional das Autoridades Reguladoras de Medicamentos - ICMRA; Conferência Internacional de Autoridades Reguladoras de Medicamentos -
+ICDRA; Conferência Internacional de Harmonização de Requisitos Técnicos para Fármacos de Uso Humano - ICH e Esquema de Cooperação em Inspeção
+
+http:
+
+ 
+
+'sei.anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origer
+
+ 
+
+rvore visualizar&id documento=1716625&infra si... 1/14
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+
+Farmacêutica (PIC/S). Os pedidos de registro e de uso emergencial de vacinas avaliados pela Agência levam em conta as melhores práticas da ciência regulatória.
+Dados de qualidade, segurança e eficácia são analisados com robustez e rigor técnico a fim de determinar se os benefícios de uma plataforma vacinal superam
+os risos de sua utilização. (https://wwnw.gov.br/anvisa/pt-br/acessoainformacao/institucional/relacoes;  internacionais/cooperacao;
+https://wwnw.gov.br/anvisa/pt-br/acessoainformacao/institucional/relacoes-internacionais/convergencia-regulatoria; https://wwnw. gov br/anvisa/pt-
+br/assuntos/noticias-anvisa/2020/anvisa-e-aprovada-para-cooperacao-em-inspecao-farmaceutica-2013-pic-s)
+
+ 
+
+ 
+
+Atualmente, há quatro modalidades regulatórias - com regimes jurídicos próprios - que viabilizam a disponibilização de vacinas Covid-19 no país:
+(i) o registro do produto - RDC nº 55, de 16 de dezembro de 2010 e RDC nº 415, de 26 de agosto de 2020;
+
+(i) a autorização temporária de uso emergencial (AUE) - RDC nº 475, de 10 de março de 2021, esta norma atualizou a Resolução da Diretoria
+Colegiada (RDC) nº 444/2020 após a publicação da Lei nº 14.124/2021;
+
+(ii) a importação de vacinas Covid-19 adquiridas pelo Ministério da Saúde, no âmbito do Instrumento de Acesso Global de Vacinas Covid-19
+
+(Covax Facility) RDC nº 465, de 9 de fevereiro de 2021;
+
+(iv) autorização excepcional e temporária para importação, nos termos da Leinº 14.124, de 10 de março de 2021 - RDC nº 476, de 10 de março de
+2021.
+
+Nas duas primeiras modalidades regulatórias, a Anvisa exerce papel preponderante e objetivo na avaliação dos requisitos de qualidade, segurança
+e eficácia da vacina.
+
+Na autorização de vacinas chanceladas pela Organização Mundial da Saúde e adquiridas por meio Covax Facility, há um mecanismo de
+compartilhamento de informações técnicas com a OMS. O ato normativo (RDC nº 465/2021) estabeleceu a dispensa de registro e da autorização de uso
+emergencial e os procedimentos para importação e monitoramento das vacinas Covid-19 adquiridas pelo Ministério da Saúde, no âmbito do Instrumento de
+Acesso Global de Vacinas Covid-19 (Covax Facility) para o enfrentamento da emergência de saúde pública de importância nacional decorrente do surto do novo
+coronavírus (SARS-CoV-2). A dispensa de registro e de autorização de uso emergencial foi possível porque, além da equivalência no que se refere à avaliação
+regulatória da OMS, o consórcio internacional conta com a participação de especialistas da Agência entre os responsáveis pelas análises dos estudos e dados
+necessários à aprovação das vacinas contra a Covid-19.
+
+Na autorização excepcional e temporária para importação, nos termos da Lei nº 14.124/21, a avalição de tais requisitos é atribuída a uma
+autoridade estrangeira.
+
+Considerando a declaração da pandemia de Covid-19, foi estabelecido, no âmbito da GGMED, o Comitê de Avaliação de Estudos Clínicos, Registro
+e Pós-Registro de Medicamentos para Prevenção ou Tratamento da Covid-19 (Comitê Covid-19), institucionalizado por meio da Orientação de Serviço nº
+81/DIRE2/ANVISA. O Comitê Covid é composto pelo Gerente-Geral de Medicamentos, por gerentes e coordenadores da GGMED, quando convocados e
+por representante da Segunda Diretoria.
+
+3. Dos Procedimentos para anuência de ensaios clínicos
+
+O ensaio clínico é um estudo sistemático de medicamentos/vacinas em voluntários humanos. Dito de outra forma: são testes realizados em seres
+humanos após a execução dos chamados testes in vitro e in vivo, que são aqueles preliminares desenvolvidos em ambientes controlados, nos laboratórios, com
+células e animais. Ensaios clínicos devem ser aprovados e acompanhados por autoridades éticas e regulatórias para garantir que a conduta ética e os aspectos
+técnicos das pesquisas estejam em conformidade com os padrões exigidos e os objetivos da aprovação de AUE e/ou registro por uma autoridade
+sanitária sejam alcançados.
+
+Na Anvisa, a Coordenação de Pesquisa Clínica em Medicamentos e Produtos Biológicos (Copec) é uma área subordinada à GGMED e é o setor
+responsável pelas análises e organização dos processos referentes às pesquisas clínicas de medicamentos e vacinas que pretendem conduzir ensaios clínicos no
+Brasil para fins de posterior solicitação de AUE e registro sanitário. Ressalta-se que pesquisas clínicas sem a finalidade regulatória, ou seja, que não sejam
+utilizadas para registro, pós registro ou uso emergencial de medicamentos não são objetos de avaliação da COPEC. Essas pesquisas são pesquisas acadêmicas ou
+científicas, para as quais é suficiente a manifestação por parte de comitês de ética em pesquisa.
+
+A análise dos pedidos de autorização de estudo clínico é feita pela Copec, com o auxílio do Comitê de Avaliação de Estudos Clínicos, Registro e
+Pós-Registro de Medicamentos para Prevenção ou Tratamento da Covid-19 (Comitê Covid-19). Os especialistas da Copec, apoiados pelo Comitê
+Covid, analisam os pedidos de anuência de ensaios clínicos com medicamentos para prevenção e tratamento da Covid-19, de forma prioritária, no prazo médio
+de até 72 horas após a submissão formal do protocolo, desde que tenha havido uma análise preliminar da documentação pela Anvisa antes da submissão
+formal.
+
+As bases regulamentares para avaliação dos ensaios clínicos são a Resolução da Diretoria Colegiada - RDC nº 9, de 20 de fevereiro de 2015, a
+Instrução Normativa (IN) vigente nº 20 de 2 de outubro de 2017, o Documento das Américas e Manual de Boas Práticas Clínicas do Conselho Internacional para
+Harmonização/ International Council for Harmonisation - ICH (Documento E6 (R2) e os documentos, formulários e informes publicados no portal da Agência, no
+
+link; https:/Avww.gov.br /anvisa/pt-br/assuntos/medicamentos /pesquisaclinica
+
+A área técnica também conta com roteiros de análises para realizar a avaliação das solicitações de anuência para condução de
+ensaios clínicos (1532889, 1532890, 1532891, 1532892, 1532894, 1532896, 1532897, 1532899, 1532900, 1532901, 1532902, 1532903).
+
+Na Anvisa e nas autoridades de referência, os documentos que compõem o processo de solicitação de ensaios clínicos são representados
+no Dossiê de Desenvolvimento Clínico de Medicamento (DDCM), que é um dossiê único e independente que conta a trajetória de determinada molécula, desde
+o seu nascimento, quais estudos já foram feitos e o que se pretende estudar com a molécula. A partir do DDCM, a cada pesquisa que a empresa queira conduzir
+é encaminhado um Dossiê Específico de Ensaio Clínico (DEEC) para apensar àquele DDCM, como anuência em processo de pesquisa clínica. Um DDCM só poderá
+ser analisado se já houver pelo menos um pedido de pesquisa clínica. Adicionalmente, as solicitações de pesquisa clínica (DEEC) deverão ser autorizadas e/ou
+solicitadas pelo titular do (DDCM).
+
+Fluxo de ensaios clínicos
+
+De acordo com o fluxo adotado para a análise preliminar dos pedidos de autorização de ensaios clínicos pela Anvisa, a empresa interessada
+deverá enviar, por e-mail ou plataforma específica, todas as informações, provas e documentos exigidos pelo regulamento de pesquisa clínica de medicamentos.
+e produtos biológicos (Resolução da Diretoria Colegiada - RDC nº 9, de 20 de fevereiro de 2015)
+
+A qualquer momento o Comitê Covid-19 poderá agendar uma reunião com a empresa para esclarecer as questões pendentes e, para as
+pendências que não impactarem na qualidade do medicamento experimental e da segurança dos participantes, o ensaio poderá ser autorizado mediante
+compromisso da empresa de submeter as informações e/ou documentação faltante, quando for o caso.
+
+Nos casos em que a empresa submete formalmente o pedido de autorização de ensaio clínico pelo sistema de peticionamento da Anvisa
+(Datavisa), sem ter apresentado previamente a documentação completa, pode não ser possível a manifestação da Anvisa no prazo médio de 72 horas. O pedido
+formal de anuência de ensaio clínico é realizado pelo sistema eletrônico de peticionamento da Anvisa (Datavisa). O peticionamento eletrônico é realizado no
+portal da Anvisa no endereço eletrônico: https://www9.anvisa.gov.br /peticionamento /sat/global/acesso asp, que deve ser realizado pelo representante legal da
+
+empresa cadastrada. No caso de vacinas, os códigos de assunto para a petição inicial de anuência em ensaios clínicos são os seguintes:
+
+ 
+
+ 
+
+ 
+
+10479 || ENSAIOS CLÍNICOS - Anuência em Processo de Pesquisa Clínica - Produtos Biológicos
+
+10478 || ENSAIOS CLÍNICOS - Anuência em Processo de Pesquisa Clínica de ORPC's - Produtos Biológicos
+1
+
+'sei.anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+http:
+
+   
+
+rvore visualizar&id documento=1716625&infra si... 2/14
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+| 10754 l ENSAIOS CLÍNICOS - Anuência em processo do Dossiê de Desenvolvimento Clínico de Medicamento (DDCM) - Produtos Biológicos |]
+
+ 
+
+ 
+
+   
+
+A Anvisa disponibiliza o acesso à consulta de Ensaios Clínicos autorizados pela agência, a partir de 2009, com o objetivo de dar maior
+transparência e prestar maiores informações à população. Essa consulta permite que os interessados fiquem sabendo se estudos para um determinado tipo de
+
+doença estão autorizados no Brasil. https://www gov.br /anvisa/pt-br/assuntos /medicamentos/ pesquisaclinica/ensaios-autorizados
+
+Também foi publicado o painel para acompanhar o andamento da análise dos pedidos de autorização de ensaios clínicos para medicamentos e
+produtos biológicos, incluindo as vacinas e tratamentos contra Covid-19. Pelo painel é possível verificar a situação atual de cada estudo clínico submetido à
+Anvisa. y i icias-anvi E e-ensai icamentos-
+e-produtos-biologicos.
+
+   
+
+3.1 Da avaliação do processo de anuência dos ensaios clínicos da vacina Covaxin
+
+Para melhor entendimento do processo de avalição da anuência dos ensaios clínicos da Covaxin, tem-se a seguinte linha do tempo:
+
+. 30/3/2021 - Submissão de Anuência em processo do Dossiê de Desenvolvimento Clínico de Medicamento (DDCM) - Produtos Biológicos,
+processo datavisa 25351.259546/2021-59, pela empresa Precisa;
+
+. 16/4/2021 - Encaminhamento de Notificação de Exigência nº 1452344/21-2 (1533884). Foram encaminhados os ofícios eletrônicos nº
+1580815217 (1533887) e 1853158210 (1533904) com informações sobre o cumprimento das exigências;
+
+. 13/5/2021 - Emissão de Comunicado Especial 50/2021, pelo ofício eletrônico nº 1853811218 (1533910), contendo alguns termos de
+
+compromisso. Foram encaminhados os ofícios eletrônicos 2163315211 (1533916), 2363360213 (1533922) e 2814521216 (1533927) relativos aos
+compromissos necessários a serem cumpridos para início do estudo clínico;
+
+. 05/4/2021 - Submissão da Anuência em Processo de Pesquisa Clínica de ORPC's - Produtos Biológicos pelo Hospital Albert Einstein,
+processo Datavisa 25351.282395/2021-32.
+. 16/4/2021 - Encaminhamento de Notificação de Exigência nº 1462310/21-2 (1533947). Após cumprimento houve a autorização para
+
+importação do produto em investigação.
+
+Destaque-se, contudo, que o início do estudo ficou condicionado à apresentação de documentos e/ou informações faltantes.
+
+No âmbito da Petição 10754 — “ENSAIOS CLÍNICOS - Anuência em processo do Dossiê de Desenvolvimento Clínico de Medicamento (DDCM) -
+Produtos Biológicos” (Processo Datavisa 25351.259546/2021-59), foram elaborados os seguintes documentos:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Descrição Tipo Supervisão da avaliação Gestor
+t6/oadozn Notificação de Exigência Nº 1452344/21-2 notado DE | craudiosvam Alves sto
+esfoafaomt OFÍCIO ELETRÔNICO : preso paça comprimento sfivência 1452344/21:2 de | giejO ELETRÔNICO | Claudiosvam Alves Sustato
+ss/os/zomt orício SLETTÔNICO : Compromisos came Sovidi viion Inteiro ativado MsrfciO ELETRÔNICO | claudiosvam Alves Sustato
+ss/0s/zomt OFÍCIO ELETRÔNICO : Soma Sept so DDCM 25351.259546/2021:59 | feio ELETRÔNICO || Claudiosvam Alves Sustato
+osjosjaont OFÍCIO ELETRÔNICO : Comeranos deram into —Covadin - 0 1853158210 10€] | cicio ELETRÔNICO | clauciosvam Alves Gustavo
+ss/osiaomt OFÍCIO ELETRÔNICO : Comptomissos acne Co arioo Inteiro Inativado (BBV152) feio ELETRÔNICO || Claudiosvam Alves Sustato
+sojo7/2021 OFÍCIO ELETRÔNICO : Somproçissos açina Cova, ion Inteiro Inativado (BBV 152) pjo ELETRÔNICO || Claudiosvam Alves Gustavo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Em relação à Petição 10478 - ENSAIOS CLÍNICOS - Anuência em Processo de Pesquisa Clínica de ORPCs - Produtos
+Biológicos (Processo Datavisa 25351.282395/2021-32), foram elaborados o seguinte documento:
+
+ 
+
+ 
+
+ 
+
+Data Descrição Tipo Coordenador Gestor
+
+ 
+
+  
+
+[16/04/2021 16:12 ência Nº 1462310/21-2 | NOTIFICAÇÃO DE EXIGÊNCIA | Claudiosvam Alves | Gustavo Mendes
+
+ 
+
+de Bá
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://sei anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=1716625&infra si... 3/14
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+
+Relação dos servidores que participaram da avaliação do DDCM: Brenda Valente, Flávia Regina Souza Sobral, Carolina Pingret, Leonardo Costa,
+Francis Reisdorfer e o Comitê Covid-19
+
+ 
+
+Supervisão da avaliação do DDCM: Claudiosvam Martins Alves de Souza
+
+3.2 Da avaliação do processo de anuência dos ensaios clínicos da vacina Sputnik V
+
+ 
+
+As tratativas entre a União Química e Anvisa para a entrada da vacina Sputnik V no Brasil iniciaram em meados de outubro de 2020, antes mesmo
+da submissão formal pela empresa do Dossiê de Desenvolvimento Clínico de Medicamento (DDCM), exigido para a Autorização de Uso Emergencial da Vacina, o
+qual foi formalizado em 31 de dezembro de 2020. A solicitação de autorização temporária de uso emergencial, em caráter experimental, de vacinas Covid-19,
+ocorreu em 15 de janeiro de 2021. Contudo, a empresa desistiu desse pleito, em comum acordo com o Fundo Soberano Russo de Investimento (RDIF), e
+solicitou, em 26 de março de 2021, novo pedido de Autorização Emergencial de acordo com o preconizado na atual versão do Guia nº 42/2020, mas o processo
+ainda não atendeu a todos os cumprimentos de exigências feitos pela Anvisa à empresa União Química.
+
+Em relação à avaliação do processo de anuência dos ensaios clínicos da Sputnik V, convém ressaltar que não foi elaborado parecer técnico relativo
+a essa análise, uma vez que houve desistência do pedido de anuência em pesquisa clínica pela empresa União química.
+
+De todo modo, para melhor entendimento, segue a linha do tempo da avalição do processo de anuência dos ensaios clínicos da Sputnik V:
+
+. 31/12/2020 - Submissão de Anuência em processo do Dossiê de Desenvolvimento Clínico de Medicamento (DDCM) - Produtos
+Biológicos, Processo Datavisa 25351.774904/2020-78, pela empresa União Química
+
+. 4/1/2021 - Encaminhamento de Notificação de Exigência nº 0036935/21-7 (1534022), cumprida parcialmente em 04/05/2021.
+
+. 5/2/2021 - A empresa recebeu considerações relativas à documentação apresentada por ofício eletrônico 0483883211 (1534027).
+
+. 3/5/2021 - Encaminhamento do ofício eletrônico 1702408211 (1534031), questionando o prazo para cumprimento das exigências
+
+. 4/5/2021 - Encaminhamento de ofício eletrônico 1736153212 (1534035), comunicando o recebimento do protocolo de desistência a pedido
+
+de anuência em pesquisa clír
+
+  
+
+ca pela empresa.
+. O ofício eletrônico 1829586210 (1534038) foi encaminhado para informar que devido à migração de sistemas, a Anvisa iniciou o
+cadastramento das empresas que conduzem ensaios clínicos para o tratamento e a profilaxia da Covid-19 no VigiMed,
+
+No âmbito da Petição 10754 — “ENSAIOS CLÍNICOS - Anuência em processo do Dossiê de Desenvolvimento Clínico de Medicamento (DDCM) -
+Produtos Biológicos”, foram elaborados os seguintes documentos:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ooalmoar ificaçã igência Nº - nora DE Claudiosvam Alves Gustavo Mendes
+Osfozjpoma BECO ELETRÔNICO : Estao 04 Cam COND 2000 - Considerações ais o Claudiosvam Alves | Gustavo Mendes
+os/ospom SEÍGIO ELETRÔNICO - Expiação de ataro para cumprimento de ais o Claudiosvam Alves || Gustavo Mendes
+Os/os/om1  Desi ência a nedid E É ais o Claudiosvam Alves | Gustavo Mendes
+noso OFÍCIO ELETRÔNICO : Cadastro Vigimed [OE] nº 1829586210 oo Claudiosvam Alves || Gustavo Mendes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4, Dos Procedimentos para as boas práticas de fabricação de medicamentos e vacinas
+
+O Certificado de Boas Práticas é o documento emitido pela Anvisa atestando que determinado estabelecimento cumpre procedimentos e práticas
+estabelecidos em normas específicas da Agência.
+
+O marco regulatório de boas práticas de fabricação (BPF) de medicamentos no Brasil é o principal padrão regulador para garantir a qualidade dos
+medicamentos do país. https:/Amwwin.gov.br/en Aveb/ dou/-/resolucao-rde-n-301-de-21-de-agosto-de-2019-211914064
+
+Com a aprovação da Resolução da Diretoria Colegiada (RDC) nº 301, de 21 de agosto de 2019, e mais 14 Instruções Normativas sobre o tema, foi
+atualizado o marco regulatório sobre as BPFs, permitindo o aprimoramento para favorecer o acesso seguro da população a medicamentos, conforme padrões
+internacionais de referência. As regras do Brasil são alinhadas as diretrizes da Organização Mundial da Saúde e ao Esquema de Cooperação em Inspeção
+Farmacêutica (Pharmaceutical Inspection Co-operation Scheme — PIC/5).
+
+A ROC nº 301/2019 e respectivas instruções normativas (Instruções Normativas de nº 35 a 48/2019), assim como a RDC nº 39/2013 (vigente à
+época da primeira inspeção na Bharat Biotech e revogada pela RDC nº 497/2021) são as normativas que discorrem sobre as diretrizes gerais de BPF de
+medicamentos e processo de certificação.
+
+Os procedimentos operacionais padrão vigentes aplicáveis à GGFIS estão presentes nesse processo e disponíveis para acesso (1532600):
+- POP-0-SNVS-001- Elaboração de Relatório de Inspeção em Fabricantes de Medicamentos Revisão 5.1;
+- POP-0-SNVS-002 - Condução de Inspeção. Revisão 6;
+
+- POP-O-SNVS-014 - Categorização de não conformidades, classificação de estabelecimentos quanto ao cumprimento das boas práticas e
+determinação do risco regulatório. Revisão 01;
+
+-POP-O-SNVS-015 - Planejamento de Inspeções Baseado no Risco Revisão 2.1;
+
+https://sei anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=1716625&infra si... 4/14
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+- POP-0-GGFIS-009 - Processo de Inspeção de Boas Práticas Revisão 02;
+
+4.1 Da Certificação das Boas Práticas de Fabricação - Covaxin
+
+Antes de seguir, importante entender a linha do tempo do processo de certificação de boas práticas de fabricação:
+
+. 5/1/2021- Protocolo de pedido de certificação de BPF da Bharat para produtos estéreis;
+
+. 26/1/2021 - Protocolo de pedido de certificação de BPF da Bharat para IFA;
+
+. 1º a5/3/2021- Inspeção nas instalações da fábrica da Bharat Biotech;
+
+. 30/3/2021- Indeferimento da certificação de BPF para IFA e produtos estéreis (Resoluções: RE nº 1297 e RE nº 1298/21); e
+
+. 9/6/2021- Deferimento da certificação de BPF das plantas da Bharat Biotech (Resoluções: RE nº 2248 e RE
+
+nº 2249). https://wwwin gov. br Aweb/dou/-/resolucao-re-n-2.248-de-8-de-junho-de-2021-324776098 e https://wwwin.gov.br/en/web/dou/-/resolucao-
+re-n-2.249-de-8-de-junho-de-2021-324766730
+
+A Certificação de Boas Práticas de Fabricação (CBPF) foram para as plantas envolvidas na fabricação da vacina Covaxin, da empresa
+Bharat Biotech International Limited, localizada em Hyderabad, na Índia. A empresa é fabricante do insumo farmacêutico ativo, o IFA, e também da vacina
+acabada Covaxin.
+
+A CBPF, tem validade de dois anos, foi emitida depois que a empresa realizou os ajustes relacionados às não conformidades detectadas na
+inspeção realizada por técnicos da Agência no período de 1º a 5 de março deste ano.
+
+É importante ressaltar dois pontos:
+
+. A certificação de boas práticas de fabricação não é pré-requisito para os pedidos de autorização de uso emergencial de vacinas contra a
+Covid-19, tampouco para a importação excepcional. Nesses casos, é realizada uma verificação de requisitos mínimos de Boas Práticas de Fabricação, de
+qualidade, segurança e eficácia e do cumprimento dos critérios legais.
+
+. A Certificação é, sim, pré-requisito para o registro da vacina e engloba uma análise mais aprofundada e completa de todos os requisitos da
+Resolução da Diretoria Colegiada (RDC) nº 301/2019.
+
+A análise da Gerência-Geral de Inspeção e Fiscalização Sanitária (GGFIS) para a autorização de uso emergencial está focada nos itens relacionados
+às boas práticas de fabricação da RDC nº 476/2021 e Guia nº 42/2020, referentes ao item XIV:
+
+XIV - Lista contendo todos os locais onde a vacina está ou será fabricada, e as seguintes documentações relacionadas às Boas Práticas de Fabricação (BPF) do(s)
+local(is) de fabricação:
+
+a) Arquivo Mestre de Planta (AMP) ou Site Master File (SMF);
+b) Relatório de inspeção emitido por autoridade participante do PIC/S;
+€) Validação de processo;
+
+d) Gerenciamento de risco com relação à contaminação cruzada decorrente da inclusão do produto na linha.
+
+A empresa, com vistas ao cumprimento deste tópico, referenciou as publicações das Certificações de Boas Práticas emitidas pela Anvisa para a
+empresa, conforme as resoluções abaixo:
+
+ 
+
+Resolução RE n 2.248 de 08 de junho de 2021 - Linha de Produtos Estéreis: Suspensões Parenterais de Pequeno volume com preparação asséptica;
+Resolução RE n 2.249 de 08 de junho de 2021 - Linha de Insumos Farmacêuticos Ativos Biológicos: antígeno do virus inativado SARS-Cov-2.
+
+As certificações publicadas são decorrentes de inspeção sanitária realizada in loco pela equipe da Anvisa, seguida de ajustes posteriores efetuados
+pela empresa Bharat Biotech, com apresentação de evidências demonstrando a mitigação dos riscos incialmente iniciados, demonstraram que a empresa
+cumpre satisfatoriamente os requisitos mínimos de boas práticas de fabricação. A documentação técnica apresentada somada aos dados obtidos nas inspeções
+sanitárias e evidências posteriores apresentadas, são suficientes para considerar os itens referentes ao item XIV cumpridos satisfatoriamente.
+
+Neste aspecto, convém destacar que a vacina Covaxin é produzida pela empresa Bharat Biotech International Limited (BBIL), Telangana, Índia. Já a
+empresa Precisa Comercialização de Medicamento Ltda. foi a responsável pela solicitação do Certificado de Boas Práticas de Fabricação (CBPF) para o insumo
+farmacêutico ativo biológico (IFAB) antígeno do vírus inativado SARS-CoV-2 e para Produtos estéreis: Suspensões Parenterais de Pequeno Volume com
+Preparação Asséptica (vacinas).
+
+Conforme disposto na linha do tempo acima, a Anvisa realizou inspeção in loco na empresa BBIL nos dias 1º a 5 de março de 2021. Devido ao
+descumprimento das BPF com relação aos artigos 129, 219 e 245 da RDC 69/2014; artigos 67, 76, 77, 78 e 79 da IN 36/2019; artigos 108, 154 e 158 da IN
+35/2019; e artigo 94 da IN 47/2019 (para IFAB); pelo descumprimento das Boas Práticas de Fabricação com relação aos artigos 14 (1), 124, 132, 137 e 182 da
+RDC 301/2019; artigos 101, 108, 154 e 158 da IN 35/2019; e artigos 84, 85, 86, 87 e 88 da IN 47/2019 (para produto acabado) e em razão da insuficiência do
+primeiro plano de ação apresentado, os pedidos de CBPF da BBIL foram indeferidos por meio da Resolução nº1297/ANVISA de 30/03/2021 - pg:197 (FAB)
+e Resolução nº1298/ANVISA de 30/03/2021 - pg:197 (produto acabado vacina).
+
+Após avaliação do segundo plano de ação e novo peticionamento de CBPF, a BBIL foi devidamente certificada em BPF para o IFAB por meio
+da Resolução nº2249/ANVISA de 09/06/2021 - pg:247 e para Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica por meio
+da Resolução nº2248/ANVISA de 09/06/2021 - pg:24
+
+Os inspetores que participaram da inspeção, conforme pode ser verificado nos afastamentos do país disponíveis nas Portarias de 15/2/2021,
+publicadas no DOU nº 32, Seção 2 e p.28, de 18/02/2021, foram Andrea Renata Comelio Geyer, Fabricio Carneiro de Oliveira, Pedro Henrique Silvano
+da Silva, Rodrigo Martins Bretas e Francis Carazzai Reisdorfer (1532595). O relatório de inspeção encontra-se devidamente anexado e assinado por todos os
+inspetores. Adicionalmente, a servidora Michelle Werneck de Oliveira foi a responsável pela revisão do relatório (1532599).
+
+ 
+
+ 
+
+ 
+
+4,2 Das Boas Práticas de Fabricação BPF- Sputnik V
+Avacina Sputnik V a ser destinada para o Brasil é produzida pelas empresas:
+
+- Generium SA (IFA vetor adenovírus recombinante humano, deficiente para replicação, para expressão da glicoproteina Spike (5) do vírus SARS-
+Cov-2 e produto acabado vacina), localizada em Rua Zavodskaya, Edifícios 273/263, Região Petushinkiy, Povoado de Volguinskiy - 601125, Distrito de Vladimir,
+Rússia e - OJSC Pharmstandard - UfaVITA (produto acabado vacina), localizada em 28 Khudayberdina St, 450077, Ufa, Republic of Bashkortostan, Rússia.
+
+Nos casos de autorização de uso emergencial e de importação excepcional e temporária de vacinas para Covid-19, o protocolo de pedido de CBPF
+não é mandatário e, por esse motivo, não houve solicitação. No entanto, é necessário que as fabricantes de vacina cumpram as boas práticas de fabricação e,
+
+http:
+
+ 
+
+'sei.anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origer
+
+ 
+
+rvore visualizar&id documento=1716625&infra si... 5/14
+21/07/2021 SEIVANVISA - 1535608 - Ofício
+para isso, foi realizada inspeção in loco em ambos os sítios fabris.
+
+As inspeções na Generium e na UfaVITA foram realizadas de 19 a 23 de abril de 2021, por duas equipes diferentes. A equipe inspetora
+da Generium foi composta pelos servidores Fabricio Carneiro de Oliveira, Pedro Henrique Silvano da Silva e Rodrigo Martins Bretas, cujos afastamentos estão
+disponíveis nas Portarias de 9/4/2021, publicadas no DOU nº 67, Seção 2 e p.70, de 12/4/2021. Já a equipe inspetora da UfaVITA foi composta pelas servidoras.
+Lilian da Costa e Silva e Andrea Renata Cornélio Geyer, cujos afastamentos estão disponíveis nas Portarias de 14/4/2021, publicadas no DOU nº 70, Seção 2 e
+p.49, de 15/4/2021 (1532595).
+
+Importante salientar que, após a inspeção, foi emitido o anexo Ill comunicando as não conformidades (NC) ao Fundo Russo Direto de Investimento
+(RDFI na sigla em inglês), mas o plano de ação em resposta às NC encontradas durante a inspeção chegou à Agência no idioma russo (cirílico), impossibilitando a
+sua análise. Em 5/7/2021, o RDFI enviou o plano de ação traduzido para o inglês, mas após análise das documentações, foi verificado que embora tivesse havido
+implementação de melhorias no processo, os condicionantes impostos pela GGFIS (descritos abaixo) para aprovação da importação excepcional não foram
+totalmente sanados (1532832) .
+
+XIX —O requerente deverá requerer dos fabricantes Generium e UfaVita a avaliação do processo fabril e a proposição de alguma medida adicional
+de mitigação do risco decorrente da ausência da validação da etapa de filtração esterilizante. Esses documentos deverão ser apresentados à Anvisa previamente
+ao Licenciamento de Importação (LI) e deverão ser analisados e concluídos como adequados pela área técnica previamente ao deferimento do LI;
+
+XX — O requerente deverá apresentar o relatório final de validação do processo de fabricação do Insumo Farmacêutico Ativo Biológico ou
+declaração da Autoridade Russa de que verificou e aprovou tal documento;
+
+— O requerente deverá apresentar, para adequação das Práticas Assépticas e Teste de Esterilidade da UfaVita, os registros dos treinamentos
+dos operadores bem com vídeos demonstrando a execução das atividades críticas nas áreas limpas, indicando que os procedimentos de trabalho foram
+efetivamente corrigidos e não representam risco de contaminação ao produto. Tais documentos podem ser apresentados diretamente à Anvisa para análise e
+aprovação previamente ao deferimento do Li ou por meio de declaração da Autoridade Russa de que os verificou e aprovou".
+
+Devido aos motivos supracitados, em que houve atraso no envio da documentação do plano de ação em idioma aceito pela Anvisa (português,
+inglês ou espanhol), o relatório de inspeção ainda está em processo de revisão e finalização, conforme disposto no procedimento POP-O-GGFIS-009 revisão 02.
+
+5. Dos Procedimentos para autorização de uso emergencial para vacinas contra a Covid 19
+
+A Autorização de Uso de Emergencial (AUE) é um mecanismo regulatório para facilitar a disponibilidade e o uso de medicamentos, incluindo
+vacinas, durante a emergência de saúde pública causada pelo novo coronavírus. Por não haver previsão legal de fato gerado, a petição de AUE para vacinas e
+medicamentos é isenta de taxa de fiscalização sanitária.
+
+Para a concessão da AUE, a vacina deve preferencialmente possuir um Dossiê de Desenvolvimento Clínico de Medicamento (DDCM) anuído pela
+Anvisa e o ensaio clínico fase 3, pelo menos, em andamento e em condução no Brasil. Quando a vacina Covid-19 não estiver sendo avaliada em ensaios clínicos
+conduzidos no Brasil, caberá à requerente apresentar a estratégia do patrocinador quanto à condução dos estudos clínicos, demonstrando a intenção de
+acompanhamento para a avaliação de eficácia e segurança dos participantes do estudo pivotal por pelo menos 1 ano, incluindo estratégia para avaliação de
+exacerbação da doença respiratória (RDE), e garantir que terá acesso aos dados gerados em sua totalidade, bem como demonstrar que os estudos préclínicos e
+clínicos foram conduzidos conforme as diretrizes aceitas nacional e internacionalmente (por exemplo, se foram seguidos os guias do ICH, e que os dados clínicos
+obtidos em outros países sejam aplicáveis à população brasileira.
+
+Um pedido de AUE para uma vacina Covid 19 pode ser submetido à Anvisa com base em uma análise final de um ensaio clínico de eficácia de fase
+3 ou uma análise provisória de tal ensaio, ou seja, uma análise realizada antes do final planejado do ensaio, desde que os dados atendem aos critérios de
+sucesso pré-especificados para o endpoint primário de eficácia do estudo.
+
+De uma perspectiva de segurança, a Anvisa espera que uma submissão no Brasil, inclua todos os dados de segurança acumulados de estudos de
+fase 1 e 2 conduzidos com a vacina, que os dados de fase 3 incluam um acompanhamento médio de pelo menos 2 meses (o que significa que pelo menos
+metade dos receptores da vacina em ensaios clínicos de fase 3 tem pelo menos 2 meses de acompanhamento) após a conclusão do regime de vacinação
+completo. Além disso, a Anvisa exige que o pedido tenha dados de segurança de fase 3 dos voluntários dos ensaios clínicos da vacina,
+acompanhamentos dos eventos adversos graves e eventos adversos de interesse especial após o regime de vacinação completo.
+
+Parte da avaliação do pedido de AUE para uma vacina Covid-19 inclui a avaliação da química, fabricação e informações de controle de qualidade, o
+plano de mitigação de risco e monitoramento para a vacina.
+
+A Anvisa usa todas as ferramentas e informações disponíveis, incluindo avaliação e trocas de informações com outras autoridades que têm
+similaridades de medidas com o Brasil.
+
+O processo de AUE é peticionado no sistema da Anvisa sob o código de assunto para o protocolo de solicitações de autorização temporária de uso
+emergencial, em caráter experimental, de vacinas contra a Covid-19. O código de assunto nº 11856 permite o peticionamento eletrônico pelas empresas,
+conforme as diretrizes previstas na Resolução da Diretoria Colegiada (RC) nº 475/2021, no Guia 42/2020 e normas complementares. A partir do protocolo, o
+processo é direcionado para análise técnica das áreas responsáveis pelas atividades de Registro, Certificação de Boas Práticas de Fabricação e Farmacovigilância
+de medicamentos.
+
+A empresa/instituição realiza peticionamento da AUE na Anvisa, utilizando o código de assunto: 11856 - Solicitação de autorização temporária de
+
+uso emergencial, em caráter experimental, de vacinas Covid-19 (https: //wwwS anvisa.gov.br/peticionamento/sat/global/acesso asp).
+
+O processo que envolve diversas áreas, os pedidos são recebidos pela Coordenação de Apoio Administrativo (Coadi) do Gabinete do Diretor-
+Presidente, que comunica as áreas via processo SEI sobre o protocolo do pedido de uso emergencial e sobre a necessidade de realização de triagem no prazo de
+24 horas. As áreas técnicas realizam triagem da documentação de acordo com os itens do Guia nº 42/2020 e a RDC nº 475/2021 que lhe são pertinentes. Após a
+triagem, as áreas se manifestam pela adequação ou não dos documentos apresentados, sem, no entanto, entrar no mérito técnico. Estando o dossiê
+aparentemente completo, a análise técnica é formalmente iniciada. Havendo pendências de documentos, a análise é suspensa e um ofício é encaminhado à
+empresa requerente via Coadi.
+
+O pedido de autorização de uso emergencial é analisado por uma equipe de servidores da Anvisa com experiência na avaliação de estudos de
+qualidade, segurança, eficácia, farmacovigilância e boas práticas de fabricação de vacinas. Esses servidores de carreira estão comprometidos com a tomada de
+decisões baseadas na avaliação de dados e na relação benefícios versus riscos.
+
+Para a decisão da autorização de uso emergencial, a Anvisa considera os dados apresentados, a população-alvo, as características da vacina, os
+resultados dos estudos pré-clínicos e clínicos e a totalidade das evidências científicas disponíveis relevantes para a vacina, ou seja, os resultados provisórios de
+um ou mais ensaios clínicos que atendam aos critérios de eficácia e segurança para o uso pretendido, devendo os benefícios da vacina superar seus riscos, de
+forma clara e convincente. Além disso, para a decisão da Anvisa, a empresa deve avalizar que as informações de fabricação e estabilidade são adequadas para
+garantir a consistência da qualidade da vacina, conforme requisitos técnicos atuais. Não obstante, a Agência pode exigir o cumprimento de requisitos adicionais,
+considerando as características intrínsecas de cada vacina e a realidade nacional.
+
+ 
+
+  
+
+Durante a análise, exigências podem ser elaboradas, as quais podem ser primeiramente encaminhadas às empresas via e-mail para depois haver o
+envio por ofício pelo sistema da Anvisa (Datavisa) ou então seguir via ofício diretamente. O envio por e-mail ocorre normalmente quando são poucos itens de
+exigência, mas que já poderiam ser respondidos para acelerar a conclusão da análise. Após a juntada de um número mais expressivo de exigências ou após a
+conclusão da análise de determinada parte do dossiê, o ofício é enviado. De acordo com as regulamentações vigentes, não há um prazo para a apresentação das
+respostas pelas empresas requerentes.
+
+https://sei anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=1716625&infra si... 6/14
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+
+Após a apresentação das respostas pela empresa requerente, estas são analisadas e o relatório de análise é finalizado pela área técnica. O
+relatório de análise da GPBIO/GGMED segue a mesma estrutura dos modelos de parecer de registro. Esse relatório é apensado ao processo SEI específico da
+vacina e encaminhado para apreciação pela Diretoria supervisora da GGMED, no caso a Segunda Diretoria, juntamente a um parecer elaborado no SEI.
+
+A Segunda Diretoria pauta a discussão em reunião pública da Diretoria Colegiada da Anvisa (Dicol), proferindo voto em atenção ao pedido de
+autorização de uso emergencial. O foco da Diretoria é no todo, observando as considerações técnicas e sopesando a avaliação benefício versus risco no contexto
+dessa pandemia, sendo que, quando necessário, é possível a elaboração de Termo de Compromisso para a apresentação de provas adicionais em momento
+posterior.
+
+As condições e o Termo de Compromisso são avaliado pela Procuradoria Federal junto à Anvisa, e publicado no Diário Oficial da União (DOU).
+
+Importante ressaltar que para todas as vacinas registradas ou autorizadas para uso emergencial até o momento, as empresas interessadas
+optaram por também realizar o procedimento de submissão contínua, regulamentado pela IN nº 77/2020, pelo qual a Anvisa tem acesso à documentação
+parcial a ser submetida quando do registro do produto, o que garante maior celeridade e assertividade ao processo de registro.
+
+A avaliação da Anvisa para autorização temporária de uso emergencial é feita caso a caso, considerando avaliação dos benefícios versus os riscos.
+O processo é analisado simultaneamente por três áreas técnicas: Gerência-Geral de Medicamentos e Produtos Biológicos (GGMED), Gerência-Geral de Inspeção
+e Fiscalização Sanitária (GGFIS) e Gerência-Geral de Monitoramento de Produtos Sujeitos à Vigilância Sanitária (GGMON). As avaliações dessas Gerências-Gerais
+são registradas nos pareceres emitidos por equipe multidisciplinar de servidores especialistas dessas diferentes áreas da Anvisa. Após essa etapa, o processo é
+avaliado é submetido à apreciação da Segunda Diretoria da Anvisa, responsável por pautar e relatar o processo de AUE em reunião pública para a deliberação da
+decisão pela Diretoria Colegiada.
+
+A decisão da Anvisa é disponibilizada no portal eletrônico da Agência, no qual ficam registrados os votos dos diretores, as apresentações, os
+pareceres públicos e as atualizações de cada uma das vacinas autorizadas. https://www gov br/anvisa/pt-br/assuntos /paf/coronavirus/vacinas.
+
+Assim, em continuidade ao compromisso de favorecer a transparência, a Anvisa publicou no seu portal o processo de análise do pedido de uso
+emergencial desta e de todas as demais vacinas que realizaram o mesmo pedido, foi criado o painel de vacinas no site da Anvisa, disponível
+em https://www gov br /anvisa/pt-br/assuntos noticias-anvisa/2021/painel-acompanhe-o-andamento-da-analise-das-vacinas-2013-uso-emergencial.
+
+5.1 Do pedido para autorização de uso emergencial para vacina Covaxin
+
+A empresa Precisa Comercialização de Medicamentos LTDA optou pelo procedimento de submissão continua para o encaminhamento da
+documentação preliminar referente à vacina Covaxin. Dessa forma, foi protocolada documentação na Anvisa na petição 11800 - Produtos Biológicos - Avaliação
+de dados preliminares para Covid-19, processo Datavisa 25351.455725/2021-15.
+
+Em relação à Petição 11800 - Produtos Biológicos - Avaliação de dados preliminares para Covid-19, processo Datavisa 25351.455725/2021-
+15, foram elaborados os seguintes documentos:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Descrição Tipo Supervisão da avaliação de | qu çor
+AUE
+
+12/04/2021 | OFÍCIO ELETRÔNICO : conclusão da análise aditamento CMC e eficácia e segurança [OE] orício Maria Fe da R Gustavo
+
+14:21 nº 2366259210 ELETRÔNICO anta femanda Reis Mendes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Asolicitação formal de autorização temporária de uso emergencial, em caráter experimental, foi protocolada em 29/6/2021, por meio da petição
+11856 - MEDICAMENTOS - Solicitação de autorização temporária de uso emergencial, em caráter experimental, de vacinas/medicamentos Covid-19, no
+processo Datavisa 25351.686470/2021-31.
+
+O encaminhamento de questionamentos relacionados à avaliação de autorização para uso emergencial da vacina Covaxin foi realizado
+via Processo Sei 25351.918651/2021-31.
+
+Após a triagem da documentação recebida foram encaminhados alguns questionamentos relacionados a questões clínicas e questões da
+qualidade: Despacho 155/GPBIO - triagem Covaxin (1532344), Documento exigências qualidade (1532352), Documento exigências clínicas (1532357), que
+subsidiaram a elaboração do Ofício nº 1482/2021/SEI/GADIP-CG/ANVISA (1534243).
+
+Para essa vacina, como não houve conclusão da análise dos pedidos de uso emergencial, por estar pendente o recebimento das respostas às
+exigências encaminhadas pela Anvisa, não há relatórios de análise disponíveis, mas sim as manifestações por despachos Sistema Eletrônico de Informações (SEI),
+bem como as exigências técnicas exaradas no processo.
+
+. Importação excepcional: Nota Técnica 62 - GPBIO (1532536), Nota Técnica 67 - GPBIO (1532533).
+
+. Submissão contínua: Ofício 2366259210 - submissão contínua (1532421).
+
+ 
+
+Painel de análise- O painel apresenta a porcentagem relativa ao status de submissão dos relatórios e informações da AUE da
+vacina Covaxin protocolada pela empresa Precisa Medicamentos. No link público citado abaixo é possível ter acesso a descrição dos documentos faltantes ou
+que necessitam de complementações, também é possível saber o status da avaliação de cada item, previsto no Guia 42/2020.
+
+https:/ www gov.br /anvisa/pt-br/assuntos/noticias-anvisa/2021/painel-acompanhe-o-andamento-da-analise-das-vacinas-2013-uso-emergencial
+
+ 
+
+'sei.anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origer
+
+ 
+
+rvore visualizar&id documento=1716625&infra si... 7/14
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+CORONAVÍRUS * COVID - 19
+ANDAMENTO DA ANÁLISE DAS VACINAS NA ANVISA
+
+ 
+    
+
+= cum 20/07/2021 1421626
++
+
+ANVISA E
+
+ 
+
+  
+
+ Agurs doc
+dependendo
+
+ 
+ 
+
+ 
+
+ão sprsen
+
+Documentos previstos no Guia Guia nº 42/2020. Observações (Coverár) Status (Cova
+
+    
+
+Conforme disposto no painel público de análise das vacinas, citado acima, os seguintes documentos estão pendentes:
+
+IX (d) Tempo médio de acompanhamento dos participantes após a administração do esquema completo de vacinação para a população de análise
+de segurança e de eficácia; (Não apresentado)
+
+1X (a) Relatórios do(s) estudo(s) clínico(s), que incluam os resultados da análise interina ou final de desfecho primário do(s) estudo(s) clínico(s) de
+fase 3 demonstrando, pelo menos, 50 % de eficácia, e o critério de sucesso estatístico deve ser que o limite inferior do intervalo de confiança (ajustado para alfa
+apropriado) seja maior que 30%, ou em caso de parâmetros alternativos, que estes tenham sido pré-aprovados pela Anvisa. Esses relatórios devem incluir
+minimamente: a Critérios de inclusão e exclusão; (Pendente de complementação)
+
+X Relatórios de validação dos ensaios bioanalíticos utilizados para avaliar os desfechos do estudo clínico de fase 3; (Não apresentado)
+Vil Relatório de estudos pré-clínicos de segurança e imunogenicidade; (Não apresentado)
+
+Vi (g) Qualificação validação para todos os testes de liberação de controle de qualidade e estabilidade, incluindo os testes de pureza, identidade e
+potência da vacina, demonstrando que são adequados para a finalidade pretendida; (Não apresentado)
+
+Vi (h) Plano de estabilidade incluindo testes indicativos de estabilidade e segurança da substância ativa e do produto terminado, dados de
+estabilidade disponíveis de todos os lotes de desenvolvimento, clínicos e comerciais. Dados para apoiar a estabilidade de curto prazo e da vacina em uso,
+refletindo as condições de armazenamento durante o transporte e distribuição às salas de vacina e cobrindo o tempo e condições desde a preparação da dose
+até a administração esperada; (Não apresentado)
+
+IX (e) Listagens de dados necessários para apoiar as análises críticas como: resultados individuais de sorologia de base, diagnóstico prévio de
+Covid-19 com os resultados de testes realizados, resultados individuais dos desfechos de imunogenicidade, data de coletas, número de amostras coletadas e
+resultados para os testes para confirmação virológica da infecção por Sars-CoV-2 para todos os participantes que foram sintomáticos no estudo; (Não
+apresentado)
+
+IX (e) Listagens de dados necessários para apoiar as análises críticas como: resultados individuais de sorologia de base, diagnóstico prévio de
+Covid-19 com os resultados de testes realizados, resultados individuais dos desfechos de imunogenicidade, data de coletas, número de amostras coletadas e
+resultados para os testes para confirmação virológica da infecção por Sars-CoV-2 para todos os participantes que foram sintomáticos no estudo; (Não
+apresentado)
+
+Vi (f) Lista tabular de todos os estudos clínicos e números de lotes de vacina usados em cada estudo, incluindo genealogia da substância ativa
+desde o banco mestre de células e banco de semente mestre, processos de fabricação e local de fabricação, bem como os Certificados de Análise (CoAs) para
+todos os lotes usados em estudos clínicos; (Não apresentado)
+
+VI (e) Histórico de desenvolvimento do processo produtivo e da estratégia de controle de qualidade e alterações introduzidas nos lotes de
+desenvolvimento, clínicos e comerciais, assim como dados de avaliação de comparabilidade de lotes produzidos com os diferentes processos de fabricação.
+Também devem ser fornecidos dados de liberação e de caracterização suplementares para avaliação do impacto das alterações nos atributos de qualidade e
+estudos de investigação, avaliação e definição de limites das impurezas na substância ativa e no produto terminado; (Não apresentado)
+
+Vi (i) Especificações de qualidade acompanhadas de suas justificativas, com base no histórico de lotes produzidos, incluindo todos os lotes
+clínicos; (Não apresentado)
+
+IX (c) Descrição detalhada dos desfechos e de como foi feita a avaliação de cada desfecho no estudo, incluindo definição de caso de Covid-19 e
+escalas utilizadas para avaliação de gravidade, sintomas considerados para definir a necessidade de coleta de amostras para confirmação virológica,
+procedimentos para monitoramento de sintomas dos participantes, definição de períodos de dias, com máximos e mínimos, a partir do primeiro dia de sintomas.
+para coleta de amostras para confirmação sorológica; (Pendente de complementação)
+
+ 
+
+Vi (d) Descrição detalhada de todo o processo de fabricação utilizado para a fabricação de lotes destinados ao uso emergencial, desde a etapa
+inicial de fabricação da substância ativa até a etapa final de fabricação do produto terminado, acompanhado de fluxograma, identificando parâmetros críticos de
+processo, atributos críticos de qualidade e testes dos controles em processo; (Não apresentado)
+
+1X (b) Descrição detalhada das características demográficas por braço do estudo e outras características importantes para a avaliação de eficácia e
+segurança, como presença e percentual de participantes com comorbidades, tratamentos concomitantes, uso permitido de outras vacinas; (Pendente de
+complementação)
+
+http:
+
+ 
+
+'sei.anvisa.gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=1716625&infra si... 8/14
+
+ 
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+
+Vi (j) Dados de suporte da consistência da qualidade da vacina entre locais de fabricação, em caso de mais de um local de fabricação da substância
+ativa e/ou do produto terminado; (Não apresentado)
+
+XIl Dados de segurança dos estudos de fase 3 referentes a um seguimento mediano de, pelo menos, dois meses após a última imunização e
+estabelecimento de um perfil de segurança preliminar para eventos adversos graves e de interesse especial e para exacerbação da doença respiratória. Devem
+ser fornecidas as narrativas detalhadas dos eventos adversos graves, de interesse especial e casos graves de Covid-19; (Não apresentado)
+
+XI Dados de segurança acumulados dos estudos de fase 1 e 2, com foco nos eventos adversos graves, eventos adversos de interesse especial e
+casos graves de Covid-19, acompanhados das respectivas narrativas detalhadas, e o plano de monitoramento para detecção de eventos adversos tardios,
+justificando o período proposto; (Pendente de complementação)
+
+XII! Dados de eficácia e de segurança de análises de subgrupos por status de infecção prévia e por faixas etárias; (Pendente de complementação)
+Vi (c) Caracterização da substância ativa; (Não apresentado)
+
+Vi (a) Avaliação do histórico, qualificação e controle de qualidade de bancos de células, de bancos de vírus e identificação de todos os materiais
+derivados de animais usados para cultura de células e vírus, incluindo caracterização do(s) antgeno(s) a ser(em) expresso(s), para vacinas que induzem a
+expressão de antígenos; (Não apresentado)
+
+VI (b) Avaliação de plano de mitigação referente a potenciais agentes adventícios. (Não apresentado)
+
+Quanto à relação aos nomes dos técnicos responsáveis por cada etapa no âmbito da Gerência-Geral de Medicamentos e Produtos Biológicos:
+
+- Triagem da documentação de autorização de uso emergencial: Francis Carazzai Reisdorfer, Brenda Gomes Valente, Maria Fernanda Reis e
+Silva Thees
+
+ 
+
+- Análise Técnica da autorização de uso emergencial: Francis Carazzai Reisdorfer, Brenda Gomes Valente
+
+- Supervisão da avaliação de autorização de uso emergencial: Maria Fernanda Reis e Silva Thees
+
+5.2 Do pedido para autorização de uso emergencial para vacina Sputnik V
+
+Em 15/1/2021, a empresa União Química protocolou a solicitação formal de autorização temporária de uso emergencial, em caráter experimental,
+por meio da petição 11856 - MEDICAMENTOS - Solicitação de autorização temporária de uso emergencial, em caráter experimental, de vacinas/medicamentos.
+Covid-19, no processo Datavisa 25351.877766/2021-69.
+
+O encaminhamento de questionamentos relacionados à avaliação de autorização para uso emergencial da vacina Sputnik foi realizado via
+Processo Sei 25351.901150/2021-16.
+
+Após a triagem da documentação recebida, foram encaminhados questionamentos com base na notificação de exigência emitida pela
+COPEC nº 0036935/21-7, conforme esclarecido no Despacho nº 7/2021/SEI/COPEC/GGMED/DIRE2/ANVISA (1534124), utilizado para subsidiar o Ofício nº
+113/2021/SEI/GADIP-CG/ANVISA (1534144). Foi encaminhado também o Ofício nº 114/2021/SEI/GADIP-CG/ANVISA (1534149), solicitando informações
+adicionais.
+
+Diante da demora em receber respostas às solicitações de esclarecimentos adicionais, foi encaminhado o Ofício nº 6/2021/SEI/DIREZ/ANVISA
+(1534154) à empresa em 18/3/2021.
+
+Em 26/3/2021, a empresa União Química protocolou uma carta no processo Datavisa 25351.877766/2021-69, desistindo da petição de
+autorização temporária de uso emergencial para a vacina Sputnik, informando que, em comum acordo com o Fundo Soberano Russo de Investimento (RDIF), foi
+peticionado na mesma data um novo pedido de Autorização Emergencial de acordo com o preconizado na atual versão do Guia nº 42/2020 e em conformidade
+com a Resolução RDC nº 475/21, referente ao expediente 1158172/21-7, processo Datavisa nº 25351.240378/2021-28.
+
+Após a triagem da documentação recebida na nova solicitação formal de autorização temporária de uso emergencial foram encaminhados alguns
+questionamentos relacionados a questões clínicas e questões da qualidade: Despacho 77/GPBIO - triagem (1532554), que subsidiaram o Ofício nº
+694/2021/SEI/GADIP-CG/ANVISA (1534178).
+
+Adicionalmente, por meio do sistema Datavisa, foi encaminhado ofício eletrônico 1395708212 (1532393), com o Anexo ofício 1395708212 -
+qualidade (1532399) e Anexo ofício 1395708212 - clínico (1532404).
+
+Em 23/4/2021, foi encaminhado o Ofício eletrônico nº 1561305214 (1534231) com a solicitação de previsão de cumprimento de exigências — uso
+emergencial — vacina Sputnik V. Para essa vacina, como não houve conclusão da análise dos pedidos de uso emergencial, por estar pendente o recebimento das
+respostas às exigências encaminhadas pela Anvisa, não há relatórios de análise disponíveis, mas sim as manifestações por despachos Sistema Eletrônico de
+Informações (SEI):
+
+. Nota Técnica nº 60/2021/SEI/GPBIO/GGMED/DIRE2/ANVISA (1532564)
+. Nota Técnica nº 66/2021/SEI/GPBIO/GGMED/DIRE2/ANVISA (1532571)
+
+ 
+
+Painel de análise- O painel apresenta a porcentagem relativa ao status de submissão dos relatórios e informações da AUE da vacina Sputnik V
+protocolada pela empresa União Química. No link público citado abaixo é possível ter acesso a descrição dos documentos faltantes ou que necessitam de
+complementações, também é possível saber o status da avaliação de cada item, previsto no Guia 42/2020.
+
+https:/ Awww. gov br /anvisa/pt-br/assuntos /noticias-anvisa/2021/painel-acompanhe-o-andamento-da-analise-das-vacinas-2013-uso-emergencial
+
+https://sei anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=1716625&infra si... 9/14
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+
+CORONAVÍRUS + COMID- 19
+ESSES)
+
+ 
+    
+
+zuar
+
+ 
+
+   
+
+União Química
+
+ 
+
+Dem
+
+ 
+
+plemeneas
+
+ 
+
+   
+
+Documentos previstos no Guia Guia nº 42/2020 Siatus (Sputnik EE
+
+Concuigo
+
+ 
+
+special e Concuido,
+nhados as respatvas naraivas deilhades, e o plano de menicramarto para secção e erenios
+
+adversos tados jursfcend operado proposto
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+1 2 say uso pretendido Concuído
+3 Descrição do srs de aprovação intemaional ca vacina Concuido
+2 Menino der Conquião
+4 Jusifiaiaparao uso emegana Concluído
+“ pur de todos os estudos Concuído
+
+ 
+
+Conforme disposto no painel público de análise das vacinas, citado acima, as seguintes documentações estão pendentes
+
+ 
+
+21 Tempo médio de acompanhamento dos participantes após a administração do esquema completo de vacinação para a população de análise de
+segurança e de eficácia; (Não apresentado)
+
+22 Listagens de dados necessários para apoiar as análises críticas como: resultados individuais de sorologia de base, diagnóstico prévio de Covid-
+19 com os resultados de testes realizados, resultados individuais dos desfechos de imunogenicidade, data de coletas, número de amostras coletadas e
+resultados para os testes para confirmação virológica da infecção por Sars-CoV-2 para todos os participantes que foram sintomáticos no estudo; (Não
+apresentado)
+
+23 Relatórios de validação dos ensaios bioanalíticos utilizados para avaliar os desfechos do estudo clínico de fase 3; (Não apresentado)
+
+10 Histórico de desenvolvimento do processo produtivo e da estratégia de controle de qualidade e alterações introduzidas nos lotes de
+desenvolvimento, clínicos e comerciais, assim como dados de avaliação de comparabilidade de lotes produzidos com os diferentes processos de fabricação.
+Também devem ser fornecidos dados de liberação e de caracterização suplementares para avaliação do impacto das alterações nos atributos de qualidade e
+estudos de investigação, avaliação e definição de limites das impurezas na substância ativa e no produto terminado; (Não apresentado)
+
+8 Caracterização da substância ativa; (Pendente de complementação)
+
+9 Descrição detalhada de todo o processo de fabricação utilizado para a fabricação de lotes destinados ao uso emergencial, desde a etapa inicial
+de fabricação da substância ativa até a etapa final de fabricação do produto terminado, acompanhado de fluxograma, identificando parâmetros críticos de
+processo, atributos críticos de qualidade e testes dos controles em processo; (Pendente de complementação)
+
+14 Especificações de qualidade acompanhadas de suas justificativas, com base no histórico de lotes produzidos, incluindo todos os lotes clínicos;
+(Pendente de complementação)
+
+29 c) Validação de processo; (Pendente de complementação)
+30 d) Gerenciamento de risco com relação à contaminação cruzada decorrente da inclusão do produto na linha; ( Pendente de complementação)
+
+6 Avaliação do histórico, qualificação e controle de qualidade de bancos de células, de bancos de vírus e identificação de todos os materiais
+derivados de animais usados para cultura de células e vírus, incluindo caracterização do(s) antígeno(s) a ser(em) expresso(s), para vacinas que induzem a
+expressão de antígenos; (Pendente de complementação)
+
+13 Plano de estabilidade incluindo testes indicativos de estabilidade e segurança da substância ativa e do produto terminado, dados de
+estabilidade disponíveis de todos os lotes de desenvolvimento, clínicos e comerciais. Dados para apoiar a estabilidade de curto prazo e da vacina em uso,
+refletindo as condições de armazenamento durante o transporte e distribuição às salas de vacina e cobrindo o tempo e condições desde a preparação da dose
+até a administração esperada; (Pendente de complementação)
+
+19 Descrição detalhada das características demográficas por braço do estudo e outras características importantes para a avaliação de eficácia e
+segurança, como presença e percentual de participantes com comorbidades, tratamentos concomitantes, uso permitido de outras vacinas; (Pendente de
+complementação)
+
+16 Relatório de estudos pré-clínicos de segurança e imunogenicidade; (Pendente de complementação)
+26 Dados de eficácia e de segurança de análises de subgrupos por status de infecção prévia e por faixas etárias; (Pendente de complementação)
+
+25 Dados de segurança dos estudos de fase 3 referentes a um seguimento mediano de, pelo menos, dois meses após a última imunização e
+estabelecimento de um perfil de segurança preliminar para eventos adversos graves e de interesse especial e para exacerbação da doença respiratória. Devem
+ser fornecidas as narrativas detalhadas dos eventos adversos graves, de interesse especial e casos graves de Covid-19; (Pendente de complementação)
+
+18 Relatórios do(s) estudo(s) clínico(s), que incluam os resultados da análise interina ou final de desfecho primário do(s) estudo(s) clínico(s) de
+fase 3 demonstrando, pelo menos, 50 % de eficácia, e o critério de sucesso estatístico deve ser que o limite inferior do intervalo de confiança (ajustado para alfa
+apropriado) seja maior que 30%, ou em caso de parâmetros alternativos, que estes tenham sido pré-aprovados pela Anvisa. Esses relatórios devem incluir
+minimamente: a Critérios de inclusão e exclusão; (Pendente de complementação)
+
+17 não aplicável; (Pendente de complementação)
+
+ 
+
+'sei.anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origer
+
+ 
+
+rvore visualizar&id documento=1716625&infra . 10/14
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+
+12 Qualificação/validação para todos os testes de liberação de controle de qualidade e estabilidade, incluindo os testes de pureza, identidade e
+potência da vacina, demonstrando que são adequados para a finalidade pretendida; (Pendente de complementação)
+
+20 Descrição detalhada dos desfechos e de como foi feita a avaliação de cada desfecho no estudo, incluindo definição de caso de Covid-19 e
+escalas utilizadas para avaliação de gravidade, sintomas considerados para definir a necessidade de coleta de amostras para confirmação virológica,
+procedimentos para monitoramento de sintomas dos participantes, definição de períodos de dias, com máximos e mínimos, a partir do primeiro dia de sintomas.
+para coleta de amostras para confirmação sorológica; (Pendente de complementação)
+
+15 Dados de suporte da consistência da qualidade da vacina entre locais de fabricação, em caso de mais de um local de fabricação da substância
+ativa e/ou do produto terminado; (Pendente de complementação)
+
+31 Informação sobre prazo de validade e cuidados de conservação da vacina e capacidade da requerente em manter tais condições até o seu uso;
+(Pendente de complementação)
+
+Em relação à Petição 11856 - Solicitação de autorização temporária de uso emergencial, em caráter experimental, de vacinas Covid-
+19, processo Datavisa nº 25351.240378/2021-28, foram elaborados os seguintes documentos:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+Data Descrição Tipo Supervisão da avaliação de Gestor
+AUE
+12/04/2021 OFÍCIO ELETRÔNICO : exigências uso emergencial - GPBIO [OE nº Gustavo
+1421 1395708212 OFÍCIO ELETRÔNICO Maria Fernanda Reis Mendes
+12/04/2021 | ANEXO DO OFÍCIO ELETRÔNICO : Exigências EUA Sputnik - clínicas e não ANEXO DO OFÍCIO Maria Fernanda R Gustavo
+14:21 clínicas.pof ELETRÔNICO aria Fernanda Reis Mendes
+12/04/2021 : ANEXO DO OFÍCIO Gustavo
+4a ANEXO DO OFÍCIO ELETRÔNICO : Exigências EUA Sputnik - qualidade.pdf ELETRÔNICO Maria Fernanda Reis Mendes
+Pernas OFÍCIO ELETRÔNICO : Ofício em Branco [OE] nº 1561305214 OFÍCIO ELETRÔNICO Maria Fernanda Reis usava
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Em relação aos nomes dos técnicos responsáveis por cada etapa no âmbito da Gerência-Geral de Medicamentos e Produtos Biológicos:
+
+- Triagem da documentação para autorização de uso emergencial: Silmara Cristiane da Silveira Andreoli, Brenda Gomes Valente, Maria Fernanda
+Reis e Silva Thees
+
+- Análise técnica da autorização de uso emergencial: Silmara Cristiane da Silveira Andreoli, Brenda Gomes Valente, João Tavares Neto
+
+- Supervisão da avaliação de autorização de uso emergencial: Maria Fernanda Reis e Silva Thees
+
+6. Dos Procedimentos para registro sanitário de vacinas Covid 19
+
+A Gerência de Avaliação de Produtos Biológicos (GPBIO), subordinada a Gerência Geral de Medicamentos e Produtos Biológicos, é a área técnica
+da Anvisa responsável pela análise técnica dos pedidos de registro de vacinas e uma das áreas técnicas envolvidas na análise dos pedidos de uso emergencial de
+vacinas Covid-19.
+
+No Brasil, o registro de produtos sob vigilância sanitária — medicamentos vacinas, está entre as atribuições da Agência Nacional de Vigilância
+Sanitária. A empresa interessada no registro de um medicamento deve reunir informações técnicas/científicas detalhadas que comprovam a sua segurança e
+eficácia compondo o “dossiê” (termo utilizado para referenciar o conjunto de documentos necessários para um processo de registro) de registro de
+medicamentos. O registro sanitário de medicamento é o momento no qual os órgãos reguladores procedem à avaliação dos aspectos relacionados à eficácia,
+segurança e qualidade da nova tecnologia. É por meio dessa atividade que as autoridades sanitárias devem atuar como mediadoras entre os interesses dos
+fabricantes de medicamentos e as necessidades da saúde pública, visando, sobretudo, ao dever de proteção da saúde (GAVA et al, 2010). Portanto, é correto
+considerar que o registro de medicamentos se mostra como um registro de nascimento destes e sua essencialidade se deve a própria importância dos
+medicamentos. “segundo Said (2004), pela sua natureza especial, insumo indispensável à terapêutica moderna, que traz sempre um risco inerente ao seu uso, o
+medicamento é alvo de extensa regulamentação, que abrange toda a sua cadeia”
+
+O registro de vacinas no Brasil é regido pela RDC nº 55/2010, regulamentação que guia o registro dos medicamentos classificados como produtos
+
+biológicos. Além da RDC nº 55/2010, para o registro de vacinas é necessário o atendimento ao disposto na RC nº 412/2020 e demais normativas satélites (RDC
+nº 47/2009, 71/2009, 166/2017, 301/2019). Todas essas normativas visam complementar a Lei nº 6.360/1976 e seu Decreto nº 8077/2013. Em
+complementação aos dispostos nas — RDCs mencionadas, a área técnica também segue os guias
+
+do International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) de qualidade e eficácia e segurança (disponíveis
+em www.ich.org), assim como guias internacionais, como as séries de relatórios técnicos da Organização Mundial da Saúde (Technical Report Series - TRS,
+disponíveis em https://extranet who int/paweb/medicinesAwho-technical-report-series).
+
+A GPBIO também possui um Procedimento Operacional Padrão para o fluxo administrativo de petições de registro (1531761), assim como
+um modelo padrão de parecer para vacinas (1532609).
+
+Adicionalmente, no advento da pandemia, foi publicada a RDC nº 415/2020, que define novos critérios e procedimentos extraordinários para
+
+tratamento de petições de registro e mudanças pós-registro de medicamentos e produtos biológicos em virtude da emergência de saúde pública internacional
+decorrente do novo Coronavírus.
+
+O pedido inicial de registro, feito pela empresa interessada, é realizado mediante peticionamento na Anvisa, utilizando os seguintes códigos de
+assunto:
+
+ 
+
+ 
+
+ 
+
+1529 || PRODUTO BIOLÓGICO - Registro de Produto ]
+10568 || PRODUTO BIOLÓGICO - Registro de Produto Biológico pela Via de Desenvolvimento Individual (Parceria de Desenvolvimento Produtivo) |
+1528 || PRODUTO BIOLÓGICO - Registro de Produto Novo ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ 10567 || PRODUTO BIOLÓGICO - Registro de Produto Novo (Parceria de Desenvolvimento Produtivo)
+[ 10566 || PRODUTO BIOLÓGICO - Registro de Produto (Parceria de Desenvolvimento Produtivo),
+[ 10370 || PRODUTO BIOLÓGICO - Registro de Produto pela Via de Desenvolvimento Individual
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+http:
+
+ 
+
+'sei.anvisa.gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=1716625&infra ... 11/14
+
+ 
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+
+o peticionamento eletrônico é realizado no portal da Anvisa no endereço
+eletrônico: https://www9 anvisa gov. br/peticionamento/sat/global/acesso.asp, que deve ser realizado pelo representante legal da empresa cadastrada.
+
+Adicionalmente, registra-se que no momento, não há protocolo na Anvisa de solicitação de registro das vacinas Covid 19 (Covaxin e Sputnik).
+
+O registro de medicamentos tem previsibilidade de fato gerador, sendo obrigatório o pagamento de taxa para sua concessão, conforme previsto
+na Lei nº 9.782/1999 e RDC nº 222/2006.
+
+7. Dos Procedimentos da Gerência de Laboratórios de Saúde Pública e do INCQS nas vacinas Covid 19
+
+Destaque-se, inicialmente, que compete à Gerência de Laboratórios de Saúde Pública (Gelas) a coordenação das ações de vigilância sanitária
+realizadas pelos laboratórios analíticos que compõem a Rede Nacional de Laboratórios de Vigilância Sanitária, que inclui o Instituto Nacional de Controle de
+Qualidade em Saúde (INCOS).
+
+Em relação aos procedimentos realizados pela Gelas, no âmbito das análises de vacina contra a Covid19, a sua participação está relacionada à
+autorização excepcional e temporária para importação e distribuição nos termos da Lei nº 14.124/2021. Cabe à Gelas promover o diálogo entre o Instituto
+Nacional de Controle de Qualidade em Saúde (INCOS/Fiocruz) e importadoras, a fim de que encaminhem ao INCQS, no tempo mais breve possível, toda a
+documentação técnica necessária para subsidiar a análise de liberação de lotes, conforme previsto na RDC nº 476/2021, art. 9º.
+
+É importante contextualizar que a Anvisa, por meio da Resolução RDC nº 73, de 21/10/2008, delega ao Instituto Nacional de Controle de
+Qualidade em Saúde (INCQS) a competência para a liberação de lote de vacinas e soros hiperimunes heterólogos utilizados no Brasil, para os programas públicos
+e privado e vacinas. Ou seja, trata-se de um importante programa de controle desses produtos que são registrados na Anvisa ou adquiridos pelo Ministério da
+Saúde por meio de Organismos multilaterais, como Organização Mundial da Saúde (OMS) e Organização Pan-Americana da Saúde (OPAS), os quais atendem a
+premissa de serem produtos pré-qualiicados pela OMS e que atendem condições sanitárias aceitas internacionalmente.
+
+Desse modo, as vacinas contra a Covid 19, tanto a Sputnik V quanto a Covaxin, passam por análise laboratorial do INCQS para serem liberadas
+para uso interno no Brasil. Entre os testes realizados, encontram-se os de biologia molecular (PCR), que são fundamentais e imprescindíveis para a autenticação
+dos adenovírus presentes nas vacinas; Avaliação dos resultados e da metodologia analítica de qPCR e ELISA (identidade e potência); e Protocolo Resumido de
+Produção e Controle (PRPC), por exemplo. A validação dos métodos analíticos é regulamentada pela Resolução RDC nº 166, de 24 de julho de 2017.
+
+8. Dos Procedimentos da Gerência da Farmacovigilância para a AUE ou registro sanitário das vacinas Covid 19
+
+A Gerência de Farmacovigilância (GFARM) é subordinada à Gerência-Geral de Monitoramento de Produtos Sujeitos à Vigilância Sanitária e tem
+como responsabilidade a análise do Plano de Gerenciamento de Riscos quando são solicitadas à Anvisa autorização para uso emergencial ou registro de vacinas
+contra Covid-19 foi realizada de acordo com suas competências, voltadas para o Plano de Gerenciamento de Riscos e Monitoramento pós-autorização da vacina.
+
+Para a avaliação dos processos, a equipe técnica da Gerência de Farmacovigilância adota documentos norteadores para conduzir a análise das
+solicitações de autorização de uso emergencial e de registro de vacinas contra Covid-19 de forma equitativa.
+
+Conforme RDC nº 406/2020, a qual "dispõe sobre as Boas Práticas de Farmacovigilância para Detentores de Registro de Medicamento de uso
+humano, e dá outras providências", o Plano de Gerenciamento de Risco deve descrever as ações de rotina de Farmacovigilância, bem como contemplar as ações.
+adicionais propostas para a minimização de riscos de cada medicamento, incluindo as vacinas, no que couber.
+
+Ainda, a GFARM compartilha a responsabilidade pela análise das bulas das vacinas com a Gerência-Geral de Medicamentos e Produtos Biológicos
+(GGMED).
+
+A análise é realizada de acordo com a solicitação:
+
+a) Se autorização de uso emergencial, os documentos norteadores são RDC nº 475/2021 e Guia nº 42/2020, Guia que, no item 5, requer como
+documentos a serem submetidos pelo demandante:
+
+XVIII - Plano de gerenciamento de riscos, para identificação de problemas decorrentes do uso da vacina e descrição de medidas a serem
+adotadas.
+
+ 
+
+b) Se registro, a RDC nº 55/2010 é a principal legislação que regulamenta o registro dos medicamentos classificados como produtos biológicos, a
+qual determina, em seu art. 29:
+
+Independentemente da via de desenvolvimento utilizada, no ato do protocolo do pedido de registro de um produto biológico novo ou produto
+biológico, a empresa solicitante deverá apresentar um plano de farmacovigilância e um plano de minimização de risco de acordo com a legislação sanitária
+vigente.
+
+Para a GFARM, no caso de registros, a RDC nº 406/2020 é o principal regulamento norteador, que passa a denominar "plano de farmacovigilância
+e um plano de minimização de risco"como "Plano de Gerenciamento de Riscos", terminologia adotada pelas demais autoridades regulatórias que compõem
+o International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) de qualidade e eficácia e segurança (disponíveis
+em wwyich.org). A mudança de terminologia harmoniza com autoridades dos demais países e inclui em um único documento a descrição das ações de rotina
+de Farmacovigilância, bem como as ações adicionais propostas para a minimização de riscos de cada medicamento, incluindo as vacinas.
+
+Desde 2018, a análise dos planos é norteada pelo POP 004/GFARM - "PROCEDIMENTO OPERACIONAL PADRÃO ANÁLISE DOS PLANOS DE
+FARIMACOVIGILÂNCIA E DOS PLANOS DE MINIMIZAÇÃO DE RISCO NO ÂMBITO DA GFARM"(SEI 1532844), o qual descreve o procedimento em detalhes. A fim de
+complementar o procedimento operacional padrão, elaborou-se documento contendo "Requisitos adicionais a serem exigidos para a análise do Plano de
+Gerenciamento de Risco de Vacinas COVID-19" (SEI1532851), no qual são elencados os requisitos adicionais que são exigidos como parte do Plano de
+Gerenciamento de Risco para todas as vacinas que são avaliadas pela Anvisa.
+
+Ressalta-se que estava prevista atualização do POP 004 para março de 2021, porém optou-se por não fazê-lo enquanto persistir a pandemia e o
+ritmo acelerado de submissões por registros e autorizações de uso emergencial, de forma a manter o padrão de análise entre todos os produtos submetidos no
+período voltados para o enfrentamento da Covid-19.
+
+Os profissionais diretamente envolvidos na análise dos planos de gerenciamento de riscos das vacinas Covaxin e Sputinik V:
+Fernanda Simioni Gasparotto, Leandro Braga Ribeiro e Pauliana Almeida de Alencar Andrade, revisados e aprovados por Helaine Carneiro Capucho.
+
+9. Dos Procedimentos da Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, das vacinas Covid 19
+
+A Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados (GGPAF) não participa da análise de vacinas relacionadas a estudos
+clínicos, registro ou monitoramento. Compete regimentalmente à GGPAF atuar na anuência de pedidos de importação, cuja regulamentação é a RDC nº
+81/2008. A Seção IV - Procedimento 2A - do Capítulo XXXIX da referida Resolução lista os documentos requeridos para a importação ordinária de vacinas.
+
+Neste aspecto, a Gerência de Controle Sanitário de Produtos e Empresas em Portos, Aeroportos, Fronteiras e Recintos Alfandegados (GCPAF)
+possui um Procedimento Operacional Padrão (1534017) para a análise de processos de importação de soros e vacinas que se enquadrem na supracitada
+Resolução.
+
+Diante da edição da Lei nº 14.124/2021 foi publicada a RDC nº 476/2021 que estabelece os procedimentos e requisitos para submissão de pedido
+de autorização excepcional e temporária para importação e distribuição de medicamentos e vacinas para Covid-19 para o enfrentamento da emergência de
+
+http:
+
+ 
+
+'sei.anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origer
+
+ 
+
+rvore visualizar&id documento=1716625&infra . 12/14
+21/07/2021 SEIVANVISA - 1535608 - Ofício
+saúde pública de importância nacional decorrente do surto do novo coronavírus (SARS-CoV-2).
+Para análise dos processos de importação amparados por esta Resolução foi elaborada uma Instrução de Trabalho, a IT-GCPAF-003 (1534024).
+
+Por fim, visando dar transparência aos procedimentos para a importação, bem como para detalhar o descritivo de toda a operação de importação,
+desde o embarque no exterior até a entrega da carga desembaraçada ao importador, foi elaborada a Cartilha - Processo de Importação de Vacinas (1534036).
+Esta Cartilha foi elaborada em parceria pelos diversos intervenientes e anuentes do processo de importação de vacinas utilizadas no Combate à Covid-19, tais
+como a Anvisa, Receita Federal do Brasil, ANAC, Secex, Sindicato dos Despachantes Aduaneiros de São Paulo, entre outros.
+
+10. Destaque sobre os pedidos de autorização excepcional e temporária para importação e distribuição das vacinas Covaxin e Sputnik
+
+Ambas as vacinas (Covaxin e Sputnik) também foram objeto de pedidos de autorização excepcional e temporária para importação e distribuição
+de vacina para Covid-19 para o enfrentamento da emergência de saúde pública de importância nacional decorrente do surto do novo coronavírus (SARS-CoV-2),
+nos termos da Lei nº 14.124, de 10 de março de 2021. Os pedidos foram submetidos pelos Estados e pela União. A decisão da Anvisa é pública, os votos dos
+diretores e apresentações técnicas constam no portal da Agência, nos links:
+
+1- https:/Avww.gov.br/anvisa/ptbr/assuntos/paf/coronavirus fvacinas/covaxin; e
+2- https:/ www. gow.br/anvisa/ pt-br /assuntos /paf/coronavirus vacinas /sputnik
+
+11, Considerações finais
+
+No contexto do que foi exposto e apresentado nos diversos documentos anexos a este ofício, reiteramos que, em emergência de saúde pública,
+como essa pandemia, o processo de desenvolvimento de uma vacina e medicamentos pode ser atípico. Neste contexto, a Anvisa uniu-se às agências
+contrapartes internacionais, a pesquisadores e às empresas farmacêuticas para desenvolver uma estratégia coordenada para priorizar e acelerar o acesso às
+vacinas mais promissoras. No entanto, os esforços para acelerar o desenvolvimento das vacinas para lidar com a pandemia do novo coronavírus não sacrificaram
+os padrões científicos, a integridade do processo regulatório de avaliação técnica para atender às condições mínimas de qualidade, eficácia e segurança das
+vacinas autorizadas pelo mecanismo da Autorização de Uso Emergencial.
+
+Reconhecendo a necessidade urgente de ampliar o acesso a vacinas seguras e eficazes, a Anvisa está utilizando da sua interação com
+várias autoridades e experiência para facilitar a disponibilidade de vacinas que atendam aos rigorosos padrões científicos de qualidade, segurança e eficácia da
+Organização Mundial de Saúde e do Brasil. Neste ponto, merece um destaque que aprovamos primeiro as mesmas vacinas autorizadas pela Organização Mundial
+da Saúde.
+
+Ressalte-se, por fim, o caráter de sigilo dos documentos emitidos por esta Anvisa no bojo dos processos de análises das vacinas Covaxin e
+Sputnik, por conter informações relacionadas a questões de propriedade intelectual e sigilo industrial e, ainda, informações pessoais, resguardadas pelo art. 31
+da Lei nº 12.527/2012. Ainda, de acordo com o disposto no art. 5, 2º, do Decreto nº 7.724/2012, o acesso previsto na Lei nº 12.527/2011 (Lei de Acesso à
+Informação), não se aplica nos casos de informações relativas à atividade empresarial de pessoas físicas ou jurídicas de direito privado obtidas pelas agências
+reguladoras ou por outros órgãos ou entidades no exercício de atividade de controle, regulação e supervisão da atividade econômica cuja divulgação possa
+representar vantagem competitiva a outros agentes econômicos. Os Procedimentos Operacionais Padrão, por sua vez, são considerados
+documentos preparatórios, nos termos do artigo 7º, 53º da Lei nº 12.527/2011.
+
+Desta forma, todos os documentos citados são caracterizados como sigilosos, com exceção dos normativos citados e documentos encaminhados
+por hiperlinks, apresentados nos diferentes processos de análises das respectivas vacinas, que são considerados documentos públicos.
+
+Solicita-se, então, a gentileza de se observar o caráter sigiloso e/ou de acesso restrito dos documentos e informações prestadas, nos termos da Lei
+nº 12.527/2011, do Decreto 7.724/2012 e da legislação específica, rogando-se, nos termos dos arts. 20, 144 e 157 do Regimento Interno do Senado Federal, pela
+garantia de manutenção da natureza sigilosa dos dados por este expediente encaminhados, resguardo-os, assim, do acesso indevido de terceiros ao seu
+conteúdo.
+
+Anexos: Documento Afastamentos inspetores (SEI nº 1532595)
+Documento Inspeção Covaxin (SEInº 1532599)
+Documento Inspeção Sputnik V (SEI nº 1532832)
+Documento Procedimentos GGFIS (SEI nº 1532600)
+Documento POP-GGMED-005, Fluxo registro (SEI nº 1531761)
+Despacho 155/GPBIO - triagem Covaxin (SEI nº 1532344)
+Documento exigências qualidade (SEInº 1532352)
+Documento exigências clínicas (SEI nº 1532357)
+
+Ofício 1395708212-datavisa (SEI nº 1532393)
+
+Anexo ofício 1395708212 - qualidade (SEInº 1532399)
+Anexo ofício 1395708212 - clínico (SEInº 1532404)
+
+Ofício 2366259210 - submissão contínua (SEI nº 1532421)
+Nota Técnica 67 - GPBIO (SEInº 1532533)
+
+Nota Técnica 62 - GPBIO (SEInº 1532536)
+
+Despacho 77/GPBIO - triagem Sputnik (SEI nº 1532554)
+Nota Técnica 60 - GPBIO (SEInº 1532564)
+
+Nota Técnica 66 - GPBIO (SEInº 1532571)
+
+Documento Parecer padrão (SEInº 1532609)
+
+Anexo POP Farmacovigilância (SEI nº 1532844)
+
+Anexo Requisitos Adicionais Vacinas (SEInº 1532851)
+Anexo 01, roteiro formulárioDDCM (SEI nº 1532889)
+Anexo 02, roteiro plano (SEI nº 1532890)
+
+Anexo 03 roteiro. brochura, investigador (SEInº 1532891)
+Anexo 04, roteiro. resumo, segurança (SElnº 1532892)
+Anexo 05, roteiro, interrupção (SEI nº 1532894)
+
+Anexo O6a roteiro, IFA (SEI nº 1532896)
+
+Anexo 06b roteiro medic experimental (SEI nº 1532897)
+Anexo O6c. roteiro comparador (SEI nº 1532899)
+
+Anexo 06d roteiro, EET rótulo (SEI nº 1532900)
+
+Anexo 06. roteiro, análise, crítica não. dínico (SEI nº 1532901)
+Anexo 07, roteiro. DEEC (SEInº 1532902)
+
+Anexo 08, roteiro. conclusão (SEI nº 1532903)
+
+Orientação de serviço 81/2020 (SEI nº 1532932)
+
+Ofício exigência precisa 1452344212 (SEI nº 1533884)
+Ofício precisa 1580815217 (SEI nº 1533887)
+
+Ofício precisa 1853158210 (SEI nº 1533904)
+
+Ofício precisa 1853811218 (SEI nº 1533910)
+
+ 
+
+'sei.anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origer
+
+ 
+
+rvore visualizar&id documento=1716625&infra . 13/14
+21/07/2021 SEI/ANVISA - 1535608 - Ofício
+
+Ofício precisa 2163315211 (SEI nº 1533916)
+
+Ofício precisa 2363360213 (SEI nº 1533922)
+
+Ofício precisa 2814521216 (SEI nº 1533927)
+
+Ofício exigência albert einstein 1462310212 (SEI nº 1533947)
+Ofício exigência UQ 0036935217 (SEI nº 1534022)
+
+Ofício UQ 0483883211 (SEI nº 1534027)
+
+Ofício UQ 1702408211 (SEI nº 1534031)
+
+Ofício UQ 1736153212 (SEI nº 1534035)
+
+Anexo POP-GCPAF-OO2 (SEI nº 1534017)
+
+Anexo IT-GCPAF-003 (SEI nº 1534024)
+
+Anexo Cartilha - Processo de Importação de Vacinas (SEI nº 1534036)
+Ofício UQ 1829586210 (SEI nº 1534038)
+
+Despacho 07 2021 COPEC (SEInº 1534124)
+
+Ofício 113 2021 GADIP (SEI nº 1534144)
+
+Ofício 114 2021 GADIP (SEI nº 1534149)
+
+Ofício 06 2021 DIRE2 (SEInS 1534154)
+
+Ofício 694 2021 GADIP (SEI nº 1534178)
+
+Ofício UQ 1561305214 (SEI nº 1534231)
+
+Ofício 1482 2021, GADIP (SEInº 1534243)
+
+Atenciosamente,
+
+ 
+
+seil sa | Pocumento assinado eletronicamente por Meiruze Sousa Freitas, Diretor(a)-Presidente Substituto(a), em 21/07/2021, às 17:19, conforme horário oficial de
+DMd (5) | Brasíia, com fundamento no art. $ 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de 2020 http://www planalto. goubr/ccivil 03/ ato2019-
+dierónio | 2022/2020/decreto/D10543 htm.
+
+ 
+
+ 
+
+A autenticidade deste documento pode ser conferida no site https://sei anvisa gov. br/autenticidade, informando o código verificador 1535608 e o código CRC
+14717E2B.
+
+ 
+
+ 
+
+ 
+
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 25351.920479/2021-86 SEI nº 1535608
+
+ 
+
+'sei.anvisa. gov.br/sei/controlador.php?acao=documento imprimir web&acao origer
+
+ 
+
+rvore visualizar&id documento=1716625&infra . 14/14
+
