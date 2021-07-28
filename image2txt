@@ -8,7 +8,9 @@ echo "Converting $from to $to"
 tmp=$(mktemp -d -t ci-XXXXXXXX)
 cd $tmp
 
-parallel -j2 "tesseract -l por --dpi 100 {} {/.}.txt" ::: $(ls $from/*)
+P=$(cat /proc/cpuinfo | grep processor | cut -f2 -d: | tail -n 1 | xargs echo)
+export OMP_THREAD_LIMIT=1
+parallel -j ${P} "tesseract --dpi 150 -l por {} {/.}.txt" ::: $(ls $from/*)
 
 cat $(ls *.txt | sort  -n -t '-' -k 2) > $to
 rm -rf $tmp

@@ -13,7 +13,7 @@ txtdir = 'database/txts'
 
 subprocess.run("mkdir -p {}".format(txtdir), shell=True)
 
-with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
     for image in os.listdir(imagedir):
         from_f = os.path.join(imagedir, image)
         to_f = os.path.join(txtdir, os.path.splitext(image)[0] + '.txt')
