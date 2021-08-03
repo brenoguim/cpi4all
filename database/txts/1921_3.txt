@@ -1,0 +1,187 @@
+ 
+
+EE Microsoft
+
+Diretrizes para Law Enforcement Internacional (não-UE/EEE)
+
+Todos os registros relevantes são mantidos pela Microsoft Corporation. Solicitações judiciais e extrajudiciais devem ser
+endereçados a:
+Microsoft Corporation, One Microsoft Way, Redmond, WA 98052 USA
+
+AVISO: A Microsoft lançou o LE Portal para o envio de solicitações judiciais e extrajudiciais, bem como para o recebimento
+das respectivas respostas a tais solicitações. Acesse https://leportal microsoft.com para criar uma conta e enviar sua
+solicitação. O LE Portal Microsoft é o canal exclusivo para o envio de uma solicitação não emergencial para preservação
+ou divulgação de dados.
+
+Microsoft responderá aos pedidos de emergência fora do horário comercial normal, caso a emergência envolva “o perigo
+de morte ou lesão corporal de qualquer pessoa ..”. As emergências são limitadas a situações como sequestro, ameaças
+de morte, ameaças de bomba, ameaças de terrorismo etc. Se você tiver uma solicitação de emergência, remeta a requisição
+assinada e datada em papel timbrado de sua agência, em inglês, para o endereço de e-mail: LEALERT(Qmicrosoft.com.
+
+Em resposta a uma requisição válida, a Microsoft pode fornecer os seguintes registros:
+
+Dados da conta da Microsoft (MSA — Microsoft Account):
+
+* Detalhes de registro (informações capturadas no momento do registro da conta)
+
+« Informações de faturamento (pode incluir endereço e modos de pagamento) — Necessária apresentação de ordem judicial
+« Transações de faturamento — Necessária apresentação de ordem judicial
+
++ Logs de IP (endereços IP capturados no momento do login do usuário em um serviço específico) — Necessária apresentação
+de ordem judicial
+
+* E-mail alternativo e / ou alias
+
+» Serviços utilizados
+
+Dados do serviço de e-mail:
+
+* Detalhes de registro (informações capturadas no momento do registro da conta)
+
++ Logs de IP (endereços IP capturados no momento do login do usuário no serviço de e-mail) — Necessária apresentação de
+ordem judicial
+
++ Cabeçalhos de e-mail — Necessária apresentação de ordem judicial
+
++ Conteúdo de e-mail - Necessária apresentação de ordem judicial
+
+« Contatos de e-mail — Necessária apresentação de ordem judicial
+
+Dados de serviço XBOX:
+
+* Detalhes de registro (informações capturadas no momento do registro da conta)
+
++ Gamertag
+
+* Número de série
+
++ Logs de IP (endereços de IP capturados no momento do login do usuário no serviço XBOX) — Necessária apresentação de
+ordem judicial
+
+* Histórico de mudança de gamertag
+
++ Contatos XBOX- Necessária apresentação de ordem judicial
+
+« Histórico de jogos online XBOX — Necessária apresentação de ordem judicial
+
++ Comunicações armazenadas — Necessária apresentação de ordem judicial
+
+Dados de serviço do OneDrive:
+* Detalhes de registro (informações capturadas no momento do registro da conta)
+
++ Logs de IP (endereços IP capturados no momento do login do usuário no OneDrive) — Necessária apresentação de ordem
+judicial
+
++ Arquivos armazenados — Necessária apresentação de ordem judicial
+
+« Registros de transações — Necessária apresentação de ordem judicial
+
+ 
+
+ 
+
+Este documento é reservado estritamente para agências policiais intemacionais (não-UE/EEE) e órgãos governamentais.
+
+ 
+
+ 
+ 
+
+Dados do serviço Skype:
+
+* Detalhes de registro (informações capturadas no momento do registro da conta)
+
++ Endereço de cobrança (endereço de cobrança fornecido pelo usuário) - Necessária apresentação de ordem judicial
+
+* Método de pagamento / dados do instrumento — Necessária apresentação de ordem judicial
+
+« Histórico de compras (registros transacionais) - Necessária apresentação de ordem judicial
+
++ Logs de IP (endereços de IP capturados no momento do login do usuário no serviço Skype) — Necessária apresentação de
+ordem judicial
+
+« Histórico do serviço de número Skype (lista de números Skype assinados por um usuário)
+
++ Skype Out Records (registros históricos de detalhes de chamadas para chamadas feitas à rede telefônica pública comutada
+(PSTN))
+
+« Registros de números do Skype (registros históricos de detalhes de chamadas para chamadas recebidas da rede telefônica
+pública comutada (PSTN))
+
+« Registros de SMS (registros de detalhes históricos de SMS) — Necessária apresentação de ordem judicial
+
+« Registros de e-mail (registro histórico de atividade de alteração de e-mail)
+
++ Lista de contatos / amigos do nome de usuário do Skype — Necessária apresentação de ordem judicial
+
++ Chat / conteúdo de mídia do nome de usuário do Skype — Necessária apresentação de ordem judicial
+
+ 
+
+ 
+
+Tipos de identificadores válidos: todas as pesquisas serão conduzidas com base nos identificadores contidos na ordem
+judicial ou extrajudicial válida.
+
+São identificadores aceitáveis:
+
++ Endereço de e-mail / Conta da Microsoft (MSA)
+
+« Número de telefone * (MSA)
+
+* CID ou PUID
+
+* Número do cartão de crédito (número completo)
+
++ Gamertag Xbox, número de série ou card 5x5
+
++ Nome de usuário /ID do Skype
+
+« Número Skype* acompanhado por um intervalo de datas específico
+
++ Número PSTN discado* acompanhado da data, hora e duração específicas da chamada
+« Número do pedido do Skype
+
+* Todos os números de telefone devem incluir o código internacional do país. Exemplo: País Brasil, código (+55)
+Para garantir uma resposta adequada à sua solicitação, é necessário especificar os tipos de registros que está buscando em
+
+relação à sua investigação e que está autorizado a obter de acordo com a ordem judicial/policial que está sendo apresentada
+à Microsoft Corporation.
+
+ 
+
+ 
+
+Sugestões para solicitações de dados seja conduzida | Informações gerai
+corretamente:
+
+* Caso exista uma ameaça à segurança, indique isso | + Chamadas, mensagens instantâneas e outras atividades
+
+ 
+
+na solicitação de dados para que sua solicitação entre usuários do Skype não criam registros de
+possa ser priorizada. cobrança.
+e Caso o tipo de dado solicitado necessite de ordem | e Todos os registros são datados e marcados
+judicial, solicite a preservação destes dados. individualmente. Por favor, veja as notas na página
+e Suasolicitação deve especificar a 'natureza do crime! para fusos horários.
+que está sendo investigado. Se precisar de informações adicionais, você pode nos
+Inclua seu endereço de e-mail funcional, número contatar por emailem
+de telefone e endereço completo. msnwwce(Qmicrosoft.com. É recomendável que
+
+o contato seja efetuado através do endereço de e-
+mail funcional.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Este documento é reservado estritamente para agências policiais intemacionais (não-UE/EEE) e órgãos governamentais.
+
+ 
+
+ 
+

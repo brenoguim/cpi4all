@@ -1,0 +1,222 @@
+FORMULÁRIO DE CADEIA DE CUSTÓDIA
+
+ 
+
+SEI: 00001.004525/2021-47
+NATUREZA DO CASO: Requerimento nº 1109/2021 - CPIPANDEMIA.
+RESPONSÁVEL PELA COLETA: Leonardo Dourado — CPF: 997.598.701-00/ Diretoria de Tecnologia
+
+LOCAL DE COLETA: Diretoria de Tecnologia da Secretaria Especial de Administração da Secretaria-Geral da
+Presidência da República
+
+DESCRIÇÃO DO MATERIAL::
+Dispositivo USB Marca Genérica, contendo volume encriptado VeraCrypt.
+
+Abaixo a lista do arquivo contido no volume encriptado e seu hash MD5
+cpi-covid-24-07-2021-original.pst
+589c4ecdb1d848f678d3ecd4a3b1d4e6
+
+Dentro do envelope principal encontra-se a senha para decriptar o volume.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CADEIA DE CUSTÓDIA
+Nome Localização do artefato Data / hora Assinatuyá
+
+leio Aamtim [brejstiso PR | aofajay teto -
+
+ans Argada no Onda CASA CUULL Jolet Ao:zb Du
+SL Motret Juma) CASA Gavil |2okgpy tos] DAL
+MEnCELA ASSMEE Lppes SenaDO forte ASA A
+SíWIO Munã diva ICO A vil 063/27 1 16:00 VA .
+
+!
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+f
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Led o y
+
+martelo ABRUNHOSA HifoliTO Mp
+CPF a Us ASIA Nobhuna. Tomo Mindona,
+
+Cr lara sa
+
