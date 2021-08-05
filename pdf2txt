@@ -1,0 +1,19 @@
+#/bin/bash
+set -e
+
+from="$(readlink -f "$1")"
+to="$(readlink -f $2)"
+
+tmp=$(mktemp -d -t ci-XXXXXXXX)
+cd $tmp
+
+echo "Converting $from into images at $2"
+qpdf --split-pages $from page.pdf
+parallel -j2 "convert -density 150 -trim -quality 100 -sharpen 0x1 {} {.}.png" ::: $(ls *.pdf)
+
+P=$(cat /proc/cpuinfo | grep processor | cut -f2 -d: | tail -n 1 | xargs echo)
+export OMP_THREAD_LIMIT=1
+parallel -j ${P} "tesseract --dpi 150 -l por {} {/.}.txt" ::: $(ls *.png)
+
+cat $(ls *.txt | sort  -n -t '-' -k 2) > $to
+rm -rf $tmp
