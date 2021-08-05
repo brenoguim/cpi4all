@@ -22,7 +22,7 @@ def process_zip(from_path, to_path):
 
         for f,t in remap:
             print("Processing: {} => {}".format(f,t))
-            subprocess.run(["python", "process_file.py", f, t])
+            subprocess.run(["python3", "process_file.py", f, t])
         
         subprocess.run('cat {} > {}'.format(" ".join([t for _,t in remap]), to_path), shell=True)
         
