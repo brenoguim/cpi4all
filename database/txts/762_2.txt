@@ -1,0 +1,4 @@
+cpi4all_arquivo_nao_suportado: /tmp/tmppbnk290c/cpi4all_1_CREDENCIAMENTO__DE__LEITOS.rar
+cpi4all_arquivo_nao_suportado: /tmp/tmppbnk290c/cpi4all_2_Requerimento__470.rar
+cpi4all_arquivo_nao_suportado: /tmp/tmppbnk290c/cpi4all_3_ACORDO__DE__COOPERAА╟O.rar
+cpi4all_arquivo_nao_suportado: /tmp/tmppbnk290c/cpi4all_4_Requerimento__446.rar

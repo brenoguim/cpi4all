@@ -1,0 +1,4340 @@
+SEL'MS - 0014225901 - Nota Informativa htt
+
+ 
+
+ei.saude.gov.br/sei/controlador.php'?acao=documento. imprim...
+
+ 
+
+Ministério da Saúde
+Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde
+Departamento de Assistência Farmacêutica e Insumos Estratégicos
+
+NOTA INFORMATIVA Nº 6/2020-DAF/SCTIE/MS
+
+1. ASSUNTO
+
+1,1. Atualiza informações sobre o Uso da Cloroquina como terapia adjuvante no tratamento
+de formas graves do COVID-19, ficando revogada a Nota Informativa nº 5/2020-DAF/SCTIE/MS, datada
+de 27 de março de 2020.
+
+2. JUSTIFICATIVA
+
+2.1. Considerando a pandemia ocasionada pelo novo coronavírus humano (COVID-2019)
+declarada pela OMS e a situação epidemiológica brasileira (WHO,2020a);
+
+22. Considerando a inexistência de terapias farmacológicas e imunobiológicos específicos
+para COVID-19 e a taxa de letalidade da doença em indivíduos de idade avançada em razão da
+insuficiência de alternativas terapêuticas para essa população em específico (BRASIL, 2020a);
+
+23. Considerando as publicações recentes com dados preliminares sobre o uso da cloroquina
+e hidroxicloroquina em pacientes com COVID-19 (Chatre, 2020, Touret, 2020; Gautret, 2020; Riera,
+2020);
+
+2.4. Considerando que o uso de cloroquina é um tratamento de baixo custo, de fácil acesso e
+
+também facilmente administrada;
+
+2.5. Considerando a capacidade nacional de produção de cloroquina pelos laboratórios
+públicos brasileiros em larga escala e da capacidade de abastecimento desse medicamento a nível
+estadual e municipal, este Ministério informa que:
+
+2.6. A cloroquina e o seu análogo hidroxicloroquina são fármacos derivados da
+4-aminoquinolonas, que clinicamente são indicados para o tratamento das doenças artrite reumatoide
+e artrite reumatoide juvenil (inflamação crônica das articulações), lúpus eritematoso sistêmico e
+discoide, condições dermatológicas provocadas ou agravadas pela luz solar e malária. A posologia da
+cloroquina varia entre 5Omg a 150mg, enquanto a da hidroxicloroquina é de 400mg. Ambos são
+fármacos administrados pela via oral ou injetável, no caso da cloroquina, podendo se distribuir
+extensamente pelos tecidos. São metabolizados pelo complexo de isoenzimas CYP do fígado e possuem
+meia-vida de eliminação por volta de 60 dias (cloroquina) e 50 dias (hidroxicloroquina) com depuração
+predominantemente renal. Os resíduos desses fármacos podem perdurar semanas ou meses no
+organismo (Micromedex e FTN, 2010).
+
+27. Algumas publicações científicas internacionais têm sugerido que esses fármacos podem
+inibir a replicação de SARS COV, por meio da glicosilação terminal da Enzima Conversora de
+Angiotensina 2, produzida pelos vasos pulmonares, que pode afetar negativamente a ligação vírus
+receptor (Al Bari, 2017 e Savarino 2006). Com relação ao SARS COV 2, Gautret e colaboradores
+demonstraram que após 6 dias de tratamento com hidroxicloroquina (e hidroxicloroquina em
+associação com azitromicina), 70% dos pacientes estava sem detecção viral em relação ao grupo
+controle, o que em caráter preliminar, pode sugerir um potencial efeito antiviral no coronavírus
+humano. Em uma recente revisão sistemática rápida foi observado o efeito da cloroquina na inibição da
+infecção viral por meio do aumento do pH endossômico, possivelmente evitando ou impedindo a fusão
+
+Lof5 01/04/2020 18:04
+SEI/MS - 0014223901 - Nota Informativa https://sei.saude.gov.br/sei/controlador.php?acao=documento. imprim...
+
+viral/celular. Ademais, também foi observado que esse medicamento contribuiu para a prevenção da
+disseminação do vírus em culturas celulares. Os modelos animais incluídos nesta revisão mostraram
+que a cloroquina e hidroxicloroquina podem interromper a infecção viral. (Paho, 2020).
+
+2.8. Os eventos adversos relatados a longo prazo devido ao uso da cloroquina incluem
+retinopatia e distúrbios cardiovasculares. Considera-se que o uso de cloroquina ou de
+hidroxicloroquina pode ser seguro, embora, a janela terapêutica (margem entre a dose terapêutica e
+dose tóxica) seja estreita (Touret, 2020, UptoDate). O seu uso deve, portanto, estar sujeito a regras
+estritas, e automedicação é contra-indicada.
+
+2.9. Neste sentido, com base na Lei n. 13.979 de 06 de fevereiro de 2020, na Medida
+Provisória n. 926 e Decreto n. 10.282, ambos datados, a posteriori, 20 de março de 2020, que alteram a
+Lei já publicada, o Ministério da Saúde do Brasil disponibilizará para uso, em casos confirmados e a
+critério médico, o medicamento cloroquina como terapia adjuvante no tratamento de formas graves,
+em pacientes hospitalizados, sem que outras medidas de suporte sejam preteridas em seu favor. A
+presente medida considera que não existe outro tratamento específico eficaz disponível até o
+momento. Importante ressaltar que há dezenas de estudos clínicos nacionais e internacionais em
+andamento, avaliando a eficácia e segurança de cloroquina/hidroxicloroquina para infecção por
+COVID-19, bem como outros medicamentos, e, portanto, essa medida poderá ser modificada a
+qualquer momento, a depender de novas evidências científicas.
+
+3. INDICAÇÕES NA TERAPIA ADJUVANTE NAS FORMAS GRAVES
+
+Situação Clínica Recomendação Considerações
+
+ 
+
+Pacientes Cloroquina (***): Verifique o eletrocardiograma
+hospitalizados com (ECG) antes do início, risco de
+
+3 comp. de 150mg 2x/dia no 1º É
+formas graves da E E 2x prolongamento do intervalo
+
+dia (500mg de dose de ataque)
+
+)" -10* a z E
+o SSstido de Som Paio me e
+Casos críticos da 1x/clia no 2º, 3º, 42 e 5º dias P: É | É d d
+COVID-19"* [450mg/dia) agentes prolongadores do
+
+intervalo OT. Manter
+ou monitoramento do ECG nos
+
+Hidroxicloroquina: dias subsequentes
+
+1 comp. 400mg 2x/dia no 1º dia
+(800mg dose de ataque),
+seguido de 1 comp. 400 mg
+ix/dia no 28, 3º, 4º e 5º dias
+(400mg/dia)
+
+*Dispnéia, frequência respiratória > 30/min, SpO; £ 93%, PaO;/FiO; < 300 e/ou infiltração
+pulmonar > 50% dentro das 24 a 48 horas
+
+**Falência respiratória, choque séptico e/ou disfunção de múltiplos órgãos
+
+***Para pacientes abaixo de 60Kg, fazer ajuste de dose para 7,5mg/Kg de peso.
+
+OBS: A escolha da antibioticoterapia ficará a critério da equipe médica do hospital, de
+acordo com as recomendações da comissão de infecção hospitalar local.
+
+2 of5 01/04/2020 18:04
+SEI/MS - 0014225901 - Nota Informativa https://sei.saude.gov.br/sei/controlador.php?acao=documento. imprim...
+
+4. OBSERVAÇÕES IMPORTANTES
+
+41. Realizar ECG antes do início da droga e acompanhar durante toda a internação o
+intervalo QT, pois a cloroquina pode aumentar esse intervalo, especialmente se utilizada com outras
+drogas que prolongam o QT. A suspensão se dará por avaliação clínica individualizada.
+
+42. Na presença de insuficiência renal ou insuficiência hepática graves, reduzir a dose de
+cloroquina para 50%.
+
+5. CRITÉRIOS PARA A PRIMEIRA DISTRIBUIÇÃO DA CLOROQUINA NA REDE SUS:
+
+5.1. Com o aumento dos casos da COVID-19 e a velocidade de transmissão do coronavírus no
+Brasil, projeta-se para a primeira distribuição um quantitativo calculado com base no número de casos
+notificados no último boletim oficial do MS (25/03/2020) e um estoque de reserva. Portanto, o
+quantitativo enviado a cada estado e Distrito Federal, será suficiente para atender de imediato os
+pacientes hospitalizados e para o pronto atendimento de novos casos.
+
+5.2. Fator embalagem da cloroquina - caixa com 500 comprimidos. Cada paciente receberá 2
+blister c/ 10 comprimidos, para evitar fracionamento. Nenhuma UF receberá menos de 4 caixas (2.000
+comprimidos).
+
+5.3. O medicamento será distribuído pelo Ministério da Saúde às Secretarias Estaduais de
+Saúde, que realizarão o envio aos hospitais de referência de sua região, PÚBLICO e PRIVADO.
+
+5.4. A primeira distribuição iniciou-se em 27 de março de 2020. E a medida em que forem
+surgindo a necessidade de novas entregas, as SES deverão informar ao DAF/SCTIE/MIS, para o envio do
+medicamento.
+
+6. CONSIDERAÇÕES FINAIS:
+
+6.1. Esta Nota Informativa atualiza informações nos seguintes itens:
+
+6.2. 2.6 linha 2 - substitui a expressão "apresentação farmacêutica" por "posologia";
+
+6.3. 2.7 linha 5 - substitui a expressão "permitindo assim a fusão viral/celular"
+por "possivelmente evitando ou impedindo a fusão viral/celular";
+
+6.4. 2.9 linha 2 - inclui a expressão "casos confirmados";
+
+6.5. 3 - Tabela - coluna (Recomendação) - substituiu a expressão "difosfato de cloroquina"
+por "cloroquina ***";
+
+6.6. 3 - Na referência: (***) substitui a frase "Para pacientes abaixo de 60kg, fazer ajuste de
+7,5mg/kg de peso" por "Para pacientes abaixo de 60Kg, fazer ajuste de dose para 7,5mg/Kg
+de peso."
+
+SANDRA DE CASTRO BARROS
+Diretora do Departamento de Assistência Farmacêutica e Insumos Estratégicos
+DAF/SCTIE
+
+DENIZAR VIANNA ARAÚJO
+Secretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde
+SCTIE
+
+ 
+
+REFERÊNCIAS
+
+30f5 01/04/2020 18:04
+SEUMS - 0014223901 - Nota Informativa https://sei.saude .gov.br/sei/controlador.php?acao=documento. imprim...
+
+Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia e Insumos Estratégicos. Departamento de
+Assistência Farmacêutica e Insumos Estratégicos. Formulário terapêutico nacional 2010: Rename
+2010/Ministério da Saúde, Secretaria de Ciência, Tecnologia e In- sumos Estratégicos, Departamento de
+Assistência Farmacêutica e Insumos Estratégicos. — 2. ed. — Brasília: Ministério da Saúde, 2010.
+
+Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em
+Saúde. Departamento de Ciência e Tecnologia. Coordenação de Evidências e Informações Estratégicas
+para Gestão em Saúde. Revisão Sistemática Rápida sobre alternativas terapêuticas para coronavírus
+humano. Brasília, 2020.
+
+Chatre C, Roubille F, Vernhet H, Jorgensen C, Pers YM. Cardiac Complications Attributed to Chloroquine
+and Hydroxychloroquine: A Systematic Review of the Literature. Drug Saf. 2018 0ct;41(10):919-931.
+
+Gautret P, Lagiera JC, Parola P, et al. Hydroxychloroquine and azithromycin as a treatment of COVID-19:
+results of an open-label non-randomized clinical trial. International Journal of Antimicrobial Agents.
+2020. In Press 17 March 2020 — DOI: 10.1016/).ijantimicag.2020.105949.
+
+Micromedex [Internet]. IBM Watson Health, Micromedex drug reference — Hydroxychloroquine sulfate.
+[Acesso em 21 mar 2020]. Available from: https://www.micromedexsolutions.com/home /dispatch
+/sslftrue
+
+PAHO.COVID-19: Chloroquine and hydroxychloroquine research. Institutional communication. Pan
+American health Organization. Updated March 19th, 2020.
+
+Riera R, Pacheco RL. Hidroxicloroquina e cloroquina para infecção por COVID-19. Revisão sistemática
+rápida. Disponível em: https://oxfordbrazilebm.com/index.php/2020/03/21/rapid-review-
+hidroxicloroquina-covid19/. Acessado em: [21 mar 2020 ]
+
+Savarino A, Bounavoglia C, NorelliS, Di Trani L, Cassone A. Potential therapies for coronaviruses. Expert
+Opin Ther Pat. 2006;16(9):1269-88.
+
+Touret F, de Lamballerie X. Of chloroquine and COVID-19. Antiviral Res. 2020. Published online March 5,
+2020. DOI:10.1016/).antiviral.2020.104762.
+
+Uptodate [Internet]. Wolters Kluwer, drug reference — Chloroquine Phosphate. [Acesso em 21 mar
+2020]. Available from: htt, www.uptodate.com/
+
+Uptodate [Internet]. Wolters Kluwer, drug reference — Hydroxychloroquine sulfate. [Acesso em 21 mar
+
+ 
+
+World Health Organization. Medication Without Harm - Global Patient Safety Challenge on Medication
+Safety. Geneva: World Health Organization, 2017Are patients with hypertension and diabetes mellitus
+at increased risk for COVID-19 infection? Lancet Respir Med 2020. https://doi.org/10.1016
+/S2213-2600(20)30116-8
+
+World Health Organization. WHO Director-General's opening remarks at the media briefing on
+COVID-19-11 March 2020. Disponível em: <https://www.who.int/dg/speeches/detail/who- director-
+general-s-opening-remarks-at-the-media-briefing-on-covid-19 11-march-2020>
+
+Brasília, 31 de março de 2020.
+
+ 
+
+Documento assinado eletronicamente por Sandra de Castro Barros, Diretor(a) do Departamento
+
+de Assistência Farmacêutica e Insumos Estratégicos, em 01/04/2020, às 10:13, conforme horário
+
+oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015;
+eart. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+É al
+sel!
+assinatura
+eletrônica
+
+ 
+
+ 
+
+Documento assinado eletronicamente por Denizar Vianna Araujo, Secretário(a) de Ciência,
+Tecnologia, Inovação e Insumos Estratégicos em Saúde, em 01/04/2020, às 17:50, conforme
+horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro
+de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+eletrônica
+
+ 
+
+ 
+
+ 
+
+4of5 01/04/2020 18:04
+SEUMS - 0014223901 - Nota Informativa
+
+ 
+
+://sei.saude.gov.br/sei/controlador.php?acao=documento. imprim.
+
+ 
+
+[E]
+
+A autenticidade deste documento pode ser conferida no site http://seisaude.gov.br
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.042783/2020-81 SEI nº 0014223901
+
+Departamento de Assistência Farmacêutica e Insumos Estratégicos - DAF
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site - saude gov.br
+
+Sof5 01/04/2020 18:04
+ 
+
+SENADO FEDERAL
+
+Secretaria-Geral da Mesa
+Secretaria de Comissões
+Coordenação de Comissões Especiais, Temporárias e Parlamentares de Inquérito
+
+Oficio nº 1178/2021 - CPIPANDEMIA
+Brasília, 27 de maio de 2021
+
+A Sua Excelência o Senhor
+Romeu Zema
+Governador de Minas Gerais
+
+Assunto: Solicitação de informações — Requerimento nº 627/2021-CPIPANDEMIA
+
+Senhor Governador,
+
+No intuito de instruir os trabalhos da Comissão Parlamentar de Inquérito,
+criada pelos Requerimentos do Senado Federal nº 1371 e 1372, de 2021, para “apurar as
+ações e omissões do Governo Federal no enfrentamento da Pandemia da Covid-19 no
+Brasil; as possíveis irregularidades, bem como outras ações ou omissões cometidas por
+administradores públicos federais, estaduais e municipais, no trato com a coisa pública,
+limitado apenas quanto à fiscalização dos recursos da União repassados aos demais entes
+federados para as ações de prevenção e combate à Pandemia da Covid-19”, e com fulcro
+no art. 148 do Regimento Interno do Senado Federal, e no art. 2º da Leinº 1.579, de 1952,
+encaminho a Vossa Excelência o Requerimento nº 627/2021 — CPIPANDEMIA,
+aprovado na 12º Reunião da CPI da Pandemia, ocorrida no dia 26.05.2021, para
+
+atendimento.
+
+Solicito que a documentação seja encaminhada no prazo de 10 (dez) dias
+úteis, em meio magnético, para o endereço eletrônico sec.cpipandemiaçasenado.leg.br.
+Caso haja algum problema no envio em virtude do tamanho dos arquivos, favor contatar
+a Secretaria da CPI no telefone do rodapé deste ofício para que seja disponibilizado link
+
+para envio da documentação.
+
+00100.053246/2021-99
+
+ 
+
+ 
+
+SENADO FEDERAL - COCETI | Anexo II, Ala Senador Alexandre Costa, Sala 15, Subsolo | CEP 70165-900 | Brasília DF
+Telefone: +55 (61) 3303-3490 sec.cpipandemia( senado leg.br
+
+ARQUIVO ASSINADO DIGITALMENTE. CÓDIGO DE VERIFICAÇÃO: EBOAMCCDOOSCES3A.
+
+CONSULTE EM http sonado gowlelsigadvebA asp.
+00100.053246/2021-99
+
+ 
+
+SENADO FEDERAL
+
+Secretaria-Geral da Mesa
+Secretaria de Comissões
+Coordenação de Comissões Especiais, Temporárias e Parlamentares de Inquérito
+
+Ainda, tendo em vista o princípio da publicidade da administração pública
+consagrado pelo art. 37 da Constituição Federal, solicito que, no caso de a documentação
+envolver informações resguardadas por sigilo legal, tal situação seja consignada
+expressamente no encaminhamento da resposta ao presente expediente, indicando a
+
+fundamentação legal do alegado sigilo.
+
+Atenciosamente,
+
+Senador Omar Aziz
+Presidente da CPI Pandemia
+
+ 
+
+SENADO FEDERAL - COCETI | Anexo II, Ala Senador Alexandre Costa, Sala 15, Subsolo | CEP 70165-900 | Brasília DF
+Telefone: +55 (61) 3303-3490 sec.cpipandemia( senado leg.br
+
+ARQUIVO ASSINADO DIGITALMENTE. CÓDIGO DE VERIFICAÇÃO: EBOAMCCDOOSCES3A.
+
+ 
+
+CONSULTE EM http sonado gowlelsigadvebA asp.
+ 
+
+MINISTÉRIO DA SAUDE
+SECRETARIA EXECUTIVA
+DEPARTAMENTO DE LOGÍSTICA
+COORDENAÇÃO GERAL DE ARMAZENAGEM E DISTRIBUIÇÃO
+CENTRAL DE ARMAZENAGEM INSUMOS ESTRATEGICOS A SAÚDE
+
+AUT. REMANEJAMENTO No [166/2020 24/08/2020
+PROGRAMA DE SAUDE Coordenação Geral de Assitência Farmacêutica de Medicamentos Estratégicos CGAFME
+
+ 
+
+LOCAL Almoxarifado Estadual de Medicamentos - Paraíba (0111:188778268000160
+ENDEREÇO Av. Capitão José Pessoa, SINº
+
+ORIGEM
+[o)];] [58015-170 CIDADE João Pessoa
+
+[N=ejdo] 357 V/=/ 88] Eugenia, Genilda ou Lairton A =/0=201=1(83) 3218-5893 ou 7395
+
+LOCAL Almoxarifado Estadual de Minas Gerais (0112]5366444000169
+ENDEREÇO Av. Simão Antônio , nº 149, Cincão
+
+DESTINO
+(617) 32371610 CIDADE Contagem
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[N=ejdo EIA BM] ROSANE AUGUSTA LUCINDO SB 2](31) 3356-2004 - 33563301 /9 9471-4588
+ITENS
+ITEM CÓDIGO MEDICAMENTO [QUANTIDADE] UNIDADE [LARGURA (CM/ALTURA (CM[[OMPRIMENTO (CM|PESO REAL (KG) VALOR VALIDADE LOTE VOLUME
+1 Cloroquina 150mg 35000 Comp. R$ 0,0700] 31/03/2021 | 19030140
+2 Cloroquina 150mg 1000 Comp. R$ 0,0700] 31/03/2021 | 19030139
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Amo SonENH R$ 2.520,00
+
+ 
+
+ 
+ 
+
+) * SIGAR TODA E É
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+09/08/2020 / | di
+mi ALTERAR ESTABELECIMENTO, SAIR
+Papeis é FUER
+
+í E )
+CADASTROS | DISTRIBUIÇÃO & GESTAO! DE ESTOQUE: - RELATÓRIOS — SÃO, AÇO é E
+7 ça Ara
+), .
+3 4
+É. Exibe Entrado Simples; A di ) 5 5 5 * Boa tarde,
+$ Nº Entrada Simples:, 6156002200910000 : -: Data Cadastro: 09/09/2020: y e RAR Araras
+Estabelecimento de Saúde: ALMOXARIFADO DE HepIcaMEiTOs esmo EAN FoRtia AE ei ER
+; Status:| Liberado : ; Neg Ro De
+Executar: Sim ú 7
+Fornecedor: MINISTÉRIO DA saúde (oepirtaENTo E DE LOGISTICA) - Seo Ripa qr
+' Nº Autorização de Fornecimento: É q E Eos 18: Agnus
+À Nº Processo: REMANEJAMENTO. À ; i
+Nº Nota Fiscal: 166/2020. jo ? aguda
+/ Descrição pendencia: 3 :
+“Numero de Empenho: 0) Edo &
+Nome do Programa: COMPONENTE. ESPECIALIZADO DA ASSISTÊNCIA FARMACÊUTICA j PRoGRaMACO
+Tipo de Aquisição: Ministério da Saúde. Projeto: SAF . Serie 11 Botao poço |
+Produto daiênteada Simples E - 5
+É Ê ; Ass Dom 'Seg' Ter Qua Qui -Sex Sáb
+É Total Entrada Siro lara tas
+bp A ! BT BOND IO Ro
+Medicamênto da Entinda simples = A à aa io tri td 0
+ao aos abram as] ag)
+Medicamento (Apresentação Comercial): CLOROQUINA | COMPRIMIDO | 10 IMG O. 21 (287295130
+FUNDAÇÃO OSWALDO
+te: CRUZ 7 7 Registro Anvisa/NS:-1106300940018
+1º. 15 (83781,055/0001-35)
+9 ] Tipo: Unidade. X Projetos SAF. “Quantidade: 35000.
+Valor Unitário: made Agenda
+: « slote: Data Fabricação: 00/00/0000 | Data Venc.: 31/03/2021 Ç
+Localização, Endereçamento Físico: jr = Ê RI
+Total: o =
+Medicamento (Apresentação Comercial):! CLOROQUINA | COMPRIMIDO! 150 |! MG º
+y SDS y FUNDAÇÃO OSWALDO. Sa
+Fabricante: CRUZ Registro Anvisa/H5; 1106300940018
+“15 7 (33:781055/0001-35)' —
+» Tipo: Unidade =)! Projeto: SAF, Quantidade: 1000
+f pe Nalor Unitário: 0,070000/ Ed S
+= + Lote: 19030139” Data Fabricação: 00/00/0000. Data Vene:: 31/03/2021
+x a E4-02 4 h
+
+  
+
+Localização/ Endereçamento Físico:
+73: Total: 70,000000,
+
+Total Entradá Simples:
+
+ 
+
+JoB io + AA SAQUES SOARES! 0510/2020 17:20: lima lecação IO a“ AFA: PAQUES SOARES. Omf0o72620 7426. 71 N
+
+Cerri 0a 2020» roedor SUPARDITENDBCIA DE ASSISTENCIA ARMAERNTICA Todas Soa resodys. Suporte “go soisagat NO secam
+
+y Nersõo SIGAR 79.194
+
+.govbrippsilsigafilindex.php?page-metalviewBid :view=tb: entrada 28. menu acessado=719, É “an
+
+ 
+RCONSR43 o : Governo do Estado dê Minas Gerais
+
+: Pag.:70001
+' (ISIAD - Sistema Integrado de Administracao de Matériais'e Servicos 09/09/2020
+/ Espelho de Documento de Saida de Material de Consumo - 16:50
+orgao 1 1320 - SECRETARIA DE ESTADO DA SAUDE S
+Almoxarifado 1321499 =" ALMOXARIFADO DE MEDICAMENTOS/SES.
+Resp. doc 09830015610, — RAFAEL JAQUES; SOARES E
+
+ 
+
+Resp.Aceite :09830015610 - RAFAEL JAQUES SOARES r
+
+ 
+
+Doador : 00.394:544/0008-51 -
+Tipo . 203 = ENTRADA POR DOACÃO
+Data; Documento ': 24/08/2020 -. Data Contabilizacao : 09092020 ' COMPLETO
+Numero :2020.043034 valor iDocto .: 2.520,00 4. i
+item Descricao Material sv Quant VI Unit... Vi Total
+001 00049510-7 CLOROQUINA = COMPRIMIDO; 150 MG (000 | 36000;0000 0,07 2.520,00
+1-2 UNIDADE) j ; : 5 2 ; 2
+
+Lote - Validade Fabricacao Quantidadé
+
+19030140 31/03/2021:31/03/2019 35000, 0000
+
+19030139"... 31/03/2021:31/03/2019 1000, 0000 :
+
+Convenio: E z
+
+***4+** PIM DO DOCUMENTO *exswx
+
+ 
+ 
+
+GOVERNO DO ESTADO DE MINAS GERAIS
+SECRETARIA DE ESTADO DE SAUDE
+
+SUBSECRETARIA DE INOVAÇÃO E LOGISTICA EM SAUDE
+SUPERINTENDENCIA DE GESTÃO
+
+DIRETORIA DE LOGÍSTICA E PATRIMÔNIO.
+
+3 o
+
+ 
+
+CONFERENTE
+
+CAPA
+
+ 
+
+ 
+
+DATA (5
+
+ 
+
+ 
+
+ 
+
+CONFERÊNCIA DE CARGA
+
+CLORO Quz vn
+
+1SOME
+
+/ 09/09
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FORNECEDOR: Z
+NF: DATA DE EMISSÃO: AF:
+ITEM / ESPECIFICAÇÃO: ANVISA: 4 106 3 009/7001 g Si
+JESLOTE/ A ” MÚLTIPLO: QUANTIDADE “FABRICANTE: FABRICAÇÃO: . 7 VALIDADE: E
+ID SID AY 1x500 355:000 TARMANGUIVHOF | 03 1 10 OS 121
+Spy 4 e L
+ATP IPI t SODO OS TRAS os 12d
+- E / E /
+/ /
+/ /
+/ /
+/ /
+/ /
+/ PES
+/ E
+À / /
+LOTE. QUANTIDADE: RUA | ALTURA [POSIÇÃO LOTE QUANTIDADE: | - RUA ALTURA: | POSIÇÃO
+SSOCO E Ss 0L ;
+AUUU E 07 | 0%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+; N Hed
+UMERO DA:NOTA FISCAL:
+OS ITENS ENTREGUES ESTÃO DE ACORDO COM AS ESPECIFICAÇÕES DA AF?
+OS ITENS ENTREGUES ESTÃO)DE ACORDO COM A NOTA FISCAL?
+OS-LOTES E VALIDADES ESTÃO DE ACÓRDO COMA NOTA FISCAL? -
+A QUANTIDADE'RECEBIDA ESTÁ DE ACORDO COM:A. NOTA FISCAL
+FER
+
+TODAS AS CAIXAS DE EMBARQUE ESTÃO LACRADAS'E IDENTIFICADAS?
+TODAS AS ETIQUETAS ESTÃO VISÍVEIS PARA MELHOR CONFERÊNCIA?”
+
+EMBALAGENS TERCIÁRIAS ESTÃO DEVIDAMENTE IDENTIFICADAS? *
+
+NÚMERO DO LOTE, FABRICAÇÃO; VALIDADE; cóDico DE BARRAS, LACRE, PRESENTES?
+
+EXISTEM CAIXAS AVARIADAS?:
+
+os VEÍCULOS QUE TRANSPORTAM OS PRODUTOS SÃO ADEQUADOS?
+[A TEMPERATURA É CONTROLADA DURANTE O TRANSPORTE? | ça é E
+
+A TEMPERATURA ESTÁ DE ACORDO COM O ESPECIFICADO? * fr E PESO Nas
+
+O VEICULO ESTÁ EM BOM ESTADO DE CONSERVAÇÃO E LIMPEZA? à
+, NOME LEGÍVEL: GQ;
+
+ASSINATURA:
+
+NOME LEGÍVEL:
+
+ASSINATURA:
+
+DATA:
+
+ 
+
+À Superintendênciade.Gestão e Finanças, A Comissão, de Recebimento de Miatáriáis por.seus membros. infra assinados;
+designados pela Resolução nº: /201:, após a ealização deste check list referente aNota'Fiscal e a Autorização de,
+Fornecimento especificadas, e após conferência do solicita nte do material atestada no verso da Nota Fiscal, exarou'o seguinte;
+parecer:- "O Objeto: 'da:compra foi conferido e, está de acordo com as especificações do Pedido.de Compras e Autorização de
+
+* Fornécimetno e foi entregue, dentro do prazo, 'previstô, podendo ser; efetuado 9 pagamento.
+
+ 
+
+ 
+MINISTERIO DA SAUDE - MS Egito)
+DEPARTAMENTO DE LOGÍSTICA - DLOGISE EMERGENCIAL Página de 479º Março de 2020
+SERVIÇO DE ARMAZENAMENTO E DISTRIBUIÇÃO DE MEDICAMENTOS - CAIES/CGAD Aéreo Impressão de nº 1
+
+Sistema Integrado de Administração de Material é, SISMAT
+CNPJ 00.394.544.0008-51
+
+Nº do Pedido: 309832
+
+ 
+
+NOTA DE FORNECIMENTO DE MEDICAMENTO
+A 4,
+Nº do Pedido: 309832 Valor Total do Pedido: 1.859,25
+Unidade / Entidade de Destino: Almoxarifado Estadual de Medicamentos/CONSÓRCIOSAÚDELOGMINAS - CNPJ: 05365444000169 - CEP: 32371610
+Descrição da Localidade: Av. Simão Antônio, nº 149 bairro Cincão
+Cldade: CONTAGEM - MG
+
+ 
+
+ 
+
+Telefone da Unid. / Entidade: 25662400 Data do Pedido: 26/03/2020 Status: DISPONÍVEL P/ EXPEDIÇÃO
+Dt. Envio da Autorização: - Dt. Autorização: 26/03/2020
+Código Descrição f Qt. Autorizado Qt Entregue VI. Unitário VI. Total
+0695459 CLOROQUINA 150MG / 27.000 27.000 0,0688612110 1.859,25
+Fornecedor: FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ End.: CLIMATIZADO - SP Qt Recolher: 27.000 Dt Validade: 31/03/2021 Lote: 19030138 /
+
+Fabricante: FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ
+
+Programa de Saude.: MALÁRIA
+
+Obs.: dh Diante da possibilidade de utilização da Cloroquina como terapia adjuvante no tratamento de formas graves do COVID-19, em pacientes internados, conforme anunciado pelo Secretário de Ciência e Tecnologia e
+Inovação em Saúde - SCTIE/MS, em entrevista coletiva em 25/03/2020, a pedido da Direção do Departamento de Assistência FarmacêuticalSCTIE, solicitamos a distribuição com MÁXIMA URGÊNCIA di
+
+ 
+
+Programa de Saúde de COVID-19
+
+Atendimento conforme Autorização SEI nº 0014138898/CESAF/DAFISCTIE.
+
+Medicamentos enviados pelo CESAF/DAFISCTIE/MS..
+
+ 
+
+Obs.: Se durante o recebimento for identificada alguma divergência, imediatamente entrar em contato conosco através do e-mail: sadm.transporteQ)saude.gov.br
+
+ 
+
+ALMOXARIFADO / CARIMBO Eur DATA FUNCIONÁRIO DA TRANSPORTADORA DESTINATÁRIO E DATA / CARIMBO
+Assinado com senha eletronica via portal VTCLOG ES 27/03/2020 09:34
+
+Katiane Rodrigues Torres RSRS
+
+Agente Administrativo - 1717909 SMS
+
+189.28,128,242 E) É
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Máquina: 10.1.45.149, Usuário: 845.590.041-53
+SIGAF 7.9:0.62
+
+Tof2
+
+ 
+
+CADASTROS. DISTRIBUIÇÃO & GE
+
+; http://sigaf.saude.mg.gov.br/ppsi/sigaf//index.php?page=meta/
+
+  
+
+>
+
+Exibe Entrada Simples
+; Nº Entrada Simples: 615600220040381 “7 4º Data Cadastro: 01/04/2020
+/ Estabelecimento de Saúde: ALMOXARIFADO DE MEDICAMENTOS SES/NG | | :
+Status: Liberado
+Executar: Sim
+Fomecedor: MINISTÉRIO DA SAÚDE (DEPARTAMENTO DE LOGISTICA)
+Nº Autorização de Fomecimento:
+Nº Processo: MS
+Nº Mota Fiscal: 309832
+“Descrição pendencia:. br , +
+Humero de Empenho: 0.
+Nome do Programa: ENDEMIAS - MALÁRIA. j
+Projeto: SAF
+
+ 
+
+Produto da Entrada Simples
+Total Entrada Simples: [0,00
+Medicamento da Entrada Simples /
+Medicamento (Apresentação Comertial): oROQUat. [COMPRIMIDO paso. 1 MG:
+
+ 
+
+FUNDAÇÃO OSWALDO
+Fabricante: CRI Fegistro Aiviça NS: 1106300940018
+- (33781 058]0001:38) É
+y Tipo: Unidade Projeto: SAF. Quantidade: 27000)
+
+ 
+
+ 
+
+Valor Unitário: 0,068860
+
+Lote: 19030138). |, Data Fabricação: 00/00/0000 Data Venc.: 31/03/2021:
+
+Localização/Endereçamento Físico: B3-1, |.
+Total: 1.859,220000.
+
+ 
+
+; Total Entrada Simples: [1.859,
+st) a E k
+tio :
+
+Cadastro: EDGEYZON FLAVIO GARCIA <. 01/04/2020 15:34/-, Última alteração: EDGEYZON FLAVIO GARCIA - 01/04/2020 15:34
+
+ 
+
+à e É bas o * ALTERAR ESTABELECIMENTO. SAIR
+
+Asp
+
+Boa tarde, ,
+EDGEYZON
+FLAVIO GARCIA
+
+tubo aloetaenço DE
+PECA RATOS SE
+
+ 
+
+“Sia sessão expira em:
+09% 12 múbutos
+
+Ajuda
+
+ 
+
+Dom Seg -Tar Qua Qui-Sox Sáb
+
+56 78 9.10 n
+mto fe 1616 718
+
+“Agenda,
+
+01/04/2020:15:40
+RCONSR43 : Governo. do Estado: de Minas Gerais Pag.“ 0001
+SIAD - Sistema Integrado-de Administracao dé Materiais e Servicos 31/03/2020,
+
+Espelho de Documento de Saida de Material de Consumo á 11:09
+Orgao 1320 — SECRETARIA DE ESTADO: DA SAUDE
+Almoxarifado 1321499 — ALMOXARIFADO: DE' MEDICAMENTOS/SES
+
+Resp.Aceite- : 08908802630: = EDGEYZON FLAVIO GARCIA
+
+Doador : 00:394:544/0008-51. — $
+Tipo 2 -: 203 =" ENTRADA POR: DOACAO / E O
+"Data:-Documento 27/03/2020" Z Data Contabilizacao : 31032020' COMPLETO
+Numero = 2020015633 Valor Docto .:=. = 1.859,25 ê pes Ê
+Item Descricao: Material GRE PASSE E Quant -. VI Unit. Vl Total
+
+  
+
+ 
+
+001 00049510-7 CLOROQUINA = COMPRIMIDO; 150 MG (000 27000,0000 0,07
+- T-= 1 UNIDADE) : E 7 es
+Lote “Validade Fabricacao “Quantidade
+19030138". S : 30/03/2021 30/03/2019 -27000,0000
+Convenio: ; é : S RR E Ê
+
+»xkxves PIM DO DOCUMENTO tati xi% E E : :
+ 
+
+GOVERNO DO ESTADO DE MINAS GERAIS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECRETARIA DE ESTADO DE SAUDE AE CONRERENTE e
+SUBSECRETARIA DE INOVAÇÃO E LOGISTICA EM SAUDE ;
+SUPERINTENDENCIA DE GESTAO +.» 5 DATA IRÍDO.
+DIRETORIA DE LOGÍSTICA E PATRIMÔNIO
+CONFERÊNCIA DE CARGA
+FORNEGEDOR: PES Ê E É
+NE ZA 4 ZE DATA DE EMISSÃO: AF:
+DOG a e
+ITEM / ESPECIFICAÇÃO: DD A MS D. DUE ANVISA: J.Jpc3 .0094.0016
+LOTE e QUANTIDADE *. FABRICANTE: E * FABRICAÇÃO: VALIDADE:
+19030/38 Jxsoo + dPado form aguia les o3 / ps s/n
+RES / 1
+1 t
+L : /
+z ,
+f é /
+o t
+E t .
+/ !
+t !
+, /
+SEE hs
+LOTE y QUANTIDADE: RUA ALTURA | POSIÇÃO LOTE QUANTIDADE: RUA ALTURA - | POSIÇÃO
+
+ 
+
+B 3 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+NÚMERO DA:NOTA:FISCAL: EE
+
+OS ITENS ENTREGUES ESTÃO DE ACORDO COM AS ESPECIFICAÇÕESIDA AF?
+
+OS ITENS ENTREGUES ESTÃO DE ACORDO COM ANOTA FISCAL? '
+-|OS LOTES E VALIDADES ESTÃO DE ACORDO COM A NOTA FISCAL?
+
+A QUANTIDADE RECEBIDA ESTÁ DE ACORDO) COM/A NOTA FISCAL
+
+TODAS /AS CAIXAS DE EMBARQUE ESTÃO LACRADAS E IDENTIFICADAS?
+
+TODAS AS ETIQUETAS ESTÃO VISÍVEIS PARA MELHOR CONFERÊNCIA?
+
+EMBALAGENS TERCIÁRIAS ESTÃO DEVIDAMENTE IDENTIFICADAS?
+
+NÚMERO: DO LOTE, FABRICAÇÃO, VALIDADE; CÓDIGO DE BARRAS, LACRE, PRESENTES?
+
+EXISTEM:CAIXAS AVARIADAS?
+
+OS VEÍCULOS QUE TRANSPORTAMIOS PRODUTOS SÃO ADEQUADOS?
+[A TEMPERATURA É CONTROLADA DURANTE O TRANSPORTE?
+
+[A TEMPERATURA ESTÁ DE ACORDO COMO ESPECIFICAD
+
+O VEICULO ESTÁ (EM Bi DO DE CONSERVAÇÃO)
+
+NOME LEGÍVEL:. j: 4,
+ASSINATURA: 4 Ê
+
+NOME:LEGÍVEL:
+ASSINATURA:
+DATA:
+
+ 
+
+“À Superintendência'de Gestão e Finanças, A'Comissão de Recebimento de Materiais, por seus membros infra-assinados, |
+designados pela Resolução nº 7 201 , após arealização deste check list referente a Nota Fiscal'e a Autorização de
+“Fornecimento especificadas, e após conferência do solicitânte do material atestada no verso da Nota Fiscal; exarou'o seguinte;
+“ parecer:- "O objeto da compra foi conferido elestá/de acordo com as especificações do Pedido de-Compras e Autorização de.
+Fornecimetno e foi entregue dentro do prazo previsto, podendo ser efetuado o pagamento."
+
+ 
+ 
+
+ 
+
+&' MINISTÉRIO DA DEFESA
+EXÉRCITO BRASILEIRO
+
+   
+
+ 
+
+ 
+
+us a 1808
+z LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO E
+M.SAUDE (Botica Real Militar / 1808)
+
+RUA LICÍNIO CARDOSO, 96 - RIO DE JANEIRO - RJ - CEP: 20.960-015 - TELEFAX: (21) 2281-1426 / 2261-9056 - SAC: 0800 262 1808
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nº112/20 4 INSCA. ESTADUAL: ISENTO - INSCR. MUNICIPAL: ISENTO - CNPJ: 10.266.175/0001-07
+isto oaravE emissão 14/04/2020 ,
+Mimas. DADOS DO CLIENTE dEMASHENTE: |
+“WE COORD.DE PROJETOS DE MED.SUBSECRETARIA DE ASSUNT.ADMINIST
+neneço. ESPLANADA DOS MINISTÉRIOS BLOCO G ED SEDE nm 32 ANDAR SL347
+u ce»: 70058-900 ur: DF
+mes BRASILIA inscrição estacua.: ISENTO -
+LOCAL DE ENTREGA
+“ue: ALMOXARIFADO ESTADUAL DE MEDICAMENTOS — CONSÓRCIO SAÚDE LOG MINAS
+npeneço: AVENIDA SIMÃO ANTÔNIO w 149
+no; BAIRRO CINÇÃO - CONTAGEM ce»: 3237-1610 ve: MA
+np INSCRIÇÃO ESTADUAL: ISENTO
+DISCRIMINAÇÃO LOTE VALIDADE UNIDADE QUANTIDADE UNITÁRIO TOTAL
+1|CLOROQUINA 0,21 5.670,00
+NEE6505BR1007576 ;
+- e
+|
+|
+|
+|
+|
+| E
+CHEGO TRINSPOATADORA FEVOLUMES CUBRGEM TOTALAS
+AIRWAY oz 0,151 5.670,00
+VALOR DO SEGURO (R$) PESO TOTAL (Kg) TOTAL DAGUIA AS
+21,22 5.670,00
+- —— IMPORTA APRESENTE GUIA EM
+ISENTO DE IMPOSTO DE ACORDO COM O ARTIGO 150 INCISO VI ALÍNEA *A* DA CONSTITUIÇÃO FEDERAL CINCO MIL SEISCENTOS E SETENTA REAIS
+o INFORMAÇÕES ADICIONAIS
+
+ 
+
+ 
+
+* ACUSAR RECEBIMENRO E RETORNAR O FORMULÁRIO E MONITORAMENTO DE TRANSPORTE DO
+PRODUTO PELO email almoxloglafexO gmail.com
+2BS: soLiBEÍSIRNS AS 0/2029/CGAEME/DAB/SCHEIMS constante E DA PRESENTE GUIA : E-mail: Igfex. eb yahoo.com.br
+
+2UTROS DADOS: ACESSE A PAGINA www.lufex.eb.miLbr
+
+ 
+
+RECEBI O(S) ITEM(S) CONSTANTE(S) NA PRESENTE GUIA:
+
+NE Agonia Lirios j w 2 PA ITaZ
+
+E DO ALMOXARIFADO Ah
+
+ppa Central” spc
+
+Ss
+1 Eos E
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+   
+
+  
+ 
+
+     
+
+ 
+
+   
+
+ 
+ 
+  
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        
+  
+
+1 >
+seas. O ae Ao y 5) FR Er
+CADASTROS. DISTRIBUIÇÃO, & GESTÃO DE ESTOQUE | RELATÓRIOS. +. : Ria Etr Y
+
+an a Z RS Ê Y PAS Nan ; ARA
+
+S ú A ! : y
+ê
+á Sal y
+E : : ; 's Em :
+Hi à y
+pa y 1
+Exibe Entrada/Simples. «40, FE: E ME RIO ã i | Bom d
+Nº Entrada Simples; sean dO 5 SE ESDAR
+Estabelecimento de Saúd MXARIFADO DE MEDICAMENTOS SES/MG : Gorete A
+PERA Rio) SE DE E MEDICAMENTOS SES/G Ci Gero Mm
+tatus: Liber RAN A % MEDICAMENTOS Se
+Executar: Sim É : FS A RN ;
+= % | / Fornecedor: MINISTÉRIO DA SAÚDE (DEPARTAMENTO DE LOGISTICA): «to á x Ra
+= Nº Autorização de:Fornecimento: | "7 1 & RA RE 1) É 255 mi,
+ANS Processo:: LQFEX Apel E UA í ve
+e Nº Nota Fiscal: 112/2001) 1 j Cn ONU 1a DR REG eh
+Descrição pendencia: 2 / s Su GE AEE ER Ê
+Numero de Empenho À ! '
+a Nome:do Program ERR bs = (PROGRAMAÇÃO
+a Tipo de Aquisição; Mini ProletoiiSAE A RTRR PNaRe eo “Maio 2020,
+Produta dá Entrada Simples k pe RO
+E Dé Ss Te A ja QU J “Se: si
+Y e Entrada, Simples são E) ea ERRA E )
+| a 4 : / E QE SH Sis ras terno
+Medicamento dá Entrada Simples T o A e dO OIL iz Í3 ta 5]
+h y Sa o K K Ar 185 ID 200 car de
+| “Medicamento (Apresentação Comercial): LQFEX- CLOROQUINA: comento 19) MG; 4 Re y 24/28 26) 27) 28) 29)
+Ei d 5 j LABORATÓRIO DO | teen Sh f
+CR ia i Fabricante: EXÉRCITO. - vo (Registro Anvia/4S: 1120800310035; ENO E Il
+(00:394:452/0008-03) É A
+“» :; Unidade jiroteto: Sar Ro e RR
+0,210000. x
+1
+DRE
+
+ 
+
+ 
+
+dana Ger sintra DE ASISTENCIA FAAÇELTCA: Td o ima desamor Supore jones doisosai e sosteondo ma gone.
+
+ 
+
+ 
+
+ 
+
+  
+
+   
+
+ 
+
+     
+
+ 
+
+nao a q EL RD Nersio SIGA 79.988] 2 N H E
+E 7 f ! am i
+i ú “ EN e
+ú S SEO
+Ri y
+da E ! Nes Doo &
+4 + sr |; q E
+é N
+À e
+4 N
+4 7) Na A y e q a
+z A k 3 tg SE 3 , ;
+k ,
+Cu e O
+
+RCONSR4S e (Governo “do Estado de Minas Gerais GR Pag:: 0001,
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+
+SIAD — Sistema Integrado de-Administracao.de Materiais e Servicos 29/04/2020 Ss S PERSA
+; “Espelho de Documento, de' Saida de Material de Consumo ; ef -09; 03 E
+Orgao- SB), o SECRETARIA. De ESTADO. DA SAUDE ee E E ;
+Almoxarifado ; y y É
+Resp. doc 09830015610' = RAFAEL “JAQUES. SORRES : : Rip so Lo ERR o Ra
+Resp.Aceite 09830015610 - = RAFAEL JAQUES SOARES rata , RE é E
+Doador. É “00394: 544/0008- Ea » ppa é so a Poa s
+Tipo o PRE “ENTRADA POR. DOBC? pen de ç RD RR ne
+Data Documento. : 14/04/2020 “Data Contabilizacão Ra 290 42020051 005 COMPDETO. | Za
+Numero Ea 2020019027 - Valor Docto e 5.670,00 : ace - Sigo Ras a ss
+“Item Descricao Material ia STE SE É a É Quant “VI Untt: ova: Total S
+001 dooaas10- q CLOROOUENA! “COMPRIMIDO; 150: MG (000:- 27000,0000 ARO a 670,00: 7 Eni ç
+
+ 
+
+1. = À UNIDADE)»
+
+ 
+
+  
+
+a Lote É ; CU 5 Validade “Fabricacao - Quantidade E
+Ee Ea de a É e 2
+2003013 Z :
+
+Gone nado o RR on e o dans ue un a E
+CAMuNAda PIM DO DOCUMENTO. *54% 384) as are o pe sido Srs É i :
+        
+
+GOVERNO DO ESTADO DE MINAS GERAIS
+
+SECRETARIA DE ESTADO DE SAUDE
+
+SUBSECRETARIA DE INOVAÇÃO E LOGISTICA EM SAÚDE
+SUPERINTENDENCIA DE.GESTAO.
+
+DIRETORIA:DE LOGÍSTICA E PATRIMÔNIO
+(
+
+- CONFERÊNCIA DEICARGA
+
+ 
+
+(CONFERENTE
+
+ 
+
+DATA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ITEM / ESPECIFICAÇÃO:
+
+DATA-DE EMISSÃO:
+
+AF:
+
+, NA to o? oa. 0035
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O LOTE FABRICANTE: FABRICAÇÃO: SAUDADE:
+OO SOS LA FEX E COS No dl
+1
+h
+; = - f
+A
+z
+H
+É ,
+“E b
+! aj
+E F
+E 7
+= LOTE QUANTIDADE: | RUA | ALTURA LOTE QUANTIDADE: | RUA: | ALTURA: [POSIÇÃO
+
+ 
+
+ 
+
+ES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+po E é Voy : PESE v
+
+[E
+
+   
+
+NÚMERO DA NOTA FISCAL: É Per
+
+[OS ITENS ENTREGUES ESTÃO DE ACORDO COM AS ESPECIFICAÇÕES DA AF?
+OS ITENS ENTREGUES ESTÃO DE ACORDO COMIA NOTA FISCAL?
+
+OS LOTES E VALIDADES ESTÃO DE ACORDO! COM A NOTA FISCAL?
+
+[A QUANTIDADE RECEBIDA ESTÁ DE/ACORDO.COM/A NOTA FISCAL. .
+
+“ |TODAS AS/CAIXAS:DE EMBARQUEIESTÃO LACRADAS E IDENTIFICADAS?
+TODAS AS ETIQUETAS ESTÃO VISÍVEIS PARA MELHOR CONFERÊNCIA?
+EMBALAGENS TERCIÁRIAS ESTÃO DEVIDAMENTE IDENTIFICADAS?
+
+NÚMERO DO LOTE, FABRICAÇÃO, VALIDADE, CÓDIGO DE BARRAS, LACRE, PRESENTES?
+EXISTEMICAIXAS AVARIADAS?!” E ;
+
+OS VEÍCULOS QUE TRANSPORTAM OS PRODUTOS SÃO ADEQUADOS?
+/A TEMPERATURA É:CONTROLADA DURANTE O TRANSPORTE?
+
+[A TEMPERATURA ESTÁ DE/ACORDO/COM:O ESPECIFICADO?
+
+|O VEICULO ESTÁ EM BOM ESTADO DE CONSERVAÇÃO E'LIMPEZA? |
+
+NOME LEGÍVEL:” É AS E
+“JASSINATURA: ; Ny
+
+7 |NOME LEGÍVEL;
+ASSINA;
+* |DATA:
+
+%
+
+À'Superintendência de Gestão e Finanças, A Comissão de Recebimento de Materiais, por seus membros infra-assinados,
+designados pela Resolução nº -/201 , após a realização deste check listreferente a Nota Fiscale a Autorização de-
+Fornecimento especificadas, e após. conferência do solicitante do material atestada (no verso daiNota'Fiscal, exarou'o seguinte;
+iparecer:-"O objeto daicompra foi conferido e estáide acordo. comas especifi ficações do Pedido de.Compras e jntoFigação: de
+Fornecimetno efoi entregue dentro do. braço, previsto, podendo ser. efetuado, o) jpogamento! a
+
+a
+
+ 
+ 
+
+AUT. REMANEJAMENTO No
+
+MINISTÉRIO DA SAUDE
+SECRETARIA EXECUTIVA
+DEPARTAMENTO DE LOGÍSTICA
+COORDENAÇÃO GERAL DE ARMAZENAGEM E DISTRIBUIÇÃO
+
+    
+
+165/2020 2
+
+CENTRAL DE ARMAZENAGEM INSUMOS ESTRATEGICOS A SAÚDE
+
+   
+
+DATA 24/08/2020
+
+ 
+
+PROGRAMA DE SAUDE
+
+LOCAL
+ane)
+
+ 
+
+     
+
+Coordenação Geral de Assitência Farmacêutica de Medicamentos Estratégicos
+
+Almoxarifado Estadual de Medicamentos de São Paulo
+Avenida Júlia Galoll, 740 - Módulo 8 / Galpão T200 - Água Chata
+
+   
+
+SIGLA CGAFME
+
+(01111218 46374500026231
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ORIGEM
+CEP [07251-500 CIDADE Guarulhos
+RESPONSÁVEL pi=dadoN=(11) 31994700
+LOCAL Almoxarifado Estadual de Minas Gerais [0111:0]5366444000169
+Av. lo, nº 149,
+DESTINO ENDEREÇO Wv. Simão Antônio , nº 149, Cincão
+CEP 32371610 CIDADE Contagem JUAMG
+RESPONSÁVEL. [STATE AIaRado[=2(31) 3356-2004 - 33563301 /9 9471-4588
+ITENS
+ITEM CÓDIGO MEDICAMENTO [QUANTIDADE] UNIDADE [ ARGURA (CMJALTURA (CM[EOMPRIMENTO (CM|PESO REAL (KG) VALOR e LOTE VOLUME
+1 Cloroquina 150mg 290 Comp. - R$ 0,0700) 30/09/202º 19030139
+2 Cloroquina 150mg 98650 Comp. - R$ 0,0700] 31/03/2022] 2003015
+3 Cloroquina 150mg 4480 R$ 0,0700] 30/09/2021 | 19090737
+4 Cloroquina 150mg 46580 Comp. R$ 0,0700] 31/03/2022] 2003016
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VALOR TOTAL EX
+
+10.479,70
+
+ 
+  
+
+   
+
+ 
+
+09/09/2020 ” jSIGAF 7.9.1.94 x
+iara ALTERAR ESTABELECIMENTO . SAIR
+Pi ;
+
+CADASTROS “DISTRIBUIÇÃO & GESTÃO DE ESTOQUE ., RELATÓRIOS a
+y Ee AFA
+AN y
+(
+: à
+Te
+
+Exibe Entrada Simples 3 ; É Boa tarde,
+Nº Entrada Simples: 6155002200910000 <> Data Cadastro: 09/09/2020 E Denon ES
+
+Estabelecimento de Saúde: ALMOXARIFADO DE MEDICAMENTOS SES/MG | : ] a
+) Status: Liberádo “ / E ; tom, sencrica De
+
+x k (“LExecutar: Sim f
+é fomecedor: MINISTÉRIO DA SAÚDE (pErARTANENTO DE LOGISTICA) ? Re red
+Nº Autorização de Fomecimento: 4 AS: 13 rins
+| - Nº Processo: REMANEJAMENTO <
+Nº Nota Fiscal: 165/2020 = Muda
+Descrição pendencia: ! É
+Numero de Empenho: 0: s
+: Nome do Programa: COMPONENTE ESPECIALIZADO DA À ASSISTÊNCIA FARMACÊUTICA pRoGRaNAÇãO :
+Tipo de Aquisição: Ministério da Sáúde Projeto: SAF É “Soto 20go!
+“" Prodiito da Entrada Siinples. ; f Ds
+: e Jem Seg Ter Quo “Qui-Sex
+/ “Total Entrada Simples: (9:00 ; a ES
+
+Medieamienito da Entrada Simples
+
+Medicamento (apresentação Comercial):
+
+ 
+
+ 
+
+ 
+
+ 
+
+LQFEX- CLOROQUINA | COMPRIMIDO |/150 | MG.
+
+ 
+
+ 
+
+LABORATÓRIO DO - ” -. g
+Fabricantes: EXÉRCITO, Régistro Anvisa/MS: 1120800310035
+- 4 (00:394.452/0001-03)
+0º : Tipo: Unidade * Projeto: SAP Quantidade: g8650
+j Valor Unitário: 0,069870
+Lote: 2003015. Data Fabricação: oojyóodo Data Ven.
+joia Ed Físico: /E-6-01
+Total:'6.892,675500 (a
+Medicamento (Apresentação Comercial): LQFEX - CLOROQUINA | COMPRIMIDO [150 | MG
+e LABORATÓRIO DO. 7;
+! Fabricante: EXÉRCITO. |. Registro Anvisa/MS: 1120800310035
+(00.394:452/0001-03)
+2 Projeto: SAP “Quantidade: 46580
+É Data Fabricação: 00/00/0000. Data Venc.:'31/03/2022
+Localização / Endereçamento Físico: E-6-02 *
+- *: Total:'3:254,544600.
+Medicamento (Apresentação Comercial): CLOROQUINA | COMPRIMIDO | 150 | MG
+FUNDAÇÃO OSWALDO ; -
+“Fabricante: CRI Registro Anvisa/NS:-1106300940018'
+fe a 055/0001-35) F
+3 Tipo: Unidade. Projeto: SAP." J/Quantidade: 290
+“Valor Unitário: 0,069870 E VR
+Lote: 19030139 + “Data Fabricação: 00/00/0000 , Data Ven.
+tocantação entraçameno Físico: E-4-02 . E %
+Total: 20,262300 À
+Medicamento (Apresentação Comercial): CLOROQUINA | COMPRIMIDO | 150/1 MG
+4 E FUNDAÇÃO OSWALDO..
+Fabricante: CRUZ Registro Anvisa/MS: 4
+
+4)
+
+Cadantro: 10810 * RAPAEU JAQUES SOARES -
+
+(83:781.055/0001-35)
+
+ 
+
+09/09/2020 17:28) = Ult
+
+Projeto: 4480
+0069870 s :
+
+Data Fabricação:
+
+ 
+
+é: 30/09/2021
+
+313,017600 A
+Total Entrada Simples;
+
+ 
+
+ 
+
+=109/09ra020 47:28
+
+10810 SRAPAEL JAQUES SOARES
+
+sigaf.saude.mg.gov.br/ppsilsigalifindex.php?page-metalview&id: view=tb. entrada” 28. menu acessado=719
+
+a u7o 8 9/30
+ue as ta om
+ao Mm (22 vas 2a
+ER E
+
+ 
+
+ 
+
+Agenda
+RCONSR43 Governo do Estado de Minas Gerais. * Pag. 0001
+SIAD - Sistema Integrado de Administracao de Materiais e Servicos 09/09/2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+, "Espelho de Documento de''Saida de Material de Consumo 16:48
+orgao 1320 - SECRETARIA DE ESTADO DA SAUDE
+Almoxarifado 1321499" - ALMOXARIFADO DE MEDICAMENTOS/SES o
+Resp.doc. 09830015610. - RAFAEL JAQUES SOARES x
+Resp.Aceite 09830015610 - RAFAEL; JAQUES SOARES É
+Doador 00.394.544/0008-51 :
+Tipo 203:- ENTRADA: POR DOACAO 4
+Data Documento : 24/08/2020 Data Contabilizacao : 09092020 % COMPLETO
+Numero :2020.043026 Valor Docto : 10.479,70 q
+Ttem Descricao Material f Ê Quant VI Unit. Vl Total
+001 00049510-7/ CLOROQUINA - COMPRIMIDO; 150 MG (000 150000,0000 0,07 10,479,70
+1 - 1) UNIDADE) - VONÇE
+Lote Validade Fabricacao Quantidade
+2003015 31/03/202231/03/2020 98650,0000' —E> 7
+19030139 31/03/2021 31/03/2020 290,0000
+19090737 30/09/2021 30/09/2019 4480,0000
+2003016 ; 31/03/2022 31/03/2020. 46580,0000, —+>
+Convenio: E
+
+ERES SENDO DOSUMENTO Cias
+ 
+
+Cevra »
+GOVERNO DO ESTADO DE MINAS GERAIS s x , =
+SECRETARIA DE ESTADO DE SAUDE : : CONFERENTE LAMA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reina sa stc eia Sad mA ISOLADO
+CONFIENCIA DE CARGA:
+FORNEÇEDOR: o S
+Ez, LS Lo DE DATA DE EMISSÃO: AF: É
+E acção. Eee GIP Ra — Aval (LOBOS ldO BS
+LOTE MÚLTIPLO QUANTIDADE FABRICANTE: o FABRICAÇÃO: = VALIDADE:
+Zoo 3015 |d(500 | SR6SO: os 1)0 22 140]
+1Y030t39 EE EO: 71 POB nad
+/ Gas
+JI09078+ E GUIBO o E E
+SOOSOI6 [1 [ 4ESEO ="os aos DS de
+E / a
+/ !
+/ /
+1 RÁ
+LOTE ; SQUANTIDADE: RUA ALTURA POSIÇÃO LOTE E QUANTIDADE: RUA ALTURA - | POSIÇÃO
+GECSO FE | 6 | 01
+Moe HE 0
+Uso [E [5 [od
+NÇSsO LE [6 Jos
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+NÚMERO DA NOTA FISCAL: Z K
+7|OS ITENS ENTREGUES ESTÃO DE ACORDO COM AS ESPECIFICAÇÕES DA/AF?
+OS ITENS ENTREGUES ESTÃO DE ACORDO COM A-NOTA FISCAL? *
+OS LOTES E VALIDADES ESTÃO DE ACORDO: COM A NOTA FISCAL?
+A QUANTIDADE RECEBIDA ESTÁ DE ACORDO: COMA NOTA FISCAL
+
+TODAS AS CAIXAS DE EMBARQUE ESTÃO LACRADAS E IDENTIFICADAS?
+TODAS AS ETIQUETAS ESTÃO VISÍVEIS PARA MELHOR CONFERÊNCIA?
+EMBALAGENS TERCIÁRIAS ESTÃO DEVIDAMENTE IDENTIFICADAS?
+
+NÚMERO DO:LOTE, FABRICAÇÃO) VALIDADE, CÓDIGO!DE BARRAS, LACRE, PRESENTES?
+EXISTEM CAIXAS AVARIADAS?.
+
+Eai 7 E
+
+Os VEÍCULOS QUETRANSPORTAM.OS: PRODUTOS SÃO ADEQUADOS?
+A TEMPERATURA É CONTROLADA DURANTE O TRANSPORTE?
+
+A TEMPERATURA ESTÁ DE/ACORDO COMO ESPECIFICADO?"
+
+O VEICULO ESTÁ EM BOM ESTADO DE CONSERVAÇÃO E LIMPEZA?
+
+EH
+NOME'LEGÍVEL:-
+ASSINATURA:”
+
+HE
+NOME
+ASSINATI
+DATA:
+
+ 
+
+Saio
+À Superintendência de Gestão e Eianças, A Comissão de Recebimento de Materiais, por seus membros:infra-assinados,
+designados pela Resolução nº. /201: após'a realização deste check list referente a Nota) Fiscal a Autorização de
+Fornecimento especificadas, e após conferência;do: solicitante do material atestada no verso da Nota Fiscal, exarou o seguinte;
+parecer: - "O objetoida compra foi conferido e está de acordo: com as especificações do Pedido de Compras e Autorização: ge
+
+*Fórnecimetno e foi entregue dentro do prazo previsto; podendo ser efetuado o pagamento.
+
+ 
+
+ 
+
+ 
+17/06/2021 SEI/GOVMG - 30717539 - Ofício
+
+GOVERNO DO ESTADO DE MINAS GERAIS
+Secretaria de Estado de Saúde
+
+Chefia de Gabinete da Secretaria de Estado de Saúde de MG
+
+ 
+
+Ofício SES/GAB-CGAB nº. 110/2021
+Belo Horizonte, 11 de junho de 2021.
+
+Exmo. sr.
+
+Sérgio Pessoa de Paula Castro
+
+Advogado-Geral do Estado de Minas Gerais
+
+AGE-MG - Avenida Afonso Pena, 4.000, Bairro Cruzeiro
+CEP 30.130-009 - Belo Horizonte/MG
+
+Assunto: Resposta ao REQ 00627/2021
+Referência: [Caso responda este Ofício, indicar expressamente o Processo nº 1630.01.0001819/2021-82].
+
+Senhor Advogado-Geral do Estado,
+
+Com cordiais cumprimentos, e em atenção ao Requerimento nº 00627/2021 (30154833)
+encaminhado ao Governador do Estado de Minas Gerais mediante Oficio nº 1178/2021 - CPIPANDEMIA
+(30154602) expedido pelo presidente da CPI - Pandemia, Senador Omar Aziz, informamos o que se segue.
+
+Por meio do Requerimento em epígrafe o Senador Marcos Rogério requer "(...) o
+compartilhamento de informações sobre a aquisição, a distribuição e os estoques dos medicamentos
+cloroquina, hidroxicloroquina, ivermectina e todos os demais fármacos que tenham sido utilizados no
+tratamento da covid-19.".
+
+Ademais o Senador solicita cópia integral dos documentos abaixo discriminados?
+
+"1) a quantidade adquirida ou recebida de cada um dos medicamentos mês a mês,
+a partir de março de 2020, até a presente data;
+
+2) as datas das distribuições de todos os medicamentos para a rede hospitalar,
+contendo a data inicial e a final, a partir de março de 2020; e
+
+3) a quantidade desses medicamentos que está sendo mantida em estoque, mês a
+mês, desde março de 220 até a presente data;
+
+4) notas fiscais e relatórios dos dispensários farmacêuticos comprobatórios de
+todas as informações prestadas."
+
+Nesse sentido, inicialmente, é importante pontuar que não há consenso e pactuação no
+setor público sobre o fornecimento de medicamento para tratamento da COVID-19, uma vez que as
+evidências científicas disponíveis não garantem a eficácia e segurança de tal uso. Dessa forma,
+esta Secretaria Estadual de saúde de Minas Gerais - SES/MG não definiu protocolo de uso de
+medicamentos para tratamento da COVID-19 e não executou aquisição de medicamentos para tratamento
+precoce.
+
+No que se trata do medicamento cloroquina 150 mg, o mesmo foi distribuído aos hospitais
+da rede SUS/MG e municípios por esta Secretaria no período de abril a novembro de 2020 mediante
+disponibilização e recomendação do Ministério da Saúde (MS). No primeiro momento para tratamento das
+formas graves, conforme Nota Informativa nº 06/2020-DAF/SCTIE/MS de 31 de marco (30719304)
+
+file://fs/CPIPandemia Dados Temporarios/doc 923 gov MG ostensivo/Oficio 30717539.html 183
+17/06/2021 SEI/GOVMG - 30717539 - Ofício
+
+e, posteriormente, para manuseio medicamentoso precoce em casos leves e moderados, conforme Nota
+Informativa SE/GAB/SE/MS nº 09/20 de 20 de maio (30719442). Nesse processo, a SES/MG atuou com
+apoio logístico ao Ministério da Saúde - MS respeitando a autonomia dos municípios e prescritores quanto
+a solicitação. Após o mês novembro de 2020 não houve mais distribuição de cloroquina pela SES/MG visto
+indisponibilidade do medicamento no MS.
+
+Sobre a hidroxicloroquina, o fornecimento na rede SUS/MG está sendo
+realizado diretamente pelo MS, do medicamento na concentração de 200 mg, proveniente de doação do
+governo dos Estados Unidos para atendimento a demandas da pandemia. Cada município faz a solicitação
+direto ao MS por meio de ofício enviado por correspondência eletrônica à área técnica do Ministério da
+Saúde.
+
+Outrossim, não houve distribuição de outros medicamentos de atendimento ambulatorial e
+de manuseio precoce por esta Secretaria de Estado de Saúde.
+
+Especificamente sobre a cloroquina 150 mg e respondendo os itens do requerimento
+627/2021, seguem dados abaixo:
+
+1) Quantidade recebida/adquirida pela SES/MG, a partir de março de 2020:
+
+Foram enviados pelo Ministério da Saúde o montante de trezentos e setenta e um mil
+comprimidos, conforme informado na tabela 1, que traz dados de entrada do Sistema de Gerenciamentos
+da Assistência Farmacêutica desta SES/MG (SIGAF). Ademais, encaminha-se em anexo as Notas Fiscais
+emitidas pelo MS (30616967, 30617135, 30617342, 30617451, 30617558, 30617727).
+
+Tabela 1. Quantidade de Cloroguina 150 mg enviada a SES/MG pelo MS para atendimento à COVID-19
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data de entrada | Nºda NF* | Soria de Quantidade (unidades)
+01/04/2020 309832 27.000
+06/05/2020 313785 31.000
+07/05/2020 112/20 27.000
+05/05/2020 1655/2020 150.000
+09/09/2020 165/2020 36-000
+09/09/2020 167/2026 100.000
+Total Geral 371000
+
+ 
+
+ 
+
+ 
+
+ 
+
+*NF: Nota Fiscal ou Nota de Fornecimento para os casos de doação ou autorização de remanejamento
+entre estados emitida pelo MS
+
+2) Datas das distribuições realizadas pela SES/MG, contendo data inicial e final, a partir de março de
+2020:
+
+De uma forma geral foram realizadas 4 distribuições à rede SUS/MG, a saber:
+
+* Distribuição emergencial aos hospitais (conforme Nota Informativa nº 06/2020-DAF/SCTIE/MS em
+atendimento aos casos graves): realizada entre 06 a 17 de abril aos principais hospitais elencados
+como referência para atendimento à COVID;
+
+e Distribuição continuada aos hospitais (conforme Nota Informativa nº 06/2020-DAF/SCTIE/MS em
+atendimento aos casos graves): realizada entre os meses de maio e junho aos hospitais referência
+de atendimento a COVID conforme demanda e à medida que os hospitais registravam os pedidos
+no sistema SIGAF;
+
+e 12 distribuição de atendimento aos municípios (conforme orientação da Nota Informativa
+SE/GAB/SE/MS nº 09/20 referente ao manuseio medicamentoso precoce): realizada entre 11 e 28
+de setembro para a maioria dos municípios e atendimentos posteriores conforme demanda para os
+municípios que perderam o prazo de registro nos pedidos no sistema SIGAF.
+
+e 22 distribuição de atendimento aos municípios (conforme orientação da Nota Informativa
+SE/GAB/SE/MS nº 09/20 referente ao manuseio medicamentoso precoce): realizada entre 30 de
+novembro e 14 de dezembro, com estoque remanejado entre os municípios, visto que muitos
+ofertaram o medicamento recebido em distribuições anteriores devido à baixa demanda.
+
+file://fs/CPIPandemia Dados Temporarios/doc 923 gov MG ostensivo/Oficio 30717539.html 2/3
+17/06/2021 SEI/GOVMG - 30717539 - Ofício
+
+No Anexo 7 do Memo 34 (30618243) encaminha-se relatório com dados das
+distribuições realizadas por esta SES/MG, emitido do sistema SIGAF. Informa-se que a maior parte das
+distribuições foram realizadas diretamente do almoxarifado central da Secretaria às centrais de
+abastecimento farmacêutico e hospitais dos municípios. No entanto, como estratégia logística,
+considerando a extensão do território de Minas Gerais e urgência por parte dos destinatários para
+recebimento do medicamento, algumas distribuições foram realizadas de forma consolidada para as
+unidades regionais de saúde para redistribuição aos municípios, que encarregaram de retirar a carga na
+farmácia da regional.
+
+3) Quantidade mantida no estoque mês a mês, desde o mês de março/2020:
+
+Quanto ao estoque desta SES/MG informa-se que não houve formação de estoque de
+segurança ou estratégico no almoxarifado central, visto que as programações e distribuições realizadas
+aconteceram de forma ascendente, isto é, a Secretaria realizava o levantamento da demanda junto aos
+municípios e solicitava o medicamento ao Ministério da Saúde. Após recebimento, realizava a distribuição
+aos municípios e/ou hospitais, conforme pode ser observado a movimentação de estoque pelas datas de
+entrada e distribuições apresentadas respectivamente no item 1 e 2, bem como nas datas das Notas
+Fiscais e Relatório de Distribuição, anexos.
+
+4) Notas Fiscais e relatórios dos dispensários farmacêuticos comprobatórios de todas as informações
+prestadas:
+
+Segue anexo:
+e Notas Fiscais ou Notas de Fornecimento emitidas pelo MS ou Fornecedor referente as entregas de
+
+cloroquina no almoxarifado central da SES/MG:
+(30616967, 30617135, 30617342, 30617451, 30617558, 30617727);
+
+e Relatório de distribuição emitido do Sistema SIGAF, do período de 01/03/2020 a 31/12/2020, das
+distribuições realizadas pelo almoxarifado central da SES/MG e das Coordenações de Assistência
+Farmacêuticas das Regionais de Saúde as centrais de abastecimento farmacêutico e hospitais dos
+municípios (Anexo 7 do Memo 34 (SEI nº 30618243).
+
+Sendo o que nos cumpre para o momento, renovamos os votos de elevada estima e
+consideração e permanecemos à disposição para todo e qualquer esclarecimento.
+
+Atenciosamente,
+
+Fábio Baccheretti Vitor
+
+Secretário de Estado de Saúde de Minas Gerais
+
+ 
+
+x il Documento assinado eletronicamente por Fabio Baccheretti Vitor, Secretário(a), em 11/06/2021, às
+Sh B 15:02, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 47.222,
+eletrônica de 26 de julho de 2017.
+
+  
+
+ 
+
+A autenticidade deste documento pode ser conferida no site
+
+http://sei.mg.gov.br/sei/controlador externo.php?
+
+acao=documento conferir&id orgao acesso externo=0, informando o código verificador 30717539
+LJÉ e o código CRC B6B81D89.
+
+ 
+
+ 
+
+Referência: Processo nº 1630.01.0001819/2021-82 SEI nº 30717539
+Rodovia Papa João Paulo Il, 4143 - Bairro Serra Verde - Belo Horizonte - CEP 31630-900
+
+file://fs/CPIPandemia Dados Temporarios/doc 923 gov MG ostensivo/Oficio 30717539.html 3/3
+CPIPANDEMIA
+00627/2021
+
+ 
+
+SENADO FEDERAL
+Gabinete do Senador Marcos Rogério
+
+REQUERIMENTO Nº |, DE 2021 —- CPIPANDEMIA
+
+Senhor Presidente,
+
+Requeiro que esta Comissão Parlamentar de Inquérito, na forma
+do art. 148 do Regimento Interno do Senado Federal, solicite, aos 26 Estados
+e Distrito Federal e a todas as Prefeituras dos Municípios com população
+acima de 100.000 habitantes, o compartilhamento de informações sobre a
+aquisição, a distribuição e os estoques dos medicamentos cloroquina,
+hidroxicloroquina, azitromicina, ivermectina e todos os demais farmácos que
+tenham sido utilizados no tratamento da covid-19.
+
+Para tal, deverão ser enviados a esta CPI, em meio magnético,
+cópia integral de todos os documentos abaixo discriminados:
+
+1) a quantidade adquirida ou recebida de cada um dos
+medicamentos mês a mês, a partir de março de 2020, até
+a presente data;
+
+2) as datas das distribuições de todos os medicamentos para
+arede hospitalar, contendo a data inicial e a final, a partir
+de março de 2020; e
+
+3) a quantidade desses medicamentos que está sendo
+mantida em estoque, mês a mês, desde março de 2020
+até a presente data;
+
+4) notas fiscais e relatórios dos dispensários farmacêuticos
+comprobatórios de todas as informações prestadas.
+
+JUSTIFICAÇÃO
+
+Senado Federal, Ala Senador Teotônio Vilela, Anexo Il, Gabinete 2, CEP 70165-900, Brasilia, DF | Telefone (61) 3303-8153
+
+SF/21318.08266-61
+ 
+
+SENADO FEDERAL
+Gabinete do Senador Marcos Rogério
+
+De acordo com matéria publicada pelo Portal da CNN Brasil!,
+do dia 15 de fevereiro de 2021, foram disponibilizados, “entre setembro de
+2020 e janeiro de 2021, 482 mil doses de hidroxicloroquina” para tratar
+pacientes com Covid-19.
+
+Contudo, essa distribuição aos estados, Distrito Federal e
+municípios ocorreu em face da quantidade de casos de Covid registrados no
+boletim do Ministério e com base nas solicitações da Secretarias Municipais
+e Estaduais de Saúde, a fim de haver um tratamento precoce da Covidl9,
+respeitando-se a autonomia dada aos profissionais médicos para se receitar
+fármacos no tratamento dos males causados pelo coronavírus.
+
+Portanto, Estados e Municípios passaram a utilizar o protocolo
+de tratamento com o uso de cloroquina e hidroxicloroquina e adquiriram
+esses medicamentos, conforme se depreende das notícias abaixo:
+
+“Autorizei ao secretário de Saúde, Florentino Neto, a partir de
+orientação do Comitê de Organização Emergencial (COE), a
+compra de mais medicamentos à base de cloroquina e
+hidroxicloroquina. Autorzei também a compra da azitromicina
+para compor o coquetel”, declarou o governador do Piauf.
+
+“O estado do Maranhão disponibiliza, a partir desta segunda-feira
+(17), cloroquina para tratamento de pacientes leves com Covid-
+19. O kit de fármacos é composto de hidroxocloroquina,
+azitromicina, corticoide, vitaminas C e D - além de paracetamol
+e diprona”?.
+
+A contrario sensu ou de forma complementar, essas unidades da
+Federação certamente fizeram uso de diversos outros medicamentos, os
+quais também precisam ser identificados, notadamente em comparativo,
+quanto à quantidade, com os fármacos expressamente citados.
+
+1 Portal CNN Brasil. Insumo acaba na sexta e “entraves diplomáticos” atrasam nova entrega, diz Dória.
+
+Disponível em: <https://www.ennbrasil.com.br/saude/2021/02/15/ministerio -da -saude-enviou-cloroquina-
+
+a-estados -ate-janeiro>.
+
+2 Portal CNN Brasil. Governador do PI muncia compra de cloroquina e hidroxicloroquina para
+
+tratamento da covid-19. Disponível em: hi Lglobo.com/pi/piaui/noticia/2020/04/08/governador-do-
+i-anuncia-compra-de-cloros ins hidro uina-para-tratamento-da-covid-19.ghtml>.
+
+3 Portal CNN Brasil. Maranhão insere novo protocolo de cloroquina e disponibiliza kit de medicamentos.
+
+Disponível em: <https://www.ennbrasil.com.br/nacional/2020/05/1 8/maranhao -insere-novo-protocolo-de-
+
+cloroquina-e-disponibiliza-kit-de-medicamentos>.
+
+ 
+
+Senado Federal, Ala Senador Teotônio Vilela, Anexo Il, Gabinete 2, CEP 70165-900, Brasilia, DF | Telefone (61) 3303-8153
+
+ 
+
+SF/21318.08266-61
+ 
+
+SENADO FEDERAL
+Gabinete do Senador Marcos Rogério
+
+Diante do exposto, acreditamos que as informações solicitadas
+serão de grande importância para que se identifique a quantidade pedida ou
+
+recebida dessas substâncias pelas unidades da federação e as datas dessas
+distribuições para a rede hospitalar de seus Estados e Municípios.
+
+Estas são as razões por que se faz imprescindível a aprovação
+do presente requerimento de informações.
+
+Sala da Comissão, em 20 de maio de 2021.
+
+Senador MARCOS ROGÉRIO
+Líder do Democratas
+
+Senado Federal, Ala Senador Teotônio Vilela, Anexo Il, Gabinete 2, CEP 70165-900, Brasilia, DF | Telefone (61) 3303-8153
+
+ 
+
+ 
+MINISTERIO DA SAUDE - MS Quarta-Feira, 29 de Abril de 2020
+DEPARTAMENTO DE LOGÍSTICA - DLOGISE EMERGENCIAL Página 1 de 1
+
+SERVIÇO DE ARMAZENAMENTO E DISTRIBUIÇÃO DE MEDICAMENTOS - CAIES/CGAD Aéreo Impressão de nº 4
+
+Sistema Integrado de Admini tração de Materi é SISMAT
+
+| CNPJ 00.394.544.0008-51
+
+| Nº do Pedido: 313785
+
+ 
+
+ 
+
+NOTA DE FORNECIMENTO DE MEDICAMENTO
+
+Nº do Pedido: 313785 , ,
+
+Unidade / Entidade de De: Ú
+Descrição da Localidade:
+Cidade: CONTAGEM - MG
+
+   
+
+ 
+
+Telefone da Unid. / Entidade: 25652400 Data do Pedido: 26/04/2020 — status: DISPONÍVEL PY EXPEDIÇÃO
+Dt. Envio da Autorização: - Dt Autorização: 29/04/2020
+Código Descrição Qt. Autorizado Qt. Entregue VI. Unitário VI. Total /
+0695459 CLOROQUINA 150MG = 31000 31.000 0,0688612710 2.134,70
+Fornecedor: FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ End.: CLIMATIZADO - sp Qt. Recolher: 31.000 Dt. Validade: 30/09/2021 Lote: 19090735
+Fabricante: FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ AEE pe ig E
+
+ 
+
+ 
+
+Programa de Saude.: COVID-19 sega cf ERR EE ——
+
+— — Obs.: 4 Diante-da possibilidade deu zação da Cloroquina como terapia adjuvante no tratamento dle formas graves do COVID-19, em pacientes hospi
+solicita-se atendimento em caráter de MÁXIMA URGÊNCIA je
+
+ 
+
+izados, e a incidência cada vez major de casos de COVID-19 no país,
+
+ 
+
+Programa de Saúde de CovID 19
+
+Atendimento conforme Autorização SEI nº 0014606635/CESAF/DAFISCTIE.
+
+Medicamentos enviados Pelo CESAF/DAFISCTIE/MS.
+
+Sadm.transporteOsaude.gov.br
+2 DATA FUNCIONÁRIO DA TRANSPORTADORA “ [DESTINATÁRIO E DATA / CARIMBO
+
+   
+
+Obs.: Se durante o recebimento for identificada alguma divergência, imediatamente entrar em contato conosco através do e-m
+
+ALMOXARIFADO / CARIMBO
+Assinado com senha eletronica via portal VTCLOG
+Katiane Rodrigues Torres
+
+* | Agente Administrativo - 1717909
+
+189.28.128.242
+
+ 
+
+ 
+
+     
+
+ 
+
+  
+
+ 
+
+ria: 749 207 244 na
+
+  
+ 
+
+06/05/2020 ; é ; ç SIGAF 7.90.88-017 &
+
+ 
+
+  
+
+ 
+
+   
+
+ma ne É ALTERAR ESTABELECIMENTO / | SAIR
+CADASTROS “DISTRIBUIÇÃO & GESTÃO. DE ESTOQUE RELATÓRIOS j pd
+sy A 7
+ç )
+Exibe Entrada Simples ' Y * - Boatarde,
+Nº Entrada smpls 6 eiseogazoosasor : 06/05/2020 avion de
+ç da VRRa a Aleidente Almarande
+domo» Abegiaunãoo de
+TEOICRNENTOS ES
+Fomecedor: MINISTÉRIO DA SAÚDE (DEPARTAMENTO DE LOGISTICA) baia
+Nº Autorização de Fomecimento: X SS mis
+«Nº Processo: MS
+«7 NE Nota Fiscal: 3137 Asuca
+Descrição pendencia: EE?
+: Numero de Empenho: 0, fiçee 7
+Projeto: SAP e
+Produto da Entrada Simples A Ss
+É E ; Em nad PODE T Qua, Qui se so
+
+ 
+
+Lai N6p 60 708.6
+Jo vino a rto o aiçÃs O to
+AL Ot o ÃO ai 22 7a)
+245 26:26) 27. 2800 20/50
+
+ 
+
+Medicamento da Entrada Simples
+Medicamento (Apresentação Comercial): CLOROQUINA | come
+
+ 
+
+ 
+  
+
+FUNDAÇÃO OSWALDO ;
+Fabricante: CRUZ Registro Anvisa HS: 1106300940018
+4 (83:781.055/0001-35) ' idos À o
+1) ipo: Unidade, Quantidade: 31000! O. É
+v 0,068860' * Agenda Es
+
+  
+
+falta y 19090735.
+; $ Localização/Endereçamento Fico: B-5-02
+Total: 2.134,660000.
+
+Cadastro! EDGEYZON FLAVIO GARCIA! -. 06/05/2020 15:47: Última of
+
+ 
+
+ 
+
+ 
+
+caos EOGEYZON FLÁVIO GARCIA, - 06/05/2020 15:
+
+ 
+
+   
+
+Como 20-00 Secietra de Estado di Saúdo de mas Goa - SUPERINTENDÊNCIA DE SsisráIR rama: ede o ads Suporte q
+Vensostolermatos
+
+antas! (BD soasraide mg orar
+
+ 
+
+sigaf.saude-mg.gov.brippsilsigafilindex.php?page=metalview&id: view=tb: entrada, 28 menu (acessado=71 9 111
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+RCONSR43 Governo/do Estado de Minas;Gerais Pag. : 0001 : S ç ie RR
+Dn gran - Sistema Integrado de Administracao de Materiais e Servicos: - 06/05/2020 oe j ; ;
+Espelho de Documento 'de' Saida. de Material de-Consumo + 15:23 0 a Ê eso “
+Orgão. 5 1820 - SECRETARIA DE ÉSTADO DA SAUDE, : Eco ; E Ê ses
+Almoxarifado: 1321499 -AIMOXARIEADO DE MEDICAMENTOS/SES: : ; s
+resp. doc 08908802630. - EDGEYZON FLAVIO. GARCIA E 4 x desde dE Ê
+Resp. Aceite -08908802630. - EDGEYZON FLAVIO GARCIA; (ES % X k E x = ndo ME x
+Doador :00.394.544/0008-51 - : RES : é :
+Tipo : 203) - ENTRADA POR DORCAO- | so Eee e ; f : É É
+Data Doelmento : 29/04/2020 Data Contabilizacao: 06052020 “+ - COMPLETO S E Es : É
+Numero - 42020.020647 Valor Docto : —.. 2.134,70 ; ã : ;
+Item Descricao Material Ea ; É Quant VI-Unit. Vl Total > E se á Ea É
+E k E g É EE De E É (Ss a a 4 e
+009 0004951057 “CLOROQU TIA =“COMPRIMIDO?: 150 MG, (000 31000; 0000 0,07“: 2.134,70: q E 4
+“1 = 1 UNIDADE), E » E e: E SAE g 2
+“Lote ; Validade - Fabricacao . Quantidade . s S É
+* 19090725 ->. «1 C. 20/09/2021 30/09/2019 ; E 7 pd
+Convenio: Ren pá na E ese e EE ca à aaa Rr
+*kkWHA% FIM DO DOCUMENTO *i+rta%/ 7 Nas E E é y E a Rs f 5 E Sa á
+e 2 ! o 4 3! o
+ç 2; Iê hr 'ê f TE
+a S É / E E
+E Ao A A ; a f ; e Je
+7 a Eedo ç es sí ES
+Te x S Si 5 Ea R z
+E e ç 5 A A - 1
+à y ú es E - : à
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GOVERNO DO ESTADO DE MINAS GERAIS -
+SECRETARIA DE ESTADO DE SAUDE CONFERENTE Congios
+SUBSECRETARIA DE INOVAÇÃO E LOGISTICA EM SAUDE ç T -
+SUPERINTENDENCIA DE GESTAO ê DATA os de
+DIRETORIA DE LOGÍSTICA E PATRIMÔNIO Ê
+des ) : CONFERÊNCIA DE CARGA.
+FORNECEDOR: E a
+NE 3/3755 ERR DATA DE EMISSÃO: AE:
+ITEM / EspeciFICAÇÃO: E loyoguina: |5Omo, ANVISA: 5. fog5: 0094. 00).8
+LOTE S MÚLTIPLO: QUANTIDADE FABRICANTE: FABRICAÇÃO: VALIDADE:
+Jêngo Vas Jesoo Jioo Fool Divaldo cquz og 119 Do Ny
+dE die 7 ET
+: / /
+Ê / SA
+/ d E
+/ /
+À, 7
+É É / 1
+E g7 /
+a : 1 1
+/ /
+E / /
+LOTE E QUANTIDADE: RUA ALTURA | POSIÇÃO LOTE QUANTIDADE: | RUA ALTURA. | POSIÇÃO
+
+ 
+
+ 
+
+:5 Qu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Ses
+NÚMERO DA NOTA FISCAL: x
+
+S ITENS ENTREGUES ESTÃO DE ACORDO!COM AS ESPECIFICAÇÕES DAAF?
+OS ITENS ENTREGUES ESTÃO DE ACORDO:COM A NOTA FISCAL?
+OS LOTES E VALIDADES ESTÃO DE ACORDO COMA NOTA FISCAL?
+A'QUANTIDADE RECEBIDA ESTÁ DE ACORDO/COM A NOTA FISCAL
+
+Res
+
+TODAS AS CAIXAS DE EMBARQUE ESTÃO LACRADAS E IDENTIFICADAS?
+TODAS AS ETIQUETAS ESTÃO VISÍVEIS PARA MELHOR CONFERÊNCIA?
+EMBALAGENS TERCIÁRIAS ESTÃO DEVIDAMENTE IDENTIFICADAS?
+
+NÚMERO DO LOTE, FABRICAÇÃO, VALIDADE, CÓDIGO: DE BARRAS, LACRE, PRESENTES?
+EXISTEM CAIXAS AVARIADAS? E
+
+OS VEÍCULOS QUE TRANSPORTAMIOS PRODUTOS SÃO ADEQUADOS?:
+[A TEMPERATURA É CONTROLADA DURANTE O TRANSPORTE?
+
+A TEMPERATURA ESTÁ DE AGORDO COM O ESPECIFICADO? = 7:
+
+O VEICULO ESTÁ EM STADO DE GONSERV, LIMPEZA
+
+NOME LEGÍVEL: IVÍVIASS
+ASSINATURA:
+
+NOME LEG
+ASSINATURA:
+DATA:
+
+ 
+
+À Superintendência de Gestão e Finanças, A Comissão de Recebimento de Materiaís, por seus membros infra-assinados,
+designados pela Resolução nº /201., após a'réalização deste check list referente a Nota Fiscal e a Autorização de
+Fornecimento: especificadas, e após conferência do solicitante do material atestada no verso da Nota Fiscal, exarou o seguinte;
+parecer: - "O objeto da compra foi conferido e está de'acordo com as especificações do Pedido dê Compras e Autorização de
+Fórnecimetno e foi entregue dentro do prazo previsto, podendo ser efetuado o pagamento."
+
+ 
+Ministério da Saúde
+Secretaria Executiva
+Gabinete da Secretaria Executiva
+
+NOTA INFORMATIVA Nº 9/2020-SE/GAB/SE/MS
+
+ORIENTAÇÕES PARA MANUSEIO MEDICAMENTOSO PRECOCE DE
+PACIENTES COM DIAGNÓSTICO DA COVID-19
+
+ASSUNTO
+
+Orientações para manuseio medicamentoso precoce de pacientes
+com diagnóstico da COVID-19.
+
+INTRODUÇÃO
+
+1. Considerando que cabe ao Ministério da Saúde acompanhar, controlar
+e avaliar as ações e os serviços de saúde, respeitadas as competências
+estaduais e municipais, nos termos da Constituição Federal e da Lei nº 8080, de
+19 de setembro de 1990;
+
+2. Considerando que até o momento não existem evidências científicas
+robustas que possibilitem a indicação de terapia farmacológica específica para a
+COVID-19;
+
+3. Considerando que a manutenção do acompanhamento da
+comunidade científica dos resultados de estudos com medicamentos é de
+extrema relevância para atualizar periodicamente as orientações para o
+tratamento da COVID-19, que existem muitos medicamentos em teste, com
+muitos resultados sendo divulgados diariamente, e vários destes medicamentos
+têm sido promissores em testes de laboratório e por observação clínica, mesmo
+com muitos ensaios clínicos ainda em análise;
+
+4. Considerando que alguns Estados, Municípios e hospitais da rede
+privada já estabeleceram protocolos próprios de uso da cloroquina e da
+hidroxicloroquina para tratamento da COVID-19;
+
+5. Considerando a necessidade de uniformização da informação para os
+profissionais da saúde no âmbito do Sistema Único de Saúde;
+
+6. Considerando a existência de diversos estudos sobre o uso da
+cloroquina e hidroxicloroquina no tratamento da COVID-19;
+
+7. Considerando a larga experiência do uso da cloroquina e da
+hidroxicloroquina no tratamento de outras doenças infecciosas e de doenças
+crônicas no âmbito do Sistema Único de Saúde, e que não existe, até o
+momento, outro tratamento eficaz disponível para a COVID-19;
+
+8. Considerando a necessidade de orientar o uso da cloroquina e da
+hidroxicloroquina no âmbito do Sistema Único de Saúde pelos profissionais
+médicos;
+
+9. Considerando a necessidade de orientar o uso de fármacos no
+tratamento precoce da COVID-19 no âmbito do Sistema Único de Saúde pelos
+médicos;
+
+10. Considerando a necessidade de reforçar que a auto prescrição dos
+medicamentos aqui orientados pode resultar em prejuízos à saúde e/ou redução
+da oferta para pessoas com indicação precisa para o seu uso;
+
+11. Considerando a necessidade de avaliação dos pacientes através de
+anamnese, exame físico e exames complementares nos equipamentos de saúde
+do Sistema Único de Saúde;
+
+12. Considerando que a prescrição de todo e qualquer medicamento é
+prerrogativa do médico, e que o tratamento do paciente portador de COVID-19
+deve ser baseado na autonomia do médico e na valorização da relação médico-
+paciente que deve ser a mais próxima possível, com o objetivo de oferecer o
+melhor tratamento disponível no momento; e
+
+13. Considerando que o Conselho Federal de Medicina recentemente
+propôs a consideração da prescrição de cloroquina e hidroxicloroquina pelos
+médicos, em condições excepcionais, mediante o livre consentimento
+esclarecido do paciente, para o tratamento da COVID-19 (PROCESSO -CONSULTA
+CFM nº 8/2020 - PARECER CFM Nº 4/2020).
+
+14. O Ministério da Saúde, com o objetivo de ampliar o acesso dos
+pacientes a tratamento medicamentoso no âmbito do SUS, publica as seguintes
+orientações para tratamento medicamentoso precoce de pacientes com
+diagnóstico de COVID-19.
+
+CLASSIFICAÇÃO DO SINAIS E SINTOMAS:
+
+ 
+
+ 
+
+SINAIS E
+SINTOMAS SINAIS E SINTOMAS SINAIS DE GRAVIDADE
+MODERADOS
+LEVES
+e Tosse persistente
++ febre
+persistente diária | Síndrome Respiratória
+. ou Aguda Grave - Síndrome
+. Anosmia e Tosse persistente Gripal que apresente:
+e Ageusia + piora
+e Coriza rogressiva de . Dispneia/desconforto
+e Diarreia tio sintoma respiratório persistente
+* Dor abdominal relacionado a no Tórax
++ Febre coviID-19 * OU pressão
+º Miaigia (adinamia, persistente no Tórax
+. x
+« Fadiga prostração, e OU saturação de Oz
+e Cefaleia diarreia) , menor que 95% em ar
+ou ambiente
+e Pelo menos um| * OU goloração azulada
+dos sintomas e tablos ou rosto
+acima + presença
+de fator de risco
+
+ 
+
+ 
+
+ 
+
+ 
+
+ORIENTAÇÃO DE TRATAMENTO CONFORME A CLASSIFICAÇÃO DOS SINAIS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E SINTOMAS:
+: a FASE 1 FASE 2 FASE 3
+Orientação Para 1º AO 5º DIA DO | 6º AO 14º DIA DO | APÓS 14º DIA DO
+PACIENTES ADULTOS INÍCIO DOS INÍCIO DOS INÍCIO DOS
+SINTOMAS SINTOMAS SINTOMAS
+Difosfato de Cloroquina
+D1: 500mg 12/12h (300mg de cloroquina
+base)
+D2 ao D5: 500mg 24/24h (300mg de
+cloroquina base)
++
+Azitromicina
+500mg 1x ao dia, durante 5 dias O
+SINAIS E SINTOMAS sintomático
+LEVES Ou
+Sulfato de Hidroxicloroquina
+D1: 400mg 12/12h
+D2 ao D5: 400mg 24/24h
++
+Azitromicina
+500mg 1x ao dia, durante 5 dias
+: a FASE 1 FASE 2 FASE 3
+orienta o e 1º AO 5º DIA DO | 6º AO 14º DIA DO APÓS 14º
+PACIENTES ADULTOS INÍCIO DOS INÍCIO DOS DIA DO INÍCIO
+SINTOMAS SINTOMAS DOS SINTOMAS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Considerar a Internação Hospitalar
+- Afastar outras causas de gravidade
+- Avaliar presença de infecção bacteriana
+
+ 
+
+ 
+SINAIS E SINTOMAS
+MODERADOS
+
+- Considerar imunoglobina humana
+- Considerar anticoagulação
+- Considerar corticoterapia
+
+ 
+
+ 
+
+Difosfato de Cloroquina
+D1: 500mg 12/12h (300mg de cloroquina
+base)
+D2 ao D5: 500mg 24/24h (300mg de
+cloroquina base)
++
+Azitromicina
+500mg 1x ao dia, durante 5 dias -X-
+ou
+Sulfato de Hidroxicloroquina
+D1: 400mg 12/12h
+D2 ao D5: 400mg 24/24h
++
+
+Azitromicina
+500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+ 
+
+Orientação para
+prescrição em
+PACIENTES ADULTOS
+
+FASE 1
+1º AO 5º DIA DO
+INÍCIO DOS
+SINTOMAS
+
+FASE 2
+6º AO 14º DIA DO
+INÍCIO DOS
+SINTOMAS
+
+- FASE3
+APÓS 14º DIA DO
+INÍCIO DOS
+SINTOMAS
+
+ 
+
+ 
+
+ 
+
+ 
+
+SINAIS E SINTOMAS
+GRAVES
+
+ 
+
+Internação Hospitalar
+- Afastar outras causas de gravidade
+- Avaliar presença de infecção bacteriana
+- Considerar imunoglobina humana
+- Considerar anticoagulação
+- Considerar pulsoterapia com corticóide
+
+Sulfato de Hidroxicloroquina
+D1: 400mg 12/12h
+D2 ao D5: 400mg 24/24h
++
+
+Azitromicina
+500mg 1x ao dia, durante 5 dias
+
+ 
+
+ANEXO A - TERMO DE CIÊNCIA E CONSENTIMENTO
+
+NOTAS
+
+1. Apesar de serem medicações utilizadas em diversos protocolos e de
+possuírem atividade in vitro demonstrada contra o coronavírus, ainda não
+há meta-análises de ensaios clínicos multicêntricos, controlados, cegos e
+randomizados que comprovem o beneficio inequívoco dessas medicações
+para o tratamento da COVID-19. Assim, fica a critério do médico a
+prescrição, sendo necessária também a vontade declarada do paciente,
+conforme Anexo A - Termo de Ciência e Consentimento.
+
+2. O uso das medicações está condicionado à avaliação médica, com
+realização de anamnese, exame físico e exames complementares, em
+
+Unidade de Saúde.
+
+3. Os critérios clínicos para início do tratamento em qualquer fase da doença
+não excluem a necessidade de confirmação laboratorial e radiológica.
+
+4. São contra-indicações absolutas ao uso da Hidroxicloroquina: gravidez,
+retinopatia/maculopatia secundária ao uso do fármaco já diagnosticada,
+hipersensibilidade ao fármaco, miastenia grave.
+
+5. Não há necessidade de ajuste da dose de hidroxicloroquina para
+insuficiência renal (somente se a taxa de filtração glomerular for menor que
+15) ou insuficiência hepática.
+
+O risco de retinopatia é menor com o uso da hidroxicloroquina.
+
+Não coadministrar hidroxicloroquina com amiodarona e flecainida. Há
+interação moderada da hidroxicloroquina com: digoxina (monitorar),
+ivabradina e propafenona, etexilato de dabigatrana (reduzir dose de 220
+
+ 
+10.
+
+1.
+
+12.
+
+13.
+
+14.
+
+15.
+16.
+
+17.
+18.
+
+19.
+
+20.
+
+21.
+
+mg para 110 mg), edoxabana (reduzir dose de 60 mg para 30 mg). Há
+interação leve com verapamil (diminuir dose) e ranolazina.
+
+Em crianças, dar sempre prioridade ao uso de hidroxicloroquina pelo risco
+de toxicidade da cloroquina.
+
+Cloroquina deve ser usada com precaução em portadores de doenças
+cardíacas, hepáticas ou renais, hematoporfiria e doenças mentais.
+
+Cloroquina deve ser evitada em associação com: clorpromazina,
+clindamicina, estreptomicina, gentamicina, heparina, indometacina,
+tiroxina, isoniazida e digitálicos.
+
+Para pacientes adultos hospitalizados e com sinais de gravidade,
+considerar anticoagulação e pulsoterapia com corticóide. Antes do primeiro
+pulso de corticoterapia, realizar profilaxia anti-helmíntica.
+
+Para pacientes com sinais e sintomas moderados, considerar
+anticoagulação profilática se a oximetria estiver abaixo de 95% ou na
+presença de qualquer sinal ou sintoma respiratório (tosse, dispneia etc.)
+quando não for possível realizar a oximetria.
+
+Para pacientes hospitalizados, observar e iniciar o tratamento precoce para
+pneumonia nosocomial, conforme protocolo da Comissão de Controle de
+Infecções Hospitalares (CCIH) local.
+
+Nos pacientes com deficiência ou presunção de deficiência de vitamina D,
+considerar a reposição conforme necessidade clínica.
+
+Investigar e tratar anemia.
+
+Zinco - Para pacientes adultos, considerar a administração de sulfato de
+zinco concomitante ao tratamento com cloroquina/hidroxicloroquina +
+azitromicina.
+
+Monitorar o uso de anti-coagulantes.
+
+Exames laboratoriais de relevância na COVID-19: hemograma completo, TP,
+TTPA, proteína C-reativa (de preferência ultra sensível), AST (TGO), ALT
+(TGP), Gama-GT, creatinina, uréia, glicemia, ferritina, D-dímero, DHL,
+troponina, CK-MB, vitamina D, íons (Na/K/Ca/Mg), RT-PCR SARS-Cov-2,
+sorologia ELISA IGM IGG para SARS-Cov-2, teste molecular rápido para
+coronavírus.
+
+Exames complementares de relevância na COVID-19: Eletrocardiograma e
+Tomografia Computadorizada de TÓRAX.
+
+A Sociedade Brasileira de Cardiologia recomenda a realização de
+Eletrocardiograma no primeiro, terceiro e quinto dias do tratamento com
+cloroquina ou hidroxicloroquina com associação eventual com azitromicina.
+
+Cada comprimido de Difosfato de Cloroquina de 250 mg equivale a 150 mg
+de cloroquina base. A dose diária máxima de cloroquina base não deve
+exceder 25mg/Kg.
+
+REFERÊNCIAS:
+
+1.
+
+BERTSIAS, George K; TEKTONIDOU, Maria; AMOURA, Zahir; et al. Joint
+European League Against Rheumatism and European Renal Association-
+European Dialysis and Transplant Association (EULAR/ERA-EDTA)
+recommendations for the management of adult and paediatric lupus
+nephritis. Annals of the Rheumatic Diseases, vol. AI), iz p. 1771-
+1782. Internet, htt Pp 8
+
+BOWLING, Brad. Kanski Oftalmologia Clínica. Uma abordagem sistêmica.
+83 edição. Rio de Janeiro: Elsevier, 2016, p. 853.
+
+BRASIL. MINISTÉRIO DA SAÚDE. SECRETARIA DE VIGILÂNCIA SANITÁRIA.
+Guia de Vigilância Epidemiológica. Emergência de Saúde Pública de
+Importância Nacional pela Doença pelo Coronavírus 2019. Vigilância
+Integrada de Síndromes Respiratórias Agudas Doença pelo Coronavírus
+2019, Influenza e outros vírus respiratórios (03/04/2020). Brasília, Distrito
+Federal: Ministério da Saúde, 2020, p. 8.
+
+BROWNING, David J. “Pharmacology of Chloroquine and
+Hydroxychloroquine”. In: BROWNING, David J. Hydroxychloroquine and
+Chloroquine Retinopathy. New York, NY: Springer, 2014, p. 35-63. Internet,
+https://link. springer.com/chapter/10.1007/978-1-4939-0597-3 2jciteas
+
+CARLUCCI, Philip; AHUJA, Tania; PETRILLI, Christopher M.; et al.
+Hydroxychloroquine and azithromycin plus zinc vs hydroxychloroquine and
+azithromycin alone: outcomes in hospitalized COVID-19 patients. medRxiv
+preprint, publicado em maio - online. Internet,
+
+ 
+10.
+
+1.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+https://doi.org/10.1101/2020.05.02.20080036
+
+CHAUHAN, A. & TIKOO, A. The enigma of the clandestine association
+between chloroquine and HIV-1 infection. HIV Medicine, vol. 16(10), 2015,
+p.585-590. Internet,
+
+- ai . tt o dv. 12295
+
+CHEN, Jun; LIU, Danping; LIU, Ping; et al. A pilot study of
+hydroxychloroquine in treatment of patients with common coronavirus
+disease-19 (COVID-19). Joumal of Zhejiang University, issue 2, 2020, p.
+215-219. Internet,
+http://www .zjujournals.com/med/EN/10.3785/j.issn.1008-9292.2020.03.03
+
+CHEN, Zhaowei; HU, Jijia; ZHANG, Zongwei; et al. Efficacy of
+hydroxychloroquine in patients with COVID-19: results of a randomized
+clinical trial. medRxiv preprint, Internet,
+https://www.medrxiv.org/content/10.1101/2020.03.22.20040758v3
+
+CHINA. MULTICENTER COLLABORATION GROUP OF DEPARTMENT OF
+SCIENCE AND TECHNOLOGY OF GUANGDONG PROVINCE AND HEALTH
+COMMISSION OF GUANGDONG PROVINCE FOR CLOROQUINE IN THE
+TREATMENT OF NOVEL CORONAVIRUS PNEUMONIA. Expert consensus on
+chloroquine phosphate for the treatment of novel coronavirus pneumonia.
+Zhonghua Jie He He Hu Xi Za Zhi, vol. 43 (3), 2020, p. 185-8. Internet,
+https://pubmed.ncbi.nim.nih.gov/32164085/
+
+COLSON, Philippe; ROLAIN, Jean-Marc; LAGIER, Jean-Christophe; et al.
+Chloroquine and hydroxychloroquine as available weapons to fight COVID-
+19. International Journal of Antimicrobial Agents, vol. 55 (4), 2020,
+105932. Intemet, https: //doi.org/10.1016/j.ijantimicag.2020.105932
+
+CONSELHO FEDERAL DE MEDICINA. Processo-Consulta CFM nº 8/2020 -
+Parecer CFM nº 4/2020. Tratamento de pacientes portadores de COVID-19
+com cloroquina e hidroxicloroquina. Internet,
+http://www.saude.mppr.mp.br/arquivos/File/Corona/CEM/6. pdf
+CORTEGIANI, Andrea; INGOGLIA, Julia; IPPOLITO, Mariachiara; et al. A
+systematic review on the efficacy and safety of chloroquine for the
+treatment of COVID-19. Journal of Critical Care, vol. 57, 2020, p. 279-283.
+Intemet, https://doi.org/10.1016/j.jcrc.2020.03.005
+CZUPPON, Peter; DÉBARRE, Florence; GONÇALVES, Antonio; et al.
+Predicted success of prophylactic antiviral therapy to block or delay SARS-
+CoV-2 infection depends on the targeted mechanism. medRxiv preprint,
+publicado em maio - online. Internet,
+https://doi.ora/10.1101/2020.05.07.20092965
+DAVIDO, Benjamin; LANSAMAN, Thiebaud; BESSIS, Simon; et al.
+Hydroxychloroquine plus azithromycin: a potential interest in reducing in-
+hospital morbidity due to COVID-19 pneumonia (HI-ZY-COVID)? medRxiv
+preprint, publicado em maio - online. . Internet,
+https://doi.ora/10.1101/2020.05.05.20088757
+DEVAUX, Christian A; ROLAIN, Jean-Marc; COLSON, Philippe; RAOULT,
+Didier New insights on the antiviral effects of chloroquine against
+coronavirus: what to expect for COVID-19? Intemational Journal of
+Antimicrobial Agents, publicado em março - online, 2020, 105938. Internet,
+do 6 a 938
+
+ 
+
+   
+
+      
+
+ 
+
+DIVALA, Titus H.; MUNGWIRA, Randy G.; MAWINDO, Patrícia M.; et al. A
+Randomized, Controlled Clinical Trial of Chloroquine as Chemoprophylaxis
+or Intermittent Preventive Therapy to Prevent Malaria in Pregnancy in
+Malawi. Lancet Infectious Diseases, vol. 18 (10), 2018, p. 1097-1107.
+Intemet, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6217965,
+
+DONATELLI, Isabella; CAMPITELLI, Laura; DI TRANI, Livia; et al.
+Characterization of H5N2 influenza viruses from Italian poultry. Journal of
+General Virolology, vol. 82 (3), 2001, p. 623-30. Internet,
+https://www.microbiologyresearch.org/content/journal/jgv/10.1099/0022-
+1317-82-3-623
+
+EUROPEAN MEDICINES AGENCY. COVID-19: chloroquine and
+hydroxychloroquine only to be used in clinical trials or emergency use
+programmes. Publicado em abril - online. Internet,
+https://www.ema.europa.eu/en/news/covid-19-chloroquine-
+hydroxychloroguine-only-be-used-clinical-trials-emergency-use-programmes
+
+FERNANDES, Tadeu Fernando. Suplementação de Nutrientes. Boletim da
+Sociedade de Pediatria de São Paulo - SPSP, nº 5, 2019, p.4-5. Intemet,
+https://www.spsp.org.br/site/asp/boletins/AtualizeA4NS. pdf
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+FRANCO, Lori; FOLI, Andrea; GROFF, Antonella; et al. Optimal suppression
+of HIV replication by low-dose hydroxyurea through the combination of
+antiviral and cytostatic ('virostatic) mechanisms. AIDS, Vol. 19 (11), 2005;
+p. 1173-81. Internet, https://pubmed.ncbi.nim.nih.gov/15990570/
+
+FREITAS, Daniella Cabral de; GODOY, Herrique; SILVEIRA, Sergio Antônio
+Dias da. Protocolo Manejo Clínico COVID-19. Material de Apresentação da
+Prevent Senior. Intemet, https://static. poder360.com.br/2020/04/protocolo-
+Prevent-Senior-tratamento-covid-19,pdf
+
+FRIE, Kerstin & GBINIGIE, Kome. Chloroquine and hydroxychloroquine:
+Current evidence for their effectiveness in treating COVID-19. The Centre
+for Evidence-Based Medicine. University of Oxford, 2020. Intemet,
+https://www.cebm.net/covid-19/chloroquine-and-hydroxychloroquine-
+current-evidence-for-their-effectiveness-in-treating-covid-19,
+
+GAO, Jianjun; TIAN, Zhenxue; YANG, Xu. Breakthrough: Chloroquine
+phosphate has shown apparent efficacy in treatment of COVID-19
+associated pneumonia in clinical studies. Bioscience Trends, vol. 14 (1),
+2020, p. 72-73. Intemet: https://doi.org/10.5582/bst.2020.01047
+
+GAUTRET Philippe; LAGIER, Jean-Christophe; PAROLA, Philippe; et al.
+Hydroxychloroquine and azithromycin as a treatment of COVID-19: results
+of an open-label non-randomized clinical trial. International Journal of
+Antimicrobial Agents, publicado em março - online, 2020. Internet,
+https://www.sciencedirect.com/science/article/pii/S0924857920300996?
+via%3Dihub
+
+GORDON, David E.; JANG, Gwendolyn; BOUHADDOU, Mehdi; et al. A SARS-
+CoV-2 protein interaction map reveals targets for drug repurposing. Nature,
+
+publicado em março - online, 2020. Internet,
+https://www.nature.com/articles/s41586-020-228
+
+     
+
+HOSPITAL ALEMÃO OSWALDO CRUZ. Estudo clínico randomizado,
+pragmático, aberto, avaliando Hidroxicloroquina para prevenção de
+Hospitalização e Complicações Respiratórias em pacientes ambulatoriais
+com diagnóstico confirmado ou presuntivo de Infecção pelo (COVID-19).
+Ensaios Clínicos. Internet, http://www.ensaiosclinicos.gov.br/ra/RBR-
+3cbs3w/
+
+HOSPITAL ISRAELITA ALBERT EINSTEIN. Manejo Novo Coronavírus (COVID-
+19). Material de Apresentação do Hospital Israelita Albert Einstein.
+
+ln t e rn e t | https://medicalsuite.einstein.br/pratica-
+medica/Documentos%20 Doencas%20 Epidemicas/Manejo-de-casos-
+
+-respirato 2. pd
+
+HOSPITAL ISRAELITA ALBERT EINSTEIN. Safety and Efficacy of
+Hydroxychloroquine Associated With Azithromycin in SARS-CoV2 Virus
+(Coalition Covid-19 Brasil 11). Clinical Trials. Intemet,
+https://clinicaltrials.gov/ct2/show/NCTO4321278?
+
+term=HY DROXYCHLOROQUINE&cntry=BR&draw=2&rank=3
+
+HUANG, Mingxing; LI, Man; XIAO, Fei; et al. Preliminary evidence from a
+multicenter prospective observational study of the safety and efficacy of
+chloroquine for the treatment of COVID-19. medRxiv preprint, publicado em
+maio - online, 2020. Internet,
+https://www.medrxiv.org/content/10.1101/2020.04.26.20081059vi
+
+JONES, Gareth; WILLETT, Peter; GLEN, Robert C.; et al. Development and
+validation of a genetic algorithm for flexible docking. Journal of Molecular
+Biology, vol. 267 (3), 1997, p. 727-48. Internet,
+https://doi.ora/10.1006/jmbi. 1996.0897
+
+JOSHI, Shashank R.; BUTALA, N; PATWARDHAN, Madura; et al. Low cost
+anti- retroviral options: chloroquine based ARV regimen combined with
+hydroxyurea and lamivudine: a new economical triple therapy. The Journal
+of the Association of Physicians of India, vol 52, 2004, p. 597-598.
+Internet, https://pubmed.ncbi.nlm.nih.gov/15645995/
+
+KAAPOR, Krishan Mohan & KAAPOR, Aanandita. Role of Chloroquine and
+Hydroxychloroquine in the Treatment of COVID-19 Infection- A Systematic
+Literature Review. medRxiv preprint, publicado em março, 2020. Internet,
+https://www.medrxiv.org/content/10.1101/2020.03.24.20042366v1
+
+KEYAERTS, Els; LI, Sandra; VIJGEN, Leen, et al. Antiviral activity of
+chloroquine against human coronavirus 0C43 infection in newbom mice.
+Antimicrobial agents and Chemotherapy, vol. 53 (8), 2009, p. 3416-3421.
+Intemet, https://aac.asm.org/content/53/8/3416
+
+KEYAERTS, Els; VIJGEN, Leen, MAES, Piet; et al. In vitro inhibition of
+severe acute respiratory syndrome coronavirus by chloroquine. Biochemical
+
+      
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+and Biophysical Research Communications, vol. 323, 2004, p. 264-68.
+Internet, https://pubmed.ncbi.nlm.nih.gov/15351731/
+
+KWIEK, Jesse J.; HAYSTEAD, Tymothy A. J.; RUDOLPH, Johannes. Kinetic
+mechanism of quinone oxidoreductase 2 and its inhibition by the
+antimalarial quinolines. Biochemistry, vol. 43 (15), 2004, p. 4538-4547.
+Internet, https://pubmed.ncbi.nim.nih.gov/15078100/
+
+LALLOO, David G; SHINGADIA, Delane; BELL, David J. UK malaria
+treatment guidelines 2016. Journal of Infection, vol. 72 (6), 2016, p. 635-
+649. Intemet, https://www joumalofinfection.comyarticle/S0163-
+4453(16)00047-5/pdf
+
+LIU, Jia; CAO, Ruiyuan; XU, Mingyue; et al. Hydroxychloroquine, a less
+toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2
+infection in vitro. Cell Discovery, vol. 6 (1), 2020, p. 16. Internet,
+https://pubmed.ncbi.nim.nih.gov/32194981/
+
+LIU, Wenzhong & LI, Hualan. COVID-19: Attacks the 1-Beta Chain of
+Hemoglobin and Captures the Porphyrin to Inhibit Human Heme
+Metabolism. ChemRxiv, publicado em abril - online, 2020. Internet,
+https://chemrxiv.org/articles/COVID-
+
+19 Disease ORF8 and Surface Glycoprotein Inhibit Heme Metabolism by
+
+LOPES, Marcelo Antônio Cartaxo Queiroga; OLIVEIRA, Glaucia Maria Moraes
+de; RIBEIRO, Antônio Luiz Pinho. Diretriz da Sociedade Brasileira de
+Cardiologia sobre Telemedicina na Cardiologia - 2019. Arquivos Brasileiros
+de Cardiologia, publicado online, 2019. Internet,
+http://publicacoes.cardiol.br/portal/abc/portugues/aop/2019/aop-diretriz-
+telemedicina-portugues. pdf
+
+MAHASE, Elisabeth. Covid-19: what treatments are being investigated?
+British Medical Journal, vol. 368, 2020, m1i252. Internet,
+https://doi.ora/10.1136/bmj.mi252
+
+MEMBRILLO DE NOVALES, Francisco Javier; RAMÍREZ-OLIVENCIA, Germán;
+ESTÉBANEZ, Miriam; et al. Early hydroxychloroquine is associated with an
+increase of survival in COVID-19 patients: am observational study.
+Preprints, 2020. Internet,
+https://www.preprints.org/manuscript/202005.0057/vt
+
+MILLER, Douglas K & LENARD, John. Antihistaminics, local anesthetics, and
+other amines as antiviral agents. Proceedings of the National Academy of
+Sciences of the United States of America, vol. 78 (6), 1981, p. 3605-09.
+Intemet, https://pubmed.ncbi.nim.nih.gov/6115382/
+
+MILLION, Mathieu; LAGIER, Jean-Christophe; GAUTRET, Philippe; et al.
+Early treatment of COVID-19 patients with hydroxychloroquine and
+azithromycin: A retrospective analysis of 1061 cases in Marseille, France.
+Travel Medicine and Infectious Disease, publicado em maio - online, 2020.
+Internet, https://pubmed.ncbi.nim.nih.gov/32387409/
+
+OLOFSSON, Sigvard; KUMLIN, Urban; DIMOCK, Ken; et al. Avian influenza
+and sialic acid receptors: more than meets the eye? Lancet Infectious
+Diseases, vol 5 (3), 2005, p- 184-88. Internet,
+https://pubmed.ncbi.nim.nih.gov/15766653/
+
+PATON, N. I. & ABOULHAB, J. Hydroxychloroquine, hydroxyurea and
+didanosine as initial therapy for HIV-infected patients with low viral load:
+safety, efficacy and resistance profile after 144 weeks. HIV Medicine, vol.
+6, 2005, 13-20. Internet,
+https: onlinelibrary. wiley.com doi epdf/10.1111/j.1468-1293.2005.00259.x
+
+POON, Liona C.; YANG, Huixia; KAPUR, Anil; et al. Global Interim Guidance
+on coronavirus disease 2019 (COVID-19) during pregnancy and puerperium
+from FIGO and allied partners: Information for healthcare professionals.
+International Journal of Gynecology and Obstetetrics, publicado em abril -
+online, 2020. Internet,
+
+ 
+
+RIOU, Bruno; BARRIOT, Patrick; RIMAILHO, Alain; et al. Treatment of
+Severe Chloroquine Poisoning. The New England Journal of Medicine, vol.
+318 (1), 1988, p. 1-6. Internet,
+https://www.ncbi.nlm.nih.gov/pubmed/3336379
+
+RONGHUA, Jin; WU, Zhong. A prospective, open-label, multiple-center
+study for the efficacy of chloroquine phosphate in patients with novel
+coronavirus pneumonia (COVID-19). Chinese Clinical Trial Registry, 2020.
+Internet, http://www.chictrorg.cn/historyversionpuben.aspx?
+regno=ChiCTR2000031204
+
+Binding to Porphyrin/11938173
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+83.
+
+RUFATTI, Amelia; TONELLO, Marta; HOXHA, Ariela; et al. Effect of
+Additional Treatments Combined with Conventional Therapies in Pregnant
+Patients with High-Risk Antiphospholipid Syndrome: A Multicentre Study.
+Thrombosis and Haemostasis, vol. 118 (4), 2018, p. 639-646. Internet,
+https://pubmed.ncbi.nim.nih.gov/29490410/
+
+SAHRAEI, Zahra; SHABANI, Minoosh; SHOKOUNI, Sherin; et al.
+Aminoquinolines Against Coronavirus Disease 2019 (COVID-19):
+Chloroquine or Hydroxychloroquine. International Journal of Antimicrobial
+Agents, vol. 55 (4), 2020, 105945. Internet,
+https://pubmed.ncbi.nim.nih.gov/32194152/
+
+SANDERS, James M.; MONOGUE, Marguerite L.; JODLOWSKI, Thomasz Z.;
+et al. Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19)
+A Review. JAMA, vol. 323 (18), 2020, p. 1824-1836. Internet,
+https://jamanetwork.com/journals/jama/fullarticle/2764727
+
+SAVARINO, Adrea; BOELAERT, John R.; CASSONE, Antonio; et al. Effects of
+chloroquine on viral infections: an old drug against today's diseases. The
+Lancet Infectious Diseases, vol. 3(11), 2003, pp.722-727. Internet,
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC7128816,
+
+SAVARINO, Adrea; DI TRANI, Livia; DONATELLI, Isabella; et al. New
+insights into the antiviral effects of chloroquine. The Lancet Infectious
+Diseases, vol. 6 (2), 2006, p. 67-69. Internet,
+https://www.ncbi.nim.nih.gov/pmce/articles/PMC7129107,
+
+SAVARINO, Adrea; LUCIA, Mothanje B.; RASTRELLI, Elena; et al. Anti-HIV
+effects of chloroquine: inhibition of viral particle glycosylation and
+synergism with protease inhibitors. Journal of Acquired Immune Deficience
+Syndrome, vol 35 (3), 1996, p. 223-32. Internet,
+
+o of Chlorog
+
+  
+ 
+   
+
+   
+
+   
+ 
+ 
+
+SHIBATA, Motohiro; AOKI, Hiizu; TSURUMI, Tatsuya; et al. Mechanism of
+uncoating of influenza B virus in MDCK cells: action of chloroquine. Journal
+of General Virology, vol. 64 (5), 1983, p. 1149-56. Internet,
+ps://www.mi ra/co jou a U VZ2/UU
+
+1317-64-5-1149
+
+SILVA, Adriana P. R.; VITOLO, Márcia Regina; ZARA, Luis Fabrício; et al.
+Effects of zinc supplementation on 1- to 5-year old children. Jornal de
+Pediatria, vol. 82 (3), 2006, p- 227-231. Internet,
+https://www.scielo.br/scielo.php?pid=S0021-
+75572006000300013&script=sci arttext&ting=en
+
+SINGH, Awadhesh Kumar; SINGH, Akriti; SHAIK, Altamash, et al.
+Chloroquine and hydroxychloroquine in the treatment of COVID-19 with or
+without diabetes: A systematic search and a narrative review with a special
+reference to India and other developing countries. Diabetes & Metabolic
+Syndrome: Clinical Research & Reviews, vol. 14(3), 2020, p. 241-246.
+Intemet, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102587,
+
+SMITH, E. Reed; KLEIN-SCHWARTZ, Wendy. Are 1-2 dangerous?
+Chloroquine and hydroxychloroquine exposure in toddlers. The Journal of
+Emergency Medicine, vol. 28 (4), 2005, p. 437- 443. Intemet,
+https://www.jem-journal.com/article/S0736-4679(05)00030-2/fulltext
+TANG, Wei; CAO, Zhujun; HAN, Mingfeng; et al. Hydroxychloroquine in
+patients mainly with mild to moderate COVID-19: an open-label,
+randomized, controlled trial. medRxiv preprint, maio, 2020. Internet,
+https://www.bmj.com/content/369/bmj.m1849
+
+TINKU, Joseph (organizador). Intemational Pulmologist's Consensus On
+COVID-19 - 2nd Edition, 22 de abril 2020. Internet,
+https://www.saudedafamilia.org/coronavirus/artigos/international pulmonologists consensus.pdf
+
+VINCENT, Martin J.; BERGERON, Eric, BENJANNET Suzanne, et al.
+Chloroquine is a potent inhibitor of SARS coronavirus infection and spread.
+Virology Journal, vol. 2 (1), 2005, p. 69.
+
+WANG, Manli; CAO, Ruiyuan; ZHANG, Leike; et al. Remdesivir and
+chloroquine effectively inhibit the recently emerged novel coronavirus
+(2019-nCoV) in vitro. Cell Research, vol. 30, 2020, p. 269-271. Internet,
+
+https://www.nature.com/articles/s41422-020-0282-0
+
+WU, Chaomin; CHEN, Xiaoyan; CAI, Yanping; et al. Risk Factor Associated
+With Acute Respiratory Distress Syndrome and Death in Patients With
+Coronavirus Disease 2019 Pneumonia in Wuhan, china. JAMA Internal
+Medicine, 13 de março online, 2020. Internet,
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2763184
+
+   
+
+ 
+  
+
+        
+
+  
+    
+
+       
+ 
+84.
+
+65.
+
+66.
+
+67.
+
+YAO, Xueting; YE, Fei; ZHANG, Miao; et al. In vitro antiviral activity and
+projection of optimized dosing design of hydroxychloroquine for the
+treatment of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-
+2). Clinical Infectious Disease, publicado em março - online, 2020, ciaa
+237. Internet, https://www.ncbi.nim.nih.gov/pmc/articles/PMCZ 108130
+
+YU, Bo; WANG, Dao Wen; LI, Chenze. Hydroxychloroquine application is
+associated with a decreased mortality in critically ill patients with COVID-
+19. medRxiv preprint. Internet,
+https://www.medrxiv.org/content/10.1101/2020.04.27.20073379vi
+
+ZAHN, Zahng. Therapeutic effect of hydroxychloroquine on novel
+coronavirus pneumonia (COVID-19). Chinese Clinical Trial Registry.
+Publicado em abril - online, 2020. Internet,
+http://www.chictr.org.cn/showprojen. as px? proj =48880
+
+ZHAO, Xiaouxuan; JIANG, Yuepeng; ZHAO, Yang; et al. Analysis of the
+susceptibility to COVID-19 in pregnancy and recommendations on potential
+drug screening. European Journal of Clinical Microbiology & Infectious
+Diseases, publicado em abril - online, 2020, p. 1-12. Internet,
+https://www.ncbi.nim.nih.gov/pmce/articles/PMC7178925,
+
+Brasília, 20 de maio de 2020.
+
+= Documento assinado eletronicamente por Mayra Isabel Correia Pinheiro,
+
+Ss
+
+eletrônica Brasília, com fundamento no art. 6º, & 1º, do Decreto nº 8.539, de 8 de
+
+eletrônica Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de
+
+ 
+
+déróio Jo art. 69,5 10, do De u 015; e art. 8º, da
+
+seil já Secretário(a) de Gestão do Trabalho e da Educação na Saúde, em
+
+ppa 8 20/05/2020, às 20:36, conforme horário oficial de Brasília, com fundamento
+
+rônica no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+
+————, Documento assinado eletronicamente por Cleusa Rodrigues da Silveira
+seil já Bernardo, Secretário(a) de Atenção Especializada à Saúde,
+
+B Substituto(a), em 20/05/2020, às 20:49, conforme horário oficial de
+outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
++» Documento assinado eletronicamente por Robson Santos da Silva,
+seil jl Secretário(a) Especial de Saúde Indígena, em 20/05/2020, às 20:50,
+
+8 conforme horário oficial de Brasília, com fundamento no art. 6º, & 1º, do
+
+31 de Março de 2017.
+
+-— Documento assinado eletronicamente por Daniela de Carvalho Ribeiro,
+il Secretário(a) de Atenção Primária à Saúde, Substituto(a), em
+e 8 20/05/2020, às 20:57, conforme horário oficial de Brasília, com fundamento
+
+ 
+
+Portaria nº 900 de 31 de Março de DOI
+
+——  — Documento assinado eletronicamente por Vania Cristina Canuto Santos,
+seil Secretário(a) de Ciência, Tecnologia, Inovação e Insumos Estratégicos
+
+I 3 em Saúde, Substituto(a), em 20/05/2020, às 21:04, conforme horário
+
+eletrônica oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de
+
+8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+S
+
+o
+
+ 
+
+ 
+
+ 
+
+ 
+
+-—— Documento assinado eletronicamente por Wanderson Kleber de Oliveira,
+el Secretário(a) de Vigilância em Saúde, em 20/05/2020, às 22:20,
+o 3 conforme horário oficial de Brasília, com fundamento no art. 6º, & 1º, do
+
+eletrônica Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de
+
+31 de Março de 2017.
+-— Documento assinado eletronicamente por Antônio Elcio Franco Filho,
+
+seil Secretário-Executivo, Substituto, em 20/05/2020, às 23:36, conforme
+
+ee 3 horário oficial de Brasília, com fundamento no art. 6º, 8 19, do Decreto nº
+
+ 
+
+alatrônica 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de
+
+ 
+
+Março de 2017.
+
+A autenticidade deste documento pode ser conferida no site
+http: //seisaude.gov.br/sei/controlador externo.php?
+
+documento conferirkid orgao acesso externo=0, informando o
+4 código verificador 0014934763 e o código CRC 9DF7CALE.
+
+ 
+
+Referência: Processo nº 25000.070255/2020-12 SEI nº 0014934763
+
+Gabinete da Secretaria Executiva - GAB/SE
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site -saude.gov.br
+ANEXO A —- MODELO DE TERMO DE CIÊNCIA E CONSENTIMENTO
+
+Termo de Ciência e Consentimento
+
+Hidroxicloroquina/Cloroquina em associação com Azitromicina para COVID 19
+
+ 
+
+DIAGNOSTICO E TRATAMENTO
+
+ 
+
+Fui devidamente informado(a), em linguagem clara e objetiva pelo(a) médico(a), de que as
+avaliações médicas ou laboratoriais revelaram possibilidade ou comprovação de diagnóstico:
+
+COVID 19 causada pelo coronavírus SARS-COV-2
+
+E com base neste diagnóstico me foi orientado o seguinte tratamento/procedimento:
+
+Cloroquina ou Hidroxicloroquina em associação com Azitromicina
+
+ 
+
+OS PROCEDIMENTOS, SEUS BENEFÍCIOS, RISCOS E
+ALTERNATIVAS
+
+ 
+
+Fui devidamente informado(a), em linguagem clara e objetiva pelo(a) médico(a), que:
+
+1. A cloroquina e a hidroxicloroquina são medicamentos disponíveis há muitos anos para a
+prevenção e tratamento da malária e também para o tratamento de algumas doenças
+reumáticas como artrite reumatoide e lúpus. Investigadores chineses demostraram a
+capacidade dessas drogas de inibir a replicação do coronavírus em laboratório (in vitro). Um
+estudo francês mostrou que a eliminação do coronavírus da garganta de portadores da
+COVID-19 se deu de forma mais rápida com a utilização da combinação de hidroxicloroquina
+e o antibiótico azitromicina, quando comparados a pacientes que não usaram as drogas.
+Entretanto, não há, até o momento, estudos suficientes para garantir certeza de melhora clínica
+
+dos pacientes com COVID-19 quando tratados com cloroquina ouhidroxicloroquina;
+
+2. A Cloroquina e a hidroxicloroquina podem causar efeitos colaterais como redução dos
+glóbulos brancos, disfunção do fígado, disfunção cardíaca e arritmias, e alterações visuais por
+
+danos na retina.
+
+Compreendi, portanto, que não existe garantia de resultados positivos para a COVID-19 e que o
+
+medicamento proposto pode inclusive apresentar efeitos colaterais;
+
+Estou ciente de que o tratamento com cloroquina ou hidroxicloroquina associada à azitromicina pode
+causar os efeitos colaterais descritos acima e outros menos graves ou menos frequentes, os quais
+podem levar à disfunção de órgãos, ao prolongamento da internação, à incapacidade temporária ou
+
+permanente e até ao óbito.
+
+ 
+
+TERMO DE CIÊNCIA E CONSENTIMENTO HIDROXICLOROQUINA/CLOROQUINA- COVID 19
+Também fui informado(a) que, independente do uso da cloroquina ou hidroxicloroquina associada à
+azitromicina, será mantido o tratamento padrão e comprovadamente benéfico para minha situação,
+que pode incluir medidas de suporte da respiração e oxigenação, ventilação mecânica, drogas para
+sustentar a pressão e fortalecer o coração, hemodiálise e antibióticos, entre outras terapias oferecidas
+a pacientes que estão criticamente doentes.
+
+ 
+
+AUTORIZAÇÃO DO PACIENTE OU RESPONSÁVEL
+
+Por livre iniciativa, aceito correr os riscos supramencionados e dou permissão/autorização voluntária
+para que os medicamentos sejam utilizados da forma como foi exposto no presente termo;
+
+Esta autorização é dada ao(à) médico(a) abaixo identificado(a), bem como ao(s) seu(s) assistente(s)
+e/ou outro(s) profissional(is) por ele selecionado(s);
+
+Tive a oportunidade de esclarecer todas as minhas dúvidas relativas ao(s) procedimento(s), após ter
+lido e compreendido todas as informações deste documento, antes de sua assinatura;
+
+Apesar de ter entendido as explicações que me foram prestadas, de terem sido esclarecidas todas as
+dúvidas e estando plenamente satisfeito(a) com as informações recebidas, reservo-me o direito de
+revogar este consentimento antes que o(s) procedimento(s), objeto deste documento, se realize(m).
+
+, de : (hh:min)
+
+ 
+
+D Paciente OD Responsável
+
+Nome:
+
+ 
+
+Assinatura:
+
+ 
+
+ 
+
+DECLARAÇÃO DO MÉDICO RESPONSAVEL
+
+CONFIRMO que expliquei detalhadamente para o(a) paciente e/ou seu(s) familiar(es), ou
+responsável(eis), o propósito, os benefícios, os riscos e as alternativas para o tratamento(s)
+/procedimento(s) acima descritos, respondendo às perguntas formuladas pelos mesmos, e
+esclarecendo que o consentimento que agora é concedido e firmado poderá ser revogado a qualquer
+momento antes do procedimento. De acordo com o meu entendimento, o paciente ou seu responsável,
+está em condições de compreender o que lhes foi informado.
+
+, de de 20 : (hh:min)
+
+ 
+
+Nome do Médico: CRM:
+
+ 
+
+Assinatura:
+
+ 
+
+ 
+
+TERMO DE CIÊNCIA E CONSENTIMENTO HIDROXICLOROQUINA/CLOROQUINA- COVID 19
+ 
+
+AUT. REMANEJAMENTO No
+
+ 
+ 
+
+ 
+
+MINISTÉRIO DA SAUDE
+
+SECRETARIA EXECUTIVA
+
+ 
+
+DEPARTAMENTO DE LOGÍSTICA
+
+COORDENAÇÃO GERAL DE ARMAZENAGEM E DISTRIBUIÇÃO
+
+ 
+
+CENTRAL DE ARMAZENAGEM INSUMOS ESTRATEGICOS A SAÚDE
+
+24/08/2020
+
+ 
+
+PROGRAMA DE SAUDE
+
+ORIGEM
+
+DESTINO
+
+LOCAL
+ENDEREÇO
+fo)
+RESPONSÁVEL
+
+LOCAL
+ENDEREÇO
+[17
+RESPONSÁVEL
+
+Coordenação Geral de Assitência Farmacêutica de Medicamentos Estratégicos CGAFME
+
+Almoxarifado Estadual de Medicamentos - Maranhão
+nº 2409, Próximo ao Hospital Sarah, Fó em Deus
+
+Rua Estrada Vitória,
+[65037270
+Kaycke e Ana Clara
+
+Almoxarifado Estadual de Minas Gerais
+
+Av. Simão Antônio ,
+32371610
+ROSANE AUGUSTA
+
+nº 149, Cincão
+
+LUCINDO
+
+CIDADE. Contagem
+
+ITENS
+
+[ejlno)= São Luis
+
+[01:01] 2973240000106
+
+       
+          
+
+pla 030]1/=]98 - 3214-1544 / 98 - 98136-5867
+
+[0101:8]5366444000169
+
+Alado (31) 3356-2004 - 33563301 / 9 9471-4588
+
+ 
+
+ 
+
+ITEM
+
+CÓDIGO
+
+MEDICAMENTO
+
+QUANTIDADE
+
+UNIDADE
+
+LARGURA (CM|
+
+ALTURA (CM]
+
+COMPRIMENTO (CM|PESO REAL (KG] VALOR VALIDADE LOTE VOLUME
+
+ 
+
+Cloroquina 150mg
+
+100000
+
+Comp.
+
+R$ 0,0700] 31/08/2021 | 19080698
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ALOR TOTAL EXTRA UAU
+
+>
+
+ 
+09/09/2020, SIGAF:7,9.1.94
+
+RS pn x
+
+CADASTROS! “DISTRIBUIÇÃO. & GESTÃO DE ESTOQUE: RELATÓRIOS
+
+Exibe Entrada Simples.
+
+Nº Entrada Simples:  6156002200910000. y
+Estabelecimento de Saúde: ALMOXARIFADO DE MEDICAMENTOS SES/MG; à
+Status: Liberado. ú
+Executar: Sim
+Fornecedor
+
+Data Cadastro: 09/09/2020
+
+  
+
+1INISTÉRIO DA SAÚDE (DEPARTAMENTO DE LOGISTICA)
+
+    
+   
+
+ALTERAR ESTABELECIMENTO! ”- SAIR”
+
+Ar:
+
+Boa tarde,
+
+RAFAEL JAQUES
+
+ioga = AMOR
+MEDICAMENTOS SESIUG:
+
+, Sua sessão expira em
+Nº Autorização de Foneciment EP ge dê mins
+REMANEJAMENTO /
+67/2020 És Ajuda
+Descrição pendencia: 1
+Numero de Empenho: -
+Nome do Prograr PROGRAMACAO
+Tipo de Aquisição PEA
+tombo à
+Produto da Entrada Slimples A +
+a —— - Dom Seg Ter Qua; Qui, Séx/ Sáb
+Total Entrada Simples: [0,00 do INPE!
+in EA
+Medicamento da Entrada Simplés ; y su to mi ssh
+7 À 20 12122 4
+«1 |Medicamento (Apresentação Comercial): CLOROQUINA | COMPRIMIDO | 150] MG ” a 20,28 Ms
+FUNDAÇÃO OSWALDO
+Registro Anvisa/NS; 1106300940018.
+K Projeto: SAF. uantidade: 100000
+1) 3) : o A Agenda
+
+Data Fabricação: 00/00/0000 “Data Venc.: 31/08/2021
+
+ 
+
+Localização/ Endereçamento Fis
+
+ 
+
+ar o
+
+x Cadastro: 10810 - RAFAEL JAQUES
+
+ 
+
+5 + 09/09/2020 12512 = Ultima altoração;-10810 2 RAFAEL JAQUES SOARES"; 09/09/2020 17/12
+
+Ei o oi 62 ti Edo 5 des ca ereta DE TIA FACA! os sê ita: Sono (4 CI) It | said a
+
+Versão SIGAF 79.194,
+
+sigaf;saude.mg gov.br/ppsilsigaflindex php?page-metafviewBid. viewstb. entrada. 28. menu, aceséado=719)
+
+1
+RCONSR43 Governo do Estado de Minas Gerais Pag. :: 0001
+SIAD - Sistema Integrado de-Administracao de Materiais e Servicos 09/09/2020
+ç Espelho de Documento de' Saida de Material de Consumo - 16:52
+
+Orgao 1320 - SECRETARIA DE ESTADO DA SAUDE
+Almoxarifado 1321499 .— ALMOXARIFADO DE MEDICAMENTOS/SES
+
+ 
+
+Resp.doc 09830015610 - RAFAEL JAQUES SOARES
+Resp.Aceite 09830015610: - RAFAEL JAQUES SOARES
+Doador 00.394.544/0008-51 - ;
+Tipo” :/203 = ENTRADA POR: DOACAO É
+Data Documento + 24/08/2020 Data Contabilizacao-: 09092020 COMPLETO,
+Numero :2020.043035 | Valor Docto : 7.000,00 )
+Item Descricao Material É é Quant v1 Unit. Vl Total
+001 00049510-7 CLOROQUINA - COMPRIMIDO; 150 MG (000. 100000, 0000 0,07 7.000,00
+1.- 1 UNIDADE) e.
+
+Lote Validade . Fábricacao - Quantidade
+
+19080698 à 31/08/2021: 31/08/2019 100000,0000
+
+Convenio. q
+
+saw wa PIM- DO DOCUMENTO t+t444%
+ 
+
+GOVERNO DO ESTADO DE MINAS GERAIS E 7
+SECRETARIA DE ESTADO DE SAUDE É CONFERENTE LED
+SUBSECRETARIA DE INOVAÇÃO E LOGISTICA EM SAUDE
+
+SUPERINTENDENCIA DE GESTAO DATA: E io. Eu SG
+
+DIRETORIA DE LOGÍSTICA É PATRIMÔNIO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONFERÊNCIA DE CARGA
+FORNECEDOR: 4
+NF: / b 7% 11) DATA DE EMISSÃO: z ESTAR :
+ITEM / ESPECIFICAÇÃO: e TZ ques: avisa | LITÓOBAO 2a 1/6
+LOTE MÚLTIPLO;5Z] | QUANTIDADE FABRICANTE: 7 - FABRICAÇÃO:- 7 VALIDADE: |
+AROBOoLPB| À tsc] AOOGOO PIho N HA | osB1Y OR aa
+É Y 7 J
+É / E Je
+! !
+f f
+/ /
+! /
+/ !
+/ /
+/. !
+f !
+1 l
+LOTE QUANTIDADE: RUA | ALTURA | POSIÇÃO E: LOTE QUANTIDADE: RUA ALTURA * | POSIÇÃO f
+
+ 
+
+Joâpoo [E Y OL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+NÚMERO DA NOTA FISCAL: MN E
+“OS TENS ENTREGUES ESTÃO DE ACORDO COM AS: ESPEGIEICAÇÕES DAAR?
+OS ITENS ENTREGUES ESTÃO DE ACORDO COMA NOTA FISCAL?
+
+OS'LOTES E VALIDADES ESTÃO:DE ACORDO: COM:A NOTA FISCAL?
+
+A RUA TIDADE RECEBIDA ESTÁ DE ACORDO COM A NOTA: FISCAL,
+
+Rai Eu H
+
+TODAS AS CAIXAS DE EMBARQUE ESTÃO LACRADAS E IDENTIFICADAS?
+TODAS AS ETIQUETAS ESTÃO VISÍVEIS PARA MELHOR/CONFERÊNGIA?
+EMBALAGENS TERCIÁRIAS ESTÃO DEVIDAMENTE IDENTIFICADAS?
+
+NÚMERO DO LOTE, FABRICAÇÃO) VALIDADE, CÓDIGO DE BARRAS, LACRE, PRESENTES?
+EXISTEM CARAS: AVARIADAS? “1111
+
+ 
+
+OS VEÍCULOS QUE TRANSPORTAM'OS PRODUTOS SÃO ADEQUADOS? .
+/A TEMPERATURA ÉCONTROLADA DURANTE O TRANSPORTE?
+
+- JATEMPERATURA ESTÁ DE'ACORDO:COM O ESPECIFICADO?
+
+JO VEICULO ESTÁ'EM BOM ESTADO DE CONSERVAÇÃO E LIMPEZA? *,
+
+NOMESLEGÍVEL:
+ASSINATURA;
+DATA:
+
+ 
+
+“A Superintendência de ! Gestão é Finanças, A Comissão de Recebimento de Materiais, por seus membros infra-assinados,
+designados pela Resolução. ne /2011, apósa realização deste'check list referente-à Nota Fiscal e a Autorização de
+Fornecimento: especificadas, e após. conferência do solicitante do material atestada no verso da Nota Fiscal, exarou'o seguinte;
+parecer: - "O/objeto da compra foi conferido e está-de acordo com as especificações do. Pedido de Compras e Autorização de.
+Fornecimetno:e foi entregue dentro do praga pio: podendo ser efetuado o pagamento,
+
+ 
+
+ 
+
+ 
+

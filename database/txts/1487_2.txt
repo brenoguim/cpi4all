@@ -1,0 +1,2871 @@
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JAN/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 27.919,16
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.481,94
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.481,94
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 7.730,45
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.240,84
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 139,60
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 35.135,98 Desconto: 13.109,90 Liquido: 22.026,08
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: FEV/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.762,66
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.762,66
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.432,23
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.240,84
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 37.968,64 Desconto: 14.105,16 Liquido: 23.863,48
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAR/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.762,66
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.762,66
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.432,23
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.240,84
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 37.968,64 Desconto: 14.105,16 Liquido: 23.863,48
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: ABR/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.762,66
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.762,66
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.380,87
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.240,84
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 37.968,64 Desconto: 14.053,80 Liquido: 23.914,84
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.762,66
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.762,66
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.380,87
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.240,84
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 37.968,64 Desconto: 14.053,80 Liquido: 23.914,84
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+5609 ASTEC-CONVENIOS FIXA ......... NON v 2.097,68
+Ganhos: 37.919,91 Desconto: 16.507,92 Liquido: 21.411,99
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUL/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+5609 ASTEC-CONVENIOS FIXA ......... NON v 2.097,68
+Ganhos: 37.919,91 Desconto: 16.507,92 Liquido: 21.411,99
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: AGO/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+5609 ASTEC-CONVENIOS FIXA ......... NON v 2.097,68
+Ganhos: 37.919,91 Desconto: 16.507,92 Liquido: 21.411,99
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: SET/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+5609 ASTEC-CONVENIOS FIXA ......... NON v 2.246,50
+Ganhos: 37.919,91 Desconto: 16.656,74 Liquido: 21.263,17
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: OUT/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+5609 ASTEC-CONVENIOS FIXA ......... NON v 2.246,50
+Ganhos: 37.919,91 Desconto: 16.656,74 Liquido: 21.263,17
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: NOV/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0028 130 SALARIO INTEGRAL ......... 6 NON v 33.763,00
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.546,53
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 5.546,53
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5390 DESC.13.SAL.ADIANT. ...ccccres NON v 17.102,99
+Ganhos: 73.515,51 Desconto: 43.851,38 Liquido: 29.664,13
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: DEZ/2015 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+5609 ASTEC-CONVENIOS FIXA ......... NON v 1.848,02
+Ganhos: 37.919,91 Desconto: 16.258,26 Liquido: 21.661,65
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JAN/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 40.967,02 Desconto: 19.305,37 Liquido: 21.661,65
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: FEV/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 40.967,02 Desconto: 19.305,37 Liquido: 21.661,65
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: FEV/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5609 ASTEC-CONVENIOS FIXA ........+ NON v 1.848,02
+5800 REDUTOR PARA O TETO .......... - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 19.305,37 Liquido: 21.661,65
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAR/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 40.967,02 Desconto: 17.904,85 Liquido: 23.062,17
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAR/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5609 ASTEC-CONVENIOS FIXA ........+ NON v 447,50
+5800 REDUTOR PARA O TETO .......... - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 17.904,85 Liquido: 23.062,17
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: ABR/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 40.967,02 Desconto: 17.457,35 Liquido: 23.509,67
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: ABR/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 17.457,35 Liquido: 23.509,67
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 40.967,02 Desconto: 17.457,35 Liquido: 23.509,67
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 17.457,35 Liquido: 23.509,67
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 40.967,02 Desconto: 17.457,35 Liquido: 23.509,67
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 17.457,35 Liquido: 23.509,67
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUL/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 9.141,33
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 47.061,24 Desconto: 23.551,57 Liquido: 23.509,67
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUL/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 9.584,31
+Ganhos: 47.061,24 Desconto: 23.551,57 Liquido: 23.509,67
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: AGO/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+5800 REDUTOR PARA O TETO .......... - Ns v 442,98
+Ganhos: 37.919,91 Desconto: 14.410,24 Liquido: 23.509,67
+
+PF 12 Help PFs Flh: — Dt Ref.: —. Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: SET/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 210,00
+Ganhos: 40.967,02 Desconto: 17.457,35 Liquido: 23.509,67
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: SET/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 17.457,35 Liquido: 23.509,67
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: OUT/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 17.597,35 Liquido: 23.369,67
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: OUT/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 17.597,35 Liquido: 23.369,67
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: NOV/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0028 130 SALARIO INTEGRAL ......... 6 N v 33.763,00
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.570,90
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 5.570,90
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+Ganhos: 76.586,99 Desconto: 44.594,87 Liquido: 31.992,12
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Fundo: FFIN Sit: AO
+Status: A
+Ult.Flh: JUN/2021
+Tela 11
+
+Exclusivo:
+Inf +-- Valor ---+
+v 16.881,50
+v 350,00
+P 8.259,05
+v 3.490,09
+
+31.992,12
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS
+FICHAFINANCEIRA
+Ref: NOV/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa:
+Cod Descricao IR RG RP +- Base -+
+DES 5390 DESC.13.SAL.ADIANT. .....ccccos NON
+5445 ATRICON ...cccccertrccrareers NON
+5602 IMP. RENDA 13.SAL ...cccceeres NON 27,50
+5800 REDUTOR PARA O TETO .......... - Ns
+Ganhos: 76.586,99 Desconto: 44.594,87 Liquido:
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.:
+
+Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: DEZ/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 650,00
+Ganhos: 40.967,02 Desconto: 17.897,35 Liquido: 23.069,67
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: DEZ/2016 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 17.897,35 Liquido: 23.069,67
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JAN/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 17.597,35 Liquido: 23.369,67
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JAN/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 17.597,35 Liquido: 23.369,67
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: FEV/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.324,85
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 17.597,35 Liquido: 23.369,67
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: FEV/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 17.597,35 Liquido: 23.369,67
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAR/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,00 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 1.858,07
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.130,57 Liquido: 22.836,45
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD
+Orgao...:
+Lotacao.:
+Servidor:
+
+Ref: MAR/2017
+Sit.Ficha
+Cod
+
+DES 5800 REDUTOR PARA O TETO
+
+PF 12 Help PFs
+
+019 TCE
+051.005.000.000 —
+000.297-6 A —
+
+CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Grupo: 019 Vinc: A Fundo: FFIN Sit: AQ
+COORDENADOR DA ESC.DE CONTAS Status: A
+
+YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+
+Folha:
+
+Mês Ref: AO
+Descricao
+
+40.967,02 Desconto:
+
+7
+
+10 MENSAL
+
+Codigo Pesquisa: Exclusivo:
+
+IR RG RP +- Base -+ Inf +-- Valor --—+
+cer rea - N s v 3.490,09
+18.130,57 Liquido: 22.836,45
+
+-PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: ABR/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.035,16
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: ABR/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.035,16
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.035,16
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUL/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.035,16
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUL/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: AGO/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.035,16
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: AGO/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: SET/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.035,16
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: SET/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: OUT/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.035,16
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: OUT/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: NOV/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0028 130 SALARIO INTEGRAL ......... 6 N v 33.763,00
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.035,16
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5327 AMAZONPREV 13.SAL. ..cccereres 6 NON v 3.713,93
+Ganhos: 74.730,02 Desconto: 50.932,97 Liquido: 23.797,05
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: NOV/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5346 ASTEC ..ccccccccccecerccrerecos NON 5,50 P 152,36
+5390 DESC.13.SAL.ADIANT. ...ccccres NON v 21.673,66
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5602 IMP. RENDA 13.SAL ...cccceeres NON 27,50 P 7.237,72
+5800 REDUTOR PARA O TETO .......... - Ns v 3.490,09
+Ganhos: 74.730,02 Desconto: 50.932,97 Liquido: 23.797,05
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: —. Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: DEZ/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.035,16
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: DEZ/2017 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JAN/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.035,16
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JAN/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.307,66 Liquido: 22.659,36
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: FEV/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+GAN 0013 REPRESENTACAO TEMP. .....cccos + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 9.284,82
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.098,87
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 19.397,14 Liquido: 21.569,88
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD
+Orgao...:
+Lotacao.:
+Servidor:
+
+Ref: FEV/2018
+
+Sit.Ficha
+Cod
+
+PF 12 Help PFs
+
+019 TCE
+051.005.000.000 —
+000.297-6 A —
+
+CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Grupo: 019 Vinc: A Fundo: FFIN Sit: AQ
+COORDENADOR DA ESC.DE CONTAS Status: A
+
+YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+
+Folha:
+
+Mês Ref: AO
+Descricao
+DES 5800 REDUTOR PARA O TETO
+
+40.967,02 Desconto:
+
+7
+
+10 MENSAL
+
+Codigo Pesquisa: Exclusivo:
+
+IR RG RP +- Base -+ Inf +-- Valor --—+
+cer rea N s v 3.490,09
+19.397,14 Liquido: 21.569,88
+
+-PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAR/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.098,87
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.371,37 Liquido: 22.595,65
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD
+Orgao...:
+Lotacao.:
+Servidor:
+
+Ref: MAR/2018
+
+Sit.Ficha
+Cod
+
+PF 12 Help PFs
+
+019 TCE
+051.005.000.000 —
+000.297-6 A —
+
+CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Grupo: 019 Vinc: A Fundo: FFIN Sit: AQ
+COORDENADOR DA ESC.DE CONTAS Status: A
+
+YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+
+Folha:
+
+Mês Ref: AO
+Descricao
+DES 5800 REDUTOR PARA O TETO
+
+40.967,02 Desconto:
+
+7
+
+10 MENSAL
+
+Codigo Pesquisa: Exclusivo:
+
+IR RG RP +- Base -+ Inf +-- Valor --—+
+cer rea N s v 3.490,09
+18.371,37 Liquido: 22.595,65
+
+-PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: ABR/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5252 AMAZONPREV ...cccceccrccrerecos - NON v 3.713,93
+5253 IMPOSTO DE RENDA .....ccccereo NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+Ganhos: 40.967,02 Desconto: 18.569,00 Liquido: 22.398,02
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: ABR/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 5800 REDUTOR PARA O TETO .......c.s Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.569,00 Liquido: 22.398,02
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.569,00 Liquido: 22.398,02
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .......... NON v 3.713,93
+Ganhos: 40.967,02 Desconto: 18.569,00 Liquido: 22.398,02
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.569,00 Liquido: 22.398,02
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .......... NON v 3.713,93
+Ganhos: 40.967,02 Desconto: 18.569,00 Liquido: 22.398,02
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUL/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.569,00 Liquido: 22.398,02
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUL/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .......... NON v 3.713,93
+Ganhos: 40.967,02 Desconto: 18.569,00 Liquido: 22.398,02
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: AGO/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 307,07
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.569,00 Liquido: 22.398,02
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: AGO/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .......... NON v 3.713,93
+Ganhos: 40.967,02 Desconto: 18.569,00 Liquido: 22.398,02
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: SET/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.601,82 Liquido: 22.365,20
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: SET/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .......... NON v 3.713,93
+Ganhos: 40.967,02 Desconto: 18.601,82 Liquido: 22.365,20
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: OUT/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.601,82 Liquido: 22.365,20
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: OUT/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .......... NON v 3.713,93
+Ganhos: 40.967,02 Desconto: 18.601,82 Liquido: 22.365,20
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: NOV/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0028 130 SALARIO INTEGRAL ......... 6 NON v 33.763,00
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+0292 ABONO PERM IR 13SAL .......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.280,38
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+Ganhos: 78.443,95 Desconto: 52.248,46 Liquido: 26.195,49
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD
+
+Orgao...:
+Lotacao.:
+Servidor:
+
+Ref: NOV/
+Sit.Ficha
+Cod
+
+DES 5390
+
+5445
+
+5602
+
+5800
+
+6047
+
+6048
+
+CONSULTA CADASTRO DE PESSOAL
+
+FICHAFINANCEIRA
+
+019 TCE Grupo: 019 Vinc:
+051.005.000.000 - COORDENADOR DA ESC.DE CONTAS
+000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS
+2018 Folha: 10 MENSAL
+
+Mês Ref: AO
+
+Descricao
+DESC. 13.SAL.ADIANT. .....c....
+ATRICON ..cccccctccrrccrarrrrs
+IMP. RENDA 13.SAL ..cccccttrs
+REDUTOR PARA O TETO ..........
+C/P-AMAZONPREV FFIN ..........
+C/P 13 AMAZONPREV FF .........
+
+Codigo Pesquisa:
+
+RG RP +- -+ Inf +--
+
+Zzz222
+zz0uza
+qaa<ams
+
+N608-M604
+
+FFIN Sit: AO
+
+Status: A
+JUN/2021
+Tela 11
+
+Exclusivo:
+valor ---+
+21.673,66
+
+350,00
+
+7.237,72
+3.490,09
+3.713,93
+3.713,93
+
+PF 12 Help PFs 7 -PAG 8 +PAG
+
+78.443,95 Desconto:
+
+52.248,46 Liquido:
+
+Dt Ref.:
+
+26.195,49
+
+Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: DEZ/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.047,11
+0030 SUBSIDIOS ....ccccccccreteers + ss v 30.471,10
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 3.713,93
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 3.734,88
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 8.259,05
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 152,36
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 3.490,09
+Ganhos: 40.967,02 Desconto: 18.601,82 Liquido: 22.365,20
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: DEZ/2018 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .......... NON v 3.713,93
+Ganhos: 40.967,02 Desconto: 18.601,82 Liquido: 22.365,20
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JAN/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 19.968,88 Liquido: 26.349,73
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JAN/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 19.968,88 Liquido: 26.349,73
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: FEV/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.296,50
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 19.968,88 Liquido: 26.349,73
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: FEV/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 19.968,88 Liquido: 26.349,73
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAR/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.391,12
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 20.063,50 Liquido: 26.255,11
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAR/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 20.063,50 Liquido: 26.255,11
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: ABR/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.616,18
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: ABR/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.616,18
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.616,18
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUL/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.616,18
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUL/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: AGO/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.616,18
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: AGO/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: SET/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.616,18
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: SET/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: OUT/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.616,18
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: OUT/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: NOV/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0028 130 SALARIO INTEGRAL ......... 6 NON v 39.293,32
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+0292 ABONO PERM IR 13SAL .......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 10.968,52
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.616,18
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+Ganhos: 89.934,20 Desconto: 58.935,13 Liquido: 30.999,07
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: — Dt Ref.: Navegacao
+TCE- PROD
+
+Orgao...: 019 TCE
+Lotacao.: 051.005
+Servidor: 000.297
+
+Ref: NOV/2019
+Sit.Ficha Mês Ref
+Cod Descri
+DES 5390 DESC.13
+5445 ATRICON
+5602 IMP. RE
+
+5800 REDUTOR PARA O TETO
+6047 C/P-AMAZONPREV FFIN
+
+CONSULTA CADASTRO DE PESSOAL N608-M604
+Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+
+«000.000 — COORDENADOR DA ESC.DE CONTAS Status: A
+-6 A — YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHA FINANCEIRA Tela 11
+
+Folha: 10 MENSAL
+
+: AO Codigo Pesquisa: Exclusivo:
+cao IR RG RP +- Base -+ Inf +-- Valor ---+
+«SAL .ADIANT. .......... N N v 24.544,40
+Certa raras resta NON v 350,00
+NDA 13.SAL ..ccccceceo NON 27,50 P 8.591,27
+Certas - Ns v 2.703,02
+Certas - NON v 4.322,27
+6048 C/P 13 AMAZONPREV FF ......... 6 N N v 4.322,27
+89.934,20 Desconto: 58.935,13 Liquido: 30.999,07
+
+PF 12 Help PFs
+
+7
+
+-PAG 8 +PAG
+
+Flh: Dt Ref.: —. Navegacao
+Lotação da Ficha Diferente do Cadastro. Para Visualizar, Tecle PF6
+
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: DEZ/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0013 REPRESENTACAO TEMP. ....cccees + ss v 3.546,22
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.322,27
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.779,89
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.616,18
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+5800 REDUTOR PARA O TETO .......... - Ns v 2.703,02
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: —. Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: DEZ/2019 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+DES 6047 C/P-AMAZONPREV FFIN .....ccc0s - NON v 4.322,27
+Ganhos: 46.318,61 Desconto: 20.288,56 Liquido: 26.030,05
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JAN/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.229,51
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.616,18
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 4.229,51
+Ganhos: 42.679,63 Desconto: 17.260,90 Liquido: 25.418,73
+PF 12 Help PFs Flh: Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: FEV/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.229,51
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 4.229,51
+Ganhos: 42.679,63 Desconto: 17.360,06 Liquido: 25.319,57
+
+PF 12 Help PFs
+
+Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAR/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.229,51
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 4.229,51
+Ganhos: 42.679,63 Desconto: 17.360,06 Liquido: 25.319,57
+
+PF 12 Help PFs
+
+Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.229,51
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 4.229,51
+Ganhos: 42.679,63 Desconto: 17.360,06 Liquido: 25.319,57
+
+PF 12 Help PFs
+
+Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 4.229,51
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 4.229,51
+Ganhos: 42.679,63 Desconto: 17.360,06 Liquido: 25.319,57
+
+PF 12 Help PFs
+
+Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUL/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.513,57 Liquido: 25.319,57
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: AGO/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.513,57 Liquido: 25.319,57
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: SET/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.513,57 Liquido: 25.319,57
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: OUT/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.513,57 Liquido: 25.319,57
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: NOV/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0028 130 SALARIO INTEGRAL ......... 6 NON v 38.450,12
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+0292 ABONO PERM IR 13SAL .......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 11.028,34
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5390 DESC.13.SAL.ADIANT. ...ccccres NON v 24.544,40
+Ganhos: 87.666,28 Desconto: 57.989,00 Liquido: 29.677,28
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL
+
+Fundo
+
+ult
+
+Inf
+v
+
+P
+v
+v
+
+N608-M604
+
+: FFIN Sit: AO
+Status: A
+-«Flh: JUN/2021
+Tela 11
+
+Exclusivo:
++-- Valor ---+
+350,00
+8.067,68
+5.383,02
+5.383,02
+
+29.677,28
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS
+FICHAFINANCEIRA
+Ref: NOV/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa:
+Cod Descricao IR RG RP +- Base -+
+DES 5445 ATRICON ...ccccccctcerccrerecs NON
+5602 IMP. RENDA 13.SAL ...cccceeres NON 27,50
+6047 C/P-AMAZONPREV FFIN .....ccces - NON
+6048 C/P 13 AMAZONPREV FF ......... 6 NON
+Ganhos: 87.666,28 Desconto: 57.989,00 Liquido:
+PF 12 Help PFs 7 -PAG 8 +PAG Flh: | Dt Ref.:
+
+Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: DEZ/2020 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.513,57 Liquido: 25.319,57
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JAN/2021 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 2.715,34
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.513,57 Liquido: 25.319,57
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: FEV/2021 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 3.114,06
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.912,29 Liquido: 24.920,85
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAR/2021 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 3.114,06
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.912,29 Liquido: 24.920,85
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: ABR/2021 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 3.114,06
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.912,29 Liquido: 24.920,85
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: MAI/2021 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 3.114,06
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.912,29 Liquido: 24.920,85
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+TCE- PROD CONSULTA CADASTRO DE PESSOAL N608-M604
+
+Orgao...: 019 TCE Grupo: 019 Vinc: A Fundo: FFIN Sit: AO
+Lotacao.: 051.005.000.000 - COORDENADOR DA ESC.DE CONTAS Status: A
+Servidor: 000.297-6 A - YARA AMAZONIA LINS R DOS SANTOS Ult.Flh: JUN/2021
+FICHAFINANCEIRA Tela 11
+Ref: JUN/2021 Folha: 10 MENSAL
+Sit.Ficha Mês Ref: AO Codigo Pesquisa: Exclusivo:
+Cod Descricao IR RG RP +- Base -+ Inf +-- Valor --—+
+0030 SUBSIDIOS ....ccccccccreteers + ss v 35.462,22
+0290 ABONO PERMANENCIA IR ......... + NON 100,00 P 5.383,02
+VAN 0405 VANT.PES.LC68/2009 ........ 00. + ss v 2.987,90
+DES 5253 IMPOSTO DE RENDA ......cccceos NON 27,50 P 9.548,01
+5272 CAPEMISA PREV/SEG. ...ccccereo NON v 3.114,06
+5278 BRADESCO SEGUROS S/A ......... NON v 339,89
+5346 ASTEC ..ccccccccererccrareers NON 5,50 P 177,31
+5445 ATRICON ...cccccertrccrareers NON v 350,00
+6047 C/P-AMAZONPREV FFIN .....ccces - NON v 5.383,02
+Ganhos: 43.833,14 Desconto: 18.912,29 Liquido: 24.920,85
+
+PF 12 Help PFs Flh: — Dt Ref.: Navegacao
+05/07/2021 SEI/TCEAM - 01/2221 - Informação
+
+ 
+
+TRIBUNAL DE CONTAS DO ESTADO DO AMAZONAS
+DIRETORIA DE RECURSOS HUMANOS
+
+INFORMAÇÃO Nº 16/2021/DRH
+
+Em atenção ao Despacho nº 3495/2021-GP, constante nos autos, esta Diretoria anexou os
+documentos solicitados, nos termos do Parecer nº 871/2021 - DJUR.
+
+É a informação.
+
+il
+sell a
+assinatura
+eletrônica
+
+   
+ 
+ 
+  
+
+Documento assinado eletronicamente por Beatriz de Oliveira Botelho, Diretor(a) de Recursos
+Humanos, em 05/07/2021, às 15:13, conforme horário oficial de Manaus, com fundamento na Lei nº
+11.419, de 19 de dezembro de 2006, Decreto nº 8.539, de 8 de outubro de 2015, Portaria n. 01-
+SEGER/GP/TCE/AM, de 14 de dezembro de 2018.
+
+  
+ 
+
+ 
+
+: A autenticidade deste documento pode ser conferida no site https://seitce.am.gov.br/sei/autenticar,
+it informando o código verificador 0172221 e o código CRC 81516429.
+
+ 
+
+Referência: Processo nº 004879/2021 SElnº 0172221
+
+eitce.am.gov.br/seilcontrolador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=200974&infra sist... 1/1
+
+ 
+05/07/2021 SEI/TCEAM - 01/1922 - Parecer
+
+ 
+
+TRIBUNAL DE CONTAS DO ESTADO DO AMAZONAS
+DIRETORIA JURÍDICA
+
+PARECER Nº 871/2021/DIJUR
+
+Processo
+Nº: 004879/2021
+Tipo: ADM - Solicitações Diversas dos Membros do TCE/AM e MPC
+
+Especificação: Ofício nº1697/2021-CPIPANDEMIA
+Interessado: Senador Omar Aziz
+
+Senhor Conselheiro Presidente,
+
+Os presentes autos foram remetidos a esta DIJUR para fins de manifestação sobre os pedidos procedentes
+do Senado Federal, subscritos pelo Presidente da CPI da Pandemia, Senador Omar Aziz, requisitando deste
+Tribunal informações sobre os seguintes assuntos:
+
+a) Ofício nº 1697/2021 — CPIPANDEMIA (0171080), solicitando esclarecimentos acerca de todos os
+pagamentos efetuados em favor da Conselheira Yara Amazônia Lins Rodrigues dos Santos, desde 2015 até a
+presente data, informando valores de salários, benefícios, indenizações, PAE, e outros, a qualquer título, no
+prazo de 5 (cinco) dias corridos;
+
+b) Ofício nº1692/2021-CPIPANDEMIA (0171461), requerendo o encaminhamento de relatório dos
+acessos do Advogado André Luiz Guedes da Silva - OAB AM 5261 neste TCE/AM, desde novembro de
+2019 até a presente data, inclusive com o envio das respectivas imagens das câmeras de segurança;
+
+A fim de tornar o contexto mais didático, este Jurídico irá discorrer primeiramente sobre o cenário que
+envolve o pedido, objeto do Ofício nº 1692/2021 - CPIPANDEMIA, mencionado anteriormente na alínea
+pr
+
+Ofício nº 1692/2021 - CPIPANDEMIA:
+
+1. A Diretoria de Assistência Militar, por meio do Memorando nº204/2021/DIAM (0171463), subscrito pelo
+Sr. Diretor da DIAM, remeteu ao Gabinete da Presidência, o Relatório (0171464), com as informações e
+esclarecimentos necessários ao atendimento do Ofício em questão.
+
+2. Considerando a exiguidade do prazo estabelecido pelo Presidente da CPI, no dia 02 de julho do corrente,
+foi expedido o Ofício nº 1015/2021-GP-TCE/AM (0171676), enviando o relatório com as informações dos
+acessos do Advogado André Luiz Guedes da Silva, ao Senador Omar Aziz.
+
+https://sei.tce.am.gov.br/sei/controlador. php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=2006498infra sist... 1/4
+05/07/2021 SEI/TCEAM - 01/1922 - Parecer
+
+Ofício nº 1697/2021 - CPIPANDEMIA:
+
+1. Essa demanda ainda permanece em trâmite neste Tribunal e a esse respeito, este Jurídico irá discorrer
+com mais detalhes, tendo em vista os desdobramentos que a natureza desse pedido, advindo da CPI da
+Pandemia, ocasionou.
+
+2. Na 6a feira, dia 02 de julho, a Dra. Gina Moraes de Almeida, Advogada da Excelentíssima Senhora
+Conselheira Yara Amazônia Lins dos Santos, apresentou uma petição (0171465) por meio da qual, deu
+ciência ao Exmº Sr. Conselheiro Presidente da medida liminar proferida em sede de Mandado de Segurança
+nº38031, da lavra do ministro do STF, Luís Roberto Barroso, cuja finalidade fora impedir a quebra dos
+sigilos fiscal, bancário, telefônico e telemático da Conselheira Yara Lins.
+
+3. No mesmo documento (0171465), protocolizado neste TCE pela Procuradora da ilustre Conselheira,
+foram requeridas informações da Presidência, num prazo de 24 (vinte e quatro) horas, cuja resposta fora
+endereçada na mesma data, pelo Ofício nº 1014/2021-GP-TCE/AM (0171611), com todos os
+esclarecimentos solicitados, fazendo menção ao Despacho nº 34562021/GP (0171495), destinado à
+Conselheira Interessada, enfatizando que as demandas foram autuadas no SEI sob o nº
+
+004879/2021, processo este que tramita em sigilo, estando ainda em fase instrutória, sem que tenha sido
+encaminhada à CPI da Pandemia do Senado Federal qualquer resposta por esta Colenda Corte, até
+aquela data 02/07/2021.
+
+4. Por meio do DESPACHO Nº 3453/2021/GP (0171468), em razão da Liminar concedida nos autos do
+Mandado de Segurança nº38031, onde figuram como Impetrantes as senhoras YARA AMAZONIA LINS
+RODRIGUES DOS SANTOS (Conselheira desta Casa de Contas) e sua filha TERESA RAQUEL
+RODRIGUES BAIMA RABELO, a Presidência determinou a remessa dos autos à esta Diretoria Jurídica,
+para fins de ciência e manifestação técnico-jurídica acerca do caso em tela.
+
+É o Relatório.
+
+Cumpre opinar.
+
+De acordo como 83º do art. 58, da Constituição de 1988, as CPIs serão instituídas para apuração de “fato
+determinado”.
+
+No caso da atual CPI do Senado Federal, o fato determinado que motivou sua instalação foi "apurar as
+ações e omissões do Governo Federal no enfrentamento da pandemia da covid-19 no Brasil e, em especial,
+no agravamento da crise sanitária no Amazonas com a ausência de oxigênio para os pacientes internados".
+
+Logo, partindo desse pressuposto e comparando com as alegações e fundamentos do Ministro Barroso, em
+sua decisão, extraímos os seguintes trechos:
+
+a)"... não identifico situações concretas referentes às impetrantes que justifiquem suspeitas fundadas
+da prática de atos ilícitos por elas. Ainda que um dos objetivos principais da CPI federal seja a apuração da
+
+https://sei.tce.am.gov.br/sei/controlador. php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=2006498infra sist... 2/4
+05/07/2021 SEI/TCEAM - 01/1922 - Parecer
+
+crise sanitária no Estado do Amazonas, o requerimento impugnado não fornece indícios suficientes de
+participação das impetrantes em ilícitos relacionados ao tema" . ( grifei)
+
+b) "Embora a justificação do requerimento impugnado, referindo-se ao Deputado estadual, também faça
+menção ao “expressivo e acelerado aumento patrimonial de sua família, especificamente em relação aos
+bens de sua mãe, de sua irmã e de sua esposa” — o que poderia ser apontado como conduta imputável às
+requerentes —, não há a indicação de que essa suspeita específica guarde relação com os objetos da CPI
+federal, seja com a apuração da crise sanitária no Amazonas ou com a investigação do uso de recursos
+federais por Estados e Municípios." (grifei)
+
+ 
+
+ 
+
+c) "Os pedidos veiculados são excessivamente amplos, abrangendo o fornecimento da integra de múltiplas
+declarações fiscais, de conversas mantidas pelas requerentes, da sua relação de contatos, dos arquivos
+armazenados em nuvens, da cópia integral de mensagens de correio eletrônico, das informações de
+localização dos seus dispositivos eletrônicos, do seu histórico de pesquisas ." (o original não é grifado)
+
+d) "Os requerimentos não especificam quais informações e dados dentro desse universo guardariam
+
+Dessa forma, comprovado está que a liminar em favor da Conselheira Interessada, com a finalidade de
+impedir o fornecimento de suas informações financeiras e telefônicas, por exemplo, fora alicerçada na falta
+de nexo entre o pedido e o fato determinado para o qual a CPI fora instalada, uma vez que, para a situação
+em análise, o fato determinado é a investigação de ações, erros e omissões apenas e tão-somente do Poder
+Executivo federal no enfrentamento da pandemia de covid-19 no Brasil e a crise sanitária no Amazonas, sem
+a demonstração determinada de qualquer interferência da Impetrante do mandamus, a justificar a pretensão
+do ilustre Senador, Presidente da CPI, na obtenção das informações requestadas.
+
+Outro aspecto notabilizado na relatoria do Ministro, diz respeito ao fato de que ao requisitar as quebras dos
+sigilos o Presidente da CPI não esclarece a utilidade das informações e dados solicitados para fins de
+investigação ou instrução probatória. O Presidente da CPI, segundo o Ministro Barroso, não aponta em
+que medida o acesso ao conteúdo das informações financeiras da Conselheira teria utilidade para a
+verificação das ações e omissões de autoridades do Governo Federal no enfrentamento à pandemia.
+
+Portanto, ao deferir o pedido liminar para impedir a quebra dos sigilos fiscal, bancário, telefônico e
+telemático das impetrantes registre-se : da Conselheira Yara Lins o deferimento de Cautelar pelo
+Exmo. Sr. Ministro Roberto Barroso, supostamente atingiria o cerne da requisição apresentada junto a
+esta Corte de Contas pelo Ofício nº 1697/2021 - CPIPANDEMIA, mas não o fez necessariamente, pois o
+pedido formulado no Mandado de Segurança não mencionou a requisição em questão, mas sim apenas a
+Fazenda Pública, razão por que tanto a Conselheira Yara Lins dos Santos, quanto a sua Patrona, Dra. Gina
+Almeida, devem ser imediatamente informadas sobre essa questão, pois não se enquadra nas hipóteses
+contempladas no MS de sigilo fiscal da ilustre Conselheira Interessada.
+
+Ante o exposto, o entendimento desta DIJUR inclina-se no sentido de concordar com todos os argumentos
+definidos pelo Ministro Barroso ao conceder a liminar, contudo diante da natureza do pedido objeto
+
+do Ofício nº 1697/2021 - CPIPANDEMIA, que não integrou o pedido do MS, deve este TCE/AM acatar a
+solicitação do Presidente da CPI da Pandemia, Senador Omar Aziz.
+
+ 
+
+eitce.am.gov.br/seilcontrolador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=200849&infra sist... 3/4
+05/07/2021 SEI/TCEAM - 01/1922 - Parecer
+
+Dessa forma, a conclusão deste Parecer é de que o Exmº Sr. Conselheiro Presidente deste Tribunal deve
+comunicar ao Senador, Presidente da CPI, da inviabilidade de pronto atendimento da requisição de
+informações sobre as indenizações pagas à Conselheira Yara Amazônia Lins Rodrigues dos Santos,
+retroativas a 2015, sobretudo a PAE, sendo viável esta Corte postular prorrogação de prazo, para o
+levantamento desses valores, uma vez que o período citado no ofício ultrapassa os últimos 05 (cinco) anos.
+Por conseguinte deve encaminhar os dados disponibilizados no Portal da Transparência, em conformidade
+coma LAI - LEIN?º 12.527, DE 18 DE NOVEMBRO DE 2011, posto que referentes aos pagamentos
+efetuados em favor da Conselheira Yara Lins.
+
+É o Parecer.
+
+DIRETORIA JURÍDICA DO TRIBUNAL DE CONTAS DO ESTADO DO AMAZONAS, Manaus, 03
+de julho de 2021.
+
+ 
+
+     
+
+Il
+Dicas (2)
+
+eletrônica
+
+    
+ 
+  
+
+Documento assinado eletronicamente por Rosanila Maria de Britto Feitoza Pantoja, Diretor(a) do
+Jurídico, em 05/07/2021, às 11:34, conforme horário oficial de Manaus, com fundamento na Lei nº
+11.419, de 19 de dezembro de 2006, Decreto nº 8.539, de 8 de outubro de 2015, Portaria n. 01-
+SEGER/GP/TCE/AM, de 14 de dezembro de 2018.
+
+  
+
+ 
+
+: A autenticidade deste documento pode ser conferida no site https://seitce.am.gov.br/sei/autenticar,
+its informando o código verificador 0171922 e o código CRC DACDA6F6.
+
+ 
+
+ 
+
+Referência: Processo nº 004879/2021 SEI nº 0171922
+
+ 
+
+eitce.am.gov.br/seilcontrolador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=200849&infra sist... 4/4
+

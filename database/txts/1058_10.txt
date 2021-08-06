@@ -1,0 +1,3207 @@
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+Data: / f PROTOCOLO Nº.
+
+ 
+
+Espaço para o Uso do CBMISE:
+
+ 
+
+Processo n.º / Data: f /.
+Observação:
+
+( ) Aprovação do Projeto
+( ) Revalidação(Processo Original nº / )
+( ) Parecer Técnico nº /
+
+( ) Substituição de Plantas
+
+ 
+
+Edificação:
+
+ 
+
+ 
+
+ 
+
+(JA Construir
+( ) Construída
+
+Assinatura do Analista/ Matrícula do CBMSE
+(Assinar por extenso e carimbar)
+
+ 
+
+ 
+
+Espaço para o Uso do cliente:
+
+ 
+
+Nome do Proprietário/Nome Fantasia: Fundo Municipal de Saúde de Aracaju / CNPJ: 11.718.406/0001-20
+
+ 
+
+Endereço da obra:
+Avenida Maranhao, S/N, Hospital Zona Norte Nestor Piva, Bairro Dezoito do Forte — Aracaju/Se
+
+ 
+
+Nome do projetista: Luiz Mário Neri Alfano Júnior
+
+ 
+
+Endereço: Rua França, 32 — Bairro Farolândia — Aracaju/Se
+
+ 
+
+Telefone: (79) 99988-2230 | E-mail: Imnajunior yahoo.com.br
+
+ 
+
+Classificação da Edificação quanto a(o):
+
+ 
+
+Risco conforme Tabela 1 da OTN 001/2013:
+( x )Baixo( )Médio ( )JAlto
+
+ 
+
+Altura entre pisos habitáveis conforme Tabela 1.2 da OTN 001/2013:
+(x )Tipol( )Tipoll( )Tipoll( )TipolV( )JTipoV ( )TipoMi
+Altura do Piso habitável: im - térreo
+
+ 
+
+Carga de Incêndio conforme Tabela A.1 (Anexo “A”) da OTN 001/2013: 300MJ/m?
+( ) Segue o cálculo da Carga de Incêndio específica conforme Anexo “C” da OTN 001/2013
+
+ 
+
+Ocupação conforme Anexo “D” da OTN 001/2013: Serviços de Saúde e Institucionais
+Grupo H
+Divisão H-3 - Hospitais em Geral
+
+ 
+
+Área Total Construída (Somatório de todas áreas cobertas): 2.645,02m?
+
+ 
+
+Área Total Construída conforme OTN 002/2013 (Especificar os locais isentos): 2.353,54m?
+Todos os banheiros e lavabos = 291,48m?
+
+ 
+
+Forma de Apresentação
+
+ 
+
+(x ) Aprovação do Projeto de Segurança Contra Incêndio e Pânico (PSCIP)
+
+ 
+
+ 
+
+() Revalidação do PSCIP
+
+ 
+
+Página Ide 21
+
+ 
+ 
+
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+( ) Substituição do PSCIP
+
+ 
+
+Informar se a edificação será:
+( JA Construir
+(x ) Construída
+
+ 
+
+Informar se haverá SPDA conforme Portaria 050/13:
+
+(x |siM( ) NÃO
+
+ 
+
+Instalações Preventivas de Proteção Contra Incêndio e Pânico (Decreto 63.911/2018 de São Paulo):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x | Acesso de Viatura do Corpo de Bombeiros. x. | Iluminação de Emergência
+Separação entre Edificações x. | Detecção de Incêndio.
+
+x | Segurança estrutural nas Edificações x. | Alarme de Incêndio
+
+x | Compartimentação Horizontal X. | Sinalização de Emergência
+Compartimentação Vertical x | Extintores
+
+x | Controle de Material de Acabamento x. | Hidrantes e Mangotinhos
+
+x | Saídas de Emergência Chuveiros Automáticos
+Elevador de Emergência Controle de Fumaça
+
+x | Brigada de Incêndio x. | Plano de Intervenção de Incêndio
+
+ 
+
+Riscos Especiais
+
+ 
+
+Armazenamento de líquidos inflamáveis
+
+Fogos de artifício
+
+ 
+
+Gás Liquefeito de Petróleo
+
+Vaso sob pressão (caldeira)
+
+ 
+
+ 
+
+Armazenamento de produtos perigosos
+
+ 
+
+Outros (especificar)
+
+ 
+
+ 
+
+ 
+
+Assinatura do Projetista/CREA/CAU
+(Assinar por extenso e Carimbar)
+
+ 
+
+Assinatura do Proprietário/Responsável
+(Assinar por extenso)
+
+ 
+
+Página 2de 21
+
+ 
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+Página 3de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MEMORIAL DESCRITIVO
+EXTINTORES
+Tipo de extintores dimensionados:
+(x) Portáteis: () Sobrerrodas:
+Quantidade total de unidades: 15 Quantidade total de unidades:
+Riscos especiais: Unidades extintoras extras:
+
+ 
+
+Agente Extintor
+(Quantidade/Capacidade)
+
+ 
+
+Casa de Caldeiras
+
+ 
+
+Casa de Forças Elétricas
+
+ 
+
+Casa de bombas PÓ ZA 20BC — 06KG / 1 UND
+PÓ 2A 20BC — 06KG/ 1 UND
+
+ 
+
+Queimadores
+
+ 
+
+Casa de máquinas
+
+ 
+
+Central de GLP
+
+ 
+
+Galerias de Transmissão
+
+ 
+
+ 
+
+Outros
+
+ 
+
+Dimensionamento e distribuição dos extintores:
+
+ 
+
+ 
+
+Agente | Carga | Pavimento [Área de] Quantidade de | Capacidad | Distância máxima|Risco do
+
+extintor pavimento | Unidade eextintora |a ser percorrida | pavimento
+extintora até o extintor
+
+PóABC |06kg |Térreo 1678,70m? [13 2A-20BC 25m Baixo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notas Técnicas
+
+Os extintores devem estar lacrados, com a pressão adequada e possuir selo de conformidade concedida
+por órgão credenciado pelo Sistema Brasileiro de Certificação (Inmetro) conforme IT 21 do CBPMESP
+vigente;
+
+O prazo de validade da carga e a garantia de funcionamento dos extintores deve ser aquele estabelecido
+pelo fabricante, se novo, ou pela empresa de manutenção certificada pelo Inmetro, se recarregado
+conforme IT 21 do CBPMESP vigente;
+
+Os extintores instalados em condições onde podem ocorrer danos físicos devem estar protegidos contra
+impactos conforme IT 21 do CBPMESP vigente;
+
+Os extintores não devem ser instalados em áreas com temperaturas fora da faixa de operação;
+
+Quando os extintores forem instalados em paredes ou divisórias, a altura de fixação do suporte deve
+variar, no máximo, entre 1,6 m do piso e de forma que a parte inferior do extintor permaneça, no mínimo,
+a 0,10 m do piso acabado.
+
+Assinatura do Proprietário Assinatura do Projetista/CREA
+(Assinar por extenso) (Assinar por extenso e carimbar)
+
+ 
+
+Página 4de 21
+
+ 
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+ILUMINAÇÃO DE EMERGÊNCIA
+
+ 
+
+Tipo de Sistema de Iluminação:
+
+ 
+
+(X) Conjunto de Blocos Autônomos;
+
+ 
+
+() Centralizado com baterias recarregáveis;
+
+ 
+
+() Centralizado com grupo motogerador com arranque automático(;
+
+ 
+
+() Outros:
+
+ 
+
+Ostipos de luminárias aplicáveis ao sistema de iluminação de emergência:
+
+ 
+
+() luminárias com lâmpadas incandescentes;
+
+ 
+
+() luminárias com lâmpadas fluorescentes;
+
+ 
+
+(x) projetores ou faróis;
+
+ 
+
+(X) luminárias com LED e outros geradores de luz pontual;
+
+ 
+
+() Outros:
+
+ 
+
+Tensão de alimentação das luminárias (Volts): 30v
+
+ 
+
+Potência das lâmpadas e luminárias, em watts: 12w
+
+ 
+
+Tempo de autonomia (h): Mínimo 1 h
+
+ 
+
+Nível de iluminamento no piso em locais planos (lux): 3 Lux
+
+ 
+
+Nível de iluminamento no piso com desnível (lux): 5 Lux
+
+ 
+
+Altura de instalação da Luminária de Emergência (em metros): 2,50m
+
+ 
+
+ 
+
+Raio de proteção da luminária de emergência (em metros): 5m
+
+ 
+
+Página 5de 21
+
+ 
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+ 
+
+Notas Técnicas
+
+Os aparelhos devem ser construídos de forma que, no ensaio de temperatura a 70 *C, a luminária funcione no
+mínimo por 1 h e eles sejam aprovados por organismos nacionais competentes conforme IT 18 do CBPMESP
+vigente.
+
+Os pontos de luz não devem ser instalados de modo a causar ofuscamento aos olhos, seja diretamente ou por
+iluminação refletida conforme IT 18 do CBPMESP vigente.
+
+Quando utilizado anteparo em luminárias fechadas, os equipamentos não podem ser projetados de modo que
+seja permitida a entrada de fumaça, para não prejudicar seu rendimento luminoso atual e futuro conforme IT
+18 do CBPMESP vigente.
+
+O material utilizado para a fabricação da luminária não pode propagar chamas, e em caso de sua combustão, os
+gases tóxicos não ultrapassem 1 % da fumaça produzida pela carga combustível existente no ambiente. Todas
+as partes metálicas, em particular os condutores e contatos elétricos, devem ser protegidos contra corrosão
+conforme IT 18 do CBPMESP vigente.
+
+Assinatura do Proprietário Assinatura do Projetista/CREA
+(Assinar por extenso) (Assinar por extenso e carimbar)
+
+ 
+
+Página 6de 21
+
+ 
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SINALIZAÇÃO DE EMERGÊNCIA
+Sinalização Básica
+(x) Sinalização de Orientação e Salvamento:
+Código Símbolo Significado Quantidad | Dimensões
+e
+s1 Saída De 3
+| 4 Emergência
+Ex: tels ou
+:
+et
+H = 12,5em
+L=25cm
+s2 Saída De 6
+Emergência H=12,5em
+L=25cm
+s3 Saída De 3
+Emergência H=12,5em
+L=25cm
+s& 1 H=12,5ecm
+Escada de L=25cm
+emergência
+sa Escada de 4
+emergência H=12,5ecm
+L=25cm
+s12 Saída de 4 H=12,5em
+emergência L=25cm
+s15 Fa Saída de A H=12,5ecm
+emergência( seta L=25cm
+EA para direita o
+esquerda)
+Cor do fundo: Verde
+Cor do Simbolo: Branco
+Altura de Instalação: 1.80m
+Tipo de Material: Fotoluminescente
+(x) Sinalização de equipamentos:
+Código | Símbolo Significado Quantidade Dimensões
+E3 Comando manual 4 Exemplo:
+de alarme
+ou bomba
+de incêndio lg
+= ou
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página 7de 21
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MEMORIAL DESCRITIVO
+'
+o,
+ALARME dom
+DE = 10cm
+INCÊNDIO
+Es Extintor de incêndio 13 H 20cm
+L=20em
+E7 Abrigo de mangueira e 3 H 20cm
+Hidrante L=20em
+ES Hidrante de incêndio 3 H 20cm
+L=20cm
+Cor do fundo : Vermelho
+Cor do Símbolo :Branco
+Altura de Instalação: 1.80m
+Tipo de Material: Fotoluminescente
+Código Símbolo Significado Quantidade
+M2 PES Indicação de|1
+120 pessoas sentad: lotação
+30 pessoas em pé máxima:
+admitida no
+recinto de
+reunião de
+público.
+Mi Esta edificação está dotada dos seguintes Indicação dos | 1
+Sistemas de Segurança contra Incêndio: sistemas de
+PRE
+pi ; proteção
+E contra
+eo incêndio
+existentes na
+edificação
+Altura de Instalação: 1.80m
+Tipo de Material: Fotoluminescente
+Código Símbolo Significado Quantidade
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página 8de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+(x )Sinalização de indicação continuada;
+
+ 
+
+ 
+
+ 
+
+Código Símbolo Significado Quantida | Dimensões
+de
+Exemplo: O a] Ex: Direção da rota de 48
+
+ci sáida.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Altura de Instalação: 25cm
+
+ 
+
+Tipo de Material: Fotoluminescente
+
+ 
+
+Notas Técnicas
+
+A sinalização de emergência deve destacar-se em relação à comunicação visual adotada para
+outros fins; não deve ser neutralizada pelas cores de paredes e acabamentos, dificultando a sua
+visualização;
+
+As expressões escritas utilizadas nas sinalizações de emergência devem seguir as regras, termos e
+vocábulos da língua portuguesa, podendo, complementarmente, e nunca exclusivamente, ser
+adotada outra língua estrangeira;
+
+Os materiais utilizados para a confecção das sinalizações de emergência devem possuir resistência
+mecânica, espessura suficiente para que não sejam transferidas para a superfície da placa possíveis
+irregularidades das superfícies onde forem aplicadas, não propagar chamas; resistir a agentes
+químicos e limpeza, à água e ao intemperismo.
+
+Os materiais que constituem a pintura das placas e películas devem ser atóxicos e não radioativos,
+devendo atender às propriedades colorimétricas, de resistência à luz e resistência mecânica.
+
+O material fotoluminescente deve atender à norma NBR 13434-3/05 — requisitos e métodos de
+ensaio.
+
+A sinalização de emergência complementar de rotas de saída aplicadas nos pisos acabados deve
+atender aos mesmos padrões exigidos para os materiais empregados na sinalização aérea do
+mesmo tipo.
+
+As demais sinalizações aplicadas em pisos acabados podem ser executadas em tinta que resista a
+desgaste, por um período de tempo considerável, decorrente de tráfego de pessoas, veículos e
+utilização de produtos e materiais utilizados para limpeza de pisos.
+
+A sinalização de emergência utilizada na edificação e áreas de risco deve ser objeto de inspeção
+periódica pelo responsável do empreendimento para efeito de manutenção, desde a simples
+limpeza até a substituição por outra nova, quando suas propriedades físicas e químicas deixarem
+de produzir o efeito visual para as quais foram confeccionadas.
+
+As correntes de suporte de elevação das placas de sinalização devem ser metálica
+
+Assinatura do Proprietário Assinatura do Projetista/CREA
+(Assinar por extenso) (Assinar por extenso e carimbar)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SAÍDA DE EMERGÊNCIA
+
+ 
+
+Página 9de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+MEMORIAL DESCRITIVO
+Tipo de Escada:
+() Escada Enclausurada Protegida ( ) Não Enclausurada (Escada Comum)
+( ) Escada Enclausurada à Prova de Fumaça (x ) Não Há Escada
+( ) Escada Pressurizada ( ) Outros
+
+ 
+
+( ) Escada Externa
+
+ 
+
+Área do maior pavimento:
+
+ 
+
+Tipo e quantidade de escadas (Tabela 03 )
+
+ 
+
+TIPO Quant. TIPO Quant.
+
+ 
+
+NE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESCADA (Lances)
+
+ 
+
+Degraus:
+
+ 
+
+Altura do Espelho:
+
+ 
+
+Largura do piso:
+
+ 
+
+PORTA(Material): Aço
+
+ 
+
+Dimensões (largura x altura):
+
+ 
+
+Tempo Resistência:
+
+ 
+
+Rampas
+Inclinações: 8% e 5%
+
+ 
+
+Corrimão: Vermelho
+
+ 
+
+Material: Aço galvanizado
+
+ 
+
+Altura: 70 e 90cm p/ rampas
+
+ 
+
+Distância máxima a Percorrer Conforme tabela 02 anexo “B” da IT11SP vigente
+
+ 
+
+PAVIMENTO DISTÂNCIA MÁXIMA A PERCORRER
+
+ 
+
+Térreo 60m
+
+ 
+
+ 
+
+ 
+
+Memorial de Cálculo da População Conforme IT11SP vigente (N=P/C):
+
+ 
+
+ 
+
+PAVIMENTO TÉRREO N (UNIDADES DE PASSAGEM)
+
+Leitos = 61x 1,5 = 92 pessoas PORTAS ACESSOS/DESCARGAS | ESCADASIRAMPAS
+N=176/30x0,55 = 3,23m |N = 176/30x0,55 =| Rampas =
+
+Ambulatório = 250,24m? / 7 = 36]. 6up 3,23m=6UP 176/22x0,55 = 4,40m
+
+pise. =>8UP
+
+Recepção = 277,54m? |! 7 = 40
+
+pessoas
+
+Cozinha = 30,74m? /7 = 5 Pessoas
+Depósito = 66,26m?/30 = 3
+
+ 
+
+TOTAL DE PESSOAS NO PRÉDIO =
+176
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notas Técnicas
+
+O piso das escadas e rampas deverão ser antiderrapantes com, no mínimo 0,5 de coeficiente de atrito
+dinâmico, conforme norma brasileira ou internacionalmente reconhecida, e permanecer antiderrapante
+com o uso;
+
+Os corrimãos resistirão a carga de 900N em qualquer direção e em ambos os sentidos;
+
+Assinatura do Proprietário Assinatura do Projetista/CREA
+(Assinar por extenso) (Assinar por extenso e carimbar)
+
+ 
+
+ 
+
+Página 10de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+HIDRANTES
+
+ 
+
+Tipo de Sistema:
+
+ 
+
+Abastecimento de água: Deso
+
+ 
+
+(x) Reservatório elevado(superior);
+
+ 
+
+(/ ) Reservatório com fundo elevado ou com fundo ao nível do solo, semi-enterrado ou subterrâneo
+(justificar);
+
+ 
+
+Outros:
+
+ 
+
+Quantidade de Reserva Técnica de Incêndio (m?): 8m?
+
+ 
+
+Tipo de construção do reservatório: Concreto
+
+ 
+
+Reservatório:
+
+ 
+
+() Reservatório exclusivo; Inferior
+
+ 
+
+(x) Reservatório fornece água para outros serviços: Superior
+
+ 
+
+Tipo de mangueira conforme tabela 4: Tipo 2
+
+ 
+
+Linhas de mangueiras por abrigo: 2
+
+ 
+
+Quantidade de lances: 2
+
+ 
+
+Comprimento de cada lance: (15m)
+
+ 
+
+Diâmetro: (40mm)
+
+ 
+
+Esguichos: Regulável
+
+ 
+
+Tipo: 2
+
+ 
+
+Diâmetro do requinte: (40mm)
+
+ 
+
+Tubulações: Vermelha
+
+ 
+
+Material: Aço galvanizado
+
+ 
+
+Diâmetro: (60mm sucção e 65 mm recalque)
+
+ 
+
+Bombas de combate: SCHNEIDER
+
+ 
+
+Modelo: BPI 22 R/F
+
+ 
+
+Altura manométrica: (55,0mca)
+
+ 
+
+Vazão: (403,33/min)
+
+ 
+
+Potência: (7,5cv)
+
+ 
+
+Quantidade: 2
+
+ 
+
+Tipo do sistema conforme tabela 3:
+
+ 
+
+Pressão nos hidrantes hidraulicamente mais desfavoráveis: (30mca)
+
+ 
+
+ 
+
+ 
+
+Ho1: 52,24m.c.a Ho2: 52,24m.c.a
+Vazão no hidrante hidraulicamente mais desfavorável: (I/min)
+Ho1: 150 1/min
+
+ 
+
+Apresentar o Memorial de Cálculo do Sistema de Hidrantes conforme IT22 do CBPMESP vigente:
+
+ 
+
+ 
+
+ 
+
+Todo conjunto é composto por duas bombas, acionadas por válvula de fluxo “FLOW
+SWCHT”, sendo 01 (um) elétrica, 01 (um) gasolina e, ambas com potência de 7,5 CV, para que se
+obtenha e mantenha a pressão necessária, de forma que atenda as exigências da IT 22/2019 do
+CBMSP, que prevê no Sistema Tipo 2 uma vazão mínima na válvula do hidrante mais desfavorável de
+
+150 L/min e uma pressão mínima na válvula do hidrante mais desfavorável de 30 m.c.a.
+
+ 
+
+A automatização da bomba principal e de reforço foi executada de maneira que, após a partida
+
+ 
+
+Página 1lde 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+ 
+
+do motor, seu desligamento seja somente manual no seu próprio painel de comando, localizado, na
+casa de bombas, conforme item C.1.6 do anexo C da IT 22/2019 do CBMSP.
+
+Será instalado um ponto de acionamento manual para as bombas principal ou de reforço, em
+um ponto seguro da edificação (na sala do diretor) que permita fácil acesso, conforme item C.1.7 do
+anexo C da IT 22/2019 do CBMSP.
+
+O painel de sinalização das bombas principal ou de reforço, elétrica, deverá ser dotado de uma
+botoeira para ligar manualmente tais bombas, possuindo sinalização ótica e acústica, indicando pelo
+menos os seguintes eventos: - Bomba Elétrica: a) Painel energizado, b) Bomba em Funcionamento, c)
+Falta de Fase, d) Falta de energia no comando da partida, conforme itens C.1.16 e C.1.16.1 do anexo
+C daIT 22/2019 do CBMSP.
+
+A automatização da bomba principal para somente ligá-la automaticamente deve ser feita
+através de pressostatos instalados conforme apresentado na Figura C.2, e ligados nos painéis de
+comando e chaves de partida dos motores de cada bomba. Conforme item C.1.15.2 IT22/2019
+CBMSP.
+
+A bomba a diesel deverá ter de acordo o item C.1.16.2 da IT 22:
+
+a) painel energizado;
+
+b) bomba em funcionamento;
+
+c) baixa carga da bateria;
+
+d) chave na posição manual ou painel desligado.
+
+O fincionamento automático será iniciado pela simples abertura de qualquer ponto de hidrante
+da instalação, conforme item C.1.8 do anexo C da IT 22/2019 do CBMSP.
+
+As bombas principais deverão atingir pleno regime em aproximadamente 30 s após a sua
+partida, de acordo item C.1.9 do anexo C da IT 22/2019 do CBMSP.
+
+A alimentação elétrica das bombas de incêndio deverá ser independente do consumo geral, de
+forma a permitir o deshgamento geral da energia elétrica, sem prejuízo do funcionamento do motor da
+bomba de incêndio, conforme item C.2.7 do anexo C da IT 22/2019 do CBMSP.
+
+O alarme acústico do painel deverá ser tal que, uma vez cancelado por botão de impulso, volte
+a funcionar normalmente quando surgir um novo evento, conforme item C.2.21 do anexo C da IT
+22/2019 do CBMSP.
+
+O HOSPITAL NESTOR PIVA dispõe de um reservatório superior de concreto armado com
+duas câmaras (bicompartimentado), com 5.000 litros cada câmara. Totalizando um volume para
+
+Reserva Técnica de Incêndio — R.T.1, um total de 10.000 litros, bem como destinados para consumo,
+
+ 
+
+ 
+
+Página 12de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+ 
+
+uma câmara superior com 28.000 litros e uma inferior com 42.000 litros, tendo um total de 80.000
+
+litros d'água.
+
+As tubulações aparentes do sistema devem ser em cor vermelha, de acordo com o item
+5.11.6.4 da IT 22/2019 do CBMSP;
+
+1 Cálculo da altura manométrica
+
+1.2 Altura geométrica
+
+A distância entre o fundo do reservatório e o hidrante menos favorável (H-3):
+
+Hg =-5,06m
+
+1.3 Perdas de carga na sucção (ferro galvanizado 3”)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Peças Quantidade Comprimentos Total
+equivalentes
+Registro gaveta 01 0,5m 0,5m
+Saída da canalização 01 2,2m 2,2m
+Joelho 90º 04 2,5m 10,0m
+Tê de bilateral 01 4,1Im 4,1Im
+Tê Passagem direta. 02 0.5m 10m
+Registro de gaveta aberto 01 0,5m 0,5m
+TOTAL 18,31m
+
+ 
+
+ 
+
+ 
+
+O comprimento da tubulação de sucção = 7,0m
+
+1.4 Perda de carga umtária:
+
+QAdotado = QR-B + QR-B
+
+QAdotado= 150 + 150 =300 límin / (1000/60)— 0,005 m?/s
+
+J=10,65 x (Q1,85) x (C-1,85) x (D-4,87)
+
+J=10,65 x ((300/60000)"85) x (120185) x (0,075-+87)
+J=0,025 mca/m
+
+HAs= (18,31 + 7,0)x 0,025
+
+HAs= 0,63 m.c.a
+
+ 
+
+ 
+
+Página 13de 21
+ 
+
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+1.5 Perdas de carga no recalque (ferro galvanizado 2 1/2”)
+
+ 
+
+ 
+
+Peças Quantidade Comprimentos Total
+equivalentes
+Válvula de retenção 01 8Im 81m
+
+vertical pesada
+Registro de gaveta
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+aberto 01 0,4m 0,4m
+
+Tê saída de lado 03 3,5m 10,5m
+Joelho de 90º 07 20m 14,0m
+Tê saída PD 03 0,4m 1,2m
+TOTAL 342 m
+
+ 
+
+Comprimento da tubulação de recalque = 109,0m
+
+1.6 Perda de carga umtária:
+
+Para uso simultâneo de 02 Hidrantes, efetua-se a soma das vazões:
+QAdotado = QB-H-3 + Q B-H-4
+QAdotado= 150 + 150 = 300 1/min > 0,005 m?/s
+
+510,65 x (Q1,85) x (C-1,85) x (D-4,87)
+
+= 10,65 x (300/60000 185) x (120185) x (0,065-487)
+J=0,051 mca/m
+
+HAI (109m + 34,20m) x 0,051
+
+HAr- 7,30 m.ca
+
+1.7 Perda de carga no hidrante:
+
+Hhidrante= pressão residual + perda de carga no esguicho + perda de carga na mangueira + perda de
+carga na válvula angular
+
+Hhidrante= 40,00 + 1,40 + 5,75 + 2,22
+
+Hhidrante= 49,37 m
+
+ 
+
+ 
+
+Página 14de 21
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+
+ 
+
+ 
+
+1.8 Altura manométrica total:
+
+Hman= Hg + HAs + HA r + Hlndrante
+Hman= -5,06 + 0,63 + 7,30 + 49,37
+
+Hmans= 52,24 m.c.a
+
+1.9 Cálculo para dimensionamento das bombas
+
+P= 1000 x Hmanx Q
+75xn
+
+Onde:
+
+P — Potência da Bomba, em CV
+
+Hman — Altura manométrica
+
+Q — Vazão, em litrosíminuto
+
+n — Rendimento do conjunto moto-bomba (consideramos um rendimento de 60%)
+
+Utilizando uma vazão de 300 £/min, temos:
+
+P= 1000 x 52,24 x (300/60000) = 5,80 CV
+75 x 0,60
+
+Adotar P = 7,5 CV (Comercial)
+
+1.10 Reservatório
+
+1.10.1 Capacidade do Reservatório superior
+
+€ Volume Total: 80.000 litros;
+
+O Reserva Técnica de Incêndio: 10.000 litros (Existente)
+1.11 Alimentação do Sistema
+
+1.11.1 Coluna de Distribuição:
+
+O Diâmetro: )2 1/2”,
+
+ 
+
+ 
+
+Página 15de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+ 
+
+O Material: Aço galvanizado;
+O Derivação: Variável.
+
+1.11.2 Interligação entre ramais ou coluna:
+O Diâmetro: )2 1/2”.
+
+O empreendimento disporá de um reservatório superior e imferior com capacidade total de
+80.000 litros, dos quais serão destinados para Reserva Técnica de Incêndio — R.T.I, 10.000 litros, dos
+
+quais já existe.
+1.12 Hidrante Interno
+
+1.12.1 Caixa de metal:
+
+O Dimensões: 90x 60x 17 cm com visor, localização: vide projeto;
+
+O Altura do hidrante: 1,50 m (um metro e cinquenta centimetros) do piso acabado.
+
+1.12.2 Mangueiras:
+
+Diâmetro: 40 mm;
+
+Comprimento: 02 mangueiras de 15 m por hidrante;
+
+Tipo de Esguicho: Regulável;
+
+e
+
+e
+
+O Revestimento: Borracha;
+e
+
+O Diâmetro do Requinte: 16 mm;
+º
+
+Pressão máxima: 4 Kg/cm?.
+1.13 Hidrante de recalque
+
+1.13.1 Caixa:
+
+O Material: Alvenaria,
+O Dimensões: 0,60 x 0,40 x 0,40 m;
+
+ 
+
+ 
+
+Página l6de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+O Quantidade: 01;
+
+O Localização: Passeio.
+
+1.14 Registro:
+
+O Tipo: Globo Angular 45º,
+O Diâmetro: 65 mm.
+
+1.15 Tampa:
+
+O Material: Ferro fundido;
+
+Dimensões: 0,60 x 0,40 m.
+
+ 
+
+ 
+
+ 
+
+Notas Técnicas
+
+O sistema deve ser dimensionado de forma que a pressão máxima de trabalho nos esguichos não ultrapasse
+100 mca (1.000kPa) conforme IT 22 do CBPMESP vigente.
+
+As bombas de incêndio devem, ser utilizadas somente para este fim conforme IT 22 do CBPMESP vigente.
+
+As bombas de incêndio devem ser protegidas contra danos mecânicos, intempéries, agentes químicos, fogo
+ou umidade conforme IT 22 do CBPMESP vigente.
+
+As bombas principais devem ser diretamente acopladas por meio de luva elástica, sem interposição de
+correias e correntes, possuindo a montante uma válvula de paragem, e a jusante uma válvula de retenção e
+outra de paragem conforme IT 22 do CBPMESP vigente.
+
+A automatização da bomba principal ou de reforço deve ser executada de maneira que, após a partida do
+motor seu desligamento seja somente manual no seu próprio painel de comando, localizado na casa de
+bombas conforme IT 22 do CBPMESP vigente.
+
+O funcionamento automático é indicado pela simples abertura de qualquer ponto de hidrante da instalação
+conforme IT 22 do CBPMESP vigente.
+
+As bombas de incêndio, devem atingir pleno regime em aproximadamente 30s após a sua partida conforme IT
+22 do CBPMESP vigente.
+
+O painel de sinalização das bombas principal ou de reforço, elétrica ou de combustão interna, deve ser
+dotado de uma botoeira para ligar manualmente tais bombas, possuindo sinalização ótica e acústica
+conforme IT 22 do CBPMESP vigente.
+
+Os condutores elétricos das botoeiras devem ser protegidos contra danos físicos e mecânicos por meio de
+eletrodutos rígidos embutidos nas paredes, ou quando aparentes em eletrodutos metálicos, não devendo
+passar em áreas de risco conforme IT 22 do CBPMESP vigente.
+
+A entrada de força para a edificação a ser protegida deve ser dimensionada para suportar o funcionamento
+das bombas de incêndio em conjunto com os demais componentes elétricos da edificação, a plena carga
+conforme IT 22 do CBPMESP vigente.
+
+As chaves elétricas de alimentação das bombas de incêndio devem ser sinalizadas com a inscrição
+“ALIMENTAÇÃO DA BOMBA DE INCÊNDIO — NÃO DESLIGUE” conforme IT 22 do CBPMESP vigente.
+
+O escapamento dos gases do motor deve ser provido de silencioso, de acordo com as especificações do
+fabricante, sendo direcionados para serem expelidos fora da casa de bombas, sem chances de retornar ao seu
+interior conforme IT 22 do CBPMESP vigente.
+
+ 
+
+ 
+
+Página 17de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+ 
+
+As tubulações aparentes do sistema devem ser em cor vermelha conforme IT 22 do CBPMESP vigente.
+
+As tubulações aparentes, não embutidas na alvenaria (parede e piso), devem ter pintura na cor vermelha
+conforme IT 22 do CBPMESP vigente.
+
+A tampa de abrigo do registro de recalque deve ser pintada na cor vermelha conforme IT 22 do CBPMESP
+vigente.
+
+Assinatura do Proprietário Assinatura do Projetista/CREA
+(Assinar por extenso) (Assinar por extenso e carimbar)
+
+ 
+
+ 
+
+DETECÇÃO E ALARME DE INCÊNDIO
+Dimensionamento do Sistema de Detecção:
+Altura máxima de instalação do detector: (m) 8.0m
+Fumaça: 3.90m
+Temperatura: ----
+Área de cobertura protegido por um detector. (81 m2)
+Detector de fumaça: 6.3m
+Detector de Temperatura:----
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dimensionamento do Sistema de Alarme: 30m
+
+ 
+
+Altura de instalação:
+
+ 
+
+Acionador: 1.35m
+
+ 
+
+Avisador (sonoro /visual): 2.20m altura
+QUADRO RESUMO
+
+ 
+
+ 
+
+ 
+
+Localização Detector Detector Detector Detector Avisadores Acionadores
+pavimento fumaça temperatura |linear chama
+Térreo 27 dc Jo = 8+(1teste) |8
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notas Técnicas
+
+Os acionadores manuais instalados na edificação devem obrigatoriamente conter a indicação de
+funcionamento (cor verde) e alarme (cor vermelha) indicando o funcionamento e supervisão do sistema
+conforme IT 19 do CBPMESP vigente;
+
+Nas centrais de detecção e alarme é obrigatório conter um painel/esquema ilustrativo indicando a
+localização com identificação dos acionadores manuais ou detectores dispostos na área da edificação
+sistema conforme IT 19 do CBPMESP vigente;
+
+As centrais de detecção e alarme devem ter dispositivo de teste dos indicadores luminosos e dos
+sinalizadores acústicos sistema conforme IT 19 do CBPMESP vigente;
+
+Todo sistema deve ter duas fontes de alimentação. Quando a fonte de alimentação auxiliar for constituída
+por bateria de acumuladores ou “nobreak”, esta deve ter autonomia mínima de 24 horas em regime de
+supervisão, sendo que no regime de alarme deve ser de, no mínimo, 15 minutos para suprimento das
+indicações sonoras e/ou visuais ou o tempo necessário para o abandono da edificação sistema conforme
+IT19 do CBPMESP vigente;
+
+A central deve acionar o alarme geral da edificação, devendo ser audível em toda sistema conforme IT 19
+do CBPMESP vigente;
+
+A distância máxima a ser percorrida por uma pessoa, em qualquer ponto da área protegida até o
+acionador manual mais próximo, não deve ser superior a 30 metros sistema conforme IT 19 do CBPMESP
+vigente;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página 18de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+
+ 
+
+MEMORIAL DESCRITIVO
+Assinatura do Proprietário Assinatura do Projetista/CREA
+(Assinar por extenso) (Assinar por extenso e carimbar)
+
+ 
+
+ 
+
+ 
+
+ACESSO DE VIATURAS
+
+ 
+
+Portão de Acesso:
+
+ 
+
+Largura da entrada principal (m): 7,5m
+
+ 
+
+Altura da entrada principal (m): 3.20m
+
+ 
+
+Arruamento interno: concreto
+
+ 
+
+Comprimento da via interna: 100,0m
+
+ 
+
+Largura da via interna: 15,0m
+
+ 
+
+ 
+
+Notas Técnicas
+
+A edificação possui condições mínimas para o acesso de viaturas de bombeiros nas edificações e áreas de
+risco, visando o emprego operacional do Corpo de Bombeiros de Sergipe. As vias devem suportar viaturas
+com peso de 25.000 Kgf.
+
+Assinatura do Proprietário Assinatura do Projetista/CREA
+(Assinar por extenso) (Assinar por extenso e carimbar)
+
+ 
+
+ 
+
+Página 19de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+RESISTÊNCIA AO FOGO DOS ELEMENTOS DE CONSTRUÇÃO
+
+ 
+
+Classificação quanto ao TRRE:
+
+ 
+
+Altura da Edificação (h) | 3,00m [classe da altura Pi
+
+ 
+
+ 
+
+Tempo Requerido de Resistência ao Fogo (TRRF): Ex: 30min
+
+ 
+
+ 
+
+Notas Técnicas
+
+A edificação deve ser construída e possuir elementos estruturais e de compartimentação com características
+de resistência e atendimento aos Tempos Requeridos de Resistência ao Fogo (TRRF), para que, em situação de
+incêndio, seja evitado o colapso estrutural por tempo suficiente para possibilitar a saída segura das pessoas e
+o acesso para as operações do Corpo de Bombeiros conforme ITO8 do CBPMESP vigente;
+
+ANEXO B- Tabela: Tempos requeridos de resistência ao fogo (TRRF)
+
+Para a classificação detalhada das ocupações (Grupo é Divisão), consultar a Tabela 1 do Regulamento de Segurança contra Incêndio
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GteGndo
+abertos
+iemmentee | 0 | 0 | E “0 s% 120 1m 180 180
+G | seniosatomoivos | G3aG5
+Gregr
+abertos olela 3% 3% % [ mM 10 18
+lateralmente.
+E SUE e oo | 0 0 % 1% 10 180 180
+Insiitucionais ro Ho, troe j
+HE 0 80 fe] 60 60 O 120 150 180 180
+H oleo [3 30 30 E 120
+I Industrial R m|o | 3 e E 120
+q m| o | [E] 0 1 1%
+Assinatura do Proprietário Assinatura do Projetista/CREA
+(Assinar por extenso) (Assinar por extenso e carimbar)
+
+ 
+
+ 
+
+Página 20de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+CONTROLE DE MATERIAIS DE ACABAMENTO E DE REVESTIMENTO (CMAR)
+
+ 
+
+Classificação do CMAR:
+
+ 
+
+ 
+
+ 
+
+FINALIDADE DO MATERIAL
+Piso Parede e divisória Teto e forro
+
+(acabamento! e| (Acabamento? e| (Acabamento e
+revestimento) revestimento) revestimento)
+
+GRUPO/ H-3 Térreo: Térreo: Térreo:
+
+DIVISÃO Depósito/Arquivo/Protocol | Depósito/Arquivo/Protocol | Depósito/Arquivo/Protocol
+o/ Hall/ We's/ Sala o/ Hall/ Wc's/ Sala o/ Hall/ Wc's/ Sala
+CLASSE | CLASSE | CLASSE |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Incluir Notas Genéricas da Tabela B1 referentes a sua cla:
+
+   
+    
+
+ 
+
+A3%e Condomínios | Classe, I-A N-A,IMA | Classe | I-A IA | Classe, I-A
+residenciais? ou Va ou IV-AS ou EA?
+
+ 
+
+GRUPO/ B,D,EG,
+
+DIVISÃO EE jo Classe |, IEA, II-A ou IV-A Classe |, ILA Classe | au ILA
+
+ou IIA!?
+
+ 
+
+C, FÊ L2 13, 48,
+dA, LA, MZ e ms
+
+ 
+
+Classe |, II-A, IH-A ou IV-A Vou EA Classe | ou IA.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notas Técnicas
+
+Materiais de revestimento: todo material ou conjunto de materiais empregados nas superfícies dos elementos
+construtivos das edificações, tanto nos ambientes internos como nos externos, com finalidades de atribuir
+características estéticas, de conforto, de durabilidade etc. Incluem-se como material de revestimento, os
+pisos, forros e as proteções térmicas dos elementos estruturais.
+
+O CMAR empregado nas edificações destina-se a estabelecer padrões para o não surgimento de condições
+propícias do crescimento e da propagação de incêndios, bem como da geração de fumaça.
+
+Deverá ser apresentado na solicitação de vistoria, relatório de controle de material de acabamento, contendo
+todos os cômodos da edificação, juntamente com o material de piso (acabamento e revestimento), parede e
+divisória (acabamento e revestimento), teto e forro (acabamento e revestimento), descrevendo se o material
+é incombustível, é anti-chama (nota fiscal e catálogo/manual do produto), ou se recebeu tratamento (nota
+fiscal, catálogo/manual do produto e ART da aplicação do produto com laudo.
+
+Assinatura do Proprietário Assinatura do Projetista/CREA
+(Assinar por extenso) (Assinar por extenso e carimbar)
+
+ 
+
+ 
+
+Página 21de 21
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+
+MEMORIAL DESCRITIVO
+
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+BRIGADA DE INCÊNDIO
+
+ 
+
+Dimensionamento da Brigada de Incêndio:
+
+ 
+
+po Pivisão Atividade
+
+- Serviço de| H-3 Hospital e
+
+saúde e Asseelh
+instituci ado
+onal
+
+ 
+
+ 
+
+Grau |pulação fixa por pavimento ou compartimento
+
+Nível de
+
+ 
+
+de hté2 és
+Risco
+
+Baixo
+
+ 
+
+ 
+
+ 
+
+ 
+
+té 6
+
+té8 té 10
+
+ 
+
+ 
+
+ima de 10
+
+B pessoas
+
+ 
+
+Treinam
+entoe
+de
+instalaçã
+o
+No mín. 4
+por —tumo
+No
+INTERMEDIÁ
+RIO e
+restante
+básico.
+
+ 
+
+ 
+
+Turno (horário)
+
+População Fixa
+
+Quantidade de Brigadistas
+
+ 
+
+24:00h
+
+50
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total de Brigadistas : 8
+
+ 
+
+ 
+
+1.0 Notas Técnicas
+
+3.1 A edificação deve possuir requisitos mínimos para implantação de brigada de incêndio, preparada para
+atuar na prevenção e no combate ao princípio de incêndio, abandono de área e primeiros socorros.
+
+3.2 Em caso de alteração da população fixa da edificação, o proprietário desta fica responsável pela
+readequação do quantitativo de brigadistas, devendo ser apresentado novo cálculo no momento da vistoria
+
+técnica.
+
+OBS: Nível de treinamento e instalação será intermediário para 4 brigadistas, no mínimo, por turno. O
+
+restante básico.
+
+Assinatura do Proprietário
+
+(Assinar por extenso)
+
+ 
+
+Assinatura do Projetista/CREA
+(Assinar por extenso e carimbar)
+
+ 
+
+ 
+
+Página 22de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ 
+
+COMPARTIMENTAÇÃO : ISENTO CONFORME A IT 09/2019 CBMSP
+
+ 
+
+ 
+
+ 
+
+ 
+
+Divisão H3 — um pavimento
+Altura — Tipo Edificação Térrea —tipo |
+Área máxima de compartimentação (m2) 2.645m?
+
+ 
+
+ 
+
+Notas Técnicas
+
+A compartimentação se destina a impedir a propagação de incêndio no pavimento de origem para
+outros ambientes tanto no plano horizontal quanto no plano vertical. No interior da edificação, as
+áreas de compartimentação devem atender aos tempos requeridos de resistência ao fogo (TRRF) e
+a IT 09 vigente do CBPMESP.
+
+COMPARTIMENTAÇÃO HORIZONTAL (IT-09/2019 do CBPMESP)
+
+ 
+     
+
+        
+    
+        
+  
+   
+
+        
+     
+     
+
+     
+
+       
+
+   
+
+ 
+
+[ É Vo
+
+Edificação
+térrea
+
+to di
+Edificação de
+baixa-média
+altura
+6,00m <
+H<12,00m
+
+3.000
+
+| v Na
+
+  
+
+    
+
+    
+
+     
+
+     
+
+    
+
+   
+
+Edificação
+baixa
+
+Edificação de
+média altura
+
+Edificação
+
+DENOMINAÇÃO mediamente alta
+
+Edificação alta
+
+      
+      
+         
+
+     
+
+    
+
+  
+
+Acima de
+30,00m
+
+1.500
+1.500
+1.000
+
+ALTURA Um pavimento H<6,00m 12,00m<H<23,00m | 23,00m<H<30,00m
+
+   
+
+        
+
+F5eF-6
+F8
+F-10e F-11
+G1,62,G-3e 6-5
+64
+Hot, H2, H-4, 5
+H-3]
+
+5.000 4.000 2.000
+2.000
+
+1.000
+
+1.000
+1.000
+1.000
+
+   
+ 
+
+     
+ 
+
+  
+ 
+
+ 
+
+       
+
+5.000 2.500 1.500
+
+              
+     
+
+10.000
+
+5.000
+
+3.000
+
+2.000
+
+1.000
+
+1.000
+
+      
+
+       
+     
+
+5.000
+
+3.000
+
+2.000
+
+1.500
+
+1.000
+
+       
+
+Assinatura do Proprietário Assinatura do Projetista/CREA
+(Assinar por extenso) (Assinar por extenso e carimbar)
+
+ 
+
+ 
+
+Página 23de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+
+ANEXO C
+Plano de emergência contra incêndio
+
+C.1 Descrição da edificação ou área de risco
+
+€.1.1 Identificação da edificação: Fundação Municipal de Saúde de Aracaju.
+
+€.1.2 Localização: urbana.
+
+— endereço: Av. Maranhão, S/N — Hospital Zona Norte Nestor Piva, Bairro Dezoito do Forte —
+Aracaju/Se
+
+— característica da vizinhança: alta concentração de edificações comerciais e residenciais.
+
+— distância do Corpo de Bombeiros: 4 Km.
+
+— meios de ajuda externa: Posto de Bombeiros na orla da Atalaia a 4 Km (fone 193) e Brigada de
+Incêndio da empresa Aliada (fone xxxxxxxxxxx).
+
+€.1.3 Estrutura: concreto armado.
+
+€.1.4 Dimensões: Prédio de pavimento térreo, com altura total de 3 m (do piso de entrada até o piso
+da laje) e área construída de 1653,54m?.
+
+€.1.5 Ocupação: consultórios médicos.
+
+€.1.6 População:)
+
+— fixa: 50 pessoas.
+
+— flutuante: 128 pessoas.
+
+€.1.7 Características de funcionamento: 24 horas, Recepção - Roberto (Ramal 238), Diretor geral -
+Edson (Ramal 253), Administração, encarregado Luiz (Ramal 287).
+
+€.1.8 Pessoas portadoras de necessidades especiais: imprevisível
+
+€.1.9 Riscos específicos inerentes à atividade: equipamentos de raio-x nos consultórios
+
+€.1.10 Recursos humanos:
+
+— brigada de incêndio: 8 membros (4 por turno);
+
+— brigada profissional civil: O
+
+€.1.11 Recursos materiais:
+
+— extintores de incêndio portáteis;
+
+ 
+
+— sistema de hidrantes;
+
+— iluminação de emergência;
+
+— alarme de incêndio manual (central na portaria) e detecção automática somente nas salas de
+consultório e recepção para proteção do Hospital.
+
+C.2 Procedimentos básicos de emergência contra incêndio
+
+€.2.1 Alerta: ao ser detectado um princípio de incêndio, o alarme de incêndio manual será acionado
+por meio de botoeira, tipo quebra-vidro, localizada em cada andar ao lado da porta de saída de
+emergência. Deve-se ligar para o Corpo de Bombeiros (Fone 193).
+
+€.2.2 Análise da situação: após identificação do andar sinistrado (pelo painel da central) localizado
+na portaria, o alarme deve ser desligado e o brigadista de plantão no Hospital deve comparecer ao
+local para análise final da emergência.
+
+Página 24de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+
+MEMORIAL DESCRITIVO
+Nota:
+Sempre que houver uma suspeita de princípio de incêndio (por calor, cheiro, fumaça ou outros meios),
+esta deverá ser investigada. Nunca deve ser subestimada uma suspeita.
+
+€.2.3 Apoio externo: um Brigadista deve acionar o Corpo de Bombeiros dando as seguintes
+informações:
+- nome e número do telefone utilizado;
+
+- endereço do Hospital (completo);
+— pontos de referência ;
+= características do incêndio;
+
+— quantidade e estado das eventuais vítimas;
+
+Nota:
+O mesmo brigadista que acionou o Corpo de Bombeiros preferencialmente deve orientá-los quando
+da sua chegada sobre as condições e acessos, e apresentá-los ao Chefe da Brigada.
+
+€.2.4 Primeiros socorros e hospitais próximos: os primeiros socorros devem ser prestados às
+eventuais vítimas, conforme treinamento específico dado aos brigadistas. Em caso de necessidade
+encaminhar ao Hospital Santa Isabel, Av Simeão sobral, S/N, Santo Antônio.
+
+€.2.5 Eliminar riscos: caso necessário, deve ser providenciado o corte da energia elétrica (parcial ou
+total) e o fechamento das válvulas das tubulações. O corte geral deve ser executado pelo pessoal da
+manutenção, que deve estar à disposição do Chefe da Brigada.
+
+€.2.6 Abandono de área: caso seja necessário abandonar a edificação, deve ser acionado novamente
+o alarme de incêndio para que se inicie o abandono geral. Os ocupantes do andar sinistrado, que já
+devem estar cientes da emergência, devem ser os primeiros a descer, em fila e sem tumulto, após o
+primeiro toque, com um brigadista liderando a fila e outro encerrando a mesma. Antes do abandono
+definitivo do pavimento, um ou dois brigadistas devem verificar se não ficaram ocupantes
+retardatários e providenciar o fechamento de portas e/ou janelas, se possível. Cada pessoa
+portadora de deficiência física, permanente ou temporária, deve ser acompanhada por dois
+brigadistas ou voluntários, previamente designados pelo Chefe da Brigada. Todos os demais
+ocupantes de cada pavimento, após soar o primeiro alarme, devem parar o que estiverem fazendo,
+pegar apenas seus documentos pessoais e agruparem-se no saguão dos elevadores, organizados em
+fila direcionada à porta de saída de emergência. Após o segundo toque do alarme, os ocupantes dos
+andares devem iniciar a descida, dando preferência às demais filas, quando cruzarem com as
+mesmas (como numa rotatória de trânsito), até a saída, onde devem se deslocar até o ponto de
+encontro.
+
+€.2.7 Isolamento de área: a área sinistrada deve ser isolada fisicamente, de modo a garantir os
+trabalhos de emergência e evitar que pessoas não autorizadas adentrem ao local.
+
+€.2.8 Confinamento do incêndio: o incêndio deve ser confinado de modo a evitar a sua propagação e
+consequências.
+
+€.2.9 Combate ao incêndio: os demais Brigadistas devem iniciar, se necessário e/ou possível, o
+combate ao fogo sob comando de Brigadista Profissional, podendo ser auxiliados por outros
+ocupantes do andar, desde que devidamente treinados, capacitados e protegidos. O combate ao
+incêndio deve ser efetuado conforme treinamento específico dado aos Brigadistas.
+
+€.2.10 Investigação: após o controle total da emergência e a volta à normalidade, incluindo a
+liberação do Condomínio pelas autoridades, o Chefe da Brigada deve iniciar o processo de
+
+Página 25de 21
+ORPO DE BOMBEIROS MILITAR DO ESTADO DE SERGIPE
+DIRETORIA DE ATIVIDADES TÉCNICAS — DAT
+
+ 
+
+DEPARTAMENTO DE ANÁLISE DE PROJETOS
+MEMORIAL DESCRITIVO
+investigação e elaborar um relatório, por escrito, sobre o sinistro e as ações de controle, para as
+devidas providências e/ou investigação.
+
+Aracaju, 03 de Junho de 2019. Responsável pela Empresa
+(nome legível, RG e assinatura)
+
+Responsável Técnico
+
+(nome legível, RG e assinatura)
+
+Página 26de 21
+cpi4all_arquivo_nao_suportado: /tmp/tmp3jf1s6sa/cpi4all_2_Projeto__de__Inc├кndio_Zona__Norte__-__2019.dwg
+02/06/2021 roundcube (2480x3437)
+
+ 
+
+dtentear | REGISTRO DE EMPREGADO
+Era
+
+| CENTRO MEDICO DO TRABALHADOR LIDA
+
+Endeo
+Rua BAHIA, 1429, SIQUEIRA CAMPOS, ARACAJU, SE,
+
+ 
+
+ 
+
+   
+
+eia
+JORGE THADEU DA CRUZ MAFRA,
+Ee
+
+Rua CARLOS A GARCIA LEITE, 382, 0, TAIGOCA, NOSSA SENHORA DO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SOCORRO. SE, - CEP: 49180-000
+O3n2/19o3 ARACAJU-SE BRASIL Solteiro
+|
+Fiação "WAGNER VALENCIA PEREIRA MAFRA. |
+—
+TANIA GOMES DA CRUZ
+Cosa ae Menigade Damasemissto | DgaGUE Ema Tio Eca [Era Sução [ineo OrgueuaCiasse
+JASZAGI6 201/2019 SSPISE 026134512100 034 0048
+TIPS Sé Data de expedição da CTPS [UF ETPS TRF Cart. Nac. Habitação esta
+5881612 0040 14/02/2014 SE 064.927.245-50
+Des ni [E==s EE ES COTIA
+375870. Não informada | Masculino Ensino Médio Completo
+' E
+Súbenvisor ADMINISTRATIVO SUPERVISOR MID1OS
+Dia de Admiasão Salario Bu locar do Trabalho, Florária de inperveto = ,
+03/08/2020 Ú RS 1.050,00 | Mês Art. 62 - Inc. [CLT Art. 62-Inc. | CLT )
+Ri [ Conta vinculada no barco Dataca Retificação 3
+E Sn 4
+End 0a agonoa ==",
+x LTERAÇÕES DE SALÁRIO, CARGO E/OU FUNÇÃO,
+|
+FÉRIAS - PERÍODOS AQUISITIVO] FÉRIAS - PERÍODO DE GOZO [FERIAS - PERIODO ABONO PECUNIÁRIO ( Obs: (Ansiar mivertências. suspensões, Uarafarências, ate) à]
+| O]
+|
+pe |
+|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACIDENTES DE TRABALHO. DOENÇAS OU DOENÇAS PROFISSIONAIS = RESCISÃO DE CONTRATO DE TRABALHO.
+
+Data projeção: À
+|
+
+ 
+
+Data ce saída.
+
+Data aviso eng,
+
+ 
+
+Tipo do desligamento:
+
+ 
+
+ 
+
+ 
+
+CONTRIBUIÇÃO SINDICAL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DASERVAÇÕES
+
+webmail. emtrabalhador.com.briroundcube/? task=mail& frame=1& mbox=INBOX& uid=808&, par
+
+ 
+
+& action=gets. extwin=1
+02/06/2021 roundcube (2480x3437)
+
+CONTRATO DE EXPERIÊNCIA
+
+Pela presente Instrumento particular de Contrato de Experiência, à empresa CENTRO MEDICO DO TRABALHADOR LTDA com sede na Rua BArIA,
+inscrita no CNP) soo Ne 23.546.258/0001-10, denominada a seguir EMPREGADORA, e o Sr.(2)-JORGE THADEU DA CRUZ MAFRA, domiciliado na Rua CARLOS A
+GARCIA LEITE, 392, 0, cidade de NOSSA SENHORA DO SOCORRO-SE, portador do CTPS Nº: 5881612 série 0040, doravante designado EMPREGADO, celebram o
+
+presente Contato Individual de Trabalho para fins de experiência, conforme legislação traballusta em vigor, regido pelas cláusulas abaixo e demais disposições legais
+vigentes:
+
+1º. O EMPREGADO trasalhará para 2 EMPREGADORA na função de SUPERVISOR ADMINISTRATIVO é mais às funções que vierem a ser objeto da ordens verbais,
+Cartas, cu avisos, segundo as necessidades da EMPREGADORA desde que compativeis com suas atribuições.
+
+25. O local de trabalho situa-se nã AV MARANHAO, 0, DEZOITO DO FORTE, ARACAJU-SE, podendo à EMPREGADORA, à qualquer tempo, transferir o EMPREGADO a
+Elulo temporário ou defini, tento na âmbito da unidade pora o qual foi admitido, como para outras, em qualquer localidade deste estado ou de ouro dentro do
+pais,
+
+45 arário de trabalho do EMPREGADO será o seguinte: Inicio do Expediente: 07:00, Saida para Intervalo: + , Entrada Intervalo: : e Finaldo Expediente:
+19:00.
+
+ao. O EMPREGADO receberá a remuneração de: R$ 1.050,00 (Um mil cinquenta reais ) por
+
+ 
+
+sa, O prazo deste contrato é de 45 (quarenta e cinco ) dias, com inicio em: 03/08/2020 e término em: 16/05/2020.
+
+69. Além dos descontos previstos na Le, reserva-se a EMPREGADORA o direito de descontar do EMPREGADO as importâncias correspondentes aos danos causados
+por ele
+
+39. O EMPREGADO fica ciente do Regulamento da EMPREGADORA e das Normas de Segurança fornecidos, sal pena de ser punido par falta o
+Legislação vigente e demais disposições inerentes à segurança e medicina do trabalho.
+
+ 
+
+go manecêndo o EMPREGADO a serviço após o término da experiência, continuarão em vigor as cláusulas canstantes deste contrato.
+
+9
+Terido assim contratado, assinam o presente instrumento, em duas vias, na presença das testemunhas abaixo.
+
+EMPREGADORA
+
+     
+
+ 
+
+Respansável Legal (quando mener)
+
+ 
+
+1º TESTEMUNHA. 29 TESTEMUNHA
+
+webmail.cmtrabalhador.com.br/roundcube/?. task=mail& frame=1& mbox=INBOX& uid=8088 part=5& actioi
+
+ 
+
+11
+“ejumpuoo da
+
+ VBaVIN “O Va N3AvHLS
+
+o
+o
+
+RR
+ST ONDAS AY
+
+na
+
+:
+
+=
+
+o
+
+o
+
+.
+
+o
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pamção
+| TOTAL DO MÓDULO |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reuso dote ti
+
+o
+
+Ras a
+“ TouRTÓRIO CLAUDIO MELO -NSA. SRA, DO SOAAR
+Am Prada, MC o Ab Pt o ADO - Telas
+Elsa a co bird Tita sera curti
+
+ 
+02/06/2021
+
+roundcube (2480x3437)
+
+ 
+
+Autenticar
+
+[
+
+Empregador
+
+CENTRO MEDICO DO TRABALHADOR LTDA
+
+REGISTRO DE EMPREGADO Tt
+
+ENPI
+| 23.548.358/0001-10
+
+ 
+
+coossa )
+
+ 
+
+Endereçã
+Rua BAHIA, 1429, SIQUEIRA CAMPOS, ARACAJU, SE,
+
+ 
+
+ 
+
+Empregado
+PATRICIA SILVA
+Resgênca
+
+ 
+
+Rua VERDE PRATA, 397, 0, LAMARAO, ARACAJU, SE, - CEP: 49088-273
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T (a de renan Tado peirana E EE
+2210411980 PENEDO - AL BRASIL Divorciado
+Fa
+Fiução ee DECLARADO
+MARIA DA SILVA SANTOS
+Célula de Identidade Data do emissão. Ormdo/UF amissor Titulo Eleitoral [Zona Seção Inscr. Ôrção de Classe.
+1456671 SSPISE,
+E Darapesão acres [UFPE [Er Tor Na Fabdação cangora
+971.387.195-54
+Categoria Cor E [ Grau de instrução
+Não Intormada. Feminino Ensiig Médio Completo
+Daficiênca Telefona Residencial pe Colular
+Não
+Fã TES
+SECRETÁRIO CLÍNICO [ SESRETARIO cunico sI5140
+Dae fimo ri de uno Far den
+
+OBIg4/2021
+
+s [orem
+(Lrors | Binimo
+
+)&
+
+Fa
+1.100,00 | Mês,
+I “Sonia vinculada no banca
+
+das 08:00 as 18.00 das 12:00 as 13:30
+
+[Era
+
+PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS
+
+(AS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tstasiado em Ea [===
+126.12085.76-0
+ES góreiacteigo [==
+ALTERAÇÕES DE SALÁRIO, CARGO EJOU FUNÇÃO
+A
+
+ 
+
+ 
+
+ 
+
+FERIAS - PERÍODO AquisimIvO
+
+FÉRIAS - PERÍODO DE GOZO
+
+FERAS - PERÍoDO ABONO PECUNIÁRIO Obs, (Acta asvenências, suspensões, varsterncias aic)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+==
+
+)
+
+ 
+
+ 
+
+ACIDENTES DE TRABALHO, DOENÇAS OU DOENÇAS PROFISSIONAIS y
+
+RESCISÃO DE CONTRATO DE TRABALHO
+
+ 
+
+Data da saída:
+
+Data aviso ind. Data projeção:
+
+ 
+
+Tipo do destigamento:
+
+ 
+
+ 
+
+ 
+
+CONTRIBUIÇÃO SINDICAL,
+
+ 
+
+ 
+
+ 
+
+  
+
+PATRICIA SILVA
+
+ 
+
+ 
+
+webmail.emtrabalhador.com.br/roundcube!? task=mail& frame=1& mbox=i
+
+OosERvaçÕES,
+
+ 
+
+INBOX& uid=808& part=28 action=ge!& extwin=1
+
+11
+02/06/2021 roundcube (2480x3437)
+
+ca
+
+CONTRATO DE EXPERIÊNCIA
+
+Pelo presente Instrumento particular de Contrato de Experiência, a empresa CENTRO MEDICO DO TRABALHADOR LTDA com sede na Rua BAHIA,
+inscrita no CNPJ sob Nº 23,546.358/0001-10, denominada a seguir EMPREGADORA, e o Sr.fa) PATRICIA SILVA, domiciliado na Rua VERDE PRATA, 397, 0, cidade de
+ARACAJU-SE, portador do CTPS Nº; série , doravante designado EMPREGADO, celebram o presente Contrato Individual de Trabalho para fins de experiência,
+conforme legislação trabalhista em vigor, regido pelas cláusulas abaixo e demais disposições legais vigentes:
+
+19. O EMPREGADO trabalhará para à EMPREGADORA na função de SECRETÁRIO CLÍNICO e mais as funções que vierem a ser objeto de ordens verbais, cartas, ou
+avisos, segundo as necessidades da EMPREGADORA desde que compatíveis com suas atribuições.
+
+2º, O local de trabalho situa-se na AV MARANHÃO, O, DEZOITO DO FORTE, ARACAJU-SE, podendo a EMPREGADORA, a qualquer tempo, transferir o EMPREGADO à
+título temporário ou definitivo, tanto no âmbito da unidade para o qual foi admitido, como para outras, em qualquer localidade deste estado ou de outro dentro do
+
+ 
+
+  
+
+:00, Saída para Intervalo:
+
+ 
+
+3º. O horário de trabalho do EMPREGADO será o seguinte: Inicio do Expediente: :00, Entrada intervalo: 13:30 e Final do Expediente:
+a
+
+4º. O EMPREGADO receberá a remuneração de: R$ 1.100,00 (um mil e cem reais ) par Mês.
+59. O prazo deste contrato é de 45 (quarenta e cinco ) dias, com inido em: 08/04/2021 e término em; 22/05/2021,
+
+6º. Além dos descontos previstos na Lei, reserva-se a EMPREGADORA o direito de descontar do EMPREGADO as importâncias correspondentes aos danos causados
+por ele.
+
+7º. O EMPREGADO fica dente do Regulamento da EMPREGADORA e das Normas de Segurança fornecidos, sob pena de ser punido por falta grave, nos termos da
+Legistação vigente e demais disposições inerentes à segurança e medicina do trabalho.
+
+£º, Permanecendo o EMPREGADO à serviço após o término da experiência, continuarão em vigor as cláusulas constantes deste contrato,
+
+2,
+
+Tendo assim contratado, assinam o presente Instrumento, em duas vias, na presença das testemunhas abaixo.
+
+ 
+
+ 
+
+»
+
+j Au MAC
+
+to PATRICIA SILVA
+
+ 
+
+ 
+
+Responsável Legal (quando menor)
+
+ 
+
+13 TESTEMUNHA 2º TESTEMUNHA
+
+webmail.cmtrabalhador.com.br/roundcube/?. task=mail& frame=1& mbox=INBOXS. uid=B08& part=38, action=get& extwin=1 1n
+ 
+
+ 
+
+MINISTÉRIO DO TRABALHO E PREVIDÊNCIA SOCIAE;
+
+CARTÃO DE REGISTRO PROFISSIONAL
+
+Este documento é valido em todo territorio nacional.
+
+Certidão emitida as: 21:21 de 11/12/2018.
+
+Este documento é expedido gratuitamente. Sua autenticidade poderá
+Sistema Informatizado de Registro Profissional - Sirpweb,
+http://sispweb.mtc.gov.br/sirpweb, por meio do código: 367.
+
+EM DE-SOMPÉIRO CIVIL,
+
+ 
+
+  
+
+ser confirmada na página do
+ie Internet, -no' endereço:
+44,
+
+ 
+
+RESIeL REDENCIAMENTO:
+= OBRA? CEMSE PSSCIP Neg777. CONFORME NER 14.608. TT 17d
+
+ 
+
+ 
+
+ 
+
+ 
+     
+
+1 Certifico que, de acordo com os assentamento:
+
+| aLei nº 7.410, de 27 de novembro de 1985,
+
+| PATRICIA SILVA, CPF 971.367. à o:
+
+! função(ões) de Técnico de Segurariça do trabalhô; Sob o número 0045449)
+Proçasso nº 46221,010808/2018-39, estando apto;a-exercer a profissão
+
+ 
+
+date deEmisão = - Pigzo de Valida de,
+| Dyespoe ips TARO !
+

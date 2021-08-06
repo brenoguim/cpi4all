@@ -1,0 +1,5590 @@
+Emissão de comprovantes
+
+G3372116386757811
+21/05/2021 16:41:10
+
+ 
+
+15/05/2020 - BANCO DO BRASIL -— 14:36:32
+029500295 SEGUNDA VIA 0001
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 15/05/2020
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 600.000,00
+
+****** TRANSFERIDO PARA:
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO B.39B.CED.0AE.49D.35E
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:12:41
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+26/05/2021 — AUTOATENDIMENTO - 11.12.35
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+CLIENTE: FUNDO MUNICIPAL DE SAUDE
+AGENCIA: 0295-X CONT. 73.064-5
+
+   
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : FUNDO MUNICIPAL DE SAUDE
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 200.112,74
+DEBITO EM: 21/10/2020
+
+ 
+
+ 
+
+DOCUMENTO: 102101
+AUTENTICACAO SISBB: A.342.4B5.9BD.EEC.C59
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 03/07/2020 Valor RS 191,55D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 33377, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a CBS MED CIENT COM REPRES, na
+conta 4.400, agência 3344 do banco 001.
+
+(Cento e noventa e um reais e cinquenta e cinco centavos)
+
+G3352410195873511
+24/05/2021 10:28:06
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Daia 17/12/2020 Valor RS 36.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35525, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a DIMX DISTRIBUIDORA DE MATE, na
+conta 55.91], agência 1702 do banco DOL
+
+[Trinta e seis mil reais)
+
+G3342615183645921
+26/05/2021] 15:38:37
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:15:42
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+26/05/2021 — AUTOATENDIMENTO - 11.15.30
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : PMSC SAUDE
+
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 204.364,05
+DEBITO EM: 16/11/2020
+
+ 
+
+ 
+
+DOCUMENTO: 111602
+AUTENTICACAO SISBB: 2.869.431.4D4.5A0.F54
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 295-X
+Conta correme 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 18/11/2020 Valor RS 4.380,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 350164, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na dlata acima.
+Pagamento efetuado a CIRURGICA E DENTAL SAO CA, na
+conta 3.133, agência 3062 do banco 001.
+
+(Quatro mil e trezentos e oitenta reais)
+
+G3342615033125631
+26/05/2021 15:14:02
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 07/08/2020  ValorRS 8.679,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 33804, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a DENTAL MED SUL ARTIGOS OD, na
+conta 107.690, agência 4500 do banco 001.
+
+(Oito mil e seiscentos e setenta e nove reais)
+
+G3352411469355311
+24/05/2021 11:53:46
+Emissão de comprovantes
+
+G3342410447022971
+24/05/2021 10:58:32
+
+ 
+
+14/08/2020 - BANCO DO BRASIL -— 13:41:42
+029500295 SEGUNDA VIA 0001
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: PMSC SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA 68.827-4
+DATA DA TRANSFERENCIA 14/08/2020
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 1.800.000,00
+
+****** TRANSFERIDO PARA:
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.068.827
+
+ 
+
+ 
+
+NR. AUTENTICACAO 0.95D.0DC.5B8.25D.FAC
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data22/12/2020  ValorRS 4.641,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35595, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a HOSPILAR COMERCIO DE MATE, na
+conta 14.078, agência 6507 do banco 001.
+
+[Quatro mil e seiscentos e quarenta e um reais)
+
+G3342615183645921
+25/05/2021 15:35:33
+Agência 255-XK
+Coma corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 07/05/2020 Valor R5 50.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32261, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a NACIONAL COMERCIAL HOSPIT, na
+conta 160.087, agência 3370 dlo banco DOL
+
+[Cinquenta mil reais)
+
+G334211630703N01
+21/05/2021 16:33:01
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 28/12/2020 Valor RS 7.385,54 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC C/CTA, remessa 35637, lançado a débiro* em sua
+
+conta corrente 58827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a LUMAR COMERCIO DE PRODUTO, na
+
+conta 104.069, agência 6520 do banco 001
+
+[Sete mil e trezentos e oitenta e cinco reais e cinquenta e quatro centavos)
+
+G3342615183645921
+25/05/2021 15:29:32
+Agência 295-X
+Conia corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 29/06/2020 Valor RS 642,60 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32368, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a MULTIPACK COMERCIAL EMBAL, na
+conta 47.907, agência 3062 do banco 001.
+
+[seiscentos e quarenta e dois reais e sessenta centavos]
+
+G332211719811965]
+21/05/2021 17:35:37
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 02/06/2020 — ValorRS 1.550,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 33024, lançado a débito* em sua
+conta corrente 68827-4, agência 285-X, na data acima.
+Pagamento eferuado a RAP APARECIDA COMERCIO DE, na
+conta 695, agência 1241 do banco 237.
+
+[Um mil e quinhentos e cinquenta reais)
+
+G3362116547215401
+21/05/2021 16:58:32
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G3342511087507571
+25/05/2021 11:12:20
+
+ 
+
+Data01/10/2020 Valor RS 6.225,00 D
+importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34467, lançado a dépito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a FABRICA DE ARTEFATOS DE L, na
+conta 200.098, agência 2414 do banco 001
+
+[Seis mil e duzentos e vinte e cinco reais)
+
+ 
+Agência 285-X
+Conta corente 83284-7 PREFEITURA MUNICIPAL DE S
+
+G336251054681486]
+25/05/2021 1:07:03
+
+ 
+
+Data25/09/2020 valor RS 149,95 D
+Import referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32566, lançado a débito” em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a BARROS E BARROS COMERCIAL, na
+conta 5.519, agência 3124 do banco 237.
+
+[Cento e quarenta e nove reals e noventa e cinco centavos)
+
+ 
+Agência 295%
+Conta contente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G331251126793435]
+25/05/2021] 1:40:54
+
+ 
+
+Data23/10/2020 Valor RS 12.500,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34769, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a JDÃO ANTONIO DA SILVA, na conta
+13.003.063, agência 2022 do banco 033.
+
+[Doze mil e quinhentos reais)
+
+ 
+Emissão de comprovantes
+
+G3322117198119651
+21/05/2021 17:24:51
+
+ 
+
+21/05/2021 - BANCO DO BRASIL -— 17:24:49
+029500295 0003
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 10/06/2020
+NR. DOCUMENTO 306.200.000.217.000
+VALOR TOTAL 1.063.715,00
+
+****** TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 29.500.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO F.B2F.4D4.022.CEF.477
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 21200-8 PREFEITURA MUNICIPAL DE 5
+
+Data 18/05/2020 Valor RS 9.172,80 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32504, lançado a débito* em sua
+conta corrente 21200-8, agência 295-X, na clata acima.
+Pagamento efetuado a M TENDAS PROMOCOES E EVEN, na
+conta 24.413, agência 0918 do banco 001.
+
+[Nove mil e cento e setema e dois reais e oitenta centavos)
+
+(337211645596522]
+21/05/2021 15:47:13
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S&
+
+Daia 29/12/2020  ValorRS 52.65810 D
+
+Importa referente a pagamento a terceiros, modalidade PAG
+
+FORNEC DOC, remessa 35666, lançado a débito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a DNA CONSULTORIA GENETICA, na
+
+conta 138.682, agência 0217 do banco 237.
+
+[Cinquenta e clois mil e seiscentos e cinquenta e oito reais & dez centavos)
+
+6334261518364592]
+26/05/2021 15:46:07
+Agência 295-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+G336251054681486]
+25/05/2021 04:17
+
+ 
+
+Data 16/09/2020  valorRS 77arD
+Imponte referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32547, lançado a clébito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a BRASCANIO 5 CARLOS COM MA, na
+conta 5.171, agência 3062 do banco 001
+
+[Setenta e sete reais e oitenta e sete centavos)
+
+ 
+Agência 285-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 17/12/2020 Valor RS 5.850,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32752, lançado a débito* em sua
+conta corrente 83284-7, agência 235-X, na data acima.
+Pagamento efetuado a RAP APARECIDA COMERCIO DE, na
+conta 595, agência 124] do banco 237.
+
+[Cinco mil e oitocentos e cinquenta reais)
+
+G3362612008414251
+26/05/2021 12:17:47
+Emissão de comprovantes
+
+G3312511267934351
+25/05/2021 11:51:40
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+25/05/2021 — AUTOATENDIMENTO - 11.51.04
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : PMSC SAUDE
+
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 45.000.068-3
+
+FAVORECIDO: MUNICIPIO DE SAO CARLOS
+CPF/CNPJ: 45.358.249/0001-01
+
+VALOR: R$ 5.805.140,36
+DEBITO EM: 30/10/2020
+
+ 
+
+ 
+
+DOCUMENTO: 103001
+AUTENTICACAO SISBB: D.9B6.E6E.4C7.AFE.07F
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 15/07/2020 Valor RS 23.800,00 D
+Importa referente a pagamento a terceiros, modaliclade PAG
+FORNEC C/CTA, remessa 33533, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a PINHAL FORROS E DIVISÓRIA, na
+conta 23.148, agência 3062 do banco 001.
+
+[Vinte e três mil e oitocentos reais)
+
+(335241146935531
+
+24/05/2021
+
+:50:57
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 8
+
+Data 01/09/2020 — ValorRS 39.862,50 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC DOC, remessa 34096, lançado a débito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a DNA CONSULTORIA GENETICA, na
+
+conta 138.682, agência 0217 do banco 237.
+
+[Trinta e nove mil & oitocentos e noventa e dois reais e cinquenta centavos)
+
+G3352411469355311
+24/05/2021 12:02:48
+Agência 285-X
+Coma corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 24/06/2020 | Valor RS 2.760,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32353, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a CIRURGICA AVILA COM DE EQ, na
+conta 13.005.163, agência 0019 do banco 033.
+
+(Dois mil & setecentos e sessenta reais)
+
+G3322117198119651
+21/05/2021 17:33:48
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 23/06/2020 Valor R5 98.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 33262, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima
+Pagamento efetuado a SOQUIMICA LABORATÓRIOS LT, na
+conta 9.009, agência 0045 do banco 341
+
+[Noventa e oito mil reais)
+
+G336211/548089181
+21/05/2021 17:40:23
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 18/12/2020 Valor RS 140.244,30 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC DOC, remessa 35509, lançado a débito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a DNA CONSULTORIA GENETICA, na
+
+conta 138.682, agência 0217 do banco 237
+
+[Cento & quarenta mil = duzentos & quarenta & quatro reais e trinta centavos)
+
+G334261518354592]
+26/05/2021 15:44:44
+Agência 285-X
+Conta comente 68827-4 PREFEITURA MUNICIPAL DE S
+
+153312511267934351
+25/05/2021 11:35:02
+
+ 
+
+Data21/10/2020 Valor R$ 60.609,30 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 3474], lançado a débito" em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a DNA CONSULTORIA GENÉTICA, na
+conta 138.682, agência 0217 do banco 237.
+
+[Sessenta mil e seiscentos e nove reais e vinta centavos)
+
+ 
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:33:46
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+26/05/2021 — AUTOATENDIMENTO - 11.33.05
+0295X00295 SEGUNDA VIA 0002
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+CLIENTE: FUNDO MUNICIPAL DE SAUDE
+AGENCIA: 0295-X CONT. 73.064-5
+
+   
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : FUNDO MUNICIPAL DE SAUDE
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 145.278,88
+DEBITO EM: 22/12/2020
+
+ 
+
+ 
+
+DOCUMENTO: 122201
+AUTENTICACAO SISBB: 0.147.DF0.AD6.BC8.CAB
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 285-X
+Conia corrente 86827-4 PREFEITURA MUNICIPAL DE S
+
+Data 28/12/2020 — ValorRS 644,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35637, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a CRISTALIA PROD QUIMICOS F, na
+conta 2.014, agência 5115 do banco 001
+
+[Seiscentos e quarenta e quatro reais)
+
+G3342615183645921
+26/05/2021 15:30:09
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 29/08/2020 Valor RS 527,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 33319, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a CRISTALIA PROD QUIMICOS F, na
+conta 2.014, agência 5115 do banco 001.
+
+(Quinhentos e vinte e sete reais)
+
+G3362117348089181
+21/05/2021 17:43:03
+Agência 295-X
+Comia corrente 686274 PREFEITURA MUNICIPAL DE 5
+
+Data 17/11/2020 Valor R$ 3.330,00 D
+Importa referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 35048, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a ONECARE COMERCIO E SERVIC, na
+conta 144.643, agência 030] do banco 237.
+
+[Três mil e trezentos e trinta reais]
+
+G334261503312563]
+26/05/2021 15:12:55
+Emissão de comprovantes
+
+ 
+
+G3322116136230541
+21/05/2021 16:23:17
+
+ 
+
+21/05/2021 - BANCO DO BRASIL - 16:23:14
+029500295 0005
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+CLIENTE: PMSC SAUDE
+AGENCIA: 0295-X CONTA 68.827-4
+
+ 
+
+ 
+
+BANCO DO BRASIL
+
+ 
+
+00190000090282947100800000024174282350000943900
+
+BENEFICIARIO:
+EXACTADERME I E LTDA - ME
+
+NOME FANTASIA:
+
+EXACTADERME IMPORTACAO E EXPORTACAO
+CNPJ: 07.570.077/0001-46
+BENEFICIARIO FINAL:
+
+EXACTADERME IMP E EXP
+
+CNPJ: 07.570.077/0001-46
+
+PAGADOR:
+
+PREFEITURA MUNICIPAL DE SAO CARLOS
+CNPJ: 45.358.249/0001-01
+
+ 
+
+ 
+
+NR. DOCUMENTO 42.701
+NOSSO NUMERO 28294710000000024
+CONVENIO 02829471
+DATA DE VENCIMENTO 28/04/2020
+DATA DO PAGAMENTO 27/04/2020
+VALOR DO DOCUMENTO 9.439,00
+VALOR COBRADO 9.439,00
+
+ 
+
+NR. AUTENTICACAO 8.2B4.23B.9EB. 1AA.999
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+3312511267934351
+25/05/2021 1:43:06
+
+ 
+
+Data29/10/2020 Valor RS 8.640,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34822, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a FERNANDO UNIFORMES EIRELI, na
+conta 115.523, agência 3284 do banco 001
+
+[Oito mil & seiscentos e quarenta reais)
+
+ 
+Agência 295X
+Conta cortente 68827-4 PREFEITURA MUNICIPAL DE &
+
+G331251126793435]
+25/05/2021 1:32:52
+
+ 
+
+Data 16/0/2020 — ValorRS 3.830,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34696, lançado a débito* em sua
+conta corrente 68827-4, agência 255-X, na data acima.
+Pagamento efetuado a ONECARE COMERCIO E SERVIC, na
+conta 144.643, agência 0301 do banco 257.
+
+[Três mil e trezentos e trinta reais)
+
+ 
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G331251126793435]
+25/05/2021 11:30:15
+
+ 
+
+Data 14/1D/2020 Valor RS 1.899,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34645, lançado a débito” em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a INTERA COMERCIAL LTDA ME, na
+conta 1020, agência 4400 do banco 756.
+
+[Um mil E oitocentos e noventa e nove reais)
+
+ 
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:18:31
+
+ 
+
+27/11/2020 - BANCO DO BRASIL - 16:20:41
+029500295 SEGUNDA VIA 0002
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 27/11/2020
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 2.358.000,00
+
+****** TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO 7.DCB.D58.CFF.A86.CDF
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 285-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 18/12/2020 Valor RS 1.125,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32758, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a LUMAR COMERCIO DE PRODUTO, na
+conta 104.069, agência 6520 dlo banco 001.
+
+[Um mil e cento e vinte e cinco reais)
+
+G3362612008414251
+26/05/2021 12:13:04
+Agência 295X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G331251126793435]
+25/05/2021 11:41:58
+
+ 
+
+Data26/1D/2020 valor RS 414540 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34776, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a DANIEL DA CUNHA MOREIRA, na
+conta 114.685, agência 3052 do banco 001.
+
+[Quatro mil e cento e quarenta e cinco reais e quarenta centavos)
+
+ 
+Agência 295%
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE &
+
+15331251126793435]
+25/05/2021 11:36:03
+
+ 
+
+Data22/10/2020 valor RS 1.750,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34756, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a ROMAO EQUIPAMENTOS P/ ESC, na
+conta 3.257, agência 3062 do banco 001.
+
+[Um mil e setecentos e sessenta reais)
+
+ 
+Agência 285-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 10/08/2020 Valor RS 3.330,00 D
+Importa referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34230, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a ONECARE COMERCIO E SERVIC, na
+conta 144.645, agência 050] clo banco 237.
+
+(Três mil e trezentos e trinta reais)
+
+G3352411469355311
+24/05/2021 12:14:23
+Emissão de comprovantes
+
+G3322117198119651
+21/05/2021 17:31:10
+
+ 
+
+21/05/2021 - BANCO DO BRASIL -— 17:31:08
+029500295 0007
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+AGENCIA: 0295-X CONTA
+
+     
+
+BANCO DO BRASIL
+
+  
+
+00190000090309161800300023639172182920000999600
+BENEFICIARIO:
+
+CIRURGICA UNIAO LTDA.
+
+NOME FANTASIA:
+
+CIRURGICA UNIAO LTDA.
+
+CNPJ: 04.063.331/0001-21
+
+PAGADOR:
+
+MUNICIPIO DE SAO CARLOS
+
+CNPJ: 45.358.249/0001-01
+
+ 
+
+NR. DOCUMENTO 61.901
+
+NOSSO NUMERO 30916180000023639
+CONVENIO 03091618
+DATA DE VENCIMENTO 20/06/2020
+DATA DO PAGAMENTO 19/06/2020
+VALOR DO DOCUMENTO 9.996,00
+VALOR COBRADO 9.996,00
+
+ 
+
+NR. AUTENTICACAO F.683.DC1.E55.9B0.BDA
+
+ 
+
+ 
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Agência 285-X
+Conta cortente 68827-4 PREFEITURA MUNICIPAL DE &
+
+G334251087507571
+25/05/202] 1:17:21
+
+ 
+
+DataD9/10/2020 valor RS 3.010,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34598, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a EXITO MOVEIS PARA ESCRITO, na
+conta 18.200, agência 3062 do banco 001
+
+[Três mil e dez reais)
+
+ 
+Agência 295X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G3342511087507571
+25/05/202] 11:13:24
+
+ 
+
+Data020/2020 Valor R$ 5.517,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34489, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a ROMAO EQUIPAMENTOS P/ ESC, na
+conta 3.257, agência 3062 clo banco 001.
+
+[Cinco mil & quinhentos e dezessete reais)
+
+ 
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE &
+
+Data 28122020 Valor RS 6.240,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35637, lançado a débito* em sua
+conta corrente 68827-4, agência 205-X, na data acima.
+Pagamento efetuado a MARINGA HOSPITALAR DISTR, na
+conta 46.874, agência 1187 do banco 001
+
+(Seis mil e duzentos e quarenta reais)
+
+G3342615183645921
+26/05/2021 15:40:41
+Emissão de comprovantes
+
+G3362116547215401
+21/05/2021 17:01:25
+
+ 
+
+21/05/2021 - BANCO DO BRASIL -— 17:01:21
+029500295 0006
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+PMSC SAUDE
+0295-x CONTA: 68.827-4
+
+ 
+
+ 
+
+BANCO BRADESCO S.A.
+
+ 
+
+23792827069000000762612000003009482750000047520
+BENEFICIARIO:
+
+DIMEBRAS
+
+NOME FANTASIA:
+
+DIMEBRAS
+
+CNPJ: 56.081.482/0001-06
+
+PAGADOR:
+
+PREFEITURA MUNICIPAL DE SAO CARLOS
+
+CNPJ: 45.358.249/0001-01
+
+ 
+
+NR. DOCUMENTO 60.204
+DATA DE VENCIMENTO 03/06/2020
+DATA DO PAGAMENTO 02/06/2020
+VALOR DO DOCUMENTO 475,20
+VALOR COBRADO 475,20
+
+ 
+
+NR. AUTENTICACAO 5.7BB.E97.B7C.23E.7B1
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 07/07/2020 Valor RS 4.380,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 33412, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a CIRURGICA E DENTAL SÃO CA, na
+conta 3.133, agência 3062 do banco 001
+
+[Quatro mil e trezentos e oitenta reais)
+
+(3342410447022971
+24/05/2021 10:55:04
+Emissão de comprovantes
+
+G334251 1087507571
+25/05/2021 11:15:57
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+25/05/2021 — AUTOATENDIMENTO - 11.15.47
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : PMSC SAUDE
+
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 237.230,43
+DEBITO EM: 07/10/2020
+
+ 
+
+ 
+
+DOCUMENTO: 100701
+AUTENTICACAO SISBB: F.4C0.5BB.500.4D4.E22
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 285-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 28/09/2020 Valor RS 5.02515D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34424, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a ALIANCA TECIDOS E CONFECC, na
+conta 26.158, agência 6633 do banco 341.
+
+[Cinco mil e vinte e cinco reais e quinze centavos)
+
+G3352411469355311
+24/05/2021 12:18:31
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:32:33
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+26/05/2021 — AUTOATENDIMENTO - 11.32.31
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+CLIENTE: FUNDO MUNICIPAL DE SAUDE
+AGENCIA: 0295-X CONT. 73.064-5
+
+   
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : FUNDO MUNICIPAL DE SAUDE
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 167.126,87
+DEBITO EM: 22/12/2020
+
+ 
+
+ 
+
+DOCUMENTO: 122202
+AUTENTICACAO SISBB: 6.F3D.0BC.9BD.EC8.BA8
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G3372116386757811
+21/05/2021 16:42:17
+
+ 
+
+15/05/2020 - BANCO DO BRASIL -— 14:36:32
+029500295 SEGUNDA VIA 0007
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 15/05/2020
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 600.000,00
+
+****** TRANSFERIDO PARA:
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO B.39B.CED.0AE.49D.35E
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Agência 285-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 27/08/2020 Valor RS 54.608,40 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 3407], lançado a clébito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a DNA CONSULTORIA GENETICA, na
+
+conta 138.682, agência 0217 do banco 237.
+
+[Cingúenta e quatro mil e seiscentos e oito reais e quarenta centavos)
+
+G3352411469355311
+24/05/2021 11:59:58
+Agência 295-X
+Conta corrente 68827-4. PREFEITURA MUNICIPAL DE S
+
+G3312511257934351
+25/05/2021 1:29:00
+
+ 
+
+Data 13/0/2020 Valor RS 12.500,00 D
+Imports referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34626, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado à JOAO ANTONIO DA SILVA, ma conta
+13003063, agência 2022 do banco 033.
+
+[Doze mil e quinhentos reais]
+
+ 
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+G335241146935531
+24/05/2021 12:20:50
+
+ 
+
+Data 29/09/2020 Valor RS 5112,00D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34447, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a CLAUDIO VICENTE PEREIRA, na conta
+13.002.759, agência 3301 do banco 033.
+
+[Cinco mile cento e doze reais)
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 16/11/2020 | ValorRS 444,60D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35038, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a MEDILAR IMPORTACAO E DIST, na
+conta 13.845, agência 4044 do banco 001
+
+(Quatrocentos e quarenta e quatro reais e sessenta centavos)
+
+G3342615033125631
+26/05/2021 15:10:31
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 02/07/2020  ValorRS 3.865,81 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC C/CTA, remessa 33362, lançado a débito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a ATIVA COMERCIAL HOSPITALA, na
+
+conta 25.500, agência 3370 do banco 001.
+
+[Três mil e oitocentos e sessenta e cinco reais e oitenta e um centavos)
+
+G3352410195873511
+24/05/2021 10:26:55
+Agência 255-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 28/12/2020  ValorRS 84.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 35636, lançado a débito” em sua
+coma corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a MULTICARE MEDICAL COMERCI, na
+coma 14.474, agência 0546 do banco 341.
+
+(Oitenta e quatro mil reais)
+
+G334261518364592]
+26/05/2021 15:37:27
+Emissão de comprovantes
+
+G3362117348089181
+21/05/2021 17:53:13
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+21/05/2021 — AUTOATENDIMENTO - 17.53.10
+0295X00295 SEGUNDA VIA 0003
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : PMSC SAUDE
+
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 45.000.068-3
+
+FAVORECIDO: MUNICIPIO DE SAO CARLOS
+CPF/CNPJ: 45.358.249/0001-01
+
+VALOR: R$ 6.999,61
+DEBITO EM: 09/12/2020
+
+ 
+
+ 
+
+DOCUMENTO: 120904
+AUTENTICACAO SISBB: E.DAO.F2F.1FA.383.C75
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 285-X
+Coma corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 10/07/2020 | Valor RS 296.800,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32398, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a MULTICARE MEDICAL COMERCI, na
+conta 14.474, agência 0545 do banco 341,
+
+[Duzentos e noventa e seis mil e oitocentos reais)
+
+G3342410127631297]
+24/05/2021 10:32:13
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 07/12/2020 Valor R$ 17.900,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35351, lançado a débito* em sua
+conta corrente 58827-4, agência 205-X, na data acima.
+Pagamento efetuado a LUMAR COMERCIO DE PRODUTO, na
+conta 104.069, agência 6520 do banco 001.
+
+[Dezessete mil e novecentos reais)
+
+G3342615183645921
+26/05/2021 15:28:11
+Emissão de comprovantes
+
+ 
+
+G3372116456965221
+21/05/2021 16:50:18
+
+ 
+
+21/05/2021 - BANCO DO BRASIL - 16:50:14
+029500295 0006
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+CLIENTE: PMSC SAUDE
+AGENCIA: 0295-X CONTA 68.827-4
+
+ 
+
+ 
+
+BANCO DO BRASIL
+
+ 
+
+00190000090282947100800000025171382560000943900
+
+BENEFICIARIO:
+EXACTADERME I E LTDA - ME
+
+NOME FANTASIA:
+
+EXACTADERME IMPORTACAO E EXPORTACAO
+CNPJ: 07.570.077/0001-46
+BENEFICIARIO FINAL:
+
+EXACTADERME IMP E EXP
+
+CNPJ: 07.570.077/0001-46
+
+PAGADOR:
+
+PREFEITURA MUNICIPAL DE SAO CARLOS
+CNPJ: 45.358.249/0001-01
+
+ 
+
+ 
+
+NR. DOCUMENTO 51.503
+NOSSO NUMERO 28294710000000025
+CONVENIO 02829471
+DATA DE VENCIMENTO 15/05/2020
+DATA DO PAGAMENTO 15/05/2020
+VALOR DO DOCUMENTO 9.439,00
+VALOR COBRADO 9.439,00
+
+ 
+
+NR. AUTENTICACAO 8.390.91E.359.424.899
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:13:40
+
+ 
+
+23/10/2020 - BANCO DO BRASIL -— 15:13:52
+029500295 SEGUNDA VIA 0007
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 23/10/2020
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 1.194.000,00
+
+****** TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO 0.5AD.08F.716.78C.9F6
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G33221171981 19651
+21/05/2021 17:25:15
+
+ 
+
+09/06/2020 - BANCO DO BRASIL - 12:03:30
+029500295 SEGUNDA VIA 0001
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 09/06/2020
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 2.913.374,42
+
+****** TRANSFERIDO PARA:
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO 5.ACF.F7D.2E6.4D6.4D1
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 1812/2020 — ValorRS 32.200,00 D
+Importa referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32758, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a R DE SOUZA TRENTO EPP, na conta
+23.194, agência 4500 do banco 001,
+
+(Trinta e dois mil e duzentos reais)
+
+3362612008414251
+26/05/2021 12:24:31
+Agência 295-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 29/12/2020 Valor RS 1.840,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 3279], lançado a débito* em sua
+conta corrente 85284-7, agência 295-X, na data acima.
+Pagamento efetuado a ALESSANDRA ROBERTA THOMAZ, na
+conta 1589, agência 3062 do banco 001.
+
+[Um mil = oitocentos & quarenta reais)
+
+G3362612008414251
+25/05/2021 12:16:24
+Agência 255-X
+Conta corrente 73064-5 PREFEITURA MUNICIPAL DE S
+
+(G3362510546814861]
+25/05/2021 11:05:30
+
+ 
+
+Data 17/09/2020 Valor RS 127.028,75 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC DOC, remessa 32554, lançado a débito* em sua
+
+conta corrente 73064-5, agência 255-X, na data acima.
+
+Pagamento efetuado a ORGANIZAÇÃO SOCIAL DE MED, na
+
+conta 13.006.503, agência 0024 do banco 033.
+
+(Cento e vinte e sete mil e vinte = oito reais e setenta e cinco centavos)
+
+ 
+Emissão de comprovantes
+
+G3312012261015601
+20/05/2021 12:33:51
+
+ 
+
+02/04/2020 - BANCO DO BRASIL - 12:04:50
+029500295 SEGUNDA VIA 0006
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 02/04/2020
+NR. DOCUMENTO 556.505.000.001.411
+VALOR TOTAL 56.000,00
+
+****** TRANSFERIDO PARA:
+CLIENTE: FUTURA C DE PM E HO
+
+AGENCIA: 6505-6 CONTA: 1.411-7
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO 3.C52.CA5.0D2.45A.4B4
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295-X
+Conia corrente 63827-4 PREFEITURA MUNICIPAL DE S
+
+Data 2812/2020 Valor RS 11,40D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35637, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a MEDILAR IMPORTACAO E DIST, na
+conta 13.845, agência 4044 do banco 001.
+
+[Onze reais e quarenta centavos)
+
+G3342615183645921
+26/05/2021 15:52:44.
+Agência 2985-X
+Comia corrente 68627-4 PREFEITURA MUNICIPAL DE S
+
+Data 20/11/2020 | Valor RS 36.000,00 D
+Importe referente a pagamento a terceiros, mocialiclacie PAG
+FORNEC C/CTA, remessa 35091, lançado a débito” em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a DIVIX DISTRIBUIDORA DE MATE, na
+conta 55.91], agência 1702 do banco 001
+
+(Trinta e seis mil reais)
+
+G3342615033125631
+26/05/2021 15:16:16
+Emissão de comprovantes
+
+G3312012261015601
+20/05/2021 12:39:47
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+20/05/2021 — AUTOATENDIMENTO - 12.39.42
+0295X00295 SEGUNDA VIA 0005
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : PMSC SAUDE
+
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 2022-2 - S CARLOS CATEDRAL-INT-SP
+CONTA: 13.002.954-4
+
+FAVORECIDO: BESSA SAFETY CONSULTORIA E ASSESSOR
+CPF/CNPJ: 30.110.436/0001-02
+
+VALOR: R$ 1.489,00
+DEBITO EM: 06/04/2020
+
+ 
+
+ 
+
+DOCUMENTO: 040601
+AUTENTICACAO SISBB: 3.9C7.012.CD8.80D.04C
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:20:44
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+26/05/2021 — AUTOATENDIMENTO - 11.20.41
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+REMETENTE : PMSC SAUDE
+
+BANCO: 237 - BANCO BRADESCO S.A.
+AGENCIA: 0217-8 - S.CARLOS - CTO
+CONTA: 138.682-4
+
+FAVORECIDO: DNA CONSULT GENETICA E BIOTECNOLOGI
+CPF/CNPJ: 03.062.362/0001-03
+
+VALOR: R$ 24.999,30
+DEBITO EM: 30/11/2020
+
+ 
+
+ 
+
+DOCUMENTO: 113004
+AUTENTICACAO SISBB: 7.48E.6A8.DCB.849.A6D
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 295-X
+Conta conente 83284-7 PREFEITURA MUNICIPAL DE S
+
+15336251054681486]
+25/05/2021 1:09:20
+
+ 
+
+Data 08/10/2020 Valor RS 122,80 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32593, lançado a dépito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a MULTIPACK COMERCIAL EMBAL, na
+conta 47.907, agência 3062 do banco 001.
+
+(Cento e vinte e dois reais e sessenta centavos)
+
+ 
+Agência 255-XK
+Conta corrente 83264-7 PREFEITURA MUNICIPAL DE S
+
+Data 11/05/2020 Valor R5 17.500,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32272, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a SOQUIMICA LABORATÓRIOS LT, na
+conta 9.009, agência 0045 clo banco 341
+
+[Dezessete mil e quinhentos reais)
+
+G3342116307031101
+21/05/2021 16:35:25
+Emissão de comprovantes
+
+G3362012180755371
+20/05/2021 12:22:37
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+20/05/2021 — AUTOATENDIMENTO - 12.22.30
+0295X00295 SEGUNDA VIA 0005
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+REMETENTE : PMSC SAUDE
+
+BANCO: 104 - CAIXA ECONOMICA FEDERAL
+AGENCIA: 1001-4 — VILA HAUER
+
+CONTA: 300.001.330-0
+
+FAVORECIDO: BRASFISIO COM DE EQUIPAMENTOS FISIO
+CPF/CNPJ: 01.068.993/0001-04
+
+VALOR: R$ 1.245,00
+DEBITO EM: 20/03/2020
+
+ 
+
+ 
+
+DOCUMENTO: 032006
+AUTENTICACAO SISBB: 8.8EC.584.A06.C6F.7E3
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G3342117078146071
+21/05/2021 17:16:51
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+21/05/2021 — AUTOATENDIMENTO - 17.16.47
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : PMSC SAUDE
+
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 135.508,84
+DEBITO EM: 09/06/2020
+
+ 
+
+ 
+
+DOCUMENTO: 060901
+AUTENTICACAO SISBB: E.D28.98D.FFE.4AC.4EE
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295%
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G3312511267934351
+25/05/2021 1:55:04
+
+ 
+
+DataD6/11/2020 Valor R5 2.263,39 D
+
+importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34862, lançado a débito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a ALFALAGOS LTDA, na conta 12160,
+agência 0168 do banco 001.
+
+[Dois mil e duzentos e sessenta e três reais e tinta e nove centavos)
+
+ 
+Agência 295-X
+Conta corrente 83284-7 | PREFEITURA MUNICIPAL DE S
+
+Data 23/06/2020 Valor RS 252.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32352, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a SOQUIMICA LABORATÓRIOS LT, na
+conta 9.009, agência 0045 do banco 341.
+
+[Duzentos e cinquenta e dois mil reais)
+
+G3322117198119651
+21/05/2021 17:32:39
+Agência 285-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 29/12/2020 | Valor RS 65.291,46 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC DOC, remessa 35700, lançado a débito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamemo efetuado a PREFEITURA MUNICIPAL DE 5, na
+
+conta 45.000.068, agência 0024 do banco 033.
+
+[Sessenta e seis mil e duzentos e noventa e um reais e quarenta e seis centavos)
+
+G336211734808918]
+21/05/2021 17:59:27
+Agência 295-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+G336251054661486]
+25/05/2021 11:08:02
+
+ 
+
+Data25/09/2020 valor RS 5.000,00 D
+Import referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32565, lançado a débito! em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a PAULO ROBERTO MACEDO DE M, na
+conta 22 06], agência 6504 do banco 001.
+
+[Cinco mil reais]
+
+ 
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:31:32
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+26/05/2021 — AUTOATENDIMENTO - 11.31.24
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+AGENCIA: 0295-X CONT. 83.284-7
+
+   
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : SP 354890 FMS CUSTEIO SUS
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 301.107,16
+DEBITO EM: 22/12/2020
+
+ 
+
+ 
+
+DOCUMENTO: 122202
+AUTENTICACAO SISBB: 8.5C1.432.393.48E.EA3
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE 5
+
+Data 23/10/2020 Valor RS 996,42 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32625, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a MED CENTER COMERCIAL LTDA, na
+conta 1162, agência 0368 do banco 001
+
+[Novecentos e noventa e seis reais e quarenta e dois centavos)
+
+G33626/2008414251
+26/05/2021 12:07:10
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE &
+
+Dara 24/08/2020 Valor R5 244,80 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 33276, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a LUMAR COMERCIO DE PRODUTO, na
+conta 104.069, agência 6520 do banco 001.
+
+[Duzentos e quarenta e quatro reais e oitenta centavos)
+
+G336211734808818]
+21/05/2021 17:41:45
+Agéncia 255-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G3312511267934351
+25/05/2021 1:47:46
+
+ 
+
+Data05/11/2020 valor RS 9.794,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34856, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a DENTAL MED SUL ARTIGOS OD, na
+conta 107590, agência 4500 do banco 001.
+
+[Nove mil e setecentos e noventa e quatro reais)
+
+ 
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data27/11/2020 | Valor RS 54.900,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35218, lançado a dêbito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a DENTAL MED SUL ARTIGOS OD, na
+conta 107.590, agência 4500 do banco 001.
+
+[Cinquenta e quatro mil e novecentos reais)
+
+G334261518364592]
+26/05/202] 15:25:18
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 22/05/2020  ValorRS 5.060,70 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32954, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a DNA CONSULTORIA GENETICA, na
+conta 138.682, agência 0217 do banco 237.
+
+(Cinco mil e sessenta reais € setenta centavos)
+
+(337211645696522]
+21/05/2021 16:52:44
+Agência 285-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 2611/2020 | Valor RS 1.564,46 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC C/CTA, remessa 35205, lançado a débito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima
+
+Pagamento efetuado a LUMAR COMERCIO DE PRODUTO, na
+
+conta 104.069, agência 6520 do banco 001,
+
+[Um mil e quinhentos e sessenta e quatro reais e quarenta e seis centavos)
+
+G334261503512563]
+26/05/2021 15:18:29
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 10/06/2020 Valor RS 10.638,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 33152, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a DNA CONSULTORIA GENETICA, na
+conta 138.582, agência 0217 do banco 237
+
+(Dez mil e seiscentos e trinta e oito reais)
+
+G3572117187797081
+21/05/2021 17:22:57
+Emissão de comprovantes
+
+G3312012261015601
+20/05/2021 12:30:48
+
+ 
+
+20/05/2021 - BANCO DO BRASIL -— 12:30:42
+029500295 0005
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+PMSC SAUDE
+0295-x CONTA: 68.827-4
+
+ 
+
+ 
+
+BANCO COOPERATIVO SICOOB SA BA
+
+ 
+
+75691503240102367560400227770013182130000540000
+BENEFICIARIO:
+
+CIRURGICA PIRASSUNUNGA LTDA
+
+NOME FANTASIA:
+
+CIRURGICA PIRASSUNUNGA LTDA
+
+CNPJ: 64.623.291/0001-57
+
+PAGADOR:
+
+PREF .MUNICIPAL DE SAO CARLOS
+
+CNPJ: 45.358.249/0001-01
+
+ 
+
+NR. DOCUMENTO 33.001
+
+DATA DE VENCIMENTO 02/04/2020
+DATA DO PAGAMENTO 30/03/2020
+VALOR DO DOCUMENTO 5.400,00
+VALOR COBRADO 5.400,00
+
+ 
+
+NR. AUTENTICACAO 3.1A5.9B7.4AE.FAF.32D
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295-X
+Coma corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 24/08/2020 Valor RS 27.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32494, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a PONTE SAUDE ARTIGOS MEDIC, na
+conta 30.45], agência 6624 do banco 001
+
+[Vinte e sete mil reais)
+
+G3342410276312971
+24/05/2021 10:40:44
+Agência 295-X
+Conia corrente 21200-5 PREFEITURA MUNICIPAL DE S
+
+Data 19/06/2020 Valor RS 9.880,00 D
+Importe referente a pagamento a terceiros, modialidacde PAG
+FORNEC DOC, remessa 33244, lançado a débito” em sua
+conta corrente 21200-8, agência 295-X, na data acima.
+Pagamento efetuado a RICARDO DONIZETI DA SILVA, na
+conta 13.003.104, agência 2022 do banco 053
+
+[Nove mil e oitocentos e oitenta reais)
+
+G336211734808818]
+21/05/2021 17:39:15
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:16:42
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+26/05/2021 — AUTOATENDIMENTO - 11.16.40
+0295X00295 SEGUNDA VIA 0002
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+CLIENTE: FUNDO MUNICIPAL DE SAUDE
+AGENCIA: 0295-X CONT. 73.064-5
+
+   
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : FUNDO MUNICIPAL DE SAUDE
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 204.064,98
+DEBITO EM: 16/11/2020
+
+ 
+
+ 
+
+DOCUMENTO: 111601
+AUTENTICACAO SISBB: 8.586.DA7.289.060.E41
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 07/07/2020 | ValorRS 1.064,40 D
+Importe referente a pagamento a terceiros, modialicacie PAG
+FORNEC C/CTA, remessa 33412, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a CIRURGICA FERNANDES COM M;, na
+conta 301.097, agência 3355 do banco 001.
+
+[Um mil & sessenta e quatro reais e quarenta centavos)
+
+(3542410447022971
+24/05/2021 10:55:49
+Agência 285-X
+Conta corrente 66827-4 PREFEITURA MUNICIPAL DE S
+
+Data22/12/2020 Valor RS 92.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35595, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a FABRICA DE ARTEFATOS DE L, na
+conta 200.098, agência 2414 do banco 001.
+
+[Noventa e dois mil reais)
+
+G334261518364592]
+25/05/2021 15:36:19
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Dara 25/11/2020 | Valor RS 12.500,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 3519], lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a JOAO ANTONIO DA SILVA, na coma
+13.003.063, agência 2022 do banco 033.
+
+[Doze mil e quinhentos reais)
+
+G3342615033125631
+26/05/2021 15:17:25
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data28/09/2020 Valor RS 35.460,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34426, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a DNA CONSULTORIA GENETICA, na
+conta 138.682, agência 0217 clo banco 237.
+
+(Trinta e cinco mil e quarocentos e sessenta reais)
+
+G3352411469355311
+24/05/2021 12:19:25
+Emissão de comprovantes
+
+G3312012261015601
+20/05/2021 12:40:44
+
+ 
+
+07/04/2020 - BANCO DO BRASIL -— 11:09:28
+029500295 SEGUNDA VIA 0002
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 07/04/2020
+NR. DOCUMENTO 556.505.000.001.411
+VALOR TOTAL 84.000,00
+
+****** TRANSFERIDO PARA:
+CLIENTE: FUTURA C DE PM E HO
+
+AGENCIA: 6505-6 CONTA: 1.411-7
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO A.53B.P71.09E.FEF.883
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 285-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 28/12/2020 Valor RS 24.375,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32787, lançado a débito" em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a A F R DISTRIBUIDORA DE PR, na conta
+36.049, agência 1187 do banco 001.
+
+[Vinte e quairo mil e trezentos e setenta e cinco reais)
+
+G3362612008414251
+26/05/2021 12:25:47
+Agência 285-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 29/06/2020 | Valor RS 18.180,00 D
+Importa referente a pagamento a terceiros, modalidade PAG
+FORNEC CYCTA, remessa 33319, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a PROVIDER PRODUTOS HOSPITA, na
+conta 48.516, agência 1869 do banco 001
+
+(Dezoito mil e cento e oitenta reais)
+
+G3352410195873511
+24/05/2021 10:22:15
+Agência 295-X
+Conta comente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G3312511267934351
+25/05/2021 11:36:38
+
+ 
+
+Data22/0/2020 Valor R$ 3.592,40 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34756, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a LUMAR COMERCIO DE PRODUTO, na
+conta 104.069, agência 6520 do banco 001.
+
+[Três mil e quinhentos e novema € dois reais e quarenta centavos)
+
+ 
+Emissão de comprovantes
+
+G3312012261015601
+20/05/2021 12:38:23
+
+ 
+
+03/04/2020 - BANCO DO BRASIL -— 11:57:26
+029500295 SEGUNDA VIA 0007
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 03/04/2020
+NR. DOCUMENTO 556.520.000.104.069
+VALOR TOTAL 364,00
+
+****** TRANSFERIDO PARA:
+CLIENTE: LUMAR COM PROD FARM
+
+AGENCIA: 6520-X CONTA: 104.069-3
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO 8.5D9.20C.DDA.AEC.23F
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 255-XK
+Conta corrente 83264-7 PREFEITURA MUNICIPAL DE S
+
+Data 18/12/2020 Valor R$ 7.340,00 D
+Imports referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32760, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a RP4 DISTRIBUIDORA DE MEDI, na
+conta 15.500, agência 0659 do banco 341.
+
+(Sete mil e trezentos e quarenta reais)
+
+G3362612008414251
+26/05/2021 12:12:04
+Emissão de comprovantes
+
+G335241 1469355311
+24/05/2021 12:08:55
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+24/05/2021 — AUTOATENDIMENTO - 12.08.51
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : PMSC SAUDE
+
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 41.354,85
+DEBITO EM: 04/09/2020
+
+ 
+
+ 
+
+DOCUMENTO: 090402
+AUTENTICACAO SISBB: F.18B.398.C5B.F01.FB3
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295-X
+Coma corrente 21200-8 PREFEITURA MUNICIPAL DE S&
+
+Data 07/07/2020 Valor RS 9.950,00 D
+Importa referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 33415, lançado a débito* em sua
+conta corrente 21200-8, agência 295-X, na data acima.
+Pagamento efetuado a CAIO HENRIQUE CARDOSO 410, na
+conta 13.003.199, agência 2022 do banco 033.
+
+[Nove mil & novecentos e cinquenta reais)
+
+6334241044702297]
+24/05/2021 10:54:02
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 8
+
+Data 17/12/2020  ValorRS 2.170,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 35524, lançado a débito* em sua
+conta corrente 68827-4, agência 2095-X, na data acima.
+Pagamento efetuado a EVERTON DA SILVA VASCONCE, na
+conta 18.976, agência 0049 do banco 341.
+
+[Dois mil = cento & setenta reais)
+
+G3342615183645921
+26/05/2021 15:51:41
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 10/07/2020 | Valor R$ 50.400,00 D
+Importe referente a pagamento a terceiros, mocialidaci= PAG
+FORNEC DOC, remessa 33488, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a MULTICARE MEDICAL COMERCI, na
+conta 14.474, agência 0545 do banco 341,
+
+[Cinquenta mil e quatrocentos reais]
+
+G3342410447022971
+24/05/2021 1:04:25
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G331251125793435]
+25/05/2021 11:57:36
+
+ 
+
+Data 11/11/2020 valor RS 1.567,80 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34953, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a CBS MED CIENT COM REPRES, na
+conta 4.400, agência 3344 do banco 001.
+
+[Um mil e quinhentos e sessenta e sete reais e oitenta centavos)
+
+ 
+Agência 285-X
+Conta corrente 83284-7 | PREFEITURA MUNICIPAL DE 5
+
+Data 17/12/2020 Valor RS 2.24224D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+FÓRNEC C/CTA, remessa 32751, lançado a débito* em sua
+
+conta corrente 83284-7, agência 295-X, na data acima.
+
+Pagamento efetuado a ATIVA COMERCIAL HOSPITALA, na
+
+conta 25.500, agência 3370 do banco 001.
+
+(Dois mil e duzentos e quarenta & dois reais e vinte e quatro centavos)
+
+G3362612008414251
+26/05/2021 12:20:28
+Agência 285-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 01/09/2020 — ValorRS 4.100,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34092, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a CLASSMED PRODUTOS HOSPIT, na
+conta 28.852, agência 0359 clo banco 001.
+
+[Quaro mil e cem reais)
+
+G335241146935531]
+24/05/2021 12:01:42
+Agência 265%
+Conta cortente 68827-4 PREFEITURA MUNICIPAL DE &
+
+G331251126795435]
+25/05/2021 1:38:
+
+ 
+
+Data05/11/2020 Valor RS 794,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34856, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a DENTAL MED SUL ARTIGOS OD, na
+conta 107.690, agência 4500 do banco 00]
+
+[Nove mil e setecentos e noventa e quatro reais)
+
+ 
+Agência 295-X
+Coma corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 19/08/2020 Valor RS 2.280,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32481, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a PROTEC EXPORT INDUSTRIA, na
+conta 11.079, agência 1546 do banco 001
+
+(Dois mil e duzentos e oitenta reais)
+
+G334241027631297]
+24/05/2021 10:39:37
+Agência 295-X
+Conta corrente 21200-8 PREFEITURA MUNICIPAL DE S
+
+Data 18/05/2020 Valor RS 8.800,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32906, lançado a débito* em sua
+conta corrente 21200-8, agência 255-X, na data acima.
+Pagamento efetuado a VICTOR ALBERTO DE NARDI, na conta
+85.522, agência 0295 do banco 001.
+
+[Oito mil e oitocentos reais)
+
+(337211645696522]
+21/05/2021 16:48:42
+Emissão de comprovantes
+
+G3312012261015601
+20/05/2021 12:32:02
+
+ 
+
+01/04/2020 - BANCO DO BRASIL -— 12:31:14
+029500295 SEGUNDA VIA 0002
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: PMSC SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA 68.827-4
+DATA DA TRANSFERENCIA 01/04/2020
+NR. DOCUMENTO 556.509.000.108.835
+VALOR TOTAL 9.439,00
+
+****** TRANSFERIDO PARA:
+CLIENTE: EXACTADERME IMP EXP LTDA
+
+AGENCIA: 6509-9 CONTA: 108.835-1
+NR. DOCUMENTO 550.295.000.068.827
+
+ 
+
+ 
+
+NR. AUTENTICACAO C.735.B66.590.9BB.F5C
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G3372116386757811
+21/05/2021 16:43:58
+
+ 
+
+14/05/2020 - BANCO DO BRASIL -— 16:03:17
+029500295 SEGUNDA VIA 0002
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 14/05/2020
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 600.000,00
+
+****** TRANSFERIDO PARA:
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO 7.775.3F4.E2A.70B.FAF
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Agência 285-X
+Conia corrente 73084-5 PREFEITURA MUNICIPAL DE S
+
+Data 08/06/2020 | Valor RS 53.820,23 D
+
+Importa referente a pagamento a terceiros, modalidade PAS
+FORNEC DOC, remessa 32325, lançado a débito* em sua
+
+conta corrente 73064-5. agência 295-X, na data acima.
+
+Pagamento efetuado a ORGANIZACAO SOCIAL DE MED, na
+
+conta 13.006.503, agência 0024 do banco 033.
+
+[Cinquenta e três mil e oitocentos e vinte reais e vinte e três centavos)
+
+G3322117168045501
+21/05/2021 17:18:33
+Emissão de comprovantes
+
+G3322012381367221
+20/05/2021 12:47:47
+
+ 
+
+16/04/2020 - BANCO DO BRASIL -— 12:17:38
+029500295 SEGUNDA VIA 0001
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: PMSC SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA 68.827-4
+DATA DA TRANSFERENCIA 16/04/2020
+NR. DOCUMENTO 552.589.000.200.125
+VALOR TOTAL 7.140,00
+
+****** TRANSFERIDO PARA:
+CLIENTE: CAMARGO SCIENCE SOL DIAGN
+AGENCIA: 2589-5 CONTA: 200.125-x
+NR. DOCUMENTO 550.295.000.068.827
+
+ 
+
+ 
+
+NR. AUTENTICACAO 1.332.FFA.36D.CE7.7FD
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S&
+
+Dara 03/09/2020 | ValorRS 7.849,92 D
+
+Importa referente a pagamento a terceiros, modalidade PAG
+
+FORNEC C/CTA, remessa 34123, lançado a débito* em sua
+
+conta corrente 58827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a PONTE SAUDE ARTIGOS MEDIC, na
+
+conta 30.45], agência 5624 do banco 001.
+
+[Sete mil e oitocentos e quarenta & nove reais e noventa e dois centavos)
+
+G335241146935531
+24/05/2021 12:05:29
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:11:00
+
+ 
+
+09/10/2020 - BANCO DO BRASIL - 14:58:50
+029500295 SEGUNDA VIA 0012
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 09/10/2020
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 972.000,00
+
+****** TRANSFERIDO PARA:
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO 6.1CA.1F2.49B.862.F4C
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:25:35
+
+ 
+
+26/05/2021 - BANCO DO BRASIL - 11:25:28
+029500295 0002
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+AGENCIA: 0295-X CONTA 83.284-7
+
+ 
+
+ 
+
+BANCO SANTANDER (BRASIL) S.A.
+
+ 
+
+03399854264900000000732917701016684980000127776
+
+BENEFICIARIO:
+ATIVA COMERCIAL HOSPITALAR LTDA
+NOME FANTASIA:
+
+ATIVA COMERCIAL HOSPITALAR LTDA
+CNPJ: 04.274.988/0001-38
+BENEFICIARIO FINAL:
+
+ATIVA COMERCIAL HOSPITALAR LTDA
+CNPJ: 04.274.988/0001-38
+PAGADOR:
+
+MUNICIPIO DE SAO CARLOS
+
+CNPJ: 45.358.249/0001-01
+
+ 
+
+ 
+
+NR. DOCUMENTO 122.901
+DATA DE VENCIMENTO 12/01/2021
+DATA DO PAGAMENTO 29/12/2020
+VALOR DO DOCUMENTO 1.277,76
+VALOR COBRADO 1.277,76
+
+ 
+
+NR. AUTENTICACAO C.EF3.7B4.2FE.7D1.4A0
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data22/12/2020 —ValorRS 684,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35595, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamemo efetuado a MEDILAR IMPORTACÃO E DIST, na
+conta 13.845, agência 4044 do banco 001.
+
+[Seiscentos e oitenta e quatro reais)
+
+334261518364592]
+25/05/2021 15:51:36
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 23/07/2020 — ValorRS 2.450,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 33637, lançado a débito” em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a TECNOCIRURGICA COMERCIO D, na
+conta 13.002 288, agência 3425 do banco 033.
+
+(Dois mil e quatrocentos e cinquenta reais)
+
+G3342410447022971
+24/05/2021 11:03:03
+Agência 295-X
+Conia corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Daia 26/11/2020 | Valor RS 28.665,65 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC DOC, remessa 35210, lançado a débito* em sua
+
+conta corrente 58827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a SAN CIRO APART HOTEL LTDA, na
+
+conta 13.58], agência 3124 do banco 237.
+
+[Vinte e oito mil & seiscentos e noventa e cinco reais e sessenta e cinco centavos)
+
+G3342615033125631
+26/05/2021 15:19:36
+Agência 295-X
+Conta conente 68827-4 PREFEITURA MUNICIPAL DE S
+
+(G334251108750757]
+25/05/2021 N:1:22
+
+ 
+
+Data01/10/2020 valor RS 9.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34468, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento eletuado a NATALIA CORASIN, na conta
+1303090, agência 4730 do banco 033.
+
+[Nove mil reais)
+
+ 
+Agência 295X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+(331251126793435]
+25/05/2021 11:31:45
+
+ 
+
+Data 14/10/2020 valor RS 763,41 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34550, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a PROJETO AGUA COMERCIO VAR, na
+conta 1470, agência 5853 do banco 001.
+
+[setecentos e sessenta e três reais e quarenta e um centavos)
+
+ 
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G3342511087507571
+25/05/202] 11:14:35
+
+ 
+
+Data 06/10/2020 valor RS 8.800,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34528, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a NACIONAL COMERCIAL HOSPIT, na
+conta 150.087, agência 3370 do banco 001.
+
+(Oito mil e oitocentos reais)
+
+ 
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 07/12/2020 Valor RS 58.000,00 D
+Imports referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35351, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a NACIONAL COMERCIAL HOSPIT, na
+conta 160.087, agência 3370 do banco 001.
+
+[Cinquenta e oito mil reais)
+
+G3342615183645921
+26/05/2021 15:27:29
+Emissão de comprovantes
+
+G335241 1469355311
+24/05/2021 12:11:41
+
+ 
+
+24/05/2021 - BANCO DO BRASIL -— 12:11:38
+029500295 0004
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+PMSC SAUDE
+0295-x CONTA: 68.827-4
+
+ 
+
+ 
+
+BANCO COOPERATIVO SICREDI S.A.
+
+ 
+
+74891120321197750217545003841066183730000240000
+BENEFICIARIO:
+
+INOVAMED COMERCIO DE MEDICAMEN
+
+NOME FANTASIA:
+
+INOVAMED COMERCIO DE MEDICAMEN
+
+CNPJ: 12.889.035/0001-02
+
+PAGADOR:
+
+MUNICIPIO DE SAO CARLOS
+
+CNPJ: 45.358.249/0001-01
+
+ 
+
+NR. DOCUMENTO 90.406
+DATA DE VENCIMENTO 09/09/2020
+DATA DO PAGAMENTO 04/09/2020
+VALOR DO DOCUMENTO 2.400,00
+VALOR COBRADO 2.400,00
+
+ 
+
+NR. AUTENTICACAO 6.F5B.925.4A5.70B.46D
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 205-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 18/06/2020 | Valor RS 10.952,60 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 33223, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a DNA CONSULTORIA GENETICA, na
+conta 138.682, agência 0217 do banco 237.
+
+[Dez mil e novecentos e noventa e dois reais e sessenta centavos)
+
+G3562117348089181
+21/05/2021 17:37:20
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 09/06/2020 Valor RS 273,30 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 33108, lançado a débito” em sua
+conta corrente 68827-4, agência 285-X, na data acima.
+Pagamento efetuado a LUMAR COMERCIO DE PRODUTO, na
+conta 104.069, agência 6520 do banco 001.
+
+[Duzentos e setenta e três reais e trinta centavos)
+
+G33/2117187797051
+21/05/2021 17:21:23
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:14:14
+
+ 
+
+23/10/2020 - BANCO DO BRASIL -— 15:13:52
+029500295 SEGUNDA VIA 0004
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 23/10/2020
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 1.152.000,00
+
+****** TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO A.91D.CF3.778.2BC.848
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G3342615183645921
+26/05/2021 16:11:11
+
+ 
+
+26/05/2021 - BANCO DO BRASIL - 16:09:39
+029500295 0002
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+SP 354890 FMS CUSTEIO SUS
+0295-x CONTA 83.284-7
+
+ 
+
+ 
+
+Cooperativa Central de Credito
+
+ 
+
+08591090012006650450500000270017184810000210000
+BENEFICIARIO.:
+
+SNOP CORRELATOS INDUSTRIA E COMERCIO LTDA
+
+NOME FANTASIA. :
+
+SNOP INDUSTRIA E COMERCIO DE PAPEL
+
+CNPJ: 34.686.134/0001-20
+
+PAGADOR.
+
+MUNICIPIO DE SAO CARLOS
+
+CNPJ: 45.358.249/0001-01
+
+ 
+
+NR. DOCUMENTO 122.809
+
+DATA DO PAGAMENTO 28/12/2020
+VALOR DO DOCUMENTO 2.100,00
+VALOR COBRADO 2.100,00
+
+ 
+
+NR. AUTENTICACAO 2.BBO.1DB.4CC.A22.39C
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+ 
+
+26/05/2021 —- BANCO DO BRASIL - 16:09:40
+029500295 0002
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+CLIENT]
+AGENCI,
+
+ 
+
+: SP 354890 FMS CUSTEIO SUS
+0295-x CONTA 83.284-7
+
+ 
+
+ 
+
+Cooperativa Central de Credito
+
+ 
+
+08591090012006650450500000271015784810000300000
+BENEFICIARIO.:
+
+SNOP CORRELATOS INDUSTRIA E COMERCIO LTDA
+
+NOME FANTASIA. :
+
+SNOP INDUSTRIA E COMERCIO DE PAPEL
+
+CNPJ: 34.686.134/0001-20
+
+PAGADOR.
+
+MUNICIPIO DE SAO CARLOS
+
+CNPJ: 45.358.249/0001-01
+
+ 
+
+NR. DOCUMENTO 122.810
+DATA DO PAGAMENTO 28/12/2020
+VALOR DO DOCUMENTO 3.000,00
+VALOR COBRADO 3.000,00
+
+ 
+
+NR. AUTENTICACAO 8.1BF.9C8.AD6.0A1.B29
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G3362116547215401
+21/05/2021 17:02:23
+
+ 
+
+21/05/2021 - BANCO DO BRASIL -— 17:02:13
+029500295 0006
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+CLIENTE: PMSC SAUDE
+AGENCIA: 0295-X CONTA: 68.827-4
+
+ 
+
+ 
+
+BANCO DO BRASIL
+
+ 
+
+00190000090309161800300022762173282750000017640
+
+BENEFICIARIO
+
+ 
+
+CIRURGICA UNIAO LTDA.
+NOME FANTASIA:
+CIRURGICA UNIAO LTDA.
+CNPJ: 04.063.331/0001-21
+PAGADOR:
+
+MUNICIPIO DE SAO CARLOS
+CNPJ: 45.358.249/0001-01
+
+ 
+
+NR. DOCUMENTO 60.203
+
+NOSSO NUMERO 30916180000022762
+CONVENIO 03091618
+DATA DE VENCIMENTO 03/06/2020
+DATA DO PAGAMENTO 02/06/2020
+VALOR DO DOCUMENTO 176,40
+VALOR COBRADO 176,40
+
+ 
+
+NR. AUTENTICACAO 2.C5B.954.DBC.262.63D
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 05/06/2020 Valor RS 3.869,15 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 33065, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a CRISTALIA PROD QUIMICOS F, na
+conta 2.014, agência 5115 do banco 001.
+
+(Três mil e oitocentos e oitenta e nove reais e dezesseis centavos]
+
+G3342117078146071
+21/05/2021 17:13:00
+Emissão de comprovantes
+
+G3342410276312971
+24/05/2021 10:33:16
+
+ 
+
+24/05/2021 - BANCO DO BRASIL -— 10:33:13
+029500295 0001
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+AGENCIA: 0295-X CONTA
+
+     
+
+BANCO DO BRASIL
+
+  
+
+00190000090309161800300024694176983190000998300
+BENEFICIARIO:
+
+CIRURGICA UNIAO LTDA.
+
+NOME FANTASIA:
+
+CIRURGICA UNIAO LTDA.
+
+CNPJ: 04.063.331/0001-21
+
+PAGADOR:
+
+MUNICIPIO DE SAO CARLOS
+
+CNPJ: 45.358.249/0001-01
+
+ 
+
+NR. DOCUMENTO 71.001
+NOSSO NUMERO 30916180000024694
+CONVENIO 03091618
+DATA DE VENCIMENTO 17/07/2020
+DATA DO PAGAMENTO 10/07/2020
+VALOR DO DOCUMENTO 9.983,00
+VALOR COBRADO 9.983,00
+
+ 
+
+NR. AUTENTICACAO B.66B.E97.AA0.DO6.CEE
+
+ 
+
+ 
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:21:55
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+26/05/2021 — AUTOATENDIMENTO - 11.21.50
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+REMETENTE : PMSC SAUDE
+
+BANCO: 237 - BANCO BRADESCO S.A.
+AGENCIA: 0217-8 - S.CARLOS - CTO
+CONTA: 138.682-4
+
+FAVORECIDO: DNA CONSULT GENETICA E BIOTECNOLOGI
+CPF/CNPJ: 03.062.362/0001-03
+
+VALOR: R$ 205.845,30
+DEBITO EM: 01/12/2020
+
+ 
+
+ 
+
+DOCUMENTO: 120101
+AUTENTICACAO SISBB: 2.8A1.7C2.172.3D3.7EB
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+(G3352411469355311
+24/05/2021 12:15:12
+
+ 
+
+Data 10/09/2020 Valor RS 12.500,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34230, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a JOAO ANTONIO DA SILVA, na conta
+13.003.063, agência 2022 do banco 033.
+
+[Doze mil & quinhentos reais)
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data01/07/2020  ValorRS 1.23750D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 33337, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a ZAFALON SOLUCOES HOSPITAL, na
+conta 2.416, agência 2890 clo banco 001.
+
+[Um mil e duzentos e trinta e sete reais e cinquenta centavos)
+
+G3352410195873511
+24/05/2021 10:25:15
+Agência 285-X
+Conta corrente 83284-7 | PREFEITURA MUNICIPAL DE S
+
+Data 29/07/2020 — ValorRS sa78,58D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC C/CTA, remessa 32445, lançado a débito* em sua
+
+conta corrente 83284-7, agência 285-X, na data acima.
+
+Pagamento efetuado a MED CENTER COMERCIAL LTDA, na
+
+conta 1.162, agência 0368 do banco 001.
+
+[Cinco mil e novecentos e setenta e oito reais e cinquenta e oito centavos]
+
+G3342410276312971
+24/05/2021 10:37
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data27/11/2020  ValorRS 283.609,60 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC C/CTA, remessa 35255, lançado a débito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a NACIONAL COMERCIAL HOSPIT, na
+
+conta 150.087, agência 3370 do banco 001.
+
+(Duzentos e oitenta e três mil e seiscentos e nove reais e sessenta centavos]
+
+G334261518364592]
+26/05/2021 15:23:56
+Agência 285-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 21/10/2020 Valor R$ 2.075,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34740, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a FABRICA DE ARTEFATOS DE L, na
+conta 200.098, agência 2414 do banco 001.
+
+[Dois mil e setenta e cinco reais)
+
+G334261503312563]
+25/05/2021 15:07:38
+Emissão de comprovantes
+
+G3322116136230541
+21/05/2021 16:18:22
+
+ 
+
+21/05/2021 - BANCO DO BRASIL -— 16:18:17
+029500295 0007
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+PMSC SAUDE
+0295-x CONTA: 68.827-4
+
+ 
+
+ 
+
+BANCO BRADESCO S.A.
+
+ 
+
+23792827069000000751963000003002982330000589680
+BENEFICIARIO:
+
+DIMEBRAS
+
+NOME FANTASIA:
+
+DIMEBRAS
+
+CNPJ: 56.081.482/0001-06
+
+PAGADOR:
+
+PREFEITURA MUNICIPAL DE SAO CARLOS
+
+CNPJ: 45.358.249/0001-01
+
+ 
+
+NR. DOCUMENTO 42.201
+DATA DE VENCIMENTO 22/04/2020
+DATA DO PAGAMENTO 22/04/2020
+VALOR DO DOCUMENTO 5.896,80
+VALOR COBRADO 5.896,80
+
+ 
+
+NR. AUTENTICACAO B.7B3.F6A.2BD.AB4.444
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295%
+Conta cortente 832847 PREFEITURA MUNICIPAL DE &
+
+G336251054681486]
+25/05/2021 10:59:48
+
+ 
+
+Data 11/09/2020 Valor RS 167,52 D
+Importe referente a pagamento a terceiros, mocialidade PAG
+FORNEC DOC, remessa 32535, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a BARROS E BARROS COMERCIAL, na
+conta 5.519, agência 3124 do banco 237.
+
+[Cemo e sessenta e sete reais e cinquenta e dois centavos]
+
+ 
+Agência 285-X
+Conia corrente 83264-7 PREFEITURA MUNICIPAL DE S
+
+Data 03/07/2020 Valor RS 1.116,00 D
+Importa referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32378, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a FMARQUES DE SA ME, na conta
+73.060, agência 0656 do banco 237.
+
+[Um mil e cento e dezesseis reais)
+
+G3342410276312971
+24/05/2021 10:31:03
+Agência 295-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+G3362510546814861
+25/05/2021 1:02:44
+
+ 
+
+Data 14/09/2020  ValorRS 201,56 D
+importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 3254], lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a MULTIPACK COMERCIAL EMBAL, na
+conta 47907, agência 3062 do banco 001
+
+[Duzentos & um reais e cinquenta e seis centavos)
+
+ 
+Agência 2985-X
+Conta corrente 68627-4 PREFEITURA MUNICIPAL DE 5
+
+Data 20/11/2020 Valor R$ 1.705,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 35092, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a SINEZIO DE OLIVEIRA PINTO, na conta
+94.729, agência 2858 do banco 237.
+
+(Um mil e setecentos e cinco reais)
+
+G334261503512563]
+26/05/2021 151517
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 03/07/2020 | Valor R$ 4964, 77D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC C/CTA, remessa 33377, lançado a débito* em sua
+
+conta corrente 58827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a CBS MED CIENT COM REPRES, na
+
+conta 4.400, agência 3344 do banco 001.
+
+[Quaro mil e novecentos e sessenta & quatro reais e setenta & sete centavos)
+
+G3352410195873511
+24/05/2021 10:28:40
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 07/12/2020 Valor RS 213.646,50 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC DOC, remessa 35352, lançado a débito* em sua
+
+conta corrente 68827-4, agência 285-X, na data acima.
+
+Pagamento efetuado a DNA CONSULTORIA GENÉTICA, na
+
+conta 138.682, agência 0217 do banco 237.
+
+[Duzentos e treze mil e seiscentos e quarenta € seis reais e cinquenta centavos)
+
+G334261518364592]
+26/05/2021 15:47:54.
+Agência 295-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE 5
+
+Data 27/05/2020 Valor RS 1.285,20 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32298, lançado a débito” em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a DE SANTIS E FONSECA LTDA, na conta
+ILOI9, agência 8047 do banco 341
+
+(Um mil e duzentos e oitenta e cinco reais e vinte centavos)
+
+G336211651714825]
+21/05/2021 16:55:04.
+Agência 285-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 12/05/2020 | Valor RS 15.680,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32817, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a JA SERVICOS DE APOIO ADMI, na
+conta 87.08], agência 0295 do banco 001.
+
+[Quinze mil & seiscentos = oitenta reais)
+
+G336211635665622]
+21/05/2021 16:38:36
+Agência 295X
+Conmia corrente 68827-4 PREFEITURA MUNICIPAL DE S&
+
+Data 30/07/2020 Valor RS 1.980,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 33730, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a FLAVIO DAMIÃO ZULIM ME, na conta
+738, agência 1998 do banco 104.
+
+[Um mil e novecentos e oitenta reais)
+
+G3352411469355311
+24/05/2021 11:52:26
+Agência 285-X
+Comia corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G3342615183645921
+26/05/2021 15:34:22
+
+ 
+
+Data 29/12/2020 Valor RS 5.775,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 35667, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a CALUX COMERCIAL EIRELI, na conta
+13.705, agência 3118 do banco 237.
+
+[Cinco mil e setecentos e setenta e cinco reais]
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 06/05/2020 | ValorRS 5.400,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32744, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a DNA CONSULTORIA GENETICA, na
+conta 138.682, agência 0217 do banco 237.
+
+[Cinco mil e quatrocentos reais)
+
+G3322116136230541
+21/05/2021 16:29:55
+Agência 285-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+G331251126793435]
+
+25/05/202]
+
+1:30:46
+
+ 
+
+Data 140/2020 Valor RS 399,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34645, lançado a débito” em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a INTERA COMERCIAL LTDA ME, na
+conta 1020, agência 4400 do banco 756.
+
+[Trezentos e noventa e nove reais)
+
+ 
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+(33125]125793435]
+25/05/2021 1:34:24
+
+ 
+
+Data21/10/2020 Valor RS 76.415,30 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 3474], lançado a débito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a DNA CONSULTORIA GENÉTICA, na
+
+conta 138.682, agência 0217 do banco 237.
+
+[Setenta e seis mil e quatrocentos e dezesseis reais e trinta centavos)
+
+ 
+Agência 285-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE 5
+
+Data 11/05/2020 Valor RS 52.680,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC CYCTA, remessa 32273, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a DENTAL MED SUL ARTIGOS OD, na
+conta 107.690, agência 4500 do banco 001.
+
+[Cinquenta e dois mil e seiscentos e oitenta reais)
+
+G334211630703101
+21/05/2021 16:34:36
+Emissão de comprovantes
+
+G3342410447022971
+24/05/2021 10:57:33
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+24/05/2021 — AUTOATENDIMENTO - 10.57.29
+0295X00295 SEGUNDA VIA 0003
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : PMSC SAUDE
+
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 226.105,61
+DEBITO EM: 02/07/2020
+
+ 
+
+ 
+
+DOCUMENTO: 070202
+AUTENTICACAO SISBB: 7.5F8.9D4.F4B.D29.20A
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 255-X
+Coma corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+G336261200841425]
+26/05/2021 12:27:05
+
+ 
+
+Data 18/12/2020  ValorRS 24.375,00 D
+Importe referente a pagamento a terceiros, modaliciade PAG
+FORNEC C/CTA, remessa 32758, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a À FR DISTRIBUIDORA DE PR, na conta
+36.049, agência 1187 do banco 001
+
+[Vinte e quatro mil e trezentos e setenta e cinco reais]
+Agência 295-X
+Conta corrente 21200-8 PREFEITURA MUNICIPAL DE 5
+
+(336211734808918]
+21/05/2021 17:38:38
+
+ 
+
+Data 19/06/2020 Valor RS 9.815,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 33244, lançado a débito" em sua
+conta corrente 21200-8, agência 295-x, na data acima.
+Pagamento efetuado a ZILDA DE OLIVEIRA RIBEIRO, na conta
+13.002.890, agência 4730 do banco 033.
+
+[Nove mil e oitocentos e quinze reais)
+Emissão de comprovantes
+
+G3342410276312971
+24/05/2021 10:34:29
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+24/05/2021 — AUTOATENDIMENTO - 10.34.23
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+CLIENTE: FUNDO MUNICIPAL DE SAUDE
+AGENCIA: 0295-X CONT. 73.064-5
+
+   
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : FUNDO MUNICIPAL DE SAUDE
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 126.028,43
+DEBITO EM: 10/07/2020
+
+ 
+
+ 
+
+DOCUMENTO: 071001
+AUTENTICACAO SISBB: 4 .EDA.EDB.866.07C.AIB
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Agência 285-X
+Conia corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 22/09/2020 Valor R$ 92.550,60 D
+
+Importe referente a pagamento a terceiros, modalidade PAG
+
+FORNEC DOC, remessa 34366, lançado a débito* em sua
+
+conta corrente 68827-4, agência 295-X, na data acima.
+
+Pagamento efetuado a DNA CONSULTORIA GENETICA, na
+
+conta 158.682, agência 0217 do banco 237.
+
+[Noventa e dois mil e quinhentos e cinquenta reais e sessenta centavos)
+
+G3352411459355311
+24/05/2021 12:17:12
+Agência 295-X
+Conia corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 13/08/2020 | Valor R5 28.160,00 D
+Importa referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32469, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a GRANDESC MATERIAIS HOSPIT, na
+conta 36.824, agência 182] do banco 001.
+
+[Vinte e oito mil e cento e sessenta reais)
+
+G334241027631297]
+24/05/2021 10:38:18
+Agência 295-X
+Coma corrente 83284-7 | PREFEITURA MUNICIPAL DE &
+
+Data 22/2/2020 — ValorRS 1.210,50 D
+Importa referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 32766, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a RAP APARECIDA COMERCIO DE, na
+conta 695, agência 1241] do banco 237.
+
+[Um mil = duzentos e clez reais e cinquenta centavos)
+
+G336261200841425]
+26/05/2021 12:18:56
+Emissão de comprovantes
+
+G3332117057524481
+21/05/2021 17:09:54
+
+ 
+
+29/05/2020 - BANCO DO BRASIL -— 11:38:05
+029500295 SEGUNDA VIA 0002
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA 83.284-7
+DATA DA TRANSFERENCIA 29/05/2020
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 619.586,52
+
+****** TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C M S CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+ 
+
+NR. AUTENTICACAO F.3B1.D41.96D. 75B.BEC
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G335241 1469355311
+24/05/2021 12:12:37
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+24/05/2021 — AUTOATENDIMENTO - 12.12.33
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+AGENCIA: 0295-X CONT. 83.284-7
+
+   
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : SP 354890 FMS CUSTEIO SUS
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 200.000,00
+DEBITO EM: 04/09/2020
+
+ 
+
+ 
+
+DOCUMENTO: 090402
+AUTENTICACAO SISBB: C.002.15B.534.F05.098
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295%
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+G3312511267934351
+25/05/2021 1:39:52
+
+ 
+
+Data23/10/2020 Valor RS 8.970,00 D
+Importe referente a pagamento a terceiros, mocialidade PAG
+FORNEC C/CTA, remessa 34768, lançado a clébito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a PROMEFARMA REPRESENTAÇÕES, na
+conta 101.260, agência 3007 do banco 001.
+
+[Oito mil e novecentos e setenta reais)
+
+ 
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data 17/12/2020 Valor R$ 3.310,80 D
+Importe referente a pagamento a terceiros, modalidade PAS
+FORNEC DOC, remessa 35527, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a ORGANIZACAO SOCIAL DE MED, na
+conta 13.006.503, agência 0024 clo banco 033.
+
+[Três mil e trezentos e dez reais e oitenta centavos)
+
+G334261518364592]
+26/05/2021 15:41:35
+Agência 295-X
+Conia corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Daia 21/12/2020 Valor RS 1.380,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 35561, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a LIMPER DEP COM PROD LIMPE, na
+conta 40.172, agência 3062 do banco 001.
+
+(Um mil e trezentos e oitenta reais)
+
+6334261518364592]
+26/05/2021 15:42:59
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+Data21/12/2020 | ValorRS 2.304,90 D
+Importe referente a pagamento a terceiros, modalicacie PAG
+FORNEC DOC, remessa 35563, lançado a débito" em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a DNA CONSULTORIA GENÉTICA, na
+conta 138.682, agência 0217 do banco 237.
+
+(Dois mil e trezentos e quatro reais e noventa centavos)
+
+G3342615183645921
+26/05/2021 15:4906
+Agência 205-X
+Coma correme 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 23/07/2020 Valor RS 34.600,00 D
+Imports referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32427, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a NACIONAL COMERCIAL HOSPIT, na
+conta 150.087, agência 3370 do banco 001
+
+(Trinta e quatro mil e seiscentos reais)
+
+G3342410276312971
+24/05/2021 10:35:52
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 10/08/2020 | Valor RS 4.600,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 33827, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a FLAVIO AUGUSTO CALEGARI, na
+conta 13.000.5538, agência 3301 do banco 033.
+
+(Quarro mil & seiscentos reais)
+
+G335241146935531
+24/05/2021 11:55:24
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:17:40
+
+ 
+
+20/11/2020 - BANCO DO BRASIL -— 15:50:29
+029500295 SEGUNDA VIA 0002
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: PMSC SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA 68.827-4
+DATA DA TRANSFERENCIA 20/11/2020
+NR. DOCUMENTO 550.295.000.021.200
+VALOR TOTAL 4.843,73
+
+****** TRANSFERIDO PARA:
+
+CLIENTE: PREF MUN SAO CARLOS FORN
+
+AGENCIA: 0295-X CONTA: 21.200-8
+NR. DOCUMENTO 550.295.000.068.827
+
+ 
+
+ 
+
+NR. AUTENTICACAO B.6C1.76A.8C2.1F8.1AS
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G3312511267934351
+25/05/2021 11:53:34
+
+ 
+
+06/11/2020 - BANCO DO BRASIL - 15:56:04
+029500295 SEGUNDA VIA 0007
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: PMSC SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA 68.827-4
+DATA DA TRANSFERENCIA 06/11/2020
+NR. DOCUMENTO 550.295.000.021.200
+VALOR TOTAL 1.768,11
+
+****** TRANSFERIDO PARA:
+CLIENTE: PREF MUN SAO CARLOS FORN
+
+AGENCIA: 0295-X CONTA: 21.200-8
+NR. DOCUMENTO 550.295.000.068.827
+
+ 
+
+ 
+
+NR. AUTENTICACAO F.624.C70.FEE.4D3.54F
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 285-X
+Conta corrente 83284-7 | PREFEITURA MUNICIPAL DE 5
+
+Data 26/10/2020 Valor RS 13.500,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 3263], lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a PONTE SAUDE ARTIGOS MEDIC, na
+conta 30.45], agência 5024 do banco 001.
+
+[Treze mil e quinhentos reais)
+
+G3362612008414251
+2/05/2021 12:08:54
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:19:39
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+26/05/2021 — AUTOATENDIMENTO - 11.19.36
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+
+CLIENTE: PMSC SAUDE
+
+AGENCIA: 0295-X CONT.
+
+   
+
+68.827-4
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+REMETENTE : PMSC SAUDE
+
+BANCO: 237 - BANCO BRADESCO S.A.
+AGENCIA: 0217-8 - S.CARLOS - CTO
+CONTA: 138.682-4
+
+FAVORECIDO: DNA CONSULT GENETICA E BIOTECNOLOGI
+CPF/CNPJ: 03.062.362/0001-03
+
+VALOR: R$ 85.458,60
+DEBITO EM: 30/11/2020
+
+ 
+
+ 
+
+DOCUMENTO: 113003
+AUTENTICACAO SISBB: 6.6B6.8DC.E1C.89A.0FD
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 68627-4 PREFEITURA MUNICIPAL DE S
+
+Data 02/08/2020 Valor RS 345,00 D
+Importa referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 33025, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a CRISTALIA PROD QUIMICOS F, na
+conta 2.014, agência 5115 do banco 001.
+
+(Trezentos e quarenta e cinco reais)
+
+(3362116547215401
+21/05/2021 16:56:57
+Emissão de comprovantes
+
+G3312012261015601
+20/05/2021 12:37:16
+
+ 
+
+03/04/2020 - BANCO DO BRASIL - 11:55:16
+029500295 SEGUNDA VIA 0005
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: PMSC SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA 68.827-4
+DATA DA TRANSFERENCIA 03/04/2020
+NR. DOCUMENTO 556.504.000.016.667
+VALOR TOTAL 9.052,50
+
+****** TRANSFERIDO PARA:
+CLIENTE: DEVANIR DE OLIVEIRA SILVA
+
+AGENCIA: 6504-8 CONTA: 16.667-7
+NR. DOCUMENTO 550.295.000.068.827
+
+ 
+
+ 
+
+NR. AUTENTICACAO 0.9A7.E9E.62B.AAC.6D8
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Emissão de comprovantes
+
+G3362612008414251
+26/05/2021 12:22:41
+
+ 
+
+26/05/2021 - BANCO DO BRASIL -— 12:22:38
+029500295 0004
+
+COMPROVANTE DE PAGAMENTO DE TITULOS
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+AGENCIA: 0295-X CONTA 83.284-7
+
+ 
+
+ 
+
+BANCO BRADESCO S.A.
+
+ 
+
+23792152019000000790795000923706384670000987000
+
+BENEFICIARIO:
+CIRURGICA OLIMPIO LTDA
+NOME FANTASIA:
+CIRURGICA OLIMPIO LTDA
+CNPJ: 01.140.868/0001-50
+BENEFICIARIO FINAL:
+CIRURGICA OLIMPIO LTDA
+CNPJ: 01.140.868/0001-50
+PAGADOR:
+
+MUNICIPIO DE SAO CARLOS
+CNPJ: 45.358.249/0001-01
+
+ 
+
+ 
+
+NR. DOCUMENTO 120.801
+DATA DE VENCIMENTO 12/12/2020
+DATA DO PAGAMENTO 08/12/2020
+VALOR DO DOCUMENTO 9.870,00
+VALOR COBRADO 9.870,00
+
+ 
+
+NR. AUTENTICACAO B.522.8EF.238.D20.9FC
+
+ 
+
+Central de Atendimento BB
+
+4004 0001 Capitais e regioes metropolitanas
+0800 729 0001 Demais localidades.
+
+Consultas, informacoes e servicos transacionais.
+
+SAC BB
+0800 729 0722
+
+Informacoes, reclamacoes, cancelamento de
+produtos e servicos.
+
+Ouvidoria
+
+0800 729 5678
+
+Reclamacoes nao solucionadas nos canais
+habituais agencia, SAC e demais canais de
+atendimento.
+
+Atendimento a Deficientes Auditivos ou de Fala
+0800 729 0088
+
+Informacoes, reclamacoes, cancelamento de cartao,
+outros produtos e servicos de Ouvidoria.
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 24/08/2020 Valor RS 830,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34015, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a CONAMORE SSL CAMA MESA E, na
+conta 8.462, agência 8786 do banco 341.
+
+[Novecentos e trinta reais)
+
+G3352411469355311
+24/05/2021 11:58:32
+Agência 295-X
+Conta corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+G336251054681486]
+25/05/2021 03/14
+
+ 
+
+Data 14/09/2020 — ValorRS 9.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32541, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a PONTE SAUDE ARTIGOS MEDIC, na
+conta 30.45], agência 6624 do banco 001.
+
+[Nove mil reais]
+
+ 
+Emissão de comprovantes
+
+G338261 1086879821
+26/05/2021 11:30:37
+
+ 
+
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL
+26/05/2021 — AUTOATENDIMENTO - 11.30.35
+0295X00295 SEGUNDA VIA 0001
+
+COMPROVANTE DE TRANSFERENCIA
+COMPROVANTE DE
+TED - TRANSFERENCIA ELETRONICA DISPONIVEL
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+AGENCIA: 0295-X CONT. 83.284-7
+
+   
+
+ 
+
+FINALIDADE: 01 CREDITO EM CONTA
+
+REMETENTE : SP 354890 FMS CUSTEIO SUS
+BANCO: 033 - BANCO SANTANDER (BRASIL) S.A.
+AGENCIA: 0024-8 - SAO CARLOS
+
+CONTA: 13.006.503-0
+
+FAVORECIDO: ORGANIZACAO SOCIAL DE MEDICINA E ED
+CPF/CNPJ: 27.414.250/0001-24
+
+VALOR: R$ 203.481,95
+DEBITO EM: 17/12/2020
+
+ 
+
+ 
+
+DOCUMENTO: 121701
+AUTENTICACAO SISBB: 2.CFA.9AA.14A.396.67E
+
+ 
+
+Transação efetuada com sucesso por: JE0O07449 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S
+
+(G3312511267934351
+25/05/2021 1:59:17
+
+ 
+
+Data 1211/2020  valorRS 9.890,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34568, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a CLAUDIO ANTONIO DOS SANTO, na
+conta 2.011, agência 4400 do banco 756.
+
+[Nove mil e oitocentos e noventa reais)
+
+ 
+Agência 295-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Data 13/08/2020 | Valor RS 14.960,00 D
+Importa referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 33904, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a APARECIDO DONIZETTI DA Sl, na
+conta 39.978, agência 4470 do banco 341.
+
+(Catorze mil e novecentos e sessenta reais)
+
+G33524114693553]]
+24/05/2021 11:57:21
+Emissão de comprovantes
+
+G3362117348089181
+21/05/2021 17:50:42
+
+ 
+
+30/12/2020 - BANCO DO BRASIL -— 16:16:37
+029500295 SEGUNDA VIA 0001
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: PMSC SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA 68.827-4
+DATA DA TRANSFERENCIA 30/12/2020
+NR. DOCUMENTO 550.295.000.021.200
+VALOR TOTAL 11.775,54
+
+****** TRANSFERIDO PARA:
+
+CLIENTE: PREF MUN SAO CARLOS FORN
+
+AGENCIA: 0295-X CONTA: 21.200-8
+NR. DOCUMENTO 550.295.000.068.827
+
+ 
+
+ 
+
+NR. AUTENTICACAO 0.C31.EBE.F88.54B.992
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295-X
+Conta corrente 58827-4 PREFEITURA MUNICIPAL DE 5
+
+G3312511267934351
+25/05/2021 11:5618
+
+ 
+
+Data 10/11/2020 Valor RS 1.707,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34925, lançado a débito” em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a BRASIL COLCHOES LTDA EPP, na
+conta 2.983, agência 1662 do banco 237
+
+[Um mil e setecentos e sete reais)
+
+ 
+Emissão de comprovantes
+
+G3362117348089181
+21/05/2021 17:51:52
+
+ 
+
+30/12/2020 - BANCO DO BRASIL - 16:16:36
+029500295 SEGUNDA VIA 0022
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+CLIENTE: PMSC SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA 68.827-4
+DATA DA TRANSFERENCIA 30/12/2020
+NR. DOCUMENTO 550.295.000.021.200
+VALOR TOTAL 2.639,39
+
+****** TRANSFERIDO PARA:
+
+CLIENTE: PREF MUN SAO CARLOS FORN
+
+AGENCIA: 0295-X CONTA: 21.200-8
+NR. DOCUMENTO 550.295.000.068.827
+
+ 
+
+ 
+
+NR. AUTENTICACAO 1.56A.DBE.201.B56.865
+
+ 
+
+Transação efetuada com sucesso por: JD990698 LEO YOSHITARU DOI.
+Agência 295-X
+Coma corrente 68827-4 PREFEITURA MUNICIPAL DE 5
+
+Daria 02/09/2020 Valor R$ 4.380,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34109, lançado a débito* em sua
+conta corrente 58827-4, agência 295-X, na data acima.
+Pagamento efetuado a CIRURGICA E DENTAL SÃO CA, na
+conta 3.133, agência 3062 do banco 001
+
+[Quatro mil e trezentos e oitenta reais)
+
+G335241146935531
+24/05/2021 12:03:58
+Agência 295X
+Conta corrente 68627-4 PREFEITURA MUNICIPAL DE S
+
+G351251126793435]
+25/05/202] 1:58:
+
+ 
+
+Data 11/11/2020 Valor RS 053D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 34953, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a ALFALAGOS LTDA, na conta 12160,
+agência D158 do banco 001.
+
+[cinquenta e três centavos)
+
+ 
+Agência 285-X
+Conta corrente 68827-4 PREFEITURA MUNICIPAL DE S&
+
+Data 04/09/2020 Valor RS 30.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC DOC, remessa 34148, lançado a débito* em sua
+conta corrente 68827-4, agência 295-X, na data acima.
+Pagamento efetuado a SAN CIRO APART HOTEL LTDA, na
+conta 13.68], agência 3124 do banco 237.
+
+[Trinta mil reais)
+
+G3352411469355311
+24/05/2021 12:06:40
+Agência 285-X
+Coma corrente 83284-7 PREFEITURA MUNICIPAL DE S
+
+Data 16/11/2020 | Valor RS 13.000,00 D
+Importe referente a pagamento a terceiros, modalidade PAG
+FORNEC C/CTA, remessa 32674, lançado a débito* em sua
+conta corrente 83284-7, agência 295-X, na data acima.
+Pagamento efetuado a PONTE SAUDE ARTIGOS MEDIC, na
+conta 30.45], agência 6624 do banco 001.
+
+[Dezoito mil reais)
+
+G336261200841425]
+26/05/2021 1210:13
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_189_GABRIELA__PERIN__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_190_TRIOMED__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_191_ONECARE__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_192_ZAFALON__01.PNG
+21/05/2021 Banco do Brasil
+
+G3382113400981391
+Emissão de comprovantes 21/05/2021 14:05:10
+
+08/04/2021  - BANCO DO BRASIL - 13:16:48
+029500295 SEGUNDA VIA eee
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+ 
+
+CLIENTE: FUNDO MUNICIPAL DE SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA: 73.064-5
+DATA DA TRANSFERENCIA 08/04/2021
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 1.098.585,08
+
+ester TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C MS CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.073.064
+
+ 
+
+NR. AUTENTICACAO 3.02F.5FF.01F.599. F64
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+
+https://autoatendimento.bb.com.br/apf-apj-autoatendimento/index.html&/template/-2Fconsultas-2F869-1.bb
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_194_R__DE__SOUZA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_195_DROGAFONTE__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_196_FGTS__07.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_197_IRINEU__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_198_DANIEL__DA__CUNHA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_199_FOLHA__DE__PAGAMENTO__05.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_200_DNA__CONSULT__07.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_201_CLASSMED__04.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_202_TRIOMED__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_203_CLAUDIO__ANTONIO__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_204_cirurgica__e__dental__sao__carlos__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_205_san__ciro__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_206_ALFALAGOS__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_207_MED__CENTER__01.PNG
+21/05/2021 Banco do Brasil
+
+G3382113400981391
+Emissão de comprovantes 21/05/2021 14:05:24
+
+08/04/2021  - BANCO DO BRASIL - 13:16:48
+029500295 SEGUNDA VIA eoez
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+ 
+
+CLIENTE: FUNDO MUNICIPAL DE SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA: 73.064-5
+DATA DA TRANSFERENCIA 08/04/2021
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 861.696,00
+
+ester TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C MS CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.073.064
+
+ 
+
+NR. AUTENTICACAO 6.ABE.51C.AA7.9DF.BO3
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+
+https://autoatendimento.bb.com.br/apf-apj-autoatendimento/index.html&/template/-2Fconsultas-2F869-1.bb
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_209_OMESC__15.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_210_INTERA__04.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_211_ALESSANDRA__ROBERTA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_212_FGTS__09.PNG
+21/05/2021 Banco do Brasil
+
+G3382113400981391
+Emissão de comprovantes 21/05/2021 13:58:41
+
+05/02/2021  - BANCO DO BRASIL - 12:19:00
+029500295 SEGUNDA VIA eoo3
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+ 
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA: 83.284-7
+DATA DA TRANSFERENCIA 05/02/2021
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 768.000,00
+
+ester TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C MS CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+NR. AUTENTICACAO 3.74E.9E9.B18.B36.E33
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+
+https://autoatendimento.bb.com.br/apf-apj-autoatendimento/index.html&/template/-2Fconsultas-2F869-1.bb
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_214_RODRIGO__TONELOTTO.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_215_PERFECT__CLEAN__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_216_OMES__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_217_IDEP02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_218_INTERLASER__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_219_GREEN__CARD__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_220_RAFAEL__PANZIAN__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_221_FOLHA__DE__PAGAMENTO__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_222_Joao__Afonso__01.PNG
+21/05/2021 Banco do Brasil
+
+G3382113400981391
+Emissão de comprovantes 21/05/2021 14:01:49
+
+05/03/2021  - BANCO DO BRASIL - 12:47:21
+029500295 SEGUNDA VIA eoo3
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+ 
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA: 83.284-7
+DATA DA TRANSFERENCIA 05/03/2021
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 740.000,00
+
+ester TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C MS CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+NR. AUTENTICACAO 0.F6C.354.178.127.B3C
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+
+https://autoatendimento.bb.com.br/apf-apj-autoatendimento/index.html&/template/-2Fconsultas-2F869-1.bb
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_224_FOLHA__DE__PAGAMENTO__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_225_IDEP.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_226_ALESSANDRA__ROBERTA__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_227_INTERA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_228_joao__Afonso__04.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_229_OMESC__12.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_230_PRO-REMEDIOS__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_231_DNA__CONSULT__04.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_232_OMESC__05.PNG
+21/05/2021 Banco do Brasil
+
+G3382113400981391
+Emissão de comprovantes 21/05/2021 14:00:25
+
+05/02/2021  - BANCO DO BRASIL - 12:19:00
+029500295 SEGUNDA VIA eoez
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+ 
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA: 83.284-7
+DATA DA TRANSFERENCIA 05/02/2021
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 864.000,00
+
+ester TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C MS CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+NR. AUTENTICACAO 6.21B.649.671.C98.948
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+
+https://autoatendimento.bb.com.br/apf-apj-autoatendimento/index.html&/template/-2Fconsultas-2F869-1.bb
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_234_Thumbs.db
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_235_FOLHA__DE__PAGAMENTO__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_236_PERFECT__CLEAN__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_237_DNA__CONSULT__12.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_238_LIMPER__DEP__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_239_CLASSMED__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_240_CIRURGICA__NOSSA__SENHORA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_241_OMESC__04.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_242_FGTS__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_243_ARQUIMEDES__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_244_FOLHA__DE__PAGAMENTO__11.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_245_STRA__NEGOCIOS__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_246_GREEN__CARD__04.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_247_J__DE__SANTIS__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_248_OMESC__16.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_249_DNA__CONSULT__09.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_250_FGTS__06.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_251_DEVALDO__TREVELIN__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_252_GREEN__CARD__05.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_253_FARMA__2__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_254_Joao__Afonso__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_255_RAP__APARECIDA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_256_INSS__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_257_FOLHA__DE__PAGAMENTO__09.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_258_OMESC__14.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_259_FGTS__04.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_260_FOLHA__DE__PAGAMENTO__10.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_261_ONECARE__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_262_TRANSP.__TURISTICA__SUZANO__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_263_RODRIGO__TONELOTTO__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_264_IRINEU__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_265_DNA__CONSULT__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_266_AGLON__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_267_RAFAEL__PANZIAN__04.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_268_DNA__CONSULT__10.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_269_INTERA__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_270_RAFAEL__PANZIAN__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_271_PERFECT__CLEAN__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_272_JOAO__ANTONIO__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_273_INSS__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_274_LUMAR__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_275_HORTRON__INDUSTRIA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_276_DNA__CONSULT__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_277_FOLHA__DE__PAGAMENTO__08.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_278_FABRICA__DE__ARTEFATOS__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_279_DNA__CONSULT__08.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_280_ROSICLER__01.PNG
+21/05/2021 Banco do Brasil
+
+G3382113400981391
+Emissão de comprovantes 21/05/2021 13:59:53
+
+05/02/2021  - BANCO DO BRASIL - 12:19:00
+029500295 SEGUNDA VIA eee
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+ 
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA: 83.284-7
+DATA DA TRANSFERENCIA 05/02/2021
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 300.000,00
+
+ester TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C MS CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+NR. AUTENTICACAO 1.7F1.C92.22E.B82.426
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+
+https://autoatendimento.bb.com.br/apf-apj-autoatendimento/index.html&/template/-2Fconsultas-2F869-1.bb
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_282_ROTOPLAST__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_283_JOSIANE__CRISTINA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_284_AFR__DISTRIBUIDORA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_285_DNA__CONSULT__11.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_286_LUCCA__&__MILLA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_287_OMESC__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_288_RAFAEL__PANZIAN__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_289_EXON__EVENTOS__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_290_TRIOMED__01.PNG
+21/05/2021 Banco do Brasil
+
+G3382113400981391
+Emissão de comprovantes 21/05/2021 14:06:35
+
+08/04/2021  - BANCO DO BRASIL - 13:18:27
+029500295 SEGUNDA VIA eee
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+ 
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA: 83.284-7
+DATA DA TRANSFERENCIA 08/04/2021
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 576.000,00
+
+ester TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C MS CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+NR. AUTENTICACAO 2.BFA.898.E6F.C26.D6B
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+
+https://autoatendimento.bb.com.br/apf-apj-autoatendimento/index.html&/template/-2Fconsultas-2F869-1.bb
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_292_FGTS__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_293_OMESC__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_294_FORCE__MEDICAL__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_295_AFR__DISTRIBUIDORA__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_296_DNA__CONSULT__06.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_297_OMESC__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_298_CRISTALIA__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_299_CLASSMED__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_300_CLASSMED__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_301_FOLHA__DE__PAGAMENTO__06.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_302_IRINEU__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_303_FGTS__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_304_OMESC__13.PNG
+21/05/2021 Banco do Brasil
+
+G3382113400981391
+Emissão de comprovantes 21/05/2021 14:04:45
+
+08/04/2021  - BANCO DO BRASIL - 13:16:48
+029500295 SEGUNDA VIA eee
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+ 
+
+CLIENTE: FUNDO MUNICIPAL DE SAUDE
+
+ 
+
+AGENCIA: 0295-X CONTA: 73.064-5
+DATA DA TRANSFERENCIA 08/04/2021
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 1.944.000,00
+
+ester TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C MS CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.073.064
+
+ 
+
+NR. AUTENTICACAO C.A56.804.FDC.45E.33E
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+
+https://autoatendimento.bb.com.br/apf-apj-autoatendimento/index.html&/template/-2Fconsultas-2F869-1.bb
+21/05/2021 Banco do Brasil
+
+G3382113400981391
+Emissão de comprovantes 21/05/2021 14:06:50
+
+08/04/2021  - BANCO DO BRASIL - 13:18:27
+029500295 SEGUNDA VIA eoo3
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+ 
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA: 83.284-7
+DATA DA TRANSFERENCIA 08/04/2021
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 384.000,00
+
+ester TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C MS CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+NR. AUTENTICACAO 2.A3A.3E5.032.6A1.02A
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+
+https://autoatendimento.bb.com.br/apf-apj-autoatendimento/index.html&/template/-2Fconsultas-2F869-1.bb
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_307_W__A__DOS__SANTOS__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_308_ONECARE__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_309_FGTS__05.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_310_INTERA__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_311_FOLHA__DE__PAGAMENTO__04.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_312_PERFECT__CLEAN__05.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_313_cirurgica__e__dental__sao__carlos__02.PNG
+21/05/2021 Banco do Brasil
+
+G3382113400981391
+Emissão de comprovantes 21/05/2021 13:59:23
+
+05/02/2021  - BANCO DO BRASIL - 12:19:00
+029500295 SEGUNDA VIA eoez
+COMPROVANTE DE TRANSFERENCIA
+DE CONTA CORRENTE P/ CONTA CORRENTE
+
+ 
+
+CLIENTE: SP 354890 FMS CUSTEIO SUS
+
+ 
+
+AGENCIA: 0295-X CONTA: 83.284-7
+DATA DA TRANSFERENCIA 05/02/2021
+NR. DOCUMENTO 553.062.000.217.000
+VALOR TOTAL 514.000,00
+
+ester TRANSFERIDO PARA:
+
+CLIENTE: IRMANDADE S C MS CARLOS
+
+AGENCIA: 3062-7 CONTA: 217.000-0
+NR. DOCUMENTO 550.295.000.083.284
+
+ 
+
+NR. AUTENTICACAO 9.447.D40.A4C.7B5. FDA
+
+ 
+
+Transação efetuada com sucesso por: JD990823 LEO YOSHITARU DOI.
+
+https://autoatendimento.bb.com.br/apf-apj-autoatendimento/index.html&/template/-2Fconsultas-2F869-1.bb
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_315_DNA__CONSULT__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_316_FOHA__DE__PAGAMENTO__07.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_317_FOLHA__DE__PAGAMENTO__07.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_318_JOAO__ANTONIO__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_319_GREEN__CARD__03.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_320_PERFECT__CLEAN__04.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_321_HOPE__MEDICAL__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_322_JOAO__ANTONIO__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_323_EXON__EVENTOS__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_324_DNA__CONSULT__05.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_325_FOLHA__DE__PAGAMENTO__12.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_326_Joao__Afonso__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_327_GREEN__CARD__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_328_BEM__MED__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_329_INSS__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_330_BIOVLAC__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_331_MATHEUS__LEONCIO__01.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_332_JOAO__AFONSO__05.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_333_FGTS__08.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_334_BEM__MED__02.PNG
+cpi4all_arquivo_nao_suportado: /tmp/tmpgi36l1gf/cpi4all_335_INSS__04.PNG
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PAGAMENTOS COVID - PENDENTES DE COMPROVANTES
+
+NOME CNPJ CONTA DEBITADA | DATA DÉBITO | VALOR REMESSA | VALOR PAGAMENTO BANCO CONTA CREDITADA | AGÊNCIA,
+NACIONAL COMERCIAL HOSPITALAR 52.202.744/0007-88 68827-4 26/03/2020 10.000,00 10.000,00 1 160087-7 3370-7
+BESSA SAFETY CONS. E ASS. EM ENG. SEGURANÇA 30.110.436/0001-02 83284-7 26/03/2020 2.600,00 2.600,00 33 13002954-4 2022
+VITAL HOSPITALAR COMERCIAL LTDA 61.610.283/0001-88 68827-4 15/04/2020 26.961,30 4.992,00 1 4800-3 1559-8
+VITAL HOSPITALAR COMERCIAL LTDA 61.610.283/0001-88 68827-4 15/04/2020 26.961,30 4.992,00 1 4800-3 1559-8
+CRAL PROD. PARA LAB. LTDA 48.740.849/0001-28 83284-7 16/04/2020 1.229,05 1.229,05 1 22373 33553
+HOSPILAR COM. DE MAT. MÉDICO HOSP. EIRELI 26.234.900/0001-97 68827-4 23/04/2020 68.165,15 9.997,15 1 14078-3 65072
+PROVIDER PROD. HOSP. E SAN. LTDA EPP 26.164.075/0001-00 68827-4 27/04/2020 101.497,80 20.910,00 1 48516-0 1869-4
+PROVIDER PROD. HOSP. E SAN. LTDA EPP 26.164.075/0001-00 68827-4 27/04/2020 101.497,80 8.120,00 1 48516-0 1869-4
+CIRURGICA FERNANDES COM. MAT. CIRUR. 61.418.042/0001-31 68827-4 27/04/2020 101.497,80 29.200,00 1 301097-X 33553
+DENTAL MED SUL ART. ODONT. LTDA 02.477.571/0001-47 68827-4 27/04/2020 101.497,80 26.480,00 1 76902 3020-1
+ROSICLER CIRURGICA LTDA EPP 57.365.116/0001-41 68827-4 27/04/2020 101.497,80 13.500,00 1 100248-1 65072
+LIMPER DEP COM PROD LIMP SERV LTDA 56.074.271/0001-46 68827-4 27/04/2020 101.497,80 1.995,00 1 40172-2 3062-7
+CIRURGICA PIRASSUNUNGA LTDA 64.623.291/0001-57 68827-4 29/04/2020 39.184,44 8.100,00 1 34.988-7 0163-5
+DNA CONSULTORIA GENETICA E BIOT. LTDA 03.062.362/0001-03 688274 29/04/2020 5.319,00 5.319,00 237 0138682-4 217
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+27/05/2021 Roundcube Webmail :: Comprovantes de pagamentos - COVID - Solicitação Senado
+
+Assunto Comprovantes de pagamentos - COVID - Solicitação Senado
+De <leo.doiQsaocarlos.sp.gov.br> roundcube
+
+Para Paulo Roberto Chiossi <prchiossiQbb.com.br> open sourca webmail sofiware
+
+Cópia Liliane Barbosa <liliane.barbosaQbb.com.br>,
+<leo.doiQsaocarlos.sp.gov.br>
+
+Data 2021-05-27 09:25
+* LISTA PAGAMENTOS PENDENTES COMPROVANTES.pdf(»217 KB)
+
+Bom dia!
+
+Segue anexa uma lista de pagamentos pendentes de comprovantes de pagamentos para atender à solicitação
+do Senado Federal.
+
+Gostaria de saber o tempo para a entrega dos comprovantes de pagamentos pelo banco.
+Atenciosamente,
+
+Leo Y. Doi
+
+webmail.saocarlos.sp.gov.br/? task=mail& safe=08 uid=5600& mbox=Sent& actior
+
+ 
+
+11
+
