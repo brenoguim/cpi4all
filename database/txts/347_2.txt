@@ -1,0 +1,230 @@
+FONTES,DESCRIÇÃO,EMPENHOS,CONTRATOS
+4,"Apoio aos municípios MP 938/2020 e Lei Complementar 173/2020, Inc. II",---,---
+6,"Auxílio Financeiro da Saúde e Assistência - Lei Complementar 173/2020, Inc. I",---,---
+490,"Emendas Individuais EC 105/20219 - Atenção Básica","Não possuí empenhos relacionados","Não possuí contratos relacionados"
+491,"Emendas Individuais EC 105/20219 - Média e Alta","Não possuí empenhos relacionados","Não possuí contratos relacionados"
+492,"Bloco de custeio e serviços de saúde - Coronavírus",---,---
+493,"Bloco de custeio e serviços de saúde - Coronavírus",---,---
+518,"Bloco de investimento Emendas Individuais",---,---
+953,"Ações do Covid para EPI - Port. 369/2020","Não possuí empenhos relacionados","Não possuí contratos relacionados"
+954,"Ações do Covid para Alimentos - Port. 369/2020",---,---
+955,"Ações do Covid para Acolhimento - Port. 369/2020",---,---
+956,,"Não possuí empenhos relacionados","Não possuí contratos relacionados"
+957,,"Não possuí empenhos relacionados","Não possuí contratos relacionados"
+EMPENHOS,LICITAÇÃO,CONTRATO
+"Emp. 10334-2020",,
+"Emp. 10426-2020",,
+"Emp. 10428-2020",,
+"Emp. 10429-2020",,
+"Emp. 10430-2020",,
+"Emp. 10431-2020",,
+"Emp. 10563-2020",,
+"Emp. 10568-2020",,
+"Emp. 11219-2020",,
+"Emp. 11807-2020",,
+"Emp. 11839-2020",,
+"Emp. 13001-2020",,
+"Emp. 13528-2020",,
+"Emp. 13530-2020",,
+"Emp. 13573-2020",,
+"Emp. 13574-2020",,
+"Emp. 13575-2020",,
+"Emp. 15434-2020",,
+"Emp. 17013-2020",,
+"Emp. 8200-2020","Dispensa 71/20",79/2020
+"Emp. 8388-2020","Pregão 55/19",---
+"Emp. 8610-2020","Pregão 55/19",---
+"Emp. 8952-2020",,
+"Emp. 9560-2020",,
+"Emp. 9598-2020",,
+"Emp. 9599-2020",,
+"Emp. 9600-2020",,
+"Emp. 9601-2020",,
+"Emp. 9602-2020",,
+"Emp. 9660-2020",,
+"Emp. 1316-21",,
+"Emp. 1360-21",,
+"Emp. 1439-21",,
+"Emp. 1501-21",,
+"Emp. 1563-21",,
+"Emp. 1919-21",,
+"Emp. 1921-21",,
+"Emp. 1923-21",,
+"Emp. 1924-21",,
+"Emp. 1925-21",,
+"Emp. 1928-21",,
+"Emp. 2056-21",,
+"Emp. 2090-21",,
+"Emp. 2091-21",,
+"Emp. 2120-21",,
+"Emp. 2122-21",,
+"Emp. 2451-21",,
+"Emp. 2482-21",,
+"Emp. 2483-21",,
+"Emp. 2706-21",,
+"Emp. 2833-21",,
+"Emp. 3203-21",,
+"Emp. 3797-21",,
+"Emp. 3810-21",,
+"Emp. 3849-21",,
+"Emp. 3850-21",,
+"Emp. 3851-21",,
+"Emp. 3976-21",,
+"Emp. 3977-21",,
+"Emp. 3983-21",,
+"Emp. 3984-21",,
+"Emp. 3985-21",,
+"Emp. 3986-21",,
+"Emp. 3988-21",,
+"Emp. 3990-21",,
+"Emp. 3992-21",,
+"Emp. 3994-21",,
+"Emp. 4248-21",,
+"Emp. 4249-21",,
+"Emp. 4384-21",,
+"Emp. 4722-21",,
+"Emp. 4724-21",,
+"Emp. 4870-21",,
+"Emp. 4888-21",,
+"Emp. 4903-21",,
+"Emp. 4935-21",,
+"Emp. 4936-21",,
+"Emp. 4940-21",,
+"Emp. 4985-21",,
+"Emp. 4995-21",,
+"Emp. 4996-21",,
+"Emp. 4997-21",,
+"Emp. 5248-21",,
+"Emp. 5302-21",,
+"Emp. 5312-21",,
+"Emp. 5313-21",,
+"Emp. 5317-21",,
+"Emp. 5448-21",,
+"Emp. 5449-21",,
+"Emp. 5450-21",,
+"Emp. 5451-21",,
+"Emp. 5473-21",,
+"Emp. 5476-21",,
+"Emp. 5477-21",,
+"Emp. 5556-21",,
+"Emp. 5558-21",,
+"Emp. 5559-21",,
+"Emp. 5560-21",,
+"Emp. 587-21",,
+"Emp. 731-21",,
+"Emp. 741-21",,
+FONTES,DESCRIÇÃO,EMPENHOS,CONTRATOS
+4,"Apoio aos municípios MP 938/2020 e Lei Complementar 173/2020, Inc. II",---,---
+6,"Auxílio Financeiro da Saúde e Assistência - Lei Complementar 173/2020, Inc. I",---,---
+490,"Emendas Individuais EC 105/20219 - Atenção Básica","Não possuí empenhos relacionados","Não possuí contratos relacionados"
+491,"Emendas Individuais EC 105/20219 - Média e Alta","Não possuí empenhos relacionados","Não possuí contratos relacionados"
+492,"Bloco de custeio e serviços de saúde - Coronavírus",---,---
+493,"Bloco de custeio e serviços de saúde - Coronavírus",---,---
+518,"Bloco de investimento Emendas Individuais",---,---
+953,"Ações do Covid para EPI - Port. 369/2020","Não possuí empenhos relacionados","Não possuí contratos relacionados"
+954,"Ações do Covid para Alimentos - Port. 369/2020",---,---
+955,"Ações do Covid para Acolhimento - Port. 369/2020",---,---
+956,,"Não possuí empenhos relacionados","Não possuí contratos relacionados"
+957,,"Não possuí empenhos relacionados","Não possuí contratos relacionados"
+EMPENHOS,LICITAÇÃO,CONTRATO
+10334-2020,"Dispensa 071/20",79/20
+10426-2020,"Pregão 061/20",---
+10428-2020,"Pregão 057/20",---
+10429-2020,"Pregão 057/20",---
+10430-2020,"Pregão 061/20",---
+10431-2020,"Pregão 061/20",---
+10563-2020,"Pregão 057/20",---
+10568-2020,"Pregão 042/20",85/20
+11219-2020,"Dispensa 096/20",---
+11807-2020,"Pregão 057/20",---
+11839-2020,"Dispensa 071/20",79/20
+13001-2020,"Pregão 082/20",---
+13528-2020,"Pregão 077/20",---
+13530-2020,"Pregão 077/20",---
+13573-2020,"Pregão 090/20",---
+13574-2020,"Pregão 090/20",---
+13575-2020,"Pregão 090/20",---
+15434-2020,"Pregão 111/20",---
+17013-2020,"Pregão 117/20",---
+8200-2020,"Dispensa 071/20",79/20
+8388-2020,"Pregão 055/19",---
+8610-2020,"Pregão 055/19",---
+8952-2020,"Pregão 042/20",85/20
+9560-2020,"Dispensa 071/20",79/20
+9598-2020,"Dispensa 086/20",---
+9599-2020,"Pregão 048/20",88/20
+9600-2020,"Pregão 048/20",88/20
+9601-2020,"Pregão 048/20",88/20
+9602-2020,"Pregão 048/20",88/20
+9660-2020,"Pregão 048/20",88/20
+1316-21,"Pregão 094/18",156/18
+1360-21,"Pregão 078/17",110/17
+1439-21,"Pregão 177/19",266/19
+1501-21,"Pregão 093/20",174/20
+1563-21,"Pregão 022/17",90/17
+1919-21,"Pregão 179/20",10/21
+1921-21,"Pregão 179/20",12/21
+1923-21,"Pregão 179/20",14/21
+1924-21,"Pregão 179/20",11/21
+1925-21,"Pregão 179/20",13/21
+1928-21,"Tomada de Preços 001/21",16/21
+2056-21,"Dispensa 107/20",151/20
+2090-21,"Pregão 154/20",---
+2091-21,"Pregão 245/19",---
+2120-21,"Dispensa 107/20",151/20
+2122-21,"Dispensa 107/20",151/20
+2451-21,---,---
+2482-21,"Pregão 029/20",176/20
+2483-21,"Pregão 029/20",176/20
+2706-21,"Dispensa 008/21",27/21
+2833-21,"Pregão 022/17",90/17
+3203-21,"Pregão 058/20",---
+3797-21,"Pregão 070/20",---
+3810-21,---,---
+3849-21,"Dispensa 008/21",27/21
+3850-21,"Dispensa 008/21",27/21
+3851-21,"Dispensa 008/21",27/21
+3976-21,"Pregão 029/20",176/20
+3977-21,"Pregão 029/20",176/20
+3983-21,"Pregão 144/20",---
+3984-21,"Pregão 144/20",---
+3985-21,"Pregão 144/20",---
+3986-21,"Pregão 078/20",---
+3988-21,"Pregão 078/20",---
+3990-21,"Pregão 144/20",---
+3992-21,"Pregão 144/20",---
+3994-21,"Pregão 144/20",---
+4248-21,"Pregão 078/20",---
+4249-21,"Pregão 144/20",---
+4384-21,"Dispensa 008/21",27/21
+4722-21,"Dispensa 008/21",27/21
+4724-21,"Dispensa 008/21",27/21
+4870-21,"Pregão 022/17",90/17
+4888-21,"Pregão 042/20",85/20
+4903-21,---,---
+4935-21,"Dispensa 008/21",27/21
+4936-21,"Dispensa 008/21",27/21
+4940-21,"Dispensa 008/21",27/21
+4985-21,"Dispensa 008/21",27/21
+4995-21,"Pregão 160/20",---
+4996-21,"Pregão 160/20",---
+4997-21,"Pregão 160/20",---
+5248-21,"Pregão 078/20",---
+5302-21,---,---
+5312-21,"Pregão 012/21",---
+5313-21,"Pregão 131/20",---
+5317-21,"Pregão 012/21",---
+5448-21,"Pregão 005/21",---
+5449-21,"Pregão 005/21",---
+5450-21,"Pregão 005/21",---
+5451-21,"Pregão 005/21",---
+5473-21,"Pregão 028/21",---
+5476-21,"Pregão 104/20",---
+5477-21,"Pregão 104/20",---
+5556-21,"Dispensa 008/21",27/21
+5558-21,"Dispensa 008/21",27/21
+5559-21,"Dispensa 008/21",27/21
+5560-21,"Dispensa 008/21",27/21
+587-21,"Pregão 114/19",188/19
+731-21,"Pregão 029/20",176/20
+741-21,"Pregão 029/20",176/20

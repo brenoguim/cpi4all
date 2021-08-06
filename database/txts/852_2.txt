@@ -1,0 +1,2596 @@
+MINISTÉRIO DA SAUDE
+
+CORONAVÍRUS
+
+ 
+
+Recomendações de proteção aos
+trabalhadores dos serviços de saúde
+
+no atendimento de COVID-19 e
+outras síndromes gripais
+
+DISQUE
+SAÚDE
+
+ES BRASiL
+
+MINISTÉRIO DA
+SAÚDE 14
+
+ 
+
+EPT
+MINISTÉRIO DA SAUDE
+Secretaria de Vigilância em Saúde
+
+Recomendações de proteção aos
+trabalhadores dos serviços de saúde
+
+no atendimento de COVID-19 e
+outras síndromes gripais
+'SVS/MS | Abr. 2020
+
+ 
+
+SUMÁRIO
+
+Introdução...
+Contextualização sobre o COVID-19 e objetivo do documento...
+COVID-19: Modo de transmissão............
+
+ 
+
+ 
+
+COVID-19: Manifestações clínicas e complicações............
+
+ 
+
+COVID-19: Definições de Caso Operacionais.....
+
+  
+
+COVID-19: Ferramentas de apoio........
+
+  
+
+Trabalhadores dos Serviços de Saúde....
+
+Obrigações dos serviços de saúde em relação à proteção à saúde do trabalhado!
+
+ 
+
+Medidas de controle.......
+
+ 
+
+  
+
+Medidas de Controle de Engenharia.
+
+ 
+
+Medidas de Controle Administrativo e Segurança Ocupacional.....
+
+Trabalhadores dos serviços de saúde que se enquadrem nos grupos de risco
+para COVID-19.....
+
+ 
+
+ 
+
+Afastamento de profissionais de serviços de saúde e retorno às atividades..........
+
+ 
+
+Equipamentos de Proteção Individual (EPIs).......
+Gerenciamento e disposição dos resíduos de serviços de saúde (RSS).......
+Limpeza e desinfecção de superfícies...
+
+ 
+
+Processamento de produtos para a saúde.....
+Processamento de roupas de serviços de saúde.
+
+ 
+ 
+
+Etapas para os serviços de saúde se prepararem para a COVID-19.
+
+Orientações sobre saúde mental no trabalho de enfrentamento da COVID-19.......
+
+ 
+
+Recomendações para líderes de equipe ou gerentes...
+
+ 
+
+Recomendações sobre autocuidado em saúde mental aos profissionais
+dos serviços de saúde envolvidos na resposta ao COVID-15........
+
+ 
+
+Referências......
+
+  
+
+Organização...
+Colaboradores.
+
+ 
+
+Palavras-chave: COVID-19; SARS-CoV-2; Novo Coronavirus; Saúde do Trabalhador.
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+Introdução
+
+Contextualização sobre a COVID-19 e objetivo do documento
+
+A doença do novo Coronavirus-2019 denominada (COVID-19) é uma enfermidade respiratória
+causada pelo vírus SARS-CoV-2. Em dezembro de 2019, a Organização Mundial de Saúde (OMS)
+começou a monitorar um aumento de casos de pneumonia de causa desconhecida na cidade
+de Wuhan, na China. Em 7 de janeiro de 2020, as autoridades chinesas informaram que a
+causa era esse novo tipo de coronavirus. A Organização Mundial da Saúde (OMS) declarou, em
+30 de janeiro de 2020, que o surto da doença causada pelo novo coronavírus constitui uma
+Emergência de Saúde Pública de Importância Internacional - o mais alto nível de alerta da
+Organização, conforme previsto no Regulamento Sanitário Internacional. Em 11 de março de
+2020, a COVID-19 foi caracterizada pela OMS como uma pandemia. A OMS e, desde então, todos
+os países, incluindo o Brasil, vêm monitorando a progressão, o comportamento, e as respostas
+dadas à COVID-19. No dia 20/03, o Ministério da Saúde declarou, por meio da Portaria nº 454, o
+estado de transmissão comunitária em todo o território nacional.
+
+Neste cenário, em 22 de janeiro de 2020, o Ministério da Saúde (MS) ativou o Centro de Operações
+de Emergências em Saúde Pública para coordenar a resposta à essa emergência no âmbito
+nacional, garantindo a gestão dos dados, sua análise apropriada à geração de informações
+necessárias para subsidiar a tomada de decisão dos gestores e técnicos, na definição de
+estratégias e ações adequadas e oportunas para o enfrentamento da COVID-19.
+
+Sabe-se que o vírus da COVID-19 é transmitido por gotículas de saliva e secreção, permanece
+ativo em superfícies, com duração variada, e tem alto índice de transmissibilidade. Pessoas
+infectadas podem permanecer assintomáticas e transmitindo para outras pessoas! Acomete,
+em suas formas mais graves, idosos e portadores de comorbidades, notadamente, as doenças
+dos aparelhos cardiovascular e respiratório, diabetes, hipertensão e imunodeprimidos.?
+A letalidade varia de acordo com as políticas de confirmação de casos adotadas em cada
+país, incluindo a realização de testes de confirmação laboratoriais, mas estima-se que esteja
+atualmente em 2,2%, embora na Itália seja de quase 10% e no Brasil, atualmente, esteja em
+torno de 3,8% :
+
+“Cascella M, Rajnik M, Cuomo A, Dulebohn SC, Di Napoli R. Features, Evaluation and Treatment Coronavirus (COVID-19). StatPearls
+Publishing LLC. 2020. Disponível em: https: / /www.ncbi.nlm.nih.gov/ books /NBK554776/
+
+2Yang), et al. Prevalence of comorbidities in the novel Wuhan coronavirus (COVID-19) infection: a systematic review and meta-
+analysis. International Journal of Infectious Diseases. 2020. Disponível em: https: / /wuw.sciencedirect.com/science/article /pii/
+S1201971220301368.
+
+3Organização Mundial de Saúde - OMS. Coronavirus disease (COVID-2019) situation reports. Disponível em: https:/ /wwwaho.int/
+emergencies/diseases /novel-coronavirus-2019/situation-reports.
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+COE/SVS/MS | Abr. 2020
+
+ 
+
+Assim, a Rede de Atenção à Saúde, conformada por serviços públicos e privados, têm um
+papel fundamental na identificação e condução oportuna e qualificadas dos casos de COVID
+19, de forma a evitar a propagação do novo coronavirus (SARS-Cov-2), reduzir casos e evitar
+óbitos. Para tal, é necessário a adoção de medidas de prevenção e controle voltadas a todos
+os serviços de saúde, que têm além dos objetivos citados, a finalidade de proteger a saúde dos
+trabalhadores destes serviços, fundamentais para o seu funcionamento e para preservação da
+vida humana.
+
+A partir das produções técnicas do COE, orientações da Agência Nacional de Vigilância Sanitária
+(Anvisa) e escuta a especialistas de diversas categorias profissionais que atuam no setor
+saúde, o documento “Recomendações de proteção aos trabalhadores dos serviços de saúde no
+atendimento de COVID-19 e outras síndromes gripais”, pretende auxiliar os serviços de saúde e
+os trabalhadores que neles atuam na implementação de ações e estratégias de minimização da
+exposição a patógenos respiratórios, em especial ao novo coronavírus (SARS-CoV-2).
+
+Destaca-se que a vigilância epidemiológica da COVID-19 é dinâmica e está continuamente
+sendo construída à luz das evidências técnicas e científicas internacionais divulgadas, e pelas
+recomendações emitidas pela OMS. Assim, novas orientações e atualizações podem ser feitas
+a qualquer momento.
+
+ 
+
+Nomes oficiais:
+* Doença: COVID-19 (Sindrome Respiratória Aguda Grave pelo SARS-Cov-2)
+
+* Vírus: SARS-CoV-2
+
+ 
+
+ 
+
+ 
+
+COVID-19: Modo de transmissão
+
+Embora os primeiros casos humanos de COVID-19 provavelmente tenham sido provenientes
+da exposição a animais infectados (em uma feira de animais em Wuhan, na China), pessoas
+infectadas podem espalhar o SARS-CoV-2 para outras pessoas', especialmente:
+
+* Por contato próximo entre indivíduos;
+
+* Através de gotículas respiratórias produzidas quando uma pessoa infectada tosse ou
+espirra. Essas gotículas podem atingir a boca, nariz e mucosas de pessoas próximas ou
+serem inaladas nos pulmões;
+
+* Pormeiodocontato comsuperfícies ouobjetos que contenhao SARS-CoV-2 e, emseguida,
+tocando boca, nariz ou possivelmente olhos, ainda que esse modo de transmissão não
+seja o principal.
+
+ 
+CORONAVIRUS
+
+Ru COVID-19
+
+COE/SVS/MS | Abr. 2020
+
+ 
+
+Vale frisar que a transmissão por aerossóis ainda está sendo estudada e, até o momento,
+não existem evidências robustas a respeito. Em recente documento, a Organização Mundial
+de Saúde - OMS reforça que a transmissão da COVID-19 por aerossóis pode ser possível
+em procedimentos geradores de aerossóis, como por exemplo, intubação endotraqueal,
+broncoscopia, aspiração aberta, administração de tratamento nebulização, ventilação manual
+antes da intubação, desconectar o paciente do ventilador, ventilação com pressão positiva
+não invasiva, traqueostomia e ressuscitação cardiopulmonar*. As orientações da OMS têm
+sido endossadas pelo Ministério da Saúde e Anvisa, bem como pelas sociedades e associações
+de profissionais de saúde, Associação Brasileira dos Profissionais em Controle de Infecções e
+Epidemiologia Hospitalar — ABIHº .
+
+Pacientes sintomáticos (principalmente com febre, tosse e / ou falta de ar) são os com maior
+potencial de transmissibilidade, devido a tosse e secreções, embora indivíduos assintomáticos
+possam transmitir o SARS-CoV-2. Como sintomas alertam para mudanças de comportamento
+de prevenção, assintomáticos têm papel importante na elevada disseminação da COVID-19".
+
+A transmissão da COVID-19 dentro dos serviços de saúde, como clínicas e hospitais, vem
+ocorrendo em todo o mundo. Já foram relatados vários casos na China, França e Itália.
+Acredita-se que essa transmissão da COVID-19 ocorra principalmente por meio de gotículas
+respiratórias, produzidas quando uma pessoa infectada tosse ou espirra, assim como acontece
+com a influenza e outros patógenos respiratórios. Além disso, como já sinalizado é possível a
+transmissão por aerossóis em pacientes submetidos a procedimentos de vias aéreas, como a
+intubação oro traqueal ou aspiração de vias aéreas.
+
+De maneira geral, os trabalhadores dos serviços de saúde fazem parte de um grupo de alto
+risco para vírus respiratórios e representaram uma parcela expressiva do número de casos em
+surtos anteriores do SARS e MERS-CoV, tendo contribuído para amplificação das epidemias.
+O adoecimento de profissionais de saúde é especialmente preocupante, pois pode reduzir os
+recursos humanos e comprometer a qualidade e potencial de resposta dos serviços de saúde.
+Porém, nem todos os trabalhadores dos serviços de saúde têm o mesmo risco de infecção por
+SARS-CoV-2, o que depende da atividade e procedimentos que este profissional executa.
+
+Vale frisar que, excepcionalmente em situações de emergência, os trabalhadores dos serviços
+de saúde podem ser requisitados a substituir colegas de trabalho e desempenhar tarefas que
+não são as suas de rotina, o que pode implicar em um novo padrão de risco de exposição e
+transmissão. Portanto, esse novo contexto implica na necessidade de treinamento e orientações
+focadas e direcionadas para cada processo de trabalho.
+
+“Organização Mundial de Saúde - OMS. Modes of transmission of virus causing COVID-19:implications for IPC precaution
+recommendations. Disponível em: https://www.who.int/publications-detail/modes-of-transmission-of-virus-causing-covid-19-
+implications-for-ipc-precaution-recommendations.
+
+SABIH - Associação Brasileira dos Profissionais em Controle de Infecções e Epidemiologia Hospitalar. NOTA INFORMATIVA ABIH
+28.03.2020 - Forma de Transmissão COVID-19. Disponível em: https:/ /www.abih.net.br/news-abih-detalhe.php?blog=1194.
+
+ 
+CORONAVIRUS
+
+ERR COVID-19
+(o MS | Abr 2020
+
+ 
+
+As atividades de maior risco, com alto potencial de exposição a fontes conhecidas ou suspeitas
+de COVID-19, estão relacionadas a procedimentos geradores de aerossóis, algumas intervenções
+e exames dentários, coleta invasiva de amostras de material biológico, além de serviços de
+autópsia em cadáveres de casos de COVID-19 (suspeitos ou confirmados).
+
+Os demais trabalhadores dos serviços de saúde que realizam outras atividades /procedimentos
+que não gerem aerossóis, também possuem risco de exposição à COVID-19 em ambiente laboral
+e precisam redobrar seus cuidados, especialmente quando executando atividades de contato
+direto com pacientes, utensílios, objetos e ambientes possivelmente infectados.
+
+O período médio de incubação da COVID-19 é de 5 dias, com intervalo que pode chegar até 12
+dias, sendo esse o tempo que os primeiros sintomas demoram para aparecer desde a infecção.
+De acordo com o Centers for Disease Control and Prevention (CDC), esse período pode variar
+entre 2-14 dias após a infecção. A transmissão do SARS-CoV-2 ocorre, em média, até sete dias
+após o aparecimento dos sintomas, mas pode ocorrer antes do aparecimento de sinais e
+sintomas. Até o momento, não há informação suficiente que defina quantos dias antes do
+início dos sinais e sintomas uma pessoa infectada passa a transmitir o vírus.
+
+COVID-19: Manifestações Clínicas e Complicações
+
+O espectro clínico da infecção por coronavírus é muito amplo, podendo variar de sintomas
+leves, como um simples resfriado, até mais graves como uma pneumonia severa e óbito. No
+entanto, por se tratar de uma doença nova, as manifestações clínicas da COVID-19 ainda não
+estão totalmente claras e mais investigações são necessárias”.
+
+Até agora, os principais sinais e sintomas clínicos associados à COVID-19 são: febre, tosse e falta
+de ar. Em menor escala, os pacientes também podem apresentar sintomas não respiratórios,
+como: fadiga, dor muscular, confusão mental, dor de cabeça, dor de garganta, entre outros.
+Outros indivíduos infectados, conhecidos como casos assintomáticos, podem não apresentar
+nenhum sintoma”.
+
+O exame de imagem mais sensível para detecção de casos da COVID-19 é a tomografia. Em
+pacientes chineses diagnosticados, o padrão mais comum dos exames foram: pneumonia
+bilateral, com manchas múltiplas e opacidade em vidro fosco, além de pneumotóraxe linfopenia
+em menor escala!.
+
+Até o momento, as complicações mais comuns da COVID-19 são: Sindrome Respiratória Aguda
+Grave - SRAG, lesão cardíaca aguda e infecção secundária. Na China, a letalidade entre os
+pacientes hospitalizados variou entre 4,3% e 15%.
+
+* Guo YR, Cao QD, Hong ZS, Tan YY, Chen SD, Jin HJ, Tan KS, Wang DY and Yan Y. The origin, transmission and clinical therapies on
+coronavirus disease 2019 (COVID-19) outbreak - an update on the status. Military Medical Research (2020) 7:11. Disponível em:
+https:/ /doi.org/10:1186/s40779-020-00240-0
+
+7 Wu Z, McGoogan JM. Characteristics of and Important Lessons from the Coronavirus Disease 2019 (COVID-19) Outbreak in China:
+Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. Disponível em: https:/ /doi.
+org/101001/jama.2020.2648
+
+* BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Boletim Epidemiológico nº 3 (21/02/2020). Doença pelo Novo
+Coronavírus 2019 - COVID-19. Disponível em: https://portalarquivos2.saude.gov.br/images/ pdf/2020/fevereiro/21/2020-02-21-Bole-
+tim-Epidemiologicoo3.pdf
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+VS/MS | Abr. 2020
+
+ 
+
+COVID-19: Definições Operacionais de Caso
+
+Consultar o “Guia de Vigilância Epidemiológica: Emergência de Saúde Pública de Importância
+Nacional pela Doença pelo Coronavirus 2019”. Disponível em: https://coronavirus.saude.gov.
+
+br/
+
+COVID-19: Ferramentas de apoio
+
+Sítio eletrônico: Página oficial do Ministério da Saúde com todas as informações sobre
+o COVID-19, transmissão, medidas de prevenção, tratamento, boletins epidemiológicos,
+planos de contingência, entre outras informações importantes. Disponível em: hitps://
+coronavirus.saude.gov.br/
+
+Consultoria clínica e apoio à profissionais de saúde: 0800 644 6543 (atendimento
+gratuito de segunda a sexta, das 8:00-17:30).
+
+Disk-Saúde: Ligue 136
+
+Plataforma de Vigilância: diariamente, o MS atualiza as informações acerca do número
+de casos de COVID-19 no Brasil e as apresenta no Painel Coronavírus, disponível em:
+https: //covid.saude.gov.br/.
+
+Whatsapp: Foi criado um canal de comunicação para manter a população e profissionais
+de saúde informados sobre a COVID-19. A ferramenta esclarece dúvidas, auxilia no
+diagnóstico, informa sobre rede de assistência e orienta profissionais de saúde. Para
+utilizar, adicione o número +55 (61) 9938-0031 na sua agenda e mande um “oi”.
+
+Aplicativo: o aplicativo Coronavirus-SUS visa conscientizar a população sobre a
+COVID-19 e conta com as seguintes funcionalidades: sintomas, como se prevenir, o
+que fazer em casos suspeitos; mapa indicando unidades de saúde próximas; notícias
+oficiais do MS, etc. Em caso de suspeita de infecção, o cidadão pode conferir se os
+sintomas são compatíveis com o do Corona, e caso seja será instruído e encaminhado
+para a unidade de saúde básica mais próxima; etc. O aplicativo Coronavírus-SUS está
+disponível para: ANDROID (http://bit.ly/AndroidAppCoronavirus-SUS) e iOS (http://bit.
+ly/lOSAppCoronavirus-SUS).
+
+* BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Guia de Vigilância Epidemiológica Emergência de Saúde Pública
+de Importância Nacional pela Doença pelo Coronavirus 2019. Vigilância Integrada de Sindromes Respiratórias Agudas Doença pelo
+Coronavírus 2019, Influenza e outros virus respiratórios.
+
+ 
+'SVS/MS | Abr. 2020
+
+ 
+
+Curso sobre COVID-19: A OPAS - Organização Pan-americana da Saúde disponibilizou
+gratuitamente o curso “Vírus respiratórios emergentes, incluindo o COVID-19”, que pode
+ser acessado por qualquer trabalhador nos links: https:/ /www.campusvirtualsp.org/pt-
+br/curso/virus-respiratorios-emergentes-incluindo-o-covid-19; ou https://avasus.ufrn.
+br/local/avasplugin/cursos/curso.php?id=320.
+
+Curso sobre Equipamentos de Proteção Individual: O Instituto Israelita de ensino e
+pesquisa Albert Einstein disponibiliza um curso gratuito sobre o uso correto de EPIs,
+que podem ser acessados no link: https://ensino.einstein.br/uso correto das epis
+pela equipe assistenci p3147/p.
+
+ 
+CORONAVÍRUS
+
+COVID-19
+'0E/SVS/MS | Abr. 2020
+
+ 
+
+Trabalhadores dos Serviços de Saúde
+
+Trabalhadores dos serviços de saúde são todos aqueles que atuam em espaços e estabelecimentos
+de assistência e vigilância à saúde, sejam eles hospitais, clínicas, ambulatórios e outros locais'º.
+Desta maneira, compreende tanto os profissionais da saúde - como médicos, enfermeiros,
+técnicos de enfermagem, nutricionistas, fisioterapeutas, etc. - quanto os trabalhadores de
+apoio, como recepcionistas, seguranças, pessoal da limpeza, cozinheiros, entre outros, ou seja,
+aqueles que trabalham nos serviços de saúde, mas que não estão prestando serviços direto de
+assistência à saúde das pessoas.
+
+A maioria dos trabalhadores de saúde que atua no atendimento direto (face-a-face) com
+pacientes e usuários terá maior chance de contato com pessoas portadoras de COVID-19 e,
+consequentemente, de se infectar. Como mencionado anteriormente, isso dependerá de
+múltiplos fatores como: atividade que executa, duração da jornada de trabalho, quantidade
+de pessoas que atende, além do uso de Equipamentos de Proteção Individual, incluído a
+paramentação, retirada, higienização (quando não for descartável) e descarte correto destes
+equipamentos. Outro ponto importante é a formação desses trabalhadores sobre aspectos de
+segurança e saúde relativas ao ambiente de trabalho, possibilitando-os realizar suas atividades
+de modo a cuidar da sua saúde e da saúde dos outros. Além desses aspectos básicos, há que se
+garantir jornadas de trabalho e número de profissionais compatíveis com a demanda psíquica
+e física da função, além de adequado monitoramento. Em um momento de Emergência de
+Saúde Pública é compreendido que muitos profissionais estão extrapolando jornadas formais
+e indo além para poder salvar vidas, mas é essencial que paradas entre turnos ou jornadas
+sejam preservadas e realizadas.
+
+É importante estar atento para a classificação da atividade desenvolvida nos espaços e serviços
+de saúde para que sejam identificadas as medidas de proteção indicadas para cada tipo de
+risco, considerando:
+
+* Trabalhadores da Assistência: agentes comunitários de saúde, assistentes sociais;
+enfermeiros; farmacêuticos; fisioterapeutas; fonoaudiólogos; médicos; nutricionistas;
+odontólogos; psicólogos; técnicos e auxiliares de enfermagem e de saúde bucal e;
+terapeutas ocupacionais.
+
+ 
+
+* Trabalhadores da Vigilância em Saúde: profissionais da vigilância sanitária,
+epidemiológica, saúde ambiental; saúde do trabalhador; e dos laboratórios.
+
+ 
+
+* Trabalhadores da Gestão: administradores; diretores; gerentes; gestores.
+
+* Trabalhadores do Apoio: auxiliares administrativos; almoxarifes; trabalhadores da copa
+e fornecimento de alimentação.
+
+* Trabalhadores da Conservação: trabalhadores da conservação predial e trabalhadores
+da limpeza.
+
+Obs: os trabalhadores citados são a título de exemplificação não se esgotando na
+descrição acima.
+
+*º ANVISA - Agência Nacional de Vigilância Sanitária. Serviços de Saúde. Disponivel em: http://www anvisa.gov.br/servicosaude/
+organiza/index.htm. Acessado em 10/03/2020.
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+VS/MS | Abr. 2020
+
+ 
+
+Obrigações dos serviços de saúde em
+relação à proteção à saúde do trabalhador
+
+A Constituição Federal Brasileira de 1988 "e a Convenção nº 155”, da Organização Internacional
+do Trabalho (OIT) internalizada pelo Brasil, definem que toda empresa ou organização tem
+responsabilidade referente à saúde e segurança do trabalhador e de outros que possam ser
+afetados por suas atividades.
+
+A Lei Orgânica do SUS, nº 8.080, de 19 de setembro de 19907, garante a promoção e proteção da
+saúde dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho,
+bem como a recuperação, reabilitação e assistência às vítimas de acidentes doenças e agravos
+relacionados ao trabalho.
+
+Neste sentido, todos os serviços de saúde devem garantir a adoção de medidas e mecanismos
+de proteção e promoção à saúde para todos os trabalhadores que atuam nos serviços, sejam
+ele empregados, terceirizados ou pertencentes a outras modalidades de vínculos.
+
+Os serviços precisam definir e garantir espaços de representação e escuta desses trabalhadores
+na gestão da atenção à sua saúde. Os trabalhadores precisam estar informados, treinados,
+conscientizados e mobilizados para ações de proteção necessárias. É direito dostrabalhadores
+ter um ambiente de trabalho seguro e pleno acesso a medidas de proteção compatíveis com
+suas atividades de rotina e as excepcionais, como aquelas decorrentes do atendimento a
+COVID-19.
+
+O bom desenvolvimento das atividades nos serviços de saúde depende da sua organização
+em relação à segurança e saúde dos seus trabalhadores. A RDC. 63 de 2011 da Anvisa (Figura 1)
+estabelece algumas obrigações destes serviços, que devem ser observadas no enfrentamento
+da COVID-19:
+
+“BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Brasília, DF: Senado Federal: Centro Gráfico, 1988
+
+“ORGANIZAÇÃO INTERNACIONAL DO TRABALHO - OIT. Convenção 155. 1981. Disponivel em: <http://www.conjur.com.br/dl/conven-
+cao-oit-155.pdf>. Acesso em: 26/03 maio 2015.
+
+“BRASIL. Lei nº 8.080, de 19 de setembro de 1990. Lei Orgânica da Saúde. Brasília, 1990.
+
+ 
+CORONAVIRUS
+
+AT ro
+dir COVID-19
+c MS | Abr. 2020
+
+Mate Re gia)
+
+ 
+
+ 
+
+Figura 1. Responsabilidades dos serviços de saúde em relação à proteção à saúde do trabalhador.
+Fonte: adaptado de ANVISA, RDC nº 63/2011.
+
+Garantir mecanimos para imunização contra agente
+biológicos imunopreveníveis
+
+Garantir que os trabalhadores sejam avaliados
+periodicamente em relação à saúde ocupacional
+
+Garantir que os trabalhadores com
+agravos agudos à saúde ou com
+lesões só iniciem suas atividades
+após avaliação médica.
+
+Garantir que seus As vestimentas que tem também objetivo de servir como
+trabalhadores com barreira de proteção, preferencialmente devem ser
+possibilidade de fornecidas pelos serviços de saúde.
+exposição a agentes
+| biológicos, físicos O serviço de saúde é responsável pelo
+ou químicos utilizem fornecimento e pelo processamento das
+vestimentas para o vestimentas utilizadas nos centros
+trabalho, incluindo cirúrgicos e obstétricos, nas unidades de
+calçados, compatíveis tratamento intensivo, nas unidades de
+com o risco e em isolamento e centrais de material
+condições de conforto. esterilizado.
+Responsabilidades
+dos serviços de
+saúde
+
+Garantir mecanismos de prevenção
+dos riscos de doenças e acidentes
+de trabalho, incluindo o forneci-
+
+-— mento de Equipamentos de
+Proteção Individual - EPI, em
+número suficiente e compatível
+com as atividades desenvolvidas
+pelos trabalhadores.
+
+Atenção! Os trabalhadores não devem
+deixar o local de trabalho com os
+equipamentos de proteção individual
+
+O serviço de saúde deve manter registro das
+[= comunicações de acidentes e doenças relacio-
+nadas ao trabalho.
+
+Em serviços de saúde com mais de vinte trabalhadores é
+| obrigatória a instituição de Comissão Interna de Prevenção de
+Acidentes - CIPA.
+
+| - Normas e condutas de segurança biológica, química,
+física, ergonômica e psicossocial;
+
+II- Instruções para uso dos Equipamentos de Proteção
+Individual - EPI;
+
+III - Procedimentos em caso de incêndios e acidentes;
+
+IV - Orientação para manuseio e transporte de produtos para
+saúde contaminados.
+
+O Serviço de Saúde
+
+deve manter
+
+disponível a todos os ——
+trabalhadores:
+
+ 
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+MS | Abr. 2020
+
+ 
+
+Medidas de Controle
+
+As medidas de controle da COVID-19 em ambientes e processos de trabalho têm como objetivos
+identificar e intervir nos fatores e situações de risco às quais os trabalhadores podem estar
+expostos durante suas atividades laborais, visando eliminar ou, na sua impossibilidade, atenuar
+e controlar estes fatores e situações. Essas medidas podem ser de controle de engenharia,
+controle administrativo e de proteção individual!. Na maioria dos casos, será necessária
+uma combinação dessas medidas para proteger os trabalhadores dos serviços de saúde da
+exposição ao SARS-CoV-2.
+
+Medidas de Controle de Engenharia
+
+As medidas de controle engenharia são alterações aplicáveis aos processos e ambientes
+de trabalho. Estas medidas são muito importantes para prevenir a propagação e reduzir a
+concentração de agentes infecciosos no ambiente de trabalho, minimizar o número de áreas
+em que há exposição ao SARS-CoV-2 e diminuir o número de pessoas expostas. A implantação
+dessas medidas deve ser priorizada pois protegem tanto ostrabalhadores quanto os pacientes.
+
+Alguns exemplos de medidas de controle de engenharia” para o
+enfrentamento da COVID-19 são:
+
+* Definiçãoe instalação de espaços de acolhimento etriagem que possibilite a identificação
+(e o isolamento) de pacientes suspeitos de COVID-19 antes ou imediatamente após a
+chegada ao estabelecimento de saúde.
+
+* Provimento de condições para adequada higienização das mãos: lavatório/pia com
+dispensador de sabonete líquido, suporte para papel toalha, papel toalha, lixeira com
+tampa e abertura sem contato manual, para uso dos pacientes e seus acompanhantes,
+tanto na recepção quanto em outros pontos dentro do serviço, minimizando o possível
+contato com outros pacientes e evitando a sua circulação pelos serviços de saúde.
+
+“OSHA - Occupational Safety and Health Act. Guidance on Preparing Workplaces for COVID-19. 2020. Disponivel em: https:/ fun.
+Publications/0SHA3990.pdf
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+Disponibilização de Lenços descartáveis para higiene nasal e lixeira com acionamento
+por pedal para o descarte dos lenços na sala de espera.
+
+Manutenção dos espaços de espera com ventilação abundante e natural.
+
+Instalação de dispensadores com preparações alcoólicas para a higiene das mãos (sob
+as formas gel ou solução a 70%) nas salas de espera.
+
+Definição e instalação de ambientes de isolamento e manutenção dos casos suspeitos de
+COVID-19 em área separada dos demais pacientes, até atendimento ou encaminhamento
+ao serviço de referência (se necessário), limitando sua movimentação fora da área de
+isolamento. Caso haja mais de um paciente suspeito ou confirmado de COVID-19 e não for
+possível o isolamento em quarto privativo, deve ser realizado o isolamento agrupado de
+pacientes (coorte) com infecção pelo mesmo agente, mantendo uma distância mínima
+de 1 metro entre os leitos dos pacientes e restringindo ao máximo o número de acessos
+a essa área de coorte. O local de isolamento deve ser mantido com portas fechadas e
+bem ventilado.
+
+Realização de procedimentos que podem gerar aerossóis, em unidade de isolamento
+respiratório com pressão negativa e filtro HEPA (High Efficiency Particulate Arrestance).
+Se não for possível, deve-se colocar o paciente em um quarto com portas fechadas
+e janelas abertas, e, restringir o número de profissionais durante a realização destes
+procedimentos.
+
+Sinalização na entrada do quarto, enfermaria ou outra área de isolamento com alerta
+referindo ISOLAMENTO, a fim de evitar a passagem de pacientes e visitantes de outras
+áreas ou de profissionais que estejam trabalhando em outros locais do serviço de
+saúde. O acesso deve ser restrito aos profissionais envolvidos na assistência direta ao
+paciente. O quarto também deve estar sinalizado quanto às medidas de precaução a
+serem adotadas: padrão, gotículas e contato ou aerossóis.
+
+Fornecimento de máscara cirúrgica aos casos suspeitos de sindrome gripal ou sindrome
+respiratória aguda grave logo na chegada ao serviço de saúde;
+
+Fornecimento aos trabalhadores de condições para higiene simples das mãos: lavatório/
+pia com dispensador de sabonete líquido, suporte para papel toalha, papel toalha,
+lixeira com tampa e abertura sem contato manual.
+
+Instalação de barreiras físicas, como placas de vidros, acrílicas ou janelas para
+atendimento administrativo dos usuários e pacientes.
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+VS/MS | Abr. 2020
+
+ 
+
+* Adoção de coberturas protetoras - utilizadas em macas, cadeiras e outros objetos -
+incluindo as de filme plástico, papel alumínio ou papel absorvente, que devem ser
+removidas e trocadas conforme a periodicidade estabelecida pela Comissão de Controle
+de Infecção Hospitalar (CCIH) ou equivalente.
+
+* Adoção de classificação das áreas e ambientes laboratoriais, onde são manipulados
+agentes biológicos, segundo a publicação “Diretrizes Gerais para o Trabalho em
+Contenção com Material Biológico” do Ministério da Saúde.
+
+Medidas de Controle Administrativo:
+
+As medidas de controle administrativo exigem ações tanto do empregador/contratante quanto
+dos trabalhadores. Normalmente, os controles administrativos são alterações nas políticas
+ou rotinas de trabalho que visam reduzir ou minimizar a exposição a um risco, sua duração,
+frequência ou intensidade. Alguns exemplos de medidas de controle administrativo” para a
+COVID-19 nos serviços de saúde incluem:
+
+* Orientação aos pacientes e acompanhantes sobre a necessidade de adoção de medidas
+de higiene respiratória/etiqueta da tosse: se tossir ou espirrar, cobrir o nariz e a boca
+com cotovelo flexionado ou lenço de papel; utilizar lenço de papel descartável para
+higiene nasal (descartar imediatamente após o uso e realizar a higiene das mãos); evitar
+tocar mucosas de olhos, nariz e boca; realizar a higiene das mãos com água e sabonete
+(40-60 segundos) ou preparação alcoólica a 70% (20-30 segundos).
+
+* Desenvolvimento de planos de comunicação de emergência, incluindo espaços e canais
+de comunicação para responder às preocupações dos trabalhadores (não presenciais,
+se possível).
+
+* Promoção de educação e treinamento atualizados sobre os fatores de risco,
+comportamentos de proteção do COVID-19, cuidados e medidas de prevenção e controle
+que devem ser adotadas pelos serviços de saúde, incluindo o manejo do paciente.
+
+* Orientação ostrabalhadores de saúde sobre evitar tocar superfícies próximas ao paciente
+(ex. mobiliário e equipamentos para a saúde) e aquelas fora do ambiente próximo ao
+paciente, com Luvas ou outros EPI contaminados ou com as mãos contaminadas.
+
+* Treinamento de todos os trabalhadores dos serviços de saúde sobre o uso correto dos
+Equipamentos de Proteção Individual, considerando instruções sobre quais EPIs usar
+em cada situação, sua colocação, sinas de dano ou avaria dos EPI, antes e durante o
+seu uso (resultando em perda de efetividade) e, finalmente, a sua retirada e descarte
+adequado e seguro. O material de treinamento deve ser de fácil compreensão e estar
+sempre disponível.
+
+ 
+CORONAVIRUS
+
+OVID-19 e outras Cc O V I D a 1 9
+
+(MS | Abr. 2020
+
+ 
+
+* Realização e manutenção dos registros para fins de comprovação pelos serviços de
+saúde da capacitação, informando minimamente: data de realização, carga horária,
+conteúdo, nome e formação do profissional (instrutor) e dos trabalhadores envolvidos.
+
+* Implementação de políticas não punitivas, para permitir que o profissional de saúde
+que apresente sintomas de infecção respiratória seja afastado do trabalho.
+
+* Afastamento de trabalhadores doentes e sensibilização para que fiquem em isolamento
+domiciliar. Essa medida não deve implicar em prejuízos trabalhistas aos profissionais.
+
+* Estabelecimento de horários de funcionamento estendidos dos serviços de saúde,
+minimizando, sempre que possível, a aglomeração de pessoas e o contato entre
+funcionários e pacientes.
+
+* Substituição de reuniões e atendimentos (orientativos e de triagem) presenciais por
+atendimento telefônico ou comunicações virtuais.
+
+* Estímulo permanente a higienização das mãos. A lavagem das mãos para os profissionais
+de saúde deve ser realizada SEMPRE:
+
+» que as mãos estiverem sujas;
+» no início e no término do turno de trabalho;
+
+» após atos e funções fisiológicas e pessoais, como alimentar-se, limpar e assoar o
+nariz, usar o banheiro, pentear os cabelos, fumar ou tocar em qualquer parte do
+corpo;
+
+» antes e após o contato com cada paciente ou entre diferentes procedimentos
+realizados no mesmo paciente;
+
+» após uso de luvas ou de outros EPI;
+
+» antes do preparo de materiais ou equipamentos e ao manuseá-los;
+» antese após higiene e troca de roupas dos pacientes; e
+
+» após qualquer trabalho de limpeza.
+
+* Disponibilização de informações sobre higiene das mãos em banheiros, recepções,
+salas de atendimento, etc.
+
+* Emissão de comunicações sobre evitar abraços, beijos, apertos de mão, e manter
+distância de pelo menos 1 metro entre os trabalhadores e destes com os pacientes.
+
+“ANVISA - Agência Nacional de Vigilância Sanitária. Manual de Segurança do Paciente: limpeza e desinfecção de superfícies. Dis-
+ponível em: https:/ /unw20 anvisa.gov.br/ segurancado paciente /index.php/publicacoes item /seguranca-do-paciente-em-servi-
+cos-de-saude-limpeza-e-desinfeccao-de-superhicies
+
+ 
+CORONAVIRUS
+
+Ru COVID-19
+
+COE/SVS/MS | Abr. 2020
+
+ 
+
+Revisão dos Procedimentos Operacionais de Limpeza e Desinfecção de ambientes e
+superfícies para garantir a frequência e as melhores práticas para redução da carga viral nos
+serviços de saúde, com definição de cronograma escrito e de acesso fácil para a limpeza e
+a descontaminação das áreas sujeitas às precauções padrão e as baseadas na transmissão,
+considerando, no mínimo, os diversos tipos de superfície, as sujidades presentes e as
+tarefas e procedimentos realizados em cada local. A desinfecção pode ser feita com álcool
+a 70%, hipoclorito de sódio ou outro desinfetante indicado para este fim. Mais informações
+no “Manual de Segurança do Paciente: Limpeza e desinfecção de superfícies” da Anvisa” .
+
+Informação oportuna (o mais breve possível) pelo serviço de saúde, aos trabalhadores
+e seus representantes, sobre qualquer acidente que possa provocar a disseminação do
+COVID-19, comunicando ainda suas causas e medidas para corrigir a situação.
+
+Monitoramento da ocorrência de transmissão interna do COVID-19 em pacientes e
+trabalhadores, adotando medidas apropriadas para controle e mitigação da transmissão.
+O resultado do monitoramento deve fazer parte do processo de comunicação
+transparente entre a gestão e as equipes dos serviços de saúde.
+
+Monitoramento da efetividade das medidas de proteção e avaliação da adesão
+dos trabalhadores, cabendo, a qualquer momento mudança nas estratégias de
+implementação das medidas para torná-las mais efetivas.
+
+Realização das atividades/procedimentos nas áreas sujeitas às precauções padrão
+e às precauções baseadas na transmissão de forma a evitar ou minimizar respingos,
+derramamento ou formação de aerossóis e gotículas, sendo vedadas a pipetagem ou
+sucção com a boca.
+
+Limitação do número de trabalhadores do serviço de saúde e familiares em contato
+com os casos suspeitos ou confirmados de COVID-19. Sempre que possível, uma equipe
+de trabalhadores do serviço de saúde deve ser designada para cuidar exclusivamente
+dos casos suspeitos ou confirmados de COVID-19, não devendo circular por outras áreas
+de assistência e nem prestar assistência a outros pacientes.
+
+Manutenção de registro de todas as pessoas que prestaram assistência direta ou
+entraram nos quartos ou em outras áreas de assistência (ex: isolamento por coorte) aos
+pacientes suspeitos ou confirmados.
+
+Elaboração e disponibilização de forma escrita das normas e rotinas de procedimentos
+envolvidos na assistência aos casos suspeitos ou confirmados de COVID-19, tais como:
+fluxo dos pacientes dentro do serviço de saúde, procedimentos de colocação e retirada
+de EPI, procedimentos de remoção e processamento de roupas/artigos e produtos
+utilizados na assistência, rotinas de limpeza e desinfecção de superfícies, rotinas para
+classificação e remoção dos resíduos, entre outros.
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+MS | Abr. 2020
+
+ 
+
+* Sempre que possível, equipamentos, produtos para saúde ou artigos utilizados na
+assistência aos casos suspeitos ou confirmados de infecção pelo novo coronavirus (SARS-
+CoV-19) devem ser de uso exclusivo, como no caso de estetoscópios, esfigmomanômetro
+e termômetros. Caso não seja possível o uso exclusivo, deve ser realizada limpeza e
+desinfecção ou esterilização antes de utilização em outros pacientes.
+
+* Restrição da movimentação e transporte de pacientes suspeitos ou confirmados de
+COVID-19 para fora de seus quartos ou área, a situações estritamente necessárias
+do ponto de vista assistencial. Preferencialmente, usar equipamento portátil de
+diagnóstico para realização de exames solicitados. Se o transporte for necessário, usar
+rotas de transporte predeterminadas (e sinalizadas) para minimizar a exposição para
+funcionários, outros pacientes e acompanhantes. Colocar na necessidade de transporte,
+máscara cirúrgica no paciente.
+
+* Atendimento das normas de biossegurança no transporte de pacientes suspeitos
+ou confirmados de COVID-19 de um serviço de saúde para outro, em serviço móvel
+de urgência (ambulância). Deve-se utilizar os EPI recomendados antes de abordar o
+paciente e durante todo trajeto. Durante o transporte, deve-se evitar manipulações
+desnecessárias para minimizar a possibilidade de contaminação da equipe/material.
+Realizar a transferência do paciente para o serviço de referência garantindo os cuidados
+de proteção às equipes receptoras.
+
+* Notificação prévia e obrigatória do serviço que receberá o paciente que está sendo
+transportado, e informação sobre as precauções necessárias, antes da sua chegada ao
+serviço de referência.
+
+* Manutenção de espaço de escuta aos representantes dos trabalhadores dos serviços
+de saúde para garantir uma gestão protetiva e mais humanizada da atenção à saúde.
+
+* Se possível, disponibilizar apoio psicossocial aos trabalhadores e familiares, mesmo
+que seja à distância, por meio de telefones ou aplicativos.
+
+Trabalhadores dos serviços de saúde que se enquadrem nos grupos de
+risco para COVID-19
+
+Cada serviço deverá avaliar a possibilidade de afastar profissionais que se enquadre nos grupos
+de risco, de acordo com as suas peculiaridades e necessidades.
+
+* Trabalhadores acima de 60 anos: preferencialmente não devem ser inseridos no
+atendimento e assistência a casos suspeitos ou confirmados. Devem ser realocados de
+função, em atividades de gestão ou apoio, de forma a minimizar a chance de contato
+com pessoas ou ambientes contaminados.
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+MS | Abr. 2020
+
+ 
+
+* Trabalhadores imunodeprimidos ou com doenças crônicas graves: preferencialmente
+não devem ser inseridos no atendimento e assistência a casos suspeitos ou confirmados.
+Devem ser realocados de função, em atividades de gestão ou apoio, de forma a minimizar
+a chance de contato com pessoas ou ambientes contaminados. Se além de qualquer
+destas condições tiver acima de 60 anos, verificar a possibilidade da realização de
+trabalho remoto.
+
+* Considerar: imunosupressão associada a medicamentos como corticoide em uso
+prolongado, quimioterápicos e inibidores de TNF-alfa; neoplasias; HIV/Aids; doenças
+hematológicas graves, como anemia falciforme; cardiopatias graves ou descompensadas,
+como insuficiência cardíaca, infarto, revascularização e arritmia; pneumopatias
+graves ou descompensadas, com dependência de oxigênio, asma moderada ou grave,
+doença pulmonar obstrutiva crônica - DPOC e tuberculose; transtornos neurológicos
+e de desenvolvimento que possam comprometer a função respiratória ou aumentar o
+risco de aspiração, como lesão medular, acidente vascular encefálico (AVE) e doenças
+neuromusculares; hepatopatias crônicas, como atresia biliar, hepatites crônicas
+e cirrose; doenças renais crônicas em estágio avançado (graus 3, 4 e 5) e diabetes,
+conforme juízo clínico.
+
+* Trabalhadoras gestantes ou lactantes: não devem ser inseridas no atendimento e
+assistência a casos suspeitos ou confirmados. Devem ser realocados de função, em
+atividades de gestão ou apoio, de forma a minimizar a chance de contato com pessoas ou
+ambientes contaminados, preferencialmente em trabalho remoto (ex: teleatendimento).
+
+Os gestores dos serviços de saúde, em conjunto com a Comissão de Controle de Infecção
+Hospitalar, deverão realizar a avaliação de risco para transmissão da COVID-19 em cada área
+do estabelecimento, a fim de definir as possíveis estratégias de realocação de pessoal dentro
+do serviço.
+
+Nas situações acima descritas, se não for possível a realocação de função no serviço de
+saúde de forma a minimizar o risco de contaminação destes grupos, os trabalhadores devem
+desenvolver suas atividades por meio de trabalho remoto.
+
+Afastamento de profissionais de serviços de saúde e retorno às atividades
+
+Os trabalhadores dos serviços de saúde que apresentam Sindrome Gripal ou Sindrome
+Respiratória Aguda Grave ou com contatos próximos domiciliares nestas condições deverão
+ser afastados imediatamente do trabalho.
+
+A duração do afastamento pode ser por um período de até 14 dias a partir do início dos
+
+sintomas OU quando da testagem laboratorial negativa OU após avaliação médica atestando a
+segurança do retorno.
+
+ 
+'SVS/MS | Abr. 2020
+
+ 
+
+* Contactante domiciliar: Os trabalhadores que viverem no mesmo domicílio que pessoas
+suspeitas ou confirmadas devem ser afastados das atividades laborais e cumprir
+isolamento domiciliar por 14 dias. Se, nesse período, o trabalhador dos serviços de
+saúde desenvolver sintomas, deve reiniciar a contagem do isolamento. O caso domiciliar
+que coabita com o profissional de saúde deve realizar o teste rápido após o 8º dia do
+início dos sintomas. Se positivo, o trabalhador do serviço de saúde e seu contactante
+devem permanecer em isolamento domiciliar até completar os 14 dias do início dos
+sintomas. Se negativo, o trabalhador do serviço de saúde deve retornar ao trabalho.
+
+* Profissional de serviços de saúde sintomático: Os trabalhadores dos serviços de saúde
+que apresentarem sintomas de síndrome gripal ou sindrome respiratória aguda grave
+devem ser afastados do trabalho imediatamente. Considera-se como possíveis sintomas:
+tosse, dor de garganta, aumento da frequência respiratória, falta de ar e febre. O retorno
+do trabalho deverá ocorrer considerando as estratégias abaixo:
+
+Critério laboratorial por biologia molecular (do 3º ao 7º dia do início dos
+sintomas):
+
+*— RT-PCR negativo para COVID-19 com coleta oportuna: retornar ao trabalho.
+Critério laboratorial por teste rápido sorológico (após o 8º dia de início
+dos sintomas):
+
+* Teste rápido (IgM/IgG) negativo para COVID-19 (realizado a partir do 8º dia após início
+de sintomas: retornar ao trabalho.
+
+Critério clínico-epidemiológico:
+
+* Ostrabalhadores dos serviços de saúde com Sindrome Gripal ou Sindrome Respiratória
+Aguda Grave que não possuam a disponibilidade de confirmação por testes laboratoriais,
+devem retornar ao trabalho após 14 dias do início dos sintomas.
+
+Ostrabalhadores dos serviços de saúde são essenciais no enfrentamento da COVID-19 no Brasil.
+Portanto, o Ministério da Saúde está priorizando a realização de testes laboratoriais para esses
+trabalhadores. Como novos testes ainda estão sendo adquiridos e as metodologias estão em
+processo de validação e passando por alguns ajustes, recomendamos verificar as informações
+mais atualizadas sobre os testes rápidos de diagnóstico de COVID-19 em: https://coronavirus.
+saude.gov.br/.
+
+ 
+CORONAVIRUS
+
+OVID-19 e outras Cc O V I D a 1 9
+
+(MS | Abr. 2020
+
+ 
+
+Equipamentos de Proteção Individual (EPIs)
+
+Em que pesem a maior eficiência das medidas de proteção coletivas, o uso de EPIº é
+imprescindível para minimizar os riscos de contato de trabalhadores de saúde com o vírus
+SARS-CoV-2 187,
+
+Garantir o acesso aos EPIs recomendados a todos os trabalhadores e em quantidade e qualidade
+é responsabilidade do empregador, seja ele público ou privado, em regime da CLT ou estatutário.
+Como também é obrigação do empregador o treinamento adequado dos trabalhadores, a
+supervisão do uso adequado e a manutenção e reposição necessários segundo o fabricante.
+É importante notar que esses EPIs precisam estar disponíveis em tamanho adequado aos
+usuários.
+
+Ressalta-se a necessidade do uso racional de EPI nos serviços de saúde, pois trata-se de um
+recurso finito e imprescindível para oferecer segurança aos profissionais durante a assistência.
+
+Ostipos de equipamentos necessários para a prevenção do COVID-19 nos serviços de saúde são
+baseados nas tarefas executadas, mas de maneira geral, todos os EPIs devem: ser selecionados
+com base no risco biológico a que os trabalhadores estão expostos; estarem regularizados
+junto aos órgãos certificadores e à Anvisa; ser usados adequadamente; ser higienizados e/
+ou descartados periodicamente, conforme recomendações técnicas e serem inspecionados,
+reparados e substituídos de acordo com instruções do fabricante. É importante lembrar que
+em nenhuma hipótese os EPI de uso exclusivo no serviço de saúde devem ser levados para
+casa.
+
+Em geral, os EPIs que devem ser disponibilizados pelos serviços e utilizados pelos profissionais
+de saúde responsáveis pelo atendimento de casos suspeitos ou confirmados de COVID-19
+são: 1) gorro; 2) óculos de proteção ou protetor facial; 3) máscara); 4) avental impermeável
+de mangas compridas; 5) luvas de procedimento. Com relação ao tipo de máscara, para
+procedimentos geradores de gotículas utilizar a máscara cirúrgica e utilizar as de proteção
+respiratória (respirador particulado) com eficácia mínima na filtração de 95% de partículas
+de até 0,3u (tipo N95, N99, N100, PFF2 ou PFF3) sempre que realizar procedimentos geradores
+de aerossóis como por exemplo, intubação ou aspiração traqueal, ventilação não invasiva,
+ressuscitação cardiopulmonar, ventilação manual antes da intubação, indução de escarro,
+coletas de amostras nasotraqueais e broncoscopias (Figura 2).
+
+28 BRASIL. Ministério da Saúde. Protocolo de Manejo Clínico para o Novo Coronavirus. 2020. Disponível em: https://www.saude.gov.br/images/
+pdf/2020/fevereiro/11/protocolo-manejo-coronavirus.pdf
+
+2º ANVISA - Agência Nacional de Vigilância Sanitária. Nota Técnica nº 04/2020 GVIMS/GGTES/ANVISA. Orientações para Serviços de Saúde:
+medidas de prevenção e controle que devem ser adotadas durante a assistência aos casos suspeitos ou confirmados de infecção pelo novo coro-
+navírus. 2020. Disponível em: http://portal.anvisa.gov.br/documents/33852/271858/Nota+T%C3%AGcnica+n+04-2020+GVIMS-GGTES-ANVISA/
+ab598660-3de4-4f14-8e6f-b9341c196b28
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+Figura 2. Cuidados de higiene e equipamentos de proteção individual (EPIs) que devem ser
+fornecidos e utilizados pelos trabalhadores dos serviços de saúde.
+
+ 
+
+Equipamentos de Proteção Individual
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trabalhadores envolvidos nos atendimentos TE
+Triagem (se não for possível manter a distância mínima de
+um metro dos pacientes com sintomas gripais): x x
+Incluem-se recepcionistas, ACS, seguranças...
+Avaliação e atendimento de casos suspeitos (técnicos de
+enfermagem, enfermeiros, médico: X X X X X
+Procedimentos geradores de aerossóis (técnicos de enfer-
+magem, enfermeiros, médicos...) x x x x x x
+Manejo de Pacientes Críticos (Emergência e UTI) x x x x x x
+Atividades de apoio realizadas a menos de 1 metro dos
+pacientes suspeitos ou confirmados ê ê ê ê ê
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nota: Os EPIs indicados dependem da atividade realizada pelo trabalhador e não apenas da sua função.
+
+Para os profissionais de Limpeza, são obrigatórios os seguintes EPIs: luvas de borracha
+de material resistente, cano longo ou curto para proteção das mãos e proteção parcial de
+antebraços e as mãos; máscara cirúrgica (exceto em ambientes onde estejam desempenhando
+atividades com possibilidade de geração de aerossóis). Neste caso, utilizar máscara N95, N99,
+N100, PFF2 ou PFF3; óculos de proteção; botas de material impermeável, com cano alto e de
+solado antiderrapante; avental impermeável; gorro (Figura 3).
+
+ 
+
+Figura 3. Equipamentos de proteção individual (EPIs) que devem ser fornecidos e utilizados
+pelos trabalhadores de limpeza e desinfecção dos serviços de saúde.
+
+ 
+
+Equipamentos de Proteção Individual
+
+H| mSBHis
+
+Limpeza em locais sem geração de aerossois x x x x x
+
+ 
+
+Trabalhadores da limpeza e desinfecção
+
+ 
+
+ 
+
+Limpeza em locais onde possa haver aerolização x x x x x x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Os EPIs que não são descartáveis, como óculos, botas e luvas (de borracha), devem passar pelo
+processo de Limpeza e desinfecção e serem armazenados secos. A periodicidade vai depender
+do tipo de procedimento ou atividade, indo desde diário até a cada atendimento. Para a
+limpeza dos equipamentos utilizar água, sabão ou detergente, e para a desinfecção pode ser
+utilizado hipoclorito de sódio 1% ou outros saneantes conforme orientação do fabricante. Após
+
+esse procedimento é importante enxaguar abundantemente, para retirar todo o resíduo dos
+produtos saneantes.
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+COE/SVS/MS | Abr. 2020
+
+ 
+
+No caso das máscaras de proteção respiratória (respirador particulado) com eficácia mínima na
+filtração de 95% de partículas de até 0,34 (tipo N95, N99, N100, PFF2 ou PFF3), deve-se proceder
+a troca quando estas estiverem saturadas, sujas ou úmidas, o que pode acontecer durante
+o atendimento (individual ou em coorte). Havendo necessidade de reutilização da máscara
+(respeitados os critérios para troca já citados), observar as condições de acondicionamento e
+guarda do equipamento (definidos pelo serviço/setor, considerando proteção adequada).
+
+Conforme da Nota Técnica nº 4/2020 (atualizada em 31/03/20) '*, da Anvisa, EXCEPCIONALMENTE,
+em situações de carência de insumos e para atender a demanda da epidemia da COVID-19, as
+máscaras de proteção respiratória (N95/PFF2 ou equivalente) poderão ser usadas por período
+maior ou por um número de vezes maior que o previsto pelo fabricante, desde que pelo mesmo
+profissional e cumpridos todos os cuidados necessários, como por exemplo: a) para proteger
+a máscara da exposição às gotículas expelidas pelo paciente, o trabalhador pode usar um
+protetor facial (face shield); b) os serviços de saúde devem definir um protocolo para orientar
+os profissionais de saúde sobre o uso, retirada, acondicionamento, avaliação da integridade,
+tempo de uso e critérios para descarte das máscaras; c) os trabalhadores devem sempre
+inspecionar visualmente a máscara antes de cada uso, para avaliar sua integridade. Máscaras
+úmidas, sujas, rasgadas, amassadas ou com vincos, devem ser imediatamente descartadas; d)
+caso não seja possível realizar uma verificação bem-sucedida da vedação da máscara à face
+do trabalhador, a máscara deverá ser descartada imediatamente. O número de reutilizações
+da máscara, pelo mesmo profissional, deve considerar as rotinas orientadas pelas Comissões
+de Controle de Infecção Hospitalar do serviço de saúde e constar no protocolo de reutilização.
+Para remover a máscara, retire-a pelos elásticos, tomando bastante cuidado para não tocar na
+superfície interna e acondicione em um saco ou envelope de papel, embalagens plásticas ou
+de outro material, desde que não fiquem hermeticamente fechadas. Os elásticos da máscara
+devem ser acondicionados de forma a não serem contaminados e facilitar a retirada da máscara
+da embalagem. As unidades de saúde devem providenciar locais adequados para guarda das
+máscaras usadas durante o turno, com identificação do nome do profissional na embalagem,
+sempre o mais próximo possível do quarto do caso suspeito/provável/confirmado.
+
+Ainda de acordo com a referida Nota Técnica 16, a máscara cirúrgica não deve ser sobreposta à
+máscara N95 ou equivalente, pois além de não garantir proteção de filtração ou de contaminação,
+também pode Levar ao desperdício de mais um EPI, o que pode ser muito prejudicial em um
+cenário de escassez.
+
+Importante: após o atendimento aos pacientes suspeitos ou confirmados de COVID-19,
+deve-se realizar a retirada correta eo descarte adequado detodosos EPIse, imediatamente
+após o descarte, a higienização das mãos. Os resíduos potencialmente infectados devem
+ser tratados antes da disposição final ambientalmente adequada.
+
+O link disponibilizado a seguir possibilita acesso a um vídeo detalhado da Anvisa sobre a
+colocação da máscara de proteção respiratória e testes de vedação que o profissional deve
+realizar ao utilizá-las: https://youtu.be/G tU7nvD5BI.
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+VS/MS | Abr. 2020
+
+ 
+
+Gerenciamento e disposição dos resíduos de
+serviços de saúde (RSS)
+
+As recomendações sobre gerenciamento de resíduos tem por base a RDC nº 222/2018, da
+ANVISA! , que regulamenta o gerenciamento e disposição dos RSS e a lei Nº 12.305, DE 2 DE
+AGOSTO DE 2010, que institui a Política Nacional de Resíduos Sólidos, dispondo sobre seus
+princípios, objetivos e instrumentos, bem como sobre as diretrizes relativas à gestão integrada
+e ao gerenciamento de resíduos sólidos, incluídos os perigosos, às responsabilidades dos
+geradores e do poder público e aos instrumentos econômicos aplicáveis.
+
+São considerados como geradores de resíduos de serviços de saúde (RSS) todos os
+estabelecimentos e os serviços cujas atividades estejam relacionadas com a atenção à saúde
+humana ou animal, inclusive os serviços de assistência domiciliar; laboratórios; unidades
+móveis de atendimento à saúde; necrotérios, funerárias e serviços onde se realizem atividades
+de embalsamamento; serviços de medicina legal; drogarias e farmácias, inclusive as de
+manipulação; estabelecimentos de ensino e pesquisa na área de saúde; centros de controle de
+zoonoses; importadores e distribuidores de produtos farmacêuticos e de materiais e controles
+para diagnóstico in vitro; serviços de acupuntura; e afins.
+
+Todo serviço gerador de RSS, sejam eles públicos e privados, filantrópicos, civis ou militares,
+incluindo aqueles que exercem ações de ensino e pesquisa, deve dispor de um Plano de
+Gerenciamento de RSS (PGRSS), que deverá ser atualizado levando em consideração as
+orientações de assistência aos pacientes com casos suspeitos ou confirmados de infecção
+pelo COVID-19, e observando as regulamentações federais, estaduais, municipais ou do Distrito
+Federal.
+
+O novo coronavirus pode ser enquadrado como agente biológico classe de risco 3, seguindo
+a Classificação de Risco dos Agentes Biológicos, publicada em 2017, pelo Ministério da Saúde
+http://bvsms.saude.gov.br/bvs/publicacoes/classificacao, risco agentes biologicos 3e d.pdf,
+sendo sua transmissão de alto risco individual e moderado risco para a comunidade. Portanto,
+todos os resíduos provenientes da assistência a pacientes suspeitos ou confirmados de infecção
+pelo novo coronavirus (COVID-19) devem ser enquadrados na categoria A1, conforme Resolução
+RDC/Anvisa nº 222, de 28 de março de 2018. Os resíduos devem ser acondicionados, em sacos
+vermelhos ou na impossibilidade em sacos brancos leitosos, que devem ser substituídos quando
+atingirem 2/3 de sua capacidade ou pelo menos 1 vez a cada 48 horas, independentemente do
+volume e identificados pelo simbolo de substância infectante
+
+Estes resíduos devem ser tratados antes da disposição final ambientalmente adequada.
+O tratamento pode ser feito dentro ou fora da unidade geradora, desde que respeitadas as
+condições mínimas de acondicionamento e transporte destes resíduos.
+
+“ANVISA - Agência Nacional de Vigilância Sanitária. RDC Nº 222/2018 COMENTADA. Boas práticas de gerenciamento de resíduos
+de serviços de saúde. 2018. Disponivel em: http:/ /portal.anvisa.gov.br/documents/33852/271855 /RDC+222+de+Mar%C3%ATo+-
+de+2018+COMENTADA/edd85795-1722-4e1e-99ac-dfbbadieooce
+
+ 
+CORONAVIRUS
+
+ERR COVID-19
+(o MS | Abr 2020
+
+ 
+
+Limpeza e desinfecção de superfícies
+
+Não há recomendação diferenciada para a limpeza e desinfecção de superfícies após o contato
+com casos suspeitos ou confirmados pelo COVID-19. Porém, é fundamental que os serviços
+revisem os Procedimentos Operacionais de Limpeza e Desinfecção de ambientes e superfícies
+para garantir a frequência e as melhores práticas para redução da carga viral nos serviços de
+saúde, com definição de cronograma escrito para a limpeza e a desinfecção das áreas sujeitas
+às precauções padrão e as baseadas na transmissão, considerando, no mínimo, os diversos
+tipos de superfície, as sujidades presentes e as tarefas e procedimentos realizados em cada
+local.
+
+Os desinfetantes com potencial para desinfecção de superfícies incluem aqueles à base de cloro,
+alcoóis, alguns fenóis e alguns iodóforos e o quaternário de amônio. Os vírus são inativados
+pelo álcool a 70% e pelo cloro. Portanto, preconiza-se a limpeza das superfícies do isolamento
+com detergente neutro seguida da desinfecção com uma destas soluções desinfetantes ou
+outro desinfetante padronizado pelo serviço de saúde e que seja regularizado junto à Anvisa.
+Mais informações no “Manual de Segurança do Paciente: limpeza e desinfecção de superfícies”
+da Anvisa !*.
+
+Destacamos abaixo algumas recomendações relativas a limpeza e desinfeção:
+
+* Medidas de precaução, bem como o uso do EPI, devem ser apropriadas para a atividade
+a ser exercida e necessárias ao procedimento.
+
+* Nunca varrer superfícies a seco, pois esse ato favorece a dispersão de microrganismos
+que são veiculados pelas partículas de pó. Utilizar varredura úmida que pode ser
+realizada com mops ou rodo e panos de limpeza de pisos.
+
+* Para a limpeza dos pisos devem ser seguidas técnicas de varredura úmida, ensaboar,
+enxaguar e secar. Os desinfetantes com potencial para limpeza de superfícies incluem
+aqueles à base de cloro, álcoois, alguns fenóis e iodóforos e o quaternário de amônio.
+
+* É recomendado o uso de kits de limpeza e desinfecção de superfícies específicos nas
+áreas utilizadas por pacientes em isolamento de contato.
+
+* Todos os equipamentos deverão ser limpos a cada término da jornada de trabalho,
+ainda com os profissionais usando EPI e evitando contato com os materiais infectados.
+
+“ANVISA — Agência Nacional de Vigilância Sanitária. RDC Nº 15/2012. Boas práticas para o processamento de produtos para saúde. 2012. Dispo-
+nível em: https://bysms.saude. gov.br/bvs/saudelegis /anvisa/2012/rdc0015. 15 03 2012.html
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+VS/MS | Abr. 2020
+
+ 
+
+Processamento de produtos para saúde
+
+A Resolução RDC Nº 15/ 2012, da Anvisa” , estabelece os requisitos de boas práticas para o
+funcionamento dos serviços que realizam o processamento de produtos para a saúde visando
+à segurança do paciente e dos profissionais envolvidos. O processamento de equipamentos,
+produtos para a saúde ou artigos utilizados na assistência a casos suspeitos, prováveis ou
+confirmados de COVID-19 devem ser realizados de acordo com as características, finalidades de
+uso e orientação dos fabricantes e dos métodos escolhidos.
+
+O recolhimento e transporte para processamento dos equipamentos, produtos e artigos
+utilizados deverá ser realizado de maneira adequada para prevenir a possibilidade de
+contaminação de pele, mucosas e roupas ou a transferência de microrganismos para outros
+pacientes ou ambientes, devendo os trabalhadores:
+
+* utilizar vestimenta própria, touca e calçado fechado em todas as áreas técnicas e
+restritas.
+
+* utilizar todo os EPIs compatíveis com o risco inerente à atividade a ser realizada
+
+* não deixar o local de trabalho com os equipamentos de proteção individual e as
+vestimentas utilizadas em suas atividades.
+
+ 
+CORONAVIRUS
+
+RR CO WVID-19
+(MS | Abr. 2020
+
+ 
+
+Processamento de Roupas de Serviços de
+Saúde
+
+Todos os trabalhadores que atuam em Unidades de Processamento de Roupas de Serviços de
+Saúde (UPRSS) devem estar atentos à possibilidade de manipulação de material contaminado
+com SARS-CovV-2 e adotar medidas de prevenção e proteção que eliminem o risco de infecção.
+As informações a seguir estão harmonizadas como o “Manual de Processamento de Roupas de
+Serviços de Saúde”, da Anvisa?” .
+
+Em todo local onde exista a possibilidade de exposição a agente biológico, como é o caso
+do serviço de processamento de roupas, deve ter lavatório exclusivo para higiene das
+mãos provido de água corrente, sabonete líquido, toalha descartável e lixeira com aber-
+tura sem contato manual.
+
+Esses profissionais devem observar a possibilidade de exposição a material contaminado
+em todas as etapas do processamento de roupas provenientes de serviços de saúde, como:
+durante a coleta, recepção, separação, pesagem e lavagem. Uma atenção especial é necessária
+em situações que haja a manipulação de roupa suja com sangue, secreções, excreções ou
+outros fluídos corpóreos.
+
+Aos funcionários envolvidos no processamento de roupas potencialmente contaminadas por
+COVID-19, recomenda-se:
+
+* higienização correta e frequente das mãos.
+
+* uso de EPIs durante o processamento de roupas de serviços de saúde: luvas, máscara
+cirúrgica e proteção ocular, touca ou gorro, avental e botas.
+
+* não tocar superfícies como maçanetas das portas e botão de elevadores com as mãos
+enluvadas.
+
+* sempre utilizar proteção ocular durante a separação e classificação da roupa suja.
+
+Todos os equipamentos médicos, as roupas utilizadas nos serviços de saúde (ex: lençóis,
+fronhas, cobertores, toalhas, roupas de pacientes) e utensílios usados em serviço gerais e
+refeições devem ser gerenciados de forma segura, de acordo com procedimentos previamente
+estabelecidos nos serviços de saúde, conforme descrito no “Manual de Processamento de
+Roupas de Serviços de Saúde” n,
+
+“ANVISA - Agência Nacional de Vigilância Sanitária. Processamento de Roupas de Serviços de Saúde: Prevenção e controle de
+riscos. Disponível em: http:/ [www anvisa.gov.br/ servicosaude [manuais /processamento roupas.pdf
+
+ 
+'SVS/MS | Abr. 2020
+
+ 
+
+Etapas para os serviços de saúde se
+prepararem para a COVID-19
+
+Overdadeiro impacto da pandemia de COVID-19 nos municípios brasileiros não pode ser previsto.
+No entanto, todos os serviços de saúde devem adotar medidas imediatas para enfrentamento
+da pandemia e proteção dos seus pacientes e trabalhadores.
+
+Estejam preparados!
+
+Mantenha-se informado sobre a situação local do COVID-19 e saiba onde procurar
+informações confiáveis e atualizadas;
+
+Monitore os sites e canais de comunicação do Ministério da Saúde e dos órgãos estaduais
+e municipais, para obter as informações mais recentes;
+
+Desenvolva (ou revise) o plano de emergência do seu serviço de saúde. Surtos de
+COVID-19 no serviço de saúde, pode levar ao absenteísmo da equipe, assim, prepare
+planos alternativos para garantir a manutenção do serviço, com o maior número
+possível de trabalhadores;
+
+Fortaleça o relacionamento com líderes comunitários, parceiros de saúde coletiva,
+universidades, controle social, conselhos de classe e outros atores que possam apoiar
+a resposta ao COVID-19;
+
+Faça uma lista de contatos importantes e de emergência, atualize-a continuamente e
+garanta que ela esteja acessível nos principais locais do seu serviço de saúde.
+
+Comunique-se com os trabalhadores e pacientes!
+
+Fale diariamente sobre o COVID-19 com sua equipe e compartilhe informações
+epidemiológicas atualizadas, os planos de preparação e a possibilidade de surtos.
+
+Fale sobre o COVID-19 com seus pacientes e forneça atualizações sobre a doença e como
+se prevenir. Cogite o atendimento não urgente aos pacientes por telefone, sites oficiais
+ou mídias sociais para compartilhar atualizações e sanar dúvidas.
+
+Proteja seus trabalhadores!
+
+os sintomas de doença respiratória aguda (febre, tosse, dificuldade de respirar),
+preferencialmente antes de entrar no estabelecimento de saúde;
+
+Garanta o fornecimento e uso adequado do EPIs;
+
+ 
+CORONAVIRUS
+
+ERR COVID-19
+(o MS | Abr 2020
+
+ 
+
+* Forneça local adequado para as refeições, bem como para o descanso e higienização do
+trabalhador na entrada e saída do plantão ou turno de trabalho;
+
+* Realize um inventário dos EPIs disponíveis, desenvolva estratégias para otimizar os
+suprimentos de EPI e comunique os órgãos responsáveis a diminuição dos estoques
+com antecedência;
+
+* Incentive os funcionários doentes a ficar em casa.
+
+Proteja seus pacientes!
+
+* Mantenha-se atualizado sobre as melhores maneiras de gerenciar pacientes com
+COVID-19.
+
+*Isole os pacientes com sintomas respiratórios nos serviços de saúde em espaços bem
+ventilados, evitando a dispersão do vírus para outros pacientes.
+
+* Elabore estratégias para impedir que pacientes que possam ser tratados em casa
+venham aos serviços de saúde e se exponham desnecessariamente. Por exemplo, pode-
+se utilizar ligações telefônicas para fornecer informações sobre quando e onde procurar
+atendimento médico e onde encontrar informações sobre como cuidar de pacientes
+com COVID-19 em casa;
+
+* Adeque o horário de funcionamento do serviço de saúde, incluindo a realização de
+triagem telefônica e acompanhamento de pacientes durante um surto na comunidade.
+
+ 
+CORONAVIRUS
+
+OVID-19 e outras Cc O V I D a 1 9
+
+(MS | Abr. 2020
+
+ 
+
+Orientações sobre saúde mental no trabalho
+de enfrentamento da COVID-19
+
+Todas as orientações para o cuidado em saúde mental no trabalho do enfrentamento ao
+COVID-19 foram baseadas e adaptadas a partir de documentos publicados pela International
+Accounting Standards Committee - IASC?;, Organização Mundial de Saúde? e Empresa Brasileira
+de Serviços Hospitalares - EBSERH. 2
+
+Cuidar da saúde mental dos trabalhadores da saúde e das equipes envolvidas na resposta,
+durante a pandemia da COVID-19 é essencial para a segurança dos trabalhadores e dos pacientes.
+Será muito frequente que estes profissionais se sintam em sofrimento emocional diante dessa
+situação, o que não significa que eles não possam continuar fazendo seu trabalho ou que isso
+seja uma fraqueza. Gerenciar a saúde mental dos profissionais e o bem-estar psicossocial durante
+esse período é tão importante quanto gerenciar sua saúde física principalmente para que eles
+possam ter melhor capacidade de cumprir seus papéis e desenvolver suas atividades "2.
+
+Os principais motivos que levam os profissionais de saúde ao sofrimento mental são: receio
+de ser infectado durante o atendimento; de perder os meios de subsistência, de não poder
+trabalhar durante o isolamento e de ser demitido do trabalho, de serem excluídos socialmente
+| colocado em quarentena por estar associado à doença; de se separar de entes queridos e
+cuidadores devido ao regime de quarentena; de reviver a experiência de uma epidemia anterior;
+preocupação por seus filhos estarem em casa sozinho (devido ao fechamento da escola) sem
+cuidados e apoio adequados; aumento da demanda no ambiente de trabalho, incluindo longas
+horas de trabalho, aumento do número de pacientes e necessidade de se manter atualizado
+com as melhores práticas e as mais atuais; reduzido apoio social devido a intensos horários
+de trabalho e estigma da população em relação aos profissionais que trabalham na linha de
+frente dos cuidados aos pacientes com COVID-19?,
+
+Recomendações para líderes de equipe ou gerentes:
+
+* Monitorar de forma regular e solidária o bem-estar da equipe: fazer perguntas e
+oferecer espaços de comunicação, sempre que possível, com os trabalhadores a fim de
+que esses possam expressar suas preocupações, angústias, situações de estresse ou
+outras dificuldades, sem críticas ou julgamentos e garantindo a confidencialidade.
+
+“International Accounting Standards Committee - IASC. Briefing Note on Addressing Mental Health and Psychosocial Aspects of
+COVID-19. Outbreak- Version 1.0. Feb. 2020. Disponivel em: https: / /www.unicef.org/media/65916/file /Briefing%20note%200n%20
+addressing%20mental%20health%20and%20psycosocialw20aspects%2009%20COVID-19%200utbreak pdf
+
+“World Health Organization - WHO. Mental Health Considerations during COVID-19 Outbreak. March 2020. Disponível em: https://
+wwwavho.int/docs/default-source /coronaviruse/mental-health-considerations.pdf?sfvrsn=6d3578af. 2
+
+=EBSERH - Empresa Brasileira de Serviços Hospitalares. Cuidados para Saúde Mental de Sua Equipe Durante o Enfrentamento do
+COVID-19. 2020.
+
+ 
+CORONAVIRUS
+
+ERR COVID-19
+(o MS | Abr 2020
+
+ 
+
+Promover avaliação e auto-avaliação do setor, com espaço para propor medidas
+de melhorias e minimização e resolução de problemas, medidas preventivas e
+corretivas com prazos.
+
+Garantir que as necessidades básicas dos profissionais estejam supridas; comida
+suficiente e saudável, água em abundância, descanso e banheiros adequados.
+
+Prestar especial atenção aos membros da equipe que possam estar enfrentando
+dificuldades em sua vida pessoal, pessoas que tenham questões prévias de saúde
+mental ou que tenham falta de apoio social, incluindo aqueles que estiverem sofrendo
+ostracização da comunidade devido ao estigma da transmissão do virus.
+
+Garantir uma comunicação de qualidade, com atualizações precisas e claras a todos os
+funcionários. Isso pode atenuar as preocupações decorrentes de dúvidas e incertezas
+que os trabalhadores possam ter em relação às atividades desenvolvidas, e ajuda a
+aumentar a sensação de controle.
+
+Orientar os trabalhadores a reduzir o contato com as notícias, vídeos e informações
+alarmistas ou que possam causar ansiedade, principalmente de origem duvidosas que
+possam ser falsas. Indicar sites e fontes de informações confiáveis.
+
+Garantir um espaço físico e tempo para que a sua equipe possa descansar e se recuperar
+do trabalho. O descanso é importante para o bem-estar físico e mental e o tempo para
+pausas é fundamental para que os trabalhadores possam realizar todos os autocuidados
+necessário. Inicie, incentive e monitore as interrupções do trabalho.
+
+Incentivar os integrantes da equipe a realizarem atividades que eles gostem de fazer
+em casa, nos horários que não estiverem trabalhando, a praticar atividades físicas e
+manter contato com a família e os amigos.
+
+Criar momentos ou instrumentos para que a equipe possa compartilhar coisas positivas
+e falarem de coisas boas, ou não relacionadas a situação da pandemia.
+
+Garantir rotatividade dos trabalhadores alternando entre funções de alta e baixa tensão.
+
+Dividir a equipe de forma que os profissionais mais inexperientes possam atuar junto
+com colegas com mais experiências.
+
+Implementar horários flexíveis para os trabalhadores diretamente afetados ou que
+tenham um membro da família afetado por um evento estressante.
+
+Garantir número de trabalhadores compatíveis com a demanda, assim como pausas
+durante a jornada de trabalho.
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+VS/MS | Abr. 2020
+
+ 
+
+* Fortalecer o sistema de companheirismo e parcerias no ambiente de trabalho auxilia no
+suporte emocional entre pares, na redução do estresse e a reforçar os procedimentos
+de segurança.
+
+* Orientar os profissionais, líderes, gerentes, médicos enfermeiros, recepcionistas,
+motoristas de ambulância e todos os profissionais envolvidos no cuidado, sobre como
+fornecer apoio emocional e prático às pessoas afetadas e seus familiares usando as
+estratégias de Primeiros Cuidados Psicológicos, da Organização Mundial de Saúde.
+
+* Facilitar o acesso e garantir que os funcionários estejam cientes de onde podem
+acessar serviços de saúde mental e apoio psicossocial, incluindo no local de trabalho,
+se disponível, ou suporte por telefone ou outras opções de serviço remoto.
+
+* Em momentos de picos de estresse coletivo, buscar pessoas que possam atuar como
+ponto de apoio para a redução do estresse por meio de técnicas de observação da
+respiração com os trabalhadores, e/ou outras práticas integrativas.
+
+* Utilizar maneiras compreensíveis de compartilhar mensagens com pessoas com
+deficiências intelectuais, cognitivas e psicossociais. Use formas de comunicação que
+não dependem apenas de informações escritas.
+
+* Oslíderese gerentes das equipes também enfrentarão fatores estressores semelhantes
+aos de sua equipe, além da pressão potencialmente adicional considerando nível de
+responsabilidade de seu papel. Assim, é importante que todas essas disposições e
+estratégias citadas estejam em vigor tanto para a equipe quanto para os gerentes, e
+que os líderes possam modelar o autocuidado desenvolvendo estratégias para mitigar
+o estresse.
+
+Recomendações sobre autocuidado em saúde mental aos
+profissionais dos serviços de saúde envolvidos na resposta ao
+COVID-19:
+
+* Cuide desuas necessidades básicas e de seu corpo. Busque se alimentar suficientemente
+e de forma saudável, beba pelo menos 2 litros de água por dia, pratique exercícios,
+ainda que simples, e busque momentos de descanso sempre que possível.
+
+* Durante o trabalho ou entre turnos, alimente-se, faça alongamentos, e mantenha
+contato com a família e os amigos.
+
+* Use estratégias positivas de enfrentamento da ansiedade e do estresse tais como:
+técnicas de respiração, meditação, apoio mútuo entre colegas, alongamentos e práticas
+integrativas, entre outros. Descanse nos horários em que não estiver trabalhando.
+
+ 
+CORONAVIRUS
+
+ERR COVID-19
+(o MS | Abr 2020
+
+ 
+
+Evite usar estratégias inúteis de enfrentamento, como uso de tabaco, álcool ou outras
+drogas. A Longo prazo, isso pode piorar o seu bem-estar físico e mental.
+
+«Este é um cenário único e sem precedentes, mesmo assim, é possível usar as estratégias
+que você usou no passado para gerenciar outros momentos de estresse. As estratégias
+para enfrentar o sofrimento mental são as mesmas, mesmo que o cenário seja diferente.
+
+Evitar a família ou a comunidade devido ao estigma ou medo pode tornar a situação
+que já é desafiadora, ainda mais difícil. Sempre que possível, mantenha contato com
+seus entes queridos principalmente através de métodos digitais. Procure seus colegas,
+gerente ou outras pessoas confiáveis para obter apoio social - seus colegas podem estar
+tendo experiências semelhantes às suas, e compartilhar as angústias pode ser uma
+estratégia importante para o enfrentamento dos problemas vivenciados coletivamente.
+
+Cuidado com a leitura e compartilhamento excessivo de informações, principalmente
+aquelas de origem duvidosas, que possam ter conteúdos alarmantes ou falsos.
+
+Encontre momentos para fazer o que gosta e para compartilhar informações positivas
+entre colegas, amigos e familiares, para falar de coisas boas, ou não relacionadas a
+situação da pandemia.
+
+Evite utilizar celulares, assistir televisão, usar o computador ou outros aparelhos
+eletrônicos, 30 minutos antes de dormir. Evite também acessar informações que possam
+aumentar o estresse e a ansiedade nos momentos de descanso.
+
+Se você se sentir extremamente sobrecarregado(a), desesperado(a) estressado(a),
+ansioso(a), depressivo(o) busque ajuda de colegas, familiares, dos seus superiores ou
+ajuda de um profissional.
+
+ 
+'SVS/MS | Abr. 2020
+
+ 
+
+Referências
+
+1. Cascella M, Rajnik M, Cuomo A, Dulebohn SC, Di Napoli R. Features, Evaluation and
+Treatment Coronavirus (COVID-19). StatPearls Publishing LLC. 2020. Disponível em: https: //
+www.ncbi.nlm.nih.gov/books /NBK554776/
+
+2. Yang), et al. Prevalence of comorbidities in the novel Wuhan coronavirus (COVID-19)
+infection: a systematic review and meta-analysis. International Journal of Infectious
+Diseases. 2020. Disponível em: https:/ /www.sciencedirect.com/science/article /pii/
+S1201971220301363.
+
+3. Organização Mundial de Saúde - OMS. Coronavirus disease (COVID-2019) situation reports.
+Disponível em: https: / /www.who.int/emergencies /diseases /novel-coronavirus-2019/
+situation-reports.
+
+4. Organização Mundial de Saúde - OMS. Modes of transmission of virus causing COVID-
+19:implications for IPC precaution recommendations. Disponível em: https://wwwwho.int/
+publications-detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-
+ipc-precaution-recommendations.
+
+5. ABIH - Associação Brasileira dos Profissionais em Controle de Infecções e Epidemiologia
+Hospitalar. NOTA INFORMATIVA ABIH 28.03.2020 - Forma de Transmissão COVID-19.
+Disponível em: https:/ /www.abih.net.br/news-abih-detalhe.php?blog=1194.
+
+6. Guo YR, Cao QD, Hong ZS, Tan YY, Chen SD, Jin HJ, Tan KS, Wang DY and Yan Y. The origin,
+transmission and clinical therapies on coronavirus disease 2019 (COVID-19) outbreak - an
+update on the status. Military Medical Research (2020) 7:11. Disponível em: https: //doi.
+org/101186/s40779-020-00240-0
+
+7. Wu Z, McGoogan JM. Characteristics of and Important Lessons from the Coronavirus Disease
+2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese
+Center for Disease Control and Prevention. JAMA. Disponível em: https: / /doi.org/101001/
+jama.2020.2648
+
+8. BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Boletim Epidemiológico
+nº 3 (21/02/2020). Doença pelo Novo Coronavirus 2019 - COVID-19. Disponível em: https: //
+portalarquivos2.saude.gov.br/images/pdf/2020/fevereiro/21/2020-02-21-Boletim-
+Epidemiologicoo3.pdf
+
+9. ANVISA - Agência Nacional de Vigilância Sanitária. Serviços de Saúde. Disponível em: http://
+www.anvisa.gov.br/servicosaude /organiza/index.htm. Acessado em 10/03/2020.
+
+10. BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Brasília, DF:
+Senado Federal: Centro Gráfico, 1988
+
+ 
+'SVS/MS | Abr. 2020
+
+ 
+
+11. ORGANIZAÇÃO INTERNACIONAL DO TRABALHO - OIT. Convenção 155. 1981. Disponível em:
+<http:/ /www.conjur.com.br/dl/convencao-oit-155.pdf>. Acesso em: 26/03 maio 2015.
+
+12. BRASIL. Lei nº 8.080, de 19 de setembro de 1990. Lei Orgânica da Saúde. Brasília, 1990.
+
+13. OSHA - Occupational Safety and Health Act. Guidance on Preparing Workplaces for
+COVID-19. 2020. Disponível em: https: / /www.osha.gov/Publications/OSHA3990. pdf
+
+14. ANVISA - Agência Nacional de Vigilância Sanitária. Manual de Segurança do Paciente:
+limpeza e desinfecção de superfícies. Disponível em: https:/ /www20.anvisa.gov.br/
+segurancadopaciente/index.php/publicacoes/item/seguranca-do-paciente-em-servicos-
+de-saude-limpeza-e-desinfeccao-de-superficies
+
+15. BRASIL. Ministério da Saúde. Protocolo de Manejo Clínico para o Novo Coronavirus. 2020.
+Disponível em: https: / /www.saude.gov.br/images/pdf/2020/fevereiro/11/protocolo-
+manejo-coronavirus.pdf
+
+16. ANVISA - Agência Nacional de Vigilância Sanitária. Nota Técnica nº 04/2020 GVIMS/
+GGTES/ANVISA. Orientações para Serviços de Saúde: medidas de prevenção e controle
+que devem ser adotadas durante a assistência aos casos suspeitos ou confirmados
+de infecção pelo novo coronavírus. 2020. Disponível em: http://portal.anvisa.gov.br/
+documents/33852/271858/Nota+T%C3%A9cnica+n+04-2020+GVIMS-GGTES-ANVISA/
+ab598660-3de4-4f14-8e6f-b9341C196b28
+
+17. ANVISA — Agência Nacional de Vigilância Sanitária. RDC Nº 222/2018
+COMENTADA. Boas práticas de gerenciamento de resíduos de serviços de saúde.
+2018. Disponível em: http://portal.anvisa.gov.br/documents/33852/271855/
+RDC+222+de+Mar%C3%A7o+de+2018+COMENTADA/edd85795-17a2-4e1e-99ac-df6bad1e00ce
+
+18. ANVISA - Agência Nacional de Vigilância Sanitária. RDC Nº 15/2012. Boas práticas para o
+processamento de produtos para saúde. 2012. Disponível em: https: //bvsms.saude.gov.br/
+bvs/saudelegis /anvisa /2012/rdc0015. 15 03 2012.html
+
+19. ANVISA - Agência Nacional de Vigilância Sanitária. Processamento de Roupas de Serviços
+de Saúde: Prevenção e controle de riscos. Disponível em: http: / /www.anvisa.gov.br/
+servicosaude /manuais/processamento roupas.pdf
+
+20. International Accounting Standards Committee — IASC. Briefing Note on Addressing Mental
+Health and Psychosocial Aspects of COVID-19. Outbreak- Version 1.0. Feb. 2020. Disponível
+em: — https://www.unicef.org/media /65916/file /Briefing%20note%200n%20addressing%20
+mental%20health%20and%20psycosocial%20aspects%200f%20COVID-19%200utbreak.pdf
+
+ 
+'SVS/MS | Abr. 2020
+
+ 
+
+21. World Health Organization - WHO. Mental Health Considerations during COVID-19 Outbreak.
+March 2020. Disponível em: https://wwwho.int/docs /default-source/coronaviruse/
+mental-health-considerations.pdf?sfvrsn=6d3578af 2
+
+22. EBSERH - Empresa Brasileira de Serviços Hospitalares. Cuidados para Saúde Mental de Sua
+Equipe Durante o Enfrentamento do COVID-19. 2020.
+
+23. OMS - Organização Mundial de Saúde. Primeiros cuidados psicológicos. Disponível em:
+https://www.paho.org/bra/index.php?option=com docman&view=download&category
+slug=prevencao-e-cont-doencas-e-desenv-sustentavel-071&alias=1517-primeiros-
+cuidados-psicologicos-um-guia-para-trabalhadores-campo-7&ltemid=965)
+
+Organização
+
+Coordenação-Geral de Saúde do Trabalhador (CGSAT/DSASTE/SVS): Karla Freire Baêta, Rafael
+Buralli, Thaís Baraviera Dutra, Rodrigo Silvério Santos, Flávia Ferreira-de-Sousa, Milene
+Tramansoli Resende e Kleber Rangel Silva.
+
+Colaboradores
+
+Rodrigo Lins Frutuoso (Coordenação-Geral de Emergências em Saúde Pública - CGEMSP/
+DSASTE/SVS)
+
+Pâmela Moreira (Coordenação-Geral de Urgência - CGURG/DAHU /SAES/MS)
+Alessandro Glauco dos Anjos de Vasconcelos (SGTES/MS)
+
+Vilma Santana e Songeli Menezes Freire (UFBA)
+
+Jandira Maciel da Silva (UFMG)
+
+Marcos Sabino (CEREST Campinas)
+
+Márcia Kamei (MPT)
+
+Priscila Campos Bueno (OPAS)
+
+Solange Caetano (Sindicato dos Enfermeiros do Estado de São Paulo - SEESP) CONASEMS
+
+ 
+Biblioteca Virtual em Saude do Ministério da Saude
+www.saude.gov.br/bvs
+
+PÁTRIA AMADA
+
+MINISTÉRIO DA BRASI
+
+ 
+26/05/2021 SEI/MS - 0020404682 - Despacho
+
+ 
+
+Ministério da Saúde
+Secretaria Executiva
+Gabinete da Secretaria Executiva
+
+DESPACHO
+
+SE/GAB/SE/MS
+
+Brasília, 06 de maio de 2021.
+
+URGENTÍSSIMO - CPI PANDEMIA
+
+Assunto: Solicitação de informações - Requerimento nº 2-2021/CPIPANDEMIA. Senador Randolfe
+Rodrigues (REDE/AP).
+
+1. Ciente.
+
+2. Trata-se do Ofício nº 11/2021 - CPIPANDEMIA (0020324516) de autoria do Presidente da
+CPI da Pandemia, Senador Omar Aziz, o qual faz referência ao Requerimento do Senado Federal nº
+2/2021/CPIPANDEMIA (0020324517), de autoria do Senador Randolfe Rodrigues - REDE/AP, solicitando
+que seja encaminhado cópia de todos os documentos e comunicações, encaminhados ou recebidos, a
+respeito do fornecimento de EPI, como máscaras cirúrgicas, máscaras n95, aventais, luvas descartáveis,
+sapatilhas, saneantes, óculos de proteção, especificando os termos de referência, editais, atas de
+reuniões, contratos, cópias das notas fiscais e ordens bancárias emitidas, além de eventuais orientações
+sobre o uso correto desses dispositivos.
+
+3. Em atendimento, o Departamento de Logística em Saúde, por meio do Despacho DLOG
+(0020398622) disponibiliza
+o link: https://drive.google.com/drive /folders/1gjwbKBgogBGamE9RwDJZPX9DizVBHkBp?usp=sharing,
+onde consta todos os documentos solicitados.
+
+4. Ao Chefe da Assessoria Parlamentar - ASPAR/GM, em restituição, para conhecimento e
+adoção de medidas que julgar pertinentes, atendendo ao Despacho ASPAR (0020324689).
+
+ALESSANDRO GLAUCO DOS ANJOS DE VASCONCELOS
+Secretário-Executivo Adjunto
+
+ 
+
+- 7]
+eletrônica
+
+      
+
+Documento assinado eletronicamente por Alessandro Glauco dos Anjos de Vasconcelos, Secretário-
+Executivo Adjunto, em 06/05/2021, às 15:29, conforme horário oficial de Brasília, com fundamento
+
+no art. 68, & 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de
+Março de 2017.
+
+  
+
+ 
+
+El A autenticidade deste documento pode ser conferida no site
+
+http://sei.saude.gov.br/sei/controlador externo.php?
+
+f* acao=documento conferir&id orgao acesso externo=0, informando o código verificador
+0020404682 e o código CRC 0A580EF7.
+
+  
+  
+
+ 
+
+ 
+
+Referência: Processo nº 25000.065499/2021-64 SEI nº 0020404682
+
+https://sei. saude.gov.br/sei/controlador php 2acao=documento visualizar&acao origem=arvore visualizar&id documento=22257306&infra siste..
+
+1/2
+26/05/2021 SEI/MS - 0020404682 - Despacho
+
+Criado por helen.brasil, versão 4 por rosa.maria em 06/05/2021 12:19:31.
+
+ 
+
+https://sei.saude.gov.br/sei/controlador php?acao=documento visualizar&acao origei
+
+ 
+
+rvore visualizar&id document
+
+ 
+
+2257306&infra siste.. 212
+26/05/2021 SEI/MS - 0020584432 - Despacho
+
+ 
+
+Ministério da Saúde
+Gabinete do Ministro
+Assessoria Parlamentar
+
+DESPACHO
+
+ASPAR/GM/MS
+Brasília, 17 de maio de 2021.
+
+Ao Gabinete do Ministro
+
+Assunto: Requerimento do Senado Federal nº 2/2021 - CPIPANDEMIA - Remessa de cópia de todos os
+documentos e comunicações, encaminhados ou recebidos, a respeito do fornecimento de EPI, como
+máscaras cirúrgicas, máscaras n95, aventais, luvas descartáveis, sapatilhas, saneantes, óculos de
+proteção, especificando os termos de referência, editais, atas de reuniões, contratos, cópias das notas
+fiscais e ordens bancárias emitidas, além de eventuais orientações sobre o uso correto desses
+dispositivos.
+
+1. Trata-se do Ofício n.º 11/2021, da Comissão Parlamentar de Inquérito da Pandemia -
+CPIPANDEMIA, do Senado Federal (0020324516), que encaminha o Requerimento de Informação nº
+2/2021 (0020324517), de autoria do Senador Randolfe Rodrigues, por meio do qual requer que sejam
+encaminhados, pelo Ministério da Saúde, em especial pelos órgãos do Ministério listados, cópia de todos
+os documentos e comunicações, encaminhados ou recebidos, a respeito do fornecimento de EPI, como
+máscaras cirúrgicas, máscaras n95, aventais, luvas descartáveis, sapatilhas, saneantes, óculos de
+proteção, especificando os termos de referência, editais, atas de reuniões, contratos, cópias das notas
+fiscais e ordens bancárias emitidas, além de eventuais orientações sobre o uso correto desses
+dispositivos.
+
+2. Em resposta, encaminhem-se, para ciência e atendimento à solicitação da referida
+Comissão, o Despacho SVS/NUJUR/SVS/MS (0020417887), acompanhado do Documento
+Recomendação de Proteção (0020418348), elaborados pela Secretaria de Vigilância em Saúde - SVS/MS;
+os Despachos SE/GAB/SE/MS (0020404682) e DLOG/SE/MS (0020398622), elaborados no âmbito da
+Secretaria Executiva - SE/GM; o Despacho SAPS/GAB/SAPS/MS (0020397997), elaborado pela Secretaria
+de Atenção Primária à Saúde - SAPS/MS.
+
+LEONARDO BATISTA SILVA
+Chefe da Assessoria Parlamentar
+
+ 
+
+ 
+    
+ 
+
+ceil ; Documento assinado eletronicamente por Leonardo Batista Silva, Chefe da Assessoria Parlamentar,
+5 B em 26/05/2021, às 06:35, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+assinatura
+eletrônica
+
+ 
+
+https://sei. saude.gov.br/sei/controlador php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=22448531&infra si... 1/2
+26/05/2021 SEI/MS - 0020584432 - Despacho
+
+[m] A autenticidade deste documento pode ser conferida no site
+
+    
+
+HF acao=documento conferir&id orgao acesso extern:
+0020584432 e o código CRC D2DA9844.
+
+, informando o código verificador
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.065499/2021-64 SEI nº 0020584432
+
+https://sei. saude.gov.br/sei/controlador php ?2acao=documento imprimir web&acao origem=arvore visualizar&id documento=22448531&infra s
+
+ 
+
+212
+26/05/2021 SEI/MS - 0020585842 - Ofício
+
+ 
+
+Ministério da Saúde
+Gabinete do Ministro
+Assessoria Parlamentar
+
+OFÍCIO Nº 2707/2021/ASPAR/GM/MS
+Brasília, 17 de maio de 2021.
+
+A Sua Excelência o Senhor
+
+Senador OMAR AziZ
+
+Presidente da Comissão Parlamentar de Inquérito da Pandemia - CPIPANDEMIA
+Senado Federal
+
+Praça dos Três Poderes, Anexo Il, Ala Alexandre Costa, sala 15 - Subsolo
+
+CEP 70.165-900 - Brasília/DF
+
+Assunto: Requerimento do Senado Federal nº 2/2021 - CPIPANDEMIA - Remessa de cópia de todos os
+documentos e comunicações, encaminhados ou recebidos, a respeito do fornecimento de EPI, como
+máscaras cirúrgicas, máscaras n95, aventais, luvas descartáveis, sapatilhas, saneantes, óculos de
+proteção, especificando os termos de referência, editais, atas de reuniões, contratos, cópias das notas
+fiscais e ordens bancárias emitidas, além de eventuais orientações sobre o uso correto desses
+dispositivos.
+
+Senhor Presidente,
+
+Em resposta ao Ofício n.º 11/2021, dessa Comissão Parlamentar de Inquérito da
+Pandemia - CPIPANDEMIA, referente ao Requerimento de Informação nº 2/2021, de 30 de abril de
+2021, de autoria do Senador Randolfe Rodrigues, encaminho as informações prestadas pelo
+corpo técnico deste Ministério.
+
+Atenciosamente,
+
+MARCELO QUEIROGA
+Ministro de Estado da Saúde
+
+ 
+
+ 
+   
+ 
+
+Documento assinado eletronicamente por Marcelo Antônio Cartaxo Queiroga Lopes, Ministro de
+Estado da Saúde, em 26/05/2021, às 10:27, conforme horário oficial de Brasília, com fundamento no
+art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de
+Março de 2017.
+
+ 
+
+:
+sel
+eletrônica
+
+  
+
+A autenticidade deste documento pode ser conferida no site
+
+http://sei.saude.gov.br/sei/controlador externo.php?
+
+ 
+
+ei. saude. gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=22450028&infra si... 1/2
+26/05/2021 SEI/MS - 0020585842 - Ofício
+
+[m] acao=documento conferir&id orgao acesso externo=0, informando o código verificador
+
+  
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.065499/2021-64 SEI nº 0020585842
+
+Assessoria Parlamentar - ASPAR
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site - saude.gov.br
+
+https://sei saude.gov.br/sei/controlador php 2acao=documento imprimir web&acao origei
+
+ 
+
+rvore visualizar&id documento=22450028&infra si. 212
+00100.042618/2021-51
+
+ 
+
+SENADO FEDERAL
+
+Secretaria-Geral da Mesa
+Secretaria de Comissões
+Coordenação de Comissões Especiais, Temporárias e Parlamentares de Inquérito
+
+Oficio nº 11/2021 - CPIPANDEMIA
+
+ 
+
+Brasília, 30 de abril de 2021
+
+A Sua Excelência o Senhor
+Marcelo Queiroga
+Ministro da Saúde
+
+Assunto: Solicitação de informações — Requerimento nº 2-2021/CPIPANDEMIA
+
+Senhor Ministro,
+
+No intuito de instruir os trabalhos da Comissão Parlamentar de Inquérito,
+criada pelos Requerimentos do Senado Federal nº 1371 e 1372, de 2021, para “apurar as
+ações e omissões do Governo Federal no enfrentamento da Pandemia da Covid-19 no
+Brasil; as possíveis irregularidades, bem como outras ações ou omissões cometidas por
+administradores públicos federais, estaduais e municipais, no trato com a coisa pública,
+limitado apenas quanto à fiscalização dos recursos da União repassados aos demais entes
+federados para as ações de prevenção e combate à Pandemia da Covid-19”, e com fulcro
+no art. 148 do Regimento Interno do Senado Federal, e no art. 2º da Lei nº 1.579, de 1952,
+encaminho a Vossa Excelência o Requerimento nº 2/2021 — CPIPANDEMIA, aprovado
+
+na 2º Reunião da CPI da Pandemia, ocorrida no dia 29.04.2021, para atendimento.
+
+A documentação deve ser encaminhada no prazo de 5 (cinco) dias úteis,
+
+em formato digital, para o endereço eletrônico sec.cpipandemia Q senado.leg.br.
+
+Atenciosamente,
+
+Senador Omar Aziz
+Presidente da CPI Pandemia
+
+ 
+
+ 
+
+SENADO FEDERAL - COCET! | Anexo II, Ala Senador Alexandre Costa, Sala 15, Subsolo | CEP 70165-900 | Brasília DF
+Telefone: 455 (61) 3303-3490 sec.cpipandemiaQ senado leg.br
+
+ 
+26/05/2021 SEI/MS - 0020397997 - Despacho
+
+ 
+
+Ministério da Saúde
+Secretaria de Atenção Primária à Saúde
+Gabinete
+
+DESPACHO
+
+SAPS/GAB/SAPS/MS
+
+Brasília, 05 de maio de 2021.
+
+Assunto: Solicitação de informações - Requerimento do Senado Federal nº 2/2021/CPIPANDEMIA. URGENTE. CPI PANDEMIA.
+
+1. Trata-se de requerimento oriundo do Senado Federal, encaminhado pela Coordenação de Comissões Especiais,
+Temporárias e Parlamentares de Inquérito, relativo à Comissão Parlamentar de Inquérito, apurar as ações e omissões do Governo
+Federal no enfrentamento da Pandemia da Covid-19 no Brasil; as possíveis irregularidades, bem como outras ações ou omissões
+cometidas por administradores públicos federais, estaduais e municipais, no trato com a coisa pública, limitado apenas quanto à
+fiscalização dos recursos da União repassados aos demais entes federados para as ações de prevenção e combate à Pandemia da
+Covid-19.
+
+2. Tendo em vista o requerimento que tem como objeto principal questionamentos relativos a Equipamentos de
+Proteção Individual para o combate à pandemia do Coronavírus, passa-se a esclarecer o seguinte:
+
+3. De início, cumpre destacar que à Secretaria de Atenção Primária à Saúde — SAPS apenas distribui os equipamentos
+de proteção individual - EPI's. A competência para aquisição somente fora estabelecida no ano de 2021. Logo, tem-se que esta
+Secretaria não possui informações sobre a compra dos referidos insumos em períodos anteriores.
+
+4. No que tange a distribuição dos EPI's, esta é realizada mediante solicitação de Estados e Municípios, conforme pode
+ser observado na tabela que consta no link: https://drive.google.com/drive/folders/13wsitQrrSnC7m8Ls WBMS-IkTUVEjto2?
+usp=sharing .
+
+ 
+
+5. Ademais, considerando a Emergência em Saúde Pública de Importância Nacional (ESPIN) em decorrência da
+pandemia pela covid-19, o uso de EPI adequados visa à redução dos riscos ocupacionais dos trabalhadores de saúde durante
+operacionalização do processo de trabalho. Portanto, a distribuição de tais equipamentos pelo Ministério da Saúde (MS) tem o
+intuito de viabilizar a adoção de medidas de precaução pelos profissionais de saúde atuantes na Atenção Primária.
+
+6. Embora tenham sido implementadas uma série de medidas não farmacológicas para mitigar os impactos da covid-19
+no Brasil, a despeito de terem sido eficazes em retardar o avanço da epidemia no País, não conseguiram interromper a circulação do
+vírus, causando elevados custos sociais e econômicos.
+
+7. Devido ao impacto desta pandemia e à urgência quanto a necessidade de se dispor de medidas de prevenção e
+controle, o Ministério da Saúde elaborou o Plano de Operacionalização da Campanha de Vacinação contra a Covid-19 em paralelo
+aos estudos das vacinas, com vistas a antecipar o planejamento e, consequentemente a execução das atividades necessárias
+quando da incorporação da vacina, considerando os diferentes cenários a serem definidos.
+
+8. No que tange aos Equipamentos de Proteção Individual — EPI, e nos termos do artigo 8º da Decisão nº 42, de 24 de
+maio de 2018, tem-se expressamente o dever de que estes estejam disponíveis em quantidade suficiente nos postos de trabalho.
+
+9. Assim, a SAPS/MS por meio do Departamento de Saúde da Família-DESF, considerando o Plano Nacional de
+Operacionalização da Vacinação contra a Covid-19, no intuito de fortalecer os Municípios e afim de melhorar a estrutura das
+equipes de saúde, buscou a aquisição de EPI's.
+
+10. Como anteriormente destacado, a SAPS realizou procedimento licitatório para a aquisição de EPI's apenas no ano de
+2021, tendo sido realizado por meio do Sistema de Registro de Preço, que se limitou a aquisição de máscaras cirúrgicas, na
+quantidade de 78.144.000 (setenta e oito mil e cento e quarenta e quatro) unidades, com valor estimado de R$ 33.211.200,00
+(trinta e três milhões, duzentos e onze mil e duzentos reais), no qual ocorreu abertura para o recebimento das propostas em
+17/03/2021, estando atualmente suspenso por determinação do pregoeiro responsável.
+
+11. No que tange a alegação de fornecimento por parte do Ministério da Saúde de máscaras inapropriadas para uso em
+estabelecimentos de Saúde, cumpre destacar que a aquisição de tais EPI's fora firmada por meio do contrato nº 112/2020, em 20
+de maio de 2020 (contratação de 40.000.000 máscaras descartáveis com filtro, modelo NK95), entabulado entre à Secretaria de
+Atenção Especializada — SAES e a empresa Global Base Development HK Limited.
+
+12. Importante ressaltar que o Departamento de Saúde da Família - DESF, quanto às máscaras NK95, tão logo tenha
+tomado conhecimento que os EPIs distribuídos continham em sua embalagem o alerta de uso "Não médico" no idioma inglês,
+solicitou ao Departamento de Logística, operacionalizador das solicitações de EPI junto ao Sistema de Gerenciamento de Materiais
+(SISMAT), o bloqueio das máscaras NK95, oriundas do contrato 112/2020.
+
+ 
+
+https://sei saude.gov.br/sei/controlador php?acao=documento visualizar&acao origem=arvore visualizar&id documento=22250127&intra s
+
+1/2
+26/05/2021 SEI/MS - 0020397997 - Despacho
+
+13. Cumpre ainda destacar que o Ministério da Saúde, afim de dar ampla publicidade à aquisição e distribuição dos EPI's,
+disponibiliza por meio do site: Localiza Sus (https://localizasus.saude.gov.br/), os números atualizados dos insumos, data e
+destinatários, entre outros, inclusive, contém link para acesso ao Painel de Compras e Contratos Covid.
+
+aros [cd as
+
+345.202.1770
+
+ 
+
+EPIs por Região
+
+EO
+
+É
+
+e
+
+5 sbt 20m E «ora som doa Tom E comu rod nó tz
+
+ 
+
+14. Diante do exposto, faz-se necessário o encaminhamento dos autos à Assessoria Parlamentar — ASPAR/GM/M, para
+ciência e providências cabíveis.
+
+Atenciosamente,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+seil Documento assinado eletronicamente por Renata Maria de Oliveira Costa, Diretor(a) do Departamento de Saúde da Família, em
+Dido & 05/05/2021, às 19:37, conforme horário oficial de Brasília, com fundamento no art. 68, $ 1º, do Decreto nº 8.539, de 8 de outubro
+eletrônica de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+seil Documento assinado eletronicamente por Raphael Camara Medeiros Parente, Secretário(a) de Atenção Primária à Saúde, em
+Dado 8 05/05/2021, às 19:46, conforme horário oficial de Brasília, com fundamento no art. 68, $ 1º, do Decreto nº 8.539, de 8 de outubro
+eletrônica de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+ 
+
+ 
+
+  
+
+É A autenticidade deste documento pode ser conferida no site http://sei.saude.gov.br/sei/controlador externo php?
+acao=documento conferir&id orgao acesso externo=0, informando o código verificador 0020397997 e o código CRC 479126AF.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.065499/2021-64 SEIn$ 0020397997
+
+ 
+
+Criado por patricia.marcal, versão 4 por juliana. pinheiro em 05/05/2021 18:48:16.
+
+ 
+
+2250127 &infra siste. 212
+
+ 
+
+https://sei.saude.gov.br/sei/controlador php?acao=documento visualizar&acao origei
+
+ 
+
+rvore visualizar&id document
+
+ 
+26/05/2021 SEI/MS - 0020417887 - Despacho
+
+ 
+
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+Núcleo Jurídico da Secretaria de Vigilância em Saúde
+
+DESPACHO
+
+SVS/NUJUR/SVS/MS
+Brasília, 06 de maio de 2021.
+
+À Assessoria Parlamentar (ASPAR/GM/MS)
+
+Assunto:Solicitação de informações - Requerimento do Senado Federal nº 2/2021/CPIPANDEMIA.
+Ref.: NUP Nº 25000.065499/2021-64
+
+1. Trata-se do requerimento oriundo do Senado Federal, encaminhado pela Coordenação de
+Comissões Especiais, Temporárias e Parlamentares de Inquérito, relativo à Comissão Parlamentar de
+Inquérito, que solicita sejam encaminhados, pelo Ministério da Saúde, em especial pelos órgãos do
+Ministério listados a seguir, cópia de todos os documentos e comunicações, encaminhados ou recebidos,
+a respeito do fornecimento de EPI, como máscaras cirúrgicas, máscaras n95, aventais, luvas descartáveis,
+sapatilhas, saneantes, óculos de proteção, especificando os termos de referência, editais, atas de
+reuniões, contratos, cópias das notas fiscais e ordens bancárias emitidas, além de eventuais orientações
+sobre o uso correto desses dispositivos.
+
+2. Nesse sentido, este Gabinete/SVS informa que não elaborou nenhum documento
+referente ao fornecimento de insumos.
+
+3. Na oportunidade, anexa aos autos documento que trata de recomendações sobre EPI, qual
+seja "Recomendações de proteção aos trabalhadores dos serviços de saúde no atendimento de COVID-19
+e outras síndromes gripais" (0020418348).
+
+4. Desse modo, restitui a presente demanda à essa Assessoria para conhecimento e
+providências ulteriores julgadas pertinentes.
+
+5. Colocamo-nos à disposição para quaisquer esclarecimentos adicionais.
+
+Atenciosamente,
+
+ARNALDO CORREIA DE MEDEIROS
+Secretário de Vigilância em Saúde
+
+ 
+
+ 
+      
+ 
+
+Documento assinado eletronicamente por Arnaldo Correia de Medeiros, Secretário(a) de Vigilância
+em Saúde, em 06/05/2021, às 20:28, conforme horário oficial de Brasília, com fundamento no art.
+68, 5 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março
+de 2017.
+
+il
+eletrônica
+
+  
+
+ 
+
+ 
+
+A autenticidade deste documento pode ser conferida no site
+
+http://sei.saude.gov.br/sei/controlador externo.php?
+
+ 
+
+ei. saude. gov.br/sei/controlador.php?acao=documento. visualizar&acao origem=arvore visualizar&id documento=22271381&infra siste... 1/2
+26/05/2021 SEI/MS - 0020417887 - Despacho
+
+[m] acao=documento conferir&id orgao acesso externo=0, informando o código verificador
+0020417887 e o código CRC 8F9E9D4D.
+
+  
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.065499/2021-64 SEI nº 0020417887
+
+Criado por talita.jesus, versão 2 por talita.jesus em 06/05/2021 15:56:39.
+
+https://sei saude.gov.br/sei/controlador php ?acao=documento visualizar&acao origem=arvore visualizar&id documento=22271381 &intra s
+
+ 
+
+212
+CPIPÂANDEMIA
+00002/2021
+
+ 
+
+SENADO FEDERAL —
+
+REQUERIMENTO Nº DE - CPIPANDEMIA
+
+Senhor Presidente,
+
+ 
+
+Requeiro, nos termos do art. 58, S 3º, da Constituição Federal,
+combinado com o art. 2º da Lei nº 1.579/1952 e o art. 148 do Regimento Interno do
+Senado Federal, que sejam encaminhados, pelo Ministério da Saúde, em especial
+pelos órgãos do Ministério listados a seguir, cópia de todos os documentos e
+comunicações, encaminhados ou recebidos, a respeito do fornecimento de EPI,
+como máscaras cirúrgicas, máscaras n95, aventais, luvas descartáveis, sapatilhas,
+saneantes, óculos de proteção, especificando os termos de referência, editais, atas
+de reuniões, contratos, cópias das notas fiscais e ordens bancárias emitidas, além
+
+de eventuais orientações sobre o uso correto desses dispositivos
+Órgãos do Ministério da Saúde:
+
+1. Pelo próprio Ministro de Estado;
+
+2. Gabinete do Ministro (GM);
+
+3. Secretaria Executiva (SE);
+
+4. Departamento de Logística em Saúde (DLOG);
+
+5. Departamento de Assistência Farmacêutica e Insumos Estratégicos
+(DAF);
+
+6. Secretaria de Vigilância em Saúde (SVS).
+
+JUSTIFICAÇÃO
+
+O Brasil já superou a terrível marca de 370 mil mortes por Covid-19.
+Chegamos a registrar mais de 4 mil mortes em apenas um dia. Vivemos uma
+
+tragédia sem precedentes. Infelizmente, os números de novos casos e óbitos
+continuam altíssimos e não há nenhum sinal de que essa tragédia esteja perto do
+
+fim.
+
+Presenciamos o colapso dos sistemas de saúde pelo país - sem vagas nos
+hospitais para os doentes, pacientes sendo atendidos em corredores. Os sistemas
+funerários do país não conseguem lidar com os altíssimos números de mortos.
+Presenciamos a falta de oxigênio, especialmente no estado do Amazonas. Há
+falta de medicamentos básicos, como sedativos para a intubação dos pacientes,
+
+enquanto sobram medicamentos sem nenhuma comprovação científica.
+
+Hoje, o país é visto como uma ameaça sanitária pelo mundo. Diversos
+países suspenderam voos com o Brasil. Há restrições para a entrada de brasileiros
+em quase todas as nações do planeta. A respeitada organização Médicos sem
+
+Fronteiras classificou a situação do Brasil como uma "catástrofe humanitária",
+
+Só foi possível chegar a essa situação catastrófica por conta dos
+inúmeros e sucessivos erros e omissões do governo no enfrentamento da pandemia
+da Covid-19 no Brasil. Falhas na estratégia de comunicação; nas ações de vigilância
+e mapeamento da pandemia; promoção de tratamentos ineficazes; má gestão das
+necessidades de leitos de UTIs no país; falhas no planejamento de fornecimento de
+insumos básicos como oxigênio, medicamentos, EPIs, testes, respiradores; atraso e
+
+omissão para a compra de vacinas.
+
+Para investigar esses erros e omissões, esta Comissão Parlamentar
+de Inquérito necessita ter acesso a informações e documentos detalhados a
+respeito da gestão do Governo Federal no enfrentamento da pandemia da
+Covid-19. Para isso, propomos a apresentação do presente Requerimento para
+que sejam encaminhados pelo Ministério da Saúde cópia de todos os documentos
+e comunicações a respeito do fornecimento de EPI, como máscaras cirúrgicas,
+máscaras n95, aventais, luvas descartáveis, sapatilhas, saneantes, óculos de
+
+proteção, especificando os termos de referência, editais, atas de reuniões,
+
+  
+
+SF/21077.90802-07 (Lexl
+contratos, incluindo cópias das notas fiscais e ordens bancárias emitidas, além de
+
+eventuais orientações sobre o uso correto desses dispositivos.
+
+Sala da Comissão, 19 de abril de 2021.
+
+Senador Randolfe Rodrigues
+(REDE - AP)
+
+ 
+26/05/2021 SEI/MS - 0020398622 - Despacho
+
+ 
+
+Ministério da Saúde
+Secretaria Executiva
+Departamento de Logística em Saúde
+
+DESPACHO
+
+DLOG/SE/MS
+
+Brasília, 05 de maio de 2021.
+
+Ao GAB/SE,
+
+Assunto: Requerimento nº 2/2021 CPIPANDEMIA (0020324517)
+
+1. Trata-se do Ofício nº 11/2021 -CPIPANDEMIA (0020324516), de autoria do Presidente da
+CPI da Pandemia, Senador Omar Aziz, o qual faz referência ao Requerimento nº 2/2021 CPIPANDEMIA
+(0020324517), de autoria do Senador Randolfe Rodrigues, em que requer
+que seja encaminhada pelo Ministério da Saúde cópia de todos os documentos e comunicações,
+encaminhados ou recebidos, a respeito do fornecimento de EPI, como máscaras cirúrgicas, máscaras
+n95, aventais, luvas descartáveis, sapatilhas, saneantes, óculos de proteção, especificando os termos
+de referência, editais, atas de reuniões, contratos, cópias das notas fiscais e ordens bancárias emitidas,
+além de eventuais orientações sobre o uso correto desses dispositivo.
+
+2. Quanto aos Termos de Referência - TR, Contratos, editais, cópias das notas fiscais e ordens
+bancárias emitidas, este DLOG disponibiliza os documentos por meio do
+link: https://drive.google.com/drive/folders/1gjwbKBqgogBGamE9RwDJZPX9DizVBHKBp?usp=sharing.
+
+3. Sendo essas as informações que competem a este Departamento, restitui-se para demais
+providências, na urgência que o caso requer.
+
+ 
+
+     
+
+il
+eletrônica
+
+ 
+     
+ 
+
+Documento assinado eletronicamente por Roberto Ferreira Dias, Diretor(a) do Departamento de
+Logística, em 05/05/2021, às 19:52, conforme horário oficial de Brasília, com fundamento no art. 6º,
+& 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de
+2017.
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+autenticidade deste documento pode ser conferida no site
+
+http://sei saude.gov.br/sei/controlador externo.php?
+
+ 
+
+ 
+
+Referência: Processo nº 25000.065499/2021-64 SEI nº 0020398622
+
+Criado por luis.filipe, versão 3 por luis.filipe em 05/05/2021 19:35:30.
+
+ 
+
+ei. saude. gov.br/sei/controlador.php?acao=documento. visualizar&acao origem=arvore visualizar&id documento=22250781 &infra siste..
+
+11
+

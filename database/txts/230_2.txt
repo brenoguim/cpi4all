@@ -1,0 +1,664 @@
+Anexo 4: HOSPITAIS DO EXERCITO BRASILEIRO
+
+ 
+
+Média de Ocupação de leitos de UTI
+
+Média de Ocupação de Leitos Clínicos.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hospitais
+
+Janeiro | Fevereiro Março Abril Janeiro | Fevereiro | Março Abril
+Hospital Central do Exército Rio de Janeiro) 17% 94% 133% 158% 45% 49% 50% 91%
+Hospital Geral do Rio de Janeiro 87% 92% 117% 205% 21% 20% 31% 59%
+Hospital Militar de Resende - - - - 5% 8% 65% 39%
+Hospital Militar de Área de São Paulo 65% 86% 176% 168% 32% 40% 51% 14%
+Hospital Militar de Area de Porto Alegre 55% 83% 180% 134% 106% 135% 142% 76%
+Hospital Geral de Santa Maria 51% 49% 132% 153% 0% 49% 64% 90%
+Hospital de Guamição de Bagé - - - - 24% 28% 33% 31%
+Hospital de Guamição de Alegrete - - - - 5% 0% 5% 5%
+Hospital de Guamição de Santiago - - - - 18% 21% 32% 31%
+Hospital Geral de Juiz de Fora 591% 356% 400% 337% 21% 19% 38% 44%
+Hospital Geral de Curitiba 50% 57% 140% 63% 1% 4% 39% 1%
+Hospital de Guamição de Florianópolis - - - - 11% 31% 35% 33%
+Hospital Geral de Salvador 41% 97% 103% 68% 64% 48% 56% 84%
+Hospital Militar de Área de Recife 91% 120% 137% 126% 0% 91% 91% 92%
+Hospital de Guamição de Natal 60% 65% 114% 96% 18% 11% 12% 14%
+Hospital de Guamição de João Pessoa - - - - 0% 1% 44% 7%
+Hospital Geral de Belém 30% 54% B% 85% 31% 43% 49% 45%
+Hospital de Guamição de Marabá - - - - 10% 6% 3% 5%
+Hospital Militar de Área de Campo Grande 19% 56% 113% 131% 7% 59% 62% 94%
+Hospital Geral de Fortaleza 42% 54% 101% T% 43% 57% 89% 78%
+Hospital Militar de Área de Brasília 145% 244% 220% 213% 50% 57% 61% 60%
+Hospital Militar de Área de Manaus 265% 226% 87% 49% 134% 55% 35% 43%
+Hospital de Guamição de Tabatinga 418% 678% 210% 93% 35% 33% 11% 26%
+Hospital de Guanição de São Gabriel da Cachoeira 145% 189% 20% 10% 6% 7% 39% 5%
+Hospital de Guamição de Porto Velho - 21% 23% - 11% 32% 28% 1%
+
+ 
+
+Taxa de ocupação entre os meses de janeiro a abril de 2021.
+
+A taxa de ocupação dos hospitais militares acompanhou a evolução dos casos informados por semana
+epidemiológica e a consequente taxa de ocupação dos hospitais civis, nas respectivas regiões. Nos momentos
+de maior incidência de COVID 19, medidas emergenciais foram adotadas, tais como: remoção de pacientes para
+outras Organizações Militares de Saúde, na mesma cidade ou em outros centros; deslocamentos de equipes de
+saúde entre essas organizações; interrupção de procedimentos médicos eletivos quando necessário;
+encaminhamento dos pacientes para serviços credenciados da rede privada. Diante do exposto, depreende-se a
+não existência, nesse período, de leitos ociosos, por conta das peculiaridades do Sistema de Saúde Militar.
+
+Observações:
+
+Para as taxas de ocupação que superam o valor de 100%, significa dizer que o Sistema de Saúde do
+Exército foi obrigado a abrir leitos emergenciais.
+Os leitos emergenciais são leitos temporários de suporte e de estabilização do paciente, os quais foram
+ampliados, naquele momento, adaptando-se outros setores hospitalares, tais como sala de recuperação
+anestésica, quartos privativos e leitos de emergência, para serem utilizados de acordo com a necessidade,
+com os meios (equipamentos, instalações e pessoal) existentes na OMS. Portanto, são aqueles que excedem
+
+ 
+Anexo 4, continuação: HOSPITAIS DO EXERCITO BRASILEIRO
+
+o número de leitos previstos, bem como a capacidade de atendimento em termos de estrutura física, pessoal
+e material, para atender a situação de emergência, não configurando leitos de UTI.
+
+A situação de leitos COVID e NÃO-COVID é dinâmica, cabendo ao gestor local a destinação conforme
+a demanda por um ou outro tipo de leito. Ressalta-se que houve momentos nos quais alguns hospitais
+apresentavam 100% dos seus leitos destinados à COVID-19 e outros.
+
+As informações relativas a ocupação de leitos no Sistema de Saúde do Exército estão disponíveis,
+diariamente, no sítio eletrônico http://wwrw.dsau.eb.mil.br/index .php/leitos-unidades-de-saude .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Leitos UTI/EMERGENCIAIS Leitos Clínicos
+Hospitais Leitos COVID Leitos NÃO-COVID | Leitos Tao NÃO-
+UTI [Emergencial) UTI [Emergencial) COVID coviD
+[Hospital Central do Exército (Rio de Janeiro) 12 34 2 4 59 159
+[Hospital Geral do Rio de Janeiro 1 13 6 4 23 43
+[Hospital Militar de Resende - - - - 28 25
+[Hospital Militar de Área de São Paulo 8 13 3 7 26 36
+[Hospital Militar de Área de Porto Alegre 2 0 8 0 26 40
+[Hospital Geral de Santa Maria 5 0 0 0 14 13
+[Hospital de Guarnição de Bagé - - - - 3 7
+[Hospital de Guarnição de Alegrete - - - - 1 u
+[Hospital de Guarnição de Santiago - - - - 4 8
+[Hospital Geral de Juiz de Fora 0 2 0 6 6 15
+Hospital Geral de Curitiba 3 0 3 0 14 23
+[Hospital de Guarnição de Florianópolis, - - - - 10 5
+[Hospital Geral de Salvador 0 6 4 1 0 10
+[Hospital Militar de Área de Recife 5 5 5 1 26 54
+[Hospital de Guarnição de Natal 4 4 4 6 1 8
+[Hospital de Guarnição de João Pessoa 0 0 0 0 13 3
+[Hospital Geral de Belém 0 1 6 3 23 23
+[Hospital de Guarnição de Marabá 0 0 0 0 3 21
+[Hospital Militar de Área de Campo Grande 1 0 6 3 8 33
+[Hospital Geral de Fortaleza 9 1 0 3 30 9
+[Hospital Militar de Área de Brasília 0 0 0 10 3
+[Hospital Militar de Área de Manaus 6 0 0 0 21 19
+[Hospital de Guarnição de Tabatinga 0 7 0 7 14
+[Hospital de Guanição de São Gabriel da Cachoeira 0 3 0 2 15 38
+[Hospital de Guanição de Porto Velho 0 0 0 0 15 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Número de leitos em 10 de maio de 2021
+
+Observações:
+
+O Sistema de Saúde do Exército é composto por uma série de instalações de saúde destinadas ao atendimento
+dos contribuintes do Sistema de Saúde do Exército.
+
+Esse Sistema tem como princípio básico o atendimento inicial nas organizações de nível mais baixo, mantendo
+a capacidade de evacuação para as de nível mais alto, ou seja, existe uma malha de apoio dentro da Força Terrestre
+com escalonamento de complexidade para evacuar seus pacientes para uma unidade de maior capacidade quando
+necessários.
+
+Cabe destacar que nem todos os hospitais militares possuem capacidade de leitos de terapia intensiva e precisam
+do apoio de outras organizações militares ou de hospitais credenciados da rede privada.
+
+Assim, os Hospitais Militares, distribuídos dentro das respectivas áreas administrativas, denominadas Regiões
+Militares (RM), são empregados de forma integrada, como uma rede própria, que permite o remanejamento de meios
+Anexo 4, continuação: HOSPITAIS DO EXERCITO BRASILEIRO
+
+e de pacientes entre si, conforme as necessidades, inclusive com a criação de leitos emergenciais, com o apoio de
+médicos, enfermeiros, técnicos de enfermagem e outros profissionais de saúde envolvidos com a assistência, oriundos
+de outras regiões do país, características precípuas da flexibilidade, da integralidade e da mobilidade do Sistema de
+Saúde do Exército.
+
+Os leitos emergenciais são leitos temporários de suporte e de estabilização do paciente, os quais foram
+ampliados, naquele momento, adaptando-se outros setores hospitalares, tais como sala de recuperação anestésica,
+quartos privativos e leitos de emergência, para serem utilizados de acordo com a necessidade, com os meios
+(equipamentos, instalações e pessoal) existentes na OMS. Portanto, são aqueles que excedem o número de leitos
+previstos, bem como a capacidade de atendimento em termos de estrutura física, pessoal e material, para atender a
+situação de emergência, não configurando como leitos de UTI.
+
+A destinação de leitos hospitalares é decorrente do cenário vivido pelos hospitais a cada momento. Sendo assim,
+é a dinâmica resultante da demanda por leitos para atender pacientes com COVID-19 e outras patologias que definem
+a quantidade de leitos a serem destinados para cada caso.
+
+As informações relativas à ocupação de leitos no Sistema de Saúde do Exército estão disponíveis, diariamente,
+no sítio eletrônico http://www. dsau. eb.mil. br/index .php/leitos-unidades-de-saude .
+Anexo 3: HOSPITAIS DA MARINHA DO BRASIL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Taxade | Taxade | Taxade | Taxade | Taxade | Taxade | Taxade | Taxado | Taxade | Taxade | Taxade | Taxade | Taxade | Taxade | Taxade | Taxade
+Hospitais MILITARES: |FA [UF Daupação |ocupação| ocupação | ocupação| ocupação |ocupação| oaipação | ocupação | poupação | ocupação | ocupação | ocupação |jDapação | ocupação| oaupação | ocupação
+JAN'2024 | FEV 2021 |MAR 2021] ABR 2021] JAN 2021 | FEV 2021 | MAR 2021 | ABR 2021] JAN 2021 | FEV 2071 | MAR 2021 | ABR 2021 | JAN 2021 | FEV 2021 | MAR 2021] ABR 2021
+Leitos UT / COVID Leitos Enfermaria / COVID Leitos UT / Não COVID Leitos Enfermaria / Não COVID
+Hospital Naval IMardilio DiajMB |RJ | 83,80% | 80,10% | 87,20% | 1D000% | 81,20% | 80,00% | B3,50% | 88,00% | 94,10% | 87,60% | 85,70% | 93,50% | 80,60% | 81,30% | B310% | 90,40%
+Hospital Naval de Salvador [MB [Ba E 2 E E 80,20% | 22086 [as am | 80,00% E E E E 11% | 81,70% | 83,20% | 28208
+Hospital Naval de Natal IME RN E E E 82,30% | Bi 40% | 85,60% | 83,30% E = E as, 60% | B170% | B630% | 88,00%
+Hospital Naval de Recife |MB|PE E = 83,20% | B250% | 26,30% | 80, 10% E = E 80,30% | 83,60% | 84,80% | 86,90%
+Hospital Naval de Belém |MB|PA E E E 81,50% | B410 | 87,90% | 76,50% E E - 80,90% | 82,30% | B680% | 99,00%
+Hospital navalde Ladário |MEjms|  - E 5 E E = E = E ao. 40% | 8420% | B5, 60% | iDnona
+Hospitzl Naval de Braslia [ME |DF E E = = = E E E = 81,20% | 8260 | B450% | 75,00%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Taxa de ocupação entre os meses de janeiro a abril de 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HOSPITAIS MILITARES FA | UF | Leitos UTI COVID Leitos Enfermaria COVID | Leitos UTI não COVID Leitos Enfermaria não COVID
+Hospital Naval Marcilio Dias MB | RI 30 85 30 160
+
+Hospital Naval de Salvador MB | BA o 10 o 14
+
+Hospital Naval de Natal MB | RN o 15 o 8
+
+Hospital Naval de Recife MB | PE o 10 0 8
+
+Hospital Naval de Belém MB | PA o 20 0 5
+
+Hospital naval de Ladário MB | MS 0 o 0 1
+
+Hospital Naval de Brasilia MB | DF 0 0 0 5
+
+ 
+
+ 
+
+ 
+
+Observações:
+
+ 
+
+enfermidades, do Sistema da Saúde da Ma
+
+ 
+
+1- Referente aos questionamentos 3. a) e b) do ROS nº 377 CPI PANDEMIA
+2-A quantidade de leitos clínicos e de UTI disponiveis para pacientes COVID-19e para outras
+rinha (SSM), constam do endereço eletrônico:
+
+ 
+
+ 
+
+Número de leitos em 10 de maio de 2021
+
+A taxa de ocupação dos hospitais militares acompanhou a evolução dos casos informados por semana epidemiológica e a consequente taxa de ocupação dos
+hospitais civis, nas respectivas regiões. Nos momentos de maior incidência de COVID 19, medidas emergenciais foram adotadas, tais como: remoção de
+pacientes para outras Organizações Militares de Saúde, na mesma cidade ou em outros centros; deslocamentos de equipes de saúde entre essas organizações;
+interrupção de procedimentos médicos eletivos quando necessário; encaminhamento dos pacientes para serviços credenciados da rede privada. Diante do
+exposto, depreende-se a não existência, nesse período, de leitos ociosos, por conta das peculiaridades do Sistema de Saúde Militar.
+Anexo |: HOSPILAL DAS FORÇÃOS ARMADAS- AFA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, leitos ! : Leitos |
+
+Lei : Taxa di Lei Taxa de : |
+HOSPITAIS q Tasado | Taxade | Toxade | Taxa de |Enfermaria) Taxa de dk a Taxa de mito Taxa de | Taxa de ps E Tom de | Enfermaria | Taga de | Taxade | Taxade | Taxade
+MITIARES FA |UF ocupação | Ocupação | ocupação | ocupação | /COVID | ocupação | ocupação, a ocupação a Dcupação |ocupação| dE ocupação) [Não [ocupação ocupação ocupação ocupação
+JAN 2021 | FEV 2021 |MAR 2001 | ABR 2021 | 13/05/202] JAN 2022 | FEN 2021 ABR 201 JA 2021 |FEV 2021 ABRZODL | COVID | JAN202] | FEV 2021 |HAR 2021, ABR 2021
+
+13/05/81 0 MA 13/05/21 202 |
+
+1 10/05/21 :
+nes [MolDF| 30 | comu | 65264 | S2d6u | 1570 | 4 | as [Am a | BH] O - - |. - 7 | 50% | ls | 00 | 583%
+
+Observações: |
+1 Dados do HFA disponiveis em; https://unvw hfa mil br/dados-de-ocupacão-de-leitos. Acesso em 13/05/2021. |
+2- Registros históricos das taxas de ocupação dos leitos, a partir de janeiro de 2021, fornecidos diretanhente do Gabinete da Direção do HFA. l
+
+ 
+
+ 
+
+ 
+
+A taxa de ocupação dos hospitais militares acompanhou a evolução dos casos informados por semana epidemiológica e a consequente taxa de ocupação
+dos hospitais civis, nas respectivas regiões. Nos momentos de maior incidência de COVID 19, medidas emergenciais foram adotadas, tais como:
+remoção de pacientes para outras Organizações Militares de Saúde, na mesma cidade ou em outros centros; deslocamentos de equipes de saúde entre
+essas organizações; interrupção de procedimentos médicos eletivos quando necessário; encaminhamento dos pacientes para serviços credenciados da
+rede privada. Diante do exposto, depreende-se a não existência, nesse período, de leitos ociosos, por conta das peculiaridades do Sistema de Saúde
+Militar.
+Anexo 2: HOSPITAIS DA FORÇA AÉREA BRASILEIRA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+º Leito eito
+DA CNO OVID a(o (co OVID )
+HAAF 0 12 0 38
+HABE 4 10 1 13
+HACO 2 12 4 12
+HAMN 0 4 0 16
+HARF 7 14 3 29
+HCA 9 20 4 30
+HFAB 0 10 6 20
+HFAG 18 12 12 104
+HFASP 7 13 2 30
+
+ 
+
+Adicionalmente, informa-se que a disponibilidade diária de leitos pode ser consultada no seguinte endereço:
+https://www .fab.mil.br/dirsa.
+
+ 
+Anexo 2, continuação: HOSPITAIS DA FORÇA AÉREA BRASILEIRA
+jan/21 fev/21) mar/21 | abr/21 fev/21 abr/21 fev/21 | mar/21 | abr/21 fev/21 abr/21
+
+ 
+
+UT UT! UT! UT! NÃ( n NÃC a ENTORNO ENS
+COVID COVID COVID COVID T pan . um ESONAIDEÃo Nai DER o (o) aid Ko o) Ai D)
+
+TX ocup.TX ocup.TX ocup. TX ocup. J DO ocup. TX ocup. TX ocup. TX ocup.
+
+(%) (%) (%) (%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HAAF - - - - 36,77 | 35,71 | 39,87 | 55,56 | 67,85 | 69,56 | 63,02 | 27,27
+HABE | 67,74 | 93,57 100 50 100 0 12,21 | 42,26 | 62,28 20 12 12 12 92
+HACO | 56,99 | 34,52 100 25 - 28,83 | 34,74 50 16,67 | 13,10 | 58,87 0 18 18 75 42
+HAMN - - - - - - 76,06 | 35,90 | 21,98 25 65 12 20 19
+HARF | 43,23 | 41,79 | 95,51 | 85,71 100 100 80 33 26,27 | 26,53 | 36,41 | 28,57 80 90 70 41
+
+ 
+
+HCA | 97,13 | 78,57 | 93,55 100 | 105,25 | 102,50 101 100 62,58 | 43,21 | 58,39 55 98,49 | 117,86 | 100,86 100
+
+ 
+
+HFAB - - 84,45 | 16,67 | 28,57 | 57,01 - - - 65,19 80 25,33 | 23,27 | 45,32 45
+
+ 
+
+HFAG | 85,08 | 63,89 | 87,85 | 111,11 | 91,33 | 94,32 | 96,77 | 108,33 | 28,50 | 90,71 | 77,37 50 122 109 127 54
+
+ 
+
+HFASP | 60,93 | 28,17 100 | 128,57 100 95 98 100 28,69 | 25,19 | 61,08 | 92,30 75 65 88 20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A taxa de ocupação dos hospitais militares acompanhou a evolução dos casos informados por semana epidemiológica e a consequente taxa de
+ocupação dos hospitais civis, nas respectivas regiões. Nos momentos de maior incidência de COVID 19, medidas emergenciais foram adotadas,
+tais como: remoção de pacientes para outras Organizações Militares de Saúde, na mesma cidade ou em outros centros; deslocamentos de equipes
+de saúde entre essas organizações; interrupção de procedimentos médicos eletivos quando necessário; encaminhamento dos pacientes para serviços
+credenciados da rede privada. Diante do exposto, depreende-se a não existência, nesse período, de leitos ociosos, por conta das peculiaridades do
+Sistema de Saúde Militar.
+
+Adicionalmente, informa-se que a disponibilidade diária de leitos pode ser consultada no seguinte endereço: https: /Aw ww .fab.mil.br/dirsa.
+Anexo 2, continuação: HOSPITAIS DA FORÇA AÉREA BRASILEIRA
+
+Observações:
+1- Não há leitos de UTI no Hospital de Aeronáutica dos Afonsos(HAAF), devido a obras iniciadas antes da Pandemia.
+2- HFAB - 10 leitos de enfermaria COVID foram abertos no dia 13 de março de 2021. No mesmo dia, 6 leitos de UTI do HFAB foram destinados
+
+ao atendimento COVID, por dois meses, devido à saturação do HFA, para onde estavam sendo direcionados os pacientes com COVID da FAB. Após esses dois
+meses, o HFA voltou a absorver a demanda de internação dos pacientes com COVID do HFAB.
+
+3- A taxa de leitos reservados para atendimento não COVID reflete a queda temporária dos atendimentos eletivos, mas são necessários para urgências
+e emergências clínicas (Ex.: Infarto do miocárdio, AVC etc.), pós-operatórios de urgência e outros procedimentos invasivos.
+
+4. A taxa de ocupação de UTI é igual ao número de pacientes por dia dividido pelo número de leitos por dia, multiplicado por 100. Uma taxa diária
+acima de 100% indica que o hospital está dependendo de leitos extras.
+

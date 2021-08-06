@@ -1,0 +1,2154 @@
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+Departamento de Imunização e Doenças Transmissíveis
+
+TERMO DE REFERÊNCIA
+NATUREZA DA DEMANDA: Insumo Estratégico para Saúde
+ELEMENTO DE DESPESA: Material de Consumo
+CRÉDITO ORÇAMENTÁRIO: 10.122.5018.21C0.6500
+FORMA DE PROCEDIMENTO: Contratação Direta
+TIPO DE CONTRATAÇÃO: Dispensa
+
+JUSTIFICATIVA: Dispensa de licitação com findamento no art.2º, inciso I, da Medida Provisória nº 1.026/2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 DECLARAÇÃO DO OBJETO (REDAÇÃO DA MP Nº 1.026/2021)
+1.1 Aquisição de VACINA DE VETORES COMBINADOS (VACINA SPUTNIK V) para prevenção de infecção por CORONAVÍRUS causado por VÍRUS SARS-COV-2, conforme
+condições, quantidades e exigências estabelecidas neste instrumento:
+Item Descrição do Item (Objeto) CATMAT Unidade de Medida Quantidade
+VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL -
+1 COMPONENTE 1 BRO475096 Doses 5.000.000
+VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL -
+2 COMPONENTE 1 BRO475096 Doses 5.000.000
+12. Descrição Detalhada do Objeto:
+
+ 
+
+ITEM 1. VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), VETORES COMBINADOS, COMPONENTES |, SOLUÇÃO INJETÁVEL, INTRAMUSCULAR,
+3ML, 0,5MG/DOSE. (VACINA SPUTNIK V)
+
+ITEM 2. VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), VETORES COMBINADOS, COMPONENTES Il, SOLUÇÃO INJETÁVEL, INTRAMUSCULAR,
+3ML, 0,5MG/DOSE. (VACINA SPUTNIK V)
+
+2. FUNDAMENTAÇÃO SIMPLIFICADA DA CONTRATAÇÃO (REDAÇÃO DA MP Nº 1.026/2021)
+
+21. A covid-19 é a maior pandemia da história recente da humanidade já tendo ocasionado mais de 109 milhões de casos confirmados no mundo e cerca de 2,4 milhões de
+óbitos até o dia 15/02/2021. No Brasil já foram confirmados cerca de 9,8 milhões de casos e 239 mil óbitos. Para mitigar os impactos da covid-19 no Brasil foram implementadas uma
+série de medidas não farmacológicas que, a despeito de terem sido eficazes em retardar o avanço da epidemia, estão associadas a elevados custos sociais e econômicos e ainda não
+conseguiram interromper a circulação do vírus no país. De fato, a partir da semana epidemiológica 46 de 2020, o país vem identificando uma nova elevação no número de casos e
+óbitos ocasionados pela doença, com alguns estados e municípios voltando a implementar medidas não farmacológicas agressivas para o combate à doença. Dessa forma entende-se
+que apenas uma vacina eficaz será capaz de permitir uma retomada completa das atividades econômicas e evitar centenas de milhares a milhões de óbitos no país. Considerando
+ainda os custos elevados da pandemia do ponto de vista econômico e social a vacinação seguramente será uma das medidas mais custo efetivas, possibilitando não só a preservação
+de milhares de vidas bem como uma economia substancial.
+
+22. Da vacina SPUTNIK V
+
+221. A vacina SPUTNIK V consiste em dois componentes recombinantes vetoriais de replicação deficiente, Adenovirus Ad26 (rAd26) e Adenovirus 5 (rAdS), ambos com o
+segmento genômico responsável pela codificação da proteína spike (5) completa do SARS-CoV-2. A vacina deve ser administrada por via intramuscular, e é apresentada em duas
+formulações, uma congelada com 0,5 mL, que deve ser conservada a -182C e outra liofilizada, que deve ser conservada entre 2ºC e 82C, com necessidade de reconstituição com 1 ml
+de água para injeção. Ambos os componentes (rAd26 e rAd5) contém 1011 partículas virais por dose.
+
+222. Estudos de fase 1/1! foram conduzidos em 76 voluntários saudáveis de 18 a 60 anos em dois hospitais na Rússia. Na fase | voluntários receberam uma dose da vacina com
+o componente rAd26 ou o componente rAd26 e na fase 2 os voluntários receberam duas doses (uma com o componente rAd26 e a outra com o componente rAd5) com 21 dias de
+intervalo.
+
+223, A vacina foi bem tolerada e produziu respostas imunes humorais e celulares em adultos saudáveis. Ambas as formulações de vacinas foram seguras e bem toleradas. Os
+eventos adversos mais comuns foram dor no local da injeção (44 [58%]), hipertermia (38 [50%]), cefaleia (32 [42%]), astenia (21 [28%]), mialgia e artralgia (18 [24%]). A maioria dos
+eventos adversos foi leve e nenhum evento adverso sério foi detectado.
+
+224, As respostas IgG foram observadas em todos os participantes, com títulos médios geométricos significativamente superiores aos relatados em pessoas que se
+recuperaram da COVID-19. Os anticorpos para o SARS-CoV-2 e anticorpos neutralizantes aumentaram significativamente no dia 14 e continuaram a aumentar durante todo o período
+de observação. Respostas específicas de células T atingiram o pico no dia 28 após a vacinação; Soroconversão para anticorpos neutralizantes no D28: rAd26-S (congelada/liofiizada):
+66,7%/55,6%; rAd5-S (congelada/lofilizada): 66, 7%/88,9%; rAd26 + rAds (congelada/liofilizada): 95%/95%; Resposta imune celular no D14 ou D28, com aumento na produção de IFN
+gamma antígeno específico por células mononucleares periféricas medidas por ELISA: rAd26-S (congelada/liofilizada): 100% / 66,7%; rAdS-S (congelada/liofilizada): 100% / 100%;
+rAd26 + rAdS (congelada/liofilizada): 100% Participantes com resposta imune celular CD4+ e/ou CD8+: rAd26-S (congelada/liofilizada): 77,78% / 77,78%; rAdS-S (congelada/liofilizada)
+88,89% / 77,78%; rAd26 + rAds (congelada/liofilizada): 95% / 100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+225 A eficácia da vacina foi avaliada com 21.977 indivíduos adultos. Na análise interina, já publicada, não foram observados eventos adversos graves causados pela vacina. A
+eficácia para prevenção de covid-19 foi de 91%, tendo sido estável em todas as faixas etárias avaliadas.
+
+23. AVALIAÇÃO DE EFICÁCIA E SEGURANÇA
+
+231. Os dados de eficácia e segurança das vacinas covid-19 estão sendo avaliados na maioria das vezes com intervalos curtos de acompanhamento (poucos meses após a
+
+vacinação). Desta forma ainda é desconhecida a eficácia e segurança a longo prazo dessas vacinas. Ainda não se sabe qual impacto que as novas variantes do SARS-CoV-2 poderão
+trazer no que diz respeito a redução da eficácia destas vacinas. É possível que a eficácia reduza a longo prazo bem como com o surgimento de novas variantes. Ressalta-se ainda que a
+presente vacina ainda não foi aprovada para uso emergencial ou para registro definitivo por parte da Anvisa. O que poderá impossibilitar o uso da mesma caso essa aprovação não se
+de em tempo hábil ou mesmo seja negada.
+
+232. No entanto entende-se que o perfil de risco benefício é ainda extremamente favorável, com elevada probabilidade de impacto positivo na saúde da população e
+mitigação dos efeitos da pandemia.
+
+2.4. DA NECESSIDADE DE AQUISIÇÃO
+
+241. Frente ao exposto na Nota Técnica 116/2021-CGPNI/DEIDT/SVS/MS (0019094968) é do entendimento da Coordenação-Geral do Programa Nacional de Imunização
+
+(CGPNI) que a aquisição de vacinas COVID-19 é urgente no país. A aquisição de um produto ainda em fase de pesquisas clínicas e ainda sem aprovação pela Anvisa será naturalmente
+um investimento de risco. No entanto, tal investimento se justifica visando assegurar a aquisição de doses de vacina em um cenário de elevada procura mundial por este
+imunobiológico e com escassez de oferta. O quantitativo ofertado pela União Química Farmacêutica Nacional S/A, 10 milhões de doses da vacina Sputinik seguramente trará impacto
+positivo e permitirá acelerar a campanha de vacinação em andamento.
+2.4.2. Conforme descrito no PLANO NACIONAL DE OPERACIONALIZAÇÃO DA VACINAÇÃO CONTRA A COVID-19 (PNO), considerando a transmissibilidade da covid-19 (RO entre
+2,5 e 3), cerca de 60 a 70% da população precisaria estar imune (assumindo uma população com interação homogênea) para interromper a circulação do vírus. Desta forma seria
+necessária a vacinação de 70% ou mais da população (a depender da efetividade da vacina em prevenir a transmissibilidade) para eliminação da doença. Portanto, em um momento
+inicial, onde não existe ampla disponibilidade da vacina no mercado mundial, o objetivo principal da vacinação passa a ser focado na redução da morbimortalidade causada pela covid-
+19, bem como a manutenção do funcionamento da força de trabalho dos serviços de saúde e a manutenção do funcionamento dos serviços essenciais. Desta forma optou-se pela
+vacinação dos grupos prioritários elencados no Plano Nacional de Operacionalização da Vacinação contra a Covid-19, o que demandará cerca de 162 milhões de doses de vacina,
+considerando um esquema com 2 doses e um percentual de perdas estimados em cerca de 5%. Com os acordos já firmados pelo Ministério da Saúde, foram entregues cerca de 11
+milhões de doses até o momento.
+
+243. Considerando a imprevisibilidade do cronograma de entrega por parte das farmacêuticas já contratadas e a escassez de doses fornecidas, faz-se necessário procurar o
+fornecimento com outros fornecedores, visando acelerar o processo de vacinação no país, em especial num cenário com elevação no número de casos em diversas Unidades da
+Federação.
+
+ 
+
+ 
+
+244. Ressalta-se, no entanto, que a oferta da vacina e administração da mesma na população deverá ocorrer apenas após a autorização para uso por parte da Anvisa e a
+divulgação dos resultados dos estudos de fase 3, nos quais venha a ser demonstrado a eficácia e segurança da vacina.
+
+2.5. JUSTIFICATIVA DA DISPENSA DE LICITAÇÃO COM FULCRO O ART.2º, INCISO |, DA MEDIDA PROVISÓRIA Nº 1.026/2021.
+
+26. A MP nº 1.026/2021 foi publicada em 06 de janeiro de 2021 e dispõe sobre as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de
+
+logística, tecnologia da informação e comunicação, comunicação social e publicitária e treinamentos destinados à vacinação contra acovid-19 e sobre o Plano Nacional de
+Operacionalização da Vacinação contra a Covid-19.
+
+27. O art.2º, inciso |, da Medida Provisória nº 1.026/2021:
+
+Art. 2º Fica à administração pública direta e indireta autorizada a cel
+1-a aquisição de vacinas e de insumos destinados a vacinação contra acovid-19, inclusive antes do registro sanitário ou da autorização temporária de uso emergencial;
+
+ 
+
+ 
+
+2.8. Já o art .3º traz a seguinte redação:
+Art. 3º Nas dispensas de licitação decorrentes do disposto nesta Medida Provisória, presumem-se comprovadas:
+1-a ocorrência de situação de emergência em saúde pública de importância nacional decorrente do coranavirus (SARS-CoV-2); e
+l-a necessidade de pronto atendimento à situação de emergência em saúde pública de importância nacional decorrente do coronavírus (SARS-CoV-2).
+
+2.9. Dessa forma, considerando tratar-se de aquisição de vacina contra a COVID-19, de pronto atendimento à situação de emergência em saúde pública, entende-se como
+atendidos os requisitos exigidos pela normativa.
+3. DESCRIÇÃO RESUMIDA DA SOLUÇÃO (REDAÇÃO DA MP Nº 1.026/2021)
+3.1. Aquisição da VACINA DE VETORES COMBINADOS (VACINA SPUTNIK V):
+3.1.1. COMPOSIÇÃO
+3.12. A VACINA SPUTNIK V consiste em dois componentes recombinantes vetoriais de replicação deficiente, Adenovirus Ad26 (FAd26) e Adenovirus 5 (rAdS), ambos com o
+segmento genômico responsável pela codificação da proteína spike (5) completa do SARS-CoV-2.
+3.13, COMPONENTE |
+SOLUÇÃO INJETÁVEL INTRAMUSCULAR 3ML —5 DOSES - 0,5MG/DOSE
+3.14, COMPONENTE 11
+SOLUÇÃO INJETÁVEL INTRAMUSCULAR 3ML —5 DOSES - 0,5MG/DOSE
+3.15. CARACTERÍSTICAS FARMACOLÓGICAS
+3.1.5.1. Avacina deve ser administrada por via intramuscular, e é apresentada em duas formulações, uma congelada com 0,5 mL, que deve ser conservada a -18ºC.
+3.1.6. INDICAÇÕES
+3.1.6.1. A vacina VACINA SPUTNIK V é indicada para imunização ativa para prevenção de casos de COVID-19, doença causada pelo vírus SARS-CoV-2, em indivíduos com 18 anos
+
+ou mais que sejam suscetíveis ao vírus.
+
+3.162. O esquema vacinal completo com duas doses é necessário para obter a resposta imune esperada para a prevenção de COVID-19. A proteção em indivíduos com
+esquemas incompletos não foi avaliada nos estudos clínicos.
+
+3.163. Não há estudos que demonstrem proteção da vacina adsorvida covid-19 (inativada) contra a infecção por SARS-Cov-2, uma vez que o objetivo dos estudos realizados até
+o momento foi o de avaliar a eficácia para a proteção contra a doença causada pelo SARS-CoV-2. Portanto, as pessoas que receberem o esquema de imunização deverão manter as
+medidas de prevenção contra infecção por SARS-CoV-2 para diminuir o risco de infecção e transmissão do SARS-CoV-2 a contactantes. Em particular, profissionais de saúde, devem
+manter a utilização das medidas de biossegurança para evitar a infecção e transmissão do SARS-Cov-2.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A. REQUISITOS DA CONTRATAÇÃO (REDAÇÃO DA MP Nº 1.026/2021)
+4.1. CRONOGRAMA DE ENTREGA
+Cronograma de Entrega — Item nº 1 e 2 — VACINA DE VETORES COMBINADOS (VACINA
+SPUTNIK V)
+Parcelas Quantitativo (doses) Prazo máximo de entrega
+15 dias após a obtenção da
+a 200.000 — Componente I item 1) | autorização temporária de uso
+200.000 — Componente 1l (item 2) emergencial ou registro
+definitivo
+5 dias após a obtenção da
+a 1.000.000 — Componente | (item 1) | autorização temporária de uso
+1.000.000 — Componente Il (item 2) emergencial ou registro
+definitivo
+60 dias após a obtenção da
+a 3.800.000 — Componente | (item 1) | autorização temporária de uso
+3.800.000 — Componente Il (item 2) emergencial ou registro
+definitivo
+Total 10.000.000 -
+42 A CONTRATANTE poderá anuir com a alteração do cronograma, desde que verificada a ausência de culpa da CONTRATADA em possível atraso injustificado.
+4.3. A CONTRATANTE terá o direito de exclusividade na aquisição de doses da VACINA (SPUTNIK V) DE VETORES COMBINADOS PARA PREVENÇÃO DE INFECÇÃO POR
+
+CORONAVÍRUS CAUSADO POR VÍRUS SARS-COV-2, produzidas ou importadas pela Contratada em todo o território nacional, enquanto durar o presente contrato.
+
+Aa. Havendo necessidade de prorrogação ou antecipação no cronograma, ou do quantitativo da respectiva parcela de entrega, caberá à CONTRATADA encaminhar ofício
+com embasamento técnico e justificativas, incumbindo à CONTRATANTE se manifestar quanto ao impacto da alteração e o aceite ou não da nova proposta, de acordo com o interesse
+da Administração.
+
+As. Os Ofícios de prorrogação dos cronogramas, ou de alteração dos quantitativos das parcelas, somente serão apreciados se encaminhados com antecedência mínima de
+30 (trinta) dias da data prevista para a entrega de cada parcela, ressalvados os casos fortuitos ou de força maior.
+4.6. O quantitativo final do lote a ser entregue deverá ser confirmado por ofício ao MS com a antecedência mínima de dois dias úteis antes da data de entrega, sem prejuízo
+ao exposto do item anterior.
+
+47. LOCAL DE ENTREGA
+47.1, As entregas das parcelas deverão ser realizadas deforma centralizada no Almoxarifado do Ministério da Saúde em São Paulo no endereço abaixo:
+
+Almoxarifado do Ministério da Saúde:
+Produtos FÁRMACO (Medicamentos/Vacinas/insumos relacionados)
+
+Endereço: Rua Jamil João Zarif, nº 684, Jardim Santa Vicência, UNIDADES 11 A 17 e 184, Município de Guarulhos —SP. CEP: 07.143-000.
+E-mail para agendamento: cglog.agendamento saude.govbr.
+
+A empresa contratada deverá agendar cada entrega, entrando em contato com a área responsável através do telefone: (61) 3315-3582.
+
+ 
+
+Nos termos do art. 73, inciso Il alíneas a e b da lei nº 8.666/93, os imunobiológicos, objeto desta aquisição, serão recebidos da seguinte forma:
+
+4721. Os bens serão recebidos provisoriamente no prazo de 1 dia, pelo(a) responsável pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de
+sua conformidade com as especificações constantes neste Termo de Referência e na proposta.
+
+ 
+
+ 
+
+Os bens poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações constantes neste Termo de Referência e na proposta, devendo ser
+substituídos no prazo de 15 dias, a contar da notificação da contratada, às suas custas, sem prejuízo da aplicação das penalidades.
+
+ 
+
+7. Os bens serão recebidos definitivamente no prazo de 15 dias, contados do recebimento provisório, após a verificação da qualidade pelo INCOS e quantidade do material
+e consequente aceitação mediante termo circunstanciado.
+
+ 
+
+7. Na hipótese de a verificação a que se refere o subitem anterior não ser procedida dentro do prazo fixado, reputar-se-á como realizada, consumando-se o recebimento
+definitivo no dia do esgotamento do prazo.
+
+O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da contratada pelos prejuízos resultantes da incorreta execução do contrato.
+CRITÉRIOS DE ACEITAÇÃO DO OBJETO
+
+ 
+
+481. O início do prazo de execução do objeto fica condicionado à obtenção da autorização de uso emergencial ou registro definitivo.
+
+482. Os imunobiológicos deverão ser entregues com a embalagem integra e em perfeito estado de conservação, devendo estar separado por lotes e prazos de validade, com
+os respectivos quantitativos impressos no recibo, na guia de remessa e em outro documento que comprove o respectivo fornecimento;
+
+A83. Os imunobiológicos deverão conter em suas embalagens primárias (frascos-ampolas, frascos, blisteres ou strips e ampolas): número de lote, data de validade, nome
+comercial, denominação genérica da substância ativa e respectiva concentração por unidade posológica;
+
+A84. As condições de armazenamento e de transporte deverão estar de acordo com especificações técnicas do produto (a exemplo de temperatura, umidade, luz) aprovadas
+pela Anvisa;
+
+85. Cada lote deverá estar acompanhado pelo respectivo protocolo resumido de Produção e Controle de Qualidade, no qual terá de constar todos os ensaios de controle
+(acompanhados dos respectivos resultados) das etapas de produção e de produto final;
+
+1.86. O prazo de validade dos imunobiológicos não deverá ter transcorrido mais de 35% (trinta e cinco por cento) na data da entrega do produto;
+
+AB: Na hipótese do não cumprimento dos limites acima preconizados, o Departamento de Vigilância em Doenças Transmissíveis - DEIDT/SVS/MS deverá ser consultado
+
+ 
+
+prévia e oficialmente para se manifestar acerca da viabilidade ou não do recebimento do imunobiológico.
+A88. A CONTRATADA, juntamente com os imunobiológicos, deverá entregar os documentos abaixo:
+Certificado de Boas Práticas de Fabricação de Medicamentos, emitido pela ANVISA;
+Certificado de Boas Práticas de Armazenamento e Distribuição ou publicação no Diário Oficial.
+
+Os documentos solicitados deverão ser apresentados dentro do prazo de validade no original ou em cópia.
+
+ 
+
+8 As amostras destinadas para testes de controle de qualidade serão retiradas, quando solicitadas pelo Instituto Nacional de Controle de Qualidade em Saúde - INCOS, do
+quantitativo total contratado.
+
+ 
+
+ 
+
+4.9. DA QUALIFICAÇÃO TÉCNICA
+
+4.91. A empresa deverá apresentar os seguintes documentos:
+
+4.9. Licença ou Alvará Sanitário Estadual ou Municipal emitido pela Vigilância Sanitária local;
+
+1.9.3, Autorização de Funcionamento de Empresa (AFE);
+
+1.94. Os documentos apresentados deverão ser em cópia digitalizada e não serão aceitas documentações vencidas e nem protocolos, salvo para os protocolos de pedido de
+revalidação dos documentos constantes da Habilitação Técnica.
+
+5. OBRIGAÇÕES DA CONTRATANTE
+
+5.1. São obrigações da Contratante:
+
+5.1: receber o objeto no prazo e condições estabelecidas neste Termo de Referência;
+
+5.1.2. comunicar à Contratada, por escrito, sobre imperfeições, falhas ou irregularidades verificadas no objeto fornecido, para que seja substituído, reparado ou corrigido;
+5.1.3, acompanhar e fiscalizar o cumprimento das obrigações da Contratada, através de comissão servidor especialmente designado;
+
+5.14, efetuar o pagamento à Contratada no valor correspondente ao fornecimento do objeto, no prazo e forma estabelecidos no Edital e seus anexos;
+
+5.2. A Administração não responderá por quaisquer compromissos assumidos pela Contratada com terceiros, ainda que vinculados à execução do presente Termo de
+
+Contrato, bem como por qualquer dano causado a terceiros em decorrência de ato da Contratada, de seus empregados, prepostos ou subordinados.
+5.3. Constituem atividades do DEIDT/SVS/MS:
+5.4. Indicar o (s) servidor (es) responsável (is) como fiscal (is) do contrato;
+5.4.1. Constituem atividades do Fiscal de Contrato:
+a) Fornecer todos os meios legais para o ideal desempenho das atividades contratadas;
+b) Notificar a CONTRATADA quanto a qualquer fato que gere o descumprimento das dláusulas contratuais;
+c) Controlar a vigência dos contratos;
+
+d) Encaminhar à Coordenação- Geral de Execução Orçamentária e Financeira - CGORF/DLOG a (s) nota (s) fiscal (5), fatura (s), ordem (5) de serviço (s) devidamente
+atestadas, caso estejam estritamente em conformidade com os descritivos contratuais;
+
+e) Acompanhar e emitir Parecer Técnico sobre o cumprimento pela CONTRATADA das obrigações assumidas;
+f) Emitir relatório final de execução do contrato de sua responsabilidade.
+5.5. Constituem atividades da área demandante:
+a) Acompanhar e controlar o estoque, principalmente quanto à quantidade e à qualidade do produto previsto no objeto do contrato administrativo.
+5.6. Encaminhar ao CONTRATADO, com antecedência mínima de 60 (sessenta) dias, as solicitações sobre possíveis alterações do cronograma de entrega;
+
+5.7. Responder, em até 05 (cinco) dias úteis, as solicitações de reprogramação do cronograma de entrega, encaminhados pelo CONTRATADO. Ressalta-se que esta resposta
+não exime a CONTRATADA de possíveis penalidades:
+2.8. Responder, em até 03 (três) dias úteis as solicitações de agendamento para a entrega dos imunobiológicos, informando a data disponível para recebimento do objeto no
+local indicado neste Termo de Referência.
+
+6. OBRIGAÇÕES DA CONTRATADA
+
+6.1. A Contratada deve cumprir todas as obrigações constantes no contrato, seus anexos e sua proposta, assumindo como exclusivamente seus os riscos e as despesas
+decorrentes da boa e perfeita execução do objeto e, ainda:
+
+6.1.1. Dar preferência à CONTRATANTE na aquisição de doses de vacina contra a covid-19 produzidas pela contratada em território nacional ou importadas pela CONTRATADA,
+enquanto durar a pandemia.
+
+6.1.1.1. A CONTRATANTE poderá autorizar, em caráter excepcional, a comercialização pela CONTRATADA de doses da vacina contra a covid -19, devendo para tanto ser notificada
+
+ 
+
+formalmente com antecedência mínima de 20 dias da data prevista para contratação junto a outro ente, sobre a intenção de venda com a devida justificativa.
+
+6.112 A CONTRATANTE deverá se manifestar sobre a autorização no prazo máximo de 05 dias, a contar da data do protocolo da notificação formal
+
+ 
+
+6.12. Efetuar a entrega do objeto em perfeitas condições, conforme especificações, prazo e local constantes no Termo de Referência e seus anexos, acompanhado da
+respectiva nota fiscal, na qual constarão as indicações referentes a: os números dos lotes, as quantidades por lote, suas fabricações, validades, números de empenho, além do nome e
+endereço do local de entrega;
+
+ 
+
+6.1. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo com os artigos 12, 13 e 17 a 27, do Código de Defesa do Consumidor (Lei nº 8.078, de 1990);
+6.14. Substituir, reparar ou corrigir, às suas expensas o objeto com avarias ou defeitos;
+
+6.15. Comunicar à Contratante, no prazo máximo de 24 (vinte e quatro) horas que antecede a data da entrega, os motivos que impossibilitem o cumprimento do prazo
+previsto, com a devida comprovação;
+
+6.16. Manter, durante a execução do contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas na Dispensa de
+Licitação;
+
+6.17. Indicar preposto para representá-la durante a execução do contrato.
+
+6.18. Encaminhar ao CONTRATANTE, com antecedência mínima de 30 (trinta) dias, as solicitações sobre possíveis alterações do cronograma de entrega;
+
+6.19. Observar rigorosamente as normas técnicas em vigor, as especificações e demais documentos fornecidos pelo CONTRATANTE;
+
+6.110. Responsabilizar-se por todas as despesas decorrentes da produção, fornecimento e entrega do imunobiológico, inclusive aquelas de embalagens e eventuais perdas
+
+e/ou danos e de seguro;
+
+6.111. Responsabilizar-se pelo recolhimento dos tributos que venham incidir sobre o imunobiológico fornecido, reservando à CONTRATANTE o direito de deduzir dos valores a
+serem pagos à CONTRATADA, as quantias correspondentes aos tributos eventualmente não recolhidos;
+
+6.112. Responder integralmente por perdas e danos que vier a causar à CONTRATANTE ou a terceiros em razão de ação ou omissão dolosa ou culposa, sua ou dos seus
+propostos, independente de outras cominações contratuais ou legais a que estiver sujeito;
+
+6.113. Responsabilizar-se pelos ônus resultantes de quaisquer ações, demandas, custos e despesas decorrentes de danos, ocorridos por culpa sua ou de qualquer de seus
+empregados ou prepostos, obrigando-se, outrossim, por quaisquer responsabilidades decorrentes de ações judiciais movidas por terceiros, que lhe venham a ser exigidas por força da
+ei, ligadas ao cumprimento deste Termo de Referência;
+
+6.1.14. Prestar esclarecimentos à CONTRATANTE sobre eventuais atos ou fatos noticiados que a envolvam, quando solicitados;
+6.115. Entregar o imunobiológico, na data da entrega, com o prazo de validade de, pelo menos, 65% (sessenta e cinco por cento) do seu período total;
+6.116. Na hipótese do não cumprimento do limite do subitem acima preconizado o Departamento de Imunização e Doenças Transmissíveis (DEIDT) deverá ser consultado
+
+prévia e oficialmente para manifestação técnica acerca da viabilidade ou não do recebimento do imunobiológico;
+
+6.117. O transporte dos imunobiológicos deverá ser feito por transportadora que detenha autorização de funcionamento emitida pela ANVISA e deverá obedecer a critérios de
+modo a não afetar a identidade, qualidade, integridade e, quando for o caso, esterilidade dos mesmos.
+
+6.118. Em se tratando de produtos termolábeis, os mesmos deverão ser acondicionados em caixas térmicas (isopor ou equivalente) e, no caso de produtos fotossensíveis, estes
+deverão ser acondicionados em caixas que evitem a entrada de luminosidade;
+
+6.119. Apresentar quaisquer atualizações que venham a ocorrer no Certificado de Boas Práticas de Fabricação de Medicamentos ou na Declaração de autoridade sanitária,
+competente no país onde será fabricado o produto, atestando que a contratada cumpre as Boas Práticas de Fabricação de Medicamentos (GMP/BPF), sendo certo que o produto
+entregue à Administração deve ter sido produzido obrigatoriamente, como condição de aceitação, dentro do período de validade do certificado ou declaração (ou subsequentes
+atualizações);
+
+6.120. Facultar ao CONTRATANTE amplo acesso as instalações da CONTRATADA, em horário comercial ou outro definido de comum acordo, para fins de verificação quanto a
+fabricação ao armazenamento e ao controle de qualidade do produto, objeto da presente aquisição, a qualquer tempo;
+
+6.121. Apresentar o imunobiológico com a embalagem em perfeito estado, nas condições de temperatura exigidas no rótulo, sendo que todos os dados (rótulo e bula) devem
+estar em língua portuguesa. Deverão, ainda, estar separados por lotes e prazos de validade, com seus respectivos quantitativos impressos na nota fiscal;
+
+6.122. Atender, em qualquer tempo, as solicitações para fornecimento de amostras, formuladas pelo CONTRATANTE, para análise da qualidade do imunobiológico. As amostras
+eventualmente solicitadas serão contabilizadas como parte do quantitativo contratado;
+
+6.123. Respeitar os preços máximos estabelecidos nas normas de regência de contratações públicas federais;
+
+6.1231. O descumprimento das regras supramencionadas pode ensejar a fiscalização do Tribunal de Contas da União e, após o devido processo legal, gerar as seguintes
+
+consequências: assinatura de prazo para a adoção das medidas necessárias ao exato cumprimento da lei, nos termos do art. 71, inciso IX, da Constituição; ou condenação dos agentes
+públicos responsáveis e da empresa contratada ao pagamento dos prejuízos ao erário, caso verificada a ocorrência de superfaturamento por sobrepreço na execução do contrato.
+
+7. DA SUBCONTRATAÇÃO
+
+71. Não será admitida a subcontratação do objeto licitatório.
+8. DA ALTERAÇÃO SUBJETIVA
+81. É admissível a fusão, cisão ou incorporação da contratada com/em outra pessoa jurídica, desde que sejam observados pela nova pessoa jurídica todos os requisitos de
+
+habilitação exigidos na licitação original; sejam mantidas as demais cláusulas e condições do contrato; não haja prejuízo à execução do objeto pactuado e haja a anuência expressa da
+Administração à continuidade do contrato.
+
+9. CRITÉRIO DE MEDIÇÃO E PAGAMENTO (REDAÇÃO DA MP Nº 1.026/2021)
+
+91. Nos termos do art. 67 Lei nº 8.666, de 1993, será designado representante para acompanhar e fiscalizar a entrega dos bens, anotando em registro próprio todas as
+ocorrências relacionadas com a execução e determinando o que for necessário à regularização de falhas ou defeitos observados.
+
+9.11. O recebimento de material de valor superior a R$ 176.000,00 (cento e setenta e seis mil reais) será confiado a uma comissão de, no mínimo, 3 (três) membros,
+designados pela autoridade competente.
+
+92. A CONTRATANTE indicará um fiscal de contrato ou comissão, que será responsável pelo acompanhamento e fiscalização da execução, conforme Portaria GM nº 78/2006
+e Circular M$/SE/GAB nº 40, emitida pelo Gabinete da Secretaria Executiva, assim como artigos. 67 e 73 da Leinº 8.666/1993.
+
+93. O Fiscal/comissão do contrato deverá manter permanente vigilância sobre as obrigações da CONTRATADA, definidas nos dispositivos contratuais e condições do Termo
+de Referência e, fundamentalmente, quanto à inarredável observância aos princípios e preceitos consubstanciados na Lei nº 8.666/93, com suas alterações.
+
+34. A fiscalização de que trata este item não exclui nem reduz a responsabilidade da Contratada, inclusive perante terceiros, por qualquer irregularidade, ainda que
+resultante de imperfeições técnicas ou vícios redibitórios, e, na ocorrência desta, não implica em corresponsabilidade da Administração ou de seus agentes e prepostos, de
+conformidade com o art. 70 da Lei nº 8.666, de 1993.
+9.5. O representante da Administração anotará em registro próprio todas as ocorrências relacionadas com a execução do contrato, indicando dia, mês e ano, bem como o
+nome dos funcionários eventualmente envolvidos, determinando o que for necessário à regularização das falhas ou defeitos observados e encaminhando os apontamentos à
+autoridade competente para as providências cabíveis.
+
+9.6. DO PAGAMENTO
+
+9.61. O pagamento só será feito uma vez concluída a análise e a eventual aprovação integral pela Anvisa, para uso emergencial e temporário e/ou registro definitivo.
+
+92.62. O pagamento será realizado no prazo máximo de até 30 dias, contados a partir do recebimento da Nota Fiscal ou Fatura, por meio de ordem bancária, para crédito em
+banco, agência e conta corrente indicados pelo contratado.
+
+263. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso Il do art. 24 da Lei 8.666, de 1993, deverão ser efetuados no prazo
+de até 5 (cinco) dias úteis, contados da data da apresentação da Nota Fiscal, nos termos do art. 5º, 5 3º, da Lei nº 8.666, de 1993.
+
+97. Considera-se ocorrido o recebimento da nota fiscal ou fatura no momento em que o órgão contratante atestar a execução do objeto do contrato.
+
+98. A Nota Fiscal ou Fatura deverá ser obrigatoriamente acompanhada da comprovação da regularidade fiscal, constatada por meio de consulta on-line ao SICAF ou, na
+
+impossibilidade de acesso ao referido Sistema, mediante consulta aos sítios eletrônicos oficiais ou à documentação mencionada no art. 29 da Leinº 8.666, de 1993.
+
+981. Constatando-se, junto ao SICAF, a situação de irregularidade do fornecedor contratado, deverão ser tomadas as providências previstas no do art. 31 da Instrução
+Normativa nº 3, de 26 de abril de 2018.
+
+99, Havendo erro na apresentação da Nota Fiscal ou dos documentos pertinentes à contratação, ou, ainda, circunstância que impeça a liquidação da despesa, como, por
+exemplo, obrigação financeira pendente, decorrente de penalidade imposta ou inadimplência, o pagamento ficará sobrestado até que a Contratada providencie as medidas
+saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a comprovação da regularização da situação, não acarretando qualquer ônus para a Contratante.
+
+910. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+91. Antes de cada pagamento à contratada, será realizada consulta ao SICAF para verificar a manutenção das condições de habilitação exigidas no edital.
+912. Constatando-se, junto ao SICAF, a situação de irregularidade da contratada, será providenciada sua notificação, por escrito, para que, no prazo de 5 (cinco) dias úteis,
+
+regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual período, a critério da contratante.
+
+913. Previamente à emissão de nota de empenho e a cada pagamento, a Administração deverá realizar consulta ao SICAF para identificar possível suspensão temporária de
+participação em licitação, no âmbito do órgão ou entidade, proibição de contratar com o Poder Público, bem como ocorrências impeditivas indiretas, observado o disposto no art. 29,
+da Instrução Normativa nº 3, de 26 de abril de 2018.
+
+914. Não havendo regularização ou sendo a defesa considerada improcedente, a contratante deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade
+
+fiscal quanto à inadimplência da contratada, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o
+recebimento de seus créditos.
+
+915. Persistindo a irregularidade, a contratante deverá adotar as medidas necessárias à rescisão contratual nos autos do processo administrativo correspondente, assegurada
+à contratada a ampla defesa.
+
+916. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela rescisão do contrato, caso a contratada não regularize sua
+situação junto ao SICAF.
+
+9161. Será rescindido o contrato em execução com a contratada inadimplente no SICAF, salvo por motivo de economicidade, segurança nacional ou outro de interesse público
+de alta relevância, devidamente justificado, em qualquer caso, pela máxima autoridade da contratante.
+
+947. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+
+saza. A Contratada regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123, de 2006, não sofrerá a retenção tributária quanto aos impostos e
+
+contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao
+tratamento tributário favorecido previsto na referida Lei Complementar.
+
+sas. Nos casos de eventuais atrasos de pagamento, desde que a Contratada não tenha concorrido, de alguma forma, para tanto, fica convencionado que a taxa de
+compensação financeira devida pela Contratante, entre a data do vencimento e o efetivo adimplemento da parcela, é calculada mediante a aplicação da seguinte fórmula:
+
+EM =1x Nx VP sendo:
+EM = Encargos moratórios;
+
+N= Número de dias entre a data prevista para o pagamento e a do efetivo pagamento;
+VP =Valor da parcela a ser paga.
+
+Índice de compensação financeira = 0,00016438, assim apurado:
+
+ 
+
+Is(1X) 1=(6/100) 1= 0,00016438
+365 TX= Percentual da taxa anual = 6%
+
+DO REAJUSTE
+
+Os preços são fixos eirreajustáveis no prazo de um ano contado da data limite para a apresentação das propostas.
+
+ 
+
+- Dentro do prazo de vigência do contrato e mediante solicitação da contratada, os preços contratados poderão sofrer reajuste após o interregno de um ano, aplicando-se
+o índice IPCA/IBGE exclusivamente para as obrigações iniciadas e concluídas após a ocorrência da anualidade.
+
+10.2. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos financeiros do último reajuste.
+
+103. No caso de atraso ou não divulgação do índice de reajustamento, o CONTRATANTE pagará à CONTRATADA a importância calculada pela última variação conhecida,
+liquidando a diferença correspondente tão logo seja divulgado o índice definitivo. Fica a CONTRATADA obrigada a apresentar memória de cálculo referente ao reajustamento de preços
+do valor remanescente, sempre que este ocorrer.
+
+104. Nas aferições finais, o índice utilizado para reajuste será, obrigatoriamente, o definitivo.
+105. Caso o índice estabelecido para reajustamento venha a ser extinto ou de qualquer forma não possa mais ser utilizado, será adotado, em substituição, o que vier a ser
+determinado pela legislação então em vigor.
+
+10.6. Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para reajustamento do preço do valor remanescente, por meio de
+termo aditivo.
+
+10.7. O reajuste será realizado por apostilamento.
+
+11. DA GARANTIA DE EXECUÇÃO
+
+: A CONTRATADA, no prazo de 10 dias após a assinatura do Termo de Contrato ou aceite do instrumento equivalente, prestará garantia no valor correspondente a 5% do
+valor do Contrato, que será liberada de acordo com as condições previstas neste Edital, conforme disposto no art. 56 da Lei nº 8.666, de 1993, desde que cumpridas as obrigações
+contratuais.
+
+ 
+
+112. Caberá ao contratado optar por uma das seguintes modalidades de garantia:
+
+1 caução em dinheiro ou em títulos da dívida pública, devendo estes ter sido emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de
+custódia autorizado pelo Banco Central do Brasil e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Fazenda;
+
+ 
+
+seguro-garantia;
+
+fiança bancária.
+
+ 
+
+A garantia em dinheiro deverá ser efetuada em favor da Contratante, na Caixa Econômica Federal, com correção monetária, em favor do contratante.
+
+ 
+
+No caso de alteração do valor do contrato, ou prorrogação de sua vigência, a garantia deverá ser readequada ou renovada nas mesmas condições.
+11.5. Seo valor da garantia for utilizado total ou parcialmente em pagamento de qualquer obrigação, a Contratada obriga-se a fazer a respectiva reposição no prazo máximo
+de 10 dias úteis, contados da data em que for notificada.
+
+ 
+
+ 
+
+116. A Contratante executará a garantia na forma prevista na legislação que rege a matéria.
+117. A garantia prestada pelo contratado será liberada ou restituída após a execução do contrato e, quando em dinheiro, atualizada monetariamente. (artigo 56, 54º da Lei nº
+8666/93).
+
+12. DAS SANÇÕES ADMINISTRATIVAS
+
+121. Comete infração administrativa nos termos da Lei nº 8,666/93, a Contratada que:
+
+1211. Inexecutar total ou parcialmente qualquer das obrigações assumidas em decorrência da contratação;
+
+1212. Ensejar o retardamento da execução do objeto;
+
+1213. Falhar ou fraudar na execução do contrato;
+
+12.14. Comportar-se de modo inidôneo;
+
+1215. Cometer fraude fiscal;
+
+12.2. Pela inexecução total ou parcial do objeto deste contrato, a Administração pode aplicar à CONTRATADA as seguintes sanções:
+
+1221. Advertência, nos casos de atraso injustificado, de até 45 (quarenta e cinco) dias, uma única vez;
+
+1222. Advertência, no caso de descumprimento do prazo de 60 (sessenta) dias de antecedência, para solicitação de alteração do cronograma de entrega, uma única vez;
+1223. Multa de mora correspondente a 0,1% do valor da respectiva parcela atualizada do contrato, por dia de atraso injustificado, até o limite de 3% (três por cento), nos
+seguintes casos:
+
+12.24. Atraso injustificado, no cumprimento de qualquer das parcelas, superior a 45 (quarenta e cinco) dias;
+
+1225. Reincidência nas hipóteses que geram advertência.
+
+12.26. Multa compensatória correspondente a 1% (um por cento) do valor total do Contrato, no caso de inexecução total do objeto
+
+12.27. Fica configurada a inexecução contratual após o atraso injustificado superior a 90 (noventa) dias, contados a partir do fim do prazo estipulado no subitem 12.
+
+1228. em caso de inexecução parcial, a multa compensatória, no mesmo percentual do subitem acima, será aplicada de forma proporcional à obrigação inadimplida;
+
+1229. suspensão de licitar e impedimento de contratar com o órgão, entidade ou unidade administrativa pela qual a Administração Pública opera e atua concretamente, pelo
+
+prazo de até dois anos;
+12210. impedimento de licitar e contratar com órgãos e entidades da União com o consequente descredenciamento no SICAF pelo prazo de até cinco anos;
+
+12.2.10.1. A Sanção de impedimento de licitar e contratar prevista neste subitem também é aplicável em quaisquer das hipóteses previstas como infração administrativa no
+subitem 12.1 deste Termo de Referência.
+
+12211. Declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja
+promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que o contratado ressarcir a Administração pelos prejuízos resultantes e
+após decorrido o prazo de 02 (dois) anos.
+
+123. As sanções previstas nos subitens 12.2.1, 12.2.6, 12.2.7 e 12.2.8 deste item, poderão ser aplicadas à CONTRATADA juntamente com as de multa, descontando-a dos
+pagamentos a serem efetuados.
+
+12.4. Também ficam sujeitas às penalidades do art. 87, le IV da Lei nº 8.666, de 1993, as empresas ou profissionais que:
+
+1241. Tenham sofrido condenação definitiva por praticar, por meio dolosos, fraude fiscal no recolhimento de quaisquer tributos;
+
+1242. Tenham praticado atos ilícitos visando a frustrar os objetivos da licitação;
+
+12.43. Demonstrem não possuir idoneidade para contratar com a Administração em virtude de atos ilícitos praticados.
+
+125. A aplicação de qualquer das penalidades previstas realizar-se-á em processo administrativo que assegurará o contraditório e a ampla defesa à Contratada, observando-
+
+se o procedimento previsto na Lei nº 8.666, de 1993, e subsidiariamente a Lei nº 9.784, de 1999.
+
+12.6. As multas devidas e/ou prejuízos causados à Contratante serão deduzidos dos valores a serem pagos, ou recolhidos em favor da União, ou deduzidos da garantia, ou
+ainda, quando for o caso, serão inscritos na Dívida Ativa da União e cobrados judicialmente.
+
+12.61. Caso a Contratante determine, a multa deverá ser recolhida no prazo máximo de 15 (quinze) dias, a contar da data do recebimento da comunicação enviada pela
+autoridade competente.
+
+127. Caso o valor da multa não seja suficiente para cobrir os prejuízos causados pela conduta do licitante, a União ou Entidade poderá cobrar o valor remanescente
+judicialmente, conforme artigo 419 do Código Civil.
+
+12.8. A autoridade competente, na aplicação das sanções, levará em consideração a gravidade da conduta do infrator, o caráter educativo da pena, bem como o dano causado
+à Administração, observado o princípio da proporcionalidade.
+
+12.9. Se, durante o processo de aplicação de penalidade, se houver indícios de prática de infração administrativa tipificada pela Lei nº 12.846, de 1º de agosto de 2013, como
+ato lesivo à administração pública nacional ou estrangeira, cópias do processo administrativo necessárias à apuração da responsabilidade da empresa deverão ser remetidas à
+autoridade competente, com despacho fundamentado, para ciência e decisão sobre a eventual instauração de investigação preliminar ou Processo Administrativo de
+Responsabilização - PAR.
+
+12.10. A apuração e o julgamento das demais infrações administrativas não consideradas como ato lesivo à Administração Pública nacional ou estrangeira nos termos da Lei nº
+12.846, de 1º de agosto de 2013, seguirão seu rito normal na unidade administrativa.
+
+12.11. O processamento do PAR não interfere no seguimento regular dos processos administrativos específicos para apuração da ocorrência de danos e prejuízos à
+Administração Pública Federal resultantes de ato lesivo cometido por pessoa jurídica, com ou sem a participação de agente público.
+
+12.12. As penalidades serão obrigatoriamente registradas no SICAF.
+
+13. DA SUSPENSÃO
+
+13.1. Caso a Anvisa suspenda a produção e o uso da vacina, automaticamente ficarão suspensas a execução e as obrigações previstas no presente instrumento.
+
+14, DA RESCISÃO
+
+14.1. O presente Termo de Contrato poderá ser rescindido:
+
+14.11. Por ato unilateral e escrito da Administração, nas situações previstas nos incisos | a XIl e XVII do art. 78 da Lei nº 8.656, de 1993, e com as consequências indicadas no
+
+art. 80 da mesma Lei, sem prejuízo da aplicação das sanções previstas no Termo de Referência, anexo ao Edital;
+
+ 
+
+14.12. Amigavelmente, nos termos do art. 79, inciso II, da Lei nº 8.666, de 199;
+
+14.13. Caso a Contratada não consiga a autorização para uso emergencial junto à Anvisa, nesta hipótese, sem qualquer ônus para a Contratante, não sendo devido, sequer, o
+pagamento pelas parcelas eventualmente entregues;
+
+14.14. Caso, após a autorização para uso emergencial e antes da completa execução do contrato, a ANVISA não registre o produto e/ou revogue a autorização para uso
+emergencial, nessa hipótese, sem ônus para a Contratante em relação às doses ainda não entregues. Quanto às doses já entregues e não administradas, a Contratante será ressarcida
+pelo valor pago.
+
+14.15. Por perda da autorização regulatória expedida pela ANVISA;
+ 
+
+14.1.6. Pela falta de eficácia da VACINA DE VETORES COMBINADOS (VACINA SPUTNIK V) contra variantes que se tornem prevalentes em território nacional, em grau tal que
+impeça se atingir a efetiva imunidade de rebanho por vacinação na população brasileira.
+
+14.2. Os casos de rescisão contratual serão formalmente motivados, assegurando-se à CONTRATADA o direito à prévia e ampla defesa.
+14,3. A CONTRATADA reconhece os direitos da CONTRATANTE em caso de rescisão administrativa prevista no art. 77 da Lei nº 8.666, de 1993.
+14.4, O termo de rescisão será precedido de Relatório indicativo dos seguintes aspectos, conforme o caso:
+
+Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+
+Relação dos pagamentos já efetuados e ainda devidos;
+
+ 
+
+Indenizações e multas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15. ESTIMATIVA DE PREÇOS (REDAÇÃO DA MP Nº 1.026/2021)
+151. O custo da contratação será de R$ 693.600.000,00 (seiscentos e noventa e três milhões e seiscentos mil reais), conforme preço informado pela União Química no Ofício
+PROPOSTA UNIÃO QUÍMICA (0019075560)
+Item do TR Produto Valor unitário (R$) Quantidade Total (R$)
+1 VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), 69,36 5.000.000 346.800.000
+INJETÁVEL - COMPONENTE |
+VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2),
+2 INJETÁVES. = COMPONENTEI 69,36 5.000.000 346.800.000
+Total 693.600.000,00
+
+16. CRITÉRIOS DE SUSTENTABILIDADE AMBIENTAL
+16.1. Nos termos do Decreto nº 2.783, de 1998 e da Resolução CONAMA nº 267, de 14/11/2000 é vedada a oferta de produto ou equipamento que contenha ou faça uso de
+
+qualquer das Substâncias que Destroem a Camada de Ozônio SDO abrangidas pelo Protocolo de Montreal, notadamente CFCs, Halons, CTC e tricloroetano, à exceção dos usos
+essenciais permitidos pelo Protocolo de Montreal, conforme artigo 1º, parágrafo único, do Decreto nº. 783, de 1998, e o artigo 4º da Resolução CONAMA nº 267, de 14/11/2000.
+
+17. ADEQUAÇÃO ORÇAMENTÁRIA (REDAÇÃO DA MP Nº 1.026/2021)
+
+As despesas decorrentes desta contratação estão programadas em dotação orçamentária própria, prevista no orçamento da União, para o exercício de 2021, na
+classificação abaixo:
+
+ 
+
+* Gestão/Unidade: 00001/250005
+
+* Fonte: Decreto nº 10.595 de 07/01/2021.
+
++ Programa de Trabalho: 10.122.5018.21C0.6500
+* Elemento de Despesas: 33.90.30.
+
+172. No exercício seguinte, se for o caso, as despesas correrão à conta dos recursos próprios para atender às despesas da mesma natureza, cuja alocação será feita no início
+de cada exercício financeiro, recursos já destacados e aprovados por Medida Provisória no exercício de 2020.
+
+ 
+
+Documento assinado eletronicamente por Thiago Fernandes da Costa, Assessor(a) Técnico(a), em 22/02/2021, às 13:19, conforme horário oficial de Brasília, com fundamento no art. 6º,
+512, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+    
+
+   
+
+sei
+
+ 
+
+33 | Documento assinado eletronicamente por Lauricio Monteiro Cruz, Diretor do Departamento de Imunização e Doenças Transmissíveis, em 22/02/2021, às
+oficial de Brasília, com fundamento no art. 62, 5 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.175293/2020-61 SEI nº 0019163834
+
+Departamento de Imunização e Doenças Transmissíveis - DEIDT
+SRTV 702, Via WS Norte - Bairro Asa Norte, Brasilia/DF, CEP 70723-040
+site - saude gov br
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+Departamento de Imunização e Doenças Transmissíveis
+
+TERMO DE REFERÊNCIA
+
+ 
+
+NATUREZA DA DEMANDA: Insumo Estratégico para Saúde
+
+ELEMENTO DE DESPESA: Material de Consumo
+
+ 
+
+CRÉDITO ORÇAMI Te
+
+ 
+
+0.122.5018.21C0.6500
+FORMA DE PROCEDIMENTO: Contratação Direta
+TIPO DE CONTRATAÇÃO: Dispensa
+
+JUSTIFICATIVA: Dispensa de licitação com findamento no art.2º, inciso I, da Medida Provisória nº 1.026/2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 DECLARAÇÃO DO OBJETO (REDAÇÃO DA MP Nº 1.026/2021)
+11. Aquisição de Vacina Covaxin/8BV152 contra a Covid-19, conforme condições, quantidades e exigências estabelecidas neste instrumento:
+
+Item Descrição do Item (Objeto) CATMAT Unidade de Medida Quantidade
+
+1 VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL BRO475096 Doses 20.000.000
+12. Descrição Detalhada do Objeto:
+ITEM 1. VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL
+
+2. FUNDAMENTAÇÃO SIMPLIFICADA DA CONTRATAÇÃO (REDAÇÃO DA MP Nº 1.026/2021)
+21. A covid-19 é a maior pandemia da história recente da humanidade já tendo ocasionado mais de 86 milhões de casos confirmados no mundo e cerca de 1,9 milhões de
+
+óbitos até o dia 06/01/2020 (1). No Brasil já foram confirmados cerca de 7,8 milhões de casos e 198 mil óbitos (2). Para mitigar os impactos da covid-19 no Brasil foram implementadas
+uma série de medidas não farmacológicas que, a despeito de terem sido eficazes em retardar o avanço da epidemia no país, estão associadas a elevados custos sociais e econômicos e
+ainda não conseguiram interromper a circulação do vírus no país (3). De fato, a partir da semana epidemiológica 46, o país vem identificando uma nova elevação no número de casos é
+óbitos ocasionados pela covid-19, com alguns estados e municípios voltando a implementar medidas não farmacológicas agressivas para o combate à doença. Dessa forma entende-se
+que apenas uma vacina eficaz será capaz de permitir uma retomada completa das atividades econômicas e evitar centenas de milhares a milhões de óbitos no país.
+
+22. DA VACINA BBV152 DA EMPRESA BHARAT BIOTECH INTERNATIONAL LIMITED
+
+221. Trata-se de uma vacina contendo vírus inativado SARS-CoV-2 com o adjuvante Algel-IMDG, um adjuvante agonista de TLR7 e TLR8, capaz de induzir a formação de
+resposta imune celular.
+
+222. A presente vacina ainda não tem dados de eficácia publicado, o único artigo identificado referente a vacina até o presente momento são os resultados da fase 1. Trata-se
+de um estudo multicêntrico realizado na índia com 375 voluntários saudáveis de 18 a 55 anos. Foram avaliados 3 formulações diferentes da vacina, com 100 participantes em cada
+braço do estudo, e 75 participantes foram incluídos no grupo controle. Não foram detectados eventos adversos graves nesse estudo, os dados de imunogenicidade demonstraram
+respostas de anticorpos em 82,8 a 91,9% dos voluntários. Ressalta-se que a vacina foi capaz de induzir anticorpos contra a proteína S bem como o nucleocapsídeo. Foi identificada
+ainda evidências de resposta imune celular CD4+ e CD8+ no grupo que utilizou a formulação com o adjuvante Algel-IMDG.
+
+223, O estudo de fase 3 da vacina está registrado na plataforma ClinicalTrials.gov sob o número NCT04641481. Trata-se de um estudo multicêntrico para avaliação de eficácia
+e segurança incluindo indivíduos de 18 anos ou mais com estimativa de inclusão de 25.800 participantes.
+
+   
+
+224, A plataforma utilizada (vírus inativado) é uma plataforma clássica na vacinologia com amplo histórico de uso no Brasil e no mundo. Já se tem uma vacina com plataforma
+semelhante que demonstrou eficácia favorável no Brasil e está em uso na presente campanha de vacinação (Coronavac). Esta plataforma é usualmente muito segura, com baixos riscos
+de eventos adversos. Para a covid-19 traz a vantagem de conter o vírus SARS-COV-2 na sua totalidade, o que permite a indução de resposta imune a múltiplos antígenos virais, em tese
+reduzindo o risco de ser impactada por mutações virais.
+
+ 
+
+225. O adjuvante proposto, no entanto, é uma tecnologia inovadora, com pouco histórico de uso. Em tese traz vantagens no que diz respeito a capacidade de indução de
+resposta imune celular, o que poderia aumentar a eficácia da vacina e reduzir o risco de fenômenos de exarcebação de doença. No entanto tal teoria precisaria ser demonstrada na
+prática com o estudo de fase 3.
+
+23. AVALIAÇÃO DE EFICÁCIA E SEGURANÇA
+
+231. Os dados de eficácia e segurança das vacinas covid-19 estão sendo avaliados na maioria das vezes com intervalos curtos de acompanhamento (poucos meses após a
+vacinação). Desta forma ainda é desconhecida a eficácia e segurança a longo prazo dessas vacinas. Ainda não se sabe qual impacto que as novas variantes do SARS-CoV-2 poderão
+trazer no que diz respeito a redução da eficácia destas vacinas. É possível que a eficácia reduza a longo prazo bem como com o surgimento de novas variantes.
+
+232. Ressalta-se ainda que a presente vacina não teve dados de eficácia publicados e não foi aprovada para uso pela Anvisa. No entanto, considerando-se o atual cenário
+pandêmico e a necessidade de aceleração das ações de vacinação no país entende-se que o perfil de risco benefício é ainda extremamente favorável, com elevada probabilidade de
+impacto positivo na saúde da população e mitigação dos efeitos da pandemia.
+
+2.4. DA NECESSIDADE DE AQUISIÇÃO
+
+241. Conforme descrito no PLANO NACIONAL DE OPERACIONALIZAÇÃO DA VACINAÇÃO CONTRA A COVID-19 (PNO), considerando a transmissibilidade da covid-19 (RO entre
+2,5 e 3), cerca de 60 a 70% da população precisaria estar imune (assumindo uma população com interação homogênea) para interromper a circulação do vírus. Desta forma seria
+necessária a vacinação de 70% ou mais da população (a depender da efetividade da vacina em prevenir a transmissibilidade) para eliminação da doença. Portanto, em um momento
+inicial, onde não existe ampla disponibilidade da vacina no mercado mundial, o objetivo principal da vacinação passa a ser focado na redução da morbimortalidade causada pela covid-
+19, bem como a manutenção do funcionamento da força de trabalho dos serviços de saúde e a manutenção do funcionamento dos serviços essenciais. Desta forma optou-se pela
+vacinação dos grupos prioritários elencados no PNO, o que demandará cerca de 162 milhões de doses de vacina, considerando um esquema com 2 doses e um percentual de perdas
+estimados em cerca de 5%. Com os acordos já firmados pelo Ministério da Saúde, foram entregues cerca de 11 milhões de doses até o momento. Considerando a imprevisibilidade do
+cronograma de entrega por parte das farmacêuticas já contratadas e a escassez de doses fornecidas, faz-se necessário procurar o fornecimento com outros fornecedores, visando
+acelerar o processo de vacinação no país, em especial num cenário com elevação no número de casos em diversas Unidades da Federação. Nesse cenário a aquisição de 20 milhões de
+doses da vacina BBV152 traz elevada probabilidade de acelerar a presente campanha de vacinação e trazer impactos positivos para a saúde da população brasileira.
+
+25. JUSTIFICATIVA DA DISPENSA DE LICITAÇÃO COM FULCRO O ART.2º, INCISO |, DA MEDIDA PROVISÓRIA Nº 1026/2021.
+
+251. A MP nº 1.026/2021 foi publicada em 06 de janeiro de 2021 e dispõe sobre as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de
+logística, tecnologia da informação e comunicação, comunicação social e publicitária e treinamentos destinados à vacinação contra acovid-19 e sobre o Plano Nacional de
+Operacionalização da Vacinação contra a Covid-19.
+
+ 
+
+O art.28, inciso |, da Medida Provisória nº 1.026/2021:
+Art. 2º Fica a administração pública direta e indireta autorizada à celebrar contratos ou outros instrumentos congêneres, com dispensa de licitação, para:
+I-a aquisição de vacinas e de insumos destinados à vacinação contra acovid-19, inclusive antes do registro sanitário ou da autorização temporária de uso emergencial;
+
+ 
+ 
+
+2.5.2. Já o art .3º traz a seguinte redação:
+Art. 3º Nas dispensas de licitação decorrentes do disposto nesta Medida Provisória, presumem-se comprovadas:
+1-a ocorrência de situação de emergência em saúde pública de importância nacional decorrente do coranavirus (SARS-CoV-2); e
+l-a necessidade de pronto atendimento à situação de emergência em saúde pública de importância nacional decorrente do coronavírus (SARS-CoV-2).
+
+25.3. Dessa forma, considerando tratar-se de aquisição de vacina contra a COVID-18, de pronto atendimento à situação de emergência em saúde pública, entende-se como
+atendidos os requisitos exigidos pela normativa.
+
+3. DESCRIÇÃO RESUMIDA DA SOLUÇÃO (REDAÇÃO DA MP Nº 1.026/2021)
+
+3.1. Aquisição da VACINA ABBV 152 DA EMPRESA BHARAT BIOTECH INTERNATIONAL LIMITED:
+
+3.11. Apresentações: Dose única (0.5 ml); 10 doses (5 ml); e 20 doses (10 ml).
+
+3.1.2. Acondicionamento: 2 a 8 C. Não existe fotos-sensibilidade relacionada ao produto, entretanto indica-se armazena-lo protegido da luz.
+
+3.13, APRESENTAÇÃO E ESTABILIDADE: Estabilidade de até 28 dias após abertura do frasco em condições.
+
+3.2. COMPOSIÇÃO
+
+3.21. Vacina de Vírus Inativo contra Sars-Cov-2 apresentada em solução estéril para injeção intramuscular, com 6 pug de Insumo Farmacêutico Ativo em um liquido translúcido
+
+e livre de partículas pronta para administração.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ativo 1
+Vírus Inteiro Inativado (NIV 2020-770) 6ug
+Inativado T1
+Hidróxido de Alumínio em Gel 0.25 mg
+TRLRIS Agonista 15 ug
+2-Phenoxyethanol IP 25 mg
+Solução de Fosfato Tamponada qsq 0.5 ml
+3.3. INDICAÇÕES
+3.31. Vacina indicada para ativar a imunização contra o SARS-GOV-2 em indivíduos de idade igual ou superior a 18 anos;
+3.32. Contraindicações: Hipersensibilidade a algum componente da vacina; Gravidas e Lactantes; Indivíduos apresentando febre e/ou infecções graves; e Indivíduos menores
+de 18 anos.
+
+REQUISITOS DA CONTRATAÇÃO (REDAÇÃO DA MP Nº 1.026/2021)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.1. CRONOGRAMA DE ENTREGA
+VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL
+[PARCELA QUANTITATIVO [PRAZO MÁXIMO DE ENTREGA (ATÉ)
+(DOSES)
+
+Ir” [4.000.000 [20 dias após a assinatura do Contrato
+
+pr [4.000.000 [30 dias após a assinatura do Contrato
+
+pr [4.000.000 |45 dias após a assinatura do Contrato
+
+º [4.000.000 [60 dias após a assinatura do Contrato
+
+| [4.000.000 70 dias após a assinatura do Contrato
+
+[TOTAL [20.000.000
+411. A CONTRATANTE poderá anuir com a alteração do cronograma, desde que verificada a ausência de culpa da CONTRATADA em possível atraso injustificado.
+4.1.2. 4.2. A Contratante terá o direito de exclusividade na aquisição de doses da VACINA ADSORVIDA —COVID-19 (INATIVADA), CONTRA O SARS COV-2, SUSPENSÃO INJETÁVEL,
+
+produzidas ou importadas pela Contratada em todo o território nacional, enquanto durar o presente contrato."
+
+A13. Havendo necessidade de prorrogação ou antecipação no cronograma, ou do quantitativo da respectiva parcela de entrega, caberá à CONTRATADA encaminhar ofício
+com embasamento técnico e justificativas, incumbindo à CONTRATANTE se manifestar quanto ao impacto da alteração e o aceite ou não da nova proposta, de acordo com o interesse
+da Administração.
+
+ALA Os Ofícios de prorrogação dos cronogramas, ou de alteração dos quantitativos das parcelas, somente serão apreciados se encaminhados com antecedência mínima de
+30 (trinta) dias da data prevista para a entrega de cada parcela, ressalvados os casos fortuitos ou de força maior.
+
+A1s. O quantitativo final do lote a ser entregue deverá ser confirmado por ofício ao MS com a antecedência mínima de dois dias úteis antes da data de entrega, sem prejuízo
+ao exposto do item anterior;
+
+4.2. LOCAL DE ENTREGA
+
+421. As entregas das parcelas deverão ser realizadas de forma centralizada no Almoxarifado do Ministério da Saúde em São Paulo no endereço abaixo:
+
+Almoxarifado do Ministério da Saúde:
+Produtos FÁRMACO (Medicamentos /Vacinas/insumos relacionados)
+
+Endereço: Rua Jamil João Zarif, nº 684, Jardim Santa Vicência, UNIDADES 11 A 17 e 184, Município de Guarulhos —SP. CEP: 07.143-000.
+E-mail para agendamento: cglog.agendamento saude.govbr.
+
+4211. A empresa contratada deverá agendar cada entrega, entrando em contato com a área responsável através do telefone: (61) 3315-3582.
+ 
+
+Nos termos do art. 73, inciso Il, alíneas a e b da lein” 8.666/93, os imunobiológicos, objeto desta aquisição, serão recebidos da seguinte forma:
+
+4221. Os bens serão recebidos provisoriamente no prazo de 1 dia, pelo(a) responsável pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de
+sua conformidade com as especificações constantes neste Termo de Referência e na proposta.
+
+4222 Os bens poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações constantes neste Termo de Referência e na proposta, devendo ser
+substituídos no prazo de 15 dias, a contar da notificação da contratada, às suas custas, sem prejuízo da aplicação das penalidades.
+
+42. Os bens serão recebidos definitivamente no prazo de 15 dias, contados do recebimento provisório, após a verificação da qualidade pelo INCOS e quantidade do material
+e consequente aceitação mediante termo circunstanciado.
+
+42. Na hipótese de a verificação a que se refere o subitem anterior não ser procedida dentro do prazo fixado, reputar-se-á como realizada, consumando-se o recebimento
+definitivo no dia do esgotamento do prazo.
+
+42. O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da contratada pelos prejuízos resultantes da incorreta execução do contrato.
+4.3. CRITÉRIOS DE ACEITAÇÃO DO OBJETO
+
+431. Os imunobiológicos deverão ser entregues com a embalagem integra e em perfeito estado de conservação, devendo estar separado por lotes e prazos de validade, com
+os respectivos quantitativos impressos no recibo, na guia de remessa e em outro documento que comprove o respectivo fornecimento;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+432. Os imunobiológicos deverão conter em suas embalagens primárias (frascos-ampolas, frascos, blisteres ou strips e ampolas): número de lote, data de validade, nome
+comercial, denominação genérica da substância ativa e respectiva concentração por unidade posológica;
+
+433. As condições de armazenamento e de transporte deverão estar de acordo com especificações técnicas do produto (a exemplo de temperatura, umidade, luz) aprovadas
+pela Anvisa;
+
+434 Cada lote deverá estar acompanhado pelo respectivo protocolo resumido de Produção e Controle de Qualidade, no qual terá de constar todos os ensaios de controle
+
+ 
+
+(acompanhados dos respectivos resultados) das etapas de produção e de produto final;
+4.3.
+
+1.36. Na hipótese do não cumprimento dos limites acima preconizados, o Departamento de Vigilância em Doenças Transmissíveis - DEIDT/SVS/MS deverá ser consultado
+prévia e oficialmente para se manifestar acerca da viabilidade ou não do recebimento do imunobiológico.
+
+O prazo de validade dos imunobiológicos não deverá ter transcorrido mais de 35% (trinta e cinco por cento) na data da entrega do produto;
+
+ 
+
+ 
+
+437. A CONTRATADA, juntamente com os imunobiológicos, deverá entregar os documentos abaixo:
+Certificado de Boas Práticas de Fabricação de Medicamentos, emitido pela ANVISA;
+Certificado de Boas Práticas de Armazenamento e Distribuição ou publicação no Diário Oficial.
+
+Os documentos solicitados deverão ser apresentados dentro do prazo de validade no original ou em cópia.
+
+ 
+
+As amostras destinadas para testes de controle de qualidade serão retiradas, quando solicitadas pelo Instituto Nacional de Controle de Qualidade em Saúde - INCOS, do
+quantitativo total contratado.
+
+ 
+
+ 
+
+ 
+
+4.4. DA QUALIFICAÇÃO TÉCNICA
+
+441. A empresa deverá apresentar os seguintes documentos:
+
+4.42. Licença ou Alvará Sanitário Estadual ou Municipal emitido pela Vigilância Sanitária local;
+
+4.4. Autorização de Funcionamento de Empresa (AFE);
+
+144. Os documentos apresentados deverão ser em cópia digitalizada e não serão aceitas documentações vencidas e nem protocolos, salvo para os protocolos de pedido de
+revalidação dos documentos constantes da Habilitação Técnica.
+
+5. OBRIGAÇÕES DA CONTRATANTE
+
+5.1. São obrigações da Contratant
+
+5.11. receber o objeto no prazo e condições estabelecidas neste Termo de Referência;
+
+5.1 comunicar à Contratada, por escrito, sobre imperfeições, falhas ou irregularidades verificadas no objeto fornecido, para que seja substituído, reparado ou corrigido;
+5.1.3, acompanhar e fiscalizar o cumprimento das obrigações da Contratada, através de comissão servidor especialmente designado;
+
+5.14, efetuar o pagamento à Contratada no valor correspondente ao fornecimento do objeto, no prazo e forma estabelecidos no Edital e seus anexos;
+
+5.2. A Administração não responderá por quaisquer compromissos assumidos pela Contratada com terceiros, ainda que vinculados à execução do presente Termo de
+
+Contrato, bem como por qualquer dano causado a terceiros em decorrência de ato da Contratada, de seus empregados, prepostos ou subordinados.
+5.3. Constituem atividades do DEIDT/SVS/MS:
+5.4. Indicar o (s) servidor (es) responsável (is) como fiscal (is) do contrato;
+5.4.1. Constituem atividades do Fiscal de Contrato:
+a) Fornecer todos os meios legais para o ideal desempenho das atividades contratadas;
+b) Notificar a CONTRATADA quanto a qualquer fato que gere o descumprimento das dláusulas contratuais;
+c) Controlar a vigência dos contratos;
+
+d) Encaminhar à Coordenação- Geral de Execução Orçamentária e Financeira - CGORF/DLOG a (s) nota (s) fiscal (5), fatura (s), ordem (5) de serviço (s) devidamente
+atestadas, caso estejam estritamente em conformidade com os descritivos contratuais;
+
+e) Acompanhar e emitir Parecer Técnico sobre o cumprimento pela CONTRATADA das obrigações assumidas;
+f) Emitir relatório final de execução do contrato de sua responsabilidade.
+5.5. Constituem atividades da área demandante:
+
+a) Acompanhar e controlar o estoque, principalmente quanto à quantidade e à qualidade do produto previsto no objeto do contrato administrativo.
+
+ 
+
+5.6. Encaminhar ao CONTRATADO, com antecedência mínima de 60 (sessenta) dias, as solicitações sobre possíveis alterações do cronograma de entrega;
+5.7. Responder, em até 05 (cinco) dias úteis, as solicitações de reprogramação do cronograma de entrega, encaminhados pelo CONTRATADO. Ressalta-se que esta resposta
+não exime a CONTRATADA de possíveis penalidades;
+
+5.8. Responder, em até 03 (três) dias úteis as solicitações de agendamento para a entrega dos imunobiológicos, informando a data disponível para recebimento do objeto no
+local indicado neste Termo de Referência.
+
+6. OBRIGAÇÕES DA CONTRATADA
+
+61. A Contratada deve cumprir todas as obrigações constantes no contrato, seus anexos e sua proposta, assumindo como exclusivamente seus os riscos e as despesas
+decorrentes da boa e perfeita execução do objeto e, ainda:
+
+6.11. Dar preferência à CONTRATANTE na aquisição de doses de vacina contra a covid-19 produzidas pela contratada em território nacional ou importadas pela CONTRATADA,
+enquanto durar a pandemia.
+
+6.1. A CONTRATANTE poderá autorizar em caráter excepcional a comercialização pela CONTRATADA de doses da vacina contra a covid -19, devendo para tanto ser notificada
+
+formalmente com antecedência mínima de 20 dias da data prevista para contratação junto a outro ente, sobre a intenção de venda com a devida justificativa.
+6.1.
+
+ 
+
+A CONTRATANTE deverá se manifestar sobre a autorização no prazo máximo de 05 dias, a contar da data do protocolo da notificação formal
+ 
+
+6.1. Efetuar a entrega do objeto em perfeitas condições, conforme especificações, prazo e local constantes no Termo de Referência e seus anexos, acompanhado da
+respectiva nota fiscal, na qual constarão as indicações referentes a: os números dos lotes, as quantidades por lote, suas fabricações, validades, números de empenho, além do nome e
+endereço do local de entrega;
+
+ 
+
+ 
+
+6.13. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo com os artigos 12, 13 e 17 a 27, do Código de Defesa do Consumidor (Lei nº 8.078, de 1990);
+6.14. Substituir, reparar ou corrigir, às suas expensas o objeto com avarias ou defeitos;
+
+61: Comunicar à Contratante, no prazo máximo de 24 (vinte e quatro) horas que antecede a data da entrega, os motivos que impossibilitem o cumprimento do prazo
+previsto, com a devida comprovação;
+
+6.16. Manter, durante a execução do contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas na Dispensa de
+Licitação;
+
+6.17. Indicar preposto para representá-la durante a execução do contrato.
+
+6.14 Encaminhar ao CONTRATANTE, com antecedência mínima de 30 (trinta) dias, as solicitações sobre possíveis alterações do cronograma de entrega;
+
+6.19. Observar rigorosamente as normas técnicas em vigor, as especificações e demais documentos fornecidos pelo CONTRATANTE;
+
+6.110. Responsabilizar-se por todas as despesas decorrentes da produção, fornecimento e entrega do imunobiológico, inclusive aquelas de embalagens e eventuais perdas
+
+e/ou danos e de seguro;
+
+6.111. Responsabilizar-se pelo recolhimento dos tributos que venham incidir sobre o imunobiológico fornecido, reservando à CONTRATANTE o direito de deduzir dos valores a
+serem pagos à CONTRATADA, as quantias correspondentes aos tributos eventualmente não recolhidos;
+
+6.112. Responder integralmente por perdas e danos que vier a causar à CONTRATANTE ou a terceiros em razão de ação ou omissão dolosa ou culposa, sua ou dos seus
+propostos, independente de outras cominações contratuais ou legais a que estiver sujeito;
+
+6.113. Responsabilizar-se pelos ônus resultantes de quaisquer ações, demandas, custos e despesas decorrentes de danos, ocorridos por culpa sua ou de qualquer de seus
+empregados ou prepostos, obrigando-se, outrossim, por quaisquer responsabilidades decorrentes de ações judiciais movidas por terceiros, que lhe venham a ser exigidas por força da
+ei, ligadas ao cumprimento deste Termo de Referência;
+
+6.1.14. Prestar esclarecimentos à CONTRATANTE sobre eventuais atos ou fatos noticiados que a envolvam, quando solicitados;
+6.115. Entregar o imunobiológico, na data da entrega, com o prazo de validade de, pelo menos, 65% (sessenta e cinco por cento) do seu período total;
+6.116. Na hipótese do não cumprimento do limite do subitem acima preconizado o Departamento de Imunização e Doenças Transmissíveis (DEIDT) deverá ser consultado
+
+prévia e oficialmente para manifestação técnica acerca da viabilidade ou não do recebimento do imunobiológico;
+
+6.117. O transporte dos imunobiológicos deverá ser feito por transportadora que detenha autorização de funcionamento emitida pela ANVISA e deverá obedecer a critérios de
+modo a não afetar a identidade, qualidade, integridade e, quando for o caso, esterilidade dos mesmos.
+
+6.118. Em se tratando de produtos termolábeis, os mesmos deverão ser acondicionados em caixas térmicas (isopor ou equivalente) e, no caso de produtos fotossensíveis, estes
+deverão ser acondicionados em caixas que evitem a entrada de luminosidade;
+
+6.119. Apresentar quaisquer atualizações que venham a ocorrer no Certificado de Boas Práticas de Fabricação de Medicamentos ou na Declaração de autoridade sanitária,
+competente no país onde será fabricado o produto, atestando que a contratada cumpre as Boas Práticas de Fabricação de Medicamentos (GMP/BPF), sendo certo que o produto
+entregue à Administração deve ter sido produzido obrigatoriamente, como condição de aceitação, dentro do período de validade do certificado ou declaração (ou subsequentes
+atualizações);
+
+6.120. Facultar ao CONTRATANTE amplo acesso as instalações da CONTRATADA, em horário comercial ou outro definido de comum acordo, para fins de verificação quanto a
+fabricação ao armazenamento e ao controle de qualidade do produto, objeto da presente aquisição, a qualquer tempo;
+
+6.121. Apresentar o imunobiológico com a embalagem em perfeito estado, nas condições de temperatura exigidas no rótulo, sendo que todos os dados (rótulo e bula) devem
+estar em língua portuguesa. Deverão, ainda, estar separados por lotes e prazos de validade, com seus respectivos quantitativos impressos na nota fiscal;
+
+6.122. Atender, em qualquer tempo, as solicitações para fornecimento de amostras, formuladas pelo CONTRATANTE, para análise da qualidade do imunobiológico. As amostras
+eventualmente solicitadas serão contabilizadas como parte do quantitativo contratado;
+
+6.123. Respeitar os preços máximos estabelecidos nas normas de regência de contratações públicas federais;
+
+6.1231. O descumprimento das regras supramencionadas pode ensejar a fiscalização do Tribunal de Contas da União e, após o devido processo legal, gerar as seguintes
+
+consequências: assinatura de prazo para a adoção das medidas necessárias ao exato cumprimento da lei, nos termos do art. 71, inciso IX, da Constituição; ou condenação dos agentes
+públicos responsáveis e da empresa contratada ao pagamento dos prejuízos ao erário, caso verificada a ocorrência de superfaturamento por sobrepreço na execução do contrato.
+
+7. DA SUBCONTRATAÇÃO
+
+71. Não será admitida a subcontratação do objeto licitatório.
+8. DA ALTERAÇÃO SUBJETIVA
+81. É admissível a fusão, cisão ou incorporação da contratada com/em outra pessoa jurídica, desde que sejam observados pela nova pessoa jurídica todos os requisitos de
+
+habilitação exigidos na licitação original; sejam mantidas as demais cláusulas e condições do contrato; não haja prejuízo à execução do objeto pactuado e haja a anuência expressa da
+Administração à continuidade do contrato.
+
+9. CRITÉRIO DE MEDIÇÃO E PAGAMENTO (REDAÇÃO DA MP Nº 1.026/2021)
+
+91. Nos termos do art. 67 Lei nº 8.666, de 1993, será designado representante para acompanhar e fiscalizar a entrega dos bens, anotando em registro próprio todas as
+ocorrências relacionadas com a execução e determinando o que for necessário à regularização de falhas ou defeitos observados.
+
+9.11. O recebimento de material de valor superior a R$ 176.000,00 (cento e setenta e seis mil reais) será confiado a uma comissão de, no mínimo, 3 (três) membros,
+designados pela autoridade competente.
+
+92. A CONTRATANTE indicará um fiscal de contrato ou comissão, que será responsável pelo acompanhamento e fiscalização da execução, conforme Portaria GM nº 78/2006
+e Circular M$/SE/GAB nº 40, emitida pelo Gabinete da Secretaria Executiva, assim como artigos. 67 e 73 da Leinº 8.666/1993.
+
+93. O Fiscal/comissão do contrato deverá manter permanente vigilância sobre as obrigações da CONTRATADA, definidas nos dispositivos contratuais e condições do Termo
+de Referência e, fundamentalmente, quanto à inarredável observância aos princípios e preceitos consubstanciado na Lei nº 8.666/93, com suas alterações.
+
+34. A fiscalização de que trata este item não exclui nem reduz a responsabilidade da Contratada, inclusive perante terceiros, por qualquer irregularidade, ainda que
+resultante de imperfeições técnicas ou vícios redibitórios, e, na ocorrência desta, não implica em corresponsabilidade da Administração ou de seus agentes e prepostos, de
+conformidade com o art. 70 da Lei nº 8.666, de 1993.
+
+9. O representante da Administração anotará em registro próprio todas as ocorrências relacionadas com a execução do contrato, indicando dia, mês e ano, bem como o
+nome dos funcionários eventualmente envolvidos, determinando o que for necessário à regularização das falhas ou defeitos observados e encaminhando os apontamentos à
+autoridade competente para as providências cabíveis.
+
+9.6. DO PAGAMENTO
+9.61. O pagamento só será feito uma vez concluída a análise e a eventual aprovação integral pela Anvisa, para uso emergencial e temporário e/ou registro definitivo.
+9.6.2. O pagamento à CONTRATADA, que apresentar proposta de preço em moeda estrangeira, será realizado no prazo máximo de até 30 (trinta) dias, contados a partir da
+
+apresentação dos documentos que comprovem a efetiva entrega do objeto contratado (AWB, Invoice, Packing-list) na Coordenação de Execução Orçamentária e Financeira —CEOF, que
+providenciará a autorização do responsável pelo Departamento de Logística em Saúde - DLOG, de acordo com as normas internas em vigor.
+
+9.6. Para cada parcela liquidada, será pago pela CONTRATANTE à Instituição Financeira, responsável pela realização da operação de contratação cambial, comissão bancária
+sobre o valor da operação a ser realizada.
+
+ 
+9.6.4. A CONTRATADA brasileira que apresentar proposta de preço em moeda estrangeira terá o pagamento efetuado em moeda brasileira à taxa de câmbio vigente, PTAX,
+fornecida pelo Banco Central do Brasil (www.bcb.gov.br) no dia útil imediatamente anterior à data do efetivo pagamento. Para tal, se fará necessária a apresentação de uma nova Nota
+Fiscal Complementar contemplando a diferença decorrente da variação cambial a maior. Na hipótese de o câmbio estar a menor, será necessária a glosa do valor.
+
+9.65, Os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso Il do art. 24 da Lei 8.666, de 1993, deverão ser efetuados no prazo
+de até 5 (cinco) dias úteis, contados da data da apresentação da Nota Fiscal, nos termos do art. 5º, 5 3º, da Lei nº 8.666, de 1993.
+9.64 Considera-se ocorrido o recebimento da nota fiscal ou fatura no momento em que o órgão contratante atestar a execução do objeto do contrato.
+
+ 
+
+9.67. A Nota Fiscal ou Fatura deverá ser obrigatoriamente acompanhada da comprovação da regularidade fiscal, constatada por meio de consulta on-line ao SICAF ou, na
+impossibilidade de acesso ao referido Sistema, mediante consulta aos sítios eletrônicos oficiais ou à documentação mencionada no art. 29 da Lei nº 8.666, de 1993.
+
+9.671. Constatando-se, junto ao SICAF, a situação de irregularidade do fornecedor contratado, deverão ser tomadas as providências previstas no do art. 31 da Instrução
+Normativa nº 3, de 26 de abril de 2018.
+
+ 
+
+9.6.8. Havendo erro na apresentação da Nota Fiscal ou dos documentos pertinentes à contratação, ou, ainda, circunstância que impeça a liquidação da despesa, como, por
+exemplo, obrigação financeira pendente, decorrente de penalidade imposta ou inadimplência, o pagamento ficará sobrestado até que a Contratada providencie as medidas
+saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a comprovação da regularização da situação, não acarretando qualquer ônus para a Contratante.
+
+9.6.9. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+9.6.10. Antes de cada pagamento à contratada, será realizada consulta ao SICAF para verificar a manutenção das condições de habilitação exigidas no edital.
+9.611. Constatando-se, junto ao SICAF, a situação de irregularidade da contratada, será providenciada sua notificação, por escrito, para que, no prazo de 5 (cinco) dias úteis,
+
+regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual período, a critério da contratante.
+
+9.612. Previamente à emissão de nota de empenho e a cada pagamento, a Administração deverá realizar consulta ao SICAF para identificar possível suspensão temporária de
+participação em licitação, no âmbito do órgão ou entidade, proibição de contratar com o Poder Público, bem como ocorrências impeditivas indiretas, observado o disposto no art. 29,
+da Instrução Normativa nº 3, de 26 de abril de 2018.
+
+9.613. Não havendo regularização ou sendo a defesa considerada improcedente, a contratante deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade
+fiscal quanto à inadimplência da contratada, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o
+recebimento de seus créditos.
+
+9.614. Persistindo a irregularidade, a contratante deverá adotar as medidas necessárias à rescisão contratual nos autos do processo administrativo correspondente, assegurada
+à contratada a ampla defesa.
+
+ 
+
+9.615. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela rescisão do contrato, caso a contratada não regularize sua
+situação junto ao SICAF.
+
+9.615.1. Será rescindido o contrato em execução com a contratada inadimplente no SICAF, salvo por motivo de economicidade, segurança nacional ou outro de interesse público
+de alta relevância, devidamente justificado, em qualquer caso, pela máxima autoridade da contratante.
+
+9.616. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+
+9.6161. A Contratada regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123, de 2006, não sofrerá a retenção tributária quanto aos impostos e
+
+contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao
+tratamento tributário favorecido previsto na referida Lei Complementar.
+
+9.617. Nos casos de eventuais atrasos de pagamento, desde que a Contratada não tenha concorrido, de alguma forma, para tanto, fica convencionado que a taxa de
+compensação financeira devida pela Contratante, entre a data do vencimento e o efetivo adimplemento da parcela, é calculada mediante a aplicação da seguinte fórmula:
+
+EM=IxNxVP sendo:
+
+ 
+
+EM = Encargos moratários;
+
+ 
+
+= Número de dias entre a data prevista para o pagamento e a do efetivo pagamento;
+VP = Valor da parcela a ser paga.
+1= Índice de compensação financeira = 0,00016438, assim apurado:
+
+EM) 1=(6/100) te 0,0016438
+as TXe Percentual da taxa anual = 6%
+
+10. DO REAJUSTE
+
+10.1. Os preços são fixos eirreajustáveis no prazo de um ano contado da data limite para a apresentação das propostas.
+
+10.11. Dentro do prazo de vigência do contrato e mediante solicitação da contratada, os preços contratados poderão sofrer reajuste após o interregno de um ano, aplicando-se
+
+o Índice IPCA/IBGE exclusivamente para as obrigações iniciadas e concluídas após a ocorrência da anualidade.
+
+10.2. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos financeiros do último reajuste.
+
+10.3. No caso de atraso ou não divulgação do índice de reajustamento, o CONTRATANTE pagará à CONTRATADA a importância calculada pela última variação conhecida,
+
+liquidando a diferença correspondente tão logo seja divulgado o índice definitivo. Fica a CONTRATADA obrigada a apresentar memória de cálculo referente ao reajustamento de preços
+do valor remanescente, sempre que este ocorrer.
+
+10.4. Nas aferições finais, o índice utilizado para reajuste será, obrigatoriamente, o definitivo.
+
+10.5. Caso o índice estabelecido para reajustamento venha a ser extinto ou de qualquer forma não possa mais ser utilizado, será adotado, em substituição, o que vier a ser
+determinado pela legislação então em vigor.
+
+10.6. Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para reajustamento do preço do valor remanescente, por meio de
+termo aditivo.
+
+10.7. O reajuste será realizado por apostilamento.
+
+11. DA GARANTIA DE EXECUÇÃO
+
+111. A CONTRATADA, no prazo de 10 dias após a assinatura do Termo de Contrato ou aceite do instrumento equivalente, prestará garantia no valor correspondente a 5% do
+
+valor do Contrato, que será liberada de acordo com as condições previstas neste Edital, conforme disposto no art. 56 da Lei nº 8.666, de 1993, desde que cumpridas as obrigações
+contratuais.
+
+112. Caberá ao contratado optar por uma das seguintes modalidades de garantia:
+1121. caução em dinheiro ou em títulos da dívida pública, devendo estes ter sido emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de
+custódia autorizado pelo Banco Central do Brasil e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Fazenda;
+
+1122. seguro-garantia;
+
+11.23. fiança bancária.
+
+113. A garantia em dinheiro deverá ser efetuada em favor da Contratante, na Caixa Econômica Federal, com correção monetária, em favor do contratante.
+
+114. No caso de alteração do valor do contrato, ou prorrogação de sua vigência, a garantia deverá ser readequada ou renovada nas mesmas condições.
+
+115. Se o valor da garantia for utilizado total ou parcialmente em pagamento de qualquer obrigação, a Contratada obriga-se a fazer a respectiva reposição no prazo máximo
+
+de 10 dias úteis, contados da data em que for notificada.
+
+116. A Contratante executará a garantia na forma prevista na legislação que rege a matéria.
+11.7. A garantia prestada pelo contratado será liberada ou restituída após a execução do contrato e, quando em dinheiro, atualizada monetariamente. (artigo 56, 84º da Lei nº
+8666/93).
+
+ 
+
+ 
+
+12. DAS SANÇÕES ADMINISTRATIVAS
+
+121. Comete infração administrativa nos termos da Lei nº 8,666/93, a Contratada que:
+
+1211. Inexecutar total ou parcialmente qualquer das obrigações assumidas em decorrência da contratação;
+
+1212. Ensejar o retardamento da execução do objeto;
+
+1213. Falhar ou fraudar na execução do contrato;
+
+12.14. Comportar-se de modo inidôneo;
+
+1215. Cometer fraude fiscal;
+
+12.2. Pela inexecução total ou parcial do objeto deste contrato, a Administração pode aplicar à CONTRATADA as seguintes sanções:
+
+1221. Advertência, nos casos de atraso injustificado, de até 45 (quarenta e cinco) dias, uma única vez;
+
+1222. Advertência, no caso de descumprimento do prazo de 60 (sessenta) dias de antecedência, para solicitação de alteração do cronograma de entrega, uma única vez;
+1223. Multa de mora correspondente a 0,1% do valor da respectiva parcela atualizada do contrato, por dia de atraso injustificado, até o limite de 3% (três por cento), nos
+seguintes casos:
+
+12.24. Atraso injustificado, no cumprimento de qualquer das parcelas, superior a 45 (quarenta e cinco) dias;
+
+1225. Reincidência nas hipóteses que geram advertência.
+
+12.26. Multa compensatória correspondente a 1% (um por cento) do valor total do Contrato, no caso de inexecução total do objeto
+
+12.27. Fica configurada a inexecução contratual após o atraso injustificado superior a 90 (noventa) dias, contados a partir do fim do prazo estipulado no subitem 12.
+
+1228. em caso de inexecução parcial, a multa compensatória, no mesmo percentual do subitem acima, será aplicada de forma proporcional à obrigação inadimplida;
+
+1229. suspensão de licitar e impedimento de contratar com o órgão, entidade ou unidade administrativa pela qual a Administração Pública opera e atua concretamente, pelo
+
+prazo de até dois anos;
+12210. impedimento de licitar e contratar com órgãos e entidades da União com o consequente descredenciamento no SICAF pelo prazo de até cinco anos;
+
+12.2.10.1. A Sanção de impedimento de licitar e contratar prevista neste subitem também é aplicável em quaisquer das hipóteses previstas como infração administrativa no
+subitem 12.1 deste Termo de Referência.
+
+12211. Declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja
+promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que o contratado ressarcir a Administração pelos prejuízos resultantes e
+após decorrido o prazo de 02 (dois) anos.
+
+ 
+
+123. As sanções previstas nos subitens 12.2.1, 12.2.6, 12.2.7 e 12.2.8 deste item, poderão ser aplicadas à CONTRATADA juntamente com as de multa, descontando-a dos
+pagamentos a serem efetuados.
+
+12.4. Também ficam sujeitas às penalidades do art. 87, le IV da Lei nº 8.666, de 1993, as empresas ou profissionais que:
+
+1241. Tenham sofrido condenação definitiva por praticar, por meio dolosos, fraude fiscal no recolhimento de quaisquer tributos;
+
+1242. Tenham praticado atos ilícitos visando a frustrar os objetivos da licitação;
+
+12.43. Demonstrem não possuir idoneidade para contratar com a Administração em virtude de atos ilícitos praticados.
+
+125. A aplicação de qualquer das penalidades previstas realizar-se-á em processo administrativo que assegurará o contraditório e a ampla defesa à Contratada, observando-
+
+se o procedimento previsto na Lei nº 8.666, de 1993, e subsidiariamente a Lei nº 9.784, de 1999.
+
+12.6. As multas devidas e/ou prejuízos causados à Contratante serão deduzidos dos valores a serem pagos, ou recolhidos em favor da União, ou deduzidos da garantia, ou
+ainda, quando for o caso, serão inscritos na Dívida Ativa da União e cobrados judicialmente.
+
+12.61. Caso a Contratante determine, a multa deverá ser recolhida no prazo máximo de 15 (quinze) dias, a contar da data do recebimento da comunicação enviada pela
+autoridade competente.
+
+127. Caso o valor da multa não seja suficiente para cobrir os prejuízos causados pela conduta do licitante, a União ou Entidade poderá cobrar o valor remanescente
+judicialmente, conforme artigo 419 do Código Civil.
+
+12.8. A autoridade competente, na aplicação das sanções, levará em consideração a gravidade da conduta do infrator, o caráter educativo da pena, bem como o dano causado
+à Administração, observado o princípio da proporcionalidade.
+
+12.9. Se, durante o processo de aplicação de penalidade, se houver indícios de prática de infração administrativa tipificada pela Lei nº 12.846, de 1º de agosto de 2013, como
+ato lesivo à administração pública nacional ou estrangeira, cópias do processo administrativo necessárias à apuração da responsabilidade da empresa deverão ser remetidas à
+autoridade competente, com despacho fundamentado, para ciência e decisão sobre a eventual instauração de investigação preliminar ou Processo Administrativo de
+Responsabilização - PAR.
+
+12.10. A apuração e o julgamento das demais infrações administrativas não consideradas como ato lesivo à Administração Pública nacional ou estrangeira nos termos da Lei nº
+12.846, de 1º de agosto de 2013, seguirão seu rito normal na unidade administrativa.
+
+1211. O processamento do PAR não interfere no seguimento regular dos processos administrativos específicos para apuração da ocorrência de danos e prejuízos à
+Administração Pública Federal resultantes de ato lesivo cometido por pessoa jurídica, com ou sem a participação de agente público.
+
+12.12. As penalidades serão obrigatoriamente registradas no SICAF.
+
+13. DA SUSPENSÃO
+
+13.1. Caso a Anvisa suspenda a produção e o uso da vacina, automaticamente ficarão suspensas a execução e as obrigações previstas no presente instrumento.
+
+14, DA RESCISÃO
+
+14.1. O presente Termo de Contrato poderá ser rescindido:
+
+14.11. Por ato unilateral e escrito da Administração, nas situações previstas nos incisos | a XIl e XVII do art. 78 da Lei nº 8.656, de 1993, e com as consequências indicadas no
+art. 80 da mesma Lei, sem prejuízo da aplicação das sanções previstas no Termo de Referência, anexo ao Edital;
+
+14.12. Amigavelmente, nos termos do art. 79, inciso II, da Lei nº 8.666, de 1993;
+
+14.13. Caso a Contratada não consiga a autorização para uso emergencial junto à Anvisa, nesta hipótese, sem qualquer ônus para a Contratante, não sendo devido, sequer, o
+
+pagamento pelas parcelas eventualmente entregues;
+
+14.14. Caso, após a autorização para uso emergencial e antes da completa execução do contrato, a ANVISA não registre o produto e/ou revogue a autorização para uso
+emergencial, nessa hipótese, sem ônus para a Contratante em relação às doses ainda não entregues. Quanto às doses já entregues e não administradas, a Contratante será ressarcida
+pelo valor pago.
+
+14.15. Por perda da autorização regulatória expedida pela ANVISA;
+
+14.16. Pela falta de eficácia da vacina COVAXIN/BBV152 contra variantes que se tornem prevalentes em território nacional, em grau tal que impeça se atingir a efetiva
+imunidade de rebanho por vacinação na população brasileira.
+
+14.2. Os casos de rescisão contratual serão formalmente motivados, assegurando-se à CONTRATADA o direito à prévia e ampla defesa.
+A CONTRATADA reconhece os direitos da CONTRATANTE em caso de rescisão administrativa prevista no art. // da Lei nº 8.666, de 1993.
+O termo de rescisão será precedido de Relatório indicativo dos seguintes aspectos, conforme o caso:
+Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+
+Relação dos pagamentos já efetuados e ainda devidos;
+
+ 
+
+Indenizações e multas.
+
+15. ESTIMATIVA DE PREÇOS (REDAÇÃO DA MP Nº 1.026/2021)
+
+151. O custo da contratação será de US$ 300.000.000,00 (trezentos milhões de dólares), conforme preço informado na carta da empresa Bharat Biotech, datada de 12 de
+janeiro de 2021 (0018614163), que ofereceu 12 milhões de doses da vacina COVAXIN a este Ministério da Saúde, ao preço de US$ 15 por dose. Posteriormente, a empresa Precisa
+Medicamentos, apresentou o Ofício nº 102, de 11 de fevereiro de 2021 (0019045985), reiterando a intenção de fornecer a vacina ao Ministério da Saúde e ofertou o quantitativo de
+20.000.000 (vinte milhões) de doses
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item do TR Produto Valor unitário (US$) | Quantidade Total (US$)
+VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2),
+1 INJETÁVEL USS 15,00 20.000.000 $300.000.000,00
+Total $300.000.000,00
+16. CRITÉRIOS DE SUSTENTABILIDADE AMBIENTAL
+16.1. Nos termos do Decreto nº 2.783, de 1998 e da Resolução CONAMA nº 267, de 14/11/2000 é vedada a oferta de produto ou equipamento que contenha ou faça uso de
+
+qualquer das Substâncias que Destroem a Camada de Ozônio SDO abrangidas pelo Protocolo de Montreal, notadamente CFCs, Halons, CTC e tricloroetano, à exceção dos usos
+essenciais permitidos pelo Protocolo de Montreal, conforme artigo 1º, parágrafo único, do Decreto nº. 783, de 1998, e o artigo 4º da Resolução CONAMA nº 267, de 14/11/2000.
+
+17. ADEQUAÇÃO ORÇAMENTÁRIA (REDAÇÃO DA MP Nº 1.026/2021)
+
+11. As despesas decorrentes desta contratação estão programadas em dotação orçamentária própria, prevista no orçamento da União, para o exercício de 2021, na
+classificação abaixo:
+
+Gestão/Unidade: 00001/250005
+
+Fonte: Decreto nº 10.595 de 07/01/2021.
+Programa de Trabalho: 10.122.5018.21C0.6500
+3.90.30.
+
+ 
+
+Elemento de Despesa:
+
+172. No exercício seguinte, se for o caso, as despesas correrão à conta dos recursos próprios para atender às despesas da mesma natureza, cuja alocação será feita no início
+de cada exercício financeiro, recursos já destacados e aprovados por Medida Provisória no exercício de 2020.
+
+seil
+
+   
+
+ 
+
+Documento assinado eletronicamente por Thiago Fernandes da Costa, Assessor(a) Técnico(a), em 22/02/2021, às 15:39, conforme horário oficial de Brasília, com fundamento no art. 6º,
+81º, do Decreto nº 8539, de 8 de outubro de 2015; e art. 8º, da e
+
+   
+
+   
+
+jo Monteiro Cruz, Diretor do Departamento de Imunização e Doenças Transmissíveis, em 22/02/2021, às 15:55, conforme horário
+
+Documento assinado eletronicamente por Lau!
+oficial de Brasília, com fundamento no art. 62, 5 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.175250/2020-85 SEI nº 0019176200
+
+Departamento de Imunização e Doenças Transmissíveis - DEIDT
+SRTV 702, Via WS Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
+site - saude gov br
+Ministério da Saúde
+Secretaria Executiva
+Departamento de Logística em Saúde
+Coordenação-Geral de Aquisições de Insumos Estratégicos para Saúde
+Coordenação de Licitações e Análise de Mercado de Insumos Estratégicos para Saúde
+Divisão de Análise das Aquisições de Insumos Estratégicos para Saúde
+
+CONTRATO Nº 29/2021
+
+Processo nº 25000.175250/2020-85
+
+CONTRATO QUE ENTRE Sl CELEBRAM A UNIÃO, POR INTERMÉDIO DO
+DEPARTAMENTO DE LOGÍSTICA EM SAÚDE DA SECRETARIA EXECUTIVA DO
+MINISTÉRIO DA SAÚDE E A BHARAT BIOTECH LIMITED INTERNATIONAL,
+REPRESENTADA PELA EMPRESA PRECISA COMERCIALIZAÇÃO DE MEDICAMENTOS
+LTDA.
+
+A UNIÃO por intermédio do Departamento de Logísca em Saúde da Secretaria Execuva do Ministério da Saúde, inscrita no CNPJ sob o nº 00.394.544/0008-51, com sede em Brasília —
+DF, neste ato representada por seu Diretor, Sr. ROBERTO FERREIRA DIAS, portador da Carteira de Idendade RG nº 152.991.800, expedida pela SSP/PR, e inscrito no CPF sob o nº
+086.758.087-98, em conformidade com a Portaria nº 262, de 08/01/2019, publicada no Diário Oficial da União n.º 6, de 09/01/2018, doravante denominada CONTRATANTE, e de outro
+lado a empresa BHARAT BIOTECH LIMITED INTERNATIONAL, representanda pela empresa PRECISA COMERCIALIZAÇÃO DE MEDICAMENTOS LTDA, CNPJ: 03.394.819/0005-00, com
+sede na Avenida Portugal nº 1100, Rua 5, Parte A-14-B, Itaqui, Itapevi/SP, CEP: 06.696-060, doravante denominada CONTRATADA, neste ato representada por EMANUELA BATISTA DE
+SOUZA MEDRADES, portadora da Carteira de Idendade RG nº 354.357.591, expedida pela SSP/SP, e inscrita no CPF nº 330.976.208-42, de acordo com o constante no Processo
+Eletrônico nº 25000.175250/2020-85, em observância às disposições da Lei nº 8.666, de 21 de junho de 1993 e da Medida Provisória nº 1.026, de 6 de janeiro de 2021, resolvem
+celebrar o presente Termo de Contrato, por meio da Dispensa de Licitação nº 10/2021, com fundamento no Artigo 2º, inciso |, da Medida Provisória nº 1.026/2021 e mediante as
+cláusulas e condições a seguir enunciadas:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 CLÁUSULA PRIMEIRA — DO OBJETO
+11. O objeto do presente Termo de Contrato é a aquisição de VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL (Covaxin/BBV152), conforme especificações
+estabelecidas no Termo de Referência e na proposta final, as quais integram este instrumento, independente de transcrição.
+12. Discriminação do objeto:
+Descrição do Item Unidade de 4
+Item (Objeto) CATMAT Medida Quantidade Valor unitário
+VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2),
+1 NUETÁVEL (Covaxin/B8V152) BRO475096 Doses 20.000.000 US$ 15,00
+13. A CONTRATANTE terá o direito de exclusividade/preferência na aquisição de doses da VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL (Covaxin/BBV152),
+produzidas ou importadas pela Contratada em todo o território nacional, enquanto durar a pandemina.
+14. A CONTRATANTE poderá autorizar em caráter excepcional a comercialização pela Contratada de doses da VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL
+
+(Covaxin/BBV152), devendo, para tanto, ser notificada formalmente sobre a intenção de venda com antecedência mínima de 20 (vinte) dias da data prevista para contratação junto a
+outro ente, sobre a intenção de venda, com a devida justificativa.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15. A CONTRATANTE deverá se manifestar sobre a autorização de comercialização venda no prazo máximo de 05 (cinco) dias a contar da data do protocolo da notificação
+formal.
+2. CLÁUSULA SEGUNDA — DA FORMA DE FORNECIMENTO
+21. Cronograma de entrega:
+VACINA, COVID-19 (CORONAVÍRUS, SARS-COV-2), INJETÁVEL
+QUANTITATIVO [ — PRAZO MÁXIMO DE ENTREGA
+PARCELA (DOSES) (ATÉ)
+12 4.000.000 |20 dias após a assinatura do Contrato
+22 4.000.000 |30 dias após a assinatura do Contrato
+E 4.000.000 [45 dias após a assinatura do Contrato
+E 4.000.000 | 60 dias após a assinatura do Contrato
+E 4.000.000 | 70 dias após a assinatura do Contrato
+TOTAL | 20.000.000
+22. A CONTRATANTE poderá anuir com a alteração do cronograma, desde que verificada a ausência de culpa da CONTRATADA em possível atraso injustificado.
+23. Havendo necessidade de prorrogação ou antecipação no cronograma, ou do quantitativo da respectiva parcela de entrega, caberá à CONTRATADA encaminhar ofício
+
+com embasamento técnico e justificativas, incumbindo à CONTRATANTE se manifestar quanto ao impacto da alteração e o aceite ou não da nova proposta, de acordo com o interesse
+da Administração.
+
+24. Os ofícios de prorrogação dos cronogramas, ou de alteração dos quantitativos das parcelas, somente serão apreciados se encaminhados com antecedência mínima de
+30 (trinta) dias da data prevista para a entrega de cada parcela, ressalvados os casos fortuitos ou de força maior.
+
+25. O quantitativo final do lote a ser entregue deverá ser confirmado por oficio ao Ministério da Saúde com a antecedência mínima de dois dias úteis antes da data de
+entrega, sem prejuízo ao exposto do item anterior.
+
+3. CLÁUSULA TERCEIRA - DA VIGÊNCIA
+ 
+
+3.1. O prazo de vigência deste Termo de Contrato inicia-se na data de sua assinatura e vigorará por 12 (doze) meses, prorrogáveis, nos termos do artigo 57, 81º, da Lei nº
+8.666 de 1993.
+4 CLÁUSULA QUARTA - DO PREÇO
+41 O valor total do presente Termo de Contrato é de US$ 300.000.000,00 (trezentos milhões de dólares americanos), que convertidos na hipótese de US$ 1,00 para R$ 5,38
+perfaz o valor total estimado de R$ 1.614.000.000,00 (um bilhão, seiscentos e quatorze milhões de reais).
+42 No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes da execução contratual, inclusive tributos e/ou impostos, encargos sociais,
+trabalhistas, previdenciários, fiscais e comerciais incidentes, taxa de administração, frete, seguro e outros necessários ao cumprimento integral do objeto da contratação.
+5. CLÁUSULA QUINTA - DA DOTAÇÃO ORÇAMENTÁRIA
+5.1 As despesas decorrentes desta contratação estão programadas em dotação orçamentária própria, prevista no orçamento da União, para o exercício de 2021, na
+classificação abaixo:
+
+Gestão/Unidade: 00001/250005
+
+Fonte: Decreto nº 10.595 de 07/01/2021.
+
+Programa de Trabalho: 10.122.5018.21C0.6500
+
+Elemento de Despesas: 33.90.30.
+5.2. No exercício seguinte, se for o caso, as despesas correrão à conta dos recursos próprios para atender às despesas da mesma natureza, cuja alocação será feita no início
+de cada exercício financeiro, recursos já destacados e aprovados por Medida Provisória no exercício de 2020.
+6. CLÁUSULA SEXTA - DO PAGAMENTO
+61. O pagamento só será feito uma vez concluída a análise e a eventual aprovação integral pela Anvisa, para uso emergencial e temporário e/ou registro definitivo.
+6.2. O pagamento à CONTRATADA, que apresentar proposta de preço em moeda estrangeira, será realizado no prazo máximo de até 30 (trinta) dias, contados a partir da
+
+apresentação dos documentos que comprovem a efetiva entrega do objeto contratado (AWB, Invoice, Packing-list) na Coordenação de Execução Orçamentária e Financeira —CEOF, que
+providenciará a autorização do responsável pelo Departamento de Logística em Saúde - DLOG, de acordo com as normas internas em vigor.
+
+621. No caso de entregas efetuadas antes da aprovação integral pela Anvisa, para uso emergencial e temporário e/ou registro definitivo, o prazo de que trata o subitem
+anterior somente será iniciado após, cumulativamente, serem efetivadas tanto a aprovação em questão, em qualquer modalidade, quanto a entrega do objeto a ser pago.
+
+63. Para cada parcela liquidada, será pago pela CONTRATANTE à Instituição Financeira, responsável pela realização da operação de contratação cambial, comissão bancária
+sobre o valor da operação a ser realizada.
+
+64. A CONTRATADA brasileira que apresentar proposta de preço em moeda estrangeira terá o pagamento efetuado em moeda brasileira à taxa de câmbio vigente, PTAX,
+fornecida pelo Banco Central do Brasil (www.bcb.gov.br) no dia útil imediatamente anterior à data do efetivo pagamento. Para tal, se fará necessária a apresentação de uma nova Nota
+Fiscal Complementar contemplando a diferença decorrente da variação cambial a maior. Na hipótese de o câmbio estar a menor, será necessária a glosa do valor.
+
+65. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso Il do art. 24 da Lei 8.666, de 1993, deverão ser efetuados no prazo
+de até 5 (cinco) dias úteis, contados da data da apresentação da Nota Fiscal, nos termos do art. 5º, 5 3º, da Lei nº 8.666, de 1993.
+
+66. Considera-se ocorrido o recebimento da nota fiscal ou fatura no momento em que o órgão contratante atestar a execução do objeto do contrato.
+
+67. A Nota Fiscal ou Fatura deverá ser obrigatoriamente acompanhada da comprovação da regularidade fiscal, constatada por meio de consulta on-line ao SICAF ou, na
+
+impossibilidade de acesso ao referido Sistema, mediante consulta aos sítios eletrônicos oficiais ou à documentação mencionada no art. 29 da Leinº 8.666, de 1993.
+
+68. Constatando-se, junto ao SICAF, a situação de irregularidade do fornecedor contratado, deverão ser tomadas as providências previstas no art. 31 da Instrução Normativa
+nº3, de 26 de abril de 2018.
+
+69. Havendo erro na apresentação da Nota Fiscal ou dos documentos pertinentes à contratação, ou, ainda, circunstância que impeça a liquidação da despesa, como, por
+exemplo, obrigação financeira pendente, decorrente de penalidade imposta ou inadimplência, o pagamento ficará sobrestado até que a Contratada providencie as medidas
+saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a comprovação da regularização da situação, não acarretando qualquer ônus para a Contratante.
+
+6.10. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+611 Antes de cada pagamento à contratada, será realizada consulta ao SICAF para verificar a manutenção das condições de habilitação exigidas no TR.
+612. Constatando-se, junto ao SICAF, a situação de irregularidade da contratada, será providenciada sua notificação, por escrito, para que, no prazo de 5 (cinco) dias úteis,
+
+regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual período, a critério da contratante.
+
+613. Previamente à emissão de nota de empenho e a cada pagamento, a Administração deverá realizar consulta ao SICAF para identificar possível suspensão temporária de
+participação em licitação, no âmbito do órgão ou entidade, proibição de contratar com o Poder Público, bem como ocorrências impeditivas indiretas, observado o disposto no art. 29,
+da Instrução Normativa nº 3, de 26 de abril de 2018.
+
+6.14. Não havendo regularização ou sendo a defesa considerada improcedente, a contratante deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade
+fiscal quanto à inadimplência da contratada, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o
+recebimento de seus créditos.
+
+615. Persistindo a irregularidade, a contratante deverá adotar as medidas necessárias à rescisão contratual nos autos do processo administrativo correspondente, assegurada
+à contratada a ampla defesa.
+
+6.16. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela rescisão do contrato, caso a contratada não regularize sua
+situação junto ao SICAF.
+
+617. Será rescindido o contrato em execução com a contratada inadimplente no SICAF, salvo por motivo de economicidade, segurança nacional ou outro de interesse público
+de alta relevância, devidamente justificado, em qualquer caso, pela máxima autoridade da contratante.
+
+618. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+
+619. A Contratada regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123, de 2006, não sofrerá a retenção tributária quanto aos impostos e
+
+contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao
+tratamento tributário favorecido previsto na referida Lei Complementar.
+
+6.20. Nos casos de eventuais atrasos de pagamento, desde que a Contratada não tenha concorrido, de alguma forma, para tanto, fica convencionado que a taxa de
+compensação financeira devida pela Contratante, entre a data do vencimento e o efetivo adimplemento da parcela, é calculada mediante a aplicação da seguinte fórmula:
+
+EM= IxNxVP sendo:
+EM = Encargos moratórios;
+N'= Número de dias entre a data prevista para o pagamento e a do efetivo pagamento; VP = Valor da parcela a ser paga.
+
+| = Índice de compensação financeira = 0,00016438, assim apurado:
+
+0,00016438
+   
+
+6/100)|TX= Percentual da taxa anual
+365,
+
+7. CLÁUSULA SÉTIMA - DA GARANTIA DE EXECUÇÃO
+
+71. A CONTRATADA, no prazo de 10 dias após a assinatura do Termo de Contrato ou aceite do instrumento equivalente, prestará garantia no valor de US$ 15.000.000,00
+(quinze milhões de dólares americanos), que convertidos na hipótese de US$ 1,00 para R$ 5,38 perfaz o valor total estimado de R$ 80.700.000,00 (oitenta milhões e setecentos mi
+reais) correspondente a 5% do valor do Contrato, que será liberada de acordo com as condições previstas no Termo de Referência, conforme disposto no art. 56 da Lei nº 8.666, de
+1993, desde que cumpridas as obrigações contratuais.
+
+72. Caberá ao contratado optar por uma das seguintes modalidades de garantia:
+724. Caução em dinheiro ou em títulos da dívida pública, devendo estes ter sido emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e
+de custódia autorizado pelo Banco Central do Brasil e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Fazenda;
+
+722. Seguro-garantia;
+
+723. Fiança bancária.
+
+73. A garantia em dinheiro deverá ser efetuada em favor da Contratante, na Caixa Econômica Federal, com correção monetária, em favor do contratante.
+
+74. No caso de alteração do valor do contrato, ou prorrogação de sua vigência, a garantia deverá ser readequada ou renovada nas mesmas condições.
+
+75. Se o valor da garantia for utilizado total ou parcialmente em pagamento de qualquer obrigação, a Contratada obriga-se a fazer a respectiva reposição no prazo máximo
+de 10 dias úteis, contados da data em que for notificada.
+
+76. A Contratante executará a garantia na forma prevista na legislação que rege a matéria.
+
+77. A garantia prestada pelo contratado será liberada ou restituída após a execução do contrato e, quando em dinheiro, atualizada monetariamente. (artigo 56, 54º da Lei nº
+8666/93).
+
+8. CLÁUSULA OITAVA — DO REAJUSTE
+
+81 As regras acerca do reajuste do valor contratual são as estabelecidas no Termo de Referência.
+
+9. CLÁUSULA NONA - DAS ALTERAÇÕES
+
+91. Eventuais alterações contratuais reger-se-ão pela disciplina do art. 65 da Lei nº 8.666, de 1993.
+
+92. A CONTRATADA é obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessários, até o limite de 50% (cinquenta por
+
+cento) do valor inicial atualizado do contrato, conforme o art. 9º da MP 1.026 de 2021.
+
+10. CLÁUSULA DÉCIMA — CRITÉRIO DE ACEITAÇÃO DO OBJETO, ENTREGA E RECEBIMENTO
+
+10.1. OS CRITÉRIOS DE ACEITAÇÃO DO OBJETO são aqueles previstos no Termo de Referência.
+
+10.2. DO LOCAL DE ENTREGA:
+
+10.21. As entregas das parcelas deverão ser realizadas de forma centralizada no Almoxarifado do Ministério da Saúde em São Paulo no endereço abaixo:
+
+a) Produtos FÁRMACO (Medicamentos/Vacinas/insumos relacionados):
+
+b) Endereço: Rua Jamil João Zarif, nº 684, Jardim Santa Vicência, UNIDADES 11 A 17 é 18º Guarulhos — SP
+c) CEP: 07.143-000.
+
+d) E-mail para agendamento: c glog.agendamento saude. govbr
+
+ 
+
+ 
+
+10 A Contratada deverá agendar cada entrega, entrando em contato com a área responsável através do telefone: (61) 3315-7770 ou (61) 3315.3582.
+10.3. DO RECEBIMENTO DO OBJETO:
+
+1031. Nos termos do art. 73, inciso Il alíneas a e b da lei nº 8.666/93, os imunobiológicos, objeto desta aquisição, serão recebidos da seguinte forma:
+
+10.32. Os bens serão recebidos provisoriamente no prazo de 1 dia, pelo(a) responsável pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de
+sua conformidade com as especificações constantes neste Termo de Referência e na proposta.
+
+10.3. Os bens poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações constantes neste Termo de Referência e na proposta, devendo ser
+
+ 
+
+substituídos no prazo de 15 dias, a contar da notificação da contratada, às suas custas, sem prejuízo da aplicação das penalidades.
+
+ 
+
+10.3.4. Os bens serão recebidos definitivamente no prazo de 15 dias, contados do recebimento provisório, após a verificação da qualidade pelo INCOS e quantidade do material
+e consequente aceitação mediante termo circunstanciado.
+
+10.3.5 Na hipótese de a verificação a que se refere o subitem anterior não ser procedida dentro do prazo fixado, reputar-se-á como realizada, consumando-se o recebimento
+definitivo no dia do esgotamento do prazo.
+
+10.3.6. O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da contratada pelos prejuízos resultantes da incorreta execução do contrato.
+
+11. CLÁUSULA DÉCIMA PRIMEIRA - DO CONTROLE E DA FISCALIZAÇÃO (CRITÉRIO DE MEDIÇÃO)
+
+11.1. Nos termos do art. 67 Lei nº 8.666, de 1993, será designado representante para acompanhar e fiscalizar a entrega dos bens, anotando em registro próprio todas as
+
+ocorrências relacionadas com a execução e determinando o que for necessário à regularização de falhas ou defeitos observados.
+
+112. O recebimento de material de valor superior a R$ 176.000,00 (cento e setenta e seis mil reais) será confiado a uma comissão de, no mínimo, 3 (três) membros,
+designados pela autoridade competente.
+
+113. A CONTRATANTE indicará um fiscal de contrato ou comissão, que será responsável pelo acompanhamento e fiscalização da execução, conforme Portaria GM nº 78/2006
+e Circular MS/SE/GAB nº 40, emitida pelo Gabinete da Secretaria Executiva, assim como artigos. 67 e 73 da Leinº 8.666/1993.9.3.
+
+114. O Fiscal/comissão do contrato deverá manter permanente vigilância sobre as obrigações da CONTRATADA, definidas nos dispositivos contratuais e condições do Termo
+de Referência e, fundamentalmente, quanto à inarredável observância aos princípios e preceitos consubstanciados na Lei nº 8.666/93, com suas alterações.
+
+115. A fiscalização de que trata este item não exclui nem reduz a responsabilidade da Contratada, inclusive perante terceiros, por qualquer irregularidade, ainda que
+resultante de imperfeições técnicas ou vícios redibitórios, e, na ocorrência desta, não implica em corresponsabilidade da Administração ou de seus agentes e prepostos, de
+conformidade com o art. 70 da Lei nº 8.666, de 1993.
+
+116. O representante da Administração anotará em registro próprio todas as ocorrências relacionadas com a execução do contrato, indicando dia, mês e ano, bem como o
+nome dos funcionários eventualmente envolvidos, determinando o que for necessário à regularização das falhas ou defeitos observados e encaminhando os apontamentos à
+autoridade competente para as providências cabíveis.
+12. CLÁUSULA DÉCIMA SEGUNDA —- DAS OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA
+
+12.1. As obrigações da CONTRATANTE e da CONTRATADA são aquelas previstas no Termo de Referência.
+
+13. CLÁUSULA DÉCIMA TERCEIRA — DAS SANÇÕES ADMINISTRATIVAS
+
+13.1. As sanções referentes à execução do contrato são aquelas previstas no Termo de Referência.
+
+14, CLÁUSULA DÉCIMA QUARTA - DA SUSPENSÃO
+
+14.1. Caso a Anvisa suspenda a produção e o uso da vacina, automaticamente ficarão suspensas a execução e as obrigações previstas no presente instrumento.
+
+15. CLÁUSULA DÉCIMA QUINTA - DA RESCISÃO
+
+15.1. O presente Termo de Contrato poderá ser rescindido:
+
+15.11. Por ato unilateral e escrito da Administração, nas situações previstas nos incisos | a XIl e XVII do art. 78 da Lei nº 8.656, de 1993, e com as consequências indicadas no
+art. 80 da mesma Lei, sem prejuízo da aplicação das sanções previstas no Termo de Referência, anexo ao Edital;
+
+15.1.2. Amigavelmente, nos termos do art. 79, inciso II, da Lei nº 8.666, de 1993;
+
+15.13. Caso a Contratada não consiga a autorização para uso emergencial junto à Anvisa, nesta hipótese, sem qualquer ônus para a Contratante, não sendo devido, sequer, o
+
+pagamento pelas parcelas eventualmente entregues;
+
+15.14, Caso, após a autorização para uso emergencial e antes da completa execução do contrato, a ANVISA não registre o produto e/ou revogue a autorização para uso
+emergencial, nessa hipótese, sem ônus para a Contratante em relação às doses ainda não entregues. Quanto às doses já entregues e não administradas, a Contratante será ressarcida
+pelo valor pago.
+
+15.15. Por perda da autorização regulatória expedida pela ANVISA;
+
+15.1.6. Pela falta de eficácia da vacina contra variantes que se tornem prevalentes em território nacional, em grau tal que impeça de atingir a efetiva imunidade de rebanho por
+vacinação na população brasileira
+
+15.2. Os casos de rescisão contratual serão formalmente motivados, assegurando-se à CONTRATADA o direito à prévia e ampla defesa.
+
+15.3. A CONTRATADA reconhece os direitos da CONTRATANTE em caso de rescisão administrativa prevista no art. 77 da Lei nº 8.666, de 1993.
+
+15.4. O termo de rescisão será precedido de Relatório indicativo dos seguintes aspectos, conforme o caso :
+
+15.4.1. Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+
+15.4.2. Relação dos pagamentos já efetuados e ainda devidos;
+
+15.4.3. Indenizações e multas.
+
+16. CLÁUSULA DÉCIMA SEXTA - DAS VEDAÇÕES E PERMISSÕES
+
+16.1. É vedado à CONTRATADA interromper a execução do contrato sob alegação de inadimplemento por parte da CONTRATANTE, salvo nos casos previstos em lei.
+
+16.2. É permitido à CONTRATADA caucionar ou utilizar este Termo de Contrato para qualquer operação financeira, nos termos e de acordo com os procedimentos previstos na
+Instrução Normativa SEGES/ME nº 53, de 8 de julho de 2020.
+
+16.3 A cessão de crédito, a ser feita mediante celebração de termo aditivo, dependerá de comprovação da regularidade fiscal e trabalhista da cessionária, bem como da
+
+certificação de que a cessionária não se encontra impedida de licitar e contratar com o Poder Público, conforme a legislação em vigor, nos termos do Parecer JL-01, de 18 de maio de
+2020.
+
+16.4. A crédito a ser pago à cessionária é exatamente aquele que seria destinado à cedente (contratada) pela execução do objeto contratual, com o desconto de eventuais
+multas, glosas e prejuízos causados à Administração, sem prejuízo da utilização de institutos tais como os da conta vinculada e do pagamento direto previstos na IN SEGES/ME nº 5, de
+2017, caso aplicáveis.
+
+17. CLÁUSULA DÉCIMA SÉTIMA — DOS CASOS OMISSOS
+
+171. Os casos omissos serão decididos pela CONTRATANTE, segundo as disposições contidas na Medida Provisória nº 1.026 de 2021; na Lei nº 8.666 de 1993, na Leinº 10.520
+de 2002 e demais normas federais de licitações e contratos administrativos e, subsidiariamente, segundo as disposições contidas na Lei nº 8.078, de 1990 - Código de Defesa do
+Consumidor - e normas e princípios gerais dos contratos.
+
+18. CLÁUSULA DÉCIMA OITAVA - DA APROVAÇÃO DA DISPENSA DE LICITAÇÃO
+
+18.1. A lavratura do presente Contrato referente à Dispensa de Licitação nº 10/2021, com base no artigo 2º, inciso |, da Medida Provisória nº 1.026, de 6 de janeiro de 2021,
+foi publicada no Diário Oficial - Edição Extra em 19/02/2021, conforme determinado pelo caput do artigo 26 da Lei 8.666/93.
+
+ 
+
+182. Incumbirá à CONTRATANTE, no prazo de cinco dias úteis contados da assinatura deste instrumento, providenciar a disponibilização, em sítio oficial específico na rede
+mundial de computadores (internet), do ato de autorização da contratação direta, bem como as disposições da Medida Provisória nº 1.026, de 6 de janeiro de 2021, observados, no
+que couber, os requisitos previstos no 5 3º do art. 8º da Lei nº 12.527, de 18 de novembro de 2011.
+
+18.3. O presente Termo de Contrato se vincula ao Termo de Referência da Contratante e à proposta da Contratada.
+19. CLÁUSULA DÉCIMA NONA - ALTERAÇÃO SUBJETIVA
+19.1. É admissível a fusão, cisão ou incorporação da contratada com/em outra pessoa jurídica, desde que sejam observados pela nova pessoa jurídica todos os requisitos de
+
+habilitação exigidos na contratação; sejam mantidas as demais cláusulas e condições do contrato; não haja prejuízo à execução do objeto pactuado e haja a anuência expressa da
+Administração à continuidade do contrato.
+
+20. CLÁUSULA VIGÉSIMA - DA SUBCONTRATAÇÃO
+
+20.1. Não será admitida a subcontratação do objeto do Contrato.
+
+21. CLÁUSULA VIGÉSIMA PRIMEIRA - DO FORO
+21,1.
+
+É eleito o Foro da Judiciária do Distrito Federal - Justiça Federal para dirimir os litigios que decorrerem da execução deste Termo de Contrato que não possam ser
+
+compostos pela conciliação, conforme art. 55, 52º da Leinº 8.666/93.
+
+E, para firmeza e prova de assim haverem, entre si, ajustado e acordado, após ter sido lido juntamente com seu(s) anexo(s), o presente Contrato é assinado eletronicamente pelas
+
+partes.
+
+22.
+
+TESTEMUNHAS
+
+Marcelo Batista Costa
+
+CPF: 052.126.
+
+.897-40
+
+Departamento de Logística em Saúde - DLOG/SE
+
+Túlio Belchior Mano da Silveira
+
+cri
+
+ 
+
+89.185.
+
+.558-14
+
+Precisa Comercialização de Medicamentos Ltda.
+
+ 
+
+       
+
+Documento assinado eletronicamente por TÚLIO BELCHIOR MANO DA SILVEIRA, Usuário Externo, em 25/02/2021, às 14:28, conforme horário oficial de Brasília, com fundamento no art.
+62, 12, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Emanuela Batista de Souza Medrades, Usuário Externo, em 25/02/2021, às 14:31, conforme horário oficial de Brasília, com fundamento no
+art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+ 
+
+Documento assinado eletronicamente por Roberto Ferreira Dias, Diretor(a) do Departamento de Logística, em 25/02/2021, às 16:28, conforme horário oficial de Brasília, com
+
+fundamento no art. 6º, 8 1º, do Decreto nº 8,539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Documento assinado eletronicamente por Marcelo Batista Costa, Coordenador(a)-Geral de Aquisições de Insumos Estratégicos para Saúde substituto(a), em 25/02/2021, às 16:22,
+conforme horário oficial de Brasília, com fundamento no art. 62, 5 1%, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.175250/2020-85 SEI nº 0019155275
+
+Divisão de Análise das Aquisições de Insumos Estratégicos para Saúde- DIVAN
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívco-Administrativ, Brasília/DF, CEP 70058-900
+Site - saude gov. br
+

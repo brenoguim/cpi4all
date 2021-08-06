@@ -1,0 +1,1445 @@
+"EBSERH HOSP UNIV MARIA APARECIDA PEDROSSIAN – CNES 0009709",,,,
+,,,,
+"ANO: 2018 e 2019",2018,,2019,
+Descrição,"Leitos Existentes","Leitos SUS","Leitos Existentes","Leitos SUS"
+"66-UNIDADE ISOLAMENTO",1,1,0,0
+"75-UTI ADULTO - TIPO II",17,16,19,16
+"78-UTI PEDIATRICA - TIPO II",6,5,5,5
+"81-UTI NEONATAL - TIPO II",6,6,6,6
+"92-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CONVENCIONAL",10,6,10,6
+"93-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CANGURU",4,0,4,0
+"94-UNIDADE DE CUIDADOS INTERMEDIARIOS PEDIATRICO",1,0,0,0
+TOTAL,45,34,44,33
+,,,,
+,,,,
+"ANO: 2020 e 2021",2020,,2021,
+Descrição,"Leitos Existentes","Leitos SUS","Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",10,10,11,0
+"75-UTI ADULTO - TIPO II",18,16,18,16
+"78-UTI PEDIATRICA - TIPO II",5,5,5,5
+"81-UTI NEONATAL - TIPO II",6,6,6,6
+"92-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CONVENCIONAL",10,6,10,6
+"93-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CANGURU",4,0,4,0
+TOTAL,53,43,54,33
+"HOSPITAL REGIONAL DE MATO GROSSO DO SUL – CNES 0009725",,,,
+,,,,
+"ANO: 2018 e 2019",2018,,2019,
+Descrição,"Leitos Existentes","Leitos SUS","Leitos Existentes","Leitos SUS"
+"75-UTI ADULTO - TIPO II",29,29,29,29
+"78-UTI PEDIATRICA - TIPO II",8,8,8,8
+"81-UTI NEONATAL - TIPO II",10,10,10,10
+"85-UTI CORONARIANA TIPO II - UCO TIPO II",10,10,10,10
+"92-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CONVENCIONAL",20,20,20,20
+"93-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CANGURU",5,5,5,5
+TOTAL,82,82,82,82
+,,,,
+,,,,
+"ANO: 2020 e 2021",2020,,2021,
+Descrição,"Leitos Existentes","Leitos SUS","Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",60,60,85,73
+"52-UTI II PEDIATRICA-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",3,0,3,0
+"75-UTI ADULTO - TIPO II",29,29,29,29
+"78-UTI PEDIATRICA - TIPO II",8,8,8,8
+"81-UTI NEONATAL - TIPO II",10,10,10,10
+"85-UTI CORONARIANA TIPO II - UCO TIPO II",10,10,10,10
+"92-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CONVENCIONAL",20,20,20,20
+"93-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CANGURU",5,5,5,5
+"96-SUPORTE VENTILATÓRIO PULMONAR - COVID-19",0,0,16,11
+TOTAL,145,142,186,166
+"SANTA CASA – CNES 0009717",,,,
+,,,,
+"ANO: 2018 e 2019",2018,,2019,
+Descrição,"Leitos Existentes","Leitos SUS","Leitos Existentes","Leitos SUS"
+"76-UTI ADULTO - TIPO III",60,57,70,57
+"79-UTI PEDIATRICA - TIPO III",14,10,16,10
+"82-UTI NEONATAL - TIPO III",8,8,8,8
+"92-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CONVENCIONAL",11,11,11,11
+"93-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CANGURU",4,4,4,4
+TOTAL,97,90,109,90
+,,,,
+,,,,
+"ANO: 2020 e 2021",2020,,2021,
+Descrição,"Leitos Existentes","Leitos SUS","Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",10,10,10,10
+"76-UTI ADULTO - TIPO III",70,67,70,67
+"79-UTI PEDIATRICA - TIPO III",16,10,16,10
+"82-UTI NEONATAL - TIPO III",8,8,8,8
+"92-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CONVENCIONAL",11,11,11,11
+"93-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CANGURU",4,4,4,4
+TOTAL,119,110,119,110
+"HOSPITAL DO CANCER DR ALFREDO ABRAO – CNES 0009776",,,,
+,,,,
+"ANO: 2018 e 2019",2018,,2019,
+Descrição,"Leitos Existentes","Leitos SUS","Leitos Existentes","Leitos SUS"
+"75-UTI ADULTO - TIPO II",10,4,10,4
+TOTAL,10,4,10,4
+,,,,
+,,,,
+"ANO: 2020 e 2021",2020,,2021,
+Descrição,"Leitos Existentes","Leitos SUS","Leitos Existentes","Leitos SUS"
+"75-UTI ADULTO - TIPO II",10,4,10,4
+TOTAL,10,4,10,4
+"ASSOCIACAO DE AMPARO A MATERNIDADE E A INFANCIA AAMI - 0009768",,,,
+,,,,
+"ANO: 2018 e 2019",2018,,2019,
+Descrição,"Leitos Existentes","Leitos SUS","Leitos Existentes","Leitos SUS"
+"81-UTI NEONATAL - TIPO II",26,20,26,20
+"92-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CONVENCIONAL",10,10,10,10
+"93-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CANGURU",4,4,4,4
+TOTAL,40,34,40,34
+,,,,
+"ANO: 2020 e 2021",2020,,2021,
+Descrição,"Leitos Existentes","Leitos SUS","Leitos Existentes","Leitos SUS"
+"81-UTI NEONATAL - TIPO II",26,20,26,20
+"92-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CONVENCIONAL",10,10,10,10
+"93-UNIDADE DE CUIDADOS INTERMEDIARIOS NEONATAL CANGURU",4,4,4,4
+TOTAL,40,34,40,34
+"HOSPITAL ADVENTISTA DE CAMPO GRANDE UNIDADE MATRIZ – CNES 2646773",,
+,,
+,,
+"ANO: 2020",2020,
+Descrição,"Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",16,16
+"74-UTI ADULTO - TIPO I",10,0
+"75-UTI ADULTO - TIPO II",0,0
+TOTAL,26,16
+,,
+,,
+"ANO: 2021",2021,
+Descrição,"Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",30,30
+"74-UTI ADULTO - TIPO I",0,0
+TOTAL,30,30
+"CLINICA DE CAMPO GRANDE AS – CNES 2599856",,
+,,
+,,
+,,
+,,
+"ANO: 2020",2020,
+Descrição,"Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",10,5
+"75-UTI ADULTO - TIPO II",20,0
+"85-UTI CORONARIANA TIPO II - UCO TIPO II",10,0
+TOTAL,40,5
+,,
+,,
+"ANO: 2021",2021,
+Descrição,"Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",10,10
+"75-UTI ADULTO - TIPO II",20,0
+"85-UTI CORONARIANA TIPO II - UCO TIPO II",10,0
+TOTAL,40,10
+"PRONCOR – CNES 2599848",,
+,,
+,,
+"ANO: 2020",2020,
+Descrição,"Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",20,0
+"66-UNIDADE ISOLAMENTO",3,0
+"75-UTI ADULTO - TIPO II",8,0
+"76-UTI ADULTO - TIPO III",6,0
+"86-UTI CORONARIANA TIPO III - UCO TIPO III",6,0
+TOTAL,43,0
+,,
+,,
+"ANO: 2021",2021,
+Descrição,"Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",20,0
+"66-UNIDADE ISOLAMENTO",3,0
+"75-UTI ADULTO - TIPO II",8,0
+"76-UTI ADULTO - TIPO III",6,0
+"86-UTI CORONARIANA TIPO III - UCO TIPO III",6,0
+TOTAL,43,0
+"HOSPITAL GERAL EL KADRI LTDA – CNES 3984338",,
+,,
+,,
+,,
+"ANO: 2020",2020,
+Descrição,"Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",7,0
+"76-UTI ADULTO - TIPO III",13,0
+"81-UTI NEONATAL - TIPO II",10,0
+TOTAL,30,0
+,,
+,,
+"ANO: 2021",2021,
+Descrição,"Leitos Existentes","Leitos SUS"
+"51 - UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19",10,5
+"76-UTI ADULTO - TIPO III",13,0
+"81-UTI NEONATAL - TIPO II",10,0
+TOTAL,33,5
+susmãa
+
+ 
+
+SESAU
+
+ 
+
+  
+
+soa Ega
+
+ 
+
+ 
+
+DIVISÃO DE MONITORAMENTO HOSPITALAR - DMH/GERÊNCIA DE CONTROLEE AVALIAÇÃO = GCA/SUPRIS/SeSaU:
+
+TAXA DE OCUPAÇÃO GLOBAL DE LEITOS DE UTI ADULTO 31/10/2020 - FERÍONO MATUTINO
+
+ 
+
+ 
+
+ 
+
+LEITOS PREVESTOS /CONTRATADOIS CONVENIADOS
+
+ 
+
+BIJANTIDADE Pacientes INTERNADOS
+
+ 
+
+TAXA DEDCUPAÇÃO
+
+ 
+
+divas oisponveis ao sus
+
+ 
+
+ 
+
+QUANTIDADE PAdENTES itinaDos ”
+
+= az 1 a 2 2 2
+
+ 
+
+TAXA DE DEUPAÇÃO 73%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+90% ER 100% | 6% | Jim | 25% Ea
+
+ 
+
+FONTE CENSO NGFPITALAR = MATUTINO]
+
+OBS "CONTRATO PRIVE À OCUPAÇÃO DE LETOS DE ACORDO COM A DISPONtNhIDADE- DESC
+
+TAXA DE GCUPAÇÃO DE UM Glosa!.
+
+'A A TAXA DE OCUPAÇÃO DE LEITOS DISPONÍVEIS E OCUPADOS POR PACIENTES SUS NO PERÍODO:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tErtos exssyenres E 248 E
+OLANTIDADE PACAS
+
+vreanaDos dr A E
+TAXA DE OCUPAÇÃO az 79% 72%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FONTE TENEO HOSPTAARO MATUTINO
+
+ 
+
+ 
+ 
+
+ 
+
+ONLINE - HVTYLIASOH OSNID HINOS
+
+ 
+
+ 
+
+ 
+
+%BL Ls ssa OySvdnao 30 vxvL
+SOQuNHaLNI
+
+e RE e saLNatova 2OVaLHVAD
+
+sz mz
+
+uz SSINZASIXa SOLET |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WWS019 LN 30 0y5vVANDO 30 vXVL
+
+“OMOJHIS ON SNS SIINAIOVA HOL SOOVANDO A SIINNOASIA SQUAT 20 OYÍVANDO 20 VXVLY VUHISO - J0VANIEINOASIO Y IND OGHOIY JA SOLIIT RA ONÍVANDO W JATHA OLVELNOO,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"são
+ONLUMLVIN - HWTVLSOH OSNID :ILNOA
+%LR DOT 00T O E SE00T %06 mr | E ONÍVANIO 10 VKVL
+oz 5 P 0 | st BE u 18 SOQVNHALNI SILNIDVA JOVALNYOD
+tz 5 r º se st se tt e: | SNS OW SIZANOASIO SOL
+BL BE Op uo | %0L BOOT %06 Sab6 Ka | OySvanDO da vcs
+st sr ut Tê | SOMVNHALNI SILNIDVA JOVALNVAD
+sr |
+
+| SOQVINIANOI/SOCYLVEINOD/SOLSINIHA SOLIIT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NWsas/SIBANS/VID - OWÍVITVA 3 JOUINOO 30 VIDNTUIS /HIO - UVTVLIASOH OLNINIVEOLINDIN IA OySINIa
+
+ONLINIRI OGO]HAd - 0707/TT/0E OLINOR LIN 20 SOLAT 30 TVEOTA OyÍVANDO 30 VAVIL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+m
+EESasAs
+H
+JSUUBISUIPO UJOO OPEZIJEJDIC
+
+E
+
+ 
+   
+
+e a Sopa Semp
+
+sápajeg EUIoW Sluojtiy :SOpep ap majoa jonpstadson conta BUBMOIAS HIMPy 102371 InagsUadisT
+
+   
+
+ 
+
+          
+
+ 
+
+o E ONILNIMA = HYIM ASH OSNII SSLNDA
+use %5s DuÔVANDO 30 VAL
+E SOJY NHL
+o e SIiNIDNA ACVOLLNAD
+
+ 
+
+SaLNa isa SOU
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+149019 LiNO Ovóvando 30 Wo À
+
+ 
+
+“OMO)uIA ON SAS SALNIIDVA HOM SOUVANIO 3 SIZAJNOASIA SOLFVIA OWSMENIO 30 VKVLN VINIS = 3OVONIBMOASIO V IHODOONOOY 3 SOL 2A OFÍVANDO M JAH DIVEINOO, “SEO
+OMLO LIA = HVTVLASOH OSNII/3LNDA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+  
+
+ 
+
+ASB | OS SEDOT o Ea MID | 58 mes %ES OYSWANIO 30 VicYL
+ore z s a um TE 1 08 s6 SOdVNHILNISILNIDVA ZOVALINYNO
+Ter ? s 2 se BE, e EB SET, sfis OW SEANOdSIa SOLIaT
+SL SEDE Me |O O senG” | 369 Ta58 SETE GE ONSVANDO JO VIGL E
+Drz z 5 õ tz TE “ o 85 SOQUNHILNI SHLNADVA IOVOLNVNO
+SOQVINSANOD/S0 UV LVULNOS/SOLSININA SOLET
+Efe aos paia Pá
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ONILREVIA OGOjHId - 0207/TT/TE OLINAY LN 3A SOLIAT 30 TVEOID OVSvANDO 20 WNVL
+
+AVSAS/SIMANS/ 930 = OVÍNTIVAY 3 MOV LNOI 30 VIDNIHAS HO - HVIVLdSOH DLNIINVEOLINOIA JA OYSIAO
+
+ 
+
+ 
+
+ 
+
+ORSupRAD ajonuoa
+
+assenso er
+pÉqvos Setas nVSas ENgsns
+Rzá Ea SA E
+
+ 
+ 
+
+PREFEITURA MUNICIPAL DE CAMPO GRANDE
+ESTADO DE MATO GROSSO DO SUL
+SECRETARIA MUNICIPAL DE SAÚDE
+
+Em atenção ao Ofício nº 914/2021 — CPIPANDEMIA de 7 de maio de 2021, que encaminha o
+Requerimento nº 450/2021 — CPIPANDEMIA, que solicita quantidade de leitos das Unidades de Tratamento
+Intensivo dos Hospitais públicos estaduais, municipais e conveniados nos anos de 2018, 2019, 2020 e
+2021”, bem como o percentual de ocupação, segue manifestação desta SUPRIS consoante as informações
+
+da Gerência de Controle e Avaliação —GCA e Gerência de Processamento SIA/SIH e CNES .
+
+Informamos que usamos como base de dados, os leitos da Rede Física cadastrados no CNES -
+Cadastro Nacional de Estabelecimentos de Saúde, uma vez que o CNES é o sistema de informação oficial de
+cadastramento de informações de todos os estabelecimentos de saúde no país, independentemente de sua
+natureza jurídica ou de integrarem o Sistema Único de Saúde - SUS. Trata-se do cadastro oficial do
+Ministério da Saúde - MS no tocante à realidade da capacidade instalada e mão-de-obra assistencial de
+
+saúde no Brasil em estabelecimentos de saúde públicos ou privados, com convênio SUS ou não;
+
+Inteiramos ainda que, no que compete à gestão municipal do SCNES, os leitos de UTI são
+alimentados no campo EXISTENTES, conforme solicitação dos estabelecimentos de saúde e
+contrato/convênio com o SUS, porém no campo QUANTIDADE SUS, os leitos de UTI somente são
+alimentados via Ministério da Saúde. Tal processo ocorre através de habilitação, os mesmos são publicados
+em Portaria ministerial e somente após, são atualizados no CNES através de arquivo específico denominado
+GESTOR FEDERAL, que após disponibilizado no site nacional do CNES, é extraído diariamente por download,
+pelos operadores da gestão municipal, importado no sistema local SCNES e na sequência, é compactado em
+
+um banco de dados que é transmitido novamente ao Ministério da Saúde.
+
+Os dados utilizados na elaboração do relatório solicitado no ofício nº914/2021 - CPIPANDEMIA
+foram extraídos do site < http://cnes.datasus.gov.br/>, sendo de livre acesso e consulta para efeito de
+
+verificação e confirmação das informações.
+
+Segue anexo o relatório de leitos por estabelecimento conforme solicitado
+
+A Taxa de Ocupação Hospitalar-TOH é um dado que possui uma diversidade de parâmetros, os
+quais devem ser delimitados de acordo com a expectativa de informações a serem adquiridas. Desta forma,
+de acordo com o conteúdo do texto referente à CPI da Pandemia, os técnicos da Divisão de Monitoramento
+Hospitalar — DMH da Gerência de controle e Avaliação GCA utilizaram para obtenção da TOH a seguinte
+
+metodologia:
+ 
+
+PREFEITURA MUNICIPAL DE CAMPO GRANDE
+ESTADO DE MATO GROSSO DO SUL
+SECRETARIA MUNICIPAL DE SAÚDE
+
+Para a obtenção dos dados de TOH-UT! Adulto Global, referentes aos anos de 2018 e 2019, foram
+utilizadas as informações constantes nas documentações encaminhadas pelos hospitais para Comissão de
+Acompanhamento à Contratualização - CAC. No entanto, para o ano de 2020 e 2021, devido à Pandemia, a
+qual decorreu em ampliações significativas de leitos, foram utilizados dados do Monitoramento Hospitalar,
+realizado pelos supervisores hospitalares.
+
+Os dados de 2020 e 2021 foram extraídos através dos censos nominais hospitalares do período
+matutino, considerando o último dia de referência do mês. Salientamos que foi utilizado em 2020 dados de
+outubro a dezembro e para 2021, de janeiro -a abril de todos os hospitais públicos e privados
+contratados/conveniados com esta Secretaria Municipal de Saúde- SESAU para atendimentos globais,
+incluindo atendimentos de retaguarda e exclusivos para COVID-19.
+
+Sendo assim, a Média de TOH de UTI Adulto Global referente ao ano de 2018, do somatório dos
+hospitais é de 88,25%, em 2019 é de 92,25%, em 2020 (período de outubro a dezembro) é de 83,66% e de
+2021 (período de Janeiro a Abril) é de 89,12%.
+
+Atenciosamente,
+
+ 
+
+Eliana Amaral Dalla Nora Franco
+
+Superintendência de Relações Institucionais de Saúde — SUPRIS
+NVSIS/SIHd NS VOS ue endsoH OQUUaeIO)UOLA SP OBS
+Jejegidsoy pJOstuadns
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“apoprad ou jeudsoy ojad sepequasasde semyeyjenh seja apsagiejuamndop sep sopesa: Wei! GTDT 9 STOZ 2P SOpep sorejuos
+WLO 66 86 HS6 HP %B6 KB6 HB6 %66 %L6 WLG6 mB KB6 TOL
+96 NSE LG %S6 96 WE H86 6 HEG %L6 ES 56 NSE 8T0z
+OdOISI VIGIA za AON no Ss DoY nr hnr IRIA Bar el had Nvr
+SINHH 1780719 OLINAY 1LN 30 SOLIZN 3A OvÍVANDO JM VXVL
+
+ 
+
+ 
+
+ 
+
+ 
+
+HNCAVIVIISOH OLNTNFAOLINON SO OFSTAIO
+FIO OPÓVIIPAV E STOULNOD TO VIONITO
+SINA AS: DONVS WESIVNOIDOLLLSNI SAQÓVIZA DA VFIDNHONHUNTIAAAS
+NYSaS = QN FS TA TRADINAH FIMELTNIAS
+
+ 
+ 
+
+E
+ESSE SNS
+Ea
+NWSAS/SIHANS/ VOS /lejeudsoH ojuaueJouuoia ap ogsjaq
+JejegidsoH Joss,
+
+7
+
+“opoiad ou jpydsoy ojad sepequasaade SoQóPjUaLUNSOp sep sengegj
+
+ 
+
+e
+
+a tes py
+N
+
+psisdng
+-NIUOD:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+enb seyauu sep sopesnas Leioy GTOZ & BTT ap sopep so :aquos
+Fo9L WEB [%99 %88 mL8 MG WS6 %E8 %98 MEL %0E MES seg [ETOZ
+%08 MPL MEL BEL mea mea MEL OL WT6 HEG %56 FobB %E8 BTOZ
+OGOl4Id VIGA, zaa NON ANO] das) ooy) Nf) Mn, PrIM var] HvIA nad Nor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NNOH - OydaY OCINATY HIDNO 3Q TV LIdSOH IV9OTD OLINTY LLN 30 SOLIZT IA OySvANIO 30 VXVL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HH - AVTRLIASOH OLNTWFHOLINOW AG ONSIAIO
+
+VOID OPÓPIIVAR SMTONINOS dd FINHUITO
+
+SIHAAS = TONVS WA STENOIQNLILSNISROÍV ITA TA VIONA GNTLNRITAOS
+NVSAS = TONVS MO TRAIDINNAS PIFRLTDAS
+
+   
+
+E
+
+E
+
+ 
+NWSAS/SiHd NS/VID NeJendsOH QUUSLIBIOMUOIA SP OBSIMQ
+apjeyidsom
+
+  
+
+“S3ND OU SOsnpuf OBU sexxo soja] ap ogiegdtue ouios sjeydsowy sojad sepestyysnf wesos s00T wessedesn anb ogiednag op sexea sy seo
+
+“opojiad ou jegidsouy ojad sepejuasaade senpeggenh seja ap sagjejusundop sep'sopeigos Welos GTOZ 9 STOZ Sp sopep so:aquos
+
+ 
+
+SZ0T ME'GOL MOST M6'TLL ME'OTT METIL | MEOTL WB6 Hr'Es %E'98 E %S'EG tr6 GTOZ
+
+ 
+
+MEG H6'LE me'6s %6'E6 %68 | WE06 E %T'06, ML'TE m9“E6 WL'96 HP TE BTOZ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OCOIHIA VIGIA | OHEUNIZIA | OHBINIAON | OHIALNO | OHBINILIS | OLSODY oHINT OHNNF OIVIA Nus OSUVIN | OMIINIAIA | OMIINVT
+
+ 
+
+ 
+
+E dYINNH IV8O1D OLINAY LN Ja SOLIZT Id OyÍvANDO Ja vxvA
+
+ 
+
+ 
+
+HNGHFTRLIASOH OLNENFUOLINON TU OFSIAIE
+VOS 0FÍFITRAR E TOUINOD TG VIDNTUIO:
+SIIANS = TONVS ME STENO[DMHSNI SAQÍVIAS AO VIONTONTINTHZANS:
+MESAS = ALVES TA TVAIDINDIN FTTELTIDAS
+
+ 
+ 
+NYSaIS/SINANS/WIS ue jeudsom QUUBLUEJOJIUO|A ap OBS
+Jejegidson esosnIsdns
+
+ 
+ 
+ 
+
+“SINO Ou sOsnpauI opu sexo soa] ap 0g5
+
+ 
+
+Ure QUO sieytdsoy sojad sepeogysnr Welo) %00T Luessedeg|n anb opsednag ap Sexe] sy sao
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“opojiad ou jeydsou ojad sepejuaseude sennezjenh sea PP SegÍejuaLNaop sep sopemnas WejO! GTOZ à BTOZ ap sopep sq:quos
+r6 %LB E %WLB 9S0T Hr M6TT 68 WLB ol AS6 WEB E 6TOL
+mr MBB MTL GEL MB WLL %PL %6B NT %S6 WEG %68 WIL BTOZ
+
+OdOI4Id VIGIIN zag AON No IS o9v nr NnTr ria ERRA via NERI Nyr
+De VSVI VINVS/IONVHS OdiNVO JO JLNIDININAA OvÍVIDOSSY - ONINAV UN 3a SOLIaT OVÍVANDO VRVL
+EMO IVLIdSO OLNSNVHOLINON SG OVSTAIG
+
+ 
+
+ 
+
+ 
+
+ 
+
+VON OFÓPIIVARS TTOUINOS TO VIDNSUEO
+SRINS = 2GNVS HE SIVNOIONLILSNISAQÍVIZE RA VIONHONTINTIZANS
+DESTES HONVS AO TPAIDINAH VINVLZNDAS
+Bege os
+Ea vos E Bm
+
+ 
+
+ 
+
+ 
+Ea
+
+SUPRIS SME
+ne
+
+  
+
+sus ga
+E
+
+ 
+ 
+ 
+
+ 
+
+DIVISÃO DE MONITORAMENTO HOSPITALAR - DMH/GERÊNCIA DE CONTROLE E AVALIAÇÃO - GCA/SUPRIS/SESAU
+
+ 
+
+ 
+
+TAXA DE OCUPAÇÃO GLOBAL DE LEITOS DE UTI ADULTO 31/01/2021 - PERÍODO MATUTINO
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+joio
+LEITOS PREVISTOS/CONTRATADOS/CONVENIADOS us s | 18 30
+QUANTIDADE PACIENTES INTERNADOS. ] 84 69 13 17 21 0 & 1 206
+PANA DEOCUPAÇÃO! 71% [79% 65% E 70%. 0% 10% 67%
+LEITOS DISPONÍVEIS AO SUS 418 87 2» 18 30 | o 3 E 282
+QUANTIDADE PACIENTES INTERNADOS Ba 69 13 17 2 0 1 1 206
+TAXA DE OCUPAÇÃO 71% 79%. 65% EL 70% 0% 33% 17% 73%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FONTE: CENSO HOSPITALAR - MATUTINO
+OBS.: +CONTRATO PREVÊ A OCUPAÇÃO DE LEITOS DE ACORDO COM A DISPONIBILIDADE - DESCRITA A TAXA DE OCUPAÇÃO DE LEITOS DISPONÍVEIS E OCUPADOS POR PACIENTES SUS NO PERÍODO.
+
+ 
+
+TAXA DE OCUPAÇÃO DE UTI GLOBAL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LEITOS EXISTENTES 243 282 308
+QUANTIDADE PACIENTES
+206
+INTERNADOS tes 206
+TAXA DE OCUPAÇÃO 75% | 73% 67%
+
+ 
+
+ 
+
+ 
+
+FONTE: CENSO HOSPITALAR - MATUTINO
+
+Responsável Técnico: Evelyn Fabrini Gaspar Responsével Coleta de dados: Antônio Molina Paredes
+
+A “as ds Pros
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+TAXA DE OCUPAÇÃO GLOBAL DE LEITOS DE UTI ADULTO 28/02/2021 - PERÍODO MATUTINO
+
+DIVISÃO DE MONITORAMENTO HOSPITALAR - DIMH/GERÊNCIA DE CONTROLE E AVALIAÇÃO - GCA/SUPRIS/SESAU
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+f
+LEITOS PREVISTOS/CONTRATADOS/CONVENIADOS 118 Br | 20 18
+
+QUANTIDADE PACIENTES INTERNADOS 103 87 16 18 25 o 4 o 253
+TAXA DE OCUPAÇÃO 87% 100% 80% | 100% | 83% 0% ao% 0% 26%.
+| LEITOS DISPONÍVEIS AQ SUS is 87 20 18 30 o a o 27
+QUANTIDADE PACIENTES INTERNADOS 103 8 16 18 25 o 4 o 253
+TAXA DE OCUPAÇÃO 87% 100% so% | 100% | e3% 0% 100% 0% 91%
+
+FONTE: CENSO HOSPITALAR - MATUTINO
+
+ 
+
+ 
+
+TAXA DE OCUPAÇÃO DE UTI GLOBAI
+
+L
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+243 2n 295
+|]
+QUANTIDADE PACIENTES!
+253
+INTERNADOS. | 2a, ass
+al
+TAXA DE OCUPAÇÃO | 92% 91% B6%
+
+ 
+
+ 
+
+FONTE: CENSO HOSPITALAR - MATUTINO
+
+ 
+
+      
+
+ 
+
+fependsom esostalada
+[3-6 0S SME HINO
+NOM THAMMONOS MUAY
+
+Responsável Coleta de Dados: Claudia Luzia e Leonardo Manques
+
+ 
+
+JE
+
+OBS.: “CONTRATO PREVÊ A OCUPAÇÃO DE LEITOS DE ACORDO COM A DISPONIBILIDADE - DESCRITA A TAXA DE OCUPAÇÃO DE LEITOS DISPONÍVEIS E OCUPADOS POR PACIENTES SUS NO PERÍODO.
+
+ 
+SESAU
+
+Senai hdimaipal de 8i05a Pústca
+
+ 
+
+TOTAL DE LEITOS DE UTI = 338 LEITOS
+
+ 
+ 
+
+ 
+
+ 
+
+[ADULTO 31/03/2021 - PERÍODO MATUTINO
+
+DIVISÃO: DE MONITORAMENTO: HOSPITALAR - DMN/GERÊNCIA DE CONTROLE E. AVALIAÇÃO: =GCA/SUPRIS/SESAU. É
+“TAXA DE OCUPAÇÃO GLOBAL DE LEITOS DE
+
+ 
+
+  
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERES ER E e e Es
+DO ESTARRLEC(ENOSO PS AUDE E Ss à nen imo |
+LEITOS PREVISTOS/CONTRATADOS/CONVENIADOS 88 20 36 “0
+QUANTIDADE PACIENTES INTERNADOS 120 as 18 31 0 z 22 io 331
+TAXA DE OCUPAÇÃO 100% 100% 90% BG. 100%: 100% 009% 100% 97,9%
+LEITOS DISPONÍVEIS AO SUS 120 BB 20 36 as o 14 6 319
+QUANTIDADE PACIENTES INTERNADOS 120 88 18 31 35 o 14 6 312
+TAXA DE OCUPAÇÃO 100% 100% 90% 86% 100% 0% 100% 100% 97,8%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FONTE: CENSO HOSPITALAR MATUTINO E GABINETE DE CRISE HRMIS
+
+*CONTRATO PREVÊ A OCUPAÇÃO DE LEITOS DE ACORDO COM A DISPONIBILIDADE - DESCRITA A TAXA DE OCUPAÇÃO DE LEITOS DISPONÍVEIS E OCUPADOS POR PACIENTES NO PERÍODO.
+
+** A SANTA CASA APRESENTA CAPACIDADE TOTAL DE 52 LEITOS, DESTES, 87 SÃO CONTRATUALIZADOS PELO SUS E 5 LEITOS PARA DEMANDA PRIVADA. ASSIM, NA DATA DE HOJE, O CENSO NOMINAL APRESENTOU 88 PACIENTES.
+SUS E 1 PACIENTE SUS OCUPANDO LEITO CONVENIADO/PARTICULAR.
+
+ 
+
+INFORME
+
+ 
+
+ 
+
+LEITOS EXISTENTES
+
+ 
+
+ 
+
+QUANTIDADE PACIENTES INTERNADOS 25"
+
+312 331
+
+ 
+
+TAXA DE OCUPAÇÃO 97%
+
+ 
+
+ 
+
+ 
+
+97,8% E 97,9%.
+
+ 
+
+ 
+
+ 
+
+1) EM ANÁLISE REALIZADA DOS CENSOS NOMINAIS VERIFICAMOS
+PACIENTES DE CONVÊNIOS/PRIVADOS OCUPANDO LEITOS PREVISTOS AD
+Sus:
+
+OS NO PÊNFIGO
+
+UZ NO PRONCOR
+
+D4 NO EL-KADRI
+
+DSINA CLINICA CAMPO GRANDE
+
+ 
+
+ 
+
+FONTE: CENSO HOSPITALAR - MATUTINO
+
+Schowantz
+
+ 
+
+Responsável Técnico; Ad
+
+ 
+
+Responsável Coleta de Dados: Luis Gustavo de Arruda Lima
+
+NDA
+
+  
+SESAU
+
+Breceteia Moniz Sae Púica
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+TOTAL DE LEITOS DE UTI = 338 LEITOS
+
+ 
+
+ 
+
+   
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DIVISÃO DE MONITORAMENTO HOSPITALAR - DMH/GERÊNCIA DE CONTROLE E AVALIAÇÃO - GCA/SUPRIS/SESAU E
+TAXA D “QEUPAÇÃO GLOBAL DE LEITOS DE UTI ADULTO Sans = PERÍODO MATUTINO:
+E E e EUgE ES ras E =| a
+LEITOS. SRI ROS COROS 125 87 20 36
+
+QUANTIDADE PACIENTES INTERNADOS 123 8s. 8 36 35 z 22 10 321
+TAXADE OCUPAÇÃO E gem: “98% nos ago “GI 1009 100%. 10026 95,0%
+
+LEITOS DISPONÍVEIS-AO SUS: 125 87 20 36 2 o 18 5 am
+
+QUANTIDADE PACIENTES INTERNADOS 123 as E 36 ] 28 0 18 5 303
+TAXA DE OCUPAÇÃO l 98% aB% som | 100% are | 0% | 100% 100% 94,7%
+
+FONTE: CENSO HOSPITALAR MATUTINO E GABINETE DE CRISE HRMIS:
+
+ 
+
+ 
+
+ 
+
+ 
+
+*CONTRATO PREVÊ A OCUPAÇÃO DE LEITOS DE ACORDO COM A DISPONIBILIDADE - DESCRITA A TAXA DE OCUPAÇÃO DE LEITOS DISPONÍVEIS E O!
+*2HCAA APRESENTA 10 LEITOS A MENOS QUE O CONTRATUALIZADO, CONFORME E-MAIL ENVIADO NO DIA 30/04/2021 AS 06:51h.
+
+ 
+
+PADOS POR PACIENTES NO PERÍODO.
+
+*2*HAP APRESENTA CENSO NOMINAL COM 35 FACIENTES,COM 1 LEITO BLOQUEADO PARA LIMPEZA NO CTi 4,CONFORME EMAIL ENVIADO DIA 30/04/2021 AS 08:23h.
+****HRIMS APRESENTA NOMINAL COM 123 LEITOS OCUPADOS E 1 LEITO À MENOS MA UTI 7.
+
+ 
+
+TAXA DE foda. DE UTI GLOBAL INFORME
+
+ 
+
+1) EM ANÁLISE REALIZADA DOS CENSOS NOMINAIS VERIFICAMOS
+PACIENTES DE CONVÊNIOS/PRIVADOS OCUPANDO LEITOS PREVISTOS AO
+sus:
+
+  
+
+ 
+
+LEITOS EXISTENTES 07 NO PÊNFIGO
+
+-— 02 NO PRONICOR
+QUANTIDADE PACIENTES INTERNADOS 252 303 Ega 05 NO EL-KADRI
+
+04 NA CLINICA CAMPO GRANDE
+OZ NA SANTA CASA
+
+ 
+
+ 
+
+TAXA DE DeuPação:
+FONTE: censor -
+
+Responsável Técnicd: Valentine Magalhães Responsável Coleta de Dados: Luís
+
+ 
+
+94,7% 55,0%
+Jesus Se
+
+o
+
+5
+ap SESAU
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+     
+
+istávo de Arruda Lima
+
+ 
+

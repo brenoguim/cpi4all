@@ -1,0 +1,3339 @@
+<!DOCTYPE html>
+<html lang="pt-br" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>SEI/MD - 3569178 - E-mail</title>
+<style type="text/css" >
+*{ 
+ font-style:normal;
+ font-weight:normal;
+ color:black;
+}
+
+body{
+ font-size:10pt;
+ font-family:Arial,Verdana,Helvetica,Sans-serif;
+ text-align:left;
+ overflow-y:scroll;
+}
+
+#titulo {
+ padding: 2px 0;
+ text-align:center;
+ vertical-align:middle;
+ width:100%;
+ background-color:#dfdfdf;
+ border-bottom: 4px solid white;
+ overflow:hidden;
+}
+
+#titulo label {
+ font-size:11pt;
+ font-weight:bold;
+ color:#666;
+ background-color:#dfdfdf;
+}
+
+div b {font-weight:bold;}
+div i {font-style:italic;}
+</style>
+</head>
+<body>
+<div id="titulo">
+<label>E-mail - 3569178</label>
+</div>
+<div id="conteudo">
+<br />
+<b>Data de Envio</b>: <br />
+&nbsp;&nbsp;14/05/2021 17:46:36<br />
+<br />
+<b>De</b>: <br />
+&nbsp;&nbsp;MD/protocolo@defesa.gov.br &lt;protocolo@defesa.gov.br&gt;<br />
+<br />
+<b>Para</b>:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;sec.cpipandemia@senado.leg.br<br />
+<br />
+<b>Assunto</b>: <br />
+&nbsp;&nbsp;Requerimento n� 35/2021/CPIPANDEMIA<br />
+<br />
+<b>Mensagem</b>: <br />
+&nbsp;&nbsp;Encaminho   OF�CIO N�12393/GM-MD, de 12 de maio de 2021. Solicito acusar recebimento.<br />
+Encaminhado em quatro partes por ultrapassar o limite de tamanho de anexos.<br />
+Anexo Preg�o 09-2019 LQFEx; Vol 3<br />
+<br />
+<br />
+Atenciosamente,<br />
+<br />
+Nilsa Paulo de Azevedo<br />
+Chefe da Divis�o dos Servi�os de Protocolo e Arquivo<br />
+Minist�rio da Defesa<br />
+(61) 3312-8754/4217<br />
+<br />
+<br />
+<b>Anexos</b>:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;E_mail_3569080.html<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Oficio_3559002.html<br />
+&nbsp;&nbsp;&nbsp;&nbsp;PREGAO 9 VOL 3.pdf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;E_mail_3569172.html<br />
+</div>
+<br />
+</body>
+</html>
+ 
+
+ 
+
+MINISTÉRIO DA DEFESA
+EXÉRCITO BRASILEIRO
+CML 1º RM
+LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO
+E (Botica Real Militar/1808)
+LICÍNIO CARDOSO, 96 — TRIAGEM — RIO DE JANEIRO (RJ) - CEP: 20960-015
+Tel. (21) 2581-9807/Fax: (21) 2261-9056/e-mail: Igfex. eb(Dyahoo.com.br
+
+ 
+
+ 
+
+SEÇÃO DE AQUISIÇÕES, LICITAÇÕES E CONTRATOS - SALC ANO: 2019
+ASSUNTO:
+PREGÃO SRP Nº 09/2019
+PROCESSO ADMINISTRATIVO
+Nº 64614.001407/2019-37
+
+OBJETO: Registro de preços para eventual aquisição de insumos farmacêuticos utilizados para
+a produção de medicamentos para atender à demanda operacional das diversas unidades do
+Exército Brasileiro, conforme prevê a Portaria nº 097-DGP, de setembro de 2004 e a Portaria nº
+131-DGP, de 13 de junho de 2017, bem como as demandas do Ministério da Saúde.
+
+Vol. ty/IV.
+
+ 
+
+ANEXOS/REFERÊNCIA:
+
+ 
+
+ 
+
+ 
+
+MOVIMENTO DO PROCESSO
+
+DESTINO DATA DESTINO
+
+ 
+Ministério da Economia
+Secretaria Especial de Desburocratização, Gestão e Governo Digital
+
+Secretaria de Gestão
+Sistema de Cadastramento Unificado de Fornecedores - SICAF
+
+Declaração
+
+Declaramos para os fins previstos na Lei nº 8.666, de 1993, conforme documentação registrada no SICAF, que a
+situação do fornecedor no momento é a seguinte:
+
+Dados do Fornecedor
+
+CNPJ: 33.314.765/0001-55
+Razão Social: BLESSED COMERCIO DE MATERIAIS EJRELI
+Nome Fantasia:
+— Situação do Fornecedor: Credenciado Data de Vencimento do Cadastro: 01/05/2020
+
+Ocorrências e Impedimentos
+
+Ocorrência: Nada Consta
+Impedimento de Licitar: Nada Consta
+Ocorrências Impeditivas indiretas: Nada Consta
+Vínculo com "Serviço Público": Nada Consta
+
+Níveis cadastrados:
+
+Documento(s) assinalado(s) com "*" está(ão) com prazo(s) vencido(s).
+Fornecedor possui alguma pendência no Nivel de Cadastramento indicado. Verifique mais informações sobre pendências
+nas funcionalidades de consulta.
+
+I- Credenciamento (Possui Pendência)
+1 - Habilitação Jurídica
+HI - Regularidade Fiscal e Trabalhista Federal
+
+ 
+
+Receita Federal e PGFN Validade: 06/04/2020
+EGTS Validade: 24/04/2020
+Trabalhista  (http://www.tstjus.br/certidao) Validade: 29/05/2020
+IV - Regularidade Fiscal Estadual/Distrital e Municipal (Possui Pendência)
+Receita Estadual/Distrital Validade; 14/03/2020 (*)
+Receita Municipal Validade; 15/04/2020
+VI - Qualificação Econômico-Financeira
+Validade: 30/06/2020
+Emitido em: 03/04/2020 09:20 Id 1
+
+CPF: 044.625,027-95 | Nome: KHLEBER JOSE EUGENIO DE ARAUJO
+Ass:
+
+ 
+ 
+
+Sistema Integrado '
+de Administração Financeira -
+do Governo Federal IN Tesoui
+
+Data e hora da consulta: 03/04/2020 09:02:
+
+ 
+
+ 
+
+Usuário: 04462502795
+Cadastro Informativo de Créditos Não-Quitados - CADIN
+CPFICNPJ: Título: Situação Totalde Registros 0
+asstares BLESSED COMERCIO DE MATERIAIS EIRELI Adimplente Há até 30 dias:
+Há mais de 30 dias:
+[ Código [ Credor I Datalorade inclusão |
+
+ 
+
+* Registros incluídos há até 30 dias.
+— SIAFI2020-CONTABIL-DEMONSTRA-CONRAZAO (CONSULTA RAZAO POR C. CONTABIL)
+
+03/04/20 09:06 USUARIO: KHLEBER
+DATA EMISSAO : 02Abr20 VALORIZACAO : 02Abr20 NUMERO : 2020Nc001248
+UG EMITENTE : 160505 - DEFARTAMENTO-GERAL DO PESSOAL-GESTOR
+GESTAO EMITENTE : 00001 - TESOURO NACIONAL
+
+UG/GESTAO. FAVORECIDA : 160328 / 00001 - LQ F EX
+
+OBSERVACAO
+
+P/ UG EME-160087. ATENDER AS DEMANDAS DE SAÚDE RELATIVAS à OPERAÇÃO COVID-IS,
+
+(APLICAÇÃO NO LQFEX) .PR, 60300.000102/2020-24. DES: INT E IMED. RESP: JOSÉ EDU
+
+-ARDO LEAL DE OLIVEIRA.NC-668-MD, 02ABR2020.APLICAR RECURSO CONF.MP NR 926/2020
+NUM. TRANSFERENCIA :
+
+EV, ESF PIRES FONTE ND sB UGR PI VALOR
+300065 1 186121 0300000000 339030 110407 0E0304C0V03 450.000,00
+“LANCADO POR : 03555606905 - KELVIN UG : 160505 02Abr20 21:10
+
+PFI=AJUDA PF3=SAI PF4=ESPELHO PF12=RETORNA
+
+ 
+SERVICO PUBLICO FEDERAL
+SIAFI -— SISTEMA INTEGRADO DE ADMINISTRACAO FINANCEIRA DO GOVERNO FEDERAL
+
+g aca
+NOTA DE EMPENHO LQRER-SALE
+PAGINA: tp
+cen
+EMISSAO : O3Abr20 NUMERO: 2020NE8B00027 i ECA Ê
+ESPECIE : 01 - ORIGINAL E
+EMITENTE : 160328/00001 — LABORATORIO QUIMICO FARMACEUTICO DO EXERCITO
+CNPJ : 10266175/0001-07 FONE: 55.21.2391.0868 RAMAL 210 GESTOR FINANCEIR
+ENDERECO : RUA LICINIO CARDOSO, 96-TRIAGEM-RJTELEFAX 55.21.2391.0879
+MUNICIPIO : 6001 — RIO DE JANEIRO UF: RJ CEP: 20960-015
+CREDOR : 33314765/0001-55 - BLESSED COMERCIO DE MATERIAIS EIRELI
+ENDERECO : URUGUAI 00393 SAL 105 TIJUCA
+MUNICIPIO : 6001 - RIO DE JANEIRO UF: RJ CEP: 20510-055
+
+TAXA CAMBIO:
+
+OBSERVACAO / FINALIDADE
+
+2020NC001248 DE O2ABR20 DGP-GESTOR, ATENDER DEMANDAS DE SAUDE OP COVID 19
+CFE REQ 024 -DPCALOG/LQFEX DE 23MAR2020
+
+RESP TC SANDRA PROC ORIGEM: 2019PR00025
+
+CLASS : 1 52101 05153601121C06500 186121 0300000000 339030 110407 0E0304Covo3
+
+T 2, : GLOBAL MODAL .LICIT.: PREGAO
+
+AmeARO: LEI10520 INCISO: PROCESSO: 64614003805201998
+UF/MUNICIPIO BENEFICIADO: RJ /
+
+ORIGEM DO MATERIAL : NACIONAL
+
+REFERENCIA: ARTO1 LEI10520/02 NUM, ORIG.:
+
+VALOR ORIGINAL : 9.776,20
+
+NOVE MIL, SETECENTOS E SETENTA E SEIS REAIS E VINTE CENTAVOS +++ + a kd a td dt to aee
+
+ESLRLSLLLLLLSLLLLLSERALALLSSLLLESLS LL LEA Sd e e e e de do
+SLLASLLLLLLRLRLLLA DLL LESS de e dd de e e de de
+
+EASESLLLSLLLLLLLLALA SALES LEEDS LL AS dd dd dd de e e de e
+
+ESPECIFICACAO DO MATERIAL OU SERVICO
+SERVICO PUBLICO FEDERAL
+SIAFI — SISTEMA INTEGRADO DE ADMINISTRACAO FINANCEIRA DO GOVERNO FEDERAL
+
+Lar
+
+ns. 805. | paeina: 2
+
+EMISSAO : 03Abr20 NUMERO: 2020NE800027 PROCESS acta adaocdni ssa
+EMITENTE : 160328/00001 -— LABORATORIO QUIMICO FARMACEUTICO DO EXERCITO
+CREDOR : 33314765/0001-55 — BLESSED COMERCIO DE MATERIAIS EIRELI
+ESPECIFICACAO DO MATERIAL OU SERVICO
+
+NOTA DE EMPENHO
+
+    
+
+ND: 339030 SUBITEM: 19 -MATERIAL DE ACONDICIONAMENTO E
+SEO.: 12 QUANTIDADE : 70 VALOR UNITARIO: 139,66
+VALOR DO SEO. : 9.776,20
+
+70,00000 QUILOGRAMA
+
+REVESTIMENTO PARA CAIXA DE EMBALAGEM
+
+ALUMÍNIO DURO DE CLOROQUINA (Fabrima) 1 — DESCRIÇÃO: Alumínio duro fosco + r
+esina termo selante, isento de rugas, rasgos, falhas, amassados e/ou pregas.
+
+2 — GRAMATURA TOTAL: 69,5 — 75,5 -— 81,5 g/m2 3 — GRAMATURA DO ALUMÍNIO: 62,
+
+8 —- 67,5 — 72,2 g/m2 4 — GRAMATURA DA RESINA TERMO SELANTE: 60 - 7,0 — 8,0
+g/m2 5 — ESPESSURA TOTAL: 0,024 — 0,026 — 0,028 mm 6 —- LARGURA TOTAL DA TI
+RA: 152,0 = 153,0 154,0 mm 7 — DIÂMETRO DA BOBINA: 7.1 —- Externo: 220
+
+— 230 — 240 mm 7.2 — Interno: 75 - 76 —- 77 mm
+M A: BEMIS ITEM DO PROCESSO: 00001 ITEM DE MATERIAL: 000035939
+
+TOTAMDL z 9.776,20
+
+esa DAE conto Valois, ASÉ!
+
+HAROLDO PAIVA GALVÃO GESTOR FINANCEIRO
+ORDENA!
+
+ 
+
+    
+   
+
+ 
+
+LQFEx-SALC |
+
+Dna FLS SOS.
+MINISTÉRIO DA DEFESA E] y
+EXERCITO BRASILEIRO LS aid
+
+- —  CML-PRM é
+LABORATÓRIO QUÍMICO FARMACEUTICO DO EXERCITO
+(Botica Real Militar/1808)
+
+Requisição nº 43 — DPCApLog/LQFEx
+
+Rio de Janeiro - RJ, 06 de abril de 2020.
+
+Do Chefe da Divisão de Planejamento, Controle e Apoio Logístico.
+
+Ao Sr Chefe da Divisão Administrativa
+
+Assunto: Aquisição de item licitado do Pregão 25/2019 - 33.90.30 ST 19
+Rfr: Art, 13 das IG 12-02,
+
+1. Nos termos contidos no Art. 13 das IG 12-02, aprovada pela Port Min nº 305, de 22
+
+MAIO 1995, solicito-vos providências no sentido de aprovar a aquisição do item abaixo
+especificado:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA JOINT BILL REPRESENTAÇÕES COMERCIAIS
+CNPJ 00.122.907/0001-23
+PREGÃO 25/2019
+OTDE PREÇO PREÇO
+ITEM MATERIAL (tg) UNITÁRIO TOTAL
+(R$) (R$)
+29 PVC CRISTAL FABRIMA 163mm 500 19,90 9.950,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justifico tal solicitação pela necessidade de aquisição do item supracitado para produção do
+medicamento Cloroquina 150 mg, utilizado no tratamento do COVID-19 em conformidade com a
+Lei 13.979 de, 06 de fevereiro de 2020. O produto será armazenado no Almoxarifado de Insumos.
+
+ 
+
+Chefe da Divisão de Planejamento, Controle e Apoio Logístico
+
+And We 4000%9
+ 
+
+ 
+
+DESPACHO DO CHEFE DA DIVISÃO
+
+ 
+
+ADMINISTRATIVA
+1. O referido material/serviço necessita ser
+adquirido;
+
+to
+
+Para fins do Art. 38 da Lei 8.666, de 21 JUN
+1993, empregar os recursos da Natureza da
+
+33 E) SO 14 cri LA
+
+Em E Oy B£O
+A
+
+ 
+
+ELMIR BRANDÃO GALINDO —2º TEN
+Respondendo pela Chefia da Fiscalização Administrativa
+
+ 
+
+w
+
+DESPACHO DO ORDENADOR DE DESPESA
+Autorizo a aquisição do material/serviço e
+determino a abertura de processo licitatório, se for
+o caso;
+
+A Comissão Permanente de Licitação adote os
+procedimentos cabiveis de acordo com as normas
+em vigor:
+
+Publicação em Boletim Interno: ( ) Sim ( ) Não,
+
+Em JÊ nbe Zodg
+Ze IT
+
+HAROLDO PAIVA GALVÃO = Cal
+Ordenador de Despesas
+
+ 
+
+ 
+
+ 
+ILQFEX-SALC;
+FLS. SOI
+
+í
+Pi
+Ministério da Economia
+Secretaria Especial de Desburocratização, Gestão e Governo Digital
+Secretaria de Gestão
+
+Sistema de Cadastramento Unificado de Fornecedores - SICAF
+Declaração
+Declaramos para os fins previstos na Lei nº 8.666, de 1993, conforme documentação registrada no SICAF, que a
+
+situação do fornecedor no momento é a seguinte:
+
+Dados do Fornecedor
+
+CNPJ: 00.122.907/0001-23
+Razão Social: JOINT BILL REPRESENTAÇÕES COMERCIAIS LTDA
+Nome Fantasia:
+Situação do Fornecedor: Credenciado Data de Vencimento do Cadastro: 22/12/2020
+
+Ocorrências e Impedimentos
+
+Ocorrência: Nada Consta
+Impedimento de Licitar: Nada Consta
+Ocorrências Impeditivas indiretas: Nada Consta
+Vínculo com "Serviço Público": Nada Consta
+
+Níveis cadastrados:
+
+Documento(s) assinalado(s) com "*" está(ão) com prazo(s) vencido(s).
+
+Fornecedor possui alguma pendência no Nivel de Cadastramento indicado. Verifique mais informações sobre pendências
+nas funcionalidades de consulta.
+
+1- Credenciamento
+1 - Habilitação Jurídica
+TI - Regularidade Fiscal e Trabalhista Federal
+
+ 
+
+Receita Federal e PGFN Validade: 12/08/2020
+FGTS Validade: 05/07/2020
+Trabalhista  (hrtp://wws.tstjus.br/certidao) Validade: 28/08/2020
+IV - Regularidade Fiscal Estadual/Distrital e Municipal (Possui Pendência)
+Receita Estadual/Distrital Validade: 15/04/2020
+Receita Municipal Validade: 06/04/2020 (*)
+VI - Qualificação Econômico-Financeira
+Validade: 31/05/2020
+Emitido em: 08/04/2020 14:32 1 de 1
+
+CPF: 044.625.027-95 | Nome: KHLEBER JOSE EUGENIO DE ARAUJO
+Ass:
+
+ 
+TO
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Consulta Consolidada de Pessoa Jurídica
+
+Este relatório tem por objetivo apresentar os resultados consolidados de consultas eletrônicas
+realizadas diretamente nos bancos de dados dos respectivos cadastros. A responsabilidade
+pela veracidade do resultado da consulta é do Órgão gestor de cada cadastro consultado. À
+informação relátiva à razão social da Pessou Jurídica é extraída do Cadastro Nacional da
+Pessoa Jurídica, mantido pela Receita Federal do Brasil.
+
+ 
+
+  
+
+Consulta realizada em: 08/04/2020 14:42:17
+
+Informações da Pessoa Jurídica:
+[Razto Social: JOINT BILL REPRESENTACOES COMERCIAIS LTDA
+CNPJ: 00.122.907/0001-23
+
+ 
+
+ 
+
+Resultados du Consulta Eletrônica:
+[Orgão Gestor: TCU
+
+“adastro: Lieitantes Inidôncos
+Resultado da consulta: Nada Consta
+
+ 
+
+Para acessar à certidão original no portal do órgão gestor, clique AQUI
+
+ 
+
+ 
+
+[orgão Gestor: CNJ
+[Cudastro: CNIA - Cadastro Nacional de Condenações Civeis por Ato de Improbidade
+Administrativa e Inclegibilidade
+
+[Resultado da consulta: Nadar Consta
+
+[para acessar a certidão original no portal do órgão gestor, clique AQUI
+
+ 
+
+rgão Gestor; Portal da Transparência
+[Cadastro: Cadastro Nacional de Empresas Inidôneas « Suspensas
+Resultado da consulta: Nada Consta
+
+Para acessar a certidão original no portal do órgão gestor, clique AQUI,
+
+ 
+
+ 
+
+rglo Gestor: Portal da Transparência
+adastro: CNEP - Cadastro Nacional de Empresas Punidas
+Resultado da consulta: Nada Consta
+
+ 
+
+ 
+
+ara acessar a certidão original no portal do órgão gestor, clique AQUI
+
+Obs: À consulta consolidada de pessoa jurídica visa atender aos principios de simplificação e
+
+sncionalização de serviços públicos digitais, Fundamento legal; Lei nº 12.955, de 23 de abril
+
+de 2014, Lei nº 13.460. de 26 de junho de 2017, Lei nº 13.7:
+Decreto nº 8.638 de 15, de janeiro de 2016,
+
+  
+
+. de & de outubro de 2018,
+E]
+
+LS
+CS SIAFI Fsssiistast nn
+
+do Governo Federal
+
++
+f Cm SOURONACIONAL
+
+Data e hora da consulta: 08/04/2020 14:32:50
+
+ 
+
+ 
+
+Usuário; 04462502795
+Cadastro Informativo de Créditos Não-Quitados - CADIN
+CPFICNPJ: Título: Situação Totalde Registros O
+00122907 JOINT BILL REPRESENTACOES COMERCIAIS LTDA Adimplente Há até 30 dias:
+Hã mais de 30 dias:
+Código [ Credor [ Data/Hora de Inclusão |
+
+ 
+
+de
+
+* Registros incluídos há até 30 dias.
+SERVICO PUBLICO FEDERAL
+SIAFI — SISTEMA INTEGRADO DE ADMINISTRACAO FINANCEIRA DO GOVERNO FEDERAL
+
+ 
+
+NOTA DE EMPENHO fLarEs-SALC]
+PAGINA: É
+[ris S10..|
+EMISSAO : OSAbr20 NUMERO: 2020NE800035 L A i
+ESPECIE : 01 — ORIGINAL
+EMITENTE : 160328/00001 - LABORATORIO QUIMICO FARMACEUTICO DO EXERCITO
+CNPJ : 10266175/0001-07 FONE: 55.21.2391.0868 RAMAL 210 GESTOR FINANCEIR
+ENDERECO : RUA LICINIO CARDOSO, 96-TRIAGEM-RITELEFAX 55.21.2391.0879
+MUNICIPIO : 6001 - RIO DE JANEIRO UF: RJ CEP: 20960-015
+CREDOR : 00122907/0001-23 — JOINT BILL REPRESENTACOES COMERCIAIS LTDA
+ENDERECO : CARLOS DE LABT 961 HAUER
+MUNICIPIO : 7535 — CURITIBA UF: PR CEP: 81610-050
+
+TAXA CAMBIO:
+
+OBSERVACAO / FINALIDADE
+
+2020NC001248 DE OZABR20 DGP-GESTOR, ATENDER DEMANDAS DE SAUDE OP COVID 19
+CFE REQ 043 -DPCALOG/LOFEX DE Q6ABR2020
+
+RESP TC SANDRA PROC ORIGEM: 2019PR00025 PROC ORIGEM: 2019PR00025
+
+CLASS : 1 52101 05153601121C06500 186121 0300000000 339030 110407 0E0304Covo3
+
+To : GLOBAL MODAL .LICIT.: PREGAO
+
+Am?ARO: LEI10520 INCISO: PROCESSO: 64614003805201998
+UF/MUNICIPIO BENEFICIADO: RJ /
+
+ORIGEM DO MATERIAL : NACIONAL
+
+REFERENCIA: ARTO1 LE110520/02 NUM. ORIG.:
+
+VALOR ORIGINAL : 9.950,00
+
+NOVE MIL, NOVECENTOS E CINQUENTA REAISt**4+=4LLLLILRAFLLLPILLLILLLLPLA Adap dd
+
+PRE LLLLLLLARLLLLLLNLLLLLLRARLLL LL LLRLLLLALLLL LDL RDPI DAS
+ERAS LCD RLL LL LLLLRLL LDL SDL LDESLDC AL ESLLLLA LEALDADE
+
+de e de SS Sd ÃO ÃO
+
+ESPECIFICACAO DO MATERIAL OU SERVICO
+SERVICO PUBLICO FEDERAL
+SIAFI — SISTEMA INTEGRADO DE ADMINISTRACAO FINANCEIRA DO-SOVERNO FEDERAL
+
+ 
+
+ILQFEx-SALCj
+NOTA DE EMPENHO fis SU
+Ê PAGINA: 2
+Sd
+EMISSAO : OBAbr20 NUMERO: 2020NE800035 PROCESSO: 64 003805201998
+EMITENTE : 160328/00001 -— LABORATORIO QUIMICO FARMACEUTICO DO EXERCITO
+CREDOR : 00122907/0001-23 — JOINT BILL REPRESENTACOES COMERCIAIS LTDA
+
+ESPECIFICACAO DO MATERIAL OU SERVICO
+
+ND: 339030 SUBITEM: 19 -MATERIAL DE ACONDICIONAMENTO E
+SEQ.: 1 QUANTIDADE: 500 VALOR UNITARIO: 19,90
+VALOR DO SEQ. : 9.950,00
+
+500, 00000 QUILOGRAMA
+
+REVESTIMENTO PARA CAIXA DE EMBALAGEM
+
+PVC CRISTAL (Fabrima) 1 — DESCRIÇÃO: PVC rígido, atóxico, sem rebarbas, isent
+o de furos, arranhões e dobras. 2 — COR: Cristal 3 -— ESPESSURA: 231,5 = 250
+:/0—- 262,5 m 4 — GRAMATURA: 320,63 337,50 354,38 g/m2 5 — LARGURA: 162
+rO - 163,0 — 164,0 mm 6 - DIÂMETRO DA BOBINA: 6.1 — EXTERNO: 370 - 380 390
+mm 6.2 — INTERNO: 75 — 76 77 mm. 7 — CORTES: Regulares, sem apresentar ár
+
+eas mais estreitas e/ou largas em relação & largura especificada. 8 - EMBOBIN
+AMENTO : — Deve ser feito a uma tensão que não permita o deslizamento das cam
+2 3. — Deve ser firme não devendo apresentar dobras ou rugas. 9 — EMENDAS
+
+ 
+
+—-“ipo: junta posta. — Número máximo por bobina: 3 (três). — Devem ser feita
+s com fita colorida. 10 — IDENTIFICAÇÃO INTERNA: Cada bobina deve ser identi
+ficada internamente no tubete com: 1) Data de fabricação, 2) Número da bobina,
+3) Nome do rebobinador. 11 - IDENTIFICAÇÃO EXTERNA: Cada bobina deve ser id
+entificada externamente com: 1) Nome do material, 2) Nome do fabricante/forne
+MARCA: NOVA NORDEPLAST ITEM DO PROCESSO: 00029 ITEM DE MATERIAL: 000035939
+
+TOTAL & 9.950,00
+
+Wnlgro 6 048
+
+GESTOR FINANCEIRO
+
+    
+
+ORDENADI
+e o]
+4
+PR les. 64a |
+MINISTÉRIO DA DEFESA e SG |
+EXÉRCITO BRASILEIRO 5
+CML - 1º RM
+
+LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO
+(Botica Real Militar/1808)
+
+Requisição nº 046 — DPCApLog/LQFEx
+
+pRio de Janeiro - RJ, 07 de abril de 2020.
+Do Chefe da Divisão de Planejamento. Controle e Apoio Logístico.
+«Ao Sr Chefe da Divisão Administrativa .
+Assunto: Aquisição de insumos do Pregão 25/20 19- 33.90,30 SI 19
+Rir: Art. 13 das IG 12-02.
+
+1. Nos termos contidos no Art. 13 das IG 12-02, aprovada pela Port Min nº 305, de 22
+MAIO 1995, solicito-vos providências no sentido de aprovar a aquisição de insumo abaixo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a especificado:
+EMPRESA MEDMACH SOLUCOES HOSPITALARES
+CNPJ 09,608,095/0001-03
+PREGÃO 25/2019
+QTDE PREÇO PREÇO
+ITEM MATERIAL (und UNITÁRIO TOTAL
+| MEMO) Ro | es
+67 RIBON DE CERA NA MEDIDA 50 97.56 4.878,00
+110mm x 450m
+TOTAL 4.878,00
+
+ 
+
+ 
+
+22. Justifico tal solicitação pela necessidade de aquisição dos itens supracitados para produção do
+medicamento Cloroquina 150 mg e álcool gel, utilizados no tratamento e prevenção do COVID-19
+respectivamente, em conformidade com a Lei 13.979 de, 06 de fevereiro de 2020. O produto será
+armazenado no Almoxarifado de Insumos.
+
+Me
+
+ 
+
+177 E
+SANDRA FERNANDES DE OLIVEIRA MONTEIRO - Ten Cel
+Chefe da Divisão de Planejamento, Controle e Apoio Logístico
+ 
+
+ 
+
+DESPACHO DO CHEFE DA DIVISÃO
+ADMINISTRATIVA
+
+1 O referido
+adquirido;
+Para fins do Art. 38 da Lei 8.666, de 21 JUN
+1993, empregar os recursos da Natureza da
+Despesa
+
+39030 49 Cove 19
+
+material/serviço necessita ser
+
+19
+
+ 
+
+Em 08, 04/2920
+
+t3
+
+vw
+
+DESPACHO DO ORDENADOR DE DESPESA
+
+Autorizo a aquisição do material/serviço e
+determino à abertura de processo licitatório, se for
+o caso,
+
+A Comissão Permanente de Licitação adote os
+procedimentos cabíveis de acordo com as normas
+em vigor;
+
+Publicação em Boletim Interno; ( ) Sim (
+
+Em 8 Abe, Pinrios
+
+) Não,
+
+ 
+
+ 
+
+ELMIR BR O GALINDO - 2º Ten
+Respondendo pela Chefia da Fiscalização Administrativa
+
+ 
+
+HAROLDO FAÍVA GALVÃO — Cel
+Ordenador de Despesas
+
+ 
+
+ 
+QFEx-SALC
+
+FLS SAI.
+
+|
+|
+
+Ministério da Economia
+
+Sécretaria Especial de Desburocratização, Gestão e Governo Digital
+ne Secretaria de Gestão
+
+IL
+
+|
+
+Sistema de Cadastramento Unificado de Fornecedores - SICAF
+Declaração
+Declaramos para os fins previstos na Lei nº 8.666, de 1993, conforme documentação registrada no SICAF, que a
+
+situação do fornecedor no momento é a seguinte:
+
+Dados do Fornecedor
+
+CNPJ: 09.608.095/0001-03
+
+Razão Social: MEDMACH SOLUCOES HOSPITALARES LIDA
+
+Nome Fantasia: MEDMACH
+
+Situação do Fornecedor: Credenciado Data de Vencimento do Cadastro: 21/11/2020
+
+Ocorrências e Impedimentos
+Ocorrência: Consta
+Impedimento de Licitar: Nada Consta
+Ocorrências Impeditivas indiretas: Nada Consta
+Vinculo com “Serviço Público”; Nada Consta
+
+ 
+
+Níveis cadastrados:
+1- Credenciamento
+1 - Habilitação Jurídica
+HI - Regularidade Fiscal e Trabalhista Federal
+
+Receita Federal e PGEN Validade: 19/09/2020
+
+FGTS Validade: 22/04/2020
+
+Trabalhista (htps/fmor dt jus brcetidao) Validade: 18/09/2020
+Ty - Regularidade Fiscal Estadual/Distrital « Municipal
+
+Receita Estadual/ Distrital Validade: 15/06/2020
+
+Receita Municipal Validade: 20/09/2020
+
+V - Qualificação Técnica
+VI - Qualificação Econômico-Einanceira
+Validade: 31/05/2020
+
+ 
+
+Emitido em: 08/04/2020 14:34 1 de 1
+CPF: 044.625.027:95 Nome; KHLEBER JOSE EUGENIO DE ARAUJO
+Asa:
+
+ 
+TO
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Consulta Consolidada de Pessoa Jurídica
+
+Este relatório tem por objetivo apresentar os resultados consolidados de consultas eletrônicas
+realizadas diretamente nos bancos de dados dos respectivos endastros. A responsabilidade
+pela veracidade do resultado du consulta é do Órgão gestor de cada cadastro consultado, A
+informação relativa à razão social da Pessoa Jurídica é extraída do Cadastro Nacional da.
+Pessoa Jurídica, mantido pela Receita Federal do Brasil
+
+   
+
+ 
+
+Consulta realizada em: 08/04/2020 [4:48:15
+
+Informações da Pessoa Jurídica:
+Razão Social: MEDMACH SOLUCOES HOSPITALARES LTDA
+[ENPI: 09.608.095/0001-03
+
+ 
+
+Resultados du Consulta Eletrônica:
+Orgão Gestor: TCU
+
+Cadastro: Lieituntes Inidôncos
+Resultado da consulta: Nada Consta
+
+ 
+
+[ara acessar a verudio original no portal do órgão gestor, clique AQUI.
+
+ 
+
+ 
+
+rsão Gestor: CNJ
+[Cadustro: CNIA - Cadustro Nacional de Condenações Civeis por Ato de Improbidade
+Administrativa e Inelegibilidade
+
+Resultado da consulta: Nada Consta
+
+tara acessar a certidão original no portal do órgão gestor, clique AQUI
+
+ 
+
+ 
+
+ 
+
+Orgão Gestor: Portal da Transparência
+“adustro; Cadastro Nacional de Empresas Inidôneas e Suspensas
+Resultado du consulta: Nada Consta
+
+Part ucessar q certidão original no portal do órgão gestor, clique AQUI.
+
+ 
+
+(Órgão Gestor: Portal da Transparência
+Cadastro: CNEP - Cadastro Nacional de Empresas Punidas
+Resultado da consulta: Nada Consta
+
+ 
+
+ara acessar a certidno original no portal do órgão gestor, clique AQUI
+
+ 
+
+ 
+
+Obs: A consulta consolidada de pessoa jurídica visa atender aos principios de simplificação e
+
+racionalização de serviços públicos digitais. Fundamento legal: Lei nº 12.965, de 23 de abril
+de 2014, Lei nº 13,460. de 26 de junho de 2017, Lei nº 13,726, de & de outubro de 2018,
+Decreto nº 8,638 de 15, de janeiro de 2016,
+
+ 
+
+ 
+
+8
+ET3Tsiual
+-x3407)
+SIAFI xs:
+mo
+
+ 
+
+N rea
+
+Data 6 hora ca consulta: — 08/04/2020 14:35:00
+
+ 
+
+ 
+
+ 
+
+ 
+
+Usuário: Osaszs02rss
+Cadastro Informativo de Créditos Não-Quitados - CADIN
+CercNPI: Titulo: Situação Totaldo Registros O
+Oobancs  MEDMACH SOLUCOES HOSPITALARES LIDA Aslimplente Há até 30 dias:
+Há mais de 30 das
+[ Código I Credor l DataHoradoinclusão |
+
+ 
+
+* Registros Ineluldos há até J0 das,
+me 1
+
+FOR
+GFSTsu
+
+215 -x34D7
+
+j-
+
+|
+— SIAFI2020-CONTABIL-DEMONSTRA-CONRAZAO (CONSULTA RAZAO POR C. CONTABIL)
+
+08/04/20 14:45 USUARIO: KHLEBER 4
+
+DATA EMISSAO : 02Abr20 VALORIZACAO : 02Abr20 NUMERO : 2020NC001248 |
+
+UG EMITENTE : 160505 — DEPARTAMENTO-GERAL DO PESSOAL-GESTOR res
+
+GESTAO EMITENTE : 00001 — TESOURO NACIONAL l !
+rreremge a —
+
+UG/GESTAO FAVORECIDA : 160328 / 00001 - L QF EX
+
+OBSERVACAO
+
+P/ UG EME-160087. ATENDER AS DEMANDAS DE SAÚDE RELATIVAS à OPERAÇãO COVID-19.
+
+(APLICAÇÃO NO LQFEX) . PR. 60300,000102/2020-24, DES: INT E IMED. RESP: JOSÊ EDU
+
+-ARDO LEAL DE OLIVEIRA.NC-668-MD, 02ABR2020.APLICAR RECURSO CONF.MP NR 926/2020
+NUM. TRANSFERENCIA :
+
+EV. ESF PTRES FONTE ND sB UGR PI VALOR
+300065 1 186121 0300000000 339030 110407 0E0304cov03 450.000,00
+LANCADO POR : 03555606905 - KELVIN UG : 160505 02Abr20 21:10
+
+PFI=AJUDA PE3=SAI PF4=ESPELHO PF12=RETORNA
+SERVICO PUBLICO FEDERAL
+SIAFI — SISTEMA INTEGRADO DE ADMINISTRACAO FINANCEIRA DO GOVERNO FEDERAL
+
+nene, —.
+NOTA DE EMPENHO paresate,
+PAGINA: 1
+IEL SAD!
+EMISSAO : OSAbr20 NUMERO: 2020NEB00039 LE !
+ESPECIE : 01 — ORIGINAL —d
+EMITENTE : 160328/00001 -— LABORATORIO QUIMICO FARMACEUTICO DO EXERCITO
+CNPJ : 10266175/0001-07 FONE: 55.21.2391,0868 RAMAL 210 GESTOR FINANCEIR
+ENDERECO : RUA LICINIO CARDOSO, 96-TRIAGEM-RITELEFAX 55.21.2391.0879
+MUNICIPIO : 6001 - RIO DE JANEIRO UF: RJ CEP: 20960-015
+CREDOR : 09608095/0001-03 - MEDMACH SOLUCOES HOSPITALARES LTDA
+ENDERECO : DO RIO GRANDE 1665 LOJA A TAQUARA
+MUNICIPIO : 6001 - RIO DE JANEIRO UF: RJ CEP: 22720-010
+
+TAXA CAMBIO
+
+OBSERVACAO / FINALIDADE
+
+2020NC001248 DE O2ABR20 -— DGP. ATENDER DEMANDAS RELATIVAS À OPERAÇÃO COVID-19,
+PE 25/2019 - REQ 046 — DPCAPLOG/LOFEX DE 07 ABR 20. RESP TC SANDRA PROC ORIGE
+M: 2019PR00025
+
+CIASS : 1 52101 05153601121C06500 186121 0300000000 339030 110407 0E0304Ccovo3
+
+ 
+
+T, > : GLOBAL MODAL .LICIT.: PREGAO
+
+ANMÉARO: LE110520 INCISO: PROCESSO: 64614003805201998
+UF/MUNICIPIO BENEFICIADO: RJ /
+
+ORIGEM DO MATERIAL : NACIONAL
+
+REFERENCIA: ARTO1 LEI10520/02 NUM. ORIG. :
+
+VALOR ORIGINAL : 42.878,00
+
+QUATRO MIL, OTTOCENTOS E SETENTA E OITO REAIS“+*"*+"2sesararsapstiasaseddda aaa
+
+PERDESSE LDL LLSLSLCELPLLLLLLLLLLLNLLLL DLL dd dd
+PRLESALLLLRLELS SALLES DLL ESA RIR RLL LEEDS LDL RSRS dd
+
+NM Ed e de da de dd dd e Sd O
+
+ESPECIFICACAO DO MATERIAL OU SERVICO
+
+ND: 339030 SUBITEM: 19 -MATERIAL DE ACONDICIONAMENTO E
+SEQ.: 1 QUANTIDADE: 50 VALOR UNITARIO: 27,56
+VALOR DO SEQ. : 4.878,00
+
+50 00000 UNIDADE
+
+R 2STIMENTO PARA CAIXA DE EMBALAGEM
+
+RÍÉON DE CERA na medida 110 mm (LARGURA) = 450 metros (COMPRIMENTO)
+MARCA: AUTOPEL ITEM DO PROCESSO: 00067 ITEM DE MATERIAL: 000035939
+
+ 
+
+TOTAL 4.878,00
+l a
+Alia). E By
+HAROLDO AIVA GALVÃO GESTOR FINANCEIRO
+
+ORDENADOR
+   
+
+ÍLQFEX-SALC
+
+a]
+Ed eis LE)
+MINISTÉRIO DA DEFESA (SL à
+EXÉRCITO BRASILEIRO E Ec
+. CML-1ºRM.
+LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO
+(Botica Real Militar/1808)
+
+Requisição nº 015 — DPCApLog/LQFEx
+
+Rio de Janeiro - RJ. 18 de março de 2020,
+
+Do Chefe da Divisão de Planejamento, Controle e Apoio Logístico.
+
+Ao Sr Chefe da Divisão Administrativa
+
+Assunto: Aquisição de item licitado do Pregão 09/2019 - 33.90.30 SI 09
+Rfr: Art. 13 das IG 12-02.
+
+1. Nos termos contidos no Art. 13 das IG 12-02, aprovada pela Port Min nº 305, de 22
+MAIO 1995, solicito-vos providências no sentido de aprovar a aquisição do item abaixo
+especificado:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCIAS LTDA
+CNPJ 40.423.881/0001-78
+PREGÃO 09/2019
+PREÇO PREÇO
+ITEM MATERIAL QTDE (L) | UNITÁRIO TOTAL
+(R$) aR$)
+7 ÁLCOOL ETÍLICO 2.000 9.28 18.560,00
+TOTAL | R$ 18.560,00
+
+ 
+
+ 
+
+ 
+
+| 2. Justifico tal solicitação pela necessidade de aquisição do item supracitado para produção
+de Alcool gel utilizado na proteção individual no contexto do COVID-19, em conformidade com a
+Lei 13.979, de 06 de fevereiro de 2020. O produto será armazenado no Almoxarifado de Insumos.
+
+ 
+ 
+
+1
+
+19
+
+DESPACHO DO CHEFE DA DIVISÃO
+ADMINISTRATIVA
+
+O referido
+adquirido;
+Para fins do Art. 38 da Lei 8.666, de 21 JUN
+1993, empregar os recursos da Natureza da
+Despesa
+
+33.90.d0 sr OP
+
+material/serviço necessita ser
+
+Em fB/03/29
+
+[4
+
+ 
+
+ 
+
+ts
+
+DESPACHO DO ORDENADOR DE DESPESA
+
+Autorizo a aquisição do material/serviço e
+determino a abertura de processo licitatório, se for
+o caso;
+
+A Comissão Permanente de Licitação adote os
+procedimentos cabíveis de acordo com as normas
+em vigor;
+
+Publicação em Boletim Interno: ( ) Sim ( ) Não.
+
+Em 19/3 126. .
+
+lia.
+
+HAROLDO PAIVA GALVÃO —Cel
+Ordénador de Despesas
+
+ 
+
+E !
+
+ 
+Ministério da Economia
+
+Secretaria Especial de Desburocratização, Gestão e Governo Digital
+
+Sistema de Cadastramento Unificado de Fornecedores - SICAF
+
+Declaramos para os fins previstos na Lei nº 8.666, de 1993, conforme documentação registrada no SICAF, que a
+
+Secretaria de Gestão
+
+Declaração
+
+situação do fornecedor no momento é a seguinte:
+
+Dados do Fornecedor
+
+CNPJ:
+Razão Social:
+Nome Fantasia:
+
+* Situação do Fornecedor: Credenciado
+
+40.423.881/0001-78
+
+ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCIAS LTDA
+
+ESSENCIAS NITEROI
+
+Ocorrências e Impedimentos
+
+Ocorrência:
+
+Impedimento de Licitar:
+
+Nada Consta
+Nada Consta
+
+Ocorrências Impeditivas indiretas: Nada Consta
+Vinculo com "Serviço Público": | Nada Consta
+
+Níveis cadastrados:
+
+1- Credenciamento
+1 - Habilitação Jurídica
+IH - Regularidade Fiscal e Trabalhista Federal
+
+Receita Federal e PGEN Validade:
+o EGTS Validade:
+Trabalhista  (http://www.tstjus.br/certidao) Validade:
+
+IV - Regularidade Fiscal Estadual/Distrital e Municipal
+Receita Estadual/Distrital Validade:
+Receita Municipal Validade:
+
+V - Qualificação Técnica
+
+VI - Qualificação Econômico-Financeira
+
+Validade:
+
+Data de Vencimento do Cadastro: 08/03/2021
+
+01/09/2020
+11/04/2020
+08/09/2020
+
+12/04/2020
+07/06/2020
+
+31/05/2020
+
+ 
+
+Emitido em: 03/04/2020 10:04
+
+CPF: 084.564,477-73
+Ass:
+
+Nome: Dr CELI PEREIRA PEDRAZZI
+
+1
+
+de 1
+
+ 
+
+N
+Teo
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Consulta Consolidada de Pessoa Jurídica
+
+Este relatório tem por objetivo apresentar os resultados consolidados de consultas eletrônicas
+reulizadas diretamente nos bancos de dados dos respectivos cadastros. A responsabilidade
+pela veracidade do resultado da consulta é do Órgão gestor de cada cadastro consultado, A
+informação relativa à razão social da Pessoa Juridica é extraídu do Cudustro Nacional da
+Pessoa Jurídica, mantido pela Receita Federal do Brasil.
+
+ 
+
+ 
+
+ 
+
+Consulta realizada em: 03/04/2020 10:06:28
+
+Informações da Pessoa Jurídica:
+Razão Social: ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCIAS LTDA
+(CNPJ: 40,423.881/0001-78
+
+ 
+
+ 
+
+Resultados da Consulta Eletrônica;
+[Orgão Gestor: TCU
+
+Cadastro; Licitantes Inidôneos
+Resultado da consulta: Nada Consta
+
+ 
+
+Para acessar a certidão original no portal do órgão gestor. clique AQUI,
+
+ 
+
+ 
+
+ 
+
+    
+
+tro; CNIA - Cadastro Nacional de Condenações Ci
+[Administrativa e Inelegibilidade
+Resultado da consulta: Nada Consta
+
+ 
+
+por Ato de Improbidade
+
+[Para acessar a certidão original no portal do órgão gestor, chque AQUI,
+
+ 
+
+ 
+
+ÓrgRo Gestor: Portal du Transpurência
+Cadastro: Cadastro Nacional de Empresas Inidôneas e Suspensas
+Resultado da consulta: Nada Consta
+
+[Para acessar a certidão original no portal do órgão gestor. clique AQUI
+
+ 
+
+ 
+
+ 
+
+[Órgão Gestor: Portal da Transparência
+Cadastro; CNEP - Cadastro Nacional de Empresas Punidas
+[Resultado da consulta: Nada Consta
+
+ 
+
+[Para acessar u certidao original no portal do drgão gestor, clique AQUI
+
+ 
+
+ 
+
+Obs: A consulta consolidada de pessoa jurídica visa atender aos principios de simplificação e
+
+racionalização de serviços públicos digitais. Fundamento legal; Lei nº 12.965, de 23 de abril
+de 2014, Lei nº 13,460, de 26 de junho de 2017. Lei nº 13,726, de & de outubro de 2018,
+Decreto nº 8.638 de 15, de janeiro de 2016,
+
+ 
+
+ 
+Sistema Integrado
+fã de Administração Financeira
+do Governa Federal
+
+  
+
+EM
+
+(S
+
+ 
+
+ 
+
+«a
+/ e sOURONAÇIONAL
+Data e hora da consulta: 03/04/2020 10:14:
+Usuário: 08456447773
+Cadastro Informativo de Créditos Não-Quitados - CADIN
+CPFICNPJ: Título: Situação Totalde Registros O
+40423881 ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCIA Adimplente Há até 30 dias:
+Há mais de 30 dias:
+[ Código [ Credor [ Dataloradeinciusão | |
+
+ 
+
+de 1
+
+* Registros incluídos há até 30 dias.
+— SIAFI2020-CONTABIL-DEMONSTRA-CONRAZAO (CONSULTA RAZAO POR C. CONTABIL)
+
+03/04/20 09:06 USUARIO: KHLEBER
+DATA EMISSAO : O2Abr20 VALORIZACAO : 02Abr20 NUMERO : 2020Nc001248
+UG EMITENTE : 160505 — DEPARTAMENTO-GERAL DO FESSOAL-GESTOR
+GESTAO EMITENTE : 00001 -— TESOURO NACIONAL
+
+UG/GESTAO FAVORECIDA : 160328 / 00001 - L OQ F EX
+
+OBSERVACAO
+
+P/ UG EME-160087. ATENDER AS DEMANDAS DE SAÚDE RELATIVAS à OPERAÇÃO COVID-19.,
+
+(APLICAÇÃO NO LOFEX) .PR. 60300.000102/2020-24. DES: INT E IMED. RESP: JOSÊ EDU
+
+-ARDO LEAL DE OLIVEIRA.NC-668-MD, 02ABR2020.APLICAR RECURSO CONF.MP NR 976/2020
+NUM, TRANSFERENCIA :
+
+EV. ESF PTRES FONTE ND sB UGR PI VALOR
+300065 1 186121 0300000000 339030 110407 0E0D304covo3 450.000, 00
+LANCADO POR : 03555606905 - KELVIN UG : 160505 02Abr20 22:10
+
+PFI=AJUDA PF3=SAI PF4=ESPELHO PFI2=RETORNA
+
+ 
+SERVICO PUBLICO FEDERAL
+SIAFI — SISTEMA INTEGRADO DE ADMINISTRACAO FINANCEIRA DO GOVERNO FEDERAL
+
+ 
+
+- Gas.
+
+020NE800028 Er d
+
+NOTA DE EMPENHO
+
+  
+
+ 
+
+ 
+
+EMISSAO : O03Abr20 NUMERO:
+
+ESPECIE o - ORIGINAL
+
+EMITENTE 160328/00001 — LABORATORIO QUIMICO FARMACEUTICO DO EXERCITO
+
+CNPJ 10266175/0001-07 FONE: 55.21.2391.0868 RAMAL 210 GESTOR FINANCEIR
+ENDERECO RUA LICINIO CARDOSO, 96-TRIAGEM-RIUTELEFAX 55.21.2391.0879
+MUNICIPIO : 6001 — RIO DE JANEIRO UF: RJ CEP: 20960-015
+CREDOR : 40423681/0001-78 — ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCI
+ENDERECO MARQUES DE OLINDA 137 CENTRO
+
+MUNICIPIO 5865 — NITEROI UF: RJ CEP: 24030-170
+
+ 
+
+TAXA CAMBIO:
+
+OBSERVACAD / FINALIDADE
+
+2020NC001248 DE O2ABR20 DGP-GESTOR, ATENDER DEMANDAS SAUDE OP COVID 19
+CFE REOO15 DPCALOG/LOFEX DE 18MAR2ZO
+
+RESP TC SANDRA PROC ORIGEM: 2019PR00009
+
+CTASS : 1 52101 05153601121C06500 186121 0300000000 339030 110407 O0E0304Ccov0o3
+
+End GLOBAL MODAL.LICIT.: PREGAO
+
+AMPARO: LEI10520 INCISO: PROCESSO: 64614001407201937
+UF/MUNICIPIO BENEFICIADO: RJ /
+
+ORIGEM DO MATERIAL : NACIONAL
+
+REFERENCIA: ARTO1 LE1I10520/02 NUM. ORIG. :
+
+VALOR ORIGINAL : 4.640,00
+
+QUATRO MIL, SEISCENTOS E QUARENTA REAIS***LILAHLLLKLLLHLLLLLSANLLILALELLALAHA
+
+DRDS LDL DLL LDL RLL DDD LLLRLLLLLLLL DLL RA LL DADA LDA
+HA A DSL LDA DT
+
+RARAS LLLLLLS LL LDL DAL LLLLLLL RLL RLL A A
+ESPECIFICACAO DO MATERIAL OU SERVICO
+ND: 3239030 SUBITEM: 09 “MATERIAL FARMACOLOGICO
+
+SEO.: 1 QUANTIDADE: 500 VALOR UNITARIO
+VALOR DO SEQ.
+
+e
+o
+e
+o
+o
+o
+
+509,00000 LITRO
+
+À SOL ETÍLICO, ASPECTO FÍSICO DE CEREAIS, HIDRATADO, LÍQUIDO LÍMPIDO, INCOLOR
++ TEOR ALCOÓLICO MÍNIMO DE 96ºGL, FÓRMULA QUÍMICA C2H50H, PESO MOLECULAR 46,07
+G/MOL, GRAU DE PUREZA MÍNIMO DE 93º INPM, NÚMERO DE REFERÊNCIA QUÍMICA CAS 64-
+
+17-5
+
+MARCA: ETIL RIO ITEM DO PROCESSO: 00007 ITEM DE MATERIAL: 000376801
+
+TOTAL E 4.640,00
+
+telha E
+
+GESTOR FINANCEIRO
+
+ 
+
+   
+SERVICO PUBLICO FEDERAL
+SIAFI — SISTEMA INTEGRADO DE ADMINISTRACAO FINANCEIRA DO GOVERNO FEDERAL
+
+NOTA DE EMPENHO a
+ELS, Saad AGINA: 1
+
+EMISSAO : O3Abr20 NUMERO: 2020NE800030 I (Gi
+ESPECIE : OL — ORIGINAL
+EMITENTE : 160328/00001 - LABORATORIO QUIMICO FARMACEUTICO DO EXERCITO
+CNPJ : 10266175/0001-07 FONE: 55.21.2391.0868 RAMAL 210 GESTOR FINANCEIR
+ENDERECO : RUA LICINIO CARDOSO, 96-TRIAGEM-RITELEFAX 55.21.2391.0879
+MUNICIPIO : 6001 — RIO DE JANEIRO UF: RJ CEP: 20960-015
+CREDOR : 404238581/0001-78 — ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCI
+ENDERECO MARQUES DE OLINDA 137 CENTRO
+MUNICIPIO 5865 — NITEROI UF: RJ CEP: 24030-170
+
+ 
+
+TAXA CAMBIO:
+
+OBSERVACAO / FINALIDADE
+
+2020NC001248 DE 02ABR20 DGP-GESTOR, ATENDER DEMANDAS SAUDE QP COVID 19
+CFE REQO15S DPCALOG/LQFEX DE 1BMAR2O
+
+RESP TC SANDRA PROC ORIGEM: 05000092019
+
+CJASS : 1 52101 05153601121C06500 186121 0300000000 339030 110407 0E0304covos
+
+7 o GLOBAL MODAL.LICIT.: PREGAO
+
+AMPARO: LEI10520 INCISO: PROCESSO: 646140014072019537
+UF/MUNICIPIO BENEFICIADO: Rd /
+
+ORIGEM DO MATERIAL : NACIONAL
+
+REFERENCIA: ARTO1 LE110520/02 NUM. ORIG.:
+
+VALOR ORIGINAL : 4.640,00
+
+QUATRO MIL, SEISCENTOS E QUARENTA REAIS**+++4Liwszahapusasendatasitisadadareaa
+PABRARALESLEELALLLAL DELES LEEDS PRE AL LDL SALADA FLA
+
+PRPSLALSAALLLLAALSLLS ALLE DELLLLLLLD LDL SD LADEIRA LILA AA
+
+PRERESI LDL CALLE DRA RS AA LIA A
+
+[e]
+
+SP:
+
+ 
+
+TFICACAO DO MATERIAL OU SERVICO
+
+ND: 339030 SUBITEM: 09 -MATERIAL FARMACOLOGICO
+SEQ.: À QUANTIDADE : 500 VALOR UNITARIO: 9,28
+VALOR DO SEQ. : 4,640,00
+
+509,00000 LITRO
+
+Á. OL ETÍLICO, ASPECTO FÍSICO DE CEREAIS, HIDRATADO, LÍQUIDO LÍMPIDO, INCOLOR
++ TEOR ALCOÓLICO MÍNIMO DE 96ºGL, FÓRMULA QUÍMICA C2H50H, PESO MOLECULAR 46,07
+G/MOL, GRAU DE PUREZA MÍNIMO DE 93ºTNPM, NÚMERO DE REFERÊNCIA QUÍMICA CAS 64-
+
+17-5
+
+MARCA: ETIL RIO ITEM DO PROCESSO: 00007 ITEM DE MATERIAL: 000376801
+
+TOTAL: 4.640,00
+
+tm
+
+HAROLDO PAÁVA GALVÃO GESTOR FINANCEIRO H
+ORDENADO
+
+   
+SERVICO PUBLICO FEDERAL
+SIAFI — SISTEMA INTEGRADO DE ADMINISTRACAO FINANCEIRA DO GOVERNO FEDERAL
+
+NOTA DE EMPENHO
+
+  
+
+-5aLCj PAGINA: 1
+EMISSAO : OSAbr20 NUMERO: 2020NES00031 lr gas)
+ESPECIE : 01 - ORIGINAL À (ST 1
+EMITENTE |: 160328/00001 — LABORATORIO QUIMICO cnmudesuno-vô exenciro
+CNPJ : 10266175/0001-07 FONE: 55.21.2391,0868 RAMAL 210 GESTOR FINANCEIR
+ENDERECO  : RUA LICINIO CARDOSO, 96-TRIAGEM-RJTELEFAX 55.21.2291.0879
+MUNICIPIO : 6001 - RIO DE JANEIRO UF: RJ CEP: 20960-015
+CREDOR : 40423881/0001-78 — ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCI
+ENDERECO |: MARQUES DE OLINDA 137 CENTRO
+MUNICIPIO : 5865 — NITEROI UF: RJ CEP: 24030-170
+
+TAXA CAMBIO:
+
+OBSERVACAO / FINALIDADE
+
+2020NC001248 DE O2ABR2Z0 DGP-GESTOR, ATENDER DEMANDAS SAUDE OP COVID 19
+CPE REQUIS DPCALOG/LOFEX DE 18MAR2ZO
+
+RESP TC SANDRA PROC ORIGEM: 05000092019
+
+1 52101 05153601121C06500 186121 0300000000 339030 110407 oE0O304covos
+
+ 
+
+GLOBAL MODAL. LICIT.: PREGAO
+z ARO: LEI10520 INCISO: PROCESSO: 64614001407201937
+UF/MUNICIPIO BENEFICIADO: RJ /
+ORIGEM DO MATERIAL * NACIONAL
+REFERENCIA: ARTO1 LE110520/02 NUM. ORIG. :
+VALOR ORIGINAL : 4.640,00
+
+QUATRO MIL, SEISCENTOS E QUARENTA REAIS**+HLiss es sarasastit seeds dada dd
+ERR RRRER ERAS ARLS RLL LLLLLLLA LDA RLL PLA dd dA
+TRES ELLA RR DUAL RARAS RAS SELADA DESTES FAL LE RE LÃ
+
+TERRAS ALAS AREA ARAL RLL LDA RALIS RARA RA AA
+
+ESPECIFICACAO DO MATERIAL OU SERVICO
+
+ND: 339030 SUBITEM: 09 -MATERIAL FARMACOLOGICO
+SEQ.: 1 QUANTIDADE: 500 VALOR UNITARIO: 9,28
+VALOR DO SEQ. : 4.640,00
+
+500,00000 LITRO
+
+Á OL ETÍLICO, ASPECTO FÍSICO DE CEREAIS, HIDRATADO, LÍQUIDO LÍMPIDO, INCOLOR
++ TEOR ALCOÓLICO MÍNIMO DE 96ºGL, FÓRMULA QUÍMICA C2HSOH, PESO MOLECULAR 46,07
+G/MOL, GRAU DE PUREZA MÍNIMO DE 93º INPM, NÚMERO DE REFERÊNCIA QUÍMICA CAS 64-
+
+17-5
+
+MARCA: ETIL RIO ITEM DO PROCESSO: 00007 ITEM DE MATERIAL: 000376801
+
+TOTAL ê 4.640,00
+
+   
+
+HAROLDO PÁIVA GALVÃO GESTOR FINANCEIRO
+ORDENADOR
+
+Dl “los 4. BE Page.
+“SERVICO PUBLICO FEDERAL
+VSIAPI — SISTEMA INTEGRADO DE ADMINISTRACAO FINANCEIRA DO GOVERNO FEDERAL
+
+WGora DE EMPENHO
+
+   
+
+1
+
+“GuISsAO O3Abr20 NUMERO: 2020NE800032
+
+ESPECIE 01 — ORIGINAL
+ve ITENTE : 160328/00001 —- LABORATORIO QUIMICO FARMACEUTICO DO EXERCITO
+eNes : 10266175/0001-07 FONE: 55.21.2391.0868 RAMAL 210 GESTOR FINANCEIR
+LANDERECO * RUA LICINIO CARDOSO, 96-TRIAGEM-RITELEFAYX 55.21.2391.0879
+
+MUNICIPIO : 6001 — RIO DE JANEIRO UF: RJ CEP: 20960-015
+iÉREDOR : 40423881/0001-78 — ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCI
+
+NDERECO : MARQUES DE OLINDA 137 CENTRO
+PA DO : 5865 — NITEROI UF: RJ CEP: 24030-170
+
+XA CAMBIO:
+ar SERVACAO / FINALIDADE
+one nNaon na DE O2ABR20 DGP-GESTOR, ATENDER DEMANDAS SAUDE OP COVID 19
+CFE REQO15 DPCALOG/LQFEX DE 18MAR20
+RESP TC SANDRA PROC ORIGEM: 05000092019
+
+Crass : 1 52101 05153601121C06500 186121 0300000000 339030 110407 OEO304COVO3
+Tp : GLOBAL MODAL .LICIT.: PREGAO
+
+AMPARO: LEI110520 INCISO: FROCESSO: 64614001407201937
+UF/MUNICIPIO BENEFICIADO: RJ /
+
+ORIGEM DO MATERIAL * NACIONAL
+
+REFERENCIA: ARTO1 LE110520/02 NUM. ORIG. :
+
+VALOR ORIGINAL : 4.640,00
+
+QUATRO MIL, SEISCENTOS E QUARENTA REAIS*++4hratasisdhietide dada sata did
+
+ND: 339030 SUBITEM: 09 -MATERIAL FPARMACOLOGICO
+SEQ.% QUANTIDADE: 500 VALOR UNITARIO: 9,28
+VALOR DO SEQ. : 4.640,00
+
+599,00000 LITRO
+
+É OOL ETÍLICO, ASPECTO FÍSICO DE CEREAIS, HIDRATADO, LÍQUIDO LÍMPIDO, INCOLOR
+" TEOR ALCOÓLICO MÍNIMO DE 96ºGL, FÓRMULA QUÍMICA C2H50H, PESO MOLECULAR 46,07
+G/MOL, GRAU DE PUREZA MÍNIMO DE 93º INPM, NÚMERO DE REFERÊNCIA QUÍMICA CAS 64-
+17-5
+
+MARCA: ETIL RIO ITEM DO PROCESSO: 00007 ITEM DE MATERIAL: 000376801
+
+POA É, x 4.640,00
+aad mM tdo) 6 de ty D..
+
+HAROLDO“ PAIXA GALVÃO GESTOR FINANCEIRO 4
+ORDENADOR
+
+ 
+ 
+
+ 
+
+iza ot e:a-rio LGFEX-SALC |
+
+|
+las Go |
+COMÉRCIO E (ris SS |
+
+REPRESENTAÇÕES EIREL! ; ED
+
+CNPJ INSC
+
+ 
+
+   
+
+ 
+
+AO EXMO. SR. DIRETOR DO LABORATÓRIO QUÍMICO FARMACÉUTICO DO
+EXÉRCITO - LOFEX
+
+Referência: Pregão Eletrônico nº 09/2019 (Processo administrativo nº
+] 84614.001407/2019-37)
+
+LIMPATEXRIO COMÉRCIO E REPRESENTAÇÕES EIRELI, inscrita no
+CNPJ sob o nº39.939.715/0001-40, So na Av. Pastor Martin Luther King
+dr., 128, BlocoA, sala 476-A (doravante LIMPATEX), neste ato representada por
+ANTÔNIO FRUTUOSO PIRES PERALTA, CPF 271.186.497-91, residente à Rua
+Djalma Petit nº 23, Riachuelo, Rio de Janeiro, RJ, vem, com fundamento no artigo
+37, incisa XX] da Constituição Federal de 1988, no artigo 65, inciso ||, alinea “d”
+da Lui 8.566/93 e no artigo 17 do Decreto Federal 7.892/2013, requerer a revisão
+do preço do produto “RIFAMPICINA” constante da Ata de Registro de
+Preçorefsrenie ao pregão acima indicado, na forma a seguir exposta.
+
+1. A GRAVE CRISE ECONÔMICA CAUSADA PELO CORONAVÍRUS E SEU
+IMPACTO NA PROPOSTA APRESENTADA PELA REQUERENTE
+
+Em 18/07/2019 foi realizada licitação (na modalidade pregão eletrônico)
+visando à assinaiura de ata de registro de preços para a aquisição de diversos
+produtos pelo Laboratório Químico Farmacêutico do Exército (doravante LOFEX),
+tendo a LIMPATEX se sagrado vencedora especificamente em relação ao
+
+fármaco RIFAMPICINA, para o quai ofereceu o preço de R$ 964,00 por
+quilegrame.
+
+ 
+
+l
+av, Pastor Martin Luihe dr. nº 126 Bloco A - Sala 476 A - De! Castilho - Cep 20765-000 - Rio de Janeiro - RJ
+Tel: (21) 2582-1239 E-mail: limoatexria(Damail.com
+
+ 
+
+ 
+
+  
+ 
+
+liupetea-rio E
+
+MÉRCIO E [FLS
+REPRESENTAÇÕES EIRELI, i S |
+
+   
+
+ 
+
+ 
+
+CNP LIDO), = JNSE EST. 84.815.047
+=
+
+Homologado o resultado do pregão (em 06/08/2019), foi assinada a ata de
+registro de preços, que constitui “documento vinculativo, obrigacional, com
+caracterísiica de compromisso para futura contratação, em que se registram os
+preços, fornecedores, órgãos participantes e condições a serem praticadas,
+conforme as disposições contidas no instrumento convocatório e propostas
+apreseniadas” (artigo 2º, inciso Il do Decreto Federal 7.892/2013).
+
+À Ocorre que a RIFAMPICINA é importada da Itália(onde o fármaco é
+produzido pelo Laboratório SANOFI-AVENTIS), de modo que para o cumprimento
+
+da obrigação assumida perante o LQFEXa LIMPATEXprecisa celebrar
+
+contratoe realizat pagamentoem moeda estrangeira, no caso em EURO.
+
+Nesse contexto deve ser ressaltado que à cotação do EURO na data
+da apresentação da proposta pela LIMPATEX era de R$ 4,2075,
+
+conforme consta no endereço eletrônico do Banco Central do Brasil"
+
+€i
+teto
+— BANCO CENTRAL DO BRASIL
+
+ 
+
+ese Doterins
+
+eraçós. de Fechamento da EURO. Codigo da Moeda 978, Sambola da Moeda: ELT. Tapo ds Moeda: B. parade de 1
+
+    
+
+ 
+
+Data Paridade
+
+Compra Yenda
+
+ 
+
+ES[ui jus
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+Jr. nº 126 Bloco A - Sata 478 A - Del Castilho - Cep 20765-000 - Rio de Janeiro - RJ
+
+3-1239 Email: limnstoveinarmail nm
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 o deimemaos — Sna
+li [7 ( ra Y — |LQREX-SALC)
+UHZAo 0 ç A ú ls. 629.
+
+COMÉRCIO E i '
+REPRESENTAÇÕES EIRELI i (om
+CNPJ: 39.939 715/0001-40 INSC EST B4.875. 047
+
+ 
+
+ 
+
+Ao longo dos meses seguintes o valor do EURO variou dentro de padrões
+ordinários do regime de câmbio flutuante adotado pelo Brasil, chegando a R$
+
+4,6195 em 29/01/2020, véspera do dia em que, em razão da grave crise do
+novo coronavírus, a Organização Mundial de Saúde declarou
+
+Situação de “emergência alobal de saúde”, conforme amplamente
+divulgado? pela imprensa brasileira (em 30/01/2020):
+
+Novo coronavírus é emergência de saúde internacional,
+teciara OMS
+
+rm cash
+
+ 
+
+1ab'D
+
+     
+
+ 
+
+ 
+  
+
+2 (OMS) declarou nesta quinta-feira (30) ou
+a emergência de saúde pública de interesse internacio
+
+ 
+ 
+ 
+
+ 
+
+ 
+  
+
+ 
+
+rdenada de combare à doença de
+
+Diante do agravamento da crise, em 11/03/2020 a OMS novamente
+se manifestou e declarou situação de “pandemia”:
+
+   
+
+“http://www bei v.br/estabilidadefinanceira/politicacambial
+https://g] lobo.com/ciencia-e-saude noticia/2020/01/30/novo-coronavirus-e-emergencia-de-saude-
+
+internacionel-declara-oms.ghtml
+“hirps://www. unasus.gov.br/noticia/organizacao-mundial-de-saude-declara-pandemia-de-coronavirus
+
+ 
+
+3
+Ay. Pastor Martin Luther king Jr, nº 126 Bloco A - Sala 476 A - Del Castilho - Cep 20765-000 - Rio de Janeiro. R)
+E-mail: limnatavriafinmail sans
+
+ 
+
+ 
+
+ 
+ 
+
+lizpate-rio
+
+COMERCIO E
+REPRESENTAÇÕES EIRELI.
+
+CNPJ 39,839,715/0001-40 INSC EST 84,815,047
+
+ 
+
+ 
+
+Organização
+sindiai de
+Satide cdeciara
+pandemia cics
+EU er
+
+ 
+
+Coraonrnavíriis
+
+ 
+
+Tedres “dt
+Srgan
+SMS
+
+ 
+
+<ão Mundial de Saúde
+declarou hoje (117) que a
+
+organização elevot: o estado da
+cont
+
+19,
+
+ 
+
+mas
+Ooronaviris
+
+ 
+
+sacia pelo novo
+ars-Cow-2).
+
+ 
+
+mercados financeiros pelo mundo,
+
+representou um aumento de 29,11% em poucos meses:
+
+ 
+
+nom, direror gerai da
+
+rminação & pandemia de Covid-
+
+Do ponto de vista econômico, esse quadro de agravamento do surto do
+
+novo coronavirusprovocougravíssima crise nas economias e nos
+
+causando verdadeira
+Cexnlosão"da cotação do EURO no Brasil, que passou de R$
+
+4,6195 (em 29/01/2020) para R$ 5,9645 (em 01/06/2020), o que
+
+TAFEx- SAL]
+LS AS
+
+SB
+
+4
+
+ 
+
+ 
+
+Av. Pastor pt Luther king Jr. nº 126 Bloco A - Sala
+
+476 A - Del Castilho - Cep 20765-000 - Ria de Janeiro - RJ
+: (21) 2583-1239 E-mail: limpatexrio(Damail.com
+ 
+
+ 
+
+é e E
+Uia vu tez ILQFEX-SALC
+COMÉRCIOE leis. 634.1
+REPRESENTAÇÕES EJRELI. QU
+CNPJ: 39.939715/0001-40  - INSC EST 84. 815.047
+
+ 
+
+ 
+
+   
+
+Fechamento do EURO, Códiza da Moeda: 2 itnbolo da Mosda: El
+
+q
+
+ 
+
+Tipo ds Moeda; E. penodo de 260%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chique pare obter 3 tabela completa (2) Cv. U5
+Dats Tipo Paridade
+Vendo Compra
+E
+B
+AL
+
+BANCO CENTRAL DO BRASIL
+
+sr
+=
+
+  
+  
+
+ 
+
+isbolo da hioeda, EUR Tipo da Moeda D periodo: de DO
+E 06NDIO
+
+obrar a tabela completa (19 5%
+
+   
+
+ 
+
+Tazal Paridade?
+Compra
+
+B jatos
+
+IE EH
+
+Compra
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O quadro abaixo demonstra a escalada da cotação do EURO:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Cotação do EURO
+18/07/2019 (apresentação R$ 4,2075 |
+da proposta) |
+29/01/2020 (véspera da R$ 4,6195 E EE
+declaração de emergência 29,11%
+pela OMS)
+01/06/2020 (data atual) R$ 5,9645
+
+ 
+
+ 
+
+N
+
+ 
+
+w
+
+ 
+
+ 
+
+Av. Pastor Martin Luther king Jr, nº 126 Bloco A - Sala 476 A - Del Castilho - Cep 20765-000 - Rio de Janeiro - RJ
+Tel: (21) 2583-1239 E-mail: limbatexnoDamail com
+ 
+
+e ê ——
+7 A CAT [TES
+COMÉRCIO E 7 Ins 632.
+TAÇÕES EIRELI, , o (E h
+
+39.7 15/0007-40 INSC EST, 84,815.047
+
+  
+
+ 
+
+ 
+
+ 
+
+Diante da enorme e repentina valorização do EURO ocorrida EM RAZÃO
+DE FATO ABSOLUTAMENTE EXCEPCIONAL E IMPREVISÍVEL, COM
+IMPACTO DIRETO SOBRE O PREÇO DO PRODUTO OFERTADO PELA
+REQUERENTE, é necessário que seja realizada a revisão do preço do item
+
+RIFAMPICINA constante da ata de registro de preços, pelos fundamentos a
+seguir expostos.
+
+2. VALORIZAÇÃO EXTRAORDINÁRIA E IMPREVISÍVEL DO EURO EM RAZÃO
+DA CRISE INTERNACIONAL CAUSADA PELO NOVO CORONAVÍRUS.
+NECESSIDADE DE REVISÃO DO PREÇO DO PRODUTO OFERTADO PELA
+LICITANTE, QUE PRECISA SER IMPORTADO.
+
+Como já dito, é notório o quadro de valorização abrupta do EURO em
+DECORRÊNCIA DE FATO EXCEPCIONAL E IMPREVISÍVEL, COM IMPACTO
+
+DIRETO SOBRE O PREÇO OFERTADO PELA REQUERENTE para o item
+RIFAMPICINA.
+
+A esse raspeito, cabe destacar que tanto a Constituição Federal quanto a
+a Lei de vicitações (Lei 8666/1993) garantem ao licitante a preservação das
+condições econômico-financeiras existentes quando da apresentação da
+proposta:
+
+CRFB/1988
+
+An. 37. A administração pública direta e indireta de
+qualquer dos Poderes da União, dos Estados, do Distrito
+Federal e dos Municípios obedecerá aos princípios de
+legalidade, impessoalidade, moralidade, publicidade e
+
+eficiência e, também, ao seguinte: (Redação dada
+peia Emenda Constitucional nº 19, de 1998)
+(.:)
+
+XXI - ressalvados os casos especificados na legislação,
+as obras, serviços, compras e alienações serão contratados
+medianie processo de licitação pública que assegure
+
+ 
+
+6
+
+ 
+
+ 
+
+Av. Pastor Martin Luther king dr, nº 126 Bloco A - Sala 476 A - Del Castilho - Cep 20765-000 - Rio de Janeiro - RJ
+
+Tel.: (21) 2583-1239 Fomail: limnatavriaBnmail amem
+
+  
+ 
+
+ 
+
+lap ente: m-aim re
+
+ 
+
+igualdade de condições a todos os concorrentes, com
+ciáusulas que estabeleçam obrigações de pagamento,
+mantidas as condições efetivas da proposta. nos termos
+da lei o qual somente permitirá as exigências de
+qualificação técnica e econômica indispensáveis à garantia
+do cumprimento das obrigações.
+
+LEI 8666/1993
+
+Art. 65. Os contratos regidos por esta Lei poderão ser
+alierados, com as devidas justificativas, nos seguintes
+casos:
+
+(:..)
+
+! - por acordo das partes:
+(.:.)
+
+a) para restabelecer a relação que as partes
+pactuaram inicialmente entre os encargos do contratado
+e a retribuição da administração para a justa
+remuneração da obra, serviço ou fomecimento.
+objetivando a manutenção do equilibrio econômico-
+financeiro inicial do contrato, na hipótese de sobrevirem
+fatos imprevisíveis, ou previsíveis porém de
+consegiiências incalculáveis, retardadores ou
+impeditivos da execução do ajustado, ou, ainda, em
+caso de força maior, caso fortuito ou fato do príncipe,
+
+configurando álea econômica extraordinária e
+extracontratual,
+
+ 
+
+O próprio Decreto Federal nº 7.892/2013, que regulamenta o sistema de
+
+regisiro de preços no âmbito da União, prevê norma no mesmo sentido:
+
+Art. 17. Os preços registrados poderão ser
+
+revistos em decorrência de eventual redução dos preços
+
+praticados no mercado ou de fato que eleve o custo dos
+
+serviços ou bens registrados, cabendo ao órgão
+gerenciador promover as negociações junto aos
+fornecedores, observadas as disposições contidas na
+
+%
+
+Av. Pastor Martin Luther king Jr. nº 126 Blogo A - Sala 476 A- Del Castilho - Cep 20765-000 - Rio de Janeiro - RJ
+Tel.: (21) 2583-1239 E-mail: limoatexriofDamail.com
+
+ 
+
+ 
+
+ 
+ 
+
+iza cut era E
+Tiara cat esa nim las. S39
+COMÉRCIO E ! À
+REPRESENTAÇÕES EIRELI É qua)
+
+CNPJ: 39,939, 735/0609 -40 - INSC EST 84 815, n47
+
+ 
+
+ 
+
+alínea “d” do inciso ll do caput do art. 65 da Lei nº 8.666,
+de 1993,
+
+Tratando especificamente da variação cambial em caso de produto
+importado pelo ticitante (exatamente como ocorre no presente caso), o professor
+MARÇAL JUSTEN FILHO defende a revisão do preço para que seja
+
+restabelecido o equilibrio econômico-financeiro do contrato:
+
+Mas será diversa a situação quando o adimplemento
+da presiação contratada pressupuser operação de
+internalização de bem ou serviço oriundo do estrangeiro.
+Nesse caso, a formação dos custos do particular
+compreende insumo cujo pagamento se faz em moeda
+estrangeira. Isso envolve a necessidade de o particular
+desembolsar efetivamente recursos nacionais suficientes
+para adquirir moeda estrangeira, instrumento de satisfação
+da obrigação assumida. Então, a variação cambial
+corresponderá a um custo formador do preço praticado
+pelo particular — ta! como qualquer outro custo. Assim, a
+variação extraordinária e imprevisível da moeda
+estrangeira pode ser assemelhada a eventos similares
+relacionados com outros custos do
+coniratado. (COMENTÁRIOS À LEI DE LICITAÇÕES E
+CONTRATOS ADMINISTRATIVOS, 11º edição, pág. 548)
+
+Vale ressaltar que o Tribunal de Contas da União tem entendimento
+firme ne sentido de admitir o reequilibrio contratual a partir de valorização
+extraordinária da moeda estrangeira:
+
+A variação cambial, em regime de câmbio flutuante,
+não pode ser considerada suficiente para, isoladamente,
+embasar a necessidade de reequilíbrio econômico-financeiro
+do contrato com fulcro no art. 65, inciso |l, alínea “d", da Lei
+
+8.666/1993. Para que a variação do câmbio possa
+justificar o pagamento de valores à contratada a título
+de recomposição do equilíbrio econômico-financeiro,
+faz-se necessário que ela seja imprevisível ou de
+consequências incalculáveis.
+
+(Acórdão 4125/2019, Primeira Câmara, Relator BRUNO
+DANTAS)
+
+ 
+
+ 
+
+8
+126 Bloco A - Sala 476 A - Del Castilho - Cep 20765-000 - Rio de Janeiro - RJ
+E-mail: limpatexrioOgmail.com
+
+ 
+
+Av. Pastor Martin pinho ing
+Tel: (21) 3-1
+
+dr.
+pão
+ 
+
+lizapate--s im
+
+    
+
+RE
+
+ 
+
+CNPJ 39939,715/0001-40 - INSC EST 84815097
+
+ 
+
+ 
+
+O Superior Tribunal de Justiça também segue o mesmo entendimento:
+
+Processo
+
+REspi433434 / DF
+RECURSO ESPECIAL
+2011/0183895-7
+
+Relator(a)
+
+Ministro SÉRGIO KUKINA (1155)
+Órgão Julgador
+
+T - PRIMEIRA TURMA
+
+Data do Julgamento
+20/02/2018
+
+Data da Publicação/Fonte
+
+DJe 21/03/2018
+
+Ementa
+
+ADMINISTRATIVO. LICITAÇÃO. CONTRATO E ADITIVO
+PARA FORNECIMENTO DESEIS HELICÓPTEROS PARA
+A POLÍCIA RODOVIÁRIA FEDERAL PREÇO
+AJUSTADOEM MOEDA NACIONAL (REAL).
+
+VENCEDORA CONTRATANTE QUE
+NECESSITAVAIMPORTAR AS AERONAVES PAGANDO
+EM MOEDA ESTRANGEIRA
+
+(DÓLAR).DESVALORIZAÇÃO DO CÂMBIO OCORRIDA
+EM JANEIRO DE 1999. TEORIA DAIMPREVISÃO. ÁLEA
+EXTRAORDINÁRIA CONFIGURADA.
+REEQUILÍBRIOECONÔMICO-FINANCEIRO. ART. 65, II,
+'D, DA LEI Nº 8.666/93.INDENIZAÇÃO DEVIDA.
+RECURSO DA EMPRESA PARTICULAR PROVIDO.
+
+1. Em consonância com o estabelecido no art. 37,
+XXI, daConstituição Federal, que garante a
+manutenção das condiçõesefetivas da proposta de
+contrato celebrado com a Administração, aLei de
+Licitações prevê a possibilidade de revisão contratual
+com ofito de preservação da equação econômica da
+averca, podendo essacorreção. dentre outras
+premissas, advir da teoria da imprevisão. ateor do
+disposto no art. 65, Il, d, da Lei nº 8.666/93.
+
+2. De outro lado, os contratos que tenham por objeto a
+prestação deserviço firmados em real e executados
+9
+
+king dr. nº 126 Bloco A - Sala 476 A - Del Castilho - Cep 20765-000 - Rio de Janeiro - RJ
+Tel.: (21) 2583-1249 E-mail: limnatexriaDomail com
+
+ 
+
+ 
+
+ 
+
+Av. Pastor Martin Luthe
+
+  
+ 
+
+lizapatem-rio
+
+COMÉRCIO E
+REPRESENTAÇÕES EIRELL.
+
+ 
+
+   
+
+CNPJ 35939 715/0001-40 - INSG EST 84815047
+
+ 
+
+ 
+
+no exterior. eventualmentesubmetidos a variação
+cambial significativa e inesperada, sãopassíveis de
+repactuação, conforme previsão do art. 65, inciso Il d,
+da Lei 8666/1993, caso constatada a oneração
+excessiva, com orompimento da equação econômico.
+financeira firmada.
+
+3. No caso concreto, a empresa autora, ora recorrente,
+requerindenização pecuniária, mediante a revisão de
+coniratoadministrativo para o formecimento de
+helicópteros (por elaentregues) destinados ao serviço de
+remoção de vítimas de acidentes,resgates e operações
+especiais do Departamento da Polícia RodoviáriaFederal,
+com preço originariamente fixado em moeda nacional
+(real,ante a alegada quebra da equação econômico-
+financeira, decorrente daforte desvalorização da moeda
+brasileira frente ao dólar, fenômenoocorrido em janeiro de
+1999, como consequência da mudança depolítica cambial
+então implementada pelo Banco Central.
+
+4. Uma vez demonstrado que as aeronaves necessitavam
+ser adquiridaspela licitante vencedora no exterior. com o
+desembolso em dólarrealizado logo após a mencionada e
+drástica alteração da politicacambial (passando-se do
+sistema de bandas para o de livre flutuaçãodo dólar), fato
+esse que, à época, não poderia ser previsto e queacabou
+por onerar sobremaneira a empresa recorrente,
+configuradaresulta a álea econômica extraordinária e
+extracontratual de quetrata o art. 65, II, d, da Lei nº
+— 8.666/93, legitimando aindenização por ela pleiteada.
+
+5. Como já decidido por esta Primeira Turma do STJ no
+RMS 15.154/PE,Rel. Ministro Luiz Fux, j. 19/11/2002, "O
+episódio ocorrido emjaneiro de 1999, consubstanciado na
+súbita desvalorização da moedanacional (real) frente ao
+dólar norte-americano, configurou causaexcepcional de
+mutabilidade dos contratos administrativos, comvistas à
+manutenção do equilibrio econômico-financeiro das partes”.
+
+6. Recursc especial conhecido e provido.
+
+ 
+
+ 
+
+10
+
+Ay: Pastor Martin Lulher king Jr. nº 126 Bloco A - Sela 476 A - Del Castilho - Cep 20765-000 - Rio de Janeiro - RJ
+
+Tel: (21) 2583-1239 E-mail: limpatexrin/Bamail cam
+
+ 
+
+ 
+ 
+
+8 e
+liga uteza-cio [rarea-SALC |
+CCMÉRCIO E las SS =
+REPRESENTAÇÕES EIREL!. | Si
+CNP: 38,939.715/0001-40 - INSC EST. 84,815.047
+
+ 
+
+ 
+
+com preço originariamente fixado em moeda nacional
+(real)anis a alegada quebra da equação econômico-
+financeira, decorrente daforte desvalorização da moeda
+brasileira frente ao dólar, fenômenoocorrido em janeiro de
+1999, como consequência da mudança depolítica cambial
+então implementada pelo Banco Central.
+
+4. Uma vez demonsirado que as aeronaves necessitavam
+ser adquiridaspela licitante vencedora no exterior, com o
+desembolso em dólarrealizado logo após a mencionada e
+drástica alteração da politicacambial (passando-se do
+sistema de bandas para o de livre flutuaçãodo dólar), fato
+esse que, à época, não poderia ser previsto e queacabou
+por onerar sobremaneira a empresa recorrente,
+configuradaresulta a álea econômica extraordinária e
+ertracontratual de quetrata o art 65, Il, d, da Lei nº
+8.666/93, legitimando aindenização por ela pleiteada.
+
+5 Como já decidido por esta Primeira Turma do STJ no
+RMS 15.154/PE Rel. Ministro Luiz Fux, j. 19/11/2002, "O
+episódio ocorrido emjaneiro de 1999, consubstanciado na
+súbita desvalorização da moedanacional (real) frente ao
+dólar norte-americano, configurou causaexcepcional de
+mutabilidade dos contratos administrativos, comvistas à
+manutenção do equilíbrio econômico-financeiro das partes”.
+
+6. Recurso especial conhecido e provido.
+
+E 3. CONCLUSÃO
+
+Em razão do exposto, a LIMPATEX requer que seja realizada a revisão do
+preço do item RIFAMPICINA previsto na ata de registro de preços referente ao
+Pregão Eletrônico nº 09/2019, ajustando-o para o valor de R$ 1.190,00 por
+quilograma.
+
+Rio de Janeiro, 1º de junho de 2020.
+
+ 
+
+LIMPATEXRIO COMÉRCIO E REPRESENTAÇÕES EIRELI
+
+ 
+
+ 
+
+to
+
+ 
+
+    
+
+Fomail: limnatavriniMnrmait ane
+aque
+
+a
+Ss
+
+ia
+
+   
+
+Ministério da Economia
+Secretaria Especial de Desburocratização, Gestão e Governo Digital
+Secretaria de Gestão
+
+Sistema de Cadastramento Unificado de Fornecedores - SICAF
+Declaração
+Declaramos para os fins previstos na Lei nº 8.066, de 1993, conforme documentação registrada no SICAF, que a
+
+situação do fornecedor no momento é à seguinte:
+
+Dados do Fornecedor
+
+CNPJ 40.423.881/0001-78
+
+Razão Social: ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCIAS LTDA
+Nome Fantasia: ESSENCIAS NITEROI
+atuação do Fornecedor; Credenciado Data de Vencimento do Cadastro: 08/03/2021
+
+Ocorrências e Impedimentos
+
+Ocorrência: Nada Consta
+Impedimento de Licitar; Nada Consta
+Ocorrências Impeditivas indiretas: Nada Consta
+Vínculo com "Serviço Público": Nada Consta
+
+Níveis cadastrados:
+1 - Credenciamento
+1 - Habilitação Jurídica
+HI - Regularidade Fiscal e Trabalhista Federal
+
+Receita Federal e PGEN Validade: 30/11/2020
+
+EGTS Validade: 10/07/2020
+
+— Trabalhista (hiip://www.tstjus.br/certidao) Validade: 12/10/2020
+IV - Regularidade Fiscal Estadual/Distrital e Municipal
+
+Receita Estadual/Distrital Validade: 15/07/2020
+
+Receita Municipal Validade: 09/11/2020
+
+V- Qualificação Técnica
+VI - Qualificação Econômico-Financeira
+Validade: 31/05/2020
+
+ 
+
+Emitido em: 20/05/2020 11:22 1 de 1
+
+ 
+TCU
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Consulta Consolidada de Pessoa Jurídica
+
+Este relatório tem por objetivo apresentar os resultados consolidados de consultas eletrônicas
+realizadas diretamente nos bancos de dados dos respectivos cadastros. A responsabilidade
+pela veracidade do resultado da consulta é do Órgão gestor de cada cadastro consultado. A
+informação relativa à razão social da Pessoa Jurídica é extraída do Cadastro Nacional da
+Pessoa Jurídica. mantido pela Receita Federal do Brasil.
+
+Consulta realizada em: 20/05/2020 11:23:22
+
+Informações da Pessoa Jurídica:
+
+Razão Social: ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCIAS LIDA
+CNPJ: 40.423.881/0001-78
+
+ 
+
+ 
+
+ 
+
+ 
+
+Resultados da Consulta Eletrônica:
+Órgão Gestor: TCU
+
+Cadastro: Licitantes Inidôneos
+Resultado da consulta: Nada Consta
+
+ 
+
+Para acessar a certidão original no portal do órgão gestor. clique AQUI.
+
+ 
+
+ 
+
+Orgão Gestor: CNJ
+
+Cadastro: CNIA - Cadastro Nacional de Condenações Cíveis por Ato de Improbidade
+Administrativa e Inelegibilidade
+
+Resultado da consulta: Nada Consta
+
+Para acessar a certidão original no portal do órgão gestor, clique AQUI.
+
+ 
+
+ 
+
+Orgão Gestor: Portal da Transparência
+astro: Cadastro Nacional de Empresas Inidôneas e Suspensas
+Resultado da consulta: Nada Consta
+
+  
+  
+
+Para acessar a certidão original no portal do órgão gestor, elique AQUI.
+
+ 
+
+ 
+
+ 
+
+Órgão Gestor: Portal da Transparência
+Cadastro: CNEP - Cadastro Nacional de Empresas Punidas
+Resultado da consulta: Nada Consta
+
+ 
+
+ 
+
+Para acessar a certidão original no portal do órgão gestor, clique AQUI.
+
+ 
+
+Obs: A consulta consolidada de pessoa jurídica visa atender aos principios de simplificação e
+Simples Nacional http:/Nyww8.receita.fazenda,gov.br/SimplesNacional/Aplicacoes...
+
+Consulta Optantes
+“O
+
+(a
+
+Data da consulta: 20/05/2020
+'» Identificação do Contribuinte - CNPJ Matriz
+
+CNPJ : 40,423,881/0001-78
+A opção pelo Simples Nacional e/ou SIMEI abrange todos os estabelecimentos da empresa
+
+Nome Empresarial : ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCIAS LTDA
+=» Situação Atual
+Situação no Simples Nacional : Optante pelo Simples Nacional desde 01/07/2007
+Situação no SIMEI: NÃO optante pelo SIMEI
+Ei Períodos Anteriores
+Opções pelo Simples Nacional em Períodos Anteriores: Não Existem
+Opções pelo SIMEI em Períodos Anteriores: Não Existem
+— * Agendamentos (Simples Nacional)
+Agendamentos no Simples Nacional: Não Existem
+|” Eventos Futuros (Simples Nacional)
+Eventos Futuros no Simples Nacional: Não Existem
+' Eventos Futuros (SIMEI)
+
+Eventos Futuros no SIMEI: Não Existem
+
+“| para informações sobre como optar pelo SIMEI.
+
+ 
+
+Uvoitar! [Gerar PDF)
+
+Lori 20/05/2020 11:21
+ 
+ 
+ 
+
+&
+Sistema Integrado
+Ss F de Administração Financeira +
+
+do Governo Federal /N TesounoNacignaL
+
+Data e hora da consulta: 20/05/2020 11:24:37
+
+ 
+
+ 
+
+Usuário; 09811595755
+Cadastro Informativo de Créditos Não-Quitados - CADIN
+CPFICNPJ: Título: Situação Totaldo Registros O
+0823881000 Credor/Devedor não existente no Siafi Adimplente Ha até 30 dias:
+Há mais de 30 dias:
+Código Credor Data/Hora de Inclusão
+
+ 
+
+* Registros incluídos há até 30 dias,
+de 1
+SERVICO PUBLICO FEDERAL
+ADO DE ADMINISTRACAO FINANCEIRA DO GOVERNO PEDERAL
+
+   
+
+NOTA DE EMPENHO
+
+    
+
+ 
+
+“ PAGINA: 1
+es
+Mai20 NUMERO: 2Z020NES00080 E
+ORIGINAL
+7328/00001 — LABORATORIO QUIMICO FARMACEUTICO DO EXERCITO
+266175/0002-80 FONE: 55.21.2391.0879.0881.RAMAL 210 SETOR FTINAC
+A LICINIO CARDOSO, 46-TRIAGEM-RITELEFAX 55.21.2391.0879
+NUNICIPIO 8001 - RIO DE JANEIRO UF: RJ CEP: 20960-015
+1/0001-78 — ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCI
+DE OLINDA 137 CENTRO
+v865 — NITEROI UF: RJ CEP: 24030-170
+
+FINAL
+ONCOQUBAS DE IGABR
+
+     
+
+ 
+
+NSUMOS PARA A PRODUÇÃO DE ALCOOL EM
+DO COVID-18. RESP. CAP ANA PAULA.
+OZ0NES800017, CONF MsG AFI NR. 2020/0240673 FONTE.
+
+  
+
+FROTE!
+SALIDAN
+
+ 
+
+E 1
+O EMPENHO NE
+
+           
+
+ 
+
+52921 0530100
+
+ 
+
+CLA, 0040001 171500 0270270013 339030 167505 DSSAFUSUGPD
+Ta * GLOBAL MODAL.LICIT.; PREGAO
+
+AMPARO: LETIOS20 INCISO: PROCESSO: 64614001407201937
+UP/MUNICIFIO BENEFICIADO: RJ /
+
+  
+
+ 
+
+ 
+
+      
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ORIGEM DO MATERT ONAL,
+FEPERENCIA: ARTDI 0/02 NUM. ORIG.:
+LOB DRIGINAL & B.875,2
+
+   
+
+O MIL, OITO E SETENTA E CINCO REAIS E VINTE CENTAVOSt+++4+rw 44444444
+RE RÃ E o a A SS e E A PE A A A E A A
+ME SS E E e E E A
+
+ 
+
+PERDAS DA de RS ET DS E e DA
+
+OU SERVICO
+
+ 
+
+   
+
+JBTTEM: 353 “MATERIAL P/ PRODUCAO INDUSTRIA
+ANTIDADE : 215 VALOR UNITARIO: 41,28
+
+VALOR DO SEQ. : 8.875,20
+
+  
+
+  
+   
+ 
+
+DOUNDO QUILOGRAMA
+LENOGLICOL, ASPECTO FÍSICO LÍQUIDO XAROPOSO, LÍMPIDO, INCOLOR,
+
+CÓPIC FORMULA QUÍMICA CHSCHOHCH20H, PESO MOLECULAR 76,09 G/MOL, GRAU
+MÍNIMA DE 99,5 , CARACTERÍSTICA ADICIONAL REAGENTE P.A.,
+NCIA QUÍMICA CAS 57-55-
+
+ITEM DO PROCESSO: 00062 ITEM DE MATERIAL: 000260853
+
+ 
+
+ 
+
+ 
+ 
+
+TOTAL 8 B.875,20
+
+alga e.
+
+GESTOR FINANCEIRO
+
+ 
+
+   
+
+| 2044
+
+ 
+SERVICO PUBLICO FEDERAL
+SISTEMA INTEGRADO DE ADMINISTRACAO FINANCEIRA DO GOVERNO FEDERAL
+
+   
+
+ 
+
+    
+
+NOTA DE EMPENHO LQrEro artes
+us AB. . PAGINA: 1
+: 20Mai20 NUMERO: 2020NE800079 GS
+01 - ORIGINAL
+C7428/00001 — LABORATORIO QUIMICO FARMACEUTICO DO EXERCITO
+
+   
+
+561753/0002-80 FONE: 55 21.2391.0879.0881.RAMAL 210 SETOR FINAC
+
+     
+
+  
+  
+  
+
+ 
+
+ENDEREC B LI “TRIAGEM-RITELEFAX 55.21.2391.0879
+MUNLZIPID  & EOQ1 - UF: RJ CEP: 20960-015
+SREDOR : 4U423881/0001-78 ESSENCIAS NITEROI COMERCIO E DIST DE ESSENCI
+EIA DE OLINDA 137 CENTRO
+
+SBES — NITEROI UP: RJ CEP: 24030-170
+
+£ PENALIDADE
+
+E 4 DE I6ARBRZO DGP-FEX. AQS DE INSUMOS PARA A PRODUÇÃO DE ALCOOL EM
+OTEÇÃO DE INDIVIDUAL NO CONTEXTO DO COVID-19. RESP. CAP BNA PAULA.
+CONVALIDANDO O EMPENHO NR 2020NE800020, CONF MSG SIAFI NR. 2020/0240673 FONTE.
+
+      
+
+ 
+
+  
+  
+  
+
+  
+
+21 05301003220040001 171500 0270270013 339030 167505 D8SAFUSUGPD
+VBA L, MODAL .LICIT.: PREGAO
+110520
+
+ 
+
+  
+
+INCISO: PROCESSO: 64614001407201937
+RI /
+
+ 
+
+NUM. ORIG.:
+MOF OSIGINAL + 18.560,00
+ITO MIL, QUINHENTOS E SESSENTA REAIS*LLALLAALLLLKRAARIRLAIA RARA RARA RM
+
+ 
+
+PER E E ES ÃO
+
+PORRA DE SEM a e e e E E ÃO Ã
+
+PE e e ip ÃO E SS e a E
+
+ 
+
+TFICACAO DO MATERIAL OU SERVICO
+
+db: SS54030 SUBTTEM: 33 “MATERIAL P/ PRODUCAO INDUSTRIA
+5 1 QUANTIDADE: 2.000 VALOR UNITARIO: 9,28
+VALOR DO SEQ. : 18.560,00
+
+ 
+
+ 
+
+1, U0ODO LITRO
+
+AL L ETILICO, ASPECTO FÍSICO DE CEREAIS, HIDRATADO, LÍQUIDO LÍMPIDO, INCOLOR
+
++ TEOR ALCOGLICO MÍNIMO DE 956ºGL, FÓRMULA QUÍMICA C2H50H, PESO MOLECULAR 46,07
+GRAU DE PUREZA MINT MERO DE FERÊNCIA QUÍMICA CAS 64-
+
+ 
+
+  
+
+ 
+
+to DE 53º TINFM, NI
+
+  
+ 
+
+   
+
+ 
+
+BILL RIO ITEM DO PROCESSO: 00007 ITEM DE MATERIAL: 000376801
+
+ 
+
+TOTAL 7 18.560,00
+
+ 
+
+ 
+MINISTÉRIO DA DEFESA
+EXÉRCITO BRASILEIRO
+CML ARM
+LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO
+(Botica Real Militar/1808)
+
+TERMO DE ENCERRAMENTO DE PROCESSO
+
+Aos > /4 29 procedemos ao encerramento deste processo nº 64614.001407/2019-
+37 contendo E “3 folhas.
+
+lee coa!
+Khleber is Araújo —
+
+Chefe da Sale
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="pt-br" >
+<head>
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+p.Citacao {font-size:10pt;font-family:Times New Roman;word-wrap:normal;margin:4pt 0 4pt 160px;text-align:justify;} p.Cita��o_Fonte_11,5 {font-size:11,5pt;font-family:Times New Roman;word-wrap:normal;margin:4pt 0 4pt 160px;text-align:justify;} p.Fonte_tamanho_8 {font-size:8pt;font-family:Times New Roman;margin:0pt;} p.Item_Alinea_Letra {font-size:12pt;font-family:Times New Roman;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt 6pt 6pt 120px;counter-increment:letra_minuscula;} p.Item_Alinea_Letra:before {content:counter(letra_minuscula, lower-latin) ") ";display:inline-block;width:5mm;font-weight:normal;} p.Item_Inciso_Romano {font-size:12pt;font-family:Times New Roman;text-align:justify;word-wrap:normal;text-indent:0mm;margin:6pt 6pt 6pt 120px;counter-increment:romano_maiusculo;counter-reset:letra_minuscula;} p.Item_Inciso_Romano:before {content:counter(romano_maiusculo, upper-roman) " - ";display:inline-block;width:15mm;font-weight:normal;} p.Item_Nivel1 {text-transform:uppercase;font-weight:bold;background-color:#e6e6e6;font-size:12pt;font-family:Times New Roman;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;counter-increment:item-n1;counter-reset:item-n2 item-n3 item-n4 romano_maiusculo letra_minuscula;} p.Item_Nivel1:before {content:counter(item-n1) ".";display:inline-block;width:25mm;font-weight:normal;} p.Item_Nivel2 {font-size:12pt;font-family:Times New Roman;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:item-n2;counter-reset:item-n3 item-n4 romano_maiusculo letra_minuscula;} p.Item_Nivel2:before {content:counter(item-n1) "." counter(item-n2) ".";display:inline-block;width:25mm;font-weight:normal;} p.Item_Nivel3 {font-size:12pt;font-family:Times New Roman;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:item-n3;counter-reset:item-n4 romano_maiusculo letra_minuscula;} p.Item_Nivel3:before {content:counter(item-n1) "." counter(item-n2) "." counter(item-n3) ".";display:inline-block;width:25mm;font-weight:normal;} p.Item_Nivel4 {font-size:12pt;font-family:Times New Roman;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:item-n4;counter-reset:romano_maiusculo letra_minuscula;} p.Item_Nivel4:before {content:counter(item-n1) "." counter(item-n2) "." counter(item-n3) "."  counter(item-n4) ".";display:inline-block;width:25mm;font-weight:normal;} p.Paragrafo_Numerado_Nivel1 {font-size:12pt;font-family:Times New Roman;text-align:justify;word-wrap:normal;text-indent:0mm;margin:6pt;counter-increment:paragrafo-n1;} p.Paragrafo_Numerado_Nivel1:before {content:counter(paragrafo-n1) ".";display:inline-block;width:25mm;font-weight:normal;} p.Paragrafo_Numerado_Nivel2 {font-size:12pt;font-family:Times New Roman;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:paragrafo-n2;counter-reset:paragrafo-n3 romano_maiusculo letra_minuscula;} p.Paragrafo_Numerado_Nivel2:before {content:counter(paragrafo-n1) "." counter(paragrafo-n2) ".";display:inline-block;width:25mm;font-weight:normal;} p.Paragrafo_Numerado_Nivel3 {font-size:12pt;font-family:Times New Roman;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:paragrafo-n3;counter-reset:romano_maiusculo letra_minuscula;} p.Paragrafo_Numerado_Nivel3:before {content:counter(paragrafo-n1) "." counter(paragrafo-n2) "." counter(paragrafo-n3) ".";display:inline-block;width:25mm;font-weight:normal;} p.Paragrafo_Texto_Alinhado_Espacamento_Simples {font-size:12pt;font-family:Times New Roman;text-align:left;word-wrap:normal;margin:0;} p.Tabela_Texto_8 {font-size:8pt;font-family:Times New Roman;text-align:left;word-wrap:normal;margin:0 3pt 0 3pt;} p.Tabela_Texto_Alinhado_Direita {font-size:11pt;font-family:Times New Roman;text-align:right;word-wrap:normal;margin:0 3pt 0 3pt;} p.Tabela_Texto_Alinhado_Esquerda {font-size:11pt;font-family:Times New Roman;text-align:left;word-wrap:normal;margin:0 3pt 0 3pt;} p.Tabela_Texto_Centralizado {font-size:11pt;font-family:Times New Roman;text-align:center;word-wrap:normal;margin:0 3pt 0;} p.Tachado {font-size:11pt;font-family:Times New Roman;text-indent:1.18in;text-align:justify;word-wrap:normal;text-decoration:line-through;} p.Texto_alinhado_a_direita__fonte18 {font-size:18pt;font-family:Times New Roman;text-align:right;word-wrap:normal;margin:6pt;} p.Texto_Alinhado_Direita {font-size:12pt;font-family:Times New Roman;text-align:right;word-wrap:normal;margin:6pt;} p.texto_alinhado_direita_fonte_6_rodap� {font-size:6pt;font-family:Times New Roman;text-align:right;text-transform:uppercase;word-wrap:normal;margin-bottom:64px;} p.texto_alinhado_direta_fonte12 {font-size:12pt;font-family:Times New Roman;text-align:right;word-wrap:normal;} p.Texto_Alinhado_Esquerda {font-size:12pt;font-family:Times New Roman;text-align:left;word-wrap:normal;margin:6pt;} p.Texto_alinhado_esquerda_2 {font-size:12pt;font-family:Times New Roman;text-align:left;word-wrap:normal;margin:0;} p.Texto_Alinhado_Esquerda_Espa�amento_Simples {font-size:12pt;font-family:Times New Roman;text-align:left;word-wrap:normal;margin:0;} p.Texto_Alinhado_Esquerda_Espacamento_Simples_Maiusc {font-size:12pt;font-family:Times New Roman;text-align:left;text-transform:uppercase;word-wrap:normal;margin:0;} p.Texto_Alinhado_Esquerda_Mai�s_Negrito {text-transform:uppercase;font-weight:bold;font-size:12pt;font-family:Times New Roman;text-align:left;word-wrap:normal;margin:6pt;margin-bottom:16px;} p.Texto_Alinhado_Just__Rec_1_Linha {font-size:12pt;font-family:Times New Roman;text-indent:50px;text-align:justify;word-wrap:normal;margin:6pt;margin-bottom:16px;margin-right:1.3cm;margin-left:78px;} p.Texto_Centralizado {font-size:12pt;font-family:Times New Roman;text-align:center;word-wrap:normal;margin:6pt;} p.texto_centralizado_acima_de_cinco_linhas {font-size:9pt;font-family:Times New Roman;text-align:center;word-wrap:normal;margin:6pt;margin-bottom:32px;} p.Texto_Centralizado_Cabe�alho_10 {font-size:10pt;font-family:Times New Roman;text-align:center;} p.Texto_Centralizado_cabe�alho_Maiusculas {font-size:10pt;font-family:Times New Roman;text-align:center;text-transform:uppercase;word-wrap:normal;} p.Texto_centralizado_espacamento_simples {font-size:12pt;font-family:Times New Roman;text-align:center;text-transform:uppercase;word-wrap:normal;margin:0;} p.Texto_Centralizado_fonte12 {font-size:12pt;font-family:Times New Roman;text-align:center;word-wrap:normal;margin:6pt;margin-bottom:32px;} p.Texto_Centralizado_fonte14 {font-weight:font-size;font-family:Times New Roman;text-align:center;word-wrap:normal;margin-bottom:32px;} p.Texto_centralizado_fonte8 {font-size:8pt;font-family:Times New Roman;text-align:center;word-wrap:normal;margin:6pt;} p.Texto_Centralizado_Maiusculas {font-weight:font-size;font-family:Times New Roman;text-align:center;text-transform:uppercase;word-wrap:normal;margin-bottom:32px;} p.Texto_Centralizado_Maiusculas_fonte12 {font-size:12pt;font-family:Times New Roman;text-align:center;text-transform:uppercase;word-wrap:normal;} p.Texto_Centralizado_Maiusculas_Negrito {font-weight:bold;font-size:12t;font-family:Times New Roman;text-align:center;text-transform:uppercase;word-wrap:normal;margin-bottom:32px;} p.Texto_Centralizado_Maiusculas_Negrito_fonte14 {font-weight:bold;font-size:14t;font-family:Times New Roman;text-align:center;text-transform:uppercase;word-wrap:normal;margin-bottom:32px;} p.Texto_Centralizado_Recuo_Primeira_Linha {font-size:12pt;font-family:Times New Roman;text-indent:25mm;text-align:center;word-wrap:normal;margin:6pt;} p.Texto_Cita��o {font-size:11,5pt;font-family:Times New Roman;word-wrap:normal;margin:4pt 0 4pt 1.18in;text-align:justify;} p.Texto_Ementa {font-size:10pt;font-family:Times New Roman;text-align:justify;word-wrap:normal;margin:4pt 0 4pt 3.14in;} p.Texto_ementa12 {font-size:12pt;font-family:Times New Roman;text-align:justify;word-wrap:normal;margin:4pt 0 4pt 3.14in;} p.Texto_Espaco_Duplo_Recuo_Primeira_Linha {font-size:12pt;font-family:Times New Roman;text-indent:1in;text-align:justify;word-wrap:normal;margin:6pt;margin-bottom:48px;} p.Texto_Fundo_Cinza {background-color:#e6e6e6;font-size:12pt;font-family:Times New Roman;text-align:center;word-wrap:normal;} p.Texto_Fundo_cinza_Cntralizado {background-color:#e6e6e6;font-size:12pt;font-family:Times New Roman;text-align:center;word-wrap:normal;text-indent:0;margin:6pt;} p.Texto_fundo_cinza_maiusculas_centralizado {text-transform:uppercase;background-color:#e6e6e6;font-size:10pt;font-family:Times New Roman;text-align:center;word-wrap:normal;text-indent:0;margin:6pt;} p.Texto_Fundo_Cinza_Maiusculas_Negrito {text-transform:uppercase;font-weight:bold;background-color:#e6e6e6;font-size:12pt;font-family:Times New Roman;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;} p.Texto_Fundo_Cinza_Maiusculas_Negrito_centralizado {text-transform:uppercase;font-weight:bold;background-color:#e6e6e6;font-size:12pt;font-family:Times New Roman;text-align:center;word-wrap:normal;text-indent:0;margin:6pt;} p.Texto_Fundo_Cinza_Negrito {font-weight:bold;background-color:#e6e6e6;font-size:12pt;font-family:Times New Roman;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;} p.Texto_Justificado {font-size:12pt;font-family:Times New Roman;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;} p.Texto_Justificado_corpo {font-size:12pt;font-family:Times New Ronan;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;} p.Texto_Justificado_Maiusculas {font-size:12pt;font-family:Times New Roman;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;text-transform:uppercase;} p.Texto_Justificado_Recuo_Primeira_Linha {font-size:12pt;font-family:Times New Roman;text-indent:1in;text-align:justify;word-wrap:normal;margin:6pt;} p.Texto_Mono_Espa�ado {font-size:8pt;font-family:Courier New;text-align:left;white-space:pre;word-wrap:normal;margin:2pt;} 
+</style><title>SEI/MD - 3559002 - Of�cio</title>
+</head>
+<body>
+<p class="Texto_Centralizado_Cabe&ccedil;alho_10"><img alt="Timbre" src="data:image/png;base64,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" /><span>&#8203;</span><br />
+<span>MINIST&Eacute;RIO DA DEFESA</span><br />
+<span>GABINETE DO MINISTRO</span><br />
+<span>Esplanada dos Minist&eacute;rios - Bloco &ldquo;Q&rdquo; - 6</span><u><sup>o</sup></u><span>&nbsp;andar</span><br />
+<span>70049-900 - Bras&iacute;lia-DF</span><br />
+<span>Tel.: (61) 3312-8709 &ndash;&nbsp;</span><em>ministro@defesa.gov.br</em></p>
+
+<p class="Texto_Centralizado_Cabe&ccedil;alho_10">&nbsp;</p>
+<p>&nbsp; OF&Iacute;CIO N&deg; 12393/GM-MD</p>
+<p class="Texto_Alinhado_Direita">Bras&iacute;lia, 12 de maio de 2021.</p>
+
+<p class="Texto_Alinhado_Direita">&nbsp;</p>
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples">A Sua Excel&ecirc;ncia o&nbsp;Senhor<br />
+Senador OMAR AZIZ<br />
+Presidente da CPI da Pandemia<br />
+Senado Federal<br />
+70165-900 Bras&iacute;lia/DF</p>
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples">&nbsp;</p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples"><strong>Assunto:</strong> <b><strong>R</strong>equerimento n&ordm; 35/2021/CPIPANDEMIA</b></p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples">&nbsp;</p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples"><b>Anexos:&nbsp;</b>Nota Informativa n&ordm;&nbsp;5/2020-DAF/SCTIE/MS;</p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Of&iacute;cio N&ordm; 150/2020/CGAFME/DAF/SCTIE/MS;</p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Of&iacute;cio N&ordm; 167/2020/CGAFME/DAF/SCTIE/MS;</p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Of&iacute;cio N&ordm; 254/2020/CGAFME/DAF/SCTIE/MS;</p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples"><a id="anchor4143734" target="_blank">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Preg&atilde;o 09-2019 LQFEx;</a></p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples"><a target="_blank">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a><a id="anchor4143722" target="_blank">Dispensa 23 24 e 25-2020 LQFEx;</a></p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples"><a target="_blank">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>&nbsp; &nbsp;<a id="anchor4143724" target="_blank">Dispensa 46-2020 LQFEx;</a></p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a id="anchor4143728" target="_blank">Dispensa 57-2020 LQFEx.</a></p>
+
+<p class="Texto_Alinhado_Esquerda_Espa&ccedil;amento_Simples">&nbsp;</p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha">Senhor&nbsp;Presidente,</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">&nbsp;</p>
+
+<p class="Paragrafo_Numerado_Nivel1">Ao cumprimentar cordialmente Vossa Excel&ecirc;ncia, refiro-me ao Of&iacute;cio 51/2021 - CPIPANDEMIA, de 30 de abril de 2021, e passo a tratar sobre o Requerimento n&ordm; 35-2021/CPIPANDEMIA,&nbsp;que solicita informa&ccedil;&otilde;es ao Senhor Ministro de Estado da Defesa&nbsp;como segue:</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">a. <em>Que o Minist&eacute;rio da Defesa preste informa&ccedil;&otilde;es sobre a responsabilidade pela solicita&ccedil;&atilde;o de produ&ccedil;&atilde;o de cloroquina e hidroxicloroquina ao Minist&eacute;rio da Defesa.</em></p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">Resposta:&nbsp;</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">1) atendendo &agrave; orienta&ccedil;&atilde;o e &agrave; demanda do Minist&eacute;rio da Sa&uacute;de para a produ&ccedil;&atilde;o de cloroquina no &acirc;mbito da Defesa, o Laborat&oacute;rio Qu&iacute;mico Farmac&ecirc;utico do Ex&eacute;rcito (LQFEx) ficou encarregado da fabrica&ccedil;&atilde;o e entrega ao demandante, por possuir o registro v&aacute;lido na ANVISA do sobredito medicamento;</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">2) o&nbsp;LQFEx n&atilde;o realiza, por n&atilde;o ser sua miss&atilde;o, qualquer ju&iacute;zo de valor de efic&aacute;cia de medicamentos, t&atilde;o pouco da prescri&ccedil;&atilde;o m&eacute;dica. Os demais Laborat&oacute;rios, da Marinha e da Aeron&aacute;utica, n&atilde;o realizam produ&ccedil;&atilde;o de cloroquina;</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">3) o&nbsp;Laborat&oacute;rio do Ex&eacute;rcito atende demandas oriundas do Minist&eacute;rio da Sa&uacute;de em prol da sociedade, como, por exemplo, no apoio ao Programa de Tratamento de Doen&ccedil;as Negligenciadas do Minist&eacute;rio da Sa&uacute;de, mantendo uma linha industrial exclusiva e certificada pela ANVISA para a produ&ccedil;&atilde;o da <b>rifampicina 300 mg</b>, ministrada a pacientes acometidos de <b>tuberculose, meningite, hansen&iacute;ase e brucelose;</b></p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">4) al&eacute;m disso, o LQFEx produz ainda, atrav&eacute;s de Parceria para o Desenvolvimento Produtivo (PDP), o medicamento <b>micofenolato de s&oacute;dio</b>, essencial e estrat&eacute;gico para o Minist&eacute;rio da Sa&uacute;de, permitindo o atendimento de imunossupressores para pacientes transplantados, estabelecido no Protocolo Cl&iacute;nico e Diretrizes Terap&ecirc;uticas (PCDT) para imunossupress&atilde;o de <b>transplante de f&iacute;gado, transplante renal e transplante de cora&ccedil;&atilde;o, </b>entre outras patologias que requeiram transplante de &oacute;rg&atilde;os;</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">5) nesse sentido, em apoio ao Minist&eacute;rio da Sa&uacute;de, houve o atendimento da demanda existente, &agrave; &eacute;poca do in&iacute;cio da pandemia, para produ&ccedil;&atilde;o do medicamento cloroquina, e o LQFEx iniciou a retomada da produ&ccedil;&atilde;o;</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">6) assim, no dia 27 de mar&ccedil;o de 2020, o Minist&eacute;rio da Sa&uacute;de publicou a <b>Nota Informativa n&ordm;<sup>&nbsp;</sup>5/2020-DAF/SCTIE/MS</b>, do Departamento de Assist&ecirc;ncia Farmac&ecirc;utica e Insumos Estrat&eacute;gicos (DAF), pertencente &agrave; Secretaria de Ci&ecirc;ncia, Tecnologia, Inova&ccedil;&atilde;o e Insumos Estrat&eacute;gicos em Sa&uacute;de (SCTIE) do Minist&eacute;rio da Sa&uacute;de (MS), <b>orientando o uso da cloroquina</b> como terapia adjuvante no tratamento de <b>formas graves da COVID-19</b>; e</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">7) a&nbsp;entrega da produ&ccedil;&atilde;o, demandada pelo Minist&eacute;rio da Sa&uacute;de, foi atendida por interm&eacute;dio das pautas encaminhadas pelos Of&iacute;cios n&uacute;meros 150, 167 e 254/2020/CGAFME/DAF/SCTIE/MS, anexos.</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">b.&nbsp;<i>Que o Comando do Ex&eacute;rcito encaminhe todos os documentos, incluindo contratos e termos de coopera&ccedil;&atilde;o, relativos &agrave; produ&ccedil;&atilde;o e distribui&ccedil;&atilde;o relacionados aos medicamentos utilizados para covid-19.</i></p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">Resposta: conforme documenta&ccedil;&atilde;o anexa.</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha"><i>c.&nbsp;Que o Laborat&oacute;rio Farmac&ecirc;utico do Ex&eacute;rcito encaminhe todos os documentos, incluindo contratos e termos de coopera&ccedil;&atilde;o, relativos &agrave; produ&ccedil;&atilde;o e distribui&ccedil;&atilde;o relacionados aos medicamentos utilizados para covid-19</i></p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">Resposta: conforme documenta&ccedil;&atilde;o anexa.</p>
+
+<p class="Paragrafo_Numerado_Nivel1">Por fim, este Minist&eacute;rio esclarece que estas foram as informa&ccedil;&otilde;es poss&iacute;veis de serem levantadas neste momento e no prazo concedido, raz&atilde;o pela qual se coloca &agrave; disposi&ccedil;&atilde;o para outros esclarecimentos e complementa&ccedil;&atilde;o das informa&ccedil;&otilde;es que essa Comiss&atilde;o entender necess&aacute;rias.</p>
+
+<div style="counter-reset: paragrafo-n1;"></div>
+<p class="Texto_Justificado_Recuo_Primeira_Linha">&nbsp;</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha"><span>Atenciosamente,</span></p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha"><br />
+&nbsp;</p>
+<p class="Texto_Centralizado">WALTER SOUZA BRAGA NETTO<br />
+Ministro de Estado da Defesa</p>
+<hr style="margin: 0 0 4px 0;" />  <table>    <tr>      <td>  <img alt="logotipo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAA8CAMAAAA67OZ0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAADTtpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+Cjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDQuMi4yLWMwNjMgNTMuMzUyNjI0LCAyMDA4LzA3LzMwLTE4OjEyOjE4ICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICAgeG1sbnM6eG1wUmlnaHRzPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvcmlnaHRzLyIKICAgIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIKICAgIHhtbG5zOklwdGM0eG1wQ29yZT0iaHR0cDovL2lwdGMub3JnL3N0ZC9JcHRjNHhtcENvcmUvMS4wL3htbG5zLyIKICAgeG1wUmlnaHRzOldlYlN0YXRlbWVudD0iIgogICBwaG90b3Nob3A6QXV0aG9yc1Bvc2l0aW9uPSIiPgogICA8ZGM6cmlnaHRzPgogICAgPHJkZjpBbHQ+CiAgICAgPHJkZjpsaSB4bWw6bGFuZz0ieC1kZWZhdWx0Ii8+CiAgICA8L3JkZjpBbHQ+CiAgIDwvZGM6cmlnaHRzPgogICA8ZGM6Y3JlYXRvcj4KICAgIDxyZGY6U2VxPgogICAgIDxyZGY6bGk+QWxiZXJ0byBCaWdhdHRpPC9yZGY6bGk+CiAgICA8L3JkZjpTZXE+CiAgIDwvZGM6Y3JlYXRvcj4KICAgPGRjOnRpdGxlPgogICAgPHJkZjpBbHQ+CiAgICAgPHJkZjpsaSB4bWw6bGFuZz0ieC1kZWZhdWx0Ii8+CiAgICA8L3JkZjpBbHQ+CiAgIDwvZGM6dGl0bGU+CiAgIDx4bXBSaWdodHM6VXNhZ2VUZXJtcz4KICAgIDxyZGY6QWx0PgogICAgIDxyZGY6bGkgeG1sOmxhbmc9IngtZGVmYXVsdCIvPgogICAgPC9yZGY6QWx0PgogICA8L3htcFJpZ2h0czpVc2FnZVRlcm1zPgogICA8SXB0YzR4bXBDb3JlOkNyZWF0b3JDb250YWN0SW5mbwogICAgSXB0YzR4bXBDb3JlOkNpQWRyRXh0YWRyPSIiCiAgICBJcHRjNHhtcENvcmU6Q2lBZHJDaXR5PSIiCiAgICBJcHRjNHhtcENvcmU6Q2lBZHJSZWdpb249IiIKICAgIElwdGM0eG1wQ29yZTpDaUFkclBjb2RlPSIiCiAgICBJcHRjNHhtcENvcmU6Q2lBZHJDdHJ5PSIiCiAgICBJcHRjNHhtcENvcmU6Q2lUZWxXb3JrPSIiCiAgICBJcHRjNHhtcENvcmU6Q2lFbWFpbFdvcms9IiIKICAgIElwdGM0eG1wQ29yZTpDaVVybFdvcms9IiIvPgogIDwvcmRmOkRlc2NyaXB0aW9uPgogPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hwYWNrZXQgZW5kPSJ3Ij8+RO84nQAAAwBQTFRFamts+fn5mp6hc3Nz9fX1U1NTS0tKnaGk6unqzM3P7e3u8fHxuLm7/Pz8lZmc2dnZxcXGWlpavr29wsLCp6eniYmKhYaGZWZmkpaZ0dHS5eXlkZGSrq2utbW2XV1d4uHhfX1+sbGy1dXW3d3dqampgYGCjY2OyMnKYWJi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" />      </td>      <td>  <p style="margin:0;text-align: left; font-size:11pt;font-family: Times New Roman;">  Documento assinado eletronicamente por <b>Walter Souza Braga Netto</b>, <b>Ministro(a) de Estado da Defesa</b>, em 14/05/2021, &agrave;s 16:41, conforme hor&aacute;rio oficial de Bras&iacute;lia, com fundamento no &sect; 1&ordm;, art. 6&ordm;, do Decreto n&ordm; 8.539 de 08/10/2015 da Presid&ecirc;ncia da Rep&uacute;blica.</p>      </td>    </tr>  </table><hr style="margin: 0 0 4px 0;" />  <table>    <tr>      <td>       <img align="center" alt="QRCode Assinatura" title="QRCode Assinatura" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAABWAQMAAABvmPO0AAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABSklEQVQ4jXXTPYpEMQgAYMFW8CqCbcCrB9IGvIpgG8g6OywzDjtJ870i8e8F4MuyS85n27rRLDgkEI6CNGuS2KlP+/SYGvyPaW/zkR8WlNz+d//LdvW5fvN5GYAQKPOZ9cuWYb7Gpj2beTNZTLsnmpWztlbW0IzA5A7gR5qH3jXH3cCz2YjEceutWprdkNKOMTTTVkFeEmM266pgaWMgNIPMCjWr9GjGBDkD0yY016kFY4kMaRbNCLoDvNvEGTnvvd14a8c4dXezyl5IKk6zmZLuZiNY0R1jW054jO7dksrBw8G78TAtCzhTmskrPPIW7pbt8vhlombavJyW8pHq4bsVriYjnupJs7Lt9Hszmh+nx6lBabdV+xJspkJzDRS14oTMZk0NXXzs0cNmQ6UzJsWHRy7j4wOa6w1WKRN1z+Z6I9fU93Jo/rJ+AGSOg0aQDAIfAAAAAElFTkSuQmCC" />      </td>      <td>       <p style="margin:0;text-align: left; font-size:11pt;font-family: Times New Roman;">A autenticidade do documento pode ser conferida no site https://sei.defesa.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0,  o c&oacute;digo verificador <b>3559002</b> e o c&oacute;digo CRC <b>0AEDEEC6</b>.</p>      </td>    </tr>  </table>  <hr style="margin:1px;" />  <br /><p>&nbsp;</p>
+
+<p class="texto_alinhado_direita_fonte_6_rodap&eacute;">Gabinete do Ministro/GM<br />
+NUP n&ordm;60000.002416/2021-27</p>
+
+<p>&nbsp;</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>SEI/MD - 3569080 - E-mail</title>
+<style type="text/css" >
+*{ 
+ font-style:normal;
+ font-weight:normal;
+ color:black;
+}
+
+body{
+ font-size:10pt;
+ font-family:Arial,Verdana,Helvetica,Sans-serif;
+ text-align:left;
+ overflow-y:scroll;
+}
+
+#titulo {
+ padding: 2px 0;
+ text-align:center;
+ vertical-align:middle;
+ width:100%;
+ background-color:#dfdfdf;
+ border-bottom: 4px solid white;
+ overflow:hidden;
+}
+
+#titulo label {
+ font-size:11pt;
+ font-weight:bold;
+ color:#666;
+ background-color:#dfdfdf;
+}
+
+div b {font-weight:bold;}
+div i {font-style:italic;}
+</style>
+</head>
+<body>
+<div id="titulo">
+<label>E-mail - 3569080</label>
+</div>
+<div id="conteudo">
+<br />
+<b>Data de Envio</b>: <br />
+&nbsp;&nbsp;14/05/2021 17:19:13<br />
+<br />
+<b>De</b>: <br />
+&nbsp;&nbsp;MD/protocolo@defesa.gov.br &lt;protocolo@defesa.gov.br&gt;<br />
+<br />
+<b>Para</b>:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;sec.cpipandemia@senado.leg.br<br />
+<br />
+<b>Assunto</b>: <br />
+&nbsp;&nbsp;Requerimento n� 35/2021/CPIPANDEMIA<br />
+<br />
+<b>Mensagem</b>: <br />
+&nbsp;&nbsp;Encaminho   OF�CIO N�12393/GM-MD, de 12 de maio de 2021. Solicito acusar recebimento.<br />
+Nota Informativa n� 5/2020-DAF/SCTIE/MS;<br />
+               Of�cio N� 150/2020/CGAFME/DAF/SCTIE/MS;<br />
+               Of�cio N� 167/2020/CGAFME/DAF/SCTIE/MS;<br />
+               Of�cio N� 254/2020/CGAFME/DAF/SCTIE/MS;<br />
+               Dispensa 23 24 e 25-2020 LQFEx;<br />
+               Dispensa 46-2020 LQFEx;<br />
+               Dispensa 57-2020 LQFEx.<br />
+<br />
+<br />
+Atenciosamente,<br />
+<br />
+Nilsa Paulo de Azevedo<br />
+Chefe da Divis�o dos Servi�os de Protocolo e Arquivo<br />
+Minist�rio da Defesa<br />
+(61) 3312-8754/4217<br />
+<br />
+<br />
+<b>Anexos</b>:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Oficio_3559002.html<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Nota_de_Informacao_3559158_Nota_Informativa_05_2020_DAF_SCTIE_Cloroquina.pdf.pdf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Oficio_3559168_Oficio_N__1502020CGAFMEDAFSCTIEMS.pdf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Oficio_3559176_Oficio_N__1672020CGAFMEDAFSCTIEMS.pdf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Oficio_3559180_Oficio_N__2542020CGAFMEDAFSCTIEMS.pdf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Anexo_3559436_Dispensa_23_24_e_25_2020_LQFEx.pdf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Anexo_3559438_DISPENSA_46_2020_LQFEx.pdf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Anexo_3559440_dispensa_57_2020_LQFEx.pdf<br />
+</div>
+<br />
+</body>
+</html>

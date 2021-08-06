@@ -1,0 +1,5 @@
+cpi4all_arquivo_nao_suportado: /tmp/tmp51gi48aq/cpi4all_7_Thumbs.db
+cpi4all_arquivo_nao_suportado: /tmp/tmp51gi48aq/cpi4all_13_Thumbs.db
+cpi4all_arquivo_nao_suportado: /tmp/tmp51gi48aq/cpi4all_15_Thumbs.db
+cpi4all_arquivo_nao_suportado: /tmp/tmp51gi48aq/cpi4all_19_Thumbs.db
+cpi4all_arquivo_nao_suportado: /tmp/tmp51gi48aq/cpi4all_21_Thumbs.db

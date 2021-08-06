@@ -1,0 +1,841 @@
+Ano,"Marcador COVID",Órgão,"Unidade Orçamentária",Programa,Ação,Localizador,"Dotação Inicial","Dotação Atual",Empenhado,Liquidado,Pago,Bloqueado
+2021,Total,,,,,,621144485,86536215904,64982718509.89,17077169467,16986057961.34,674138272
+2021,"Enfrentamento à COVID-19","20000 - Presidência da República","20101 - Presidência da República","0032 - Programa de Gestão e Manutenção do Poder Executivo","2000 - Administração da Unidade","0001 - Nacional",0,20000,1694.9,1694.9,1694.9,0
+2021,"Enfrentamento à COVID-19","24000 - Ministério da Ciência, Tecnologia e Inovações","24101 - Ministério da Ciência, Tecnologia e Inovações - Administração Direta","0032 - Programa de Gestão e Manutenção do Poder Executivo","2000 - Administração da Unidade","0001 - Nacional",0,267300,267300,0,0,0
+2021,"Enfrentamento à COVID-19","25000 - Ministério da Economia","25101 - Ministério da Economia - Administração Direta","0032 - Programa de Gestão e Manutenção do Poder Executivo","2000 - Administração da Unidade","0001 - Nacional",0,355000,5327,900,900,0
+2021,"Enfrentamento à COVID-19","25000 - Ministério da Economia","25101 - Ministério da Economia - Administração Direta","2209 - Brasil, Nosso Propósito","20U4 - Governança do Patrimônio Imobiliário da União","0001 - Nacional",0,80000,8390.869999999999,2379,2379,0
+2021,"Enfrentamento à COVID-19","25000 - Ministério da Economia","25101 - Ministério da Economia - Administração Direta","2213 - Modernização Trabalhista e Trabalho Digno","20YU - Fiscalização de Obrigações Trabalhistas e Inspeção em Segurança e Saúde no Trabalho","0001 - Nacional",0,300000,14329.22,5865,5865,0
+2021,"Enfrentamento à COVID-19","25000 - Ministério da Economia","25201 - Banco Central do Brasil","0032 - Programa de Gestão e Manutenção do Poder Executivo","2000 - Administração da Unidade","0001 - Nacional",0,60000,4343.96,3343.96,3343.96,0
+2021,"Enfrentamento à COVID-19","25000 - Ministério da Economia","25915 - Fundo de Amparo ao Trabalhador","0032 - Programa de Gestão e Manutenção do Poder Executivo","4815 - Funcionamento das Unidades Descentralizadas","0001 - Nacional",0,161626,84957.98,35589.25,35589.25,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26101 - Ministério da Educação - Administração Direta","0032 - Programa de Gestão e Manutenção do Poder Executivo","2000 - Administração da Unidade","0053 - No Distrito Federal",0,11926,11925.5,0,0,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26243 - Universidade Federal do Rio Grande do Norte","5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão","20RK - Funcionamento de Instituições Federais de Ensino Superior","0024 - No Estado do Rio Grande do Norte",0,600000,0,0,0,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26244 - Universidade Federal do Rio Grande do Sul","5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão","4002 - Assistência ao Estudante de Ensino Superior","0043 - No Estado do Rio Grande do Sul",0,3100000,3100000,2366582.06,2366582.06,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26247 - Universidade Federal de Santa Maria","5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão","20RK - Funcionamento de Instituições Federais de Ensino Superior","0043 - No Estado do Rio Grande do Sul",0,8250,8250,0,0,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26254 - Universidade Federal do Triângulo Mineiro","5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão","20RK - Funcionamento de Instituições Federais de Ensino Superior","0031 - No Estado de Minas Gerais",0,17465,8578.12,0,0,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26263 - Universidade Federal de Lavras","5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão","20RK - Funcionamento de Instituições Federais de Ensino Superior","0031 - No Estado de Minas Gerais",0,80597,2430.4,0,0,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26269 - Fundação Universidade do Rio de Janeiro","5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão","20RK - Funcionamento de Instituições Federais de Ensino Superior","0033 - No Estado do Rio de Janeiro",0,5880,0,0,0,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26271 - Fundação Universidade de Brasília","5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão","20RK - Funcionamento de Instituições Federais de Ensino Superior","0053 - No Distrito Federal",0,700000,38341.16,1600,1600,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26271 - Fundação Universidade de Brasília","5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão","4002 - Assistência ao Estudante de Ensino Superior","0053 - No Distrito Federal",0,5150000,5150000,3904159.39,3902299.39,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26294 - Hospital de Clínicas de Porto Alegre","0032 - Programa de Gestão e Manutenção do Poder Executivo","20TP - Ativos Civis da União","0043 - No Estado do Rio Grande do Sul",0,23961912,22168627.96,22157294.17,22157294.17,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26294 - Hospital de Clínicas de Porto Alegre","0032 - Programa de Gestão e Manutenção do Poder Executivo","212B - Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes","0043 - No Estado do Rio Grande do Sul",0,1406811,1081850.73,803453.63,803453.63,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26294 - Hospital de Clínicas de Porto Alegre","0032 - Programa de Gestão e Manutenção do Poder Executivo","2004 - Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes","0043 - No Estado do Rio Grande do Sul",0,345117,97533.37,97533.37,97533.37,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26405 - Instituto Federal do Ceará","5012 - Educação Profissional e Tecnológica","2994 - Assistência aos Estudantes das Instituições Federais de Educação Profissional e Tecnológica","0023 - No Estado do Ceará",0,1928480,952780.49,321706.22,188255,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26414 - Instituto Federal do Mato Grosso","5012 - Educação Profissional e Tecnológica","20RL - Funcionamento das Instituições da Rede Federal de Educação Profissional, Científica e Tecnológica","0051 - No Estado de Mato Grosso",0,44005,16782.5,7571.77,7571.77,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26414 - Instituto Federal do Mato Grosso","5012 - Educação Profissional e Tecnológica","2994 - Assistência aos Estudantes das Instituições Federais de Educação Profissional e Tecnológica","0051 - No Estado de Mato Grosso",0,1192549,697984,490945,181200,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26421 - Instituto Federal de Rondônia","5012 - Educação Profissional e Tecnológica","2994 - Assistência aos Estudantes das Instituições Federais de Educação Profissional e Tecnológica","0011 - No Estado de Rondônia",0,1998330,1135234,585607.04,399975,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26427 - Instituto Federal da Bahia","5012 - Educação Profissional e Tecnológica","2994 - Assistência aos Estudantes das Instituições Federais de Educação Profissional e Tecnológica","0029 - No Estado da Bahia",0,2923125,2529735,1769080,1226040,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26429 - Instituto Federal de Goiás","5012 - Educação Profissional e Tecnológica","2994 - Assistência aos Estudantes das Instituições Federais de Educação Profissional e Tecnológica","0052 - No Estado de Goiás",0,421333,417319,332680,330380,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26443 - Empresa Brasileira de Serviços Hospitalares","0032 - Programa de Gestão e Manutenção do Poder Executivo","20TP - Ativos Civis da União","0001 - Nacional",0,192413861,192182217.81,137416589.23,136661379.44,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26443 - Empresa Brasileira de Serviços Hospitalares","0032 - Programa de Gestão e Manutenção do Poder Executivo","212B - Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes","0001 - Nacional",0,26518588,26518588,10271223.9,10265712.3,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26443 - Empresa Brasileira de Serviços Hospitalares","0032 - Programa de Gestão e Manutenção do Poder Executivo","2004 - Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes","0001 - Nacional",0,416153,416153,238865.61,238865.61,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26443 - Empresa Brasileira de Serviços Hospitalares","5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão","4086 - Funcionamento e Gestão de Instituições Hospitalares Federais","0001 - Nacional",0,50000000,18874545.86,11308928.14,7000495.45,0
+2021,"Enfrentamento à COVID-19","26000 - Ministério da Educação","26448 - Universidade Federal do Sul e Sudeste do Pará","5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão","20RK - Funcionamento de Instituições Federais de Ensino Superior","0015 - No Estado do Pará",0,9959,9958.4,0,0,0
+2021,"Enfrentamento à COVID-19","30000 - Ministério da Justiça e Segurança Pública","30101 - Ministério da Justiça e Segurança Pública - Administração Direta","0032 - Programa de Gestão e Manutenção do Poder Executivo","2000 - Administração da Unidade","0001 - Nacional",0,330480,0,0,0,0
+2021,"Enfrentamento à COVID-19","30000 - Ministério da Justiça e Segurança Pública","30107 - Departamento de Polícia Rodoviária Federal","0032 - Programa de Gestão e Manutenção do Poder Executivo","2000 - Administração da Unidade","0001 - Nacional",0,500000,245292.49,97246.48999999999,95950,0
+2021,"Enfrentamento à COVID-19","30000 - Ministério da Justiça e Segurança Pública","30108 - Departamento de Polícia Federal","0032 - Programa de Gestão e Manutenção do Poder Executivo","2000 - Administração da Unidade","0001 - Nacional",0,1050000,28807.3,28807.3,28807.3,0
+2021,"Enfrentamento à COVID-19","30000 - Ministério da Justiça e Segurança Pública","30108 - Departamento de Polícia Federal","5016 - Segurança Pública, Combate à Corrupção, ao Crime Organizado e ao Crime Violento","2726 - Prevenção e Repressão ao Tráfico Ilícito de Drogas e a Crimes Praticados contra Bens, Serviços e Interesses da União","0001 - Nacional",0,1000000,0,0,0,0
+2021,"Enfrentamento à COVID-19","30000 - Ministério da Justiça e Segurança Pública","30202 - Fundação Nacional do Índio - FUNAI","0617 - Proteção e Promoção dos Direitos dos Povos Indígenas","21BO - Proteção e Promoção dos Direitos dos Povos Indígenas","0001 - Nacional",0,1991378,1739431.22,351321.58,320866.51,0
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36201 - Fundação Oswaldo Cruz","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0001 - Nacional",300000,300000,0,0,0,300000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36201 - Fundação Oswaldo Cruz","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0013 - No Estado do Amazonas",500000,500000,0,0,0,500000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36201 - Fundação Oswaldo Cruz","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0033 - No Estado do Rio de Janeiro",500986,500986,0,0,0,500986
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36212 - Agência Nacional de Vigilância Sanitária - ANVISA","5023 - Vigilância em Saúde","8719 - Vigilância Sanitária de Produtos, Serviços e Ambientes","0001 - Nacional",0,500000,45194.17,45194.17,45194.17,0
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0001 - Nacional",5179933,5179933,0,0,0,5179933
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0011 - No Estado de Rondônia",20500226,20500226,0,0,0,20500226
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0012 - No Estado do Acre",20511491,20511491,0,0,0,20511491
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0013 - No Estado do Amazonas",161328442,161328442,0,0,0,161328442
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0014 - No Estado de Roraima",13559980,13559980,0,0,0,13559980
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0015 - No Estado do Pará",17661922,17661922,0,0,0,17661922
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0016 - No Estado do Amapá",92612291,92612291,0,0,0,92612291
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0017 - No Estado do Tocantins",35838725,35838725,0,0,0,35838725
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0023 - No Estado do Ceará",4560013,4560013,0,0,0,4560013
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0024 - No Estado do Rio Grande do Norte",25978588,25978588,0,0,0,25978588
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0026 - No Estado de Pernambuco",959986,959986,0,0,0,959986
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0027 - No Estado de Alagoas",44456716,44456716,0,0,0,44456716
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0029 - No Estado da Bahia",72120407,72120407,0,0,0,72120407
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0031 - No Estado de Minas Gerais",13050000,13050000,0,0,0,13050000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0033 - No Estado do Rio de Janeiro",6241972,6241972,0,0,0,6241972
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0035 - No Estado de São Paulo",18810521,18810521,0,0,0,18810521
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0041 - No Estado do Paraná",1779986,1779986,0,0,0,1779986
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0043 - No Estado do Rio Grande do Sul",13307202,13307202,0,0,0,13307202
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0052 - No Estado de Goiás",30371133,30371133,0,0,0,30371133
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0053 - No Distrito Federal",1000000,1000000,0,0,0,1000000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0116 - No Município de Porto Velho - RO",1000000,1000000,0,0,0,1000000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0269 - No Município de Belém - PA",1000986,1000986,0,0,0,1000986
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0363 - No Município de Santarém - PA",150000,150000,0,0,0,150000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0394 - No Município de Serra do Navio - AP",982993,982993,0,0,0,982993
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0395 - No Município de Amapá - AP",240000,240000,0,0,0,240000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0396 - No Município de Pedra Branca do Amapari - AP",300000,300000,0,0,0,300000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0400 - No Município de Itaubal - AP",200000,200000,0,0,0,200000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0401 - No Município de Laranjal do Jari - AP",300000,300000,0,0,0,300000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0402 - No Município de Macapá - AP",1300000,1300000,0,0,0,1300000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0403 - No Município de Mazagão - AP",300000,300000,0,0,0,300000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0406 - No Município de Pracuúba - AP",200000,200000,0,0,0,200000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0409 - No Município de Vitória do Jari - AP",300000,300000,0,0,0,300000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","0991 - No Município de Acarape - CE",800000,800000,0,0,0,800000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","1059 - No Município de Hidrolândia - CE",700000,700000,0,0,0,700000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","1082 - No Município de Jaguaribara - CE",800000,800000,0,0,0,800000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","1149 - No Município de Santa Quitéria - CE",400000,400000,0,0,0,400000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","1172 - No Município de Várzea Alegre - CE",700000,700000,0,0,0,700000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","3302 - No Município de Itaboraí - RJ",5000000,5000000,0,0,0,5000000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","3316 - No Município de Mesquita - RJ",2000000,2000000,0,0,0,2000000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","3339 - No Município de Rio das Flores - RJ",750000,750000,0,0,0,750000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","3652 - No Município de Jaú - SP",300000,300000,0,0,0,300000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","3688 - No Município de Marabá Paulista - SP",100000,100000,0,0,0,100000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","3928 - No Município de São Paulo - SP",439986,439986,0,0,0,439986
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","4104 - No Município de Curitiba - PR",1000000,1000000,0,0,0,1000000
+2021,"Enfrentamento à COVID-19","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","2F01 - Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus","5224 - No Município de Corumbá - MS",450000,450000,0,0,0,450000
+2021,"Enfrentamento à COVID-19","37000 - Controladoria-Geral da União","37101 - Controladoria-Geral da União - Administração Direta","4004 - Transparência, Integridade e Combate à Corrupção","2D58 - Auditoria Interna, Prevenção e Combate à Corrupção, Ouvidoria e Correição","0001 - Nacional",0,10000,1743.96,1743.96,1743.96,0
+2021,"Enfrentamento à COVID-19","39000 - Ministério da Infraestrutura","39250 - Agência Nacional de Transportes Terrestres - ANTT","0032 - Programa de Gestão e Manutenção do Poder Executivo","2000 - Administração da Unidade","0001 - Nacional",0,50000,3550,2300,2300,0
+2021,"Enfrentamento à COVID-19","52000 - Ministério da Defesa","52131 - Comando da Marinha","0032 - Programa de Gestão e Manutenção do Poder Executivo","2004 - Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes","0001 - Nacional",0,3644552,3018437.51,2525322.28,403299.88,0
+2021,"Enfrentamento à COVID-19","52000 - Ministério da Defesa","52902 - Fundo de Administração do Hospital das Forças Armadas","0032 - Programa de Gestão e Manutenção do Poder Executivo","20XT - Prestação de Serviços Médico-Hospitalares e de Ensino e Pesquisa do Hospital das Forças Armadas","0001 - Nacional",0,3700420,3473167.76,3399357.76,3259505.45,0
+2021,"Enfrentamento à COVID-19","52000 - Ministério da Defesa","52921 - Fundo do Exército","0032 - Programa de Gestão e Manutenção do Poder Executivo","2004 - Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes","0001 - Nacional",0,30300000,5287446.49,1862776.96,1618678.99,0
+2021,"Enfrentamento à COVID-19","52000 - Ministério da Defesa","52931 - Fundo Naval","0032 - Programa de Gestão e Manutenção do Poder Executivo","2004 - Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes","0001 - Nacional",0,22949492,11975019.38,3641681.71,1171800.08,0
+2021,"Enfrentamento à COVID-19","54000 - Ministério do Turismo","54902 - Fundo Nacional de Cultura","5025 - Cultura","20ZF - Promoção e Fomento à Cultura Brasileira","7039 - Projeto de Captação, Divulgação e Preservação de Memórias Relacionadas à Pandemia de Covid-19 - Nacional",300000,300000,0,0,0,300000
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","25000 - Ministério da Economia","25101 - Ministério da Economia - Administração Direta","2213 - Modernização Trabalhista e Trabalho Digno","21C2 - Benefício Emergencial de Manutenção do Emprego e da Renda - COVID-19","6500 - Nacional (Crédito Extraordinário – Covid-19)",0,9977701233,0,0,0,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","25000 - Ministério da Economia","25103 - Secretaria Especial da Receita Federal do Brasil","0032 - Programa de Gestão e Manutenção do Poder Executivo","21C0 - Enfrentamento da Emergência de Saúde Pública de Importância Internacional Decorrente do Coronavirus","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,9992872,510047.56,326830.99,260005.14,9482332
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","25000 - Ministério da Economia","25303 - Instituto Nacional do Seguro Social","0032 - Programa de Gestão e Manutenção do Poder Executivo","21C0 - Enfrentamento da Emergência de Saúde Pública de Importância Internacional Decorrente do Coronavirus","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,68897392,25295269.67,5971338.149999999,5853873.91,43432249
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36201 - Fundação Oswaldo Cruz","5020 - Desenvolvimento Científico, Tecnológico e Produtivo em Saúde","21BF - Pesquisa, Desenvolvimento Tecnológico e Inovação em Saúde","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,49400000,33091899.34,0,0,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36201 - Fundação Oswaldo Cruz","5020 - Desenvolvimento Científico, Tecnológico e Produtivo em Saúde","8305 - Atenção de Referência e Pesquisa Clínica em Patologias de Alta Complexidade da Mulher, da Criança e do Adolescente e em Doenças Infecciosas","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,151787081,74295977.52000001,34079329.72,31640654.11,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36201 - Fundação Oswaldo Cruz","5021 - Gestão e Organização do SUS","20YD - Educação e Formação em Saúde","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,68650000,68650000,0,0,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36201 - Fundação Oswaldo Cruz","5023 - Vigilância em Saúde","8327 - Manutenção de Serviço Laboratorial de Referência para o Controle de Doenças","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,471023244,153275905.67,60960646.86000001,60960646.86000001,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36210 - Hospital Nossa Senhora da Conceição S.A. - CONCEIÇÃO","5018 - Atenção Especializada à Saúde","6217 - Atenção à Saúde nos Serviços Ambulatoriais e Hospitalares do Ministério da Saúde","6512 - No Município de Porto Alegre - RS (Crédito Extraordinário - Covid-19)",0,32900000,27259297.69,24636841.26000001,22999849.3,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","21C0 - Enfrentamento da Emergência de Saúde Pública de Importância Internacional Decorrente do Coronavirus","6500 - Nacional (Crédito Extraordinário)",0,22014699205,17931845494.29,4680954923.939998,4612117497.279999,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","8585 - Atenção à Saúde da População para Procedimentos em Média e Alta Complexidade","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,5974099000,1758778832.650001,1573852681.670001,1569903125.1,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5018 - Atenção Especializada à Saúde","8933 - Estruturação de Serviços de Atenção às Urgências e Emergências na Rede Assistencial","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,38800000,0,0,0,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5019 - Atenção Primária à Saúde","21BG - Formação e Provisão de Profissionais para a Atenção Primária à Saúde","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,438921118,350000000,326988075.58,324721346.08,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5019 - Atenção Primária à Saúde","219A - Piso de Atenção Primária à Saúde","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,2061022938,902140000,902140000,902140000,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5021 - Gestão e Organização do SUS","20YD - Educação e Formação em Saúde","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,210105000,210105000,94207080,94207080,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5022 - Proteção, Promoção e Recuperação da Saúde Indígena","20YP - Promoção, Proteção e Recuperação da Saúde Indígena","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,29200000,1877899.76,1228750.11,683703.05,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5023 - Vigilância em Saúde","20YE - Aquisição e Distribuição de Imunobiológicos e Insumos para Prevenção e Controle de Doenças","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,926080000,176292499.87,176292499.87,176292499.87,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","36000 - Ministério da Saúde","36901 - Fundo Nacional de Saúde","5023 - Vigilância em Saúde","20YJ - Fortalecimento do Sistema Nacional de Vigilância em Saúde","6500 - Nacional (Crédito Extraordinário - Covid-19)",0,6051761,0,0,0,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","55000 - Ministério da Cidadania","55101 - Ministério da Cidadania - Administração Direta","0032 - Programa de Gestão e Manutenção do Poder Executivo","20TP - Ativos Civis da União","6500 - Nacional (Crédito Extraordinário – Covid-19)",0,5636272,0,0,0,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","55000 - Ministério da Cidadania","55101 - Ministério da Cidadania - Administração Direta","0032 - Programa de Gestão e Manutenção do Poder Executivo","212B - Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes","6500 - Nacional (Crédito Extraordinário – Covid-19)",0,363728,0,0,0,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","55000 - Ministério da Cidadania","55101 - Ministério da Cidadania - Administração Direta","5028 - Inclusão Social por meio do Bolsa Família e da Articulação de Políticas Públicas","00SI - Auxílio Emergencial 2021 para o Enfrentamento da Emergência de Saúde Pública de Importância Internacional Decorrente do Coronavírus (Covid-19)","6500 - Nacional (Crédito Extraordinário - COVID-19)",0,42575600000,42575600000,8991451125,8991451125,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","55000 - Ministério da Cidadania","55101 - Ministério da Cidadania - Administração Direta","5028 - Inclusão Social por meio do Bolsa Família e da Articulação de Políticas Públicas","21CP - Operacionalização do Auxílio Emergencial 2021 para o Enfrentamento da Emergência de Saúde Pública de Importância Internacional Decorrente do Coronavírus (Covid-19)","6500 - Nacional (Crédito Extraordinário COVID-19)",0,384400000,357100362.96,0,0,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","55000 - Ministério da Cidadania","55101 - Ministério da Cidadania - Administração Direta","5033 - Segurança Alimentar e Nutricional","21C0 - Enfrentamento da Emergência de Saúde Pública de Importância Internacional Decorrente do Coronavirus","6500 - Nacional (Crédito Extraordinário)",0,35055960,34976753.4,0,0,79206
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","63000 - Advocacia-Geral da União","63101 - Advocacia-Geral da União","0032 - Programa de Gestão e Manutenção do Poder Executivo","20TP - Ativos Civis da União","6500 - Nacional (Crédito Extraordinário – Covid-19)",0,4092338,0,0,0,0
+2021,"Enfrentamento à COVID-19 (Medida Provisória)","63000 - Advocacia-Geral da União","63101 - Advocacia-Geral da União","0032 - Programa de Gestão e Manutenção do Poder Executivo","212B - Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes","6500 - Nacional (Crédito Extraordinário – Covid-19)",0,67688,0,0,0,0
+,,,,,,,,,,,,
+"Status da Seleção:",,,,,,,,,,,,
+"COVID19 - Ano: 2021",,,,,,,,,,,,
+ 
+
+MINISTÉRIO DA ECONOMIA
+Secretaria Especial de Fazenda
+Secretaria de Orçamento Federal
+Subsecretaria de Gestão Orçamentária
+
+Nota Informativa SEInº 13341/2021/ME
+
+INTERESSADO(S): Senador Omar Aziz, Senador Alessandro Vieira
+
+ASSUNTO: Solicitação de informações — Requerimento nº 305-2021/CPIPANDEMIA
+
+ 
+
+QUESTÃO RELEVANTE:
+
+1. A presente Nota Informativa trata de manifestação da Secretaria de Orçamento Federal -
+SOF a respeito do Requerimento de Informação nº 305/2021 (doc. 15462989), de autoria do Senador
+Alessandro Vieira, no âmbito da CPI da Covid-19, por meio do qual solicita-se ao Ministério da
+Economia “justificativa para a ausência de indicação de recursos para o combate à Covid-19 no Projeto
+de Lei Orçamentária de 2021”, encaminhado a esta SOF por meio do Despacho FAZENDA-ASPAR
+(doc. 15470906).
+
+ANTECEDENTES:
+
+2. Preliminarmente, cabe informar que as competências da Secretaria de Orçamento Federal
+são estabelecidas pelo art. 57 do anexo 1 ao Decreto nº 9.745, de 8 de abril de3 2019, abaixo transcrito:
+
+Art. 57. À Secretaria de Orçamento Federal compete:
+
+1- coordenar, consolidar e supervisionar a elaboração da lei de diretrizes orçamentárias e
+da proposta orçamentária da União, compreendidos os orçamentos fiscal e da seguridade social;
+
+TT - estabelecer as normas necessárias à elaboração e à implementação dos orçamentos
+federais sob sua responsabilidade;
+
+JH - acompanhar a execução orçamentária, sem prejuizo da competência atribuída a outros
+órgãos;
+
+IV - elaborar estudos e pesquisas concernentes ao desenvolvimento e ao aperfeiçoamento do
+processo orçamentário federal;
+
+V - orientar, coordenar e supervisionar tecnicamente os órgãos setoriais de orçamento;
+
+VI - exercer a supervisão da Carreira de Analista de Planejamento e Orçamento, em
+articulação com as demais unidades interessadas, observadas as diretrizes do Comitê de Gestão das
+Carreiras do Ministério da Economia;
+
+VII - estabelecer as classificações orçamentárias da receita e da despesa;
+VIII - acompanhar e avaliar o andamento da despesa pública e de suas fontes de
+financiamento e desenvolver e participar de estudos econômico-fiscais destinados ao aperfeiçoamento do
+processo de alocação de recursos;
+
+IX - acompanhar, avaliar e elaborar estudos sobre as políticas públicas e a estrutura do
+gasto público; e
+
+X - acompanhar e propor, no âmbito de sua competência, normas reguladoras e
+disciplinadoras relativas às políticas públicas em suas diferentes modalidades.
+
+3. Em observância àquelas competências, a definição dos referenciais monetários utilizados
+na elaboração do Projeto de Lei Orçamentária Anual —- PLOA e na execução orçamentária leva em
+consideração a situação fiscal do país, a qual impõe uma série de restrições, do ponto de vista
+orçamentário, para o cumprimento da meta de resultado primário estabelecida pela Lei de Diretrizes
+Orçamentárias — LDO, bem como o Teto de Gastos, na forma dos limites previstos nos arts. 107 a 114 do
+Ato das Disposições Constitucionais Transitórias incluídos pela EC nº 95, de 2016, além da Regra de
+Ouro, constante do inciso III do art. 167 da Constituição Federal.
+
+4. Cabe ressaltar que a SOF divulga, anualmente, para cada órgão setorial o referencial
+monetário que comporá o PLOA daquele ano, conforme distribuição de limites globais de despesas
+decidida pela Junta de Execução Orçamentária — JEO, Órgão de assessoramento direto ao Presidente da
+República na condução da política fiscal do Governo Federal, de que trata o Decreto nº 9.884, de 27 de
+junho de 2019, com vistas ao equilíbrio da gestão dos recursos públicos, à redução de incertezas no
+ambiente econômico e à sustentabilidade intertemporal do endividamento público.
+
+5. Com base em sua política setorial e prioridades, o Ministério Setorial efetua a distribuição
+desse referencial entre as entidades integrantes de sua estrutura administrativa (empresas, autarquias,
+fundações, secretarias e departamentos), às quais é facultado apropriá-los em projetos, atividades e
+operações especiais, em consonância com as prioridades setoriais. Assim, uma vez que o referencial
+monetário é divulgado de forma global, por Ministério, a SOF não determina nem especifica a aplicação
+ou destinação desse limite.
+
+6. Neste sentido, cabe aos Ministérios Setoriais o detalhamento, em ações orçamentárias,
+dos valores globais de limites divulgados pelo Ministério da Economia, após aprovação da Junta de
+Execução Orçamentária. Neste sentido, cabe aos Ministérios Setoriais, responsáveis pelas políticas
+públicas, solicitar ao Ministério da Economia o cadastramento de novas ações orçamentárias com vistas à
+
+suportar os gastos com essas políticas inclusive ações específicas destinadas ao combate à pandemia da
+COVID-19.
+
+7. Não obstante à competência originária dos Ministérios Setoriais em propor a criação de
+ações orçamentárias para atendimento de suas políticas, a previsão de alocação de dotação orçamentária
+para combate à COVID-19, no momento da elaboração do PLOA 2021, pelo Poder Executivo, em 2020,
+tomou-se incerta uma vez que naquele momento não se vislumbrou a continuidade bem como o
+recrudescimento da pandemia da COVID-19 no patamar atingido em 2021.
+
+8. Pode-se dizer que a pandemia da COVID-19 tornou-se fenômeno de imprevisibilidade
+originária e de imprevisibilidade contínua e intrínseca pelo grande número de variáveis incidentes sobre a
+calamidade enfrentada, inclusive com diferenças regionais significativas e dessincronizadas no vasto
+território nacional. É fundamentalmente por esse motivo que as dotações específicas para o combate à
+pandemia foram, ao menos emregra, veiculadas por créditos extraordinários.
+
+9. Tal sistemática assegura ainda que as autorizações de despesas relacionadas ao
+enfrentamento da pandemia constem de programações orçamentárias específicas ou contem com
+marcadores que as identifiquem e sejam separadamente avaliadas na prestação de contas do Presidente da
+República e evidenciadas, até 30 (trinta) dias após o encerramento de cada bimestre, no relatório a que se
+refere o 8 3º do art. 165 da Constituição Federal, em atendimento ao disposto no art. 5º da Emenda
+Constitucional nº 106, de 7 de maio de 2020, que instituiu regime extraordinário fiscal, financeiro e de
+contratações para enfrentamento de calamidade pública nacional decorrente de pandemia.
+10. Por fim cabe ressaltar que em 2021 foram alocados ao orçamento da União créditos
+abertos ou reabertos, além de emendas parlamentares, no total de R$ 86,5 bilhões para atendimento de
+despesas relacionadas ao combate à pandemia de COVID-19, conforme quadro (doc 15547541) anexo a
+esta Nota. Estas informações constam do Painel Orçamentário no seguinte endereço eletrônico, no card
+“COVID-19”:
+
+https:/Awww1 siop.planejamento .gov br/QvAJAXZfc/opendoc htm?
+document=IAS%2FExecucao Orcamentaria.qvw &ho st=QVS%4 O pqlkO 4 &anonymous=truew ww.
+
+CONCLUSÃO:
+
+1. Tendo em vista o exposto na presente Nota Informativa, sugere-se encaminhamento do
+presente processo à Secretaria Especial de Fazenda do Ministério da Economia.
+
+Documento assinado eletronicamente
+GUSTAVO TEIXEIRA LINO
+Analista de Planejamento e Orçamento
+
+Documento assinado eletronicamente
+JOSÉ EDUARDO GONÇALVES
+
+Assessor
+De acordo. Encaminhe-se à consideração do Secretário de Orçamento Federal.
+Documento assinado eletronicamente
+
+CLAYTON LUIZ MONTES
+
+Diretor
+
+ 
+
+Documento assinado eletronicamente por Clayton Luiz Montes,
+Diretor(a), em 05/05/2021, às 20:50, conforme horário oficial de Brasília,
+com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de
+2015.
+
+ 
+
+Documento assinado eletronicamente por José Eduardo Gonçalves,
+Assessor(a), em 05/05/2021, às 21:39, conforme horário oficial de Brasília,
+com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de
+2015.
+
+ 
+
+ 
+
+ 
+
+Documento assinado eletronicamente por Gustavo Teixeira Lino, Analista
+de Planejamento e Orçamento, em 05/05/2021, às 21:59, conforme
+horário oficial de Brasília, com fundamento no art. 6º, & 1º, do Decreto nº
+
+8.539, de 8 de outubro de 2015.
+
+  
+   
+
+ 
+
+o
+assinatura
+eletrônica
+
+ 
+
+ 
+
+ 
+
+ak
+E A autenticidade deste documento pode ser conferida no site
+- https: //sei economia .gov.br/sei/controlador externo.php?
+* acao=documento conferir&id orgao acesso externo=0, informando o código
+[listed verificador 15547432 e o código CRC 11051865. Ê
+
+ 
+
+ 
+
+ 
+
+Processo nº 12100.101915/2021-25. SEI nº 15547432
+ 
+
+MINISTÉRIO DA ECONOMIA
+Secretaria Especial de Fazenda
+Assessoria Parlamentar
+
+Nota Informativa SEInº 13211/2021/ME
+
+INTERESSADO(S):CPI Pandemia - Senado Federal.
+PROPOSIÇÃO: Requerimento de Informação RIC-CPInº 305, de 2021
+
+ASSUNTO: Solicita justificativa para a ausência de indicação de recursos para o combate à Covid-19 no
+Projeto de Lei Orçamentária de 2021.
+
+Processo SEI nº 12100.101915/2021-25
+
+ 
+
+QUESTÃO RELEVANTE:
+
+e Trata-se do Requerimento nº 305/2021 (SEI nº 15462989), de autoria do Senador Alessandro
+Vieira, encaminhado por meio do Oficio nº 542/2021 - CPIPANDEMIA (15462891), de
+30/04/2021, do Presidente da CPI da Pandemia, Senador Omar Aziz, que requer ao Ministério da
+Economia justificativa para a ausência de indicação de recursos para o combate à Covid-19 no
+Projeto de Lei Orçamentária de 2021.
+
+ANTECEDENTES:
+
+e ASPAR/ME: por meio do Despacho GME-CODEP (SEI nº 15465198), de 03/05/2021, solicita à
+Secretaria Especial de Fazenda - FAZENDA análise e manifestação a respeito do referido
+Requerimento.
+
+e FAZENDA: tendo em vista o disposto no Decreto nº 9.745, de 8 de abrilde 2019, e
+alterações, consultou, por meio do Despacho FAZENDA-ASPAR (SEI nº 15470906), de
+03/05/2021, a Secretaria de Orçamento Federal - SOF/FAZENDA/ME e encaminha
+manifestações das áreas.
+
+e SOF/FAZENDA/ME: por meio do Ofício nº 116809/2021/ME (SEI nº 15547561), de
+05/05/2021, encaminha Nota Informativa nº 13341/2021/ME (SEI nº 15547432) e Planilha (SEI
+nº 15547541), apresenta as competências da Secretaria de Orçamento Federal e as
+responsabilidade dos diversos agentes ao longo do macroprocesso orçamentário, observando as
+
+restrições legais decorrentes da disciplina fiscal e considerando o cenário de enfrentamento à
+pandemia de COVID-19.
+
+o Ressalta ainda:
+
+"Neste sentido, cabe aos Ministérios Setoriais o detalhamento, em ações
+orçamentárias, dos valores globais de limites divulgados pelo Ministério da
+Economia, após aprovação da Junta de Execução Orçamentária. Neste sentido,
+cabe aos Ministérios Setoriais, responsáveis pelas políticas públicas, solicitar ao
+Ministério da Economia o cadastramento de novas ações orçamentárias com vistas
+à suportar os gastos com essas políticas inclusive ações específicas destinadas ao
+combate à pandemia da COVID-19.
+
+Não obstante à competência originária dos Ministérios Setoriais em propor a
+criação de ações orçamentárias para atendimento de suas políticas, a previsão de
+alocação de dotação orçamentária para combate à COVID-19, no momento da
+elaboração do PLOA 2021, pelo Poder Executivo, em 2020, tornou-se incerta uma
+vez que naquele momento não se vislumbrou a continuidade bem como o
+recrudescimento da pandemia da COVID-19 no patamar atingido em 2021.
+
+Pode-se dizer quea pandemia da COVID-I9 tornou-se fenômeno de
+imprevisibilidade originária e de imprevisibilidade contínua e intrínseca pelo
+grande número de variáveis incidentes sobre a calamidade enfrentada, inclusive
+com diferenças regionais significativas e dessincronizadas no vasto território
+nacional. É fundamentalmente por esse motivo que as dotações especificas para o
+combate à pandemia foram, ao menos em regra, veiculadas por créditos
+extraordinários.
+
+Tal sistemática assegura ainda que as autorizações de despesas relacionadas ao
+enfrentamento da pandemia constem de programações orçamentárias específicas ou
+contem com marcadores que as identifiquem e sejam separadamente avaliadas na
+prestação de contas do Presidente da República e evidenciadas, até 30 (trinta) dias
+após o encerramento de cada bimestre, no relatório a que se refere o £ 3º do art.
+165 da Constituição Federal, em atendimento ao disposto no art. 5º da Emenda
+Constitucional nº 106, de 7 de maio de 2020, que instituiu regime extraordinário
+fiscal, financeiro e de contratações para enfrentamento de calamidade pública
+nacional decorrente de pandemia.
+
+Por fim cabe ressaltar que em 2021 foram alocados ao orçamento da União
+
+créditos abertos ou reabertos, além de emendas parlamentares, no total de R$ 86,5
+
+bilhões para atendimento de despesas relacionadas ao combate à pandemia de
+COVID-I9, conforme quadro (doc 15547541) anexo a esta Nota. Estas
+informações constam do Painel Orçamentário no seguinte endereço eletrônico,
+
+no card “COVID-19”:
+
+https:/wwwl1 siop. planejamento .gov.br/OvAJAXZfe/opendoc.htm?
+
+document=IAS%? FExecucao Orcamentaria.qvw&host=O VS%4 Opglk04 &anonymous=truewww"
+
+(Grifo nosso)
+
+CONCLUSÃO: Em atendimento ao Despacho GME-CODEP (SEI nº 15465198), que solicita análise e
+manifestação a respeito do Requerimento nº 305/2021 (SEI nº 15462989), recomenda-se encaminhar à
+ASPAR/ME manifestação da Secretaria de Orçamento Federal (SEI nº 15547561), no intuito de subsidiar
+resposta do Ministério da Economia à CPI da Pandemia.
+
+Documento assinado eletronicamente
+TATIANE CRUZ
+
+Assistente
+
+Documento assinado eletronicamente
+LÍGIA HELENA DA CRUZ OURIVES
+Auditora Federal de Finanças e Controle
+
+De acordo. Encaminhe-se à ASPAR/ME.
+Documento assinado eletronicamente
+
+GUSTAVO JOSÉ DE GUIMARÃES E SOUZA
+Secretário Especial Adjunto de Fazenda
+
+ANEXO:
+I- SOF/FAZENDA/ME:
+* Ofício nº 116809/2021/ME (SEI nº 15547561,) de 05/05/2021;
+
+* Nota Informativa nº 13341/2021/ME (SEI nº 15547432); e
+* Planilha (SEI nº 15547541).
+
+ 
+
+ 
+
+ 
+
+f il “| Documento assinado eletronicamente por Tatiane Cruz Sousa,
+sell Assistente, em 07/05/2021, às 15:59, conforme horário oficial de Brasilia,
+apinaturo com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de
+2015.
+
+[7 | | Documento assinado eletronicamente por Lígia Helena da Cruz Ourives,
+seil Assessor(a) Técnico(a), em 07/05/2021, às 16:00, conforme horário
+apinaturo oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8
+
+de outubro de 2015.
+
+ 
+
+ 
+
+ 
+
+ 
+
+[7 | | Documento assinado eletronicamente por Gustavo José de Guimarães e
+seil Souza, Secretário(a) Especial Adjunto(a) de Fazenda, em
+assinatura 07/05/2021, às 16:57, conforme horário oficial de Brasília, com fundamento no
+art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+ 
+
+ 
+
+ 
+
+A autenticidade deste documento pode ser conferida no site
+
+https: //sei. economia. gov.br/sei/controlador externo. php?
+
+acao=documento conferir&id orgao acesso externo=0, informando o código
+| verificador 15520618 e o código CRC 82DFAO11.
+
+ 
+
+ 
+
+ 
+
+Processo nº 12100.101915/2021-25. SEInº 15520618
+ 
+
+MINISTÉRIO DA ECONOMIA
+Secretaria Especial de Fazenda
+Secretaria de Política Econômica
+Gabinete da Secretaria de Política Econômica
+Subsecretaria de Política Macroeconômica
+
+Nota Informativa SEInº 13771/2021/ME
+
+INTERESSADO(S): Senador Omar Aziz, Senador Alessandro Vieira
+
+ASSUNTO: Solicitação de informações — Requerimento nº 305-2021/CPIPANDEMIA
+
+ 
+
+1. A crise do coronavírus atingiu a economia mundial, provocando uma severa retração
+econômica. interrupção de atividades produtivas e paralisação do comércio mundial. O Brasil também foi
+duramente afetado pela pandemia, assim como quase todos os países do mundo. Os efeitos sanitários e
+econômicos são devastadores, gerando uma das maiores recessões globais nos últimos 100 anos.
+
+2. No início do ano passado, previa-se um crescimento positivo do PIB (gráfico abaixo),
+mas com o início da pandemia, as expectativas foram se deteriorando. Em junho de 2020, diversos
+analistas e instituições apontavam queda do PIB entre 7% e 10%. O FMI, por exemplo, chegou a projetar
+uma queda de 9,1% para o PIB brasileiro em 2020; o Banco Mundial, umrecuo de 8%; e a CEPAL, uma
+redução de 9,2%. Como resultado final, o PIB brasileiro recuou 4,1%, reforçando a recuperação da
+economia ao longo do segundo semestre e aproximando-se das previsões da grade de parâmetros da
+Secretaria de Política Econômica da Secretaria Especial de Fazenda do Ministério da Economia.
+Expectativa Focus — PIB 2020
+
+ 
+
+agom
+
+MA
+
+550%
+
+ 
+
+E
+
+ 
+
+ 
+
+ 
+
+nino aura irao onimo
+
+— maine — Macans mm Minimo mm Prosa see
+
+3. No entanto, deve-se ressaltar que a incerteza em relação às projeções aumentou em
+proporções inéditas na pandemia. Os modelos tradicionais de previsão baseiam-se sobretudo em
+observações passadas e são incapazes, desta forma, em prever mudanças estruturais, sobretudo as mais
+abruptas e disruptivas, como é o caso da pandemia de coronavírus. O gráfico abaixo apresenta o desvio
+padrão das estimativas de mercado para o crescimento do PIB para o ano corrente. Cabe salientar que as
+projeções para o PIB corrente realizadas em meados do ano tem um desvio padrão médio de 0,4 pp.. No
+entanto, em 2020 essa incerteza, medida pelo desvio padrão das projeções de mercado era 3 a 4 vezes
+superior à média histórica, excedendo significativamente as incertezas na crise global financeira de
+2008-09.
+
+Desvio padrão do PIB no ano corrente - projeção FOCUS (2000-2020)
+18
+16
+14
+12
+10
+os
+0.6
+04
+
+02
+
+ 
+
+00
+jan fev mar abr mai jun jul ago set out nov dez
+
+Fonte: BCB
+
+4. Desta maneira, pode-se afirmar que em todas as projeções realizadas, há incertezas em
+relação às estimativas do horizonte prospectivo, mas estas foram majoradas pela crise atual. De acordo
+com o Boletim Macrofiscal de julho/ 2020[1] da Secretaria de Política Econômica do Ministério da
+Economia:
+
+“Assim, usando a variância da previsão dos modelos considerados, é possível estimar
+diferentes cenários para o crescimento da atividade, segmentando-os em diferentes
+percentis. Observa-se que a variância das estimações aumenta a cada ano a frente”
+
+5. Para todo intervalo de projeção, normalmente, a variância se eleva para os horizontes
+preditivos mais longos, conforme o gráfico abaixo divulgado no boletim Macrofiscal de julho. Ou seja,
+a incerteza tende a aumentar quanto maior for o horizonte preditivo. Dessa forma, as incertezas
+presentes na projeção do PIB de 2020 também se traduziam na maior incerteza para 2021 e para os
+anos posteriores, conforme o Anexo IV Metas Fiscais Anuais [2]
+
+PIB Real - % a. a.
+a,00
+6,00
+4,00
+2,00
+0,00
+
+-2,D0
+-4,00
+-6,00
+
+-8,00
+
+ 
+
+40,00
+Fonte: IBGE e SPE
+
+6. Nesse sentido, cabe citar o primeiro parágrafo das Perspectivas Econômicas do Anexo de
+
+Metas Anuais (citado acima):
+
+“A emergência da pandemia relacionada ao novo coronavírus (Covid-19) constitui
+cenário desafiador para a realização de projeções econômicas para o triênio de 2021 a
+2023, tendo em vista o elevado nível de incerteza para prever a extensão e a duração
+da pandemia e, consequentemente, a magnitude do seu impacto sobre o nível de
+atividade econômica global e doméstica”
+
+[1 https:/Avww gov br/eco no mia/pt-br/centrais-de -co nteudo /publicacoes/boletins/boletim-macrofiscal/2020/boletim-
+
+macrofiscal-julho-2020-v8 pdf
+[2] http://planalto gov br/CCIVIL 03/ Ato2019-2022/2020/Lei/Anexo/ANLI41161V.1 pdf
+
+Documento assinado eletronicamente
+HÉBRIDA VERARDO MOREIRA FAM
+
+Coordenadora-Geral de Estudos Econômicos e Tributários
+
+Documento assinado eletronicamente
+FAUSTO JOSÉ ARAÚJO VIEIRA
+
+Subsecretário de Política Macroeconômica
+De acordo. Encaminhe-se à consideração do Secretário Especial de Fazenda
+
+Documento assinado eletronicamente
+ADOLFO SACHSIDA
+
+Secretário de Política Econômica
+
+ 
+
+ 
+
+— a | | Documento assinado eletronicamente por Hébrida Verardo Moreira Fam,
+
+seil Coordenador(a)-Geral, em 10/05/2021, às 17:43, conforme horário oficial
+
+apsinatura de Brasília, com fundamento no art. 6º, & 19, do Decreto nº 8.539, de
+outubro de 2015.
+
+Í E ” )Documento assinado eletronicamente por Fausto José Araújo Vieira,
+sell Subsecretário(a) de Política Macroeconômica, em 10/05/2021, às
+atraso
+
+    
+
+ 
+
+ 
+
+17:44, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 19,
+do Decreto nº 8.539, de 8 de outubro de 2015.
+
+ 
+
+ 
+
+“| Documento assinado eletronicamente por Adolfo Sachsida, Secretário(a)
+
+& I de Política Econômica, em 10/05/2021, às 17:48, conforme horário oficial
+assinatura de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de
+
+ 
+
+ 
+
+outubro de 2015.
+
+ 
+
+Rel A autenticidade deste documento pode ser conferida no site
+https://sei economia.gov.br/sei/controlador externo.php?
+acao=documento conferir&id orgao acesso externo=0, informando o código
+Ii verificador 15646782 e o código CRC 30DE73B2.
+
+ 
+   
+
+[nr
+
+ 
+
+ 
+
+ 
+
+Processo nº 12100.101915/2021-25. SEI nº 15646782
+ 
+
+MINISTÉRIO DA ECONOMIA
+Secretaria Especial de Fazenda
+Secretaria de Orçamento Federal
+Subsecretaria de Gestão Orçamentária
+
+OFÍCIO SEINº 116809/2021/ME
+
+Brasília, 05 de maio de 2021.
+
+Ao Senhor
+
+Secretário Especial de Fazenda do Ministério da Economia
+
+Esplanada dos Ministérios, Bloco P, 2º andar, sala 225
+
+70048-900 - Brasília-DF
+
+Assunto: Solicitação de informações — Requerimento nº 305-2021/CPIPANDEMIA.
+
+Referência: Ao responder este Ofício, favor indicar expressamente o Processo nº 12100.101915/2021-
+25.
+
+Senhor Secretário,
+
+1. Com os meus cumprimentos, reporto-me ao Despacho FAZENDA-ASPAR (doc.
+15470906), que encaminha a esta Secretaria de Orçamento Federal — SOF o Ofício nº 542/2021 —
+CPIPANDEMIA (doc. 15462891), por meio do qual o Senador Omar Aziz, Presidente da CPI da
+Pandemia, encaminha Requerimento nº 305/2021 (15462989), de autoria do Senador Alessandro Vieira,
+que requer ao Ministro da Economia: “Justificativa para a auselncia de indicaclão de recursos para o
+combate a Covid-19 no Projeto de Lei Orçamentária de 2021”
+
+2. A propósito, encaminho a Nota Informativa SEI nº 13341/2021/ME (doc. 15547432),
+acopanhada do Anexo (doc. 15547541), a qual aprovo e acolho seu conteúdo tendo em vista
+que representa a manifestação desta Secretaria.
+
+Respeito samente,
+Documento assinado eletronicamente
+
+MÁRCIO LUIZ DE ALBUQUERQUE OLIVEIRA
+Secretário de Orçamento Federal, Substituto
+
+ 
+
+ 
+
+                                                           
+Oliveira, Secretário(a) de Orçamento Federal, substituto, em
+05/05/2021, às 21:44, conforme horário oficial de Brasília, com fundamento no
+art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+se
+
+assinatura
+eletrônica
+
+  
+
+ 
+
+- A autenticidade deste documento pode ser conferida no site
+
+É https: //sei.economia.gov.br/sei/controlador externo.php?
+
+à acao=documento corferir&id orgao acesso externo=0, informando o código
+k verificador 15547561 e o código CRC F409AD35.
+
+ 
+
+ 
+
+SEPN 516, Lote 8, Bloco D - Bairro Asa Norte
+CEP 70770-524 - Brasília/DF
+(61) 2020-2570 - e-mail secad-sof(Deconomia.gov.br - www.economia.gov.br
+
+ 
+
+ 
+
+Processo nº 12100.101915/2021-25. SEInº 15547561
+MINISTÉRIO DA ECONOMIA
+Secretaria Especial de Fazenda
+Assessoria Parlamentar
+
+ 
+
+ 
+
+Processo nº 12100.101915/2021-25
+
+Em complementação à Nota Informativa SEI nº 13211/2021/ME (15520618), de
+07/05/2021, e em atendimento ao Despacho GME-CODEP (SEI nº 15465198), que solicita análise e
+manifestação a respeito do Requerimento nº 305/2021 (SEI nº 15462989), recomenda-se encaminhar à
+ASPAR/ME manifestação da Secretaria de Política Econômica, por meio da Nota Informativa SEI nº
+13771/2021/ME (SEI nº 15646782), no intuito de subsidiar resposta do Ministério da Economia à CPI da
+Pandemia.
+
+Brasília, 10 de maio de 2021.
+
+Documento assinado eletronicamente
+LIGIA HELENA DA CRUZ OURIVES
+
+Assessora Técnica
+
+De acordo. Encaminhe-se à ASPAR/ME.
+
+Documento assinado eletronicamente
+GUSTAVO GUIMARÃES
+Secretário Especial Adjunto de Fazenda
+
+ 
+
+am”) Documento assinado eletronicamente por Lígia Helena da Cruz Ourives,
+seil E) |Assessor(a) Técnico(a), em 10/05/2021, às 17:51, conforme horário
+assinatura
+
+arara oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8
+de outubro de 2015.
+
+ 
+
+ 
+
+il Documento assinado eletronicamente por Gustavo José de Guimarães e
+sel: [| Souza, Secretário(a) Especial Adjunto(a) de Fazenda, em
+assinatura
+
+snçtu 10/05/2021, às 17:51, conforme horário oficial de Brasília, com fundamento no
+art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+ 
+
+ 
+
+ 
+
+ 
+
+aa A autenticidade deste documento pode ser conferida no site
+https://sei economia.gov.br/sei/controlador externo.php?
+acao=documento conferir&id orgao acesso externo=0, informando o código
+|» verificador 15645550 e o código CRC 7DF1D9C2.
+
+ 
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 12100.101915/2021-25. SEI nº 15645550
+
