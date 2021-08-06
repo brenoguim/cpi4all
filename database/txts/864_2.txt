@@ -1,0 +1,4693 @@
+26/05/2021 SEI/MS - 0020399018 - Despacho
+
+ 
+
+Ministério da Saúde
+Secretaria de Gestão do Trabalho e da Educação na Saúde
+Gabinete
+
+DESPACHO
+
+SGTES/GAB/SGTES/MS
+Brasília, 05 de maio de 2021.
+
+Destinatário: ASPAR/SGTES/MS
+Referência: Ofício nº 54/2021 — CPIPANDEMIA (0020324707)
+Interessado: Senado Federal — Presidência CPI Pandemia
+
+Assunto: Solicitação de informações — Requerimento nº 36/2021/CPIPANDEMIA
+
+1. Em atendimento ao Despacho ASPAR/GM/MS (0020324772), que se refere ao
+Requerimento nº 00036/2021/CPIPANDEMIA (0020324709), de autoria do Senador Randolfe Rodrigues,
+por meio do qual solicita informações para instrução dos trabalhos da Comissão Parlamentar de Inquérito
+(CPI Pandemia), esta Secretaria apresenta as informações requeridas que se encontram consignadas na
+Nota (0020396934) e anexos (0020396834, 0020396868, 0020396904 e 0020396924), as quais aprovo.
+
+2. Dessa forma, encaminhe-se os autos à Assessoria Parlamentar (ASPAR), para ciência e
+medidas que entender cabíveis.
+
+Mayra Isabel Correia Pinheiro
+Secretária de Gestão do Trabalho e da Educação na Saúde
+
+ 
+
+     
+
+Siena
+
+Documento assinado eletronicamente por Mayra Isabel Correia Pinheiro, Secretário(a) de Gestão do
+Trabalho e da Educação na Saúde, em 05/05/2021, às 21:14, conforme horário oficial de Brasília,
+com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+
+    
+
+ 
+
+  
+  
+ 
+
+A autenticidade deste documento pode ser conferida no site
+
+Ed http://sei.saude.gov.br/sei/controlador externo.php?
+ais
+
+q acao=documento conferir&id orgao acesso externo=0, informando o código verificador
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.065529/2021-32 SEI nº 0020399018
+
+Criado por cora.silva, versão 2 por cora.silva em 05/05/2021 20:39:42.
+
+https://sei. saude.gov.br/sei/controlador php ?acao=documento visualizar&acao origem=arvore visualizar&id documento=22251190&infra siste... 1/1
+26/05/2021 SEI/MS - 0020571898 - Despacho
+
+ 
+
+Ministério da Saúde
+Gabinete do Ministro
+Assessoria Parlamentar
+
+DESPACHO
+ASPAR/GM/MS
+
+Brasília, 14 de maio de 2021.
+
+Ao Gabinete do Ministro
+
+Assunto: Requerimento nº 36/2021 - CPIPANDEMIA - Prestação de informações e remessa de
+documentos, por diversos órgãos, acerca das ações de vigilância no mapeamento da pandemia
+
+0.1. Trata-se do Ofício nº 54/2021 - CPIPANDEMIA (0020324707), de autoria do Presidente da
+CPI da Pandemia, Senador Omar Aziz, o qual faz referência ao Requerimento do Senado Federal nº
+36/2021/CPIPANDEMIA (0020324709), de autoria do Senador Randolfe Rodrigues, por meio do qual
+requer que sejam encaminhadas pelo Ministério da Saúde a remessa de documentos, por diversos
+órgãos, acerca das ações de vigilância no mapeamento da pandemia.
+
+0.2. Em resposta, encaminhem-se, para ciência e atendimento à solicitação da referida
+Comissão, o Despacho SVS/NUJUR/SVS/MS(0020663047), elaborado pela Secretaria de Vigilância em
+Saúde - SVS/MS; o Despacho SGTES/GAB/SGTES/MS (0020399018), a Nota DEGES
+
+(0020396934), as Notas Técnicas nºs 90/2021-DEGES/SGTES/MS (0020396834) e 33/2021-
+DEGES/SGTES/MS (0020396868), a Nota Informativa nº 17/2020-SE/GAB/SE/MS (0020396904) e o
+Manual TrateCOV-versão preliminar (0020396924) elaborados pela Secretaria de Gestão do Trabalho e
+da Educação na Saúde - SGTES/MS.
+
+LEONARDO BATISTA SILVA
+Chefe da Assessoria Parlamentar
+
+ 
+
+   
+
+= al
+Dia (8)
+eletrônica
+
+Documento assinado eletronicamente por Leonardo Batista Silva, Chefe da Assessoria Parlamentar,
+em 26/05/2021, às 06:32, conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+     
+  
+   
+
+E] A autenticidade deste documento pode ser conferida no site
+me http://sei.saude.gov.br/sei/controlador externo.php?
+Fã acao=documento conferir&id orgao acesso externo=0, informando o código verificador
+
+E 0020571898 e o código CRC 16AF70C1.
+
+ 
+
+ 
+
+Referência: Processo nº 25000.065529/2021-32 SEI nº 0020571898
+
+https://sei. saude.gov.br/sei/controlador php ?acao=documento imprimir web&acao origem=arvore visualizar&id documento=22435223&infra si... 1/1
+ 
+
+ 
+
+NOTA INFORMATIVA Nº 17/2020- SE/GAB/SE/MS
+
+ORIENTAÇÕES DO MINISTÉRIO DA SAÚDE PARA
+
+MANUSEIO MEDICAMENTOSO PRECOCE DE
+PACIENTES COM DIAGNOSTICO DA COVID-19
+
+ 
+
+ESTA NOTA INFORMATIVA SUBSTITUI A NOTA INFORMATIVA Nº 11/2020-SE/GAB/SE/MS,
+DE 15 DE JUNHO DE 2020, QUE SUBSTITUIU A NOTA INFORMATIVA
+Nº 9/2020-SE/GABISE/NS, DE 20 DE MAIO DE 2020
+
+ 
+
+DISQUE |
+SAÚDE
+
+136
+
+ 
+
+ 
+
+ÁT
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+SUMÁRIO
+
+1 — Apresentação
+
+2 — Orientações do Ministério da Saúde para Manuseio Medicamentoso Precoce
+de Pacientes Adultos com Diagnóstico da COVID-19, conforme a
+Classificação dos Sinais ou Sintomas
+
+3 — Orientações do Ministério da Saúde para Manuseio Medicamentoso Precoce
+de Pacientes Pediátricos com Diagnóstico da COVID-19, conforme a
+Classificação dos Sinais ou Sintomas
+
+4 — Orientações do Ministério da Saúde para Manuseio Medicamentoso Precoce
+de Gestantes com Diagnóstico da COVID-19, conforme a Classificação dos
+Sinais ou Sintomas
+
+5 — Notas Explicativas
+
+6 — Informações Complementares
+Referências
+
+Anexo - Termo de Ciência e Consentimento
+
+ 
+
+ 
+ 
+
+1. APRESENTAÇÃO
+
+1. Considerando que cabe ao Ministério da Saúde acompanhar, controlar e avaliar
+as ações e os serviços de saúde, respeitadas as competências estaduais e municipais,
+nos termos da Constituição Federal e da Lei nº 8080, de 19 de setembro de 1990;
+
+2. Considerando que a Organização Mundial da Saúde (OMS) reconheceu, em 11
+de março de 2020, a COVID-19 como pandemia;
+
+3. Considerando que o Ministério da Saúde do Brasil reconheceu a existência de
+transmissão comunitária em todo território nacional, em 20 de março de 2020;
+
+4. Considerando que até o momento não existem evidências científicas robustas
+que possibilitem a indicação de terapia farmacológica específica para a COVID-19;
+
+5. Considerando que a manutenção do acompanhamento da comunidade científica
+dos resultados de estudos com medicamentos é de extrema relevância para atualizar
+periodicamente as orientações para o tratamento da COVID-19,
+
+6. Considerando que existem muitos medicamentos em teste, com muitos resulta-
+dos sendo divulgados diariamente, e vários destes medicamentos têm sido promissores
+em testes de laboratório e por observação clínica, mesmo com muitos ensaios clínicos
+ainda em análise;
+
+7. Considerando que alguns Estados, Municípios e hospitais da rede privada já
+estabeleceram protocolos próprios de uso da cloroquina e da hidroxicloroquina para tra-
+tamento da COVID-19;
+
+8. Considerando a necessidade de uniformização da informação para os profissio-
+nais da saúde no âmbito do Sistema Único de Saúde (SUS);
+
+9. Considerando a existência de diversos estudos sobre o tratamento da COVID-19;
+
+10. Considerando a larga experiência do uso da cloroquina e da hidroxicloroquina
+no tratamento de outras doenças infecciosas e de doenças crônicas no âmbito do SUS
+e a inexistência, até o momento, de outro tratamento eficaz disponível para a COVID-19;
+
+11. Considerando a necessidade de orientar o uso de fármacos notratamento pre-
+coce da COVID-19, no âmbito do SUS pelos médicos;
+
+12. Considerando a necessidade de reforçar que a autoprescrição dos medicamen-
+tos aqui orientados pode resultar em prejuízos à saúde e/ou redução da oferta para pes-
+soas com indicação precisa para o seu uso;
+
+13. Considerando a necessidade de avaliação médica adequada dos pacientes por
+meio de anamnese, exame físico e, quando indicado, exames complementares nos esta-
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+belecimentos de saúde do SUS para que seja feito o diagnóstico clínico;
+
+14. Considerando que o Ministério da Saúde do Brasil classificou como pertencen-
+tes ao grupo de risco “Grávidas em qualquer idade gestacional e puérperas até duas
+semanas após o parto (incluindo as que tiveram aborto ou perda fetal)”;
+
+15. Considerando que os dados atuais não sugerem um aumento do risco de aborto
+ou perda precoce da gravidez em mulheres grávidas com COVID-19;
+
+16. Considerando que as modificações fisiológicas e os adventos que podem ocor-
+rer na gestação podem dificultar o diagnóstico de COVID-19;
+
+17. Considerando que os dados de literatura não apontam que a gestação torne a
+paciente mais suscetível ao novo coronavirus do que a população geral;
+
+18. Considerando que os resultados das diversas modificações fisiológicas da ges-
+tação, podem levar a um risco teórico maior de desenvolver a doença grave por CO-
+VID-19, em particular pneumonia e insuficiência respiratória;
+
+19. Considerando que estudos retrospectivos envolvendo gestantes com COVID-19
+demonstram que suas características clínicas são semelhantes às de mulheres adultas
+não grávidas;
+
+20. Considerando que não dispomos, até o momento, de tratamento específico para
+a COVID-19 em gestantes ou destinado aos pacientes pediátricos;
+
+21. Considerando que o fosfato de Oseltamivir já tem seu uso recomendado em
+gestantes com síndromes gripais;
+
+22. Considerando que doses baixas de cloroquina são usadas para profilaxia da
+malária na gravidez;
+
+23. Considerando que diversas instituições, tanto internacionais quanto nacionais,
+preconizam o uso da cloroquina ou da hidroxicloroquina em pacientes com diagnóstico
+de COVID-19;
+
+24. Considerando que o artigo científico publicado pela Escola de Saúde Pública de
+Yale (New Haven, Connecticut - EUA), que avaliou cerca de 300.000 doentes infectados,
+através de 5 estudos, incluindo 2 ensaios clínicos controlados, demonstrou uma eficácia
+significativa no tratamento ambulatorial com uso de hidroxicloroquina, e concluíram que
+a hidroxicloroquina deve estar amplamente disponível e distribuída imediatamente para
+prescrição médica;
+
+25. Considerando que a hidroxicloroquina não apresenta contraindicações abso-
+lutas durante a gestação, que vem sendo usada com segurança durante o período gra-
+
+4
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+vídico no tratamento de doenças autoimunes desde a década de 40 devido à sua ação
+imunomoduladora, antipirética e anti-inflamatória, e que não há estudos científicos que
+associam o uso da hidroxicloroquina e cloroquina à presença de malformações fetais;
+
+26. Considerando que, como em toda a prática médica, a análise do risco-benefício
+individual deve ser cuidadosamente feita antes do uso de agentes terapêuticos, conside-
+rando o benefício potencial para a mãe e a segurança do feto;
+
+27. Considerando que a COVID-19 apresenta-se com um amplo espectro clínico,
+variando de quadros assintomáticos a graves e que o período de incubação habitual é de
+4a 6 dias, mas pode variar entre 2 a 14 dias;
+
+28. Considerando que os pacientes com COVID-19 podem apresentar uma rápida
+deterioração clínica;
+
+29. Considerando que a prescrição de todo e qualquer medicamento é prerrogativa
+do médico, e que o tratamento do paciente suspeito ou portador de COVID-19 deve ser
+baseado na autonomia do paciente ou de seu responsável legal, caso o paciente esteja
+incapacitado ou seja menor de idade, por meio do termo de consentimento livre e escla-
+recido, e deve também respeitar a autonomia do médico, com o intuito de qualificar a
+relação médico-paciente para oferecer o melhor tratamento disponível no momento;
+
+30. Considerando que o Conselho Federal de Medicina recentemente propôs a con-
+sideração da prescrição de cloroquina e hidroxicloroquina pelos médicos, em condições
+excepcionais, mediante o livre consentimento esclarecido do paciente, para o tratamento
+da COVID-19 (PROCESSO CONSULTA CFM nº 8/2020 — PARECER CFM Nº 4/2020);
+
+31. O Ministério da Saúde, com o objetivo de ampliar o acesso dos pacientes a
+tratamento medicamentoso no âmbito do SUS, publica as seguintes orientações para
+tratamento medicamentoso precoce de pacientes com diagnóstico de COVID-19.
+
+2. ORIENTAÇÕES DO MINISTÉRIO DA SAÚDE PARA MANUSEIO MEDICAMEN-
+TOSO PRECOCE DE PACIENTES ADULTOS COM DIAGNÓSTICO DA COVID-19,
+CONFORME A CLASSIFICAÇÃO DOS SINAIS OU SINTOMAS
+ 
+
+ 
+
+SINAIS E
+SINTOMAS LEVES
+
+SINAIS E SINTOMAS
+MODERADOS
+
+SINAIS DE
+GRAVIDADE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Anosmia * Tosse persistente + * Síndrome Respiratória
+* Ageusia febre persistente diária Aguda Grave — Síndro-
+« Coriza ou me Gripal que apresen-
+o DR A * Tosse persistente + te:
+ua piora progressiva de , '
+« Dor abdominal Ui en iama o Dlispmreie/elesooniario
+- Febre relacionado a COVID-19. | fespiratório OU pressão
+* Mialgia (adinamia, prostração, oa Rua no Tórax OU
+DEISE hiporexia, diarreia) ou saturação de O2 menor
+ave * Pelo menos um dos que 95% em ar ambien-
+. sintomas acima te OU coloração azulada
+Reais + presença de fator de de lábios ou rosto
+risco
+Orientação para
+prescrição em FASE 1 FASE 2 FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APÓS O 14º DIA
+ADULTOS
+SINAIS E Difosfato de Cloroquina Prescrever
+SINTOMAS =D1: 500mg 12/12h (300 mg de medicamento
+LEVES cloroquina base) sintomático
+
+ 
+
+=D2 ao D5: 500 mg 24/24h (300
+mg de cloroquina base)
+
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+Ou
+
+Sulfato de Hidroxicloroquina
+=D1: 400mg 12/12h
+
+=D2 ao D5: 400mg 24/24h
+
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Orientação para
+prescrição em
+
+FASE 1 FASE 2
+
+ 
+
+ 
+
+FASE 3
+
+ 
+
+ 
+
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APÓS O 14º DIA
+ADULTOS
+SINAIS E Considerar a Internação Hospitalar
+SINTOMAS - Afastar outras causas de gravidade
+MODERADOS - Avaliar presença de infecção bacteriana
+
+- Considerar imunoglobina humana
+- Considerar anticoagulação
+- Considerar corticoterapia
+
+ 
+
+ 
+
+Difosfato de cloroquina
+
+=D1: 500 mg 12/12h (300 mg de
+cloroquina base)
+
+=D2 ao D5: 500 mg 24/24h (300
+mg de cloroquina base)
+
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+Ou
+
+Sulfato de hidroxicloroquina
+=D1: 400mg 12/12h
+
+=D2 ao D5: 400mg 24/24h
+
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+ 
+CORONAVÍRUS
+
+ 
+
+Orientação para
+
+ 
+
+ 
+
+ 
+
+ 
+
+prescrição em FASE 1 FASE 2 . FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APOS O 14º DIA
+ADULTOS
+SINAIS E Internação hospitalar
+SINTOMAS - Afastar outras causas de gravidade
+GRAVES - Avaliar presença de infecção bacteriana
+
+ 
+
+- Considerar imunoglobina humana
+- Considerar anticoagulação
+- Considerar pulsoterapia com corticóide
+
+Sulfato de hidroxicloroquina
+=D1: 400mg 12/12h
+
+=D2 ao D5: 400mg 24/24h
+
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+3. ORIENTAÇÕES DO MINISTÉRIO DA SAÚDE PARA MANUSEIO MEDICAMEN-
+TOSO PRECOCE DE PACIENTES PEDIÁTRICOS COM DIAGNÓSTICO DA COVID-19,
+
+CONFORME A CLASSIFICAÇÃO DOS SINAIS OU SINTOMAS
+
+ 
+
+SINAIS E SINTOMAS
+
+SINAIS E SINTOMAS
+
+SINAIS DE GRAVIDADE
+
+ 
+
+LEVES MODERADOS
+* Anosmia * Tosse persistente + * Taquipneia: > 70 rpm
+* Ageusia febre persistente diária para menores do
+* Coriza Ou que 1 ano; > 50 nom para
+ia * Tosse persistente + erianças
+* Dor abdominal piora progressiva de Dor EO que fleno:
+* Febre outro sintoma poxeria, o
+* Mialgia relacionado a COVID-19. | * desconforio respiratório;
+* Tosse (adinamia, prostração, e aliração da
+* Fadiga hiporexia, diarreia) SS
+a o * desidratação;
+* Cefaleia
+
+ 
+
+* Pelo menos um dos
+sintomas acima +
+presença de fator de
+risco
+
+ 
+
+ 
+
+« dificuldade para
+alimentação;
+
+* lesão miocárdica;
+
+* elevação de enzimas
+hepáticas;
+
+* disfunção da
+coagulação;
+
+* rabdomiólise;
+
+* qualquer outra
+manifestação de lesão
+em órgãos vitais
+
+ 
+
+ 
+ 
+
+ 
+
+Orientação para
+
+ 
+
+ 
+
+prescrição em FASE 1 FASE 2 , FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APOS O 14º DIA
+PEDIÁTRICOS
+SINAIS E Cloroquina base Cloroquina base Prescrever
+SINTOMAS 6 mg/kg/dia de 6 mg/kg/dia de medicamento
+LEVES cloroquina base cloroquina sintomático
+por 5 dias, 1 vez base por 5 dias,
+Somente q o
+ao dia 1 vez ao dia
+TOS Cravo dão (máximo de 300 (máximo de
+estiverem mg cloroquina 300 mg
+presentes base) cloroquina base)
+fatores de risco is is
+Eos Azitromicina Azitromicina
+diabet : 10mg/kg no 1º dia 10mg/kg no 1º dia
+: jave 8, seguida de seguida de
+hipertensão 5mg/kg/ dia por 4 5mg/kg/ dia por 4
+arterial, dias, limite de dias, limite
+obesidade, 500mg/dia de 500mg/dia
+asma grave,
+: E Ou Ou
+disfunções
+orgânicas Sulfato dehidro- | Sulfato de hidro-
+crônicas, xicloroquina xicloroquina
+cardiopatias 6 mg/kgídia por 5 6 mg/kg/dia por 5
+congênitas ou Ei 1 vez 00 des. 1 na ]
+dauirid. ia (máximo: ao dia (máximo:
+cernees, mg/dia) 400 mgídia)
+pneumopatia &> a
+crônica, doença | Azitromicina Azitromicina
+neurológica 10mg/kg no 1º dia 10mg/kg no 1º dia
+crônica e seguida de seguida de
+no ce TeTE Ta 5mg/kg/ dia por 4 5mg/kg/ dia por 4
+ciã dias, limite de dias, limite
+. 500mg/dia de 500mg/dia
+Oseltamivir por
+
+ 
+
+até 5 dias até
+exclusão de
+Influenza
+
+ 
+
+ 
+
+ 
+
+40
+
+ 
+ 
+
+ 
+
+Orientação para
+
+ 
+
+ 
+
+ 
+
+ 
+
+prescrição em FASE 1 FASE 2 , FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APOS O 14º DIA
+PEDIÁTRICOS
+SINAIS E Considerar internação hospitalar se saturação de
+SINTOMAS oxigênio for menor que 94% em ar ambiente.
+MODERADOS
+Cloroquina base Afastar outras
+6 mg/kg/dia de cloroquina base causas de
+por 5 dias, 1 vez ao dia (máximo gravidade
+de 300 mg cloroquina base) Avaliar presença
+ii de coinfecção
+Azitromicina bacteriana
+10mg/kg no 1º dia seguida de
+5mg/kg/ dia por 4 dias, limite de Considerar
+500mgy/aia realização de TC
+e exames
+laboratoriais
+Ou
+Avaliar necessida-
+
+ 
+
+Sulfato de hidroxicloroquina
+6 mg/kg/dia por 5 dias, 1 vez ao
+dia (máximo: 400 mg/dia)
+
++
+
+Azitromicina
+
+10mg/kg no 1º dia seguida de
+5mg/kg/ dia por 4
+
+dias, limite de 500mg/dia
+
+Oseltamivir por até 5 dias até ex-
+clusão de Influenza
+
+de de internação
+
+ 
+
+ 
+
+41
+
+ 
+CORONAVÍRUS
+
+ 
+
+Orientação para
+
+ 
+
+ 
+
+ 
+
+ 
+
+prescrição em FASE 1 FASE 2 . FASE 3
+PACIENTES 1º AO 5º DIA 6º AO 14º DIA APOS O 14º DIA
+PEDIÁTRICOS
+SINAIS E Internação hospitalar em Unidade de Terapia Intensiva
+SINTOMAS Pediátrica
+GRAVES
+
+ 
+
+Cloroquina base
+
+6 mg/kg/dia de cloroquina base por 5 dias, 1 vez ao dia
+(máximo de 300 mg cloroquina base)
+
++
+
+Azitromicina
+
+10mg/kg no 1º dia seguida de 5mg/kg/ dia por 4 dias, limite
+de 500mg/dia
+
+Ou
+
+Sulfato de hidroxicloroquina
+
+6 mg/kg/dia por 5 dias, 1 vez ao dia
+
+(máximo: 400 mg/dia)
+
++
+
+Azitromicina
+
+10mg/kg no 1º dia seguida de 5mg/kg/ dia por 4 dias, limite
+de 500mg/dia
+
+Oseltamivir por até 5 dias até exclusão de Influenza
+
+ 
+
+3.1. Síndrome Inflamatória Multissistêmica em Crianças e Adolescentes
+provavelmente relacionada à COVID-19 (PMIS-Covid-19)
+* Definição de caso provável segundo a OMS:
+
+Crianças e adolescentes de O a 19 anos com febre > 3 dias
+
++
+
+Dois (2) dos seguintes achados:
+
+1. Exantema ou conjuntivite não purulenta bilateral ou sinais de
+
+inflamação mucocutânea (orais, mãos ou pés).
+
+2. Hipotensão ou choque.
+
+3. Características de disfunção miocárdica, pericardite, valvulite ou
+
+492
+
+ 
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+anormalidades coronárias (incluindo achados do ecocardiograma ou
+elevações de troponina/próBNP).
+
+4. Evidência de coagulopatia (TP, TTPA, D-dímero elevado).
+
+5. Problemas gastrointestinais agudos (diarreia, vômito ou dor
+abdominal).
+
+E
+
+Marcadores de inflamação elevados, como VHS, PCR ou procalcitonina.
+
+E
+
+Nenhuma outra causa de inflamação microbiana, incluindo sepse bacteriana,
+
+síndromes de choque estafilocócico ou estreptocócico.
+
+E
+
+Evidência de COVID-19 (RT-PCR, teste antigênico ou sorologia positiva) ou
+
+provável contato com pacientes com COVID-19.
+
+Os pacientes descritos na Europa e Estados Unidos apresentaram uma síndro-
+me inflamatória multissistêmica, com manifestações clínicas e alterações dos exames
+complementares similares às observadas em crianças e adolescentes com síndrome de
+Kawasaki, Kawasaki incompleto e/ou síndrome do choque tóxico.
+
+Crianças e adolescentes diagnosticadas com este quadro após o início da epide-
+mia de SARS-CoV-2 podem apresentar idade significantemente mais elevada e maiores
+taxas de envolvimento cardíaco, além de características de síndrome de ativação macro-
+fágica comparados aos pacientes com sindrome de Kawasaki anteriores à pandemia da
+COVID-19.
+
+Todas as crianças e adolescentes com o referido quadro devem ser tratadas como
+suspeitos de COVID-19. Os pediatras devem estar alertas para o pronto reconhecimento
+destes casos, incluindo crianças com febre prolongada e não esclarecida, possibilitando
+o reconhecimento e o manejo adequado e oportuno, durante a hospitalização nos servi-
+
+ços de emergência, enfermarias e/ou unidades de terapia intensiva.
+
+3.2. Abordagem terapêutica da PMIS-Covid-19
+
+Considerando que os casos relatados ocorreram dias ou semanas após a COVID-19,
+sugerindo que esta sindrome inflamatória pode ser uma complicação tardia caracterizada
+por resposta imunológica desproporcional à infecção, e que alguns pacientes relatados
+apresentaram marcadores de função miocárdica elevados (troponina e pró-BNP), não
+
+13
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+estaria indicado o uso de medicamentos antivirais a princípio. São considerações impor-
+tantes quanto à abordagem terapêutica:
+
+* Uso apropriado de equipamento de proteção individual (EPI).
+
+* Atentar para a possibilidade de rápida deterioração e
+agravamento da inflamação.
+
+* Antibioticoterapia empírica deve ser iniciada de acordo com os
+protocolos locais de sepse após coleta de hemoculturas.
+
+* Coleta de exames complementares: hemograma completo, urina
+tipo 1, eletrólitos, coagulograma com fibrinogênio, D-dímero,
+triglicérides, ferritina, troponina, pró-BNP, CK, sorologias,
+hemocultura, urocultura.
+
+* Solicitar painel viral respiratório, com pesquisa de SARS-CoV-2
+por RT-PCR e sorologia para SARS-CoV-2.
+
+* Discutir precocemente com equipe de emergência pediátrica,
+medicina intensiva pediátrica, infectologia e reumatologia
+pediátricas.
+
+* Considerar a infusão de imunoglobulina intravenosa (29/kg) e
+ácido acetil-salicílico (80 mg/kg/dia de 6/6 horas, reduzindo para
+3-5 mg/kg/dia 1 vez ao dia após 48 horas sem febre) nos casos
+que preencham critérios para síndrome de Kawasaki.
+
+Ponderar também sobre o uso da imunoglobulina intravenosa se forem preenchidos
+os critérios para a síndrome do choque tóxico.
+
+44
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+4. ORIENTAÇÕES DO MINISTÉRIO DA SAÚDE PARA MANUSEIO
+MEDICAMENTOSO PRECOCE DE GESTANTES COM DIAGNÓSTICO DA
+COVID-19, CONFORME A CLASSIFICAÇÃO DOS SINAIS OU SINTOMAS
+
+ 
+
+SINAIS E SINTOMAS
+
+SINAIS E SINTOMAS
+
+SINAIS DE GRAVIDADE
+
+ 
+
+LEVES MODERADOS
+* Anosmia * Tosse persistente + * Sindrome Respiratória
+* Ageusia febre persistente diária Aguda Grave — Síndrome
+* Coriza O Gripal que apresente:
+ias * Tosse persistente +
+* Dor abdominal piora progressiva de ou- . ae
+* Febre tro sintoma relacionado Sra pressao
+* Mialgia a COVID-19 (adinamia, | persistente no Tórax OU
+DETO So) prostração, hiporexia, saturação de O2 menor
+. ) diarreia) ou que 95% em ar ambien-
+é a o te OU coloração azulada
+* Cefaleia
+
+* Pelo menos um dos
+sintomas acima + pre-
+sença de fator de risco
+
+ 
+
+ 
+
+de lábios ou rosto
+
+* Hipotensão
+
+ 
+
+ 
+
+Orientação para
+
+ 
+
+ 
+
+ 
+
+rss Ra ofem FASE 1 FASE 2 FASE 3
+o o o o Á) o
+GESTANTES 1º AO 5º DIA 6º AO 14º DIA APOS O 14º DIA
+SINAIS E Difosfato de cloroquina Prescrever
+SINTOMAS =D1: 500mg 12/12h (300 mg de medicamento
+LEVES cloroquina base) sintomático
+
+ 
+
+=D2 ao DS: 500 mg 24/24h (300
+
+mg de cloroquina base)
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+45
+
+ 
+ 
+
+ 
+
+Orientação para
+
+ 
+
+ 
+
+ 
+
+Eres o fem FASE 1 FASE 2 FASE 3
+o o o o Á o
+GESTANTES 1º AO 5º DIA 6º AO 14º DIA APOS O 14º DIA
+Difosfato de cloroquina Afastar outras
+SINAIS E =D1: 500 mg 12/12h (300 mg causas de gravidade
+SINTOMAS de cloroquina base) (Pré-eclâmpsia e
+MODERADOS HELLP).
+
+ 
+
+=D2 ao D5: 500 mg
+
+24/24h
+
+(300 mg de cloroquina base)
+
++
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+Avaliar presença de
+infecção bacteriana.
+Considerar realiza-
+ção de TC e exames
+laboratoriais.
+Avaliar necessidade
+de internação.
+Avaliação fetal com
+Ecografia por risco
+de Restrição de
+Crescimento
+Intra-Uterino.
+Não há contra-indi-
+cação da amamen-
+tação (observar
+cuidados com
+máscara e lavagem
+das mãos).
+Via de parto por indi-
+cação obstétrica.
+
+ 
+
+46
+
+ 
+ 
+
+ 
+
+Orientação para
+
+ap FASE 1 FASE 2 FASE 3
+prescrição em
+
+1º AO 5º DIA 6º AO 14º DIA APÓS O 14º DIA
+
+ 
+
+ 
+
+ 
+
+GESTANTES
+SINAIS E Internação hospitalar
+
+SINTOMAS - Afastar outras causas de gravidade
+GRAVES - Avaliar presença de infecção bacteriana
+
+- Considerar imunoglobina humana
+
+- Considerar anticoagulação
+
+- Considerar pulsoterapia com corticóide
+
+- Considerar uso de corticóide para maturação pulmonar
+conforme protocolos convencionais
+
+- Se Síndrome respiratória aguda grave, antecipar a resolu-
+ção do parto (considerar parto instrumental/via alta)
+
+Difosfato de cloroquina
+
+=D1: 500 mg 12/12h (300 mg de cloroquina base)
+
+=D2 ao D5: 500 mg 24/24h (300 mg de cloroquina base)
++
+
+Azitromicina
+
+=500mg 1x ao dia, durante 5 dias
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. NOTAS EXPLICATIVAS
+
+1. Apesar de serem medicações utilizadas em diversos protocolos e de possuí-
+rem atividade in vitro demonstrada contra o coronavírus, ainda não há meta-análises de
+ensaios clinicos multicêntricos, controlados, cegos e randomizados que comprovem o
+beneficio inequívoco dessas medicações para o tratamento da COVID-19. Assim, fica
+a critério do médico a prescrição, sendo necessária também a vontade declarada do
+paciente, conforme modelo anexo. No caso de pacientes pediátricos ou de pacientes
+incapacitados, é necessário o termo de consentimento livre e esclarecido assinado pelos
+pais ou responsáveis legais, esclarecendo os possíveis efeitos adversos da medicação.
+
+2. O uso das medicações está condicionado à avaliação médica, com realização de
+anamnese, exame físico e exames complementares, em Unidade de Saúde.
+
+3. Os critérios clínicos para início do tratamento em qualquer fase da doença não
+excluem a necessidade de confirmação laboratorial e radiológica.
+
+4. São contra-indicações absolutas ao uso da Hidroxicloroquina: retinopatia/macu-
+lopatia secundária ao uso do fármaco já diagnosticada, hipersensibilidade ao fármaco e
+
+47
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+miastenia grave.
+
+5. Não há necessidade de ajuste da dose de hidroxicloroquina para insuficiência re-
+nal (somente se a taxa de filtração glomerular for menor que 15) ou insuficiência hepática.
+
+6. O risco de retinopatia é menor com o uso da hidroxicloroquina. A retinotoxicidade
+relaciona-se com a dose acumulada. No caso da cloroquina, o risco aumenta de modo
+significativo quando a dose cumulativa excede 300 gramas. No caso da hidroxicloroqui-
+na, há maior risco com doses cumulativas que ultrapassam 1.000 gramas.
+
+7. Não coadministrar hidroxicloroquina com amiodarona e flecainida. Há interação
+moderada da hidroxicloroquina com: digoxina (deve haver monitoramento), ivabradina e
+propafenona, etexilato de dabigatrana (reduzir dose de 220 mg para 110 mg), edoxabana
+(reduzir dose de 60 mg para 30 mg). Há interação leve com verapamil (diminuir dose) e
+ranolazina.
+
+8. Em crianças, dar sempre prioridade ao uso de hidroxicloroquina pelo risco de
+toxicidade da cloroquina.
+
+9. Cloroquina deve ser usada com precaução em portadores de doenças cardíacas,
+hepáticas ou renais, hematoporfiria e doenças mentais.
+
+10. Cloroquina deve ser evitada em associação com: clorpromazina, clindamicina,
+estreptomicina, gentamicina, heparina, indometacina, tiroxina, isoniazida e digitálicos.
+
+11. Avalie as interações com outros medicamentos, especialmente em pacientes
+críticos ou oncológicos. Medicamentos que podem prolongar o intervalo QT incluem: azi-
+tromicina, voriconazol, ondasetrona, metadona, ciprofloxacina, clorpromazina, cisaprida,
+risperidona e domperidona. Se QTc for superior a 450 milissegundos, não se deve iniciar
+a hidroxicloroquina. Se prolongamento do QTc for acima de 25% da linha de base, o tra-
+tamento deve ser suspenso.
+
+12. Para pacientes hospitalizados com sinais de gravidade e evidências laborato-
+riais de “tempestade de citocinas”, considerar anticoagulação e pulsoterapia com corticói-
+de. Antes do primeiro pulso de corticoterapia, realizar profilaxia anti-helmíntica.
+
+13. Para pacientes com sinais e sintomas moderados, considerar anticoagulação
+profilática se a oximetria estiver abaixo de 95% ou na presença de qualquer sinal ou sin-
+toma respiratório (tosse, dispnéia etc.) quando não for possível realizar a oximetria.
+
+14. Para pacientes hospitalizados, observar e iniciar o tratamento precoce para
+pneumonia nosocomial, conforme protocolo da Comissão de Controle de Infecções Hos-
+pitalares (CCIH) local.
+
+418
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+15. Nos pacientes com deficiência ou presunção de deficiência de vitamina D, con-
+siderar a reposição conforme necessidade clínica.
+
+16. Investigar e tratar anemia.
+
+17. Considerar a administração de sulfato de zinco concomitante ao tratamento
+
+com cloroquina/hidroxicloroquina + azitromicina.
+
+18. Monitorar o uso de anticoagulantes.
+
+19. Exames laboratoriais de relevância na COVID-19: hemograma completo, TP,
+TTPA, fibrinogênio, D-dímero, proteina C-reativa (de preferência ultra sensível); AST
+(TGO), ALT (TGP), Gama-GT, creatinina, uréia, glicemia, ferritina, Desidrogenase Láti-
+ca, troponina, CK-MB, Pró-BNP, 25 OHVitamina D, íons (Na/K/Ca/Mg), RT-PCR SARS-
+-Cov-2, sorologia ELISA IGM IGG para SARS-Cov-2, teste molecular rápido para coro-
+navírus.
+
+20. Exames complementares de relevância na COVID-19: Eletrocardiograma e To-
+mografia Computadorizada de TÓRAX.
+
+21. A Sociedade Brasileira de Cardiologia recomenda a realização de Eletrocardio-
+grama (ECG) em adultos no primeiro, terceiro e quinto dias do tratamento com cloroquina
+ou hidroxicloroquina com associação eventual com azitromicina. Em pacientes pediátri-
+cos, realizar ECG antes da introdução de Cloroquina ou Hidroxicloroquina e monitora-
+mento cardíaco durante a hospitalização, com controle do ECG em 48 horas.
+
+22. Cada comprimido de 250 mg de Difosfato de Cloroquina equivale a 150 mg de
+cloroquina base. A dose máxima diária de cloroquina base não deve exceder 25 mg/Kg.
+
+23. Para crianças com quadro sistêmico grave e que apresentem elevação do Ddi-
+mero acima de 3 vezes o valor de referência normal, considerar anticoagulação.
+
+24. Crianças com asma devem manter o seu tratamento ambulatorial (corticosteroi-
+des inalados, broncodilatadores de longa ação, imunobiológicos ou imunoterapia).
+
+25. No âmbito do enfrentamento à pandemia, o Departamento de Ciência e Tecnolo-
+gia (DECIT/SCTIE/MS) produz sínteses de evidências científicas para subsidiar a tomada
+de decisão do gestor federal do Sistema Único de Saúde. Desta forma, cabe destacar
+que produz os INFORMES DIÁRIOS DE EVIDÊNCIAS - COVID-19 com o objetivo de
+informar sobre as principais evidências científicas descritas na literatura internacional so-
+bre tratamento farmacológico para a COVID-19. Além de resumir cada estudo identifica-
+do, os informes apresentam uma avaliação da qualidade metodológica e a quantidade de
+artigos publicados, de acordo com a sua classificação metodológica (revisões sistemá-
+
+49
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+ticas, ensaios clínicos randomizados, entre outros). Os informes são elaborados desde
+06 de abril de 2020. Até o momento, foram produzidos 71 informes, o que corresponde
+a um total de mais de 1000 artigos analisados. Os informes podem ser consultados em,
+https://coronavirus.saude.gov.br/profissional-gestor. As evidências sobre prevenção e
+tratamento da COVID-19 são objeto de constante monitoramento desse Departamento,
+pois trata-se de informação crucial no enfrentamento da pandemia.
+
+26. Em cumprimento à decisão proferida nos autos da Ação Civil Pública nº
+5030353-65.2020.4.02.5101/RJ, da 15º Vara Federal do Rio de Janeiro, conforme Pa-
+recer de Força Executória nº 00034/2020/CGJ/PRU2R/PGU/AGU, de 03/07/2020
+(http://saude.gov.br/images/pdf/2020/July/16/decisao-judicial.pdf) são partes integrantes
+do presente documento:
+
+|) Ofício nº 69/2020/VICE-PRES GESTÃO DESENVOL INSTITUCIONAL/
+FIOCRUZ, de 08/06/2020:
+http://saude.gov.br/images/pdf/2020/July/16/OFICIO-69-2020-VICE-PRES-
+GESTAO-DESENVOL-INSTITUCIONAL-FIOCRUZ.pdf
+Il) Nota Técnica nº 102/2020/SEI/GADIP-CG/ANVISA, de 05/06/2020:
+http://saude.gov.br/images/pdf/2020/July/16/NOTA-TECNICA-102-2020-SEI-
+
+GADIP-CG-ANVISA.pdf
+
+6. INFORMAÇÕES COMPLEMENTARES
+
+6.1. Coordenação
+
+Antônio Elcio Franco Filho (Secretaria Executiva - Ministério da Saúde — Brasília, DF)
+Arnaldo Correia de Medeiros (Secretário de Vigilância em Saúde - Ministério da
+Saúde — Brasília, DF)
+
+Raphael Camara Medeiros Parente (Secretário de Atenção Primária à Saúde -
+Ministério da Saúde — Brasília, DF)
+
+Luiz Otávio Franco Duarte (Secretário de Atenção Especializada à Saúde -
+Ministério da Saúde — Brasília, DF)
+
+Mayra Isabel Correia Pinheiro (Secretária de Gestão do Trabalho e da Educação
+na Saúde - Ministério da Saúde — Brasília, DF)
+
+Robson Santos da Silva (Secretário Especial de Saúde Indígena - Ministério da
+Saúde — Brasília, DF)
+
+Hélio Angotti Neto (Secretário de Ciência, Tecnologia, Inovação e Insumos
+Estratégicos em Saúde — Ministério da Saúde — Brasília, DF)
+
+ 
+
+20
+
+ 
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+6.2. Elaboração e Revisão Técnica
+
+Alessandro Glauco dos Anjos de Vasconcelos (Ministério da Saúde — Brasília, DF)
+Francisco Eduardo Cardoso Alves (Instituto de Infectologia Emilio Ribas/SES —
+São Paulo)
+
+Francisco José Costa Eleutério (Universidade Estadual do Ceará; Hospital Geral
+de Fortaleza — Fortaleza, CE)
+
+Gerlane Baccarin (Instituto de Modernização Pública — Governo do Estado de
+Roraima)
+
+Hélio Angotti Neto (Ministério da Saúde — Brasília, DF)
+
+João Marcos de Meneses e Silva (Hospital Universitário de Brasília / UnB;
+Hospital da Região Leste / SES — Brasília, DF)
+
+José Roberto Fioretto (Faculdade de Medicina de Botucatu; Associação de
+Medicina Intensiva Brasileira — São Paulo, SP)
+
+Juang Horng Jyh (Associação de Medicina Intensiva Brasileira — São Paulo, SP;
+Hospital Municipal “Dr. Carmino Caricchio” — Tatuapé, SP)
+
+Laura Tiriba Appi (Ministério da Saúde — Brasília, DF)
+
+Lígia Helena Ferreira Melo e Silva (Hospital Materno Infantil de Brasília/SES,;
+Hospital Universitário de Brasília /UnB — Brasília, DF)
+
+Mário Ferreira Carpi (Faculdade IBCMED; Associação de Medicina Intensiva
+Brasileira; Sociedade Paulista de Terapia Intensiva — São Paulo, SP)
+
+Mayra Isabel Correia Pinheiro (Ministério da Saúde — Brasília, DF)
+
+Thallys Ramalho Suzart (Sociedade Brasileira de Pediatria — Rio de Janeiro, RJ;
+Hospital Santa Helena de Brasília - Campinas, SP)
+
+6.3. Colaboração
+
+Adelaide Martins Alves
+
+Ana Carolina Menezes da Silva Braga
+Bruna Gisele de Oliveira
+
+Camila Ferreira Alves Simões
+
+Demétrio de Lacerda Caetano dos Santos
+Etna de Jesus Leal
+
+Evandro Medeiros Costa
+
+Felipe Fagundes Soares
+
+24
+ 
+
+ 
+
+ 
+
+Fernanda Luiza Hamze
+
+Luana Gonçalves Gehres
+
+Lucas Santos Ávila
+
+Luciana Guilhem de Matos
+
+Mariana de Carvalho e Vasconcelos
+Pâmela Moreira Costa Diana
+
+Paulo da Fonseca Valença Neto
+Silvia Lustosa de Castro
+
+6.4. Diagramação
+Calia, com supervisão do Ministério da Saúde
+
+6.5. Citação Sugerida
+
+BRASIL. MINISTÉRIO DA SAÚDE. Orientações do Ministério da Saúde para
+Manuseio Medicamentoso Precoce de Pacientes com Diagnóstico da COVID-19.
+Brasília, DF: Ministério da Saúde, 2020, 36 p.
+
+REFERÊNCIAS:
+
+ASSOCIAÇÃO BRASILEIRA DE NUTROLOGIA. Posicionamento
+da AssociaçãoBrasileira de  Nutrologia  (ABRAN) a respeito de
+micronutrientes e probióticos na infeção por COVID-19. Internet,
+https://abran.org.br/2020/05/01/posicionamento-da-associacao-brasileira-de-
+nutrologia-abran-a-respeito-de-micronutrientes-e-probioticos-na-infeccao-por-covid-19/
+BERGHELA, Vincenzo. Coronavirus disease 2019 (COVID-19): Pregnancy
+issues. UpToDate. Internet, https:/Amww.uptodate.com/contents/coronavirus-
+disease-2019-covid-19-pregnancy-issues?search=covid%20pregnan-%20
+cy&source=search result&selectedTitle=2-150&usage type=de-%20
+fault&display rank=2$H3682062658
+
+. BERTSIAS, George K; TEKTONIDOU, Maria; AMOURA, Zahir; et al. Joint
+European League Against Rheumatism and European Renal Association—
+European  Dialysis and  Transplant Association (EULAR/ERA-EDTA)
+recommendations for the management of adult and paediatric lupus nephritis.
+Annals of the Rheumatic Diseases, vol. 71(11), 2012, p. 1771- 1782. Internet,
+
+https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMC3465859/
+
+ 
+
+>
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+4. BOELIG, Rupsa C.; MANUCK, Tracy; OLIVER, Emily A; et al.
+Labor and Delivery  Guidance for  COVID-19. American Journal
+of Obstetrics & Gynecology, vol. 2(2), 2020, p. 1-10. Internet,
+https://Awww.sciencedirect com/science/article/pii/S2589933320300409?via%3Dihub
+
+5. BOWLING, Brad. Kanski Oftalmologia Clínica. Uma abordagem sistêmica. 8º edição.
+Rio de Janeiro: Elsevier, 2016, p. 853.
+
+6. BRASIL. MINISTÉRIO DA SAÚDE. SECRETARIA DE ATENÇÃO ESPECIALIZADA
+EM SAÚDE. Protocolo de manejo clínico da Covid-19 na Atenção Especializada.
+Internet, https://portalarquivos.saude.gov.br/images/pdf/2020/April/14/Protocolo-de-
+Manejo-Cl--nico-para-o-Covid-19.pdf
+
+7. BRASIL. MINISTÉRIO DA SAÚDE. SECRETARIA DE CIÊNCIA,
+TECNOLOGIA E INSUMOS ESTRATÉGICOS EM SAÚDE. Diretrizes
+para Diagnóstico e Tratamento da COVID-19. Versão 3. Internet,
+https://portalarquivos.saude.gov.br/images/pdf/2020/April/18/Diretrizes-Covid19.pdf
+
+8. BRASIL. MINISTÉRIO DA SAÚDE. SECRETARIA DE VIGILÂNCIA SANITÁRIA.
+Guia de Vigilância Epidemiológica. Emergência de Saúde Pública de Importância
+Nacional pela Doença pelo Coronavírus 2019. Vigilância Integrada de Síndromes
+Respiratórias Agudas Doença pelo Coronavírus 2019, Influenza e outros vírus res-
+piratórios (03/04/2020). Brasília, Distrito Federal: Ministério da Saúde, 2020, p. 8.
+
+9. BROWNING, David J. “Pharmacology of Chloroquine and Hydroxychloroquine”. In:
+Hydroxychloroquine and Chloroquine Retinopathy. New York, NY: Springer, 2014, p.
+35-63. Internet, https:/link.springer com/chapter/10.1007/978-1-4939-0597-3 2éciteas
+
+10. CARLUCCI, Philip; AHUJA, Tania; PETRILLI, Christopher M.; et al.
+Hydroxychloroquine and azithromycin plus Zzinc vs hydroxychloroquine and
+azithromycin alone: outcomes in hospitalized COVID-19 patients. medRxiv preprint.
+Internet, https://doi.org/10.1101/2020.05.02.20080036
+
+11. CHAMIEH, Amanda; AFIF, Claude; EL-HAJJ, Girard; et al. Viral Dynamics
+Matter in COVID-19 Pneumonia: the success of early treatment with
+hydroxychloroquine and azithromycin in Lebanon. MedkRxiv preprint. Internet,
+https:/Awmww. medrxiv.org/content/10.1101/2020.05.28.20114835v1
+
+12. CHAUHAN, A. & TIKOO, A. The enigma of the clandestine association between
+chloroquine and HIV infection. HIV Medicine, vol. 16(10), 2015, p.585-590. Internet,
+https://onlinelibrary.wiley.com/doiffull/10.1111/hiv 12295
+
+ 
+
+23
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+13. CHEN, Jun; LIU, Danping; LIU, Ping; et al. A pilot study of hydroxychloroquine
+in treatment of patients with common coronavirus disease-19 (COVID-19).
+Journal of Zhejiang University, issue 2, 2020, p. 215-219. Internet,
+http:/Awww.zjujournals.com/med/EN/10.3785/j issn.1008-9292.2020.03.03
+
+14. CHEN, Zhaowei; HU, Jijia; ZHANG, Zongwei; et al. Efficacy of hydroxychloroquine
+in patients with COVID-19: results of a randomized clinical trial. medRxiv preprint,
+Internet, https:/Avww.medrxiv.org/content/10.1101/2020.03.22.20040758v3
+
+15. CHINA. MULTICENTER COLLABORATION GROUP OF DEPARTMENT OF
+SCIENCE AND TECHNOLOGY OF GUANGDONG PROVINCE AND HEALTH
+COMMISSION OF GUANGDONG PROVINCE FOR CLOROQUINE IN THE
+TREATMENT OF NOVEL CORONAVIRUS PNEUMONIA. Expert consensus
+on chloroquine phosphate for the treatment of novel coronavirus pneumonia.
+Zhonghua Jie He He Hu Xi Za Zhi, vol. 43 (3), 2020, p. 185-8. Internet,
+https://pubmed.ncbi.nim.nih.gov/32164085/
+
+16. CHIOTOS, Kathleen; HAYES, Molly, KIMBERLIN, David W.; et al. Multicenter initial
+guidance on use of antivirals for children with COVID-19/SARS-CoV-2. Journal of
+the Pediatric Infectious Disease Society, publicado em 22 de abril, 2020. Internet,
+https://pubmed.ncbi.nim.nih.gov/32318706/
+
+17. COLSON, Philippe; ROLAIN, Jean-Marc; LAGIER, Jean-Christophe; et al.
+Chloroquine and hydroxychloroquine as available weapons to fight COVID- 19.
+International Journal of Antimicrobial Agents, vol. 55 (4), 2020, 105932. Internet,
+https://doi.org/10.1016/jijantimicag.2020.105932
+
+18. CONSELHO FEDERAL DE MEDICINA. Processo-Consulta CFM
+nº 8/2020 — Parecer CFM nº 4/2020. Tratamento de pacientes
+portadores de COVID-19 com cloroquina e hidroxicloroquina. Internet,
+http:/Ayww. saude. mppr.mp.br/arquivos/File/Corona/CF M/6.pdf
+
+19. CORRÊA, Thiago Domingos; MATOS, Gustavo Faissol Janot de; BRAVIM, Bruno
+de Arruda; et al. Recomendações de suporte intensivo para pacientes graves com
+infeccção suspeita ou confirmada pela COVID-19. Einstein (São Paulo). 29 de
+maio de 2020. Internet, https://journal.einstein.br/pt-br/article/recomendacoes-de-
+suporte-intensivo-para-pacientes-graves-com-infeccao-suspeita-ou-confirmada-
+pela-covid-19/
+
+ 
+
+DA
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+20. CORTEGIANI, Andrea; INGOGLIA, Julia; IPPOLITO, Mariachiara; et al. A
+systematic review on the efficacy and safety of chloroquine for the treatment
+of COVID-19. Journal of Critical Care, vol. 57, 2020, p. 279-283. Internet,
+https://doi.org/10.1016/j jerc.2020.03.005
+
+21. CZUPPON, Peter; DÉBARRE, Florence; GONÇALVES, Antonio; et al. Predicted
+success of prophylactic antiviral therapy to block or delay SARSCoV-2 infection
+depends on the targeted mechanism. medkRxiv preprint, publicado em maio — online.
+Internet, https://doi.org/10.1101/2020.05.07.20092965
+
+22. DAVIDO, Benjamin; LANSAMAN, Thiebaud; BESSIS, Simon; et al.
+Hydroxychloroquine plus azithromycin: a potential interest in reducing inhospital
+morbidity due to COVID-19 pneumonia (HI-ZY-COVID)? medRxiv preprint, publicado
+em maio — online. Internet, https://doi.org/10.1101/2020.05.05.20088757
+
+23. DEVAUX, Christian A; ROLAIN, Jean-Marc; COLSON, Philippe; RAOULT, Didier.
+New insights on the antiviral effects of chloroquine against coronavirus: what to expect
+for COVID-19? International Journal of Antimicrobial Agents, publicado em março —
+online, 2020, 105938. Internet, https://doi.org/10.1016/jijantimicag.2020. 105938
+
+24. DIVALA, Titus H.; MUNGWIRA, Randy G.; MAWINDO, Patrícia M.; et al. A
+Randomized, Controlled Clinical Trial of Chloroquine as Chemoprophylaxis or
+Intermittent Preventive Therapy to Prevent Malaria in Pregnancy in Malawi.
+Lancet Infectious Diseases, vol. 18 (10), 2018, p. 1097-1107. Internet,
+https:/Awmww.ncbi.nim.nih.gov/pmc/articles/PMC6217965/
+
+25. DONATELLI, Isabela; CAMPITELLI, Laura; DI TRANI, Livia et
+al. Characterization of  H5BN2 influenza viruses from alan poultry.
+Joumal of General YVirolology, vol. 82 (3), 2001, p. 62330. Intemet,
+https:/Amww microbiologyresearch.org/contentfjoumal/gv/10.1099/0022-1317-82-3-623
+
+26. ESCOLA DE MEDICINA FETAL DE BARCELONA. Coronavírus (COVID-19) y
+embarazo. Internet, https://medicinafetalbarcelona.org/protocolos/es/patologia-
+materna-obstetrica/covid19-embarazo.html
+
+27.EUROPEANMEDICINESAGENCY.COVID-19: chloroquine andhydroxychloroquine
+only to be used in clinical trials or emergency use programmes. Publicado em
+abril — online. Internet, https://www.ema.europa.eu/en/news/covid-19-chloroquine-
+
+hydroxychloroquine-only-be-used-clinical-trials-emergency-use-programmes
+
+ 
+
+5
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+28. FEDERAÇÃO BRASILEIRA DAS ASSOCIAÇÕES DE GINECOLOGIA
+E OBSTETRÍCIA. Protocolo de Atendimento no Parto, Puerpério e
+Abortamento durante a Pandemia da COVID-19. Internet,
+https:/portaldeboaspraticas.ififiocruz.br/atencao-mulher/covid-19-orientacoes-da-febrasgo-para-avaliacao-e-tratamento-ambulatorial-de-gestantes/
+
+29. FERNANDES, Tadeu Fernando. Suplementação de Nutrientes. Boletim da
+Sociedade de Pediatria de São Paulo — SPSP, nº 5, 2019, p.4-5. Internet,
+https://www.spsp.org.br/site/asp/boletins/AtualizeA4N5, pdf
+
+30. FRANCO, Lori; FOLI, Andrea; GROFF, Antonella; et al. Optimal suppression of
+HIV replication by low-dose hydroxyurea through the combination of antiviral and
+cytostatic ('virostatic') mechanisms. AIDS, Vol. 19 (11), 2005; p. 1173-81. Internet,
+https://pubmed.ncbi.nim.nih.gov/15990570/
+
+31. FREITAS, Daniella Cabral de; GODOY, Henrique; SILVEIRA, Sergio Antônio Dias
+da. Protocolo Manejo Clínico COVID-19. Material de Apresentação da Prevent
+Senior. Internet, https://static,poder360.com.br/2020/04/protocolo-Prevent-Senior-
+
+tratamento-covid-19,pdf
+32. FRIE, Kerstin & GBINIGIE, Kome. Chloroquine and hydroxychloroquine:
+
+Current evidence for their effectiveness in treating COVID-19. The Centre
+for Evidence-Based Medicine. University of Oxford, 2020. Internet,
+https://www.cebm .net/covid-19/chloroquine-and-hydroxychloroquine-current-
+evidence-for-their-effectiveness-in-treating-covid-19/
+
+33. FUNDAÇÃO OSWALDO CRUZ. Nota Técnica Orientações sobre o usoda Cloroquina para
+tratamentodepacientesinfectadoscomSARS-CoV-2 agenteetiológicodaCovid-19. Internet,
+htips:/porta, focruz br'sites/portal fiocruz brffles/documentos/orientacoes sobre a doroguina nota tecnica pf
+
+34. GAO, Jianjun; TIAN, Zhenxue; YANG, Xu. Breakthrough: Chloroquine phosphate
+has shown apparent efficacy in treatment of COVID-19 associated pneumonia in
+clinical studies. Bioscience Trends, vol. 14 (1), 2020, p. 72-78. Internet:
+https://doi.org/10.5582/bst.2020.01047
+
+35. GAUTRET Philippe; LAGIER, Jean-Christophe; PAROLA, Philippe; et
+al. Hydroxychloroquine and azithromycin as a treatment of COVID-9:
+results Hydroxychloroquine and azithromycin as a treatment of COVID-19:
+
+results of an open-label non-randomized clinical trial. International Journal
+
+ 
+
+ 
+
+6
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+36. GORDON, David E. JANG, Gwendolyn; BOUHADDOU,  Mehdi;
+et al. A SARCoV-2 protein interaction map reveals targets for drug
+repurposing. Nature, publicado em março — online, 2020. Internet,
+https:/Awww.nature.com/articles/s41586-020-2286-9 reference, pdf
+
+37. HOSPITAL ALEMÃO OSWALDO CRUZ. Estudo clínico randomizado, pragmático,
+aberto, avaliando Hidroxicloroquina para prevenção de Hospitalização e
+Complicações Respiratórias em pacientes ambulatoriais com diagnóstico
+confirmado ou presuntivo de Infecção pelo (COVID-19). Ensaios Clínicos. Internet,
+http:/Awww ensaiosclinicos.gov.br/rg/RBR-3cbs3w/
+
+38. HOSPITAL ISRAELITA ALBERT EINSTEIN. Manejo Novo Coronavírus (COVID-
+19). Material de Apresentação do Hospital Israelita Albert Einstein. Internet,
+https://bitylicom/40aZH
+
+39. HOSPITAL ISRAELITAALBERT EINSTEIN. Safety and Efficacy of Hydroxychloroquine
+Associated With Azithromycin in SARS-CoV2 Virus (Coalition Covid-19 Brasil Il). Clinical
+Trials. Internet, https://bitylicom/3Bkii
+
+40. HUANSG, Mingxing; LI, Man; XIAO, Fei; et al. Preliminary evidence from a multicen-
+ter prospective observational study of the safety and efficacy of chloroquine for the
+treatment of COVID-19. medRxiv preprint, publicado em maio - online, 2020. Inter-
+net, https:/Awww.medrxiv.org/content/10.1101/2020.04.26.20081059v1
+
+41. JONES, Gareth; WILLETT, Peter; GLEN, Robert C.; et al. Development and
+validation of a genetic algorithm for flexible docking. Journal of Molecular Biology,
+vol. 267 (3), 1997, p. 727-48. Internet, https://doi.org/10.1006/jmbi. 1996.0897
+
+42. JOSEPH, Tinku. International Pneumologist's Consensus On
+COVID-19 — 2nd Edition, Published on 22nd april 2020. Internet,
+hitps://www.saudedafamilia.org/coronavirus/artigos/international pulmonologists consensus.pdf
+
+43. JOSHI, Shashank R.; BUTALA, N; PATWARDHAN, Madura; et al. Low
+cost anti- retroviral options: chloroquine based ARV regimen combined with
+hydroxyurea and lamivudine: a new economical triple therapy. The Journal
+of the Association of Physicians of India, vol 52, 2004, p. 597-598. Internet,
+https://pubmed.ncbi.nim.nih.gov/15645995/
+
+44. KAAPOR, Krishan Mohan & KAAPOR, Aanandita. Role of Chloroquine and
+Hydroxychloroquine in the Treatment of COVID-19 Infection- A Systematic
+Literature Review. medRxiv preprint, publicado em março, 2020. Internet,
+https:/Awmww.medrxiv.org/content/10.1101/2020.03.24.20042366v1
+
+ 
+
+7
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+45. KEYAERTS, Els; LI, Sandra; VIJGEN, Leen, et al. Antiviral activity of
+chloroquine against human coronavirus OC43 infection in newborn mice.
+Antimicrobial agents and Chemotherapy, vol. 53 (8), 2009, p. 3416-3421. Internet,
+https://aac.asm.org/content/53/8/3416
+
+46. KEYAERTS, Els; VIJGEN, Leen, MAES, Piet; et al. In vitro inhibition of severe
+acute respiratory syndrome coronavirus by chloroquine. Biochemical and
+Biophysical Research Communications, vol. 323, 2004, p. 264-68. Internet,
+https://pubmed.ncbi.nim.nih.gov/15351731/
+
+47. KIM, Min Seo; JANG, Soon-Woo; PARK, Yu-Kyung; et al. Treatment Response to
+Hydroxychloroquine, Lopinavir-Ritonavir, and Antibioticsfor Moderate COVID-19:AFirst
+Report on the Pharmacological Outcomes from South Korea. MedRvix preprint, maio
+de 2020. Internet, https:/Avww.medrxiv.org/content/10.1101/2020.05.13.20094193v1
+
+48. KWIEK, Jesse J.; HAYSTEAD, Tymothy A. J.; RUDOLPH, Johannes.
+Kinetic mechanism of quinone oxidoreductase 2 and its inhibition by the
+antimalarial quinolines. Biochemistry, vol. 43 (15), 2004, p. 4538-4547. Internet,
+https://pubmed.ncbi.nim.nih.gov/15078100/
+
+49. LALLOO, David G; SHINGADIA, Delane; BELL, David J. UK malaria treatment
+guidelines 2016. Journal of Infection, vol. 72 (6), 2016, p. 635- 649. Internet,
+https:/ftinyurl.com/yygfevap
+
+50. LIU, Jia; CAO, Ruiyuan; XU, Mingyue; et al. Hydroxychloroquine, a less toxic
+derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infection in vitro. Cell
+Discovery, vol. 6(1),2020, p. 16. Internet, https://pubmed.ncbi.nlm.nih.gov/32194981/
+
+51. LIU, Wenzhong & LI, Hualan. COVID-19: Attacks the 1-Beta Chain
+of Hemoglobin and Captures the Porphyrin to Inhibit Human Heme
+Metabolism. Chemkxiv, publicado em abril — online, 2020. Internet,
+hitps:/Ichempdv.org/articles/COVID-19 Disease ORF8 and Surface Glycoprotein Inhibit Heme Metaboism by Binding to Porphyrin/11938173
+
+52. LOPES, Marcelo Antônio Cartaxo Queiroga; OLIVEIRA, Glaucia
+Maria Moraes de; RIBEIRO, Antônio Luiz Pinho. Diretriz da Sociedade
+Brasileira de Cardiologia sobre Telemedicina na Cardiologia — 2019.
+Arquivos Brasileiros de Cardiologia, publicado online, 2019. Internet,
+https:/ftinyurl.com/y5anv3lj
+
+ 
+
+8
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+53. MAHASE, Elisabeth. Covid-19: what treatments are being investigated? British
+Medical Journal, vol. 368, 2020, m1252. Internet, https://doi.org/10.1136/bmjm1252
+
+54. MEHRA, Mandeep R.; RUCHITZKA, Frank; PATEL, Amit N. Retraction—
+Hydroxychloroquine or chloroquine with or withouta macrolide fortreatment of COVID-19:
+a multinational registry analysis. The Lancet, vol. 395(10240), 2020, p. 1820. Internet,
+hitps:/tinyurl.com/yajr224x
+
+55. MEMBRILLO DE NOVALES, Francisco Javier; RAMÍREZ-OLIVENCIA, Germán:
+ESTÉBANEZ, Miriam; et al. Early hydroxychloroquine is associated with an increase
+of survival in COVID-19 patients: an observational study. Preprints, 2020. Internet,
+https:/Awww. preprints.org/manuscript/202005.0057/1
+
+56. MILLER, Douglas K & LENARD, John. Antihistaminics, local anesthetics,
+and other amines as antiviral agents. Proceedings of the National Academy of
+Sciences of the United States of America, vol. 78 (6), 1981, p. 3605-09. Internet,
+https://pubmed.ncbi.nlm.nih.gov/6115382/
+
+57. MILLION, Mathieu; LAGIER, Jean-Christophe; GAUTRET, Philippe; et
+al. Early treatment of COVID-19 patients with hydroxychloroquine and
+azithromycin: A retrospective analysis of 1061 cases in Marseille, France. Travel
+Medicine and Infectious Disease, publicado em maio — online, 2020. Internet,
+https://pubmed.ncbi.nim.nih.gov/32387409/
+
+58. NATIONAL INSTITUTES OF HEALTH. Coronavírus
+Disease 2019 (COVID-19) Treatment Guidelines. Internet,
+https:/ftinyurl.com/y5s4t/6y
+
+59. OLOFSSON, Sigvard; KUMLIN, Urban; DIMOCK, Ken; et al. Avian influenza and
+sialic acid receptors: more than meets the eye? Lancet Infectious Diseases, vol 5
+(3), 2005, p. 184-88. Internet, https://pubmed.ncbi.nlm.nih.gov/15766653/
+
+60. OTEO, José A.; MARCO, Pedro; LEÓN, Luis Ponce de; ROCENRO, Alejandra;
+LOBERA, Teófilo; LISA, Valentin. A short therapeutic regimen based on
+hydroxychloroquine plus azithromycin for the treatment of COVID-19 in patients
+with non-severe disease. A strategy associated with a reduction in hospital
+admissions and complications. MedRvix preprint, 12 de junho de 2020. Internet,
+https:/Awmww. medrxiv.org/content/10.1101/2020.06.10.20101105v1
+
+61. PATON, N. |. & ABOULHAB, J. Hydroxychloroquine, hydroxyurea and didanosine
+as initial therapy for HIV-infected patients with low viral load: safety, efficacy and
+resistance profile after 144 weeks. HIV Medicine, vol. 6, 2005, p. 13-20. Internet,
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/,.1468-1293.2005.00259 x
+
+ 
+
+29
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+62. POON, Liona C.; YANG, Huixia; KAPUR, Anil; et al. Global Interim Guidance on
+coronavirus disease 2019 (COVID-19) during pregnancy and puerperium from
+FIGO and allied partners: Information for healthcare professionals. International
+Journal of Gynecology and Obstetetrics, publicado em abril — online, 2020. Internet,
+https://obgyn.onlinelibrary.wiley.com/doiffull/10.1002/ijgo. 13156
+
+63. RIOU, Bruno; BARRIOT, Patrick; RIMAILHO, Alain; et al. Treatment of Severe
+Chloroquine Poisoning. The New England Journal of Medicine, vol. 318 (1), 1988, p.
+1-6. Internet, https:/Avww.ncbi.nlm.nih.gov/pubmed/3336379
+
+64. RISCH, Harvey A. Early Outpatient Treatment of Symptomatic, High-Risk
+Covid-19 Patients that Should be Ramped-Up Immediately as Key to the Pandemic
+Crisis. American Journal of Epidemiology, 27 de maio de 2020. Internet,
+https:/ftinyurl.com/yao5pvg?
+
+65. RONGHUA, Jin; WU, Zhong. A prospective, open-label, multiple-center study
+for the efficacy of chloroquine phosphate in patients with novel coronavirus
+pneumonia (COVID-19). Chinese Clinical Trial Registry, 2020. Internet,
+http:/Ayww.chictr.org.cn/historyversionpuben.aspx?regno=ChiCTR2000031204
+
+66. ROYAL COLLEGE OF OBSTETRICIANS & GYNAECOLOGISTS. Coronavirus
+(COVID-19) Infection in Pregnancy. Information for healthcare Professionals.
+Version 6. Internet, https:/Awvww.rcog.org.uk/globalassets/documents/
+guidelines/2020-04-03-coronavirus-covid-19-infection-in-pregnancy.pdf
+
+67. ROYAL COLLEGE OF PAEDIATRICS AND CHILD HEALTH (2020). Guidance:
+Paediatric multisystem inflammatory syndrome temporally associated with
+COVID-19. Internet, https://Awww.rcpch.ac.uk/sites/default/files/2020-05/COVID-19-
+Paediatric-multisystem-%20inflammatory%20syndrome-20200501 .pdf
+
+68. RUFATTI, Amelia; TONELLO, Marta; HOXHA, Ariela; et al. Effect of Additional
+Treatments Combined with Conventional Therapies in Pregnant Patients with High-
+Risk Antiphospholipid Syndrome: A Multicentre Study. Thrombosis and Haemostasis,
+vol. 118 (4), 2018, p. 639-646. Internet, https://pubmed.ncbi.nim.nih.gov/29490410/
+
+69. SAHRAEI, Zahra; SHABANI, Minoosh; SHOKOUNI, Shervin; et al. Aminoquinolines
+Against Coronavirus Disease 2019 (COVID-19): Chloroquine or Hydroxychloroquine.
+International Journal of Antimicrobial Agents, vol. 55 (4), 2020, 105945. Internet,
+
+https://pubmed.ncbi.nim.nih.gov/32194152/
+
+ 
+
+30
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+70. SANDERS, James M.; MONOGUE, Marguerite L.; JODLOWSKI, Thomasz
+Z.; et al. Pharmacologic Treatments for Coronavirus Disease 2019
+(COVID-19) A Review. JAMA, vol. 323 (18), 2020, p. 1824-1836. Internet,
+https://jamanetwork.com/journals/jama/fullarticle/2764727
+
+71. SAVARINO, Adrea; BOELAERT, John R.; CASSONE, Antonio; et al. Effects
+of chloroquine on viral infections: an old drug against today's diseases.
+The Lancet Infectious Diseases, vol. 3 (11), 2003, pp./22-727. Internet,
+https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMC7128816/
+
+72. SAVARINO, Adrea; DI TRANI, Livia; DONATELLI, Isabella; et al. New insights into
+the antiviral effects of chloroquine. The Lancet Infectious Diseases, vol. 6 (2), 2006,
+p. 67-69. Internet, https:/Awww.ncbi.nlm.nih.gov/pmc/articles/PMCT7129107/
+
+73. SAVARINO, Adrea; LUCIA, Mothanje B.; RASTRELLI, Elena; et al. Anti-HIV effects
+of chloroquine: inhibition of viral particle glycosylation and synergism with protease
+inhibitors. Journal of Acquired Immune Deficience Syndrome, vol 35 (3), 1996, p.
+223-32. Internet, https:/'tinyurl.com/y6ove9ge
+
+74. SCHWARTZ, David A.; GRAHAM, Ashley L. Potential Maternal and Infant Outcomes
+from (Wuhan) Coronavirus 2019-nCoV Infecting Pregnant Women: Lessons from
+SARS, MERS, and Other Human Coronavirus Infections. Viruses, vol. 12(2), 2020,
+p. 194. Internet, https://pubmed.ncbi.nlm.nih.gov/32050635/
+
+75. SHIBATA, Motohiro; AOKI, Hiizu; TSURUMI, Tatsuya; et al. Mechanism
+of uncoating of influenza B virus in MDCK cells: action of chloroquine.
+Journal of General Virology, vol. 64 (5), 1983, p. 1149-56. Internet,
+https:/Avww.microbiologyresearch .org/content/journal/igv/10.1099/0022-1317-64-5-1149
+
+76. SILVA, Adriana P. R.; VITOLO, Márcia Regina; ZARA, Luis Fabrício; et al. Effects
+of zinc supplementation on 1- to 5-year old children. Jornal de Pediatria, vol. 82
+(3), 2006, p. 227-231. Internet, https:/Awww.scielo.br/scielo.php?pid=S0021-
+75572006000300013&script=sci arttext&ting=en
+
+77. SINGH, Awadhesh Kumar; SINGH, Akriti; SHAIK, Altamash, et al.
+Chloroquine and hydroxychloroquine in the treatment of COVID-19 with or
+without diabetes: A systematic search and a narrative review with a special
+
+reference to India and other developing countries. Diabetes & Metabolic
+
+ 
+
+31
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+Syndrome: Clinical Research & Reviews, vol. 14(3), 2020, p. 241-246. Internet,
+https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMC7102587/
+
+78. SMITH, E. Reed; KLEIN-SCHWARTZ, Wendy. Are 1-2 dangerous?
+Chloroquine and hydroxychloroquine exposure in toddlers. The Journal
+of Emergency Medicine, vol. 28 (4), 2005, p. 437- 443. Internet,
+https:/ftinyurl.com/y6xyjSqn
+
+79. SOCIEDAD LATINOAMERICANA DE CUIDADOS INTENSIVOS PEDIÁTRICOS.
+Recomendaciones del Comité Respiratorio en el Contexto de Infección por SARS-
+-COV2 (COVID 19).
+
+80. SOCIEDADE BRASILEIRA DE PEDIATRIA. DEPARTAMENTO CIENTÍFICO DE
+INFECTOLOGIA. DEPARTAMENTO CIENTÍFICO DE REUMATOLOGIA. Sindrome
+inflamatória multissistêmica em crianças e adolescentes provavelmente associada à
+COVID-19: uma apresentação aguda, grave e potencialmente fatal. Nota de Alerta,
+20 de maio de 2020. Internet, https://tinyurl.com/yyhffqea
+
+81. SOCIEDADE BRASILEIRA DE PEDIATRIA. DEPARTAMENTO
+CIENTÍFICO DE PNEUMOLOGIA. COVID-19 em crianças:
+envolvimento respiratório. Nota de Alerta, 02 de abril de 2020. Internet,
+https:/ftinyurl.com/y4sanqun
+
+82. SOCIEDADE BRASILEIRA DE PEDIATRIA. DEPARTAMENTO CIENTÍFICO
+DE TERAPIA INTENSIVA. COVID-19: Protocolo de Diagnóstico e Tratamento
+em Unidade de Terapia Intensiva Pediátrica. Nota de Alerta, 20 de maio de 2020.
+Internet, https:/ftinyurl.com/y667bjvw
+
+83. TANG, Wei; CAO, Zhujun; HAN, Mingfeng; et al. Hydroxychloroquine
+in patients mainly with mild to moderate COVID-19: an open-label,
+randomized, controlled trial. medkRxiv preprint, maio, 2020. Internet,
+https:/Awww.bmj.com/content/369/bmj.m1849
+
+84. THE LANCET EDITORS. Expression of concern: Hydroxychloroquine
+or chloroquine with or without a macrolide for treatment
+
+of COVID-19: a multinational registry analysis. Internet,
+https:/ftinyurl.com/y6g8frdr
+85. TINKU, Joseph (organizador). International Pulmologist's
+
+Consensus On COVID-19 —- 2nd Edition, 22 de abril 2020. Internet,
+
+https:/Aww.saudedafamilia.org/coronavirus/artigos/international pulmonologists consensus.pdf
+
+ 
+
+32
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+86. VINCENT, Martin J.; BERGERON, Eric; BENJANNET Suzanne; et
+al. Chloroquine is a potent inhibitor of SARS coronavirus infection
+and spread. Virology Journal, vol. 2 (1), 2005, p. 69. Internet,
+https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-2-69
+
+87. WANG, Manli; CAO, Ruiyuan; ZHANG, Leike; et al. Remdesivir and
+chloroquine effectively inhibit the recently emerged novel coronavirus
+(2019-nCoV) in vitro. Cell Research, vol. 30, 2020, p. 269-271. Internet,
+https:/Awww.nature.com/articles/s41422-020-0282-0
+
+88. WORLD HEALTH ORGANIZATION. Multisystem inflammatory syndrome
+in children and adolescents temporally related to COVID-19. Internet,
+https:/ftinyurl.com/ybjjq9vd
+
+89.WU, Chaomin; CHEN, Xiaoyan; CAI, Yanping; etal. RiskFactor Associated With Acute
+Respiratory Distress Syndrome and Deathin Patients With Coronavirus Disease 2019
+Pneumoniain Wuhan, china. JAMAlInternalMedicine, 13demarçoonline,2020. Internet,
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2763184
+
+90. YAO, Xueting; YE, Fei; ZHANG, Miao; et al. In vitro antiviral activity and
+projection of optimized dosing design of hydroxychloroquine for the treatment
+of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Clinical
+Infectious Disease, publicado em março — online, 2020, ciaa 237. Internet,
+https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMCT7108130/
+
+91.YU, Bo; WANG, Dao Wen; LI, Chenze. Hydroxychloroquine application is associated
+with a decreased mortality in critically ill patients with COVID-19. medRxiv preprint.
+Internet, https:/Avww.medrxiv.org/content/10.1101/2020.04.27.20073379v1
+
+92. ZAHN, Zahng. Therapeutic effect of hydroxychloroquine on novel coronavirus
+pneumonia (COVID-19). Chinese Clinical Trial Registry. Publicado em abril — online,
+2020. Internet, http:/Awww.chictr.org.cn/showprojen.aspx? proj=48880
+
+93. ZHAO, Xiaouxuan; JIANG, Yuepeng; ZHAO, Yang; et al. Analysis of
+the susceptibility to COVID-19 in pregnancy and recommendations on
+potential drug screening. European Journal of Clinical Microbiology &
+Infectious Diseases, publicado em abril - online, 2020, p. 1-12. Internet,
+https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMC7178925/
+
+ 
+
+33
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+ANEXO:
+Termo de Ciência e Consentimento (0014934764)
+
+Brasília, 30 de julho de 2020.
+
+Tendo Cida e Copentaneço
+
+Adri orgao Olaias Pes einacdação cas Anivciminiea pra CON TO DR
+
+ 
+
+TACMETICDE TRSTMETO
+
+ 
+
+Fis deita indir ça eres sara ela objca pelo a rica de quem
+rações mandácia ca Istooratemtao pevelarara gositalifaddo cu compre ação de dhagaiadico:
+
+CO METD DS essa pelo comaavinas SARS-CON 3
+E cem Desa painel Ea fa Cica due Earasmeto pescada
+Chemequiaa ses Mbdrecde lola cum associação com Anicrcasivias
+
+ 
+
+5 PROCEDIMENTOS, SE REMENÍCNOS, RESDOS E,
+MITERMATIÇAS.
+
+ 
+
+Fe eee ps) re grp ec é ge p stc e
+
+do A elegeu e a hiedoroequina vo medicaememnos disponiveis fi eiioa anos pu a
+prevenção e trecmento da malária e Gambém para o Socamento de alpomos doenças
+prssiican goto) arinêr preccadedo o ligum dcomfigadisra cheocurs dememnbriram a
+capa degradar de traba a orplicaço da comccançirim-em Enbeoeatona im meri Rm
+matado Braceia centros que 4 eleremação de comsenmnia da garganta de portadoora ds
+VE po mo Voo ps a de a raça do reação A
+E O deibaónco Abfocscasa quicado comparados 4 poricedri que iião tstáramm au docgas
+Estreito não sh ahé 0 mncrhEnD, Esrudos Dalicoeades para pureistor certera de tuelisoea Clinica
+“da peca o CON TU quado o raia fiocnccraçanãa,
+
+2 A Choque e a ledroneioroques podem coma efeitos oolseras como padação «dos
+bend ro a dao. Sin tutaçdo canbisca é omitandan, e aitevaçõem iutcaih por
+
+laço Da pe
+
+Er rito equeo
+asteca puigpenão pode feto grande rio, Eofites ai
+
+Es er e q Rg, Ca cu quo ada da pude
+tau qo ebenos colinas dis amo e cum cc pros ue Empates, x qnto
+podem, becar à Simão de órloc ae prior parei da iréemração, à ieraaridade formporária em
+“pesmememe eco ao bro,
+
+ 
+
+RR E CHA E CORINTO CR CE
+
+ 
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+COVID-19
+
+ 
+
+Tasibéro fia anformando( 1) que andependece do tao dis eloroeunas ou hdrnoro opor merpcunda à
+amo cisa sera macho 0 imumenho padrio e romprovadamendr henelico para mana afzação,
+
+que poe inchcár mediados de suporte da pesparação & oxigenação, ventilação mecsimeca drogas para
+vemtenêar a porucdes e fentadecrr à coração Esrmcecálga q antibaditicos ardor cata Mecaçaas ofimreaim
+agecareáa qae caldo cmo dé
+
+ 
+
+ 
+
+Ps os saca, Isto CRIEI O iii ap simao do pets deseo vota
+A ps oa, ja eira da flores como ia enpeto po prevendo sein.
+
+Essa dedicação é dada sola) soeica(a) dlsisto idemilicacha a bai cora Sra) setindçseras
+cn puro peofica somas) pos ee peiecromdolih,
+
+Tree Exparmitado de me asper tl so prdisa oicadai ve ao pre mieamiai agua der
+dis decmpe recado tósiat ay ceBircispões desse discemsemto, soda de tá dista
+
+Apesar de der endemia explicações que me foram prestadas, de seneem aid esctareridas iodo as
+
+discada e extanão plrmarmertr tasiedrato aj rom st eocedadda reuncoteqmr à erro de
+recegas Este dissenfccanita antes qe eh procedesueadoia | olejst deste dictimarado, me eslaêeias
+
+ 
+
+ 
+
+ 
+
+deleadaesto pura oia) puciratr eu vruli) fesebnteh. ou
+
+respondendo de perpesia: formedado, pico
+CEEE GRE a RENNES Jor é EOeo E é Demdo pres tora
+roeecarado da do proud Fe acenda com o meu redes. o usrirmde quo ra trupe
+Peg todações de sommparneades o jar Bar [o caferpada
+
+ 
+
+Nisaar dia ás E
+
+Ases
+
+ 
+
+oem EM, [odeia | GCRIANM MS ERES CIA Les EAV TV
+
+ 
+
+35
+
+ 
+ 
+
+ 
+
+ 
+
+á B
+ansimaturá
+
+eletrônica
+
+ 
+
+seil a
+
+assinatura
+eletrónica
+
+   
+
+ 
+
+eletrônica
+
+   
+ 
+
+   
+
+se E
+Elnatura
+eleirónica
+
+al Ê
+sei! à
+arsinatura
+eletrônica
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+      
+
+     
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+Documento assinado eletronicamente por Arnaldo Correia de Medei-
+ros ,Secretário(a) de Vigilância em Saúde, em 10/08/2020, às 18:51,
+conforme horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900
+de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Mayra Isabel Correia Pinhei-
+ro, Secretário(a) de Gestão do Trabalho e da Educação na Saúde,
+em 10/08/2020, às 19:01, conforme horário oficial de Brasília, com fun-
+damento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e
+
+art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Raphael Camara Medeiros
+Parente, Secretário(a) de Atenção Primária à Saúde, em 10/08/2020,
+às 19:23, conforme horário oficial de Brasília, com fundamento no art.
+6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Luiz Otavio Franco Duar-
+te, Secretário(a) de Atenção Especializada à Saúde, em 10/08/2020,
+às 20:08, conforme horário oficial de Brasília, com fundamento no art.
+6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Rodrigo dos Santos San-
+tana, Secretário(a) Especial de Saúde Indígena, Substituto(a), em
+10/08/2020, às 20:17, conforme horário oficial de Brasília, com funda-
+mento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e
+art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Hélio Angotti Neto, Secretá-
+rio(a) de Ciência, Tecnologia, Inovação e Insumos Estratégicos em
+Saúde, em 10/08/2020, às 20:46, conforme horário oficial de Brasília,
+com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015;
+
+e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+Documento assinado eletronicamente por Antônio Elcio Fran-
+co Filho, Secretário(a)-Executivo, em 10/08/2020, às 21:11, con-
+forme horário oficial de Brasília, com fundamento no art. 6º, 8
+1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+
+Portaria nº 900 de 31 de Março de 2017.
+Documento assinado eletronicamente por Robson Santos da Sil-
+va, Secretário(a) Especial de Saúde Indígena, em 10/08/2020, às
+22:21, conforme horário oficial de Brasília, com fundamento no art.
+6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da
+Portaria nº 900 de 31 de Março de 2017.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36
+
+ 
+ 
+
+ 
+
+CORONAVÍRUS
+
+ 
+
+COVID-19
+
+A autenticidade deste documento pode ser conferida no site
+https://sei saude.gov.br/sei/controlador externo.php?acao=documento
+
+conferir&id orgao acesso externo=0, informando o código verificador
+0015987248 e o código CRC 2AF1DF28.
+
+ 
+
+Referência: Processo nº 25000.070255/2020-12
+SEI nº 0015987248
+
+*EM SUBSTITUIÇÃO A NOTA INFORMATIVA Nº 11/2020-SE/GAB/SE/MS, QUE
+SUBSTITUIU A NOTA INFORMATIVA Nº 09/2020-SE/GAB/SE/MS PARA INCLU-
+SÃO DO SUBITEM 26 NO ITEM 5. NOTAS EXPLICATIVAS, EM CUMPRIMENTO
+À DECISÃO JUDICIAL PROFERIDA NOS AUTOS DA AÇÃO CIVIL PÚBLICA nº
+5030353-65.2020.4.02.5101/RJ, DA 15º VARA FEDERAL DO RIO DE JANEIRO,
+CONFORNE PARECER DE FORÇA EXECUTÓRIA Nº 00034/2020/CGJ/PRUZR/
+PGU/AGU, DE 03/07/2020.
+
+ 
+
+37
+
+ 
+ 
+
+ 
+
+DISQUE
+SAÚDE PÁTRIA AMADA
+
+36 + 1 eos ZRBRIST
+
+ 
+
+ 
+00100.042618/2021-51
+
+ 
+
+SENADO FEDERAL
+
+Secretaria-Geral da Mesa
+Secretaria de Comissões
+Coordenação de Comissões Especiais, Temporárias e Parlamentares de Inquérito
+
+Oficio nº 54/2021 - CPIPANDEMIA
+
+ 
+
+Brasília, 30 de abril de 2021
+
+A Sua Excelência o Senhor
+Marcelo Queiroga
+Ministro da Saúde
+
+Assunto: Solicitação de informações — Requerimento nº 36-2021/CPIPANDEMIA
+
+Senhor Ministro,
+
+No intuito de instruir os trabalhos da Comissão Parlamentar de Inquérito,
+criada pelos Requerimentos do Senado Federal nº 1371 e 1372, de 2021, para “apurar as
+ações e omissões do Governo Federal no enfrentamento da Pandemia da Covid-19 no
+Brasil; as possíveis irregularidades, bem como outras ações ou omissões cometidas por
+administradores públicos federais, estaduais e municipais, no trato com a coisa pública,
+limitado apenas quanto à fiscalização dos recursos da União repassados aos demais entes
+federados para as ações de prevenção e combate à Pandemia da Covid-19”, e com fulcro
+no art. 148 do Regimento Interno do Senado Federal, e no art. 2º da Lei nº 1.579, de 1952,
+encaminho a Vossa Excelência o Requerimento nº 36/2021 — CPIPANDEMIA, aprovado
+
+na 2º Reunião da CPI da Pandemia, ocorrida no dia 29.04.2021, para atendimento.
+
+A documentação deve ser encaminhada no prazo de 5 (cinco) dias úteis,
+
+em formato digital, para o endereço eletrônico sec.cpipandemia Q senado.leg.br.
+
+Atenciosamente,
+
+Senador Omar Aziz
+Presidente da CPI Pandemia
+
+ 
+
+ 
+
+SENADO FEDERAL - COCET! | Anexo II, Ala Senador Alexandre Costa, Sala 15, Subsolo | CEP 70165-900 | Brasília DF
+Telefone: 455 (61) 3303-3490 sec.cpipandemiaQ senado leg.br
+
+ 
+26/05/2021 SEI/MS - 0020587970 - Ofício
+
+ 
+
+Ministério da Saúde
+Gabinete do Ministro
+Assessoria Parlamentar
+
+OFÍCIO Nº 2710/2021/ASPAR/GM/MS
+
+Brasília, 17 de maio de 2021.
+
+A Sua Excelência o Senhor
+
+Senador OMAR AziZ
+
+Presidente da Comissão Parlamentar de Inquérito da Pandemia - CPIPANDEMIA
+Senado Federal
+
+Praça dos Três Poderes, Anexo Il, Ala Alexandre Costa, sala 15 - Subsolo
+
+CEP 70.165-900 - Brasília/DF
+
+Assunto: Requerimento nº 36/2021 - CPIPANDEMIA - Prestação de informações e remessa de
+documentos, por diversos órgãos, acerca das ações de vigilância no mapeamento da pandemia
+
+Senhor Presidente,
+
+Em resposta ao Ofício n.º 54/2021, dessa Comissão Parlamentar de Inquérito da
+Pandemia - CPIPANDEMIA, referente ao Requerimento de Informação nº 36/2021, de 30 de abril de
+2021, de autoria do Senador Randolfe Rodrigues, encaminho as informações prestadas pelo
+corpo técnico deste Ministério.
+
+Atenciosamente,
+
+MARCELO QUEIROGA
+Ministro de Estado da Saúde
+
+- al
+eletrônica
+
+ 
+     
+   
+  
+
+Documento assinado eletronicamente por Marcelo Antônio Cartaxo Queiroga Lopes, Ministro de
+Estado da Saúde, em 26/05/2021, às 10:27, conforme horário oficial de Brasília, com fundamento no
+art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de
+Março de 2017.
+
+  
+
+ 
+
+el A autenticidade deste documento pode ser conferida no site
+
+http://sei.saude.gov.br/sei/controlador externo.php?
+
+f* acao=documento conferir&id orgao acesso externo=0, informando o código verificador
+0020587970 e o código CRC 9E65BB77.
+
+ 
+
+ 
+
+ei. saude. gov.br/sei/controlador.php?acao=documento imprimir web&acao origem=arvore visualizar&id documento=22452295&infra si... 1/2
+26/05/2021 SEI/MS - 0020587970 - Ofício
+Referência: Processo nº 25000.065529/2021-32 SEI nº 0020587970
+
+Assessoria Parlamentar - ASPAR
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site - saude.gov.br
+
+https://sei saude.gov.br/sei/controlador php 2acao=documento imprimir web&acao origei
+
+ 
+
+rvore visualizar&id documento=22452295&infra si. 212
+CPIPÂANDEMIA
+00036/2021
+
+ 
+
+SENADO FEDERAL
+Gabinete do Senador Randolfe Rodrigues
+
+REQUERIMENTO Nº DE - CPIPANDEMIA
+
+Senhor Presidente,
+
+ 
+
+Requeiro, nos termos do artigo 58, 8 3º, da Constituição Federal e do
+artigo 148 do Regimento Interno do Senado Federal, a prestação de informações e
+a remessa de documentos, por diversos órgãos, acerca das ações de vigilância no
+
+mapeamento da pandemia.
+Informar:
+
+* quais as ações de vigilância em saúde adotadas e implementadas
+com os respectivos indicadores e resultados colhidos;
+
+* número de downloads, por regiões e municípios, do Tratecov;
+
+* nome do responsável técnico pelo estabelecimento das variáveis
+e "regras de negócio" do Tratecov (quem homologou o aplicativo
+aprovando as prescrições previstas); e
+
+* todos os documentos internos do Ministério da Saúde referentes ao
+
+aplicativo Tratecov (notas técnicas, ofícios, atas).
+
+JUSTIFICAÇÃO
+
+O Brasil já superou a terrível marca de 370 mil mortes por Covid-19.
+Chegamos a registrar mais de 4 mil mortes em apenas um dia. Vivemos uma
+tragédia sem precedentes. Infelizmente, os números de novos casos e óbitos
+continuam altíssimos e não há nenhum sinal de que essa tragédia esteja perto do
+
+fim.
+Presenciamos o colapso dos sistemas de saúde pelo país - sem vagas nos
+hospitais para os doentes, pacientes sendo atendidos em corredores. Os sistemas
+funerários do país não conseguem lidar com os altíssimos números de mortos.
+Presenciamos a falta de oxigênio, especialmente no estado do Amazonas. Há
+falta de medicamentos básicos, como sedativos para a intubação dos pacientes,
+
+enquanto sobram medicamentos sem nenhuma comprovação científica.
+
+Hoje, o país é visto como uma ameaça sanitária pelo mundo. Diversos
+países suspenderam voos com o Brasil. Há restrições para a entrada de brasileiros
+em quase todas as nações do planeta. A respeitada organização Médicos sem
+
+Fronteiras classificou a situação do Brasil como uma "catástrofe humanitária",
+
+Só foi possível chegar a essa situação catastrófica por conta dos
+inúmeros e sucessivos erros e omissões do governo no enfrentamento da pandemia
+da Covid-19 no Brasil. Falhas na estratégia de comunicação; nas ações de vigilância
+e mapeamento da pandemia; promoção de tratamentos ineficazes; má gestão das
+necessidades de leitos de UTIs no país; falhas no planejamento de fornecimento de
+insumos básicos como oxigênio, medicamentos, EPIs, testes, respiradores; atraso e
+
+omissão para a compra de vacinas.
+
+Para investigar esses erros e omissões, esta Comissão Parlamentar de
+Inquérito necessita ter acesso a informações e documentos detalhados a respeito
+da gestão do Governo Federal no enfrentamento da pandemia da Covid-19. Para
+isso, propomos a apresentação do presente Requerimento para que a Secretaria
+de Vigilância em Saúde do Ministério da Saúde preste informações e encaminhe
+
+documentos acerca das ações de vigilância no mapeamento da pandemia.
+
+Sala da Comissão, 19 de abril de 2021.
+
+Senador Randolfe Rodrigues
+(REDE - AP)
+
+  
+
+ 
+
+ 
+
+[im
+3
+a
+o
+G
+8
+8
+3
+o
+q
+E
+5
+6 TrateCov
+P BRASIL
+
+MANUAL DA PLATAFORMA
+VERSÃO PRELIMINAR
+
+sus uia [om « ES BRASIL
+
+ 
+Algumas questões inerentes à utilização de Escores Clínicos por médicos, que
+necessitam ser reiteradas para considerar a utilização desta ferramenta de
+apoio à decisão clínica:
+
+1. Considerar somente sintomas novos, não apresentados usualmente, ou com
+padrão diferente do usual, que não possam ser atribuíveis a outras condições
+clínicas, para que sejam contabilizadas para efeitos de pontuação;
+
+2. Não ser aplicável a crianças;
+3. Não aplicável a gestantes; e
+
+4. Qualquer conduta a ser tomada pelo profissional é de sua inteira
+responsabilidade, sendo esta plataforma uma ferramenta de apoio à decisão
+clínica.
+
+€ TrateCov
+
+ 
+FORMULÁRIO CLÍNICO
+
+ 
+
+ 
+
+ 
+
+TrateCov sus
+BRASIL
+
+ 
+
+ 
+
+Formulário C
+
+Esta versãn do TrateCov é um ambiente de simulação que ficará disponível até que sejam realizados e validados ns cadastros.
+pera registro dos profissionais de saúde na plataforma.
+
+Por gentileza, preencher 0 formulário - clicar aqui - e aguarde receber e-mail com seu login e senha.
+
+ 
+
+Provisoriamente, esta plataforma está disoonivel, exclusivamente, para médicos que atiam na secretaria de Saúds do Municipio
+de Manaus, na Secreteria de Saúde do Estado dv Amazonas é Hospitais privados dv Munitípio de Manaus, que precisam de
+urma validação de seus cadastros, realizada pelos gestores.
+
+O Ministério da Saúde esclarece que o TrateCOV orienta opções terapêuticas disponíveis na literatura científica atualizada e
+oferece total autonomis para que o médico decida o melhor tratamento pera o pacienta, de acordo com cada caso. A pasta
+também esclarece que a list: de medicamentos sugeridos na pitaforme pode sofrer alterações da acordo com os estudos
+científicos em andamento.
+
+ 
+
+O TrateCOV é uma ferramenta criada para auxiliar médicos na coleta de sintomas e sinais da COVID-19, desenvolvida para uso,
+exclustun e farulrarivo, de médicas cadastrados. O clagnásrica e a rraramento sugerido pela plataforma, sem a avaliação clínica
+pelo médico habilitado. não possuem validade e não substituem o diagnóstico clínico realizado pelo referido profissional.
+
+ 
+
+ 
+
+ 
+
+Ressalta-se que esta versão disponibilizada da plataforma se trata de um ambiente de
+simulação, armazenada na infraestrutura do DATASUS, garantindo todas as questões
+relacionadas a segurança da informação, cumprindo a legislação vigente que versa sobre o
+assunto.
+
+No survey, que estaria disponível para os médicos cadastrados, todos os dados seriam
+armazenados no Data Lake do DATASUS, integrado aos bancos de dados do E-SUS AB, E-SUS
+PEC e E-SUS Notifica, para que estivessem disponíveis de acordo com os protocolos de
+utilização de dados públicos coletados pelos sistemas de informação do Ministério da Saúde.
+
+€ TrateCov
+
+Cabeçalho com orientação e
+recomendação para utilização da
+plataforma. Trata-se de versão
+disponibilizada para simulação, para
+despertar nos médicos o interesse em
+utilizar a plataforma, devendo, para
+tanto, proceder com seu cadastro, que
+passará por validação.
+
+Caso o médico tenha interesse em
+utilizar a plataforma TrateCOV Brasil,
+ele deverá preencher um formulário
+de cadastro. (Disponível na página 17)
+
+Esta versão da plataforma é destinada,
+exclusivamente, a médicos que atuam
+no município de Manaus, como parte
+integrante das estratégias elaboradas
+para contribuir com a atuação do
+sistema de saúde, na redução dos
+óbitos domiciliares e na melhora do
+fluxo de atendimento nas Unidades
+Básicas de Sáude.
+ 
+
+TELA INICIAL DE PREENCHIMENTO DO
+
+ 
+
+Data de nascimento E omy Idade (anos)
+Sexo ”
+
+Data do atendimento
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Telefone de contato
+
+ 
+
+Horário do atendimento
+
+   
+
+Dados da Unidade de Saúde
+
+ 
+
+Geolocalização - Latitude
+
+Golocalização - Longitude Ena
+
+Nota Informativa n. 17/2020 GAB/SE/MS: Orientações para Mai i
+Pacientes com Diagnóstico da COVID-19 c opções terapêuticas adicionais disponh
+
+ 
+
+mentoso Precoce de
+is na literatura científica.
+
+ 
+
+PÁTRIA AMADA.
+
+ 
+
+Enviar o formulário )
+
+ 
+
+suma | oro, PES BRASIL a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ TrateCov
+
+FORMULÁRIO
+
+Dados de Identificação do Paciente
+- são coletados dados de
+identificação do paciente, como:
+Nome completo; Data de
+nascimento e Idade — este campo
+é calculado automaticamente pela
+plataforma, levando-se em
+consideração a data de
+nascimento; Sexo; Telefone de
+Contato (para que o paciente seja
+cadastrado no sistema de
+telemonitoramento realizado pela
+Secretaria de Saúde do Município
+de Manaus/AM.
+
+Dados Clínicos — são capturados
+automaticamente os dados de
+data de atendimento e hora, não
+necessitando de interação do
+digitador.
+
+Dados da Unidade de Saúde — são
+capturados automaticamente os
+dados de geolocalização (latitude e
+longitude) pela plataforma.
+ 
+
+DADOS DE IDENTIFICAÇÃO DO PACIENTE
+
+Dados de Identificação do Paciente
+
+ 
+
+ 
+
+ 
+
+Nome completo do paciente
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sexo
+
+ 
+
+Data de nascimento
+
+ 
+
+Teste Paciente - Menor de Idade
+Es
+
+13062077 |[89 our
+
+DS
+
+  
+
+nos)
+
+Telefone de contato
+
+ 
+
+[CCI
+
+ 
+
+Dados Clínicos.
+
+Data do atendimento
+
+30-01-2021 | eu
+
+Horário do atendimento
+
+ATENÇÃO
+
+Escore não aplicável a crianças.
+
+ 
+
+ 
+
+Geoloc;
+
+Geoloc;
+
+alização - Latitude
+
+alização - Longitude
+
+Nota Informativa n. 17/2020 GAB/SE/MS: Orientações para Manuseio Medicamentoso Precoce de
+Pacientes com Diagnóstica da COVID-19 e opções terapêuticas adicionais disponíveis na literatura científica
+
+Dados da Unidade de Snúde
+
+sos | og EESBRASIL
+
+| res
+
+ 
+
+ 
+
+Enviar o formulário
+
+ 
+
+ 
+
+A plataforma TrateCOV Brasil só permite
+continuar a inserção de dados para
+pacientes acima de 12 anos, restringindo o
+preenchimento aos infantes, de acordo com
+o perfil de pacientes pesquisados, utilizando
+o Score Clínica AndroCov.
+
+Ainda que qualquer informação indevida
+tenha sido aportada no formulário,
+impactando no diagnóstico clínico sugerido,
+é mister considerar a autonomia
+profissional do médico que ora esteja
+utilizando deste recurso de apoio à decisão
+clínica.
+
+Não há escore clínico que possa substituir o
+julgamento crítico e técnico do médico
+assistente, que está atento a nuances mais
+apropriadas para a definição diagnóstica e
+propedêutica.
+ 
+
+DADOS CLÍNICOS
+
+   
+ 
+ 
+  
+ 
+
+Dados Clínicos.
+
+Data do atendimento Forário do atendimento
+
+   
+
+Data de início dos sintomas EB Cota)
+
+    
+ 
+     
+   
+
+Duração dos sintomas (dias)
+
+Medidas antropométricas
+
+Peso [kg] l
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+Captura de dados clínicos do paciente, como:
+
+Data do atendimento e horário de atendimento —
+estes campos são calculados automaticamente
+pela plataforma;
+
+Data de início dos sintomas;
+
+Duração dos sintomas — este campo é calculado
+automaticamente pela plataforma, a partir da data
+informada no campo Data de início dos sintomas.
+
+Medidas antropométricas:
+
+São coletados os dados de peso e altura, o IMC
+(Índice de Massa Corpórea) é calculado pela
+plataforma, utilizando a fórmula Peso / Altura x
+Altura.
+ 
+
+ 
+
+ 
+
+Nas duas últimas semenas, quantas vezes você frequentou algum dos lugares abaixo?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trabalho I | supermercado! Farmácia
+Bares; Restaurantes | |  Surviços de Saúdo
+Praias Parques I | [Transporte Púbico
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Festas! Showal Comísios!
+Manifestações Lo] (Número sort
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ TrateCov
+
+Dados referentes à rotina do paciente nos últimos dias
+
+Quantas vezes frequentou nas duas últimas semanas:
+
+Trabalho;
+
+Bares / restaurantes;
+
+Praia / parques;
+
+Festas / Shows / Comícios / Manifestações
+Supermercado / Farmácia
+
+Serviço de Saúde;
+
+Transporte Público.
+
+O número total é calculado automaticamente pela
+plataforma.
+
+O Objetivo deste campo é avaliar a relação de casos positivos
+com o número de vezes em que frequentou locais de alto
+risco de contágio, considerando as duas últimas semanas,
+que é o período considerado de possível duração de contágio
+e incubação do coronavírus (contato até início dos sintomas).
+
+Esta é uma informação de alta relevância para o contexto
+epidemiológico, permitindo a redução da dispersão viral.
+MANIFESTAÇÕES CLÍNICAS DA COVID-19
+
+ 
+
+1d Manifestações clínicas da COVID-19 — nesta seção a plataforma apresenta
+entar INTONAS NO. pia arsamados ini ou com Bro eee dna - a 4 a o e
+A O O orientações aos médicos, que deverão, conforme o contexto clínico específico
+
+para aplicação de qualquer escore clínico, ter em mente as considerações a
+seguir:
+
+ 
+
+Consiocas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONSIDERAR somente os SINTOMAS NOVOS, não apresentados usualmente, ou com padrão diferente do usual.
+
+Esses SINTOMAS não podem ser atribuídos a outras condições clínicas apresentadas pelo paciente.
+
+Coleta de dados referentes às manifestações clínicas do paciente, tais como:
+
+SINTOMAS/DADOS EPIDEMIOLÓGICOS ESPECÍFICOS:
+
+  
+
+ 
+
+ 
+
+ 
+
+Om) (Omm 9 Sintomas clínicos com alta especificidade (risco) para casos de Covid19,
+q J Perda te opetite : nana. :
+CE (Demo) considerando a vigência de pandemia:
+Ten
+Em * Presença de anosmia (perda do olfato);
+OD tossesea o iara * Presença de disgeusia (redução do paladar) ou hiposmia (redução do
+S olfato);
+
+ 
+
+Dimenterem |) (O toi * Contato domiciliar com caso confirmado de COVID-19;
+
+* Contato no trabalho com caso confirmado de COVID-19;
+
+simemas de dompue
+
+=) 0»)
+
+O perene) (Dino )
+CI CI ) SINTOMAS INESPECÍFICOS
+
+(6 daremmemiranistenares ) (7 Derreta )
+
+Conjunto de sintomas clínicos que compõem quadros de risco moderado de
+Covidi9:
+
+ 
+
+ 
+
+ 
+
+* Sintomas gripais;
+* Sintomas de dengue;
+* Sintomas gastrointestinais.
+
+ 
+
+ 
+ 
+
+COLETA DADOS REFERENTES AOS SINAIS DE GRAVIDADE
+
+ 
+
+Sinais de alerta de gravidade da COVID-19
+
+Na presença de algum desses sinais: Encaminhar paciente para Unidade de Emergência
+
+ 
+
+ 
+
+  
+
+ 
+
+Sineis de alerta de gravidade da COVID-1S
+Na presença de algum desses sinais: Encaminhar paciente para Unidade de Emergência
+Sinais de Gravidade
+Saturação de oxigênio «92% em ar ambiente?
+Não | Sim
+
+reser
+
+Presença de falta de ar?
+
+Não | Sim
+
++
+
+ESCORE DIAGNÓSTICO
+
+reser
+
+ 
+
+Recomendações TrateCav-Brasil
+
+Principais critérios clínicos para a definição das condutas
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+
+Nimerado Escore o tomas tia)
+O TrateCov
+
+Coleta dados referentes aos sinais de gravidade:
+
+* Saturação de oxigênio < 92% em ar ambiente;
+* Presença de falta de ar.
+
+Na ocorrência desses sinais, além de haver o registro da
+pontuação prevista no escore clínico, está indicado o
+encaminhamento para serviço de urgência, para
+abordagem clínica avançada do paciente.
+
+Cálculo do escore diagnóstico da soma das respostas,
+baseado na calculadora Androcov, conforme proposto
+no referido estudo, pontuações acima de 4 pontos
+indicam moderado risco de Covid-19. Para pontuações a
+partir de 6 pontos, há alto risco de Covid-19, sendo
+indicado abordagem com medidas precoces, como
+isolamento do paciente, notificação, coleta de exames,
+entre outros.
+
+Principais critérios para a definição das condutas —
+apresenta os resumos das descobertas realizadas sobre a
+situação clínica do paciente no preenchimento da
+plataforma TrateCOV Brasil:
+
+a * Número de Fatores de risco;
+
+* Escore da calculadora Androcov;
+*. Tempo de Sintomas apresentados pelo paciente.
+ 
+
+ 
+
+ELI US)
+
+ERR
+Principais critérios clínicos para a definição das condutas
+
+Tempo de
+
+número de
+Escare a sintomas (dias)
+
+fatores da risco
+
+CONDUTA: Solicitar rt-PCR para pacientes com 5 dias ou menos de início dos sintomas.
+
+y
+
+CONDUTA: Considarar a Indicação da Tratamento Precoce
+
+Paciente receberá o tratamento precoce? (= CEB
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ TrateCov
+
+Para qualquer valor acima de 4 pontos, será disponibilizada a opção de
+prescrição/medidas de tratamento precoce da doença, que
+contemplam desde o isolamento social do paciente, perpassando
+medidas farmacológicas, até a introdução do paciente nos
+mecanismos de controle da evolução clínica do caso, tais como
+telemonitoramento e busca ativa do contactante.
+ 
+
+CONDUTA
+
+ 
+
+| CONDUTA Considerar a indicação de Tratamento Precoce |
+
+Pacionto recabará o tratamento precoce? qa * CER
+
+ 
+
+“Difostato de Cloroquina 500mg ---— 6 comprimidos. Tomar 1 comprimido de 12/12 horas no primeiro dia. Apés, ]
+
+“tomar 1 comprimido ao dia, até completar 5 dias.
+
+ 
+
+Hidroxieloroquina 200mg —— 12 comprimidos. Tomar 2 comprimidas de 12/12 horas no primeira dia. Após,
+tomar 2 comprimidos ao dia, até completar 5 dias.
+
+ 
+
+  
+
+Ivermectina 6my —..... Tomar 7 comprimidos ao dia por 5 dias. J
+
+ 
+
+“Acitromicina 500mg -
+
+ 
+
+=== 5 comprimidos, Tomar 1 comprimido ao dia, por 5 dias. J
+
+ 
+
+ 
+
+Doxiciclina 100mg
+
+ 
+
+«=» 18 comprimidos. Tomar 1 comprimido 12/12 horas, por 5 dias.
+
+ 
+
+ 
+
+ 
+
+Sulfatodezinco— ..... 14 comprimidos. Tomar 1 comprimido de 12/12 horas por 7
+dias,
+
+(om Do |
+
+ 
+
+Dexametasona - selecionar a posologia.
+
+Frequência (1 Nomarodediacdo .
+“ e tratamento
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ TrateCov
+
+A prescrição medidas de tratamento precoce da doença,
+contempla, além de condutas farmacológicas, fartamente
+disponíveis na literatura médica e nas orientações do Ministério
+da Saúde, dentre as quais:
+
+* Isolamento do paciente por até 14 dias;
+
+* Notificação do caso suspeito;
+
+* “Solicitação de rt-PCR caso paciente com =< 5dias do início
+dos sintomas;
+
+* “Solicitação de testes sorológicos (IgM e IgG) para
+pacientes com 6 ou mais dias de início dos sintomas;
+
+* Busca ativa dos contactantes do caso suspeito (através de
+cadastro no sistema de telemonitoramento);
+
+* Cadastramento do paciente no sistema de
+telemonitoramento, para controle diário da evolução
+clínica do caso, prevendo abordagem precoce em caso de
+piora clínica, quando disponível;
+
+* Considerar introdução de terapia antiviral, conforme
+notas informativas do MS (Nota Informativa 09 e Nota
+Informativa 17), a critério do médico;
+TERMO DE CIÊNCIA E CONSENTIMENTO DA
+PLATAFORMA
+
+ 
+
+Caso o médico, respeitada sua
+f ] autonomia profissional, decida pela
+ssa | ESBRaSiL ção i
+| gas A BRASIL prescrição de medicamentos
+
+fe TrateCov
+BRASIL
+- disponíveis nas Notas Informativas
+09/2020 e 17/2020 do Ministério da
+
+Termo de Ciência e Consentimento Saúde, que orientam quanto à
+
+utilização de antivirais na fase precoce
+Tratamento Precoce da COVID-19 da covid19, o survey oferece o Termo
+
+z de Ciência e Consentimento Informado
+RECOMENDAÇÕES DO MINISTÉRIO DA SAÚDE
+
+Livre e Esclarecido, conforme Parecer
+Nº 04/2020 (datado de 16 de abril de
+
+De acordo a "Nota Informativa n. 17/2020 GAB/SE/MS: Orientações para Manuseio Medicamentoso Precoce de Pacientes 2020) do Conselho Federal de
+com Diagnóstico da COVID-1S e opções terapêuticas adicionais disponíveis na literature científica”, existe a recomendação para Medicina (CFM).
+o tratamento precoce da COVID-1S, que poderá ser realizado com os seguintes medicamentos:
+
+ 
+
+ 
+
+Associação de Azitromicina ou Doxiciclina com outros medicamentos de potencial ação antiviral: Ivermectina,
+Hidroxicloroquina, Cloroquina.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+CONSENTIMENTO DO PACIENTE
+
+Fui devidamente informado(a), em linguagem clara e objetiva pelo(a) médico(e), de que as avaliações clínicas e/ou laboratoriais
+revelaram a possibilidade ou a comprovação do diagnóstico: COVID-19 causada pelo coronavírus SARS-CON-2.
+
+Devido a esse diagnóstico, recebi informações detalhadas sobre o propósito, os benefícios, os riscos e as alternativas para o
+tratamento da COVID-19, de tal forma que, por livre iniciativa, aceito receber o tratamento precoce da COVID-19 e correr
+eventuais riscos de eventos adversos relacionados aos medicamentos que serão prescritos.
+
+O Concordo receber 0 tratamento precoce O Não concordo em receber 0 tratamento precoce
+apagar
+
+ 
+
+Nome completo do paciente: Teste completo
+
+Data é hora de preenchimento 31-01-2021 17:41 (our) Devem
+
+ 
+
+ 
+
+ 
+
+Próxima página
+
+ 
+
+ 
+
+ 
+
+€ TrateCov
+ 
+
+ 
+
+mera ES BRASIL
+
+f TrateCov sus
+BRASIL
+
+O documento abaixo é apenas uma cópia das suas respostas. Por favor, revise o documento antes de confirmar que
+aceita participar da pesquisa.
+
+ 
+
+ 
+
+Terno de Ciência e Consentimento
+Tratamento Precoce da COVID-19
+
+ 
+
+RECOMENDAÇÕES DO MINISTÉRIO DA SAÚDE
+
+De acordo a "Nota Informativa n. 17/2020 GABJSE/MS: Orientações para Manuseio Medicamentoso Precoce de
+Pacientes com Diagnástico da COVID-19 e opções terapêuticas adicionais disponíveis na literatura científica”, exista
+a recomendação para à tratamento precoce da COVID-19, que poderá ser realizado com us seguintes medicamentos:
+
+Associação de Aeitromicina ou Doxicielina com outros medicamentos de potencial ação antiviral: Ivermectina,
+Hideoxiciaroquina, Cloroquina.
+
+ 
+
+Nome completa do paciente: Teste completo
+
+ 
+
+Data é hora de preenchimento 30-01-2021 17:41
+
+ 
+
+ 
+
+EB Eu confirma que todas as informações do documento acima estão corretas. Entendo que ao clicar em
+ENVIAR assinarei eletronicamente o formulário e isto equivale a assinar um documento em papel.
+
+ 
+
+ 
+
+ 
+
+Se alguma informação acima não estiver correta, clique no botão “PAGINA ANTERIOR" para voltar e corrigir.
+
+ 
+
+[ Página amerior | | Submezer
+
+ 
+
+ 
+
+ 
+
+€ TrateCov
+
+Uma vez tendo o médico feito a opção por
+iniciar terapêutica medicamentosa em
+harmonia com a decisão de seu paciente, é
+necessário que seja realizado o aceite do Termo
+de Consentimento e confirmada a veracidade
+de todas as informações oferecidas, deverá o
+profissional submeter os dados para o sistema.
+
+Caso os dados prestados não estejam
+totalmente corretos ou válidos ou mesmo se
+médico ou paciente declinarem da decisão de
+iniciar tratamento farmacológico, está
+disponível a opção de retorno à página anterior,
+onde é possível realizar o cancelamento da
+opção de prescrição de medicamentos
+antivirais.
+DADOS DA UNIDADE DE SAÚDE
+
+ 
+
+Vínculo Institucional
+
+ 
+
+ 
+
+ 
+
+ 
+
+( Secretaria Municipal de Saúde de Manaus )
+( Secretaria Estadual de Saúde do Amazonas )
+( Hospitais privados do Município de Manaus
+
+ 
+
+ 
+
+Dados da Profissional
+
+ 
+
+ 
+
+ 
+
+Nome completo do profissional ]
+
+ 
+
+ 
+
+ 
+
+Categoria “
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Registro (CRM/ COREN) ] ur Í *|
+
+ 
+
+ 
+
+ 
+
+Geolocalização - Latitude
+
+Geolocalização - Longitude
+
+ 
+
+   
+
+Nota Informativa n. 17/2020 GAB/SE/MS: Orientações para Manuseio Medicamentoso Precoce de
+Pacientes com Diagnóstico da COVID-19 c opções terapêuticas adicionais disponíveis na literatura científica
+
+sisal | og PETER
+
+ 
+
+ 
+
+ 
+
+Enviar o formulário. ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ TrateCov
+
+E
+
+Nesta parte, são capturados os dados referentes a
+unidades de saúde, considerado o contexto de
+utilização da ferramenta.
+
+Vínculo Institucional:
+
+Secretaria Municipal de Saúde de Manaus;
+* Secretaria Estadual de Saúde do Amazonas;
+* Hospitais Privados do Município de Manaus.
+
+Dados do profissional de saúde (preenchimento
+automático após cadastro validado:
+
+* Nome;
+
+* Categoria;
+* Registro;
+“UF.
+
+Geolocalização — captura automaticamente os dados de
+latitude e longitude pela plataforma.
+ 
+
+ANDROCOV ADAPTADO
+
+AndroCOV adaptado: Pontuação clínica para diangóstico de Covid-19
+
+( Amosminouagensa O)
+Disgeusia ou hiposmia”
+
+(contato domiciliar com caso confirmado )
+( contato com caso confirmado no trabalho* )
+
+ss faco de inc
+
+o a a ssa e antro oco adesiva sromptse coeso
+
+ 
+
+ 
+
+TrateCov
+BRASIL
+
+ 
+
+ 
+
+ 
+
+) (Dorsa
+3 (8 troneu )
+
+ 
+
+     
+
+me)
+(O imã )
+
+ 
+
+ 
+
+ 
+TELA DE CASDATRO DO PROFISSIONAL MÉDICO
+
+ 
+
+ua 136 Tela de cadastro para profissionais médicos do município de
+
+Manaus:
+6 TrateCov * Nome;
+BRASIL * Sexo;
+* CPF;
+PÁTRIA AMADA Registro CFM;
+susmpa | cgi ESBRASIL - vuÊ
+i * Tel lular;
+Cadastro dos Médicos do Estado do Amazonas pude celular,
+
+ 
+
+jados de Identificação do(a) Médico(a)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nome completo ó
+
+Registro (CFM) ur [o
+
+Telefone celular Do) ima [o]
+€ TrateCov
+
+ 
+ 
+
+Vínculo Institucional Tela de cadastro para profissionais médicos do
+
+( Secretaria Municipal de Saúde de Manaus ) município de Manaus:
+
+( Secretaria Estadual de Saúde do Amazonas.
+
+ 
+
+ 
+
+ 
+
+* Qualo vínculo Institucional;
+( Hospitais privados do Município de Manaus DE * Unidade de Atendimento — escolhe em uma
+lista com todas as unidades disponíveis no
+Unidade de Atendimento EQ JH Município;
+* Senha —é preciso definir uma senha de 8
+dígitos e, em seguida, confirmar.
+
+Definir senha Confirmar senha
+Scharacters remaining Bcharaciers remaining
+
+Baígitos adígitos
+
+ 
+
+ 
+
+ 
+
+Envio do Cadastro
+
+ 
+
+   
+ 
+
+Nota Informativa n. 17/2020 GAB/SE/MS: Orientações para Manuseio Medicamentoso Precoce de
+Pacientes com Diagnóstico da COVID-19 e opções terapêuticas adicionais disponíveis na literatura cientifica
+
+sus | moça ERRA
+
+ 
+
+ 
+
+ 
+
+Enviar o formulário
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ TrateCov
+
+ 
+ 
+
+TELA DE LOGIN PARA OS PROFISSIONAIS MÉDICOS
+
+ 
+
+ 
+
+ 
+
+semana
+suada | ço ES
+
+Faça seu login para acessar a Plataforma TrateCov Brasil
+
+usuário Da ———|
+
+ 
+
+ 
+
+submeter |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Após a validação dos dados do profissional
+pelas secretarias estadual e municipal de
+saúde, que se trata de um profissional
+médico habilitado e atuante, o cadastro é
+validado e um e-mail é enviado
+informando a disponibilização do acesso à
+plataforma.
+
+Para acessar a plataforma, o usuário deve
+digitar seu login e senha, sendo:
+
+Usuário: CRM do profissional médico;
+
+ 
+
+Senha: digitada e confirmada no
+cadastro.
+SEL'MS - 0019215144 - Nota Técnica https://sei.saude.gov.br/sei/controlador.php?acao=documento imprimir...
+
+ 
+
+Ministério da Saúde
+Secretaria de Gestão do Trabalho e da Educação na Saúde
+Departamento de Gestão da Educação na Saúde
+
+NOTA TÉCNICA Nº 90/2021-DEGES/SGTES/MS
+
+1. ASSUNTO
+
+1.1. Reiteração dos termos do Ofício 613/2021 — (PR-SP-00007553/2021) - Requisição de
+informações. Aplicativo TrateCOV.
+
+2. ANÁLISE
+
+2.1. Em resposta ao Despacho GAB/SGTES (0018725548), o qual faz referência ao Ofício
+
+613/2021 — (PR-SP-00007553/2021) da Procuradoria da República no Estado de São Paulo (0018704455)
+acerca do “aplicativo TrateCOV”, temos a informar:
+
+22. Para atendimento da referida demanda, reportase aos autos do SEI Nº
+25000.013008/2021-08 o qual fora originado quando da solicitação de cumprimento da agenda oficial
+realizada no Estado do Amazonas, nos períodos de 4a 7 e 11 a 13 de janeiro de 2021, conforme se extrai
+do OFÍCIO Nº 13/2021/DEGES/SGTES/MS, datado de 29 de janeiro de 2021 (0018832587).
+
+23. Conforme consta do ofício supra, na ocasião fora delineado o Plano Manaus que definiu
+ações a serem desenvolvidas pelas Áreas Técnicas do Ministério da Saúde e contemplou as orientações a
+serem expedidas para o enfrentamento da mencionada situação de emergência.
+
+24. Nesse sentido houve cumprimento da solicitação do Ministro da Saúde, com vistas ao
+alinhamento de ações de fortalecimento da pasta para o enfrentamento da COVID-19.
+
+2.5. Assim, no tocante as informações elencadas pelo Parquet, a fim de instruir os
+procedimentos, esclarecemos que foram prestadas informações consignadas na Nota Técnica 33/2021-
+DEGES/SGTES/MS (0018855417) e anexos, sob as limitações de competência impostas ao DEGES nos
+termos do Decreto nº 9.795/2019, como unidade que integrou o grupo ministerial, em cumprimento de
+agenda oficial no Estado do Amazonas com a finalidade de apoiar aquele ente federado, frente o
+agravamento da crise sanitária causada pela pandemia de coronavírus COVID-19.
+
+2.6. Em que pese as informações prestadas na Nota Técnica supra, seguem informações
+complementares visando contemplar as indagações consolidadas nas demais alíneas presentes no Ofício
+nº 1615/2021/GABINETE DE PROCURADORA DA REPÚBLICA (0019106982), quais sejam:
+
+2.7. Alínea "c": Impende esclarecer que o conteúdo da plataforma a que se pretendia implantar
+encontrava-se parametrizado nas disposições da Nota Informativa nº 9/2020-SE/GAB/SE/MS e suas
+alterações posteriores. Como tal documento restou lavrado por todo o Secretariado do Ministério da
+Saúde, mediante instauração processual no ambiente da Secretaria Executiva, infere-se, portanto, que o
+conteúdo da plataforma outrora almejada adveio das orientações consignadas no documento informativo
+mencionado, capitaneado pela SE/MS, sob a responsabilidade desta e das demais 06 (seis) Secretarias
+finalísticas desta pasta ministerial.
+
+Lof4 29/04/2021 15:23
+SEL/MS - 0019215144 - Nota Técnica https://sei.saude.gov.br/sei/controlador.php?acao=documento imprimir...
+
+2.8. Alínea "d": O Departamento de Gestão da Educação na Saúde - DEGES/SGTES, diante da
+distribuição de tarefas dispostas no Plano Manaus, foi designado para elaborar a plataforma em questão,
+bem como para dar início às operações respectivas, em nível de simulações. Posteriormente, caso
+o Ministério verificasse a necessidade do desenvolvimento e manutenção da ferramenta em questão (em
+socorro ao trabalho diário de diagnósticos da doença por parte dos médicos na assistência, com o
+objetivo de conferir maior celeridade no processo, evitando agravamento de casos), observando-se a
+oportunidade (tendo em vista a vigência da declaração de emergência em saúde pública no país, assim
+como a declaração em esfera municipal; ocorrência de situações de agravamento da crise) e conveniência
+(qualidade e quantidade de ferramentas que possam contribuir e auxiliar no trabalho dos médicos em
+Manaus, diante de sobrecarga de demandas e com “delay” para obtenção dos resultados de exames, para
+o pronto diagnóstico da doença, gerando aumento de internações clínicas) quanto ao seguimento da ação
+cogitada e que estava em teste, a Secretária de Atenção Primária a Saúde seria então a responsável pela
+absorção da ação em destaque e de toda a sua operacionalização (coleta e guarda de dados também).
+
+2.9. Alínea "e": Quanto ao fluxo de funcionamento da plataforma, faz-se referência ao Manual-
+TratecOV (0018909010), constante nos autos do SEI 25000.013008/2021-08. Impende, nesta
+oportunidade, esclarecer que não cabe ao Ministério da Saúde, tampouco aos seu servidores,
+a prescrição de medicamentos através da plataforma antanho sugerida. A plataforma foi pensada tendo
+como norte a Nota Informativa nº 9/2020-SE/GAB/SE/MS (com suas posteriores alterações), sendo esta
+claramente uma orientação, sem qualquer conotação coercitiva, aliada de compulsoriedade,
+destinada à classe médica, cujo conteúdo respeita e preconiza a autonomia institucional inerente a cada
+profissional médico quanto à tomada de decisões no exercício da profissão, assim como destaca a
+necessidade de se respeitar a escolha do paciente sob exame do profissional médico, uma vez
+previamente dados os esclarecimentos acerca da sua condição de saúde. Logo, reitere-se, prescrição de
+medicamentos é da alçada legal e exclusiva dos médicos.
+
+2.10. Alínea "f": A data que se pretendia para implementação do teste do TrateCOV restou
+anunciada pelo Senhor Ministro de Estado da Saúde, no dia 11 de janeiro de 2021, contudo a ação restou
+suspensa em razão de decisão judicial. Na esfera administrativa, sua interrupção adveio das
+deliberações do Centro de Operações Emergenciais - COE, até segunda ordem.
+
+2.11. No mais, esclarece-se que a Organização Mundial da Saúde — OMS reconheceu a
+importância da utilização de escores para diagnóstico clínico de covid-19, e, paralelamente à validação e
+publicação do AndroCov Clinical Scoring for Covid-19 Diagnosis, houve a constatação de que esse estudo
+pode ser utilizado como ferramenta diagnóstica clínica de COVID-19, alternativa dentro do contexto da
+pandemia.
+
+2.12. Cumpre informar que a construção da Plataforma Digital TrateCOV Brasil teve como
+referência a ferramenta diagnóstica AndroCoV Clinical Scoring for COVID-19 Diagnosis, citada no parágrafo
+anterior, e foi desenvolvida por pesquisadores brasileiros com base em dados clínicos e epidemiológicos,
+conforme se extrai do link https://Awww.cureus.com/articles/49445-the-androcov-clinical-scoring-for-
+covid-19-diagnosis-a-prompt-feasible-costless-and-highly-sensitive-diagnostic-tool-for-covid-19-based-on-
+a-1757-patient-cohort. Essa ferramenta propõe um escore clínico para permitir o diagnóstico precoce da
+COVID-19 baseado em sinais e sintomas.
+
+2.13. Ante a iminência de colapso da estrutura de saúde da cidade de Manaus/AM, foi sugerida a
+atuação em várias frentes: adoção de campanhas agressivas de marketing, reforçando a importância de
+medidas de distanciamento, higiene e uso de máscara; adoção da medidas de bloqueio epidemiológico
+para a maior parte possível da população; e educação sanitária da população e/ou introdução de
+diagnóstico precoce, por intermédio do escore proposto por Flávio Adsuara Cadegiani, médico
+endocrinologista, mestre e doutor (PhD) em Endocrinologia Clínica pela Unifesp/EPM e pesquisador
+principal do ensaio clínico AndroCoV, um dos autores do “Clinical Diagnosis of COVID-19: a Prompt,
+
+2 of4 29/04/2021 15:23
+SEL/MS - 0019215144 - Nota Técnica https://sei.saude.gov.br/sei/controlador.php?acao=documento imprimir...
+
+Feasible, Costless, and Highly Sensitive Diagnostic Tool for COVID-19 Based on a 1,757-Patient Cohort (The
+AndroCoV Clinical Scoring for COVID-19 Diagnosis)” — trabalho em publicação no Cureus Journal of
+Medical Science (indexed in PubMed) .
+
+2.14. Nesse contexto, ferramentas diagnósticas diversas podem ser utilizadas para auxiliar o
+raciocínio clínico e colaborar na definição de condutas com celeridade, aumentando as chances de
+sobrevida do paciente e reduzindo o risco de internação hospitalar. Essas ferramentas ou esses construtos
+clínicos diagnósticos são largamente utilizados na medicina contemporânea em diversos contextos.
+
+2.15. O TrateCOV teve o propósito de ser utilizado como plataforma baseada em publicação
+científica que apresenta um desses construtos clínicos, bem como teve o objetivo de facilitar a ação
+profissional, e, assim como qualquer outro construto, seu uso não pode ser descontextualizado ou
+apartado do ambiente clínico, que inclui anamnese, exame físico e possível solicitação de exames
+complementares. A ferramenta apresenta como principal objetivo o apoio ao diagnóstico, respeitando-se
+a autonomia profissional do médico.
+
+2.16. Essa informação de possibilidades terapêuticas, seja por meio da plataforma TrateCOV ou
+da Nota Informativa Nº 17/2020 (0018833893) emitida pelo Ministério da Saúde (sucessora da Nota
+Informativa nº 9/2020-SE/GAB/SE/MS), não configura protocolo no SUS, mas, sim, instrumento
+administrativo com o intuito de fornecer informações para que cada profissional tenha melhores
+condições de decidir em prol do maior bem possível para o seu paciente.
+
+2.17. Em relação ao tratamento, a plataforma apresentava algumas possibilidades terapêuticas
+disponíveis na literatura científica atualizada, que poderiam ser consideradas, repita-se, conforme a
+autonomia profissional do médico e a escolha do paciente. Não obstante, tais possibilidades não
+apontavam caráter exclusivo, tampouco afastavam a possibilidade de outras condutas diversas serem
+adotadas.
+
+2.18. Cabe ainda esclarecer que não houve disponibilização de acesso à plataforma em sua
+totalidade, com acesso a todas as suas funcionalidades, a nenhum médico, ou seja, não houve produção,
+captura e registro de qualquer dado lançado na interface disponibilizada no ambiente de simulação.
+Desse modo, evidencia-se que não houve quaisquer prescrições médicas na disponibilização piloto do
+TrateCOV.
+
+2.19. Por fim, a plataforma foi desenvolvida e tornada disponível para público selecionado e com
+fins específicos no âmbito do Departamento de Gestão da Educação na Saúde, da Secretaria de Gestão do
+Trabalho e da Educação na Saúde deste Ministério e lançado no dia 11 de janeiro do ano corrente pelo Sr.
+Ministro de Estado da Saúde.
+
+3. CONCLUSÃO
+
+3.1. Sendo essas as informações a serem prestadas, encaminhem-se os autos ao GAB/SGTES
+para ciência e providências que entender cabíveis.
+
+VINÍCIUS NUNES AZEVEDO
+
+Diretor do Departamento de Gestão da Educação na Saúde
+
+ 
+
+3of4 29/04/2021 15:23
+SEL/MS - 0019215144 - Nota Técnica https://sei.saude.gov.br/sei/controlador.php?acao=documento imprimir...
+
+il
+sei! à
+ass
+eletrônica
+
+Documento assinado eletronicamente por Vinicius Nunes Azevedo, Diretor(a) do Departamento de
+Gestão da Educação na Saúde, em 24/02/2021, às 19:32, conforme horário oficial de Brasília, com
+
+fundamento no art. 6º, $ 18, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
+900 de 31 de Março de 2017.
+
+     
+   
+
+A autenticidade deste documento pode ser conferida no site http: //sei.saude.gov.br
+q /sei/controlador externo .php?acao=documento conferir&id orgao acesso externo=0, informando o
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.008951/2021-91 SEI nº 0019215144
+
+Departamento de Gestão da Educação na Saúde - DEGES
+SRTV 702, Via W5 Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
+Site - saude gov.br
+
+4 of4 29/04/2021 15:23
+26/05/2021 SEI/MS - 0020396934 - Nota
+
+ 
+
+Ministério da Saúde
+Secretaria de Gestão do Trabalho e da Educação na Saúde
+Departamento de Gestão da Educação na Saúde
+
+NOTA
+
+1. ASSUNTO
+
+1.1. Trata-se de manifestação acerca do Despacho SGTES/GAB/SGTES/MS (0020349445), o
+qual encaminha o Ofício nº 54/2021/CPIPANDEMIA (0020324707), da Comissão Parlamentar de
+Inquérito, que encaminha o Requerimento nº 36/2021/CPIPANDEMIA (0020324709), de autoria do
+Senador Randolfe Rodrigues, solicitando informações para instrução dos trabalhos da referida CPI
+Pandemia.
+
+2. ANÁLISE
+
+2.1. Em atenção à demanda em tela, esta área técnica presta as informações solicitadas no
+requerimento em epígrafe, abaixo descrito:
+
+Número de downloads, por regiões e municípios, do Tratecov;
+
+Nome do responsável técnico pelo estabelecimento das variáveis e "regras de negócio" do Tratecov
+(quem homologou o aplicativo aprovando as prescrições previstas);
+
+Todos os documentos internos do Ministério da Saúde referentes ao aplicativo Tratecov (notas
+técnicas, ofícios, atas).
+
+22. Em resposta ao primeiro item, esclarece-se que as informações já foram prestadas por este
+Departamento, conforme pode ser conferido na Nota Técnica nº 90/2021 — DEGES/SGTES/MS
+(0020396834), especialmente no que consta em seu item 2.18.
+
+23. Em resposta ao segundo item, esclarece-se que as informações já foram prestadas por este
+Departamento, conforme pode ser conferido na Nota Técnica nº 90/2021 — DEGES/SGTES/MS
+(0020396834), especialmente no que consta em seu item 2.8.
+
+24. Em resposta ao terceiro e último item, esclarece-se que seguirá, em anexo, o compilado de
+todos os documentos oficiais expedidos por esta Secretária de Gestão do Trabalho e da Educação na
+Saúde — SGTES.
+
+3. CONCLUSÃO
+
+3.1. Diante do exposto, dentro das competências regimentais do DEGES/SGTES/MS, essas são
+as informações a serem prestadas. Restituam-se os autos ao GAB/SGTES/MS, para ciência e providências
+pertinentes.
+
+ 
+
+o al
+eletrônica
+
+ 
+     
+ 
+    
+
+Documento assinado eletronicamente por Musa Denaise de Sousa Morais de Melo, Diretor(a) do
+Departamento de Gestão da Educação na Saúde substituto(a), em 05/05/2021, às 19:15, conforme
+horário oficial de Brasília, com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de
+2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+  
+
+ 
+
+ 
+
+autenticidade deste documento pode ser conferida no site
+
+! http://sei saude.gov.br/sei/controlador externo.php?
+pe acao=documento conferir&id orgao acesso externo=o0, informando o código verificador
+0020396934 e o código CRC 84A9FCE2.
+
+ 
+
+ 
+
+ 
+
+ei. saude. gov.br/sei/controlador.php?acao=documento. visualizar&acao origem=arvore visualizar&id documento=222490128infra siste... 1/2
+26/05/2021 SEI/MS - 0020396934 - Nota
+Referência: Processo nº 25000.065529/2021-32 SEI nº 0020396934
+
+Departamento de Gestão da Educação na Saúde - DEGES
+SRTV 702, Via W5 Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
+Site - saude.gov.br
+
+Criado por jomara.nascimento, versão 2 por jomara.nascimento em 05/05/2021 18:00:49.
+
+ 
+
+https://sei.saude.gov.br/sei/controlador php?acao=documento visualizar&acao origei
+
+ 
+
+rvore visualizar&id document
+
+ 
+
+2249012&infra siste.. 212
+26/05/2021 SEI/MS - 002066304 7 - Despacho
+
+ 
+
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+Núcleo Jurídico da Secretaria de Vigilância em Saúde
+
+DESPACHO
+
+SVS/NUJUR/SVS/MS
+Brasília, 20 de maio de 2021.
+
+À Assessoria Parlamentar (ASPAR/GM/MS)
+
+Assunto: Requerimento de Informação nº 36/2021/CPIPANDEMIA.
+Ref.: NUP Nº 25000.065529/2021-32
+URGENTE
+
+1. Trata-se do Trata-se do Requerimento nº 36/2021 (0020324709), oriundo do Senado
+Federal, encaminhado pela Coordenação de Comissões Especiais, Temporárias e Parlamentares de
+Inquérito, relativo à Comissão Parlamentar de Inquérito, que solicita informações sobre quais as ações de
+vigilância em saúde adotadas e implementadas com os respectivos indicadores e resultados colhidos e,
+ainda, informações sobre o aplicativo TrateCov.
+
+2. Considerando o objeto do presente Requerimento, verifica-se que a Secretaria de Gestão
+do Trabalho e da Educação na Saúde (SGTES/MS), finalística responsável pelo assunto, já se manifestou a
+respeito do TrateCov.
+
+3. Nesse sentido, este Gabinete/SVS encaminha os documentos relacionados às ações de
+vigilância em saúde adotadas e implementadas por meio do link: https://saudegov-
+my.sharepoint.com/:f:/g/personal/talita jesus saude gov br/Ek26c2WiUUILtjLOpE-
+
+vdXUBS95vIMdO EKdYSUExGOushA?e=Xqmlvk
+
+4. Desse modo, restitui a presente demanda à essa Assessoria para conhecimento e
+providências ulteriores julgadas pertinentes.
+
+5. Colocamo-nos à disposição para quaisquer esclarecimentos adicionais.
+
+Atenciosamente,
+
+ARNALDO CORREIA DE MEDEIROS
+Secretário de Vigilância em Saúde
+
+ 
+
+Documento assinado eletronicamente por Arnaldo Correia de Medeiros, Secretário(a) de Vigilância
+B em Saúde, em 20/05/2021, às 10:40, conforme horário oficial de Brasília, com fundamento no art.
+
+68, 5 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março
+de 2017.
+
+ 
+
+assinatura
+eletrônica
+
+ 
+
+ 
+
+https://sei saude.gov.br/sei/controlador php?acao=documento visualizar&acao origem=arvore visualizar&id documento=22532083&infra siste... 1/2
+26/05/2021 SEI/MS - 002066304 7 - Despacho
+
+[m] A autenticidade deste documento pode ser conferida no site
+http://sei.saude.gov.br/sei/controlador externo.php?
+
+acao=documento conferir&id orgao acesso externo=0, informando o código verificador
+0020663047 e o código CRC 5313C129.
+
+  
+
+ 
+
+ 
+
+ 
+
+Referência: Processo nº 25000.065529/2021-32 SEI nº 0020663047
+
+Criado por vanessa.cardozo, versão 2 por vanessa.cardozo em 20/05/2021 10:34:39.
+
+https://sei saude.gov.br/sei/controlador php ?acao=documento visualizar&acao origem=arvore visualizar&id documento=22532083&infra s
+
+ 
+
+212
+SEL'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+
+ 
+
+Ministério da Saúde
+Secretaria de Gestão do Trabalho e da Educação na Saúde
+Departamento de Gestão da Educação na Saúde
+
+NOTA TÉCNICA Nº 33/2021-DEGES/SGTES/MS
+
+1. ASSUNTO
+
+1.1. Plataforma Digital TrateCOV Brasil.
+
+2. ANÁLISE
+
+2.1. Na esteira do enfrentamento à pandemia da covid-19 em todo o país e com o agravamento
+
+importante em Manaus/AM, - onde houve a informação de sobrecarga do sistema de atendimento da
+Atenção Primária a Saúde, com médicos atendendo pacientes com suspeita de covidi9 em 18 Unidades
+de Saúde, em geral com cada médico realizando mais de 60 atendimentos diários e elevando número de
+óbitos em domicílio - utilizando-se das mais novas e fortes evidências científicas publicadas no meio
+acadêmico, o Ministério da Saúde, no elenco de todas as demais ações estratégicas que estão sendo
+empreendidas, desenvolveu plataforma digital baseada em critérios clínicos que colabora na coleta e
+análise de sintomas e sinais de pacientes, permitindo que médicos possam estabelecer, com maior
+precisão e rapidez, o diagnóstico e, caso julguem pertinente, de acordo com suas convicções, sem caráter
+coercitivo, a conduta precoce da covid-19.
+
+22. Conforme contextualizado, tal plataforma foi denominada TrateCOV Brasil. Esta,
+independentemente de outras inferências pregressas, é uma plataforma digital desenvolvida com o
+propósito de reduzir a transmissão viral, uma vez que ajuda a detectar potenciais transmissores mais
+precocemente, para a adoção de medidas como notificação dos casos suspeitos e busca ativa por
+contactantes, de medidas de isolamento social precoce, telemonitoramento e follow-up da progressão do
+caso.
+
+23. Nesse sentido, o Departamento de Gestão e Educação na Saúde — DEGES/SGTES/MS captou
+informações de forma a viabilizar um cadastro na referida plataforma , nos termos do OFÍCIO Nº 4/2021
+/DEGES/SGTES/MS (0018536388 e 0018833931) datado de 11 de janeiro de 2021.
+
+24. Esclarecemos que o propósito era cadastrar informações na Plataforma TrateCov Brasil, que
+é um sistema de informações que utiliza tecnologias e conhecimentos técnico-científicos para oferecer
+aos médicos um registro de atendimento com fluxograma que permite estabelecer, com maior precisão e
+rapidez, o diagnóstico e o tratamento precoce da COVID-19, reduzindo o risco de evolução da doença para
+as formas mais graves, que podem culminar em necessidade de internação e ou óbito.
+
+2.5. Nesse sentido, nota-se que a ação preserva a autonomia dos profissionais de saúde, já que
+a plataforma oferece um fluxograma intuitivo de acelerar o diagnóstico precoce da covid-19, reduzindo o
+risco de evolução da doença para as formas mais graves. Contudo, ainda que a plataforma sugira a
+conduta preliminar a ser adotada, cabe ao profissional direcionar o tratamento necessário e apropriado
+ao seu paciente, cabendo a este, ou aos seus familiares, a partir da ciência dos efeitos colaterais possíveis,
+manifestar ou não o consentimento.
+
+Lof8 29/04/2021 15:22
+SEL/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+
+2 0of8
+
+2.6. Dessa maneira, cumpre destacar que para a confirmação do diagnóstico de covid-19,
+mantém-se as recomendações prévias (https://coronavirus.saude.gov.br/) de realizar o rtPCR (Real-Time
+Polymerase Chain Reaction) de swab nasal, faríngeo e, opcionalmente, de outros fluidos ou mucosa para
+SARS-CoV-2, considerado o teste diagnóstico padrão ouro para confirmação da infecção pelo agente.
+
+2.7. Mudanças significativas no comportamento da doença e do coronavírus, apontam para a
+necessidade premente de atualização da abordagem clínica dos casos suspeitos, suscitando a adoção de
+protocolo clínico de alta sensibilidade, considerando, ainda:
+
+e Ovírus circulante predominante é o SARS-CoV-2;
+
+e Ouso obrigatório e disseminado de máscaras diminuiu drasticamente a contaminação
+por bactérias e outros vírus, reduzindo muito a possibilidade de infecções de vias
+aéreas superiores (IVAS) e de pneumonias de origem infecciosa serem de outras
+etiologias que não causadas pelo SARS-CoV-2 (covid-19);
+
+e A alta especificidade dos sintomas de vias aéreas superiores e demais sintomas
+respiratórios para covid-19;
+
+e Os potenciais benefícios do diagnóstico mais precoce de covid-19, em termos de
+abordagens terapêuticas antivirais, cuja plausibilidade para eficácia é altamente
+dependente do timing do início do tratamento, uma vez que o impedimento do
+alastramento viral ocorrerá de forma exponencialmente mais eficaz quanto mais
+precoce for a abordagem, o que foi bem demonstrado, por exemplo, para o uso de
+oseltamivir (Tamiflu) para Influenzal, quando a eficácia só existe em termos de redução
+de duração da doença e de desfechos relacionados à doença quando iniciado nos três
+primeiros dias de sintomas;
+
+e Os potenciais benefícios da redução de custos relacionada ao diagnóstico de covid-19,
+o amplo acesso da população ao diagnóstico e a não dependência exclusivamente do
+rtPCR-SARS-CoV-2, que nem sempre se encontra regular — e prontamente disponível;
+
+e Diagnósticos de infecções virais e bacterianas, em particular de vias aéreas superiores e
+pneumonias, são eminentemente clínicos para fins de condutas e tratamentos;
+
+e Em particular, durante períodos de surtos, epidemias e pandemias, especialmente em
+vista da emergência e do benefício da facilitação do diagnóstico, em comparação com o
+relativo baixo risco de eventuais excessos diagnósticos, lança-se mão de possibilidades
+diagnósticas outras que não as confirmatórias por pesquisa direta do vírus;
+
+e A sensibilidade do teste rtPCR-SARS-CoV-2 pode encontrar-se reduzida no início da
+doença, que coincide exatamente com a fase inicial de replicação viral, quando
+tratamentos com potenciais antivirais podem encontrar sua maior eficácia, ou seja, a
+falha no diagnóstico de covid-19 por exame de rtPCR-SARS-CoV-2 falso negativo pode
+dar-se exatamente pelo ainda não alastramento viral, quando trata exatamente do
+momento em que o bloqueio do spread viral faz-se, teoricamente, mais eficaz; e
+
+e Mutações no vírus SARS-CoV-2 tendem a levar à redução, ainda maior, da sensibilidade
+do teste rtPCR-SARS-CoV-2, o que foi recentemente reportado, o que pode levar a
+atrasos nos diagnósticos adicionais e piorar desfechos pelo atraso em condutas,
+conforme recente publicação da Food and Drug Administration — FDA. (Disponível em
+https://www.fda.gov/news-events/press-announcements/fda-issues-alert-regarding-
+sars-cov-2-viral-mutation-health-care-providers-and-clinical-
+laboratory?utm medium=email&utm source=govdelivery). Soma-se a essa
+constatação o COMUNICADO RELATIVO AO DIAGNÓSTICO MOLECULAR DE VARIANTES
+
+ 
+
+29/04/2021 15:22
+SEL/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+
+DE SARS-COV?2, publicado pela RedeVírus MCTI, do Ministério da Ciência, Tecnologia e
+Inovações (MCTI), que aponta a necessidade de buscar a ampliação de genes alvos do
+
+/mcti/pt-br/acompanhe-o-mcti/noticias/2020/12/comunicado-relativo-ao-diagnostico-
+molecular-de-variantes-de-sars-cov2 acessado em 25/01/2021).
+
+ 
+
+2.8. Ademais, relevante publicação da Organização Mundial da Saúde — OMS reconheceu a
+importância da utilização de escores para diagnóstico clínico de Covid-19 e, paralelamente à validação e
+publicação do “AndroCov Clinical scoring for Covid-19 Diagnosis” houve o reconhecimento como
+ferramenta diagnóstica clínica de Covid-19 alternativa dentro do contexto da pandemia. Ato contínuo, a
+Organização Mundial da Saúde publicou uma nota, em 20 de janeiro de 2021 ressaltando que o
+diagnóstico molecular (rtPCR-swab nasal ou orofaríngeo) da Covid-19 deve passar a ser utilizado como um
+auxiliar diagnóstico dentro da análise de um contexto clínico e epidemiológico, conforme se extrai do link:
+https:/Avwwwho.int/news/item/20-01-2021-who-information-notice-for-ivd-users-2020-05.
+
+2.9. Para tanto, foi desenvolvida por pesquisadores brasileiros uma ferramenta diagnóstica com
+base em dados clínicos e epidemiológicos, chamada AndroCoV Clinical Scoring for COVID-19 Diagnosis,
+validada retrospectivamente, e prospectivamente, publicada em revista indexada em PubMed após
+revisão por pares, cujo processo completo de validação, realizado em múltiplas etapas, encontra-se
+disponível em open access.
+
+2.10. A ferramenta diagnóstica foi amplamente aceita e sua utilização para fins clínicos e
+científicos fora iniciada, uma vez que encontrou sensibilidade e acurácia acima de 80% e 75%,
+respectivamente, superior à maior parte dos kits de rtPCR-SARS-CoV-2. Ainda assim, tendo em vista a
+relevância do TrateCOV no cenário de emergência atual, o governo sugeriu que o escore proposto
+recomendasse um quadro provável, e não confirmatório em si, de covid-19. Ressalte-se que não se trata
+da primeira vez que o diagnóstico deixa de ser exclusivamente molecular em cenário de pandemia.
+
+2.11. Considerando-se, além disso, o maior número de mutações-chave dos vírus circulantes em
+Manaus/AM, a utilização de um modelo de diagnóstico clínico precoce denota ser importante, dado o
+comprometimento da sensibilidade dos testes diagnósticos ora disponíveis.
+
+2.12. Por meio do escore clínico para apoio diagnóstico ao estudo AndroCov Clinical Scoring for
+Covid19 (disponível em https://www.cureus.com/articles/49445-the-androcov-clinical-scoring-for-covid-
+19-diagnosis-a-prompt-feasible-costless-and-highly-sensitive-diagnostic-tool-for-covid-19-based-on-
+a-1757-patient-cohort), que utiliza sinais e sintomas clínicos característicos da doença, é possível predizer,
+com importante grau de certeza, o diagnóstico clínico da doença, o que permite a intervenção, o
+monitoramento e o isolamento precoce do paciente, conforme imagem que segue abaixo:
+
+ 
+
+ 
+
+30f8 29/04/2021 15:22
+SEL/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+
+Anosmia or ageusia 6 pes
+
+3 points each
+
+6+ points 4-5 points
+
+DIAGNOSIS LIKELY POSSIBLE
+OF COVID-19 a COVID-19
+
+DIAGNOSIS
+
+MANAGEMENT
+
+ 
+
+ 
+
+ 
+  
+   
+
+Diagnosis of COVID-19 = o Valid wide =
+1 Pres st probabiy > 80% 1. Masks are obligatory
+2. Protest > test sensitivity 2. Population vaccinated < 70%
+3. Transmission rate > 1.0 or
+<1,0for<4 wocks
+
+ 
+
+   
+
+2.13. A abordagem farmacológica constante na plataforma, para orientação técnica aos médicos
+que optem por utilizar a ferramenta tecnológica e por adotar o tratamento, foi elaborada utilizando-se
+como referência trabalhos nacionais e internacionais publicados na literatura médica (disponíveis, entre
+outros, em https://coronavirus.saude.gov.br/profissional-gestorgnotas-tecnicas2), os quais foram
+analisados pelos técnicos daquela Secretaria de Ciência, Tecnologia e Insumos Estratégicos (SCTIE).
+Ademais, foram elaboradas Orientações de Conduta Clínica e Tratamento Precoce para covid-19
+(disponível em https:/Awww.gov.br/saude/pt-br/media/pdf/2021/janeiro
+/14/14-0121 folder manaus am2.pdf/), com o intuito de colaborar com o enfrentamento do
+recrudescimento da crise em Manaus/AM.
+
+A of8 29/04/2021 15:22
+SEL'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+
+2.14. Como complemento às ações do Ministério da Saúde, foi disponibilizada, em 11 de janeiro,
+no que se refere ao plano de contingência no estado do Amazonas, uma fração da plataforma digital
+TrateCOV.
+
+2.15. Na versão preliminar simplificada, em ambiente de simulação, conforme exposto no texto
+
+da ferramenta, permitiu-se apenas o acesso ao algoritmo de cálculo do Escore Clínico Androcov, com
+indicação de todas as medicações previstas nas Orientações de Conduta Clínica e Tratamento Precoce
+para covid-19 (disponível em https:/Awww.gov.br/saude /pt-br/media/pdf/2021/janeiro
+/14/14-01-21 folder manaus am2.pdf/). Dessa forma, não houve possibilidade de geração de qualquer
+registro das informações inseridas nos campos, nem mesmo a opção de produção de qualquer output, ou
+seja, a impressão ou exportação de prescrição medicamentosa ou de solicitação de exames diagnósticos,
+tais como o RT-gPCR, podendo somente ser permitida aos médicos devidamente cadastrados e validados
+para a utilização da plataforma.
+
+2.16. Ressalte-se que, a disponibilização do ambiente de simulação da calculadora do Escore
+Clínico AndroCov na plataforma, ocorreu no intuito de dar transparência e visibilidade à opção de
+diagnóstico clínico estritamente aos médicos, que são os profissionais habilitados e com competência
+técnica e científica para interpretar condições clinicas ajustáveis à utilização de metodologias de rastreio
+clínico, capazes de interpretar aspectos como sensibilidade e especificidade do teste, além de reconhecer
+sinais e sintomas como passíveis de serem atribuídos a determinada síndrome. Não cabe, portanto, a
+alguém sem a referida competência técnica a utilização de eventuais resultados consequentes da
+utilização de calculadoras médicas, desenvolvidas específica e exclusivamente para médicos,
+especialmente de uma versão simplificada.
+
+2.17. Em razão disso, para viabilizar a plataforma, fez-se necessário o cadastramento voluntário
+dos médicos interessados, por parte do Ministério da Saúde. Para tanto, a disponibilização para simulação
+desses profissionais teve o propósito de estimular o interesse destes, para que seguissem, ou não, com o
+consequente cadastramento e com a operação da plataforma.
+
+2.18. Importante destacar que o desenvolvimento e a disponibilização do TrateCOV ou mesmo a
+orientação de utilização de tratamento medicamentoso precoce para covid-19 não implicou a exclusão da
+orientação de utilização do Plano Nacional de Imunização para covid-19, sendo esta parte integrante das
+estratégias de enfrentamento à pandemia adotadas pelo Ministério da Saúde, nem mesmo a redução da
+importância do atendimento médico para a definição de diagnóstico e condução terapêutica adequada,
+cabendo à ferramenta servir unicamente como plataforma de apoio à decisão clínica.
+
+2.19. Cabe ainda esclarecer que, até o momento, não houve disponibilização de acesso à
+plataforma com todas as suas funcionalidades a nenhum médico, ou seja, não houve produção, captura e
+registro de qualquer dado lançado na interface disponibilizada no ambiente de simulação.
+
+2.20. No tocante à ferramenta utilizada para o desenvolvimento do formulário eletrônico do
+TrateCoV, chamada REDCap (Research Electronic Data Capture), importa esclarecer que se trata de um
+software livre, desenvolvido nos Estados Unidos (Vanderbilt University, Tennessee), que fora
+disponibilizado sem nenhum custo para instituições acadêmicas e órgãos governamentais.
+
+2.21. A escolha desse framework, disponibilizado e hospedado na infraestrutura tecnológica do
+DATASUS, fundamentou-se nas seguintes premissas: (1) facilidade de uso, haja vista que pode ser
+acessado por computadores, tablets e smartphones; (2) armazenamento centralizado e seguro dos dados
+no servidor da instituição que possui a licença do sistema, neste caso o DataSUS; (3) grande versatilidade
+do sistema, que permite a parametrização de funcionalidades específicas de acordo com o escopo e
+cenário de cada projeto; (4) experiências prévias de diversas instituições que estão utilizando o sistema
+para o enfrentamento da pandemia da covid-19; (5), estando este hospedado e disponibilizado na
+infraestrutura tecnológica do Ministério da Saúde, sem a geração de custos adicionais para a
+
+Sof8s8 29/04/2021 15:22
+SEL'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+
+disponibilização da ferramenta.
+
+3. RELATO HISTÓRICO QUANTO A EMISSÃO INFORMATIVA A RESPEITO DAS ORIENTAÇÕES
+PARA TRATAMENTO EM PACIENTES DIAGNOSTICADOS COM COVID-19
+
+3.1. Urge contextualizar que o Conselho Federal de Medicina emitiu o Parecer CFM Nº 04/2020
+(0018837766), datado de 16 de abril de 2020, cuja ementa é “considerar o uso da cloroquina e
+hidroxicloroquina, em condições excepcionais, para o tratamento da COVID-19”, mediante o livre
+consentimento esclarecido do paciente.
+
+3.2. Ato contínuo, em julho de 2020, com base no parecer do Conselho Federal de Medicina —
+CFM, o Ministério da Saúde expediu a Nota Informativa Nº 9, posteriormente ratificada pela Nota
+Informativa Nº 17/2020 (0018837766 - SEI 25000.070255/2020-12), que estabeleceu as orientações para
+manuseio medicamentoso precoce de pacientes diagnosticados com covid-19.
+
+33. Ressalta-se, em oportuno, a importância de diferenciarem-se a natureza jurídica de nota
+informativa e a de protocolo clínico, uma vez que aquela expõe orientações não impositivas, ao passo que
+este tem o condão coercitivo, conforme manifestação por meio da Nota Técnica Nº 105 (0015264863) do
+Departamento de Gestão e Incorporação de Tecnologias e Inovação em Saúde — DGITIS/SCTIE/MS,
+constante dos autos SEI 25000.080270/2020-79:
+
+(..)
+
+"2. PCDT é o documento que estabelece critérios para o diagnóstico da doença ou do agravo à
+saúde; o tratamento preconizado, com os medicamentos e demais produtos apropriados, quando
+couber; as posologias recomendadas; os mecanismos de controle clínico; e o acompanhamento e a
+verificação dos resultados terapêuticos, a serem seguidos pelos gestores do SUS;
+
+3. nota informativa é o documento em que é feita a exposição de um assunto, contendo dados e
+análises relevantes do ponto de vista administrativo, técnico-científico ou jurídico. Pode ser
+elaborada por iniciativa do profissional encarregado, ou por seus superiores hierárquicos; pode ser,
+também, para esclarecimento de algum gestor da área de saúde, da imprensa ou do público em
+gerale,
+
+4. a referida Nota Informativa não se caracteriza como um PCDT, não cabendo sua apreciação pela
+Conitec”
+
+Nesse sentido, a nota informativa foi publicada no intuito de auxiliar e atender a situação de
+emergência da pandemia, respeitando-se a autonomia profissional dos médicos, uma vez que a
+esses cabe o papel de prescrever o que entenderem ser apropriado a seus pacientes — a partir do
+melhor tratamento disponível no momento —, e ao paciente ou aos familiares cabe, explicando-se os
+efeitos colaterais possíveis, o papel de manifestar, ou não, seu consentimento.
+
+Conforme citado acima, a natureza do protocolo clínico é imperativa e obrigatória, e este possui
+conceito normativo, conforme destacado nos comandos legais abaixo:
+
+Art. 19 da Lei do SUS (Lei nº 8080/90)
+(..)
+
+Il - protocolo clínico e diretriz terapêutica: documento que estabelece critérios para o diagnóstico da
+doença ou do agravo à saúde; o tratamento preconizado, com os medicamentos e demais produtos
+apropriados, quando couber; as posologias recomendadas; os mecanismos de controle clínico; e o
+acompanhamento e a verificação dos resultados terapêuticos, a serem seguidos pelos gestores do
+sus. (Incluído pela Lei nº 12.401, de 2011)
+
+Art. 19-0. Os protocolos clínicos e as diretrizes terapêuticas deverão estabelecer os medicamentos
+ou produtos necessários nas diferentes fases evolutivas da doença ou do agravo à saúde de que
+tratam, bem como aqueles indicados em casos de perda de eficácia e de surgimento de intolerância
+ou reação adversa relevante, provocadas pelo medicamento, produto ou procedimento de primeira
+escolha. (Incluído pela Lei nº 12.401, de 2011)
+
+Parágrafo único. Em qualquer caso, os medicamentos ou produtos de que trata o caput deste artigo
+serão aqueles avaliados quanto à sua eficácia, segurança, efetividade e custo-efetividade para as
+diferentes fases evolutivas da doença ou do agravo à saúde de que trata o protocolo. (Incluído
+
+6 of 8 29/04/2021 15:22
+SEL/MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+
+pela Lei nº 12.401, de 2011)
+
+Art. 19-P. Na falta de protocolo clínico ou de diretriz terapêutica, a dispensação será realizada:
+(Incluído pela Lei nº 12.401, de 2011)
+
+|! - com base nas relações de medicamentos instituídas pelo gestor federal do SUS, observadas as
+competências estabelecidas nesta Lei, e a responsabilidade pelo fornecimento será pactuada na
+Comissão Intergestores Tripartite; (Incluído pela Lei nº 12.401, de 2011)
+
+ 
+
+Il - no âmbito de cada Estado e do Distrito Federal, de forma suplementar, com base nas relações de
+medicamentos instituídas pelos gestores estaduais do SUS, e a responsabilidade pelo fornecimento
+será pactuada na Comissão Intergestores Bipartite; (Incluído pela Lei nº 12.401, de 2011)
+
+Ill - no âmbito de cada Município, de forma suplementar, com base nas relações de medicamentos
+instituídas pelos gestores municipais do SUS, e a responsabilidade pelo fornecimento será pactuada
+no Conselho Municipal de Saúde. (Incluído pela Lei nº 12.401, de 2011)
+
+Art. 2º do Decreto nº 7.508 de 28 de junho de 2011
+(..)
+
+VIII - Protocolo Clínico e Diretriz Terapêutica - documento que estabelece: critérios para o
+diagnóstico da doença ou do agravo à saúde; o tratamento preconizado, com os medicamentos e
+demais produtos apropriados, quando couber; as posologias recomendadas; os mecanismos de
+controle clínico; e o acompanhamento e a verificação dos resultados terapêuticos, a serem seguidos
+pelos gestores do SUS.
+
+34. Assim, dado o respaldo legal e científico, as ações do Ministério da Saúde visam a
+contribuir com o enfrentamento da pandemia para defesa da vida e bem-estar de todos os brasileiros.
+
+3.5. Cumpre consignar que quaisquer entendimentos contrários às orientações de ações de
+enfrentamento da situação emergencial que vem assolando o Brasil e o mundo, com equívocos claros no
+sentido de confundir ferramentas como protocolo (documento administrativo impositivo) — que todo o
+Sistema de Saúde deve observar — e nota informativa (ato administrativo, não impositiva), seria distorcer
+a real intenção dos gestores do SUS no que diz respeito as providências possíveis em uma situação de
+emergência, como a covid-19.
+
+3.6. Vale observar ainda que, em atendimento aos preceitos constitucionais de autonomia dos
+entes, alguns estados, municípios e, consequentemente, estabelecimentos hospitalares privados
+estabeleceram seus próprios protocolos, esses, sim, de cunho impositivo, diferentemente do Governo
+
+Federal.
+4. CONCLUSÃO
+41. Frente todo ao esposado, este Departamento de Gestão da Educação na Saúde — DEGES, de
+
+forma a atender à demanda Plano Manaus, nas ações emergenciais decorrentes do agravamento dos
+casos de Covid-19 no Estado do Amazonas, consolida neste documento os esclarecimentos devidos acerca
+do simulacro de aplicativo TrateCov Brasil.
+
+Encaminha-se ao GAB/SGTES.
+
+VINÍCIUS NUNES AZEVEDO
+Diretor do Departamento de Gestão da Educação na Saúde
+
+De acordo.
+
+Tof8 29/04/2021 15:22
+SEL'MS - 0018855417 - Nota Técnica https://sei.saude .gov.br/sei/controlador.php?acao=documento imprimir...
+
+MAYRA ISABEL CORREIA PINHEIRO
+Secretária de Gestão do Trabalho e da Educação na Saúde
+
+ 
+
+(a Documento assinado eletronicamente por Vinicius Nunes Azevedo, Diretor(a) do Departamento de
+seil 8 Gestão da Educação na Saúde, em 01/02/2021, às 15:50, conforme horário oficial de Brasília, com
+fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria nº
+900 de 31 de Março de 2017.
+
+assinatura
+eletrônica
+
+ 
+
+ 
+
+RT Documento assinado eletronicamente por Mayra Isabel Correia Pinheiro, Secretário(a) de Gestão do
+seil 8 Trabalho e da Educação na Saúde, em 01/02/2021, às 16:02, conforme horário oficial de Brasília,
+com fundamento no art. 6º, 8 1º, do Decreto nº 8.539, de 8 de outubro de 2015; e art. 8º, da Portaria
+nº 900 de 31 de Março de 2017.
+
+assinatura
+eletrônica
+
+ 
+
+ 
+
+ 
+
+ 
+
+[linda
+
+    
+
+A autenticidade deste documento pode ser conferida no site http: //sei.saude.gov.br
++: /sei/controlador externo.php?acao=documento conferir&id orgao acesso externo=0, informando o
+código verificador 0018855417 e o código CRC BB27C7DB.
+
+ 
+
+ 
+
+Referência: Processo nº 25000.013008/2021-08 SEI nº 0018855417
+
+Departamento de Gestão da Educação na Saúde - DEGES
+SRTV 702, Via W5 Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
+Site - saude gov.br
+
+S of8 29/04/2021 15:22
+
