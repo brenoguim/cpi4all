@@ -185,7 +185,7 @@ res_files = []
 for t in txts:
     c = dict() 
 
-    with open(t, 'r') as txtf:
+    with open(t, 'r', encoding='utf-8', errors='ignore') as txtf:
         lines = txtf.readlines()
         c["txt"] = lines
 
