@@ -115,6 +115,10 @@ function myFunction(input) {
                  + ' <a href="' + doc["link"] + '">PDF</a> |'
             txt += '</h5>'
 
+            txt += '<h4>'
+            txt += descricoes[doc["id"]]
+            txt += '</h4>'
+
             txt += '<table style="width: 100%">\\n'
             txt += '<tbody>\\n'
             txt += linetxt
@@ -169,6 +173,7 @@ document.getElementById("status_label").innerHTML = "Arquivos carregados: " + da
 
 txts_dir = "../database/txts"
 content = []
+descricoes = dict()
 
 def get_base_id(filename):
     return int(os.path.basename(os.path.splitext(filename)[0]).split("_")[0])
@@ -198,6 +203,7 @@ for t in txts:
     with open('../database/rows/{}.json'.format(base_id)) as jfile:
         j = json.load(jfile)
         c["link"] = j["links"][int(sub_id)-1]
+        descricoes[int(base_id)] = j["descricao"]
 
     content.append(c)
 
@@ -214,9 +220,13 @@ if len(content) > 0:
         resf.write("data = data.concat({});\n".format(json.dumps(content, indent=True)))
         res_files.append(res_name)
 
+with open("descricoes.json", "w") as descf:
+    descf.write("descricoes = {};\n".format(json.dumps(descricoes, indent=True)))
+
 with open("index.html", 'w') as outf:
     outf.write(pre_index)
     for res_file in res_files:
         outf.write('<script type="text/javascript" src="./{}"></script>\n'.format(res_file))
+    outf.write('<script type="text/javascript" src="./{}"></script>\n'.format("descricoes.json"))
     outf.write(pos_index)
 

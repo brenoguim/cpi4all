@@ -81,6 +81,7 @@ Nesse projeto, baixamos esses documentos e aplicamos reconhecimento de imagem pa
 <script type="text/javascript" src="./resource18.json"></script>
 <script type="text/javascript" src="./resource19.json"></script>
 <script type="text/javascript" src="./resource20.json"></script>
+<script type="text/javascript" src="./descricoes.json"></script>
 
 <script>
 function generateDocumentLines(lines, filter, cid, visible_id) {
@@ -129,6 +130,10 @@ function myFunction(input) {
                  + 'Documento ' + doc["sub_id"] + '</a> |'
                  + ' <a href="' + doc["link"] + '">PDF</a> |'
             txt += '</h5>'
+
+            txt += '<h4>'
+            txt += descricoes[doc["id"]]
+            txt += '</h4>'
 
             txt += '<table style="width: 100%">\n'
             txt += '<tbody>\n'
